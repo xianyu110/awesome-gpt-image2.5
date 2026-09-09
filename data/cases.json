@@ -129,27 +129,30 @@
   },
   {
     "id": "2097550067213504848",
-    "title": "Art Deco 风格提示",
-    "blurb": "装饰风海报可直接抄的结构。",
+    "title": "Art Deco Base Prompt",
+    "blurb": "金线+深蓝+奶油纸，可替换 SUBJECT。",
     "author": "MrDasOnX",
     "url": "https://x.com/MrDasOnX/status/2097550067213504848",
-    "category": "Prompt"
+    "category": "Prompt",
+    "prompt": "ChatGPT Images 2.5 is on another level. It doesn’t just generate an image, it actually captures the aesthetic you’re going for.\n\nBase prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal, and antique gold. Stylized geometric forms, sharp symmetry, radiating sunburst and fan motifs, clean flat shapes with subtle paper grain. Subject: [SUBJECT]. Timeless luxury graphic design, no photorealism, no 3D, no modern clothing or gadgets, museum-quality print look."
   },
   {
     "id": "2097548765389258913",
-    "title": "美妆人像提示",
-    "blurb": "肖像光感与肤质向，适合电商主图试水。",
+    "title": "晶莹剔透美人像完整 prompt",
+    "blurb": "比例约束很死的美妆竖版肖像。",
     "author": "johnAGI168",
     "url": "https://x.com/johnAGI168/status/2097548765389258913",
-    "category": "Prompt"
+    "category": "Prompt",
+    "prompt": "ChatGPT Images 2.5  晶莹剔透的人物质感🎨\n\nprompt 👇\n\n A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80 percent of the frame, photographed from slightly above eye level, with the composition extending from the top of her hair to her covered lap.\n\nShe has a very small heart-shaped face with a narrow lower face, a softly tapered jawline, a short delicate chin, smooth understated cheekbones, a compact midface, and refined symmetrical features. Her eyes are exceptionally large, luminous, and slightly wide-set, with a rounded almond shape, pale gray-green irises, dark defined upper lash lines, softly extended outer eyeliner, fine lower lashes, and bright glassy catchlights. Her eyebrows are slim, softly arched, and light ash brown. She has a small straight nose with a narrow bridge and petite rounded tip. Her lips are small, softly full, and rose-pink, with a subtle relaxed closed-mouth smile.\n\nHer complexion is pale warm ivory with a perfectly even, softly luminous beauty finish, delicate pink blush concentrated on the upper cheeks, and a smooth porcelain appearance. Her expression is gentle, dreamy, composed, and slightly playful. The facial proportions remain petite and delicate rather than angular or strongly sculpted.\n\nHer hair is a shoulder-length platinum-blonde layered lob. The longest strands stop precisely at the collarbones. It has a deep side part, high soft volume at the crown, a broad swept section flowing across the forehead, champagne-blonde highlights on the upper layers, and cool smoky ash-gray undertones through the lower layers and feathered ends. One side rests over her shoulder while the opposite side fans outward through her raised hand. Silky straight texture, lightweight separated strands, softly curved ends, and gentle natural movement.\n\nShe has a slim, narrow-framed physique with a long graceful neck, gently sloping shoulders, slender arms, a compact torso, a narrow waist, and balanced feminine proportions.\n\nShe wears a vivid raspberry-red cropped camisole with a soft lightweight silhouette. The camisole has thin shoulder straps tied into neat ribbon bows, a low curved neckline edged with delicate lace, subtle floral lace across the center of the bust, a semi-transparent fine-mesh lower bodice, gentle ruching at the center, and several long raspberry drawstrings hanging vertically from a small front bow. The garment appears softly fitted and flexible rather than rigidly structured.\n\nA high-waisted deep peacock-blue satin maxi skirt begins at her waist. The fabric has rich teal-blue highlights, smooth reflective folds, and a fluid drape. The long skirt flows continuously across her lap and completely covers her crossed legs.\n\nShe wears long ornate gold dangling earrings, a translucent pale-gray jade bangle, a dark red bead bracelet, a thin black elastic bracelet, and delicate metallic rings. A tiny metallic navel piercing is visible between the cropped top and the high-waisted skirt.\n\nRecreate the pose precisely: she sits upright on the pale stone pool ledge with her torso facing almost directly toward the camera. Her shoulders remain relaxed. Her head tilts noticeably toward camera-left while her eyes look directly into the lens. The arm on camera-left crosses diagonally downward over her torso and rests softly across her covered lap. The arm on camera-right bends upward beside her shoulder; the wrist is relaxed and the fingertips lightly hold the ends of her outward-flowing hair. Her fingers are slender and naturally curved.\n\nA clean modern indoor pool café forms the background. Mint-green illuminated water fills most of the middle background. A simple pale natural-wood counter spans the upper portion of the frame, with only a few softly blurred metallic drink containers, white vessels, stacked cups, and minimal dark café equipment. Plain warm-beige wall, uncluttered surfaces, no visible signage, no decorative writing, and no prominent background people. The background remains quiet, softly blurred, and secondary to the woman.\n\nSoft frontal beauty lighting with gentle warm indoor illumination and a faint mint-green reflection from the pool. Bright, evenly exposed face, very soft shadow transitions, luminous eyes, delicate highlights along the pale hair, and restrained reflections on the satin skirt. Clean smartphone beauty-camera aesthetic with a subtle smoothing effect, gentle pastel color rendering, low contrast, and softly glowing skin.\n\nVertical 9:16 social-media portrait, slight high-angle viewpoint, medium portrait framing, natural 50mm-equivalent perspective, face positioned near the upper center, raised hand fully visible on camera-right, covered lap visible in the lower frame, moderate background separation, sharpest focus on the eyes and face.\n\nHigh-fidelity photographic beauty portrait. Smooth luminous skin with extremely fine natural texture, subtle peach fuzz, gentle subsurface light on the cheeks and nose, and an even porcelain finish. Hair rendered as fine individual platinum and ash-gray strands with realistic transparency and soft movement. Fine mesh, lace, ribbons, jewelry, and satin rendered with accurate material detail. Realistic eyes with moist reflections and clear gray-green iris patterns. Accurate petite facial anatomy, slender hands, natural fingers, slim body proportions, soft fine grain, neutral-warm highlights, lightly cooled shadows, lifelike photography with the refined softness of a high-quality beauty-filtered social-media portrait."
   },
   {
     "id": "2097564822984626347",
-    "title": "Leaf Dancer 9:16",
-    "blurb": "竖版社交封面构图，可直接改主体。",
+    "title": "Leaf Dancer 纸艺叶裙 9:16",
+    "blurb": "植物纸艺舞女竖版，完整一句 prompt。",
     "author": "unrealpixels",
     "url": "https://x.com/unrealpixels/status/2097564822984626347",
-    "category": "Prompt"
+    "category": "Prompt",
+    "prompt": "Leaf Dancer Beneath a Paper Parasol | GPT Image 2.5\n\nPrompt: A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves with delicate veins and tiny ivory blossoms. The full parasol occupies the upper right and the sweeping leaf train flows to the lower left, framed with breathing room. Soft directional light reveals raised paper edges and delicate contact shadows."
   },
   {
     "id": "2097586179835400667",
@@ -177,11 +180,12 @@
   },
   {
     "id": "2097641872068063436",
-    "title": "Flare 4:5 赛车海报",
-    "blurb": "竖版竞速海报，Flare 赶量也能压住动态。",
+    "title": "Flare 赛车黄 Porsche 4:5 海报",
+    "blurb": "MageSpace Flare 竖版社媒海报，结构分明可抄。",
     "author": "Diplomeme",
     "url": "https://x.com/Diplomeme/status/2097641872068063436",
-    "category": "Prompt"
+    "category": "Prompt",
+    "prompt": "GPT image 2.5 Flare on @MageSpace_ \n\nThis new version looks more detailed and has better prompt understanding. \n\nTry it with prompt : 4:5 vertical social poster, ultra high resolution, 8K\n\nSCENE / BACKGROUND:\nFlat racing yellow with subtle gradient (light → deep amber)\nGrain texture 2–3%\nSoft rectangular overlays at 3% opacity\n\nPRODUCT:\nPorsche 911 GT3 RS\nGloss yellow with carbon details\nRear 3/4 angle, slightly elevated\nWing dominant\n\nPosition:\nRight of center\n\nTYPOGRAPHY:\n“PORSCHE”\nUltra tall, condensed, stretched\nDeep charcoal\n\nSecondary:\n“PORSCHE 911 GT3 RS”\n\nEDITORIAL:\n“Porsche — Where Precision Meets Passion”\n\nFocus:\nengineering, obsession, track DNA\n\nFADED TEXT:\n“GT3 RS” at 3–5%\n\nSPECS:\n386 kW / 525 PS\n3.2 s\n296 km/h\n\nLIGHTING:\nClean studio, sharp highlights\n\nMOOD:\nPrecision.\nIconic.\nTimeless performance."
   },
   {
     "id": "2097620275940737326",
@@ -293,6 +297,91 @@
     "blurb": "生成等待时的交互彩蛋，产品体验向笔记。",
     "author": "EchoraContinuum",
     "url": "https://x.com/EchoraContinuum/status/2097625779509379502",
+    "category": "UX产品"
+  },
+  {
+    "id": "2097652659788619894",
+    "title": "创意设计公司中文官网 9:16 长截图",
+    "blurb": "见造官网视觉：导航到页脚完整中文界面，几何拼贴+人像。",
+    "author": "listudio",
+    "url": "https://x.com/listudio/status/2097652659788619894",
+    "category": "Prompt",
+    "prompt": "#AIArt #AIgirl\nPrompt  ➡️ http://genvizu.com. \nGPT Image 2.5 is insane！\n----\n提示语· prompt ⬇️\n\n请使用网页版当前最新的 GPT Image 2.5 生图能力直接生成图片，不要仅返回提示词。\n\n生成一张完整的创意设计公司中文官网视觉设计图，正面平视、无透视的桌面网页长截图，9:16 竖幅，尽可能高分辨率，完整显示从导航到页脚。白底，钴蓝、明黄、珊瑚红和浅天蓝配色，细窄留白、整齐网格、直角卡片、大胆斜切几何拼贴。整体年轻、明快、有设计实验感。\n\n顶部为纤细白色导航栏，左侧原创中文粗体字标“见造”，小标语“以创意，让世界更有趣”。右侧导航依次为“关于我们、创意服务、精选作品、加入我们、最新动态”，最右是蓝色“联系我们 →”按钮。\n\n首屏占全图约 27%，左侧以非常醒目的钴蓝粗黑体排两行“让有趣，”“改变世界。”，左下小字“以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。”右侧是一名明确成年的 20 岁中国女性，黑色齐肩发被微风吹动，自然淡妆，真实皮肤，微仰头望向右上方。穿钴蓝棉麻立领短袖上衣，简洁斜襟与少量同色盘扣，合身但不紧绷。人物与蓝色立方体、黄色球体、珊瑚红圆环、白色几何台座组合，背景浅蓝天空，明亮自然日光，材质和投影可信。\n\n首屏下方白色理念横栏占约 8%，左侧小字“我们的理念”，中间黑色粗标题“用创意，为社会留出想象。”，右侧正文“我们相信，好的设计不止解决问题，也让人与世界产生新的连接。”及“了解见造 →”。\n\n服务区占约 16%，左侧窄栏标题“创意服务”、简短介绍和“查看全部服务 →”；右侧三张等宽卡片：蓝底卡片以手持灯泡摄影配“品牌创意”，黄底卡片以彩色几何积木配“传播设计”，珊瑚红底卡片以打开的笔记本电脑配“数字体验”。每张卡片下方有两行简短中文介绍和右箭头。\n\n作品区占约 17%，左侧标题“精选作品”和“查看全部作品 →”，右侧四列平面作品缩略图，分别为有彩色颜料点缀的 20 岁中国女性肖像海报、城市几何装置海报、蓝白红编辑设计、山野艺术装置海报。四个项目名称依次为“自在生长”“城市游乐场”“灵感发生地”“山野之间”，缩略图中的可见文字也全部使用中文。\n\n招聘区占约 18%，整幅钴蓝横栏，左侧白色大标题“和有趣的人，一起创造新风景。”，正文“让热爱成为日常，让灵感自由生长。”及白底按钮“查看开放职位 →”。右侧三名明确成年的 20 岁中国女性坐在黄色与珊瑚红几何台阶上自然交流，分别穿蓝色立领上衣、米白棉麻衬衫、浅黄色简约针织上衣，搭配宽松长裤与干净平底鞋，黑色长发或齐肩短发，自然淡妆，青春、自信、亲切，非古装、非职业套装、无夸张饰品。\n\n下方约 6% 为白底“最新动态”栏，三行消息为“2026.09.09 见造全新品牌网站正式上线”“2026.09.08 城市游乐场创意计划发布”“2026.09.01 秋季创意伙伴招募开启”。最后约 8% 为简洁页脚，中文“见造”、导航和“© 2026 见造创意。保留所有权利。”，留出舒适下边距。所有界面文案为可读、准确的简体中文，标题与正文层级鲜明。无日文、无乱码、无第三方标志、无水印、无浏览器边框、无设备外壳。输出一张完整网页设计图。\n\n----\nMore Prompt  ➡️ http://genvizu.com."
+  },
+  {
+    "id": "2097653761569423653",
+    "title": "可互换长文衣装 Prompt 包",
+    "blurb": "Images 2.5 长文衣装再现性提升；PROTECTED WARDROBE RULE 模块化服装。",
+    "author": "MoodLock_JP",
+    "url": "https://x.com/MoodLock_JP/status/2097653761569423653",
+    "category": "Prompt",
+    "prompt": "【お洒落カッコイイ🖤】\n\nImages 2.5のおかげで長文衣装プロンプトでも再現性が格段に上がった\n\nカテゴリごとに交換可能な衣装プロンプトを配布中✨ \n生成環境：ChatGPT Images 2.5\n\n#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #プロンプト\n\nPROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.\n\nWardrobe:\n\nOuterwear / layers:\n\nA waist-length hooded jacket with a roomy, softly rounded body and full-length voluminous sleeves, made in dense chestnut-blue gray faux fur. The lustrous pile forms small irregular swirls and rippling tufts, with slate gray depths between warmer blue gray fiber tips. A generous attached hood has a thick fur-covered rim and a center-back seam. A two-way silver-tone zipper closes the full front, while smooth blue gray lining covers the interior and hood. Blue gray rib-knit cuffs and a broad matching waistband draw in the plush shell; concealed side-seam pockets and a matching fur back complete the jacket.\n\nFinal worn state:\n- Layering: Final state: keep this garment the complete outer layer over the selected Top item; open only its original center-front fastening run within existing endpoints. Preserve source neckline, collar, front/rear panels, selected shoulder, sleeve, and body positions, plus fastening inventory, receiver mapping, order, spacing, endpoints, and placket length; add, remove, move, or extend nothing. FINAL FASTENING STATE: change only the source-registered primary closure mechanism inside its exact original endpoints. Preserve that mechanism, all original parts, its source length, and the garment construction beyond both endpoints; do not reinterpret a seam, fold, rib, placket, or panel edge as an extension, and add, duplicate, remove, or relocate nothing. Only layer order, contact, occlusion, and optical transmission change. Every visible garment boundary follows the outer item's source geometry or separately selected fold-return line; inner contours remain optically behind it. Keep panel contact shallow. Relaxed handling within this same operation: Use light stable contact and broader material-correct ease without changing the selected layer order.\n\nTop: A fitted black cardigan ending at the high hip, in fine, lightweight vertical rib knit with narrow semi-sheer channels between the ribs. Short fitted set-in sleeves and a matching ribbed back continue the close silhouette. A deep rounded V-neckline is framed by broad black floral lace, which continues down both edges of the full button front to the lower hem. Large flower heads, curling leaves and fine mesh fill the lace bands, with delicate eyelash loops extending from their free edges. Small black four-hole buttons close the front, and a narrow knitted hem finishes the body and sleeves.\n\nUpper-body innerwear: A simple black stretch-jersey bandeau with a broad opaque band covering the bust, a gently curved upper edge and a straight lower edge ending above the waist. Soft matte fabric, discreet enclosed elastic along both edges and smooth side seams create a close, flexible fit, with a continuous plain back and no straps or visible hardware.\n\nBottom: A pair of full-length flared jeans in washed charcoal-black denim, with a low-to-mid-rise waist, fitted hips and thighs, and legs that narrow toward the knees before widening into broad bootcut hems. Soft gray fading runs over the front hips and thighs, with subtle whiskering beneath the waistband and fine vertical denim grain throughout. Muted tan-gray double topstitching defines the curved front pockets, coin pocket, fly and seams. Belt loops, a button-and-zip closure, a rear yoke, two plain rear patch pockets and flat stitched hems complete the five-pocket construction.\n\nFootwear: A pair of black patent-leather shoes with long tapered toes ending in short squared tips, low side quarters and enclosed heels. Two separate glossy straps cross each open instep on a slight diagonal, each threaded through a silver-tone rectangular buckle on the outer side and punctuated by large round silver eyelets. The smooth pointed toe panels and patent side sections frame the open areas beneath and between the straps. Dark lining, slim black rubber soles with a lightly projecting beveled edge and low block heels complete the pair.\n\nBag:\n\nA low, elongated shoulder bag in deep wine-brown leather with a glossy finish, subtle tonal variation and soft natural creasing. The supple body has gently rounded lower corners, shallow side and base gussets, piped perimeter seams and raised ends flanking a softly concave top opening. A fine gold-tone zipper follows the curved upper edge. One narrow matching leather shoulder strap has stitched edges, a small adjustment buckle and gold-tone circular rings with swivel-snap attachments at the bag ends. The rear is plain matching leather, and dark wine-colored textile lines the interior.\n\nFinal worn state:\nVIEW-CONDITIONAL BODY-SIDE MAP: front view — wearer-left is image-right and wearer-right is image-left; back view — wearer-left is image-left and wearer-right is image-right. In profiles, crossed limbs, or ambiguity, trace the named anatomical side continuously from its corresponding shoulder, hip, eye, or ear landmark as applicable. Apply the state only to the named anatomical side; never mirror, swap, or duplicate it.\n- Bag carry: Final state: the registered short strap bears weight from the wearer-left shoulder; the bag top sits directly beneath the wearer-left armpit against the wearer-left side torso. Both hands stay off; support never moves to the wearer-left forearm, elbow, wrist, or hand. Keep registered supports and components connected; allow contact and gravity-led ease only along the selected route. Natural handling within this same operation: Keep the selected support point exact while allowing limited natural contact variation and one small gravity-led angle.\n\nBelt:\n\nA broad black leather belt with a smooth, softly lustrous surface and clean edges, fastened by an oversized polished silver-tone buckle. The buckle forms an asymmetric swept D-shaped frame: a thick, rounded crescent broadens along the outer curve, with a second flowing ridge following its contour and tapering toward the strap attachment. A silver prong crosses the dark central opening to engage the belt holes. A matching black keeper and a rounded strap end complete the adjustable belt.\n\nFinal worn state:\n- Belt placement: Place the complete belt horizontally around the outside of the selected Bottom item at the wearer's anatomical natural waist. Do not move it to the hips or ribcage; preserve the separately selected routing, buckle position, and tail treatment. Keep the selected position and fastening state; change only contact pressure and physically available ease. Natural handling within this same operation: Keep the registered fastening secure and use light stable contact with a small amount of material-correct ease distributed around the complete belt circuit.\n- Buckle position: Center the single existing buckle on the wearer's anatomical front midline and fasten it using only its registered closure mechanism. For a frame-and-prong buckle only, pass the existing prong through exactly one existing hole and seat the strap against the frame; for a ratchet, clasp, plate, or automatic buckle, engage only its registered mechanism. Do not invent a hole, prong, or closure part, and preserve the separately selected height, routing, and tail treatment.\n\nEyewear:\n\nA pair of slim black sunglasses with low, horizontally elongated rectangular lenses, softly rounded corners and a subtle lift at the outer edges. Glossy full rims surround smoky gray-brown lenses, joined by a narrow molded bridge with integral nose rests. The gently curved front connects through small hinges to slender tapered black temples with inward-curving ear tips. The frame is smooth and unornamented.\n\nFinal worn state:\n- Eyewear placement: Final state: rest the open registered eyewear on the outer surface of the hair at the crown like a headband, with both lenses level and facing forward, the bridge centered on the head midline, and both temple arms open along the sides of the head. Do not place the eyewear on the face, neckline, chest, or garment.\n\nNecklace: A delicate silver-tone necklace with a fine short chain and a compact openwork \"Lune\" pendant, with a tall serif L at the left and smaller joined lowercase u, n and e stepping gently across its lower half; the polished silver strokes merge at their contacts while preserving open letter interiors. Small connections at the ornament's opposite upper sides suspend it centrally, with a smooth flat reverse and clean polished edges. The chain closes behind the neck with a small lobster clasp and a short matching extension chain.\n\nNavel piercing:\n\nA silver-tone curved navel barbell with two clear round stones set vertically, a small upper stone and a larger lower stone. Smooth polished rims surround the faceted stones, joined by a short gently curved metal bar. A discreet screw-on upper terminal and rounded setting backs complete the piercing.\n\nFinal worn state:\n- Piercing count and arrangement: Wear the navel piercing in a floating placement through the upper fold, keeping the flat inner end inside the hollow and only the outer decoration visible."
+  },
+  {
+    "id": "2097651231569399814",
+    "title": "等距国家微缩模型 diorama（可换国家）",
+    "blurb": "2.5 vs 2 对照；回复里给出完整 isometric prompt。",
+    "author": "abxxai",
+    "url": "https://x.com/abxxai/status/2097651231569399814",
+    "category": "选型评测",
+    "prompt": "Prompt and images credits @TechieBySA\n\nSimply replace [COUNTRY]:✨\n\n“Ultra-detailed photorealistic isometric miniature scale-model diorama of [COUNTRY], floating on a pure off-white studio background with a soft drop shadow beneath. The diorama takes the exact real-world silhouette shape of the country — not a square tile, but the true precise geographic outline of the country's borders and coastline, extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges, like a chunk of the real land physically cut out and lifted. The shape of the slab matches the country's actual geography precisely, including any islands, peninsulas or coastline indentations.\n\nThe entire top surface faithfully recreates the country's real geography and terrain: mountain ranges with correct elevation and snow coverage, rivers in their real positions, major forests and plains, deserts, coastlines with beaches and cliffs. Every major city is visible as a dense urban cluster in its correct geographic position. The country's most iconic landmarks are rendered in accurate positions and to recognizable scale. Terrain elevation is fully physically modeled — mountain ranges rise dramatically, valleys are sunken, plains are flat, creating real varied 3D topography across the entire surface.\n\nDense micro-detail: individual buildings in city clusters, tiny roads and highways connecting settlements, railways, bridges, harbors with boats, agricultural field patterns in rural areas, individual trees and forest coverage. Every region has its correct landscape character — the terrain of the north looks different from the south.\n\nStyle: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus across the whole surface, no blur. Soft warm daylight from above, gentle diffuse shadows, rich natural colors. Lush greens, snow-capped peaks, golden plains, deep blue water along the coastline.\n\nLayout: the shaped diorama floats centered in the lower two-thirds of the frame with clear margins on all sides, never touching the frame edges. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the continent or region name at the very top, then directly below [COUNTRY] in a bold condensed sans-serif in medium charcoal grey — large and dominant, the biggest text element — with a small flat rectangular flag of [COUNTRY] sitting immediately to the right of the country name, vertically centered with it, accurately colored and proportioned, clean flat design, sized to roughly the cap-height of the country name, floating naturally beside the name as one cohesive unit, not pushed to the far edge but sitting close and attached to the right end of the country name text. Then small wide-tracked caps below with the capital city and population.\n\nMinimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”"
+  },
+  {
+    "id": "2097648993388093656",
+    "title": "Sketch 画框做封面布局",
+    "blurb": "少跟模型解释构图：@Sketch 标标题/人物/产品位置。",
+    "author": "tokenai888",
+    "url": "https://x.com/tokenai888/status/2097648993388093656",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097648721874096507",
+    "title": "同一角色 8 looks × 8 environments",
+    "blurb": "一致性压力测试：一角色多造型多场景。",
+    "author": "trendyvers",
+    "url": "https://x.com/trendyvers/status/2097648721874096507",
+    "category": "编辑一致性"
+  },
+  {
+    "id": "2097652949560480117",
+    "title": "马克杯局部改色/改价：编辑精度实测",
+    "blurb": "Web 版连续编辑 vs Image-2，附文章。",
+    "author": "taku41477996",
+    "url": "https://x.com/taku41477996/status/2097652949560480117",
+    "category": "编辑一致性"
+  },
+  {
+    "id": "2097650763174391836",
+    "title": "鼠标手绘 Sketch 也能懂",
+    "blurb": "Sketch 容错示范。",
+    "author": "MathisYanis",
+    "url": "https://x.com/MathisYanis/status/2097650763174391836",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097651464093282720",
+    "title": "Pinterest → /detailed-image-2-text-prompt",
+    "blurb": "参考图反推提示词流程。",
+    "author": "sven_ai",
+    "url": "https://x.com/sven_ai/status/2097651464093282720",
+    "category": "Prompt",
+    "prompt": "/detailed-image-2-text-prompt"
+  },
+  {
+    "id": "2097656994937319531",
+    "title": "高腰破洞烟管牛仔裤衣装 prompt",
+    "blurb": "日文社区可改衣装模板片段。",
+    "author": "sumeshino_moto",
+    "url": "https://x.com/sumeshino_moto/status/2097656994937319531",
+    "category": "Prompt",
+    "prompt": "【衣装プロンプト】例のデニムが出るかもしれないぴたぴたハイウエストデニムのコ〜デです\n\n改変◎\n\nfull body,\n(high waisted gray distressed jeans:1.3),\n(figure hugging jeans:1.2),\nhip-hugging, thigh-hugging,\nfitted from waist to knees,\nslim flare jeans, flared from the knees,\nlarge thigh cutouts, ripped denim,\n(oversized unisex off-shoulder top:1.25),\n(premium streetwear sweatshirt:1.2),\nclean drape, wide neckline, one shoulder exposed,\ndrop shoulder, long loose sleeves,\nribbed cuffs, clean hem,\n(chunky black platform sneakers:1.3),\n(thick platform sole:1.25),\nlace-up sneakers, oversized sole,"
+  },
+  {
+    "id": "2097656459584831885",
+    "title": "把收尾提示词命名成自定义指令",
+    "blurb": "抑制噪点/收尾套路存成名字，下次只加名字。",
+    "author": "sktGT1016",
+    "url": "https://x.com/sktGT1016/status/2097656459584831885",
     "category": "UX产品"
   }
 ]

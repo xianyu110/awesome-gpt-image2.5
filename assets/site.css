@@ -590,3 +590,48 @@ img { max-width: 100%; display: block; }
   pointer-events: none;
 }
 .toast.is-show { transform: translateX(-50%) translateY(0); }
+
+.card-prompt {
+  margin-top: 0.15rem;
+  padding: 0.55rem 0.65rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid rgba(232, 121, 249, 0.22);
+  background: rgba(232, 121, 249, 0.06);
+}
+.card-prompt-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--magenta);
+  margin-bottom: 0.25rem;
+}
+.card-prompt-preview {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.72rem;
+  line-height: 1.45;
+  color: #cbd5e1;
+  max-height: 4.6em;
+  overflow: hidden;
+}
+.cta-prompt {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.35rem 0.7rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid rgba(232, 121, 249, 0.45);
+  background: var(--magenta-dim);
+  color: #f5d0fe;
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  transition: filter 0.15s;
+}
+.cta-prompt:hover { filter: brightness(1.12); }
+.card-actions { flex-wrap: wrap; justify-content: flex-end; }

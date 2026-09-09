@@ -38,7 +38,7 @@
     return cases.filter((item) => {
       if (category !== "全部" && item.category !== category) return false;
       if (!q) return true;
-      const hay = `${item.title} ${item.blurb} ${item.author} ${item.category}`.toLowerCase();
+      const hay = `${item.title} ${item.blurb} ${item.author} ${item.category} ${item.prompt || ''}`.toLowerCase();
       return hay.includes(q);
     });
   }
@@ -55,7 +55,23 @@
     return map[cat] || "🖼";
   }
 
+  function truncatePrompt(s, max) {
+    const t = String(s || "").replace(/\s+/g, " ").trim();
+    if (t.length <= max) return t;
+    return t.slice(0, max).trimEnd() + "…";
+  }
+
   function cardHTML(item) {
+    const hasPrompt = !!(item.prompt && String(item.prompt).trim());
+    const promptBlock = hasPrompt
+      ? `<div class="card-prompt">
+    <div class="card-prompt-label">提示词</div>
+    <pre class="card-prompt-preview">${escapeHtml(truncatePrompt(item.prompt, 160))}</pre>
+  </div>`
+      : "";
+    const promptBtn = hasPrompt
+      ? `<button type="button" class="cta-prompt" data-copy-prompt="${escapeAttr(item.id)}" title="复制提示词">复制提示词</button>`
+      : "";
     return `
 <article class="card" data-id="${item.id}" data-category="${item.category}">
   <div class="card-media">
@@ -69,10 +85,12 @@
   <div class="card-body">
     <h3 class="card-title">${escapeHtml(item.title)}</h3>
     <p class="card-blurb">${escapeHtml(item.blurb)}</p>
+    ${promptBlock}
     <div class="card-meta">
       <span class="author">${escapeHtml(item.author)}</span>
       <div class="card-actions">
         <button type="button" class="icon-btn" data-copy="${escapeAttr(item.url)}" title="复制链接" aria-label="复制链接">⧉</button>
+        ${promptBtn}
         <a class="cta-link" href="${escapeAttr(item.url)}" target="_blank" rel="noopener noreferrer">查看原帖 ↗</a>
       </div>
     </div>
@@ -105,6 +123,23 @@
         try {
           await navigator.clipboard.writeText(url);
           showToast("已复制原帖链接");
+        } catch {
+          showToast("复制失败，请手动复制");
+        }
+      });
+    });
+    grid.querySelectorAll("[data-copy-prompt]").forEach((btn) => {
+      btn.addEventListener("click", async () => {
+        const id = btn.getAttribute("data-copy-prompt");
+        const item = cases.find((c) => c.id === id);
+        const text = item && item.prompt ? String(item.prompt) : "";
+        if (!text) {
+          showToast("该条目暂无提示词");
+          return;
+        }
+        try {
+          await navigator.clipboard.writeText(text);
+          showToast("已复制提示词");
         } catch {
           showToast("复制失败，请手动复制");
         }
