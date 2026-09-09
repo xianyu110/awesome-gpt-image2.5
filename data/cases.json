@@ -383,5 +383,46 @@
     "author": "sktGT1016",
     "url": "https://x.com/sktGT1016/status/2097656459584831885",
     "category": "UX产品"
+  },
+  {
+    "id": "2097669038973284576",
+    "title": "4K +「多写细节」噪点踩坑",
+    "blurb": "4K 加细节指令时 Sunburst/Flare（尤其 Flare）会出现 2.0 低分那种糊噪；落到 2K 才干净。",
+    "author": "TestAI_WORKS",
+    "url": "https://x.com/TestAI_WORKS/status/2097669038973284576",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097668754863779900",
+    "title": "Sunburst High / Med / Low 同 prompt",
+    "blurb": "API 三档画质对照：2.5 的 Medium/Low 仍扎实，选档=控成本。",
+    "author": "WolfRiccardo",
+    "url": "https://x.com/WolfRiccardo/status/2097668754863779900",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097668790809165918",
+    "title": "同图四阶梯子：Banana → 2 → Sunburst → Flare",
+    "blurb": "原图 Nano Banana Pro 一路爬到 2.5，对外讲「换模型收益」很直观。",
+    "author": "CHAO2U_AI",
+    "url": "https://x.com/CHAO2U_AI/status/2097668790809165918",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097666767174672871",
+    "title": "竖三栏海报构图",
+    "blurb": "Images 2.5 竖三栏：图像/文物/声音/空间各占一栏，主体与线条串栏；活动海报、品牌视觉可抄结构。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2097666767174672871",
+    "category": "Prompt"
+  },
+  {
+    "id": "2097660049921659014",
+    "title": "定点改图：修图师 briefing 模板",
+    "blurb": "专治「改一处整图重画」：只改指定处、保脸/Logo/文字；营销改细节最省事。",
+    "author": "alex_prompter",
+    "url": "https://x.com/alex_prompter/status/2097660049921659014",
+    "category": "编辑一致性",
+    "prompt": "You are my retoucher using ChatGPT Images 2.5.\n\nThe photo: [what it is and who's in it]\nThe one change I want: [describe it]\nWhat must not change: [faces, logo, background, text, anything]\n\nBefore generating, restate the change in one line and list what you'll leave untouched. Then make the edit.\n\nThen give me:\n\nThe edited image\nWhat you changed, one line\nWhat you kept, one line\nThe exact prompt to paste next time for the same edit on a different photo\n\nRules: one change per turn, never regenerate the whole image when I asked for a part, and if the change would alter a face, a logo, or text, stop and ask first."
   }
 ]
