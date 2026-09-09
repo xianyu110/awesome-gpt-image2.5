@@ -1,5 +1,5 @@
 (() => {
-  const CATEGORIES = ["全部", "选型评测", "Sketch", "Prompt", "编辑一致性", "像素动效", "UX产品"];
+  const CATEGORIES = ["全部", "选型评测", "Sketch", "海报排版", "人像角色", "电商改图", "场景视觉", "像素动效", "UX产品"];
   const grid = document.getElementById("grid");
   const chipsEl = document.getElementById("chips");
   const searchEl = document.getElementById("search");
@@ -47,8 +47,10 @@
     const map = {
       选型评测: "⚡",
       Sketch: "✏️",
-      Prompt: "✨",
-      编辑一致性: "🎯",
+      海报排版: "🖼",
+      人像角色: "👤",
+      电商改图: "🛒",
+      场景视觉: "🏞",
       像素动效: "👾",
       UX产品: "🧭",
     };
