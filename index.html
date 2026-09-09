@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Awesome GPT Image 2.5 · 玩法画廊 · MaynorAI</title>
+  <meta name="description" content="ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法画廊：选型评测、Sketch 工作流、可抄 Prompt、编辑一致性与像素动效。" />
+  <meta name="theme-color" content="#070b14" />
+  <link rel="canonical" href="https://xianyu110.github.io/awesome-gpt-image2.5/" />
+  <meta property="og:title" content="Awesome GPT Image 2.5 · 玩法画廊" />
+  <meta property="og:description" content="从社区爆款玩法，到可抄工作流。Flare / Sunburst / Sketch 精选索引。" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://xianyu110.github.io/awesome-gpt-image2.5/" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="stylesheet" href="./assets/site.css" />
+</head>
+<body>
+  <div class="bg-grid" aria-hidden="true"></div>
+  <div class="bg-glow bg-glow--a" aria-hidden="true"></div>
+  <div class="bg-glow bg-glow--b" aria-hidden="true"></div>
+
+  <header class="nav">
+    <div class="wrap nav-inner">
+      <a class="brand" href="./">
+        <span class="brand-mark" aria-hidden="true">✦</span>
+        GPT Image 2.5 Gallery
+      </a>
+      <nav class="nav-links" aria-label="主导航">
+        <a href="#gallery">案例</a>
+        <a href="https://github.com/xianyu110/awesome-gpt-image2.5#readme">README</a>
+        <a href="https://xianyu110.github.io/GPT6/">GPT6 指南</a>
+        <a href="https://github.com/xianyu110/awesome-gpt-6-astra">Astra</a>
+        <a href="https://github.com/xianyu110/awesome-gpt-image2.5">GitHub</a>
+      </nav>
+      <a class="nav-cta" href="https://github.com/xianyu110/awesome-gpt-image2.5" target="_blank" rel="noopener noreferrer">Star 仓库</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div>
+          <div class="eyebrow"><span aria-hidden="true">✦</span> 实时 GPT Image 2.5 玩法画廊</div>
+          <h1>从社区爆款玩法，<br />到可抄工作流。</h1>
+          <p class="hero-sub">
+            精选 ChatGPT Images 2.5（Flare · Sunburst）公开玩法：选型评测、Sketch 控形、可抄 Prompt、多轮编辑一致性与像素动效——每条附 X 原帖，偏一人团队与营销素材。
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#gallery">浏览案例 →</a>
+            <a class="btn btn-ghost" href="https://github.com/xianyu110/awesome-gpt-image2.5#readme" target="_blank" rel="noopener noreferrer">GitHub README</a>
+            <a class="btn btn-magenta" href="https://xianyu110.github.io/GPT6/" target="_blank" rel="noopener noreferrer">国内指南</a>
+          </div>
+          <div class="stats" aria-label="统计">
+            <div class="stat"><span id="stat-cases">37</span> 案例</div>
+            <div class="stat"><span>6</span> 分类</div>
+            <div class="stat">Flare / Sunburst</div>
+          </div>
+        </div>
+        <div class="hero-visual" aria-hidden="true">
+          <div class="collage">
+            <div class="collage-card"><div class="collage-icon">⚡</div><span>选型评测</span></div>
+            <div class="collage-card"><div class="collage-icon">✏️</div><span>Sketch</span></div>
+            <div class="collage-card"><div class="collage-icon">✨</div><span>Prompt</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="wrap">
+      <div class="tip">
+        <strong>Flare / Sunburst 速记：</strong>
+        Flare 快、便宜、适合赶量原型与社媒试错；Sunburst 更慢一点、质量更高，适合抠细节、文字排版与最终成稿。Images 2.5 ≠ Images 2.0。
+      </div>
+    </div>
+
+    <section class="wrap" id="gallery">
+      <div class="gallery-head">
+        <div>
+          <h2>社区爆款玩法，一键跳转原帖。</h2>
+          <p>按分类筛选或搜索标题 / 摘要 / 作者；预览图在可用时从公开状态接口懒加载。</p>
+        </div>
+        <div class="match-count" id="match-count">加载中…</div>
+      </div>
+
+      <div class="toolbar">
+        <div class="chips" id="chips" role="toolbar" aria-label="分类筛选"></div>
+        <div class="search">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="search" type="search" placeholder="搜索标题、摘要、作者…" autocomplete="off" />
+        </div>
+      </div>
+
+      <div class="grid" id="grid" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <div class="footer-brand">
+        <strong>MaynorAI</strong> · Awesome GPT Image 2.5<br />
+        索引文本 MIT；原帖与图片版权归各自作者。
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/xianyu110/awesome-gpt-image2.5#readme">README</a>
+        <a href="https://github.com/xianyu110/awesome-gpt-6-astra">awesome-gpt-6-astra</a>
+        <a href="https://xianyu110.github.io/GPT6/">GPT6 指南</a>
+        <a href="https://github.com/xianyu110/awesome-gpt-image2.5">GitHub 仓库</a>
+      </div>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="./assets/site.js" defer></script>
+</body>
+</html>
