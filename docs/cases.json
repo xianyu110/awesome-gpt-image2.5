@@ -894,5 +894,165 @@
     "author": "morphedai",
     "url": "https://x.com/morphedai/status/2097928056178667694",
     "category": "选型评测"
+  },
+  {
+    "id": "2097987154890944892",
+    "title": "Sketch/Doodle 完整 walkthrough：草图只锁构图",
+    "blurb": "从涂鸦到成片的完整步骤：草图只负责构图骨架，风格后置。不会画画也能控形出片。",
+    "author": "atlas_remake",
+    "url": "https://x.com/atlas_remake/status/2097987154890944892",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097989282116042813",
+    "title": "日文实务：Flare/Sunburst 同价 API 差分",
+    "blurb": "同价位下 Flare vs Sunburst 差分写清楚。报价/选型别再靠「感觉贵一点就更好」。",
+    "author": "rsensui",
+    "url": "https://x.com/rsensui/status/2097989282116042813",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097978468642480487",
+    "title": "Apple 级手机海报，可复制 prompt",
+    "blurb": "产品海报直出，prompt 可抄。做数码/3C 种草封面时省半小时磨词。",
+    "author": "Diplomeme",
+    "url": "https://x.com/Diplomeme/status/2097978468642480487",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097977460403130371",
+    "title": "投放静图四件套：Flare / Sunburst / 锁参考 / 局部改",
+    "blurb": "付费社媒静态广告拆成四块工作流。量产用 Flare，终稿 Sunburst，参考锁 + focused edit 控漂移。",
+    "author": "learnbyIsmail",
+    "url": "https://x.com/learnbyIsmail/status/2097977460403130371",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097977120441925720",
+    "title": "奢华婚礼请柬 mockup + 完整 prompt",
+    "blurb": "请柬/喜帖排版系统可拆，换名字日期就能出样。婚礼赛道与高端印刷预览很香。",
+    "author": "abs_uiux",
+    "url": "https://x.com/abs_uiux/status/2097977120441925720",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097972662828155319",
+    "title": "涂鸦一笔变插画",
+    "blurb": "乱笔画进 2.5，直接拉成可发插画。Sketch 控形的「最低门槛」演示。",
+    "author": "chrno001",
+    "url": "https://x.com/chrno001/status/2097972662828155319",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097963498273988784",
+    "title": "2.5 vs 2.0 视频硬对比",
+    "blurb": "动态对照比静态截图更有说服力。写升级值不值、做社媒 demo 直接甩。",
+    "author": "kr0der",
+    "url": "https://x.com/kr0der/status/2097963498273988784",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097963306116084142",
+    "title": "Sketch 关键词 + 线情绪怎么写",
+    "blurb": "线稿不只锁形，还要写清线情绪。控形 prompt 的细节档位可抄。",
+    "author": "wenwen11703261",
+    "url": "https://x.com/wenwen11703261/status/2097963306116084142",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097962843757006979",
+    "title": "ZenMux 上 Flare / Sunburst 怎么选",
+    "blurb": "聚合入口里两型号怎么分流。赶量 vs 终稿，别混着点。",
+    "author": "SuperByteSpace",
+    "url": "https://x.com/SuperByteSpace/status/2097962843757006979",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097961051476164612",
+    "title": "Sunburst 四轮保真：越改越稳？",
+    "blurb": "多轮编辑下身份/构图是否还在。要做长会话改图，先看这组保真实测。",
+    "author": "GuliMoreno",
+    "url": "https://x.com/GuliMoreno/status/2097961051476164612",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097954772586557873",
+    "title": "80s 复古写真锁脸",
+    "blurb": "年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。",
+    "author": "Goodmanprotocol",
+    "url": "https://x.com/Goodmanprotocol/status/2097954772586557873",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097952240707530923",
+    "title": "巴黎街拍写真 prompt",
+    "blurb": "街拍姿势/光位/服装分段可替换。UGC 人像与旅拍种草可直接改地名。",
+    "author": "AIwithSarah_",
+    "url": "https://x.com/AIwithSarah_/status/2097952240707530923",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097951132031320484",
+    "title": "哥特 Lolita 完整中文 prompt",
+    "blurb": "中文可复制人设配方，服装层次写细。角色卡/COS 种草少踩「衣服糊成一团」。",
+    "author": "AIVideoHub_",
+    "url": "https://x.com/AIVideoHub_/status/2097951132031320484",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097949170594193427",
+    "title": "Model sheet 身份锁：多角度同一人",
+    "blurb": "角色表压住脸与体型，多视角不漂移。做 IP/表情包/游戏立绘流水线先抄这套。",
+    "author": "meAsifAi",
+    "url": "https://x.com/meAsifAi/status/2097949170594193427",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097943157585424694",
+    "title": "木版画：2 / Flare / Sunburst 三连",
+    "blurb": "同题材三模吃纹理的差异。做版画/印刷风素材选型时当尺子。",
+    "author": "morphedai",
+    "url": "https://x.com/morphedai/status/2097943157585424694",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097937963523145829",
+    "title": "叠穿コーデ 全套可替换 prompt",
+    "blurb": "日系叠穿长文配方，单品可拆换。电商穿搭图与小红书 OOTD 直接改货号。",
+    "author": "MoodLock_JP",
+    "url": "https://x.com/MoodLock_JP/status/2097937963523145829",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097935536224866583",
+    "title": "Flare/Sunburst × Seedance：UGC 广告流水线",
+    "blurb": "静图出片再进短视频。一人团队做 UGC 投放素材的「图→片」衔接可抄。",
+    "author": "tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2097935536224866583",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097930655375970768",
+    "title": "Sketch → 油画成片",
+    "blurb": "线稿控形后切油画质感。艺术封面/展览视觉，先形后质。",
+    "author": "Mayorkng98",
+    "url": "https://x.com/Mayorkng98/status/2097930655375970768",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097930409518768543",
+    "title": "多轮编辑崩坏对照：哪一轮开始飘",
+    "blurb": "连续改图何时身份崩、构图飞。长会话改稿前先设止损轮数。",
+    "author": "luoxiaoshan_ai",
+    "url": "https://x.com/luoxiaoshan_ai/status/2097930409518768543",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097928991407546852",
+    "title": "Sunburst API 换光锁脸 / 产品",
+    "blurb": "意文实务：换光照仍锁脸与产品主体。广告补光/棚拍替代很实用。",
+    "author": "alepom",
+    "url": "https://x.com/alepom/status/2097928991407546852",
+    "category": "电商改图"
   }
 ]
