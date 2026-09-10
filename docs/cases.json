@@ -1063,5 +1063,14 @@
     "url": "https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ",
     "category": "人像角色",
     "playbook": "docs/playbooks/virtual-ip-assets.md"
+  },
+  {
+    "id": "wechat-karl-controllability-shift",
+    "title": "可控性从提示语迁到交互：2.5 综述与对比",
+    "blurb": "Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。",
+    "author": "卡尔的AI沃茨",
+    "url": "https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA",
+    "category": "选型评测",
+    "playbook": "docs/playbooks/image25-controllability-shift.md"
   }
 ]
