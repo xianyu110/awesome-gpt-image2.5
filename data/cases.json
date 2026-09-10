@@ -1,5 +1,117 @@
 [
   {
+    "id": "2097882272623988823",
+    "title": "ComfyUI 里 Sunburst 五档成本梯子",
+    "blurb": "同 prompt 跑 Low→Max：积分约 3.4 / 7.8 / 30 / 53 / 120。想省钱别盲冲 Max，报价/批图前先看这组数。",
+    "author": "DataJuggler007",
+    "url": "https://x.com/DataJuggler007/status/2097882272623988823",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097884945276686720",
+    "title": "同 seed 连跑：版本落差比半个号大",
+    "blurb": "同 prompt、同 seed 对照，落差比「半个版本号」大；Image 2.5 已上 Sunra。写评测别只比 UI 截图。",
+    "author": "sunra_ai",
+    "url": "https://x.com/sunra_ai/status/2097884945276686720",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097892821386813662",
+    "title": "2.5 vs Banana Pro vs Midjourney，还做成动画",
+    "blurb": "同 style prompt 三美横评并直接动起来。比静态截图更适合做选型 demo / 社媒素材。",
+    "author": "Deevid_AI",
+    "url": "https://x.com/Deevid_AI/status/2097892821386813662",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097903246069395707",
+    "title": "Flare 翻车预期 + Image 2 贵 3.5 倍",
+    "blurb": "完整实测：Flare 表现超出预期，同测 Image 2 费用竟是 2.5 的 3.5 倍。做工具/套餐定价的人该看。",
+    "author": "Tino_Xu_",
+    "url": "https://x.com/Tino_Xu_/status/2097903246069395707",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097906383987605932",
+    "title": "Sunburst 大图坑：越大越糊",
+    "blurb": "图越大，头发/文字/细节越糊。出大尺寸海报前先看一眼，别默默踩坑。",
+    "author": "truclam_ai",
+    "url": "https://x.com/truclam_ai/status/2097906383987605932",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097899683989385317",
+    "title": "2.5 vs 2.0 专辑封面硬对比",
+    "blurb": "同 prompt 比专辑封面，回复里有 prompt。想讲「升级值不值」时有图有真相。",
+    "author": "ArtificialStudi",
+    "url": "https://x.com/ArtificialStudi/status/2097899683989385317",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097906238088765909",
+    "title": "Sketch 实测 walkthrough 视频",
+    "blurb": "视频过一遍 Images 2.5：Sketch、参考图一致性、指令跟随都强；编辑间不完全一致。快速建立「2.5 能干啥」心智。",
+    "author": "bartslodyczka",
+    "url": "https://x.com/bartslodyczka/status/2097906238088765909",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097884028955394216",
+    "title": "品牌 KV 母版：iPhone Duo / 18 Pro 系列海报",
+    "blurb": "同一套品牌 KV 模板给虚构新品各出一张：折叠叙事 vs 专业影像。一眼看懂怎么用 Image 2.5 做新品系列 KV。",
+    "author": "liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2097884028955394216",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097920025617399875",
+    "title": "旅行海报 [CITY, COUNTRY] 丝网印刷模板",
+    "blurb": "本地建筑元素的 mid-century 丝网印刷风海报配方，带成片。做目的地/活动 KV 直接换槽。",
+    "author": "Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2097920025617399875",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097882770899091928",
+    "title": "candid 写真分层 prompt（Higgsfield）",
+    "blurb": "拆「真实夏日随拍」结构：关键不是堆细节，是分层对。适合 UGC / 社媒广告。",
+    "author": "GrowWithDani",
+    "url": "https://x.com/GrowWithDani/status/2097882770899091928",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097900600105308347",
+    "title": "同 prompt 炼狱角色一致性演示",
+    "blurb": "同一套 prompt 换 Rengoku，成品干净，prompt 贴在下面。角色锁 / 二次元营销素材可抄。",
+    "author": "Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2097900600105308347",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097914967295172794",
+    "title": "密封盒 UGC → Omni 拆箱视频链路",
+    "blurb": "Image 2.5 做密封盒静帧 → Gemini Omni 推 10 秒拆箱，纸张/折痕/重量写进 prompt。电商假 UGC 配方。",
+    "author": "ItsNazar17",
+    "url": "https://x.com/ItsNazar17/status/2097914967295172794",
+    "category": "电商改图"
+  },
+  {
+    "id": "2097902132682715547",
+    "title": "4×4 combat sprite → 干净 GIF",
+    "blurb": "在 AIReel 上用 Image 2.5 把精灵表直接变成可播 GIF，prompt 在帖里。游戏素材流水线可参考。",
+    "author": "AIReelofficial",
+    "url": "https://x.com/AIReelofficial/status/2097902132682715547",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097882934699278547",
+    "title": "设计系统 → Astra 上线流水线",
+    "blurb": "Images 2.5 出设计系统 + PC/手机 UI，再丢给 Codex（GPT-6 Astra）按色值与行为规格实现。一人公司做站的正经配方。",
+    "author": "shota7180",
+    "url": "https://x.com/shota7180/status/2097882934699278547",
+    "category": "UX产品"
+  },
+  {
     "id": "2097785065547984984",
     "title": "加一颗草莓看出 Flare vs Sunburst 精度差",
     "blurb": "同咖啡馆再只加一颗草莓；Sunburst 仍比 Image-2 更快更便宜，精度编辑才是卖点。做广告迭代别盲选「快模式」。",
