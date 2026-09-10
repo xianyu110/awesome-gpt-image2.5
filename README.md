@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录约 62 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录约 73 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -35,13 +35,21 @@
 - [相关链接](#相关链接)
 
 ---
-
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
 - **官方 Prompt 八股文，中文一页抄走** — 生成目的、可见细节、姿态视线、画面文字位置……别再堆氛围词。小红书/落地页文案直接当 checklist。 [@csoooooooo](https://x.com/csoooooooo) · [原帖](https://x.com/csoooooooo/status/2097864779859976637)
 - **Flare 打七大模型：商业大片梯队 + 成本** — 官方样本 prompt 横评，第一梯队写死 gpt-image-2.5-flare（更快更接近 Image 2）。选型/报价话术现成。 [@wquguru](https://x.com/wquguru) · [原帖](https://x.com/wquguru/status/2097853425669329128)
+- **关灯只留蜡烛** — 同图同设置：一句「关灯，只留蜡烛」横评 Image 2 vs 2.5 Sunburst。烛光谁更真，选型一眼定。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2097806703186055263)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Turn off the lights. Keep only the candles.
+```
+
+  </details>
 - **Image 2 vs 2.5 对比笔记（API 坑）** — 2 没有 variant（2.5 默认 Flare）；参考图从 image 变 image_references——写教程/测评时这些细节拉开专业度。 [@Lucas_IA_](https://x.com/Lucas_IA_) · [原帖](https://x.com/Lucas_IA_/status/2097705361830531366)
 - **Flare vs Sunburst：冻结任务再打分** — 别靠玄学选型。冻结 3 个真实编辑任务、标死 must-stay 区域，按指令成功率/漂移/主体一致/延迟/图 token 成本选赢家。 [@evankang_ai](https://x.com/evankang_ai) · [原帖](https://x.com/evankang_ai/status/2097704377142407323)
 - **4K +「多写细节」噪点踩坑** — 4K 加细节指令时 Sunburst/Flare（尤其 Flare）会出现 2.0 低分那种糊噪；落到 2K 才干净。 [@TestAI_WORKS](https://x.com/TestAI_WORKS) · [原帖](https://x.com/TestAI_WORKS/status/2097669038973284576)
@@ -82,6 +90,25 @@ Sketch 工作流演示：控形、打光、画框布局与容错。
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
+- **轨道奢侈品三连** — Prada×Axiom×Zendaya / SpaceVIP×Keanu / Richard Mille×Hamilton 三套轨道奢侈海报。Sunburst 高端 SMM 排版系统可拆。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2097778936646091084)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Prada × Axiom Space × Zendaya — "ORBITAL COUTURE"
+
+FORMAT: Ultra-Premium Aerospace SMM Poster | 3:4 | Instagram Hero | Behance Front Page Quality
+CORE STRATEGY: High-fashion lunar engineering. Sleek tailored pressurized lunar EVA spacesuit, reflective gold visor, and Earth's blue curve.
+CAMPAIGN: "ORBITAL COUTURE"
+MASTER VISUAL: Monolithic bold geometric PRADA typography (75% canvas) in clean lunar white across top.
+HERO SUBJECT: Zendaya. Sleek high braided ponytail, wearing the tailored Prada-designed Axiom lunar spacesuit in pristine white composite with red Linea Rossa accents.
+POSE: Relaxed zero-gravity posture, helmet resting under her arm, gazing out a massive curved spacecraft observation cupola.
+COLOR SYSTEM: Lunar White, Linea Rossa Crimson, Deep Space Black, Earth Atmospheric Cyan.…
+```
+
+全文见 [原帖](https://x.com/sebatheepan/status/2097778936646091084)（画廊卡片可一键复制完整提示词）。
+
+  </details>
 - **竖三栏海报构图** — Images 2.5 竖三栏：图像/文物/声音/空间各占一栏，主体与线条串栏；活动海报、品牌视觉可抄结构。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2097666767174672871)
 - **Flare 赛车黄 Porsche 4:5 海报** — MageSpace Flare 竖版社媒海报，结构分明可抄。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2097641872068063436)
   <details>
@@ -102,10 +129,42 @@ Soft rectangular overlays at 3% opacity
 PRODUCT:
 Porsche 911 GT3 RS
 Gloss yellow with carbon details
-Rear 3/4…
-```
+Rear 3/4 angle, slightly elevated
+Wing dominant
 
-全文见 [原帖](https://x.com/Diplomeme/status/2097641872068063436)（画廊卡片可一键复制完整提示词）。
+Position:
+Right of center
+
+TYPOGRAPHY:
+“PORSCHE”
+Ultra tall, condensed, stretched
+Deep charcoal
+
+Secondary:
+“PORSCHE 911 GT3 RS”
+
+EDITORIAL:
+“Porsche — Where Precision Meets Passion”
+
+Focus:
+engineering, obsession, track DNA
+
+FADED TEXT:
+“GT3 RS” at 3–5%
+
+SPECS:
+386 kW / 525 PS
+3.2 s
+296 km/h
+
+LIGHTING:
+Clean studio, sharp highlights
+
+MOOD:
+Precision.
+Iconic.
+Timeless performance.
+```
 
   </details>
 - **字体海报 + 杂志排版压力测** — 文字密集场景下 2.5 的可读性边界。 [@modelstoreai](https://x.com/modelstoreai) · [原帖](https://x.com/modelstoreai/status/2097641178191827333)
@@ -117,10 +176,8 @@ Rear 3/4…
 ```
 ChatGPT Images 2.5 is on another level. It doesn’t just generate an image, it actually captures the aesthetic you’re going for.
 
-Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal, and antique gold. Stylized geometric forms, sharp symmetry, radiating sunburst and fan motifs, clean flat shapes with subt…
+Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal, and antique gold. Stylized geometric forms, sharp symmetry, radiating sunburst and fan motifs, clean flat shapes with subtle paper grain. Subject: [SUBJECT]. Timeless luxury graphic design, no photorealism, no 3D, no modern clothing or gadgets, museum-quality print look.
 ```
-
-全文见 [原帖](https://x.com/MrDasOnX/status/2097550067213504848)（画廊卡片可一键复制完整提示词）。
 
   </details>
 
@@ -131,6 +188,24 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
 - **写真 UGC：先偷真照片颗粒/色调，再锁脸** — 无参考 = 假色假噪点假皮肤。广告素材/种草图抄这个就够锋利。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2097864879843746285)
+- **璃月衣帽间极低机位自拍** — 9:16 超写实手机仰拍：奢华衣帽间 + 金玉腰链细节。社媒竖版人像的「自信不艳俗」配方。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2097860248640053693)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+9:16 竖版超写实智能手机自拍，一位明确成年的虚构动漫灵感东方女性，置身璃月意象的奢华私人衣帽间，雕花深木柜、玉石拉手、金属格栅与暖色灯带构成高级背景。手机位于接近地面的极低机位，以强烈仰拍捕捉她微微俯身整理腰间饰品的瞬间；身体正面偏左，头部轻轻侧倾，视线直接落向手机镜头，神情自信而克制。身穿象牙白与金色刺绣短款上衣、墨黑低腰阔腿裤，搭配翡翠腰链、精致腹部珠宝和小面积装饰性下腹纹样；金玉主题立体美甲清晰可见。丝绸、蕾丝、黄金与玉石材质真实，暖金主光配合青绿色轮廓光，电影级层次，轻微手机广角透视与自然镜面反射，高级网红社交媒体写实质感。服装完整稳妥，不过度裸露，不色情化；不使用任何角色姓名，不声称官方身份，不复刻特定角色面孔或标志。
+```
+
+  </details>
+- **美人背唐风CG** — 9:16 唐风半身背影：镜面铜屏映侧脸、凤凰步摇与低饱和粉金光。人像海报/竖版封面直接抄光影逻辑。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2097859617359565266)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+9:16 竖版高级唐风 CG 人像海报，半身近景特写，电影级构图与空间透视。一位明确成年的东亚古典美人身体背向画面呈后三分之四方向，头部没有回看镜头，而是轻轻偏向右侧屏风；镜面铜屏中隐约映出她清冷的侧脸。她具有冷白真实肤质、微挑凤眼和自然胭脂唇，目光停留在镜中的凤冠流苏上，神态沉静、羞涩而克制。她穿雾粉色露肩披帛式唐风礼服，衣料沿肩背柔和垂落，领口不过分暴露，鎏金纹样集中在边缘；乌发高盘，头戴金色凤凰步摇冠，珍珠链沿耳侧摆动。一只手扶住冠饰，另一只手握着落在肩头的披帛。背景虚化为冷灰蓝宫墙与半透明纱屏，暖金主光从镜面左侧反射到脸部，冷色辅光照亮肩背，边缘光刻画发髻。85mm，f/2，浅景深、真实镜面逻辑、细腻颗粒和轻微辉光，低饱和粉金色调，典雅不艳俗。
+```
+
+  </details>
 - **高腰破洞烟管牛仔裤衣装 prompt** — 日文社区可改衣装模板片段。 [@sumeshino_moto](https://x.com/sumeshino_moto) · [原帖](https://x.com/sumeshino_moto/status/2097656994937319531)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -150,10 +225,12 @@ large thigh cutouts, ripped denim,
 (oversized unisex off-shoulder top:1.25),
 (premium streetwear sweatshirt:1.2),
 clean drape, wide neckline, one shoulder exposed,
-drop shou…
+drop shoulder, long loose sleeves,
+ribbed cuffs, clean hem,
+(chunky black platform sneakers:1.3),
+(thick platform sole:1.25),
+lace-up sneakers, oversized sole,
 ```
-
-全文见 [原帖](https://x.com/sumeshino_moto/status/2097656994937319531)（画廊卡片可一键复制完整提示词）。
 
   </details>
 - **可互换长文衣装 Prompt 包** — Images 2.5 长文衣装再现性提升；PROTECTED WARDROBE RULE 模块化服装。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2097653761569423653)
@@ -170,7 +247,11 @@ Images 2.5のおかげで長文衣装プロンプトでも再現性が格段に�
 
 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #プロンプト
 
-PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surfac…
+PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.
+
+Wardrobe:
+
+Outerwear / layers:…
 ```
 
 全文见 [原帖](https://x.com/MoodLock_JP/status/2097653761569423653)（画廊卡片可一键复制完整提示词）。
@@ -188,7 +269,9 @@ ChatGPT Images 2.5  晶莹剔透的人物质感🎨
 
 prompt 👇
 
- A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80 percent of the frame, photographed from slightly above eye level, with the composition extending from the top of her hair to her cover…
+ A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80 percent of the frame, photographed from slightly above eye level, with the composition extending from the top of her hair to her covered lap.
+
+She has a very small heart-shaped face with a narrow lower face, a softly tapered jawline, a short delicate chin, smooth understated cheekbones, a compact midface, and refined symmetrical features. Her eyes are exceptionally large, luminous, and slightly wide-set, with a rounded almond shape, pale gray-green irises, dark defined upper lash lines, softly extended outer eyeliner, fine lower lashes, and bright glassy catchlights. Her eyebrows are slim, softly arched, and light ash brown. S…
 ```
 
 全文见 [原帖](https://x.com/johnAGI168/status/2097548765389258913)（画廊卡片可一键复制完整提示词）。
@@ -226,8 +309,6 @@ The exact prompt to paste next time for the same edit on a different photo
 Rules: one change per turn, never regenerate the whole image when I asked for a part, and if the change would alter a face, a logo, or text, stop and ask first.
 ```
 
-全文见 [原帖](https://x.com/alex_prompter/status/2097660049921659014)（画廊卡片可一键复制完整提示词）。
-
   </details>
 - **马克杯局部改色/改价：编辑精度实测** — Web 版连续编辑 vs Image-2，附文章。 [@taku41477996](https://x.com/taku41477996) · [原帖](https://x.com/taku41477996/status/2097652949560480117)
 - **亚马逊主图点选改** — 电商点编辑：改标签、改背景、不重抽主体。 [@Passenger0522](https://x.com/Passenger0522) · [原帖](https://x.com/Passenger0522/status/2097594649846444370)
@@ -238,6 +319,47 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
 场景、长卷、视频工作流与氛围大图。
 
+- **手办经典测图** — 每出新模型必测的 1/7 手办桌面场景：透明底座 + 屏上 ZBrush + BANDAI 包装盒。2.5 直出质感直接能当选品样张。 [@cnyzgkc](https://x.com/cnyzgkc) · [原帖](https://x.com/cnyzgkc/status/2097868249392390473)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a reaalistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the ZBrush modeling process of the figure. Next to the computer screen, place a BANDAI-style toy packaging box printed with the original artwork.
+```
+
+  </details>
+- **超现实写实 one-liner** — 一句神 prompt：最写实地画最超现实的东西。Sunburst + Firefly Boards 直出，灵感测图必备。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2097860435366048106)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+create the most realistic possible image of the most surreal thing you can imagine
+```
+
+  </details>
+- **橘子微缩小人** — 剥开的橘子变成透光穹顶洞穴，2cm 小人住进果肉。透射光 + Vision3 胶片逻辑，微缩场景天花板。 [@JohnnyWang8802](https://x.com/JohnnyWang8802) · [原帖](https://x.com/JohnnyWang8802/status/2097800514633429315)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Macro cinematic photography inside a peeled tangerine resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.
+Three figures, each about two centimeters tall, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.…
+```
+
+全文见 [原帖](https://x.com/JohnnyWang8802/status/2097800514633429315)（画廊卡片可一键复制完整提示词）。
+
+  </details>
+- **枫叶点水 Prompt1** — 半透明金叶点触暗水面，脉纹里开粉花。Flare 氛围大图，竖版奇幻场景一键出片。 [@churvikv](https://x.com/churvikv) · [原帖](https://x.com/churvikv/status/2097784050660376617)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+An enchanting and surreal digital art piece featuring a translucent, golden maple leaf hovering magically above the surface of calm, dark water. The leaf glows from within with a warm, ethereal light, its delicate veins clearly visible. Inside the translucent structure of the leaf, tiny, vibrant pink flowers and closed buds are embedded, appearing to bloom within its very veins. The tips of the leaf are edged with a sparkling, golden glitter that drifts into the air like magic dust. The leaf's stem extends downward, just touching the water's surface, creating concentric ripples that spread outward. Below the water, a reflection of the glowing leaf and stem is faintly visible. The background is a dreamy twilight forest with silhouetted pine trees against a soft, gradient sky of purple, orange, and blue. Several pink water lilies float on the dark water, adding to the serene and magical at…
+```
+
+全文见 [原帖](https://x.com/churvikv/status/2097784050660376617)（画廊卡片可一键复制完整提示词）。
+
+  </details>
 - **Image 2.5 + Seedance 写实视频工作流** — 拆解+提示词全摊开：写实 AI 视频不是一键出片，种草长文/短视频可直接抄流程。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2097698694296686623)
 - **创意设计公司中文官网 9:16 长截图** — 见造官网视觉：导航到页脚完整中文界面，几何拼贴+人像。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2097652659788619894)
   <details>
@@ -256,7 +378,11 @@ GPT Image 2.5 is insane！
 
 顶部为纤细白色导航栏，左侧原创中文粗体字标“见造”，小标语“以创意，让世界更有趣”。右侧导航依次为“关于我们、创意服务、精选作品、加入我们、最新动态”，最右是蓝色“联系我们 →”按钮。
 
-首屏占全图约 27%，左侧以非常醒目的钴蓝粗黑体排两行“让有趣，”“改变世界…
+首屏占全图约 27%，左侧以非常醒目的钴蓝粗黑体排两行“让有趣，”“改变世界。”，左下小字“以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。”右侧是一名明确成年的 20 岁中国女性，黑色齐肩发被微风吹动，自然淡妆，真实皮肤，微仰头望向右上方。穿钴蓝棉麻立领短袖上衣，简洁斜襟与少量同色盘扣，合身但不紧绷。人物与蓝色立方体、黄色球体、珊瑚红圆环、白色几何台座组合，背景浅蓝天空，明亮自然日光，材质和投影可信。
+
+首屏下方白色理念横栏占约 8%，左侧小字“我们的理念”，中间黑色粗标题“用创意，为社会留出想象。”，右侧正文“我们相信，好的设计不止解决问题，也让人与世界产生新的连接。”及“了解见造 →”。
+
+服务区占约 16%，左侧窄栏标题“创意服务”、简短介绍和“查看全部服务 →”；右侧三张等宽卡片：蓝底卡片以手持灯泡摄影配“品牌创意”，黄底卡片以彩色几何积木配“传播设计”，珊瑚红底卡片以打开的笔记本电脑配“数字体验”。每张卡片下方有两行简短中文介绍和右箭头。…
 ```
 
 全文见 [原帖](https://x.com/listudio/status/2097652659788619894)（画廊卡片可一键复制完整提示词）。
@@ -280,7 +406,7 @@ Prompt and images credits @TechieBySA
 
 Simply replace [COUNTRY]:✨
 
-“Ultra-detailed photorealistic isometric miniature scale-model diorama of [COUNTRY], floating on a pure off-white studio background with a soft drop shadow beneath. The diorama takes the exact real-world silhouette shape of the country — not a square tile, but the true precise geographic outline of the country's borders and coastli…
+“Ultra-detailed photorealistic isometric miniature scale-model diorama of [COUNTRY], floating on a pure off-white studio background with a soft drop shadow beneath. The diorama takes the exact real-world silhouette shape of the country — not a square tile, but the true precise geographic outline of the country's borders and coastline, extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges, like a chunk of the real land physically cut out and lifted. The shape of the slab matches the country's actual geography precisely, including any islands, peninsulas or coastline indentations.…
 ```
 
 全文见 [原帖](https://x.com/abxxai/status/2097651231569399814)（画廊卡片可一键复制完整提示词）。
@@ -298,10 +424,8 @@ Simply replace [COUNTRY]:✨
 ```
 Leaf Dancer Beneath a Paper Parasol | GPT Image 2.5
 
-Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves with delicate veins and tiny ivory blossoms. The full parasol occupies the upper right and the sweeping leaf train flows to the l…
+Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves with delicate veins and tiny ivory blossoms. The full parasol occupies the upper right and the sweeping leaf train flows to the lower left, framed with breathing room. Soft directional light reveals raised paper edges and delicate contact shadows.
 ```
-
-全文见 [原帖](https://x.com/unrealpixels/status/2097564822984626347)（画廊卡片可一键复制完整提示词）。
 
   </details>
 
@@ -311,6 +435,33 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 像素、精灵表与动效向玩法。
 
+- **4×4像素战斗图→GIF** — 上传角色图生成 16 帧 Sprite Sheet，拆格播放就成像素 GIF。攻击/跳跃/翻滚全包，小游戏预告与表情包一锅端。 [@derek_wall90176](https://x.com/derek_wall90176) · [原帖](https://x.com/derek_wall90176/status/2097863751471157498)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+上传图1作为角色身份与服装的唯一参考。
+
+将图1角色转化为高质量2D像素游戏角色，生成一张正方形、4×4等分排列、共16帧的连续动作Sprite Sheet。
+
+每格尺寸完全一致。画面按从左到右、从上到下的顺序播放。
+
+严格保留角色的脸型、发型、体型、服装配色、标志性配件与武器结构。16帧使用相同的像素比例、角色尺寸、朝向和色板。
+
+角色完成一次【挥剑攻击／跳跃／翻滚／施法／扑击】动作。
+
+第1至3帧为待机与蓄力；第4至7帧为重心移动和动作展开；第8至10帧完成主要攻击与力量释放；第11至13帧表现惯性和收势；第14至16帧回到待机状态。第16帧与第1帧能够自然衔接。
+
+相邻帧只改变完成动作所需的关节、轮廓、衣摆、头发和武器位置。动作方向、受力关系和运动轨迹保持连续。
+
+所有格子保持相同机位、角色缩放、脚底基线和画面中心。角色完整显示，不裁切头部、武器、尾巴或特效。
+
+背景优先使用透明通道。透明背景不稳定时，改用统一纯色背景，方便后期抠图。不要生成场景、地面纹理、格线、编号和文字。
+
+采用清晰硬边像素、有限色板和统一像素密度。禁止模糊边缘、抗锯齿、半写实渲染、重复帧、跳帧、角色变形、服装变化、武器增减、视角切换和每格重新构图。
+```
+
+  </details>
 - **定格动画：一帧 12 姿态** — 单图塞满关键姿势，停格流程可抄。 [@Lucas_IA_](https://x.com/Lucas_IA_) · [原帖](https://x.com/Lucas_IA_/status/2097640115409469657)
 - **黑猫 vs 老鼠 Sprite 循环** — 循环动作帧，角色动画 demo。 [@Agonyframe](https://x.com/Agonyframe) · [原帖](https://x.com/Agonyframe/status/2097639113415631121)
 - **像素对战 GIF** — 像素战斗动画向，适合小游戏预告。 [@Re7_AI](https://x.com/Re7_AI) · [原帖](https://x.com/Re7_AI/status/2097595058757500947)
@@ -323,6 +474,24 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 产品 UI / UX 视觉与落地页 mock。
 
+- **蒙德里安杂物柜** — 把《红、蓝、黄的构成》拉成桌面收纳柜：色块=抽屉、分割线=柜体。耳机橡皮各归其格，产品展示图三栏可抄。 [@cellinlab](https://x.com/cellinlab) · [原帖](https://x.com/cellinlab/status/2097875217100296362)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+生成一张16:9横版桌面设计展示图。左侧放蒙德里安《红、蓝、黄的构成》的画作参考，中间是桌面收纳柜的正面网格与透视铅笔草图，右侧是使用效果。柜体采用象牙白涂装木材，粗黑色分隔条形成不对称矩形网格，红色大抽屉、蓝色小抽屉、黄色小抽屉与白色格子共同组成正面。红色抽屉拉开，里面放耳机与卷好的线；黄色抽屉略微拉开，露出橡皮。抽屉必须有真实侧壁、厚度和内部空间，并与各自格口对齐。表现涂装木材细纹、接触阴影和桌面使用痕迹，自然侧光。草图与柜体布局一致，不加文字、Logo或URL。
+```
+
+  </details>
+- **蒙娜丽莎眼镜架** — 古典胸像 × 现代黑框眼镜的桌面产品：鼻托镜腿落点要对死。文创周边/落地页 mock 反差感拉满。 [@cellinlab](https://x.com/cellinlab) · [原帖](https://x.com/cellinlab/status/2097871439072543175)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+生成一张16:9横版桌面设计展示图。左侧是《蒙娜丽莎》的画作参考，中间是同款胸像眼镜架的正面与侧面铅笔草图，右侧是放在浅橡木桌上的使用效果。胸像保留蒙娜丽莎的长发、神秘微笑、衣褶和交叠双手，采用做旧铜质与暗棕色表面，底座宽而稳定。一副真实的现代黑色厚框透明眼镜架在她的鼻梁上，镜腿自然延伸到耳侧，眼睛透过镜片可见。表现镜片反射、镜框小螺丝与铜像细微磨损。旁边放眼镜布和笔记本电脑一角，自然窗光。草图与物件一致，不加文字、Logo或URL。
+```
+
+  </details>
 - **把收尾提示词命名成自定义指令** — 抑制噪点/收尾套路存成名字，下次只加名字。 [@sktGT1016](https://x.com/sktGT1016) · [原帖](https://x.com/sktGT1016/status/2097656459584831885)
 - **Flare 等待游戏 UX** — 生成等待时的交互彩蛋，产品体验向笔记。 [@EchoraContinuum](https://x.com/EchoraContinuum) · [原帖](https://x.com/EchoraContinuum/status/2097625779509379502)
 

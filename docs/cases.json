@@ -504,5 +504,115 @@
     "author": "0x_harness",
     "url": "https://x.com/0x_harness/status/2097864879843746285",
     "category": "人像角色"
+  },
+  {
+    "id": "2097868249392390473",
+    "title": "手办经典测图",
+    "blurb": "每出新模型必测的 1/7 手办桌面场景：透明底座 + 屏上 ZBrush + BANDAI 包装盒。2.5 直出质感直接能当选品样张。",
+    "author": "cnyzgkc",
+    "url": "https://x.com/cnyzgkc/status/2097868249392390473",
+    "category": "场景视觉",
+    "prompt": "Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a reaalistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the ZBrush modeling process of the figure. Next to the computer screen, place a BANDAI-style toy packaging box printed with the original artwork.",
+    "image": "https://upload.maynor1024.live/file/1789007740457_2097868249392390473.jpg"
+  },
+  {
+    "id": "2097863751471157498",
+    "title": "4×4像素战斗图→GIF",
+    "blurb": "上传角色图生成 16 帧 Sprite Sheet，拆格播放就成像素 GIF。攻击/跳跃/翻滚全包，小游戏预告与表情包一锅端。",
+    "author": "derek_wall90176",
+    "url": "https://x.com/derek_wall90176/status/2097863751471157498",
+    "category": "像素动效",
+    "prompt": "上传图1作为角色身份与服装的唯一参考。\n\n将图1角色转化为高质量2D像素游戏角色，生成一张正方形、4×4等分排列、共16帧的连续动作Sprite Sheet。\n\n每格尺寸完全一致。画面按从左到右、从上到下的顺序播放。\n\n严格保留角色的脸型、发型、体型、服装配色、标志性配件与武器结构。16帧使用相同的像素比例、角色尺寸、朝向和色板。\n\n角色完成一次【挥剑攻击／跳跃／翻滚／施法／扑击】动作。\n\n第1至3帧为待机与蓄力；第4至7帧为重心移动和动作展开；第8至10帧完成主要攻击与力量释放；第11至13帧表现惯性和收势；第14至16帧回到待机状态。第16帧与第1帧能够自然衔接。\n\n相邻帧只改变完成动作所需的关节、轮廓、衣摆、头发和武器位置。动作方向、受力关系和运动轨迹保持连续。\n\n所有格子保持相同机位、角色缩放、脚底基线和画面中心。角色完整显示，不裁切头部、武器、尾巴或特效。\n\n背景优先使用透明通道。透明背景不稳定时，改用统一纯色背景，方便后期抠图。不要生成场景、地面纹理、格线、编号和文字。\n\n采用清晰硬边像素、有限色板和统一像素密度。禁止模糊边缘、抗锯齿、半写实渲染、重复帧、跳帧、角色变形、服装变化、武器增减、视角切换和每格重新构图。",
+    "image": "https://upload.maynor1024.live/file/1789007738637_2097863751471157498.jpg"
+  },
+  {
+    "id": "2097859617359565266",
+    "title": "美人背唐风CG",
+    "blurb": "9:16 唐风半身背影：镜面铜屏映侧脸、凤凰步摇与低饱和粉金光。人像海报/竖版封面直接抄光影逻辑。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2097859617359565266",
+    "category": "人像角色",
+    "prompt": "9:16 竖版高级唐风 CG 人像海报，半身近景特写，电影级构图与空间透视。一位明确成年的东亚古典美人身体背向画面呈后三分之四方向，头部没有回看镜头，而是轻轻偏向右侧屏风；镜面铜屏中隐约映出她清冷的侧脸。她具有冷白真实肤质、微挑凤眼和自然胭脂唇，目光停留在镜中的凤冠流苏上，神态沉静、羞涩而克制。她穿雾粉色露肩披帛式唐风礼服，衣料沿肩背柔和垂落，领口不过分暴露，鎏金纹样集中在边缘；乌发高盘，头戴金色凤凰步摇冠，珍珠链沿耳侧摆动。一只手扶住冠饰，另一只手握着落在肩头的披帛。背景虚化为冷灰蓝宫墙与半透明纱屏，暖金主光从镜面左侧反射到脸部，冷色辅光照亮肩背，边缘光刻画发髻。85mm，f/2，浅景深、真实镜面逻辑、细腻颗粒和轻微辉光，低饱和粉金色调，典雅不艳俗。",
+    "image": "https://upload.maynor1024.live/file/1789007734918_2097859617359565266.jpg"
+  },
+  {
+    "id": "2097860248640053693",
+    "title": "璃月衣帽间极低机位自拍",
+    "blurb": "9:16 超写实手机仰拍：奢华衣帽间 + 金玉腰链细节。社媒竖版人像的「自信不艳俗」配方。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2097860248640053693",
+    "category": "人像角色",
+    "prompt": "9:16 竖版超写实智能手机自拍，一位明确成年的虚构动漫灵感东方女性，置身璃月意象的奢华私人衣帽间，雕花深木柜、玉石拉手、金属格栅与暖色灯带构成高级背景。手机位于接近地面的极低机位，以强烈仰拍捕捉她微微俯身整理腰间饰品的瞬间；身体正面偏左，头部轻轻侧倾，视线直接落向手机镜头，神情自信而克制。身穿象牙白与金色刺绣短款上衣、墨黑低腰阔腿裤，搭配翡翠腰链、精致腹部珠宝和小面积装饰性下腹纹样；金玉主题立体美甲清晰可见。丝绸、蕾丝、黄金与玉石材质真实，暖金主光配合青绿色轮廓光，电影级层次，轻微手机广角透视与自然镜面反射，高级网红社交媒体写实质感。服装完整稳妥，不过度裸露，不色情化；不使用任何角色姓名，不声称官方身份，不复刻特定角色面孔或标志。",
+    "image": "https://upload.maynor1024.live/file/1789007742566_2097860248640053693.jpg"
+  },
+  {
+    "id": "2097875217100296362",
+    "title": "蒙德里安杂物柜",
+    "blurb": "把《红、蓝、黄的构成》拉成桌面收纳柜：色块=抽屉、分割线=柜体。耳机橡皮各归其格，产品展示图三栏可抄。",
+    "author": "cellinlab",
+    "url": "https://x.com/cellinlab/status/2097875217100296362",
+    "category": "UX产品",
+    "prompt": "生成一张16:9横版桌面设计展示图。左侧放蒙德里安《红、蓝、黄的构成》的画作参考，中间是桌面收纳柜的正面网格与透视铅笔草图，右侧是使用效果。柜体采用象牙白涂装木材，粗黑色分隔条形成不对称矩形网格，红色大抽屉、蓝色小抽屉、黄色小抽屉与白色格子共同组成正面。红色抽屉拉开，里面放耳机与卷好的线；黄色抽屉略微拉开，露出橡皮。抽屉必须有真实侧壁、厚度和内部空间，并与各自格口对齐。表现涂装木材细纹、接触阴影和桌面使用痕迹，自然侧光。草图与柜体布局一致，不加文字、Logo或URL。",
+    "image": "https://upload.maynor1024.live/file/1789007741864_2097875217100296362.jpg"
+  },
+  {
+    "id": "2097871439072543175",
+    "title": "蒙娜丽莎眼镜架",
+    "blurb": "古典胸像 × 现代黑框眼镜的桌面产品：鼻托镜腿落点要对死。文创周边/落地页 mock 反差感拉满。",
+    "author": "cellinlab",
+    "url": "https://x.com/cellinlab/status/2097871439072543175",
+    "category": "UX产品",
+    "prompt": "生成一张16:9横版桌面设计展示图。左侧是《蒙娜丽莎》的画作参考，中间是同款胸像眼镜架的正面与侧面铅笔草图，右侧是放在浅橡木桌上的使用效果。胸像保留蒙娜丽莎的长发、神秘微笑、衣褶和交叠双手，采用做旧铜质与暗棕色表面，底座宽而稳定。一副真实的现代黑色厚框透明眼镜架在她的鼻梁上，镜腿自然延伸到耳侧，眼睛透过镜片可见。表现镜片反射、镜框小螺丝与铜像细微磨损。旁边放眼镜布和笔记本电脑一角，自然窗光。草图与物件一致，不加文字、Logo或URL。",
+    "image": "https://upload.maynor1024.live/file/1789007748025_2097871439072543175.jpg"
+  },
+  {
+    "id": "2097784050660376617",
+    "title": "枫叶点水 Prompt1",
+    "blurb": "半透明金叶点触暗水面，脉纹里开粉花。Flare 氛围大图，竖版奇幻场景一键出片。",
+    "author": "churvikv",
+    "url": "https://x.com/churvikv/status/2097784050660376617",
+    "category": "场景视觉",
+    "prompt": "An enchanting and surreal digital art piece featuring a translucent, golden maple leaf hovering magically above the surface of calm, dark water. The leaf glows from within with a warm, ethereal light, its delicate veins clearly visible. Inside the translucent structure of the leaf, tiny, vibrant pink flowers and closed buds are embedded, appearing to bloom within its very veins. The tips of the leaf are edged with a sparkling, golden glitter that drifts into the air like magic dust. The leaf's stem extends downward, just touching the water's surface, creating concentric ripples that spread outward. Below the water, a reflection of the glowing leaf and stem is faintly visible. The background is a dreamy twilight forest with silhouetted pine trees against a soft, gradient sky of purple, orange, and blue. Several pink water lilies float on the dark water, adding to the serene and magical atmosphere.",
+    "image": "https://upload.maynor1024.live/file/1789007736017_2097784050660376617.jpg"
+  },
+  {
+    "id": "2097860435366048106",
+    "title": "超现实写实 one-liner",
+    "blurb": "一句神 prompt：最写实地画最超现实的东西。Sunburst + Firefly Boards 直出，灵感测图必备。",
+    "author": "icreatelife",
+    "url": "https://x.com/icreatelife/status/2097860435366048106",
+    "category": "场景视觉",
+    "prompt": "create the most realistic possible image of the most surreal thing you can imagine",
+    "image": "https://upload.maynor1024.live/file/1789007740139_2097860435366048106.jpg"
+  },
+  {
+    "id": "2097806703186055263",
+    "title": "关灯只留蜡烛",
+    "blurb": "同图同设置：一句「关灯，只留蜡烛」横评 Image 2 vs 2.5 Sunburst。烛光谁更真，选型一眼定。",
+    "author": "SandbaseAI",
+    "url": "https://x.com/SandbaseAI/status/2097806703186055263",
+    "category": "选型评测",
+    "prompt": "Turn off the lights. Keep only the candles.",
+    "image": "https://upload.maynor1024.live/file/1789007741348_2097806703186055263.jpg"
+  },
+  {
+    "id": "2097800514633429315",
+    "title": "橘子微缩小人",
+    "blurb": "剥开的橘子变成透光穹顶洞穴，2cm 小人住进果肉。透射光 + Vision3 胶片逻辑，微缩场景天花板。",
+    "author": "JohnnyWang8802",
+    "url": "https://x.com/JohnnyWang8802/status/2097800514633429315",
+    "category": "场景视觉",
+    "prompt": "Macro cinematic photography inside a peeled tangerine resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.\nThree figures, each about two centimeters tall, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.\nA single low-angle sun is positioned behind the fruit and is the only light source, producing true transmitted light through the citrus flesh. The orange brightness of the dome must come from light physically passing through the fruit itself, not from any artificial glow effect. Individual juice vesicles illuminate one by one in transmission, while thicker pith appears as darker veins. The cave floor is illuminated only by this transmitted light. Outside the cave entrance is completely black. No fill light.\nAnamorphic 2.39:1, anamorphic lens with macro adapter, f/4. Sparse defocused light points outside the cave appear as vertically oval bokeh with subtle horizontal anamorphic stretch. Deep focus, focus stacked.\nKodak Vision3 500T motion picture negative, tungsten white balance, warm saturated transmitted orange highlights with deep cyan shadows. Black Pro-Mist 1/4. Strong transmitted-light edges along the thinnest parts of the fruit show visible red halation.\nOverall exposure reduced by one stop. The darkness outside the cave remains truly black. Fine film grain, more visible in the shadows. No digital sharpening, no HDR, no orange-and-teal grading, no lens-flare effects, no artificial glow, no CGI plastic texture.",
+    "image": "https://upload.maynor1024.live/file/1789007737993_2097800514633429315.png"
+  },
+  {
+    "id": "2097778936646091084",
+    "title": "轨道奢侈品三连",
+    "blurb": "Prada×Axiom×Zendaya / SpaceVIP×Keanu / Richard Mille×Hamilton 三套轨道奢侈海报。Sunburst 高端 SMM 排版系统可拆。",
+    "author": "sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2097778936646091084",
+    "category": "海报排版",
+    "prompt": "Prada × Axiom Space × Zendaya — \"ORBITAL COUTURE\"\n\nFORMAT: Ultra-Premium Aerospace SMM Poster | 3:4 | Instagram Hero | Behance Front Page Quality\nCORE STRATEGY: High-fashion lunar engineering. Sleek tailored pressurized lunar EVA spacesuit, reflective gold visor, and Earth's blue curve.\nCAMPAIGN: \"ORBITAL COUTURE\"\nMASTER VISUAL: Monolithic bold geometric PRADA typography (75% canvas) in clean lunar white across top.\nHERO SUBJECT: Zendaya. Sleek high braided ponytail, wearing the tailored Prada-designed Axiom lunar spacesuit in pristine white composite with red Linea Rossa accents.\nPOSE: Relaxed zero-gravity posture, helmet resting under her arm, gazing out a massive curved spacecraft observation cupola.\nCOLOR SYSTEM: Lunar White, Linea Rossa Crimson, Deep Space Black, Earth Atmospheric Cyan.\nBACKGROUND: The panoramic cupola of an orbital habitat revealing the illuminated blue crescent of planet Earth against the infinite starfield.\nGRAPHIC SYSTEM: Orbital velocity parameters (27,600 km/h), telemetry coordinate HUD, minimalist technical hatch numbering.\nPROMOTIONAL ELEMENTS: PRADA LUNAR DIVISION | AXIOM EXTRAVEHICULAR MOBILITY UNIT | ARTEMIS MISSION\nTYPOGRAPHY: Top iconic PRADA bold serif | Center title: ORBITAL COUTURE | Bottom technical telemetry data readout\nLIGHTING: Pristine solar sunlight raking across the composite white suit fabric from the cupola, contrasted by deep space black.\nCAMERA: ARRI Alexa 65, 70mm Hasselblad Prime, f/4.0, hyper-crisp reflections in visor and tactile ballistic nylon weave.",
+    "image": "https://upload.maynor1024.live/file/1789007737492_2097778936646091084.jpg"
   }
 ]
