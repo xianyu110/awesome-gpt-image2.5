@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录约 73 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录约 80 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -39,6 +39,8 @@
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **加一颗草莓看出 Flare vs Sunburst 精度差** — 同咖啡馆再只加一颗草莓；Sunburst 仍比 Image-2 更快更便宜，精度编辑才是卖点。做广告迭代别盲选「快模式」。 [@nocodemba](https://x.com/nocodemba) · [原帖](https://x.com/nocodemba/status/2097785065547984984)
+- **付费社媒静态广告：Flare/Sunburst 四块分工** — 拆成投放可用四块：Flare 默认量产、Sunburst 精修、reference lock、focused edit。产品图/offer 变体可抄。 [@nipuntaneja](https://x.com/nipuntaneja) · [原帖](https://x.com/nipuntaneja/status/2097694013469982745)
 - **官方 Prompt 八股文，中文一页抄走** — 生成目的、可见细节、姿态视线、画面文字位置……别再堆氛围词。小红书/落地页文案直接当 checklist。 [@csoooooooo](https://x.com/csoooooooo) · [原帖](https://x.com/csoooooooo/status/2097864779859976637)
 - **Flare 打七大模型：商业大片梯队 + 成本** — 官方样本 prompt 横评，第一梯队写死 gpt-image-2.5-flare（更快更接近 Image 2）。选型/报价话术现成。 [@wquguru](https://x.com/wquguru) · [原帖](https://x.com/wquguru/status/2097853425669329128)
 - **关灯只留蜡烛** — 同图同设置：一句「关灯，只留蜡烛」横评 Image 2 vs 2.5 Sunburst。烛光谁更真，选型一眼定。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2097806703186055263)
@@ -73,6 +75,7 @@ Turn off the lights. Keep only the candles.
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **零画功 Sketch：棒人 + 角色图 → 完整场景** — 不会画画也能用棒人构图 + 角色参考生成场景；给客户讲「手绘即提示词」最直观。 [@sunouku](https://x.com/sunouku) · [原帖](https://x.com/sunouku/status/2097696764103201143)
 - **画质不是杀招，Sketch 才是** — @Sketch 棒人草图 + 一句指令 → 成品；「再往左一点」那种往返可以扔了。内容号讲工作流就讲这个。 [@tatsumoto2222](https://x.com/tatsumoto2222) · [原帖](https://x.com/tatsumoto2222/status/2097858154793222529)
 - **Sketch：不会画画也能迭代出片** — 草图 → Images 2.5 → 继续改。视频演示「不会画也能出货」，Sketch 种草最佳素材之一。 [@derrickcchoi](https://x.com/derrickcchoi) · [原帖](https://x.com/derrickcchoi/status/2097703973671334359)
 - **鼠标手绘 Sketch 也能懂** — Sketch 容错示范。 [@MathisYanis](https://x.com/MathisYanis) · [原帖](https://x.com/MathisYanis/status/2097650763174391836)
@@ -187,6 +190,7 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **噪点 × 透明金属反光的多风格混剪** — Images 2.5 多风格混合质感：噪点被透明金属 + 反光包住；品牌视觉想玩材质差异可跟。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2097698044733276309)
 - **写真 UGC：先偷真照片颗粒/色调，再锁脸** — 无参考 = 假色假噪点假皮肤。广告素材/种草图抄这个就够锋利。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2097864879843746285)
 - **璃月衣帽间极低机位自拍** — 9:16 超写实手机仰拍：奢华衣帽间 + 金玉腰链细节。社媒竖版人像的「自信不艳俗」配方。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2097860248640053693)
   <details>
@@ -284,6 +288,7 @@ She has a very small heart-shaped face with a narrow lower face, a softly tapere
 
 商品图、局部编辑、包装与货架感。
 
+- **「只改文字」Before→After 实测** — 长文验证「图挺好、字想换」痛点改善多少；电商主图、海报改文案的人值得看。 [@dansyu_callenge](https://x.com/dansyu_callenge) · [原帖](https://x.com/dansyu_callenge/status/2097818810493685854)
 - **「把灯挪到右边」——精密局部编辑** — Higgsfield 上测 GPT-Image 2.5，一句指令改光源位置，局部编辑不是 PPT。 [@prompts_ig](https://x.com/prompts_ig) · [原帖](https://x.com/prompts_ig/status/2097858572319072601)
 - **披萨三选一：哪张没被 AI 改过？** — 编辑质量鉴宝局：看配料接缝/阴影/桌布纹理。互动玩法 + 编辑能力证明，适合小红书/视频号挑战模板。 [@midsusnight](https://x.com/midsusnight) · [原帖](https://x.com/midsusnight/status/2097702225707511823)
 - **定点改图：修图师 briefing 模板** — 专治「改一处整图重画」：只改指定处、保脸/Logo/文字；营销改细节最省事。 [@alex_prompter](https://x.com/alex_prompter) · [原帖](https://x.com/alex_prompter/status/2097660049921659014)
@@ -319,6 +324,7 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
 场景、长卷、视频工作流与氛围大图。
 
+- **Astra × Image 2.5 拼贴流水线** — 逐片生成 → PS 拼 → AE 动起来；社媒拼贴 / 情绪板类内容批产。 [@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2097860770210152638)
 - **手办经典测图** — 每出新模型必测的 1/7 手办桌面场景：透明底座 + 屏上 ZBrush + BANDAI 包装盒。2.5 直出质感直接能当选品样张。 [@cnyzgkc](https://x.com/cnyzgkc) · [原帖](https://x.com/cnyzgkc/status/2097868249392390473)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -435,6 +441,7 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 像素、精灵表与动效向玩法。
 
+- **任意角色 → 4×4 战斗像素精灵表** — 角色参考压成 combat sprite sheet（测了炭治郎），prompt 在 thread；游戏素材 / meme 模板一键量产。 [@andytng28](https://x.com/andytng28) · [原帖](https://x.com/andytng28/status/2097701567042609236)
 - **4×4像素战斗图→GIF** — 上传角色图生成 16 帧 Sprite Sheet，拆格播放就成像素 GIF。攻击/跳跃/翻滚全包，小游戏预告与表情包一锅端。 [@derek_wall90176](https://x.com/derek_wall90176) · [原帖](https://x.com/derek_wall90176/status/2097863751471157498)
   <details>
   <summary>查看 / 复制提示词</summary>

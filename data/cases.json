@@ -1,5 +1,61 @@
 [
   {
+    "id": "2097785065547984984",
+    "title": "加一颗草莓看出 Flare vs Sunburst 精度差",
+    "blurb": "同咖啡馆再只加一颗草莓；Sunburst 仍比 Image-2 更快更便宜，精度编辑才是卖点。做广告迭代别盲选「快模式」。",
+    "author": "nocodemba",
+    "url": "https://x.com/nocodemba/status/2097785065547984984",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097694013469982745",
+    "title": "付费社媒静态广告：Flare/Sunburst 四块分工",
+    "blurb": "拆成投放可用四块：Flare 默认量产、Sunburst 精修、reference lock、focused edit。产品图/offer 变体可抄。",
+    "author": "nipuntaneja",
+    "url": "https://x.com/nipuntaneja/status/2097694013469982745",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097696764103201143",
+    "title": "零画功 Sketch：棒人+角色图→完整场景",
+    "blurb": "不会画画也能用棒人构图 + 角色参考生成场景；给客户讲「手绘即提示词」最直观。",
+    "author": "sunouku",
+    "url": "https://x.com/sunouku/status/2097696764103201143",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097698044733276309",
+    "title": "噪点×透明金属反光的多风格混剪",
+    "blurb": "Images 2.5 多风格混合质感：噪点被透明金属 + 反光包住；品牌视觉想玩材质差异可跟。",
+    "author": "ZHO_ZHO_ZHO",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2097698044733276309",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097818810493685854",
+    "title": "「只改文字」Before→After 实测",
+    "blurb": "长文验证「图挺好、字想换」痛点改善多少；电商主图、海报改文案的人值得看。",
+    "author": "dansyu_callenge",
+    "url": "https://x.com/dansyu_callenge/status/2097818810493685854",
+    "category": "电商改图"
+  },
+  {
+    "id": "2097860770210152638",
+    "title": "Astra×Image2.5 拼贴流水线",
+    "blurb": "逐片生成 → PS 拼 → AE 动起来；社媒拼贴 / 情绪板类内容批产。",
+    "author": "higgsfield_ai",
+    "url": "https://x.com/higgsfield_ai/status/2097860770210152638",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2097701567042609236",
+    "title": "任意角色→4×4战斗像素精灵表",
+    "blurb": "角色参考压成 combat sprite sheet（测了炭治郎），prompt 在 thread；游戏素材 / meme 模板一键量产。",
+    "author": "andytng28",
+    "url": "https://x.com/andytng28/status/2097701567042609236",
+    "category": "像素动效"
+  },
+  {
     "id": "2097551019295248486",
     "title": "手部 vs Grok：Flare / Sunburst 谁更稳",
     "blurb": "社区横向对比手部结构与真实感，选型前先看这一帖。",
