@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录 131 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录 136 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,6 +237,9 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **线控压力测：Raster distortion 才是正经 benchmark** — 细线要在复杂形体上保持干净连续。2.5 仍有小瑕疵，但线控明显更好——海报/品牌/文化视觉能用，附 prompt。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098012211482382380)
+- **Canvas 速度账：2 → Sunburst → Flare** — 同场景实测 46.5s → 38.7s → 21.4s，作者称几乎不掉质。选型别玄学，先看秒表。 [@AndrewPulc](https://x.com/AndrewPulc) · [原帖](https://x.com/AndrewPulc/status/2098018760749981786)
+- **23 任务同 prompt：2.5 vs Image 2 对打** — 2.5 赢在食物质感 + 编辑一致性；2 更稳产品构图；还有两边一起翻车的布局题——升级别神话。 [@DeepMediaLabs](https://x.com/DeepMediaLabs) · [原帖](https://x.com/DeepMediaLabs/status/2098016564960460826)
 - **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
 - **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测；透明底自测判断是否已上 2.5。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
 - **Flare / Sunburst 体感速度其实差不多** — 高质慢 vs 快但糙：实测速度差没想象大；API 走 Sunburst low 往往更香。一人团队选型直接抄作业。 [@makaneko_AI](https://x.com/makaneko_AI) · [原帖](https://x.com/makaneko_AI/status/2097958688321634471)
@@ -424,6 +427,7 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **一张静图当舞蹈参考，直接出片** — Image 2.5 做 dance reference 意外稳：上传一张就能跑成舞蹈视频，评论区有 prompt。短视频流水线可偷。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2098014577414033912)
 - **从 0 到 1 虚拟 IP 资产全流程（含完整提示词）** — 人物→五视图→表情头像→封面配图→换装街拍→PV。自媒体一人团队直接抄。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [完整 playbook](docs/playbooks/virtual-ip-assets.md)
   <details>
   <summary>查看 / 复制提示词（五视图摘录）</summary>
@@ -776,6 +780,7 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 像素、精灵表与动效向玩法。
 
+- **16-bit 犯罪短片：Flare + MiniMax 流水线** — Flare 出图 + MiniMax H3 Max 出片 + CapCut：像素风不当游戏贴图，硬做电影叙事。一人团队内容形态参考。 [@Danzeronero](https://x.com/Danzeronero) · [原帖](https://x.com/Danzeronero/status/2098014623803052533)
 - **单图 → 16 姿势 → Seedance 舞蹈片** — Image 2.5 出 16 pose，再丢 Seedance 做成舞蹈序列，prompt 在帖里。角色 UGC / 短视频素材流水线可直接抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2097958941070430477)
 - **96 帧鹈鹕骑车定格动画** — Images 2.5 逐帧生 96 张拼成 8 秒定格。不靠视频模型也能出片，短视频选题很香。 [@yunxi0623](https://x.com/yunxi0623) · [原帖](https://x.com/yunxi0623/status/2097926023069519960)
 - **角色 → 4×4 战斗精灵表 → GIF** — Seedream 出人设，Image 2.5 压透明 4×4 精灵表，再拆帧成 GIF。游戏素材/小红书动图流水线可抄。 [@AI_VideoLab](https://x.com/AI_VideoLab) · [原帖](https://x.com/AI_VideoLab/status/2097924471655162025)

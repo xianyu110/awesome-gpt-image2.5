@@ -1065,6 +1065,46 @@
     "category": "电商改图"
   },
   {
+    "id": "2098012211482382380",
+    "title": "线控压力测：Raster distortion 才是正经 benchmark",
+    "blurb": "细线要在复杂形体上保持干净连续。2.5 仍有小瑕疵，但线控明显更好——海报/品牌/文化视觉能用，附 prompt。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2098012211482382380",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098018760749981786",
+    "title": "Canvas 速度账：2 → Sunburst → Flare",
+    "blurb": "同场景实测 46.5s → 38.7s → 21.4s，作者称几乎不掉质。选型别玄学，先看秒表。",
+    "author": "AndrewPulc",
+    "url": "https://x.com/AndrewPulc/status/2098018760749981786",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098014577414033912",
+    "title": "一张静图当舞蹈参考，直接出片",
+    "blurb": "Image 2.5 做 dance reference 意外稳：上传一张就能跑成舞蹈视频，评论区有 prompt。短视频流水线可偷。",
+    "author": "Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2098014577414033912",
+    "category": "人像角色"
+  },
+  {
+    "id": "2098014623803052533",
+    "title": "16-bit 犯罪短片：Flare + MiniMax 流水线",
+    "blurb": "Flare 出图 + MiniMax H3 Max 出片 + CapCut：像素风不当游戏贴图，硬做电影叙事。一人团队内容形态参考。",
+    "author": "Danzeronero",
+    "url": "https://x.com/Danzeronero/status/2098014623803052533",
+    "category": "像素动效"
+  },
+  {
+    "id": "2098016564960460826",
+    "title": "23 任务同 prompt：2.5 vs Image 2 对打",
+    "blurb": "2.5 赢在食物质感 + 编辑一致性；2 更稳产品构图；还有两边一起翻车的布局题——升级别神话。",
+    "author": "DeepMediaLabs",
+    "url": "https://x.com/DeepMediaLabs/status/2098016564960460826",
+    "category": "选型评测"
+  },
+  {
     "id": "wechat-duanlaoshi-virtual-ip",
     "title": "从 0 到 1 虚拟 IP 资产全流程",
     "blurb": "人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。",
