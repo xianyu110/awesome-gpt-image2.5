@@ -108,8 +108,8 @@
     ],
     "notes": [
       "参考分工：人物图管长相，风格图管材质配色，文案管观点。",
-      "完整提示词见 docs/playbooks/virtual-ip-assets.md。",
-      "原作者：段老湿 · https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ"
+      "完整提示词见下方 playbook。",
+      "原作者：段老湿"
     ],
     "related_category": "人像角色",
     "playbook": "docs/playbooks/virtual-ip-assets.md",
