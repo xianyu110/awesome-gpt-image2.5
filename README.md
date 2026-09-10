@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录约 137 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录 129 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -39,7 +39,7 @@
 
 ## 可复用工作流 Skill
 
-五套从社区案例抽象出来的可抄工作流（站点页：[skills.html](./skills.html)）。按场景选一条跑即可。
+六套从社区案例抽象出来的可抄工作流（站点页：[skills.html](./skills.html)）。按场景选一条跑即可。
 
 | Skill | 一句话 | 适用 |
 | --- | --- | --- |
@@ -48,6 +48,7 @@
 | **UGC 写真锁脸** | 真照片颗粒/色调 + 锁脸，衣装可拆换 | 广告/种草人像、UGC 写真，或假色假噪点假皮肤。 |
 | **局部编辑 must-stay** | 圈选/评论改一处，其它死守不动 | 只要改灯、字、配料、背景，其它必须不动。 |
 | **像素精灵表 → GIF** | 4×4 动作表切格拼 GIF，游戏/表情包可复用 | 像素动画、战斗图、精灵表、短动效种草。 |
+| **虚拟 IP 资产流水线** | 人物母版 → 五视图 → 表情/头像/封面/配图 → 换装街拍 → PV | 要给自媒体/品牌从零搭一套可复用的虚拟人物资产（头像、封面、配图、表情包、街拍、短视频）。 |
 
 ### Sketch 控形出片
 
@@ -172,6 +173,30 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 - 可与 Astra 复刻像素小游戏组合成片。
 
 相关分类：[像素动效](#像素动效)
+
+---
+
+### 虚拟 IP 资产流水线
+
+> 人物母版 → 五视图 → 表情/头像/封面/配图 → 换装街拍 → PV
+
+**何时用：** 要给自媒体/品牌从零搭一套可复用的虚拟人物资产（头像、封面、配图、表情包、街拍、短视频）。
+
+**步骤：**
+
+1. 文生一张主体人像，锁定脸、发型、服装识别点。
+2. 用主体做五视图 / model sheet（身份锚点）。
+3. 同一参考出：表情九宫格、写实头像、卡通/像素变体、表情包。
+4. 定一套视觉语言（如纸片拼贴）做竖版封面 + 横版头图。
+5. 正文配图用「人物动作 + 观点」比喻，不堆大字海报。
+6. 需要时换装/街拍九宫格测一致性；再进九宫格分镜 → 视频。
+7. 交付：母版 + 五视图 + 头像族 + 封面模板 + 可复制 prompts。
+
+- 参考分工：人物图管长相，风格图管材质配色，文案管观点。
+- 完整提示词见 [docs/playbooks/virtual-ip-assets.md](docs/playbooks/virtual-ip-assets.md)。
+- 原作者：段老湿 · https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ
+
+相关分类：[人像角色](#人像角色)
 
 ---
 
@@ -364,6 +389,21 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **从 0 到 1 虚拟 IP 资产全流程（含完整提示词）** — 人物→五视图→表情头像→封面配图→换装街拍→PV。自媒体一人团队直接抄。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [完整 playbook](docs/playbooks/virtual-ip-assets.md)
+  <details>
+  <summary>查看 / 复制提示词（五视图摘录）</summary>
+
+```
+一张单人物角色参考设定图，纯净白色无缝摄影棚背景，横向排布为五个区域，区域之间保留干净白色留白。
+前四个区域展示同一位年轻成年东亚女性的完整转面：正面、三分之四侧面、纯侧面、背面。所有视图必须是同一个人、相同发型、相同服装、相同身体比例，保持自然放松的中性站姿，双臂自然垂落身体两侧，双脚自然并拢，重心稳定。
+第五个区域为同一人物的大尺寸正面脸部特写，直视镜头，表情安静自然，嘴唇轻微放松，清楚展示发型、妆容和面部细节。
+上传的照片同时作为人物的面部身份、发型、妆容、身体比例和服装造型参考。
+整张图片不要任何文字：不要视图名称、标题、编号、Logo、水印或说明文字。
+```
+
+完整全流程提示词见 [playbook](docs/playbooks/virtual-ip-assets.md)。
+
+  </details>
 - **80s 复古写真锁脸** — 年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097954772586557873)
 - **巴黎街拍写真 prompt** — 街拍姿势/光位/服装分段可替换。UGC 人像与旅拍种草可直接改地名。 [@AIwithSarah_](https://x.com/AIwithSarah_) · [原帖](https://x.com/AIwithSarah_/status/2097952240707530923)
 - **哥特 Lolita 完整中文 prompt** — 中文可复制人设配方，服装层次写细。角色卡/COS 种草少踩「衣服糊成一团」。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097951132031320484)
