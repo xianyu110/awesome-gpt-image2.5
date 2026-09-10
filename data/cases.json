@@ -1054,5 +1054,14 @@
     "author": "alepom",
     "url": "https://x.com/alepom/status/2097928991407546852",
     "category": "电商改图"
+  },
+  {
+    "id": "wechat-duanlaoshi-virtual-ip",
+    "title": "从 0 到 1 虚拟 IP 资产全流程",
+    "blurb": "人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。",
+    "author": "段老湿",
+    "url": "https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ",
+    "category": "人像角色",
+    "playbook": "docs/playbooks/virtual-ip-assets.md"
   }
 ]
