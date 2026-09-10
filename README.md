@@ -1,11 +1,11 @@
-# Awesome GPT Image 2.5（ChatGPT Images 2.5 / Flare · Sunburst）
+# Awesome GPT Image 2.5
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-brightgreen)](https://xianyu110.github.io/awesome-gpt-image2.5/)
 
-> ChatGPT Images 2.5 / gpt-image-2.5（Flare · Sunburst · Sketch）社区好玩用法与可抄 prompt 画廊。每条附原帖；偏一人团队、营销素材、可抄工作流。
+> ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录 148 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录 136 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -280,6 +280,17 @@ Turn off the lights. Keep only the candles.
 
   </details>
 - **加一颗草莓看出 Flare vs Sunburst 精度差** — 同咖啡馆再只加一颗草莓；Sunburst 仍比 Image-2 更快更便宜，精度编辑才是卖点。做广告迭代别盲选「快模式」。 [@nocodemba](https://x.com/nocodemba) · [原帖](https://x.com/nocodemba/status/2097785065547984984)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A realistic product photograph of a blue ceramic cup of coffee on a pale wooden café table. Beside it, a croissant rests on a folded cream linen napkin, with a silver teaspoon to the right. A small upright card reads “SLOW MORNINGS” in clear lettering. Warm sunlight from the left creates soft shadows. Keep the composition uncluttered.
+
+Edit prompt:
+Add one ripe red strawberry on the table directly beside the blue cup. Keep every existing object, the lettering, camera angle, lighting, and composition unchanged.
+```
+
+  </details>
 - **Image 2 vs 2.5 对比笔记（API 坑）** — 2 没有 variant（2.5 默认 Flare）；参考图从 image 变 image_references——写教程/测评时这些细节拉开专业度。 [@Lucas_IA_](https://x.com/Lucas_IA_) · [原帖](https://x.com/Lucas_IA_/status/2097705361830531366)
 - **Flare vs Sunburst：冻结任务再打分** — 别靠玄学选型。冻结 3 个真实编辑任务、标死 must-stay 区域，按指令成功率/漂移/主体一致/延迟/图 token 成本选赢家。 [@evankang_ai](https://x.com/evankang_ai) · [原帖](https://x.com/evankang_ai/status/2097704377142407323)
 - **付费社媒静态广告：Flare/Sunburst 四块分工** — 拆成投放可用四块：Flare 默认量产、Sunburst 精修、reference lock、focused edit。产品图/offer 变体可抄。 [@nipuntaneja](https://x.com/nipuntaneja) · [原帖](https://x.com/nipuntaneja/status/2097694013469982745)
@@ -453,13 +464,241 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 - **80s 复古写真锁脸** — 年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097954772586557873)
 - **巴黎街拍写真 prompt** — 街拍姿势/光位/服装分段可替换。UGC 人像与旅拍种草可直接改地名。 [@AIwithSarah_](https://x.com/AIwithSarah_) · [原帖](https://x.com/AIwithSarah_/status/2097952240707530923)
 - **哥特 Lolita 完整中文 prompt** — 中文可复制人设配方，服装层次写细。角色卡/COS 种草少踩「衣服糊成一团」。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097951132031320484)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+近距离俯拍自拍 Cosplay 写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，小头比例，冷白通透肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。白色齐刘海长发 × 侧边长马尾，哥特 Lolita 发饰搭配黑色小帽子；外穿风衣，内搭白衬衫与深色领带，下身可见黑色光腿神器与小皮鞋，酷感又精致。
+
+🛏️ 卧室床边，床铺与浅色墙面背景干净，人物居中，半身近景，画面上下留白充足。浅景深、柔和朦胧光影、低饱和色调、轻微曝光，真实高清摄影质感，日常随拍氛围，面部细节真实，手部自然准确，肢体不穿插。
+
+随机动作池：
+
+🎀 坐在床边看向镜头，一手轻抓侧边长马尾
+🖤 微微歪头托腮，另一手绕住马尾末端
+🪞 身体微微前倾，抬眼看镜头，手指整理刘海
+📖 坐在床沿低头整理领带，下一秒抬眼被抓拍
+🫧 一手扶着床边，另一手轻拎马尾，神态安静冷感
+✨ 侧身坐在床边，回头看镜头，长马尾垂落肩前
+🌙 双腿自然并拢坐好，轻捏发尾，表情松弛疏离
+🎩 抬手轻碰黑色小帽子，另一手自然落在腿侧
+
+🎲 围绕不同动作自由发挥俯拍角度、自拍距离、马尾状态、领带细节、床边构图与朦胧光影，重点保持真人 Cosplay 质感、手部自然、脸部真实，追求哥特 Lolita × 日常卧室 × 高级随拍氛围。
+
+出一张包含不同动作的综合预览图，让我从中选择。
+
+#今日提示词 #GPT #IMAGE2.5
+```
+
+  </details>
 - **Model sheet 身份锁：多角度同一人** — 角色表压住脸与体型，多视角不漂移。做 IP/表情包/游戏立绘流水线先抄这套。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2097949170594193427)
 - **叠穿コーデ 全套可替换 prompt** — 日系叠穿长文配方，单品可拆换。电商穿搭图与小红书 OOTD 直接改货号。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2097937963523145829)
 - **Flare/Sunburst × Seedance：UGC 广告流水线** — 静图出片再进短视频。一人团队做 UGC 投放素材的「图→片」衔接可抄。 [@tanabe_fragm](https://x.com/tanabe_fragm) · [原帖](https://x.com/tanabe_fragm/status/2097935536224866583)
 - **同 prompt 炼狱角色一致性演示** — 同一套 prompt 换 Rengoku，成品干净，prompt 贴在下面。角色锁 / 二次元营销素材可抄。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2097900600105308347)
 - **古代美人 8 步互动捏人 prompt** — 朝代→身材→气质→发式→服饰→妆容→场景→神态，少解释多状态保存。小红书/社群引流模板味很足。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2097897602356306361)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+你是一款互动式古代美人捏人游戏。通过8步决定人物核心特征，其余细节由AI补全。少解释，多互动，始终保存当前角色状态。
+
+【流程】
+
+①朝代 → ②身材 → ③气质 → ④发式 → ⑤服饰 → ⑥妆容 → ⑦场景 → ⑧神态 → 完成
+
+严格按顺序，一次只展示一个项目。用户选择后立即保存并进入下一项，不询问“下一步”，不重复确认。开始时只展示①。
+
+【选择界面】
+
+每项6～10个选项。
+
+使用紧凑视觉卡：视觉示例＋编号＋名称＋一句短解析。解析突出选项特点或视觉效果，尽量控制在10字以内。2～3列，一屏显示。
+
+支持点击时优先点击；无法点击时使用编号或名称。
+
+【捏人项目】
+
+①朝代
+先秦｜秦汉｜魏晋南北朝｜隋唐｜五代十国｜宋｜辽金元｜明｜清
+
+②身材
+娇小纤秀｜纤细柔婉｜自然匀称｜高挑修长｜柔婉丰润｜丰姿婀娜
+
+③气质
+清雅｜温婉｜明艳｜灵秀｜端庄｜妩媚｜清冷｜娇憨
+
+④发式
+根据朝代提供6～8种有历史依据的女性传统发式。
+
+⑤服饰
+根据朝代提供6～8种有文物、绘画、考古或文献依据的女性传统服饰形制。禁止现代新中式、泛中国风、影视架空服饰。
+
+⑥妆容
+根据朝代提供6～8种有历史依据的女性妆容。
+
+⑦场景
+根据朝代提供6～8种符合时代建筑、生活方式和社会环境的女性生活场景。
+
+⑧神态
+根据①～⑦已确定的全部设定，动态生成8种最符合当前人物、场景和情境的神态。
+
+8种神态须有明显区别，避免重复、冲突和泛化。⑧不使用固定选项池。
+
+【朝代联动】
+
+④发式、⑤服饰、⑥妆容、⑦场景必须与①朝代一致。
+
+辽金元需分别处理，不得混合三个时期。
+
+修改①朝代，只重新处理④⑤⑥⑦；②③保持不变。
+
+修改④～⑦任一项目后，检查后续项目是否与最新设定冲突，有冲突则重新处理；⑧始终根据最新①～⑦重新生成。
+
+【状态与操作】
+
+始终保存已选项目。
+
+“随机”：随机当前项目，已锁定则无效。
+
+“换一个”：重新提供当前项目选项，已锁定则无效。
+
+“锁定”：锁定当前项目，限制随机、换一个和全部随机改变该项目。
+
+“修改设定”：用户明确指定修改时，可以修改已锁定项目。
+
+“返回”：回到上一项目并立即显示该项目，重新选择后继续向后推进，其他状态保留；若后续项目与最新设定冲突，则重新处理受影响项目，并重新生成⑧神态。
+
+“全部随机”：随机所有未锁定项目，已锁定项目保持不变，从①开始；遇到已锁定项目直接保留并进入下一项。完成①～⑦后，根据最新设定重新生成⑧神态。
+
+“重新捏人”：清空全部设定，从①开始。
+
+支持直接说“换成明代”“发式换一个”“改成浅笑”等，根据语义执行。
+
+【AI自动补全】
+
+除8个捏人项目外，其余全部由AI自动完成，包括动作、手势、具体发饰、首饰、颜色、纹样、材质、鞋履、道具、环境、人物关系、构图、镜头、光影、时令、天气等。
+
+时令：春｜夏｜秋｜冬
+天气：晴｜阴｜薄雾｜细雨｜雪
+
+所有自动补全必须符合人物、朝代、服饰、发式、妆容和场景。
+
+【固定人物】
+
+成年女性；身材自然；比例协调；真实肤质。
+
+【固定摄影】
+
+手机生活抓拍 × CCD直闪；9:16竖幅；原生数码照片。
+
+摄影风格固定，不作为选择项目，不改变历史语境。
+
+【完成】
+
+完成⑧神态后，必须依次输出：
+
+【完整角色设定】
+
+①朝代：当前选择
+②身材：当前选择
+③气质：当前选择
+④发式：当前选择
+⑤服饰：当前选择
+⑥妆容：当前选择
+⑦场景：当前选择
+⑧神态：当前选择
+
+【最终图片提示词】
+
+完整整合8项设定，并自动补全动作、手势、发饰、首饰、服装细节、颜色、纹样、材质、鞋履、道具、环境、人物关系、时令、天气、构图、镜头和光影。
+
+保持历史一致性，并加入：
+
+手机生活抓拍 × CCD直闪；9:16竖幅；原生数码照片。
+
+最终提示词必须完整、连贯、可直接复制用于图片生成，不得只输出关键词或省略已选设定。
+
+提示词最后加入：
+
+左下签名“● DeepBlue”；“●”为纯 #0B3D91 深蓝色实心圆点，“DeepBlue”为白色自然手写字体
+
+然后显示：
+
+① 生成图片
+② 修改设定
+③ 重新捏人
+
+【生成】
+
+输入“1”“生成”或“出图”，立即根据最终图片提示词生成图片。
+
+【修改】
+
+输入“2”后指定项目并重新选择。
+
+修改后重新输出完整角色设定和最终图片提示词，再显示①②③。
+
+【重新捏人】
+
+输入“3”或“重新捏人”，清空角色，从①开始。
+
+【再来一个】
+
+保留8项核心设定和固定摄影。
+
+只重新演绎动作、环境、时令、天气、构图、镜头和光影。
+
+不得改变8项核心设定或固定摄影。
+
+生成新的最终图片提示词并立即生成。
+
+【最终规则】
+
+这是连续捏人游戏，不是普通问答。
+
+一次一个项目；选择后立即推进；始终保存状态；朝代变化自动联动；修改④～⑦后检查后续一致性；⑧神态始终根据最新①～⑦动态生成；摄影固定；不得要求下一步；不得重复确认。
+
+完成⑧后必须：
+
+输出完整角色设定
+→ 输出完整图片提示词
+→ 显示①②③
+
+不得跳过完整图片提示词。
+
+点击不可用时，立即降级为编号或名称选择，不得中断流程。
+
+现在开始，只展示①朝代。
+```
+
+  </details>
 - **candid 写真分层 prompt（Higgsfield）** — 拆「真实夏日随拍」结构：关键不是堆细节，是分层对。适合 UGC / 社媒广告。 [@GrowWithDani](https://x.com/GrowWithDani) · [原帖](https://x.com/GrowWithDani/status/2097882770899091928)
 - **网球写真完整中文 prompt** — 动作姿态写实到能当 UGC 素材库，9:16 竖版可抄。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097878838063903217)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+室内网球写真抓拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致窄长鹅蛋脸，冷白透亮肌肤，高挑纤细模特身材。黑色超长直发，白色空顶帽带蝴蝶结，浅天蓝色细吊带运动背心 × 同色系多层荷叶短裙，白色网球拍，清新又有活力。
+
+💙 专业蓝色硬地网球场，深蓝围挡，明亮柔和顶光，85mm 运动抓拍感。整体清新蓝白色调，人物全身完整入镜，偏侧颜、神情专注、嘴唇微张，皮肤、发丝、纱裙褶皱与球拍细节清晰，真实运动写真感。
+
+随机动作池：
+
+🎾 侧身弓步预备接球，双手握拍，目光紧盯侧方来球
+💨 向左侧快速跨步，球拍前伸准备拦截
+🩵 半蹲压低重心，双腿弯曲，准备反手接球
+🏃🏻‍♀️ 接球前瞬间急停，长发与裙摆轻微扬起
+✨ 双手持拍放在身前，身体前倾进入防守姿态
+🌀 刚完成一次小碎步调整，回头锁定来球方向
+🎯 单脚前踏、另一脚蹬地，球拍微抬，专注等待来球
+🌬️ 低重心侧移，裙摆与碎发轻轻甩动，形成动态抓拍感
+
+🎲 围绕不同动作自由发挥机位、弓步幅度、挥拍方向、发丝动态、裙摆层次与场馆光线，保持人体结构、手部握拍和运动姿态自然，追求网球少女 × 清新运动感 × 高级体育写真抓拍氛围。
+
+出一张包含不同动作的综合预览图，让我从中选择。
+```
+
+  </details>
 - **写真 UGC：先偷真照片颗粒/色调，再锁脸** — 无参考 = 假色假噪点假皮肤。广告素材/种草图抄这个就够锋利。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2097864879843746285)
 - **璃月衣帽间极低机位自拍** — 9:16 超写实手机仰拍：奢华衣帽间 + 金玉腰链细节。社媒竖版人像的「自信不艳俗」配方。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2097860248640053693)
   <details>
