@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Images 2.5 可复用工作流 Skill · MaynorAI</title>
-  <meta name="description" content="六套 ChatGPT Images 2.5 可抄工作流：Sketch 出片、Flare/Sunburst 选型、UGC 锁脸、局部编辑、像素精灵表、虚拟 IP 资产。" />
+  <meta name="description" content="六套 ChatGPT Images 2.5 可一键复制给 Agent 的 Skill（SKILL.md）：Sketch 出片、Flare/Sunburst 选型、UGC 锁脸、局部编辑、像素精灵表、虚拟 IP 资产。" />
   <link rel="canonical" href="https://xianyu110.github.io/awesome-gpt-image2.5/skills.html" />
   <meta name="theme-color" content="#070b14" />
   <link rel="stylesheet" href="./assets/site.css" />
@@ -26,6 +26,30 @@
       white-space:pre-wrap; background:rgba(0,0,0,.4); padding:12px; border-radius:10px;
       border:1px solid rgba(110,231,255,.12); font-size:12px; color:#d7e6ff;
     }
+    .skill-actions {
+      display:flex; flex-wrap:wrap; align-items:center; gap:10px; margin-top:8px;
+    }
+    .copy-skill {
+      display:inline-flex; align-items:center; gap:0.35rem;
+      padding:0.55rem 1.05rem; border-radius:999px; cursor:pointer;
+      font-weight:700; font-size:0.9rem; border:1px solid rgba(110,231,255,.55);
+      background: linear-gradient(135deg, rgba(110,231,255,.95), rgba(34,211,238,.85));
+      color:#052033; box-shadow: 0 6px 22px rgba(110,231,255,.28);
+      transition: filter .15s, transform .15s;
+    }
+    .copy-skill:hover { filter: brightness(1.06); }
+    .copy-skill:active { transform: translateY(1px); }
+    .copy-skill.is-copied {
+      background: rgba(74,222,128,.92);
+      border-color: rgba(74,222,128,.7);
+      color:#052e16;
+      box-shadow: 0 6px 22px rgba(74,222,128,.25);
+    }
+    .skill-view-link {
+      color:#6ee7ff; font-size:13px; text-decoration:none;
+      border-bottom:1px dashed rgba(110,231,255,.45);
+    }
+    .skill-view-link:hover { border-bottom-style:solid; }
     .auto-sync {
       margin: 18px 0 0; padding:14px 16px; border-radius:14px;
       border:1px solid rgba(110,231,255,.2); background:rgba(110,231,255,.06); color:#c9d7ea; font-size:14px;
@@ -49,18 +73,17 @@
   <main class="wrap" style="padding-top:28px;padding-bottom:80px;">
     <div class="eyebrow"><span aria-hidden="true">✦</span> 可复用工作流</div>
     <h1 style="margin-top:8px;">六套 Images 2.5 Skill</h1>
-    <p class="hero-sub" style="max-width:640px;">从社区案例抽象出来的可抄流程——<strong>不是插件，不用安装</strong>。先看下面「怎么用」，再按场景选一条在 ChatGPT Images 里跑。</p>
+    <p class="hero-sub" style="max-width:680px;">从社区案例抽象出来的可抄流程——<strong>不是插件</strong>，而是<strong>一键复制成 Agent Skill</strong>（Cursor / Codex / Grok Bot 的 <code>SKILL.md</code>）。也可当人类清单在 ChatGPT Images 里逐步跑。</p>
     <section class="howto" style="margin:22px 0 8px;padding:18px 18px 14px;border-radius:16px;border:1px solid rgba(110,231,255,.22);background:rgba(18,24,33,.75);">
-      <h2 style="margin:0 0 10px;font-size:1.15rem;">怎么用（30 秒上手）</h2>
+      <h2 style="margin:0 0 10px;font-size:1.15rem;">怎么用（给 Agent / 给人）</h2>
       <ol style="margin:0;padding-left:1.2rem;color:#e8eef7;line-height:1.55;">
-        <li><strong>这不是要安装的插件</strong>——这里的 Skill = 可抄工作流清单（步骤 + 注意点），在 ChatGPT Images 2.5 里按步骤做就行。</li>
-        <li><strong>先选场景</strong>：下面六张卡看「何时用」，对上你的任务再点开。</li>
-        <li><strong>打开 ChatGPT → 图像 / Images</strong>（网页版才有 Sketch / Templates / 标注精修；别指望 Codex 里 @Sketch）。</li>
-        <li><strong>从上到下照着步骤跑</strong>：需要控形用 @Sketch；要模板点「创建图片」选 Templates；改局部用圈选/评论，别整段重抽。</li>
-        <li><strong>Flare 先草稿，Sunburst 出终稿</strong>（赶量用 Flare，抠字/细节用 Sunburst）。</li>
-        <li>有「完整 playbook」的卡，点进去复制长提示词；没有的就按步骤用自己的素材跑一遍。</li>
+        <li><strong>Skill = 可给 Agent 复用的配方</strong>（标准 <code>SKILL.md</code>），同时也是人类 checklist——不是要安装的插件。</li>
+        <li>点每张卡的<strong>「复制给 Agent（SKILL.md）」</strong>→ 粘贴到 Cursor Skills / Codex skill / 任意 agent 的 skill 文件夹，保存为 <code>SKILL.md</code>。</li>
+        <li>或者打开<strong>查看 SKILL.md</strong>（仓库 <code>skills/&lt;id&gt;/SKILL.md</code>），也可直接 clone 整个 <a href="https://github.com/xianyu110/awesome-gpt-image2.5/tree/main/skills" style="color:#6ee7ff;">skills/</a> 文件夹。</li>
+        <li>仍然可以<strong>不复制、纯手动</strong>：打开 ChatGPT → 图像 / Images，按步骤在网页版跑（Sketch / Templates / 标注精修仅网页版）。</li>
+        <li><strong>Flare 先草稿，Sunburst 出终稿</strong>（赶量用 Flare，抠字/细节用 Sunburst）。有 playbook 的卡可点进去拿长提示词。</li>
       </ol>
-      <p style="margin:12px 0 0;color:#9aa7b8;font-size:13px;">配套：<a href="https://xianyu110.github.io/gptimage2.5/" style="color:#6ee7ff;">Images 2.5 国内指南</a> · <a href="./#gallery" style="color:#6ee7ff;">案例画廊</a> · <a href="https://github.com/xianyu110/awesome-gpt-image2.5#可复用工作流-skill" style="color:#6ee7ff;">README 同款说明</a></p>
+      <p style="margin:12px 0 0;color:#9aa7b8;font-size:13px;">配套：<a href="https://xianyu110.github.io/gptimage2.5/" style="color:#6ee7ff;">Images 2.5 国内指南</a> · <a href="./#gallery" style="color:#6ee7ff;">案例画廊</a> · <a href="https://github.com/xianyu110/awesome-gpt-image2.5#可复用工作流-skill" style="color:#6ee7ff;">README 同款说明</a> · <a href="https://raw.githubusercontent.com/xianyu110/awesome-gpt-image2.5/main/skills/sketch-to-final/SKILL.md" style="color:#6ee7ff;">示例 raw SKILL.md</a></p>
     </section>
 
     <div class="auto-sync"><strong>自动入库：</strong>工作日 10:10 / 14:10 / 18:10 / 21:10 会把小时 digest 里的高信号玩法合并进仓库（有新才推）。小时聊天推送 ≠ 自动入库。</div>
@@ -70,10 +93,12 @@
 <script>
   (async () => {
     const root = document.getElementById('skills');
+    const byId = Object.create(null);
     try {
       const res = await fetch('./data/skills.json', { cache: 'no-cache' });
       if (!res.ok) throw new Error(res.status);
       const skills = await res.json();
+      skills.forEach(s => { byId[s.id] = s; });
       root.innerHTML = skills.map(s => {
         const steps = (s.steps||[]).map(t => `<li>${escapeHtml(t)}</li>`).join('');
         const notes = (s.notes||[]).map(n => `<li>${escapeHtml(n)}</li>`).join('');
@@ -89,6 +114,9 @@
         const cat = s.related_category
           ? `<p class="skill-meta">相关分类：<a href="./#gallery">${escapeHtml(s.related_category)}</a></p>`
           : '';
+        const skillPath = s.skill_path || (`skills/${s.id}/SKILL.md`);
+        const viewHref = `./${escapeAttr(skillPath)}`;
+        const rawHref = `https://raw.githubusercontent.com/xianyu110/awesome-gpt-image2.5/main/${escapeAttr(skillPath)}`;
         return `<article class="skill-card" id="${escapeAttr(s.id)}">
           <h2>${escapeHtml(s.name)}</h2>
           <p class="tagline">${escapeHtml(s.tagline||'')}</p>
@@ -100,8 +128,38 @@
           ${playbook}
           ${source}
           ${cat}
+          <div class="skill-actions">
+            <button type="button" class="copy-skill" data-id="${escapeAttr(s.id)}">复制给 Agent（SKILL.md）</button>
+            <a class="skill-view-link" href="${viewHref}">查看 SKILL.md</a>
+            <a class="skill-view-link" href="${rawHref}" rel="noopener" target="_blank">raw</a>
+          </div>
         </article>`;
       }).join('');
+
+      root.addEventListener('click', async (ev) => {
+        const btn = ev.target.closest('button.copy-skill');
+        if (!btn) return;
+        const id = btn.getAttribute('data-id');
+        const skill = byId[id];
+        const text = skill && skill.skill_md;
+        if (!text) {
+          btn.textContent = '缺少 skill_md';
+          return;
+        }
+        try {
+          await navigator.clipboard.writeText(text);
+          const prev = btn.textContent;
+          btn.textContent = '已复制';
+          btn.classList.add('is-copied');
+          setTimeout(() => {
+            btn.textContent = prev;
+            btn.classList.remove('is-copied');
+          }, 1500);
+        } catch (err) {
+          btn.textContent = '复制失败';
+          setTimeout(() => { btn.textContent = '复制给 Agent（SKILL.md）'; }, 1500);
+        }
+      });
     } catch (e) {
       root.innerHTML = `<p>加载失败：${escapeHtml(String(e.message||e))}</p>`;
     }

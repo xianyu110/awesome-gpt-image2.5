@@ -43,6 +43,8 @@
 
 **怎么用：** 这不是插件、不用安装。打开 ChatGPT → 图像 / Images，按「何时用」选一条，从上到下照步骤跑；网页版才有 Sketch / Templates / 标注精修。Flare 赶草稿，Sunburst 出终稿。有 playbook 的条目点进去复制完整提示词。
 
+「点 skills 页「复制给 Agent」可粘贴为 Cursor/Codex 的 SKILL.md；源文件在 [`skills/`](./skills/)。」
+
 
 | Skill | 一句话 | 适用 |
 | --- | --- | --- |

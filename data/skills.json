@@ -16,7 +16,9 @@
       "Templates 起海报；Sketch 控形。",
       "一会话只盯一张图，避免改错对象。"
     ],
-    "related_category": "Sketch"
+    "related_category": "Sketch",
+    "skill_path": "skills/sketch-to-final/SKILL.md",
+    "skill_md": "---\nname: Sketch 控形出片\ndescription: >-\n  use this when turning a rough sketch into Images 2.5 finals with Flare drafts and Sunburst polish\n---\n# Images 2.5 · Sketch 控形出片\n\n## When\n用户要控构图/布局，或说「不会画画也想出图」「先草图再精修」。\n\n## Steps\n1. 确认输出用途（封面 / 海报 / 产品图）和画幅（3:4、9:16、16:9）。\n2. 在 ChatGPT Images 输入 `@Sketch`，用极简线稿标：主体位置、标题区、产品位、视线/光位（火柴人即可）。\n3. 一句指令描述题材与风格，先用 **Flare** 出草稿验证构图。\n4. 成片上用标注/评论改局部（「标题改成…」「加墨镜」），不要整段重抽。\n5. 终稿切 **Sunburst**（或同画幅精修一轮）；需要多平台时用「调整尺寸」重排，勿简单裁切。\n6. 交付：成图 + 可复制最终 prompt（含画幅与 must-keep 说明）。\n\n## Notes\n- Templates 适合海报起稿；Sketch 适合控形。\n- 多轮改旧图易改错对象：一会话只盯一张，或新开对话。\n- 参考案例：awesome-gpt-image2.5 分类「Sketch」。\n\n## Agent instructions\n- You are helping the user run this Images 2.5 workflow in ChatGPT Images (web).\n- Prefer Flare for drafts, Sunburst for finals unless the skill says otherwise.\n- Sketch / Templates / annotation edits: ChatGPT web only (not Codex @Sketch).\n- Deliver: outputs + copyable final prompts.\n- Link gallery: https://xianyu110.github.io/awesome-gpt-image2.5/\n"
   },
   {
     "id": "flare-sunburst-score",
@@ -35,7 +37,9 @@
       "2.5 ≠ Images 2.0。",
       "国内站「GPTimage2」≠ 自动已上 2.5。"
     ],
-    "related_category": "选型评测"
+    "related_category": "选型评测",
+    "skill_path": "skills/flare-sunburst-score/SKILL.md",
+    "skill_md": "---\nname: Flare / Sunburst 选型打分\ndescription: >-\n  use this when choosing Flare vs Sunburst or writing an Images 2.5 model comparison\n---\n# Images 2.5 · Flare / Sunburst 选型打分\n\n## When\n用户纠结用 Flare 还是 Sunburst，或要做模型横评/报价话术。\n\n## Steps\n1. 冻结 **3 个真实任务**（例如：换装、改局部光、海报改字），不要用空氛围词。\n2. 每张参考图标死 **must-stay** 区域（脸、logo、包装文字、构图骨架）。\n3. 同 prompt、同参考，分别跑 Flare 与 Sunburst（必要时加 2.0 作对照）。\n4. 打分表（1–5）：指令成功率、主体漂移、细节/文字、延迟、成本（图 token）。\n5. 结论模板：\n   - 赶量/社媒试错 → **Flare**\n   - 终稿/文字排版/材质光影 → **Sunburst**\n6. 输出一张对比表 + 一句话选型建议（可直接进营销文案）。\n\n## Notes\n- 2.5 ≠ Images 2.0；国内站写「GPTimage2」不代表已上 2.5。\n- 参考：关灯留蜡烛、儿童涂鸦三模、七模商业大片横评。\n\n## Agent instructions\n- You are helping the user run this Images 2.5 workflow in ChatGPT Images (web).\n- Prefer Flare for drafts, Sunburst for finals unless the skill says otherwise.\n- Sketch / Templates / annotation edits: ChatGPT web only (not Codex @Sketch).\n- Deliver: outputs + copyable final prompts.\n- Link gallery: https://xianyu110.github.io/awesome-gpt-image2.5/\n"
   },
   {
     "id": "ugc-face-lock",
@@ -53,7 +57,9 @@
       "无参考硬生成真人广告脸。",
       "一次改动作+发色+妆容易脑补遮挡区。"
     ],
-    "related_category": "人像角色"
+    "related_category": "人像角色",
+    "skill_path": "skills/ugc-face-lock/SKILL.md",
+    "skill_md": "---\nname: UGC 写真锁脸\ndescription: >-\n  use this when making photoreal UGC or ad portraits with Images 2.5 face-lock\n---\n# Images 2.5 · UGC 写真锁脸配方\n\n## When\n用户要做广告/种草人像、UGC 写真，或抱怨「假色假噪点假皮肤」。\n\n## Steps\n1. 准备 **1 张干净参考脸**（遮挡少、光线清楚）+ **1 张真照片**作颗粒/色调参考（可选）。\n2. Prompt 结构：用途 → 可见细节 → 姿态/视线 → 服装分块（可互换）→ 画幅 → 必须保留的脸部特征。\n3. 先 Flare 出 2–4 张锁脸草稿；只用评论/标注改妆发服装，避免重抽丢一致性。\n4. 终稿 Sunburst；检查皮肤纹理、噪点、色温是否像「偷来的真照片」而不是塑料感。\n5. 交付：成片 + 服装可替换段落（上衣/下装/鞋可拆换）。\n\n## Anti-patterns\n- 无参考硬生成真人广告脸。\n- 一次改动作+发色+妆容导致脑补遮挡区。\n\n## Notes\n参考 awesome：写真 UGC 颗粒锁脸、可互换衣装 Prompt 包、唐风美人背。\n\n## Agent instructions\n- You are helping the user run this Images 2.5 workflow in ChatGPT Images (web).\n- Prefer Flare for drafts, Sunburst for finals unless the skill says otherwise.\n- Sketch / Templates / annotation edits: ChatGPT web only (not Codex @Sketch).\n- Deliver: outputs + copyable final prompts.\n- Link gallery: https://xianyu110.github.io/awesome-gpt-image2.5/\n"
   },
   {
     "id": "local-edit-must-stay",
@@ -72,7 +78,9 @@
       "多图会话易跟最近一张，宁开新对话。"
     ],
     "related_category": "电商改图",
-    "briefing": "目标改动：…\nMust-stay：脸 / logo / 已改标题 / 构图骨架\n不要动：…\n画幅：…"
+    "briefing": "目标改动：…\nMust-stay：脸 / logo / 已改标题 / 构图骨架\n不要动：…\n画幅：…",
+    "skill_path": "skills/local-edit-must-stay/SKILL.md",
+    "skill_md": "---\nname: 局部编辑 must-stay\ndescription: >-\n  use this when doing precise Images 2.5 local edits with must-stay regions\n---\n# Images 2.5 · 局部编辑 must-stay\n\n## When\n用户只要改一处（灯、字、配料、背景），其它必须不动。\n\n## Steps\n1. 打开成片，用 **标注圈选** 或 **评论点选** 说清改什么；一句话写操作（例：「把灯挪到右边」「关掉灯只留蜡烛」）。\n2. 在 prompt/评论里显式写 **must-stay**：人物身份、构图、已改过的标题/道具。\n3. 小改用当前模型继续；大改或文字排版压力大再上 Sunburst。\n4. 验收：并排 before/after，检查非目标区是否漂移。\n5. 需要换画幅：用「调整尺寸」让模型重排，不要裁切了事。\n\n## Briefing 模板（可贴进对话）\n```text\n目标改动：…\nMust-stay：脸 / logo / 已改标题 / 构图骨架\n不要动：…\n画幅：…\n```\n\n## Notes\n一会话多张图时系统爱跟「最近一张」——引用旧图仍可能改错，宁开新对话。\n\n## Agent instructions\n- You are helping the user run this Images 2.5 workflow in ChatGPT Images (web).\n- Prefer Flare for drafts, Sunburst for finals unless the skill says otherwise.\n- Sketch / Templates / annotation edits: ChatGPT web only (not Codex @Sketch).\n- Deliver: outputs + copyable final prompts.\n- Link gallery: https://xianyu110.github.io/awesome-gpt-image2.5/\n"
   },
   {
     "id": "pixel-spritesheet-gif",
@@ -90,7 +98,9 @@
       "可与 Astra 复刻像素小游戏组合成片。"
     ],
     "related_category": "像素动效",
-    "prompt_skeleton": "上传图1作为角色身份与服装的唯一参考。\n生成 4×4 像素风动作表，网格对齐，每格一个清晰动作，…"
+    "prompt_skeleton": "上传图1作为角色身份与服装的唯一参考。\n生成 4×4 像素风动作表，网格对齐，每格一个清晰动作，…",
+    "skill_path": "skills/pixel-spritesheet-gif/SKILL.md",
+    "skill_md": "---\nname: 像素精灵表 → GIF\ndescription: >-\n  use this when making Images 2.5 pixel sprite sheets and GIFs from a character ref\n---\n# Images 2.5 · 像素精灵表→GIF\n\n## When\n用户要像素动画、战斗图、精灵表，或短动效种草素材。\n\n## Steps\n1. 上传角色/宠物图，声明「身份与服装唯一参考」。\n2. 要求生成 **4×4（或 N×N）动作网格**，格子对齐、透明或纯色底、统一光源。\n3. 用 Flare 快速出表；动作不对再标注单格重做。\n4. 导出后切格、按序拼 GIF/短视频（剪映/FFmpeg 均可）。\n5. 交付：精灵表原图 + GIF + 核心提示词（可换角色名）。\n\n## Prompt 骨架\n```text\n上传图1作为角色身份与服装的唯一参考。\n生成 4×4 像素风动作表，网格对齐，每格一个清晰动作，…\n```\n\n## Notes\n参考 awesome「4×4像素战斗图→GIF」。可与 Astra 复刻像素小游戏组合成片。\n\n## Agent instructions\n- You are helping the user run this Images 2.5 workflow in ChatGPT Images (web).\n- Prefer Flare for drafts, Sunburst for finals unless the skill says otherwise.\n- Sketch / Templates / annotation edits: ChatGPT web only (not Codex @Sketch).\n- Deliver: outputs + copyable final prompts.\n- Link gallery: https://xianyu110.github.io/awesome-gpt-image2.5/\n"
   },
   {
     "id": "virtual-ip-assets",
@@ -113,6 +123,8 @@
     ],
     "related_category": "人像角色",
     "playbook": "docs/playbooks/virtual-ip-assets.md",
-    "source_url": "https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ"
+    "source_url": "https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ",
+    "skill_path": "skills/virtual-ip-assets/SKILL.md",
+    "skill_md": "---\nname: 虚拟 IP 资产流水线\ndescription: >-\n  use this when building a reusable virtual IP asset pack (avatar, covers, emotes, street looks, PV) with Images 2.5\n---\n# Images 2.5 · 虚拟 IP 资产流水线\n\n## When\n要给自媒体/品牌从零搭一套可复用的虚拟人物资产（头像、封面、配图、表情包、街拍、短视频）。\n\n## Steps\n1. 文生一张主体人像，锁定脸、发型、服装识别点。\n2. 用主体做五视图 / model sheet（身份锚点）。\n3. 同一参考出：表情九宫格、写实头像、卡通/像素变体、表情包。\n4. 定一套视觉语言（如纸片拼贴）做竖版封面 + 横版头图。\n5. 正文配图用「人物动作 + 观点」比喻，不堆大字海报。\n6. 需要时换装/街拍九宫格测一致性；再进九宫格分镜 → 视频。\n7. 交付：母版 + 五视图 + 头像族 + 封面模板 + 可复制 prompts。\n\n## Notes\n- 参考分工：人物图管长相，风格图管材质配色，文案管观点。\n- 完整提示词见 playbook（用户要完整 prompts 时请先拉取再粘贴）：\n  - https://github.com/xianyu110/awesome-gpt-image2.5/blob/main/docs/playbooks/virtual-ip-assets.md\n  - 原文：https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ\n- 原作者：段老湿\n\n## Agent instructions\n- You are helping the user run this Images 2.5 workflow in ChatGPT Images (web).\n- Prefer Flare for drafts, Sunburst for finals unless the skill says otherwise.\n- Sketch / Templates / annotation edits: ChatGPT web only (not Codex @Sketch).\n- Deliver: outputs + copyable final prompts.\n- Link gallery: https://xianyu110.github.io/awesome-gpt-image2.5/\n- When the user asks for full prompts, fetch the playbook markdown above and paste the relevant prompt blocks; do not invent shortened substitutes.\n"
   }
 ]
