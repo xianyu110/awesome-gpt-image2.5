@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录 130 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录 131 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -18,6 +18,8 @@
 | **Flare** | 快、便宜、赶量原型 | 批量草稿、社媒试错、先出图再迭代 |
 | **Sunburst** | 更慢一点、质量更高 | 抠细节、文字排版、最终成稿 |
 | Images 2.0 / gpt-image-2 | 上一世代 | ≠ Images 2.5，别混着买、混着评 |
+
+官方选型与提示详见 [docs/playbooks/official-image-prompting.md](docs/playbooks/official-image-prompting.md)
 
 ---
 
@@ -39,7 +41,7 @@
 
 ## 可复用工作流 Skill
 
-六套从社区案例抽象出来的可抄工作流（站点页：[skills.html](./skills.html)）。
+七套从社区案例与官方方法论抽象出来的可抄工作流（站点页：[skills.html](./skills.html)）。
 
 **怎么用：** 这不是插件、不用安装。打开 ChatGPT → 图像 / Images，按「何时用」选一条，从上到下照步骤跑；网页版才有 Sketch / Templates / 标注精修。Flare 赶草稿，Sunburst 出终稿。有 playbook 的条目点进去复制完整提示词。
 
@@ -50,6 +52,7 @@
 | --- | --- | --- |
 | **Sketch 控形出片** | @Sketch 控形 → Flare 草稿 → 评论改 → Sunburst 终稿 | 要控构图/布局，或「不会画画也想出图」「先草图再精修」。 |
 | **Flare / Sunburst 选型打分** | 冻结 3 个真实任务 + must-stay，打分选型，别靠玄学 | 纠结 Flare 还是 Sunburst，或要做横评/报价话术。 |
+| **官方提示与选型** | OpenAI 官方 Image Prompting：先选型再写约束，改图一次一事 | 要按官方推荐写 prompt / 选型 Flare·Sunburst / 规范改图与验收 |
 | **UGC 写真锁脸** | 真照片颗粒/色调 + 锁脸，衣装可拆换 | 广告/种草人像、UGC 写真，或假色假噪点假皮肤。 |
 | **局部编辑 must-stay** | 圈选/评论改一处，其它死守不动 | 只要改灯、字、配料、背景，其它必须不动。 |
 | **像素精灵表 → GIF** | 4×4 动作表切格拼 GIF，游戏/表情包可复用 | 像素动画、战斗图、精灵表、短动效种草。 |
@@ -94,6 +97,31 @@
 
 - 2.5 ≠ Images 2.0。
 - 国内站「GPTimage2」≠ 自动已上 2.5。
+
+相关分类：[选型评测](#选型评测)
+
+---
+
+### 官方提示与选型
+
+> OpenAI 官方 Image Prompting：先选型再写约束，改图一次一事
+
+**何时用：** 要按官方推荐写 prompt / 选型 Flare·Sunburst / 规范改图与验收。
+
+**步骤：**
+
+1. 先选型：Image 2 够用 → Flare；复杂案不够 → 先 Sunburst 再试 Flare。
+2. 再调 quality：不够抬档，达标再降；xhigh/max 仅必要时。
+3. 定义结果：用途+主体+构图/画幅+约束；复杂用分段。
+4. 可见细节：材质光色媒介；人物取景/视线/互动；文字引号+禁多余。
+5. 改图一次一事：只改 X + must-stay；参考图按序号分工。
+6. 透明与尺寸：PNG/WebP 真 alpha；自定义尺寸守边长与像素区间。
+7. 验收：文字、身份/产品、改图局部性、真实 alpha。
+8. 交付：成图 + 可复制最终 prompt（含 model/quality/size/must-stay）。
+
+- 社区玩法见首页画廊；本页对齐官方方法论。
+- 完整摘要见 [docs/playbooks/official-image-prompting.md](docs/playbooks/official-image-prompting.md)。
+- 原文：https://developers.openai.com/api/docs/guides/image-prompting
 
 相关分类：[选型评测](#选型评测)
 
@@ -209,6 +237,7 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
 - **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测；透明底自测判断是否已上 2.5。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
 - **Flare / Sunburst 体感速度其实差不多** — 高质慢 vs 快但糙：实测速度差没想象大；API 走 Sunburst low 往往更香。一人团队选型直接抄作业。 [@makaneko_AI](https://x.com/makaneko_AI) · [原帖](https://x.com/makaneko_AI/status/2097958688321634471)
 - **CreativeBench 拉满 60 任务** — Flare/Sunburst 丢进 11 个真实创意流程（产品图到多步改图）。不是又一篇「感觉很强」，是可点开的工作流打分板。 [@KristiKumrija](https://x.com/KristiKumrija) · [原帖](https://x.com/KristiKumrija/status/2097958307633795351)

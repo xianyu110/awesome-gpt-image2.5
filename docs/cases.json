@@ -1,5 +1,14 @@
 [
   {
+    "id": "openai-official-image-prompting",
+    "title": "官方 Image Prompting 指南要点",
+    "blurb": "Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "category": "选型评测",
+    "playbook": "docs/playbooks/official-image-prompting.md"
+  },
+  {
     "id": "2097882272623988823",
     "title": "ComfyUI 里 Sunburst 五档成本梯子",
     "blurb": "同 prompt 跑 Low→Max：积分约 3.4 / 7.8 / 30 / 53 / 120。想省钱别盲冲 Max，报价/批图前先看这组数。",

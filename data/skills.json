@@ -39,7 +39,32 @@
     ],
     "related_category": "选型评测",
     "skill_path": "skills/flare-sunburst-score/SKILL.md",
-    "skill_md": "---\nname: Flare / Sunburst 选型打分\ndescription: >-\n  use this when choosing Flare vs Sunburst or writing an Images 2.5 model comparison\n---\n# Images 2.5 · Flare / Sunburst 选型打分\n\n## When\n用户纠结用 Flare 还是 Sunburst，或要做模型横评/报价话术。\n\n## Steps\n1. 冻结 **3 个真实任务**（例如：换装、改局部光、海报改字），不要用空氛围词。\n2. 每张参考图标死 **must-stay** 区域（脸、logo、包装文字、构图骨架）。\n3. 同 prompt、同参考，分别跑 Flare 与 Sunburst（必要时加 2.0 作对照）。\n4. 打分表（1–5）：指令成功率、主体漂移、细节/文字、延迟、成本（图 token）。\n5. 结论模板：\n   - 赶量/社媒试错 → **Flare**\n   - 终稿/文字排版/材质光影 → **Sunburst**\n6. 输出一张对比表 + 一句话选型建议（可直接进营销文案）。\n\n## Notes\n- 2.5 ≠ Images 2.0；国内站写「GPTimage2」不代表已上 2.5。\n- 参考：关灯留蜡烛、儿童涂鸦三模、七模商业大片横评。\n\n## Agent instructions\n- You are helping the user run this Images 2.5 workflow in ChatGPT Images (web).\n- Prefer Flare for drafts, Sunburst for finals unless the skill says otherwise.\n- Sketch / Templates / annotation edits: ChatGPT web only (not Codex @Sketch).\n- Deliver: outputs + copyable final prompts.\n- Link gallery: https://xianyu110.github.io/awesome-gpt-image2.5/\n"
+    "skill_md": "---\nname: Flare / Sunburst 选型打分\ndescription: >-\n  use this when choosing Flare vs Sunburst or writing an Images 2.5 model comparison\n---\n# Images 2.5 · Flare / Sunburst 选型打分\n\n## When\n用户纠结用 Flare 还是 Sunburst，或要做模型横评/报价话术。\n\n## Steps\n1. 冻结 **3 个真实任务**（例如：换装、改局部光、海报改字），不要用空氛围词。\n2. 每张参考图标死 **must-stay** 区域（脸、logo、包装文字、构图骨架）。\n3. 同 prompt、同参考，分别跑 Flare 与 Sunburst（必要时加 2.0 作对照）。\n4. 打分表（1–5）：指令成功率、主体漂移、细节/文字、延迟、成本（图 token）。\n5. 结论模板：\n   - 赶量/社媒试错 → **Flare**\n   - 终稿/文字排版/材质光影 → **Sunburst**\n6. 输出一张对比表 + 一句话选型建议（可直接进营销文案）。\n\n## Official guidance\n- OpenAI 迁移规则：现有 Image-2 工作流已够用 → **先试 Flare**（保质降延迟）；复杂案 Image-2 不够 → **先 Sunburst 证质量**，再同 prompt 试 Flare。\n- 先选型再调 `quality`；`xhigh`/`max` 仅在确有缺口时用。\n- 摘要 playbook：[docs/playbooks/official-image-prompting.md](https://github.com/xianyu110/awesome-gpt-image2.5/blob/main/docs/playbooks/official-image-prompting.md) · 原文：[Image prompting](https://developers.openai.com/api/docs/guides/image-prompting)\n\n## Notes\n- 2.5 ≠ Images 2.0；国内站写「GPTimage2」不代表已上 2.5。\n- 参考：关灯留蜡烛、儿童涂鸦三模、七模商业大片横评。\n\n## Agent instructions\n- You are helping the user run this Images 2.5 workflow in ChatGPT Images (web).\n- Prefer Flare for drafts, Sunburst for finals unless the skill says otherwise.\n- For migration scoring, apply Flare-first / Sunburst-first rules from Official guidance above.\n- Sketch / Templates / annotation edits: ChatGPT web only (not Codex @Sketch).\n- Deliver: outputs + copyable final prompts.\n- Link gallery: https://xianyu110.github.io/awesome-gpt-image2.5/\n"
+  },
+  {
+    "id": "official-image-prompting",
+    "name": "官方提示与选型",
+    "tagline": "OpenAI 官方 Image Prompting：先选型再写约束，改图一次一事",
+    "when": "要按官方推荐写 prompt / 选型 Flare·Sunburst / 规范改图与验收",
+    "steps": [
+      "先选型：Image 2 够用 → Flare；复杂案不够 → 先 Sunburst 再试 Flare。",
+      "再调 quality：不够抬档，达标再降；xhigh/max 仅必要时。",
+      "定义结果：用途+主体+构图/画幅+约束；复杂用分段。",
+      "可见细节：材质光色媒介；人物取景/视线/互动；文字引号+禁多余。",
+      "改图一次一事：只改 X + must-stay；参考图按序号分工。",
+      "透明与尺寸：PNG/WebP 真 alpha；自定义尺寸守边长与像素区间。",
+      "验收：文字、身份/产品、改图局部性、真实 alpha。",
+      "交付：成图 + 可复制最终 prompt（含 model/quality/size/must-stay）。"
+    ],
+    "notes": [
+      "社区玩法见首页画廊；本页对齐官方方法论。",
+      "像素级不变区域自行合成，勿只靠提示。"
+    ],
+    "related_category": "选型评测",
+    "playbook": "docs/playbooks/official-image-prompting.md",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
+    "skill_path": "skills/official-image-prompting/SKILL.md",
+    "skill_md": "---\nname: 官方提示与选型\ndescription: >-\n  use this when writing prompts or choosing Flare vs Sunburst per OpenAI Image Prompting guidance\n---\n# Images 2.5 · 官方提示与选型\n\n## When\n要按官方推荐写 prompt / 选型 Flare·Sunburst / 规范改图与验收。\n\n## Steps\n1. **先选型**：Image 2 已够用 → 先试 Flare 降延迟；复杂案 Image 2 不够 → 先 Sunburst 证质量，再同 prompt 试 Flare。\n2. **再调 quality**：固定模型后，不够好先抬档；达标再降档换延迟。`xhigh`/`max` 仅在确有缺口时用。\n3. **写结果定义**：用途 + 主体 + 构图/画幅 + 约束；复杂请求用 scene / subject / details / constraints 分段。\n4. **补可见细节**：材质、光、色、媒介；写实要明示；人物写取景/视线/互动；必出文字放引号并禁多余字。\n5. **改图一次一事**：只改 X + must-stay；参考图按序号分工；每轮只改一件，漂移就重申约束。\n6. **透明与尺寸**：透明用 PNG/WebP + 真 alpha；自定义尺寸遵守边长/16 倍数/3:1/像素区间。\n7. **验收**：文字、身份/产品、改图局部性、真实 alpha。\n8. **交付**：成图 + 可复制最终 prompt（含 model / quality / size / must-stay）。\n\n## Official guidance\n- 方法论摘要：[docs/playbooks/official-image-prompting.md](https://github.com/xianyu110/awesome-gpt-image2.5/blob/main/docs/playbooks/official-image-prompting.md)\n- 原文：[OpenAI Image prompting](https://developers.openai.com/api/docs/guides/image-prompting)\n\n## Notes\n- 社区玩法见首页画廊；本 Skill 对齐官方方法论，不替代案例抄作业。\n- 像素级不变区域请自行合成，勿只靠提示。\n\n## Agent instructions\n- You are helping the user run this Images 2.5 workflow in ChatGPT Images (web) or API.\n- Prefer Flare-first for validated Image-2 quality; Sunburst-first when Image-2 quality fails, then retest Flare.\n- Sketch / Templates / annotation edits: ChatGPT web only (not Codex @Sketch).\n- Deliver: outputs + copyable final prompts (include model/quality/size/must-stay).\n- Link gallery: https://xianyu110.github.io/awesome-gpt-image2.5/\n- When the user asks for the full official digest, fetch the playbook markdown above; do not invent shortened substitutes that drop constraints.\n"
   },
   {
     "id": "ugc-face-lock",
