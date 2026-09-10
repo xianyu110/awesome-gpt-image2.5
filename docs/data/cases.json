@@ -1,0 +1,1067 @@
+[
+  {
+    "id": "2097882272623988823",
+    "title": "ComfyUI 里 Sunburst 五档成本梯子",
+    "blurb": "同 prompt 跑 Low→Max：积分约 3.4 / 7.8 / 30 / 53 / 120。想省钱别盲冲 Max，报价/批图前先看这组数。",
+    "author": "DataJuggler007",
+    "url": "https://x.com/DataJuggler007/status/2097882272623988823",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097884945276686720",
+    "title": "同 seed 连跑：版本落差比半个号大",
+    "blurb": "同 prompt、同 seed 对照，落差比「半个版本号」大；Image 2.5 已上 Sunra。写评测别只比 UI 截图。",
+    "author": "sunra_ai",
+    "url": "https://x.com/sunra_ai/status/2097884945276686720",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097892821386813662",
+    "title": "2.5 vs Banana Pro vs Midjourney，还做成动画",
+    "blurb": "同 style prompt 三美横评并直接动起来。比静态截图更适合做选型 demo / 社媒素材。",
+    "author": "Deevid_AI",
+    "url": "https://x.com/Deevid_AI/status/2097892821386813662",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097903246069395707",
+    "title": "Flare 翻车预期 + Image 2 贵 3.5 倍",
+    "blurb": "完整实测：Flare 表现超出预期，同测 Image 2 费用竟是 2.5 的 3.5 倍。做工具/套餐定价的人该看。",
+    "author": "Tino_Xu_",
+    "url": "https://x.com/Tino_Xu_/status/2097903246069395707",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097906383987605932",
+    "title": "Sunburst 大图坑：越大越糊",
+    "blurb": "图越大，头发/文字/细节越糊。出大尺寸海报前先看一眼，别默默踩坑。",
+    "author": "truclam_ai",
+    "url": "https://x.com/truclam_ai/status/2097906383987605932",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097899683989385317",
+    "title": "2.5 vs 2.0 专辑封面硬对比",
+    "blurb": "同 prompt 比专辑封面，回复里有 prompt。想讲「升级值不值」时有图有真相。",
+    "author": "ArtificialStudi",
+    "url": "https://x.com/ArtificialStudi/status/2097899683989385317",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097906238088765909",
+    "title": "Sketch 实测 walkthrough 视频",
+    "blurb": "视频过一遍 Images 2.5：Sketch、参考图一致性、指令跟随都强；编辑间不完全一致。快速建立「2.5 能干啥」心智。",
+    "author": "bartslodyczka",
+    "url": "https://x.com/bartslodyczka/status/2097906238088765909",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097884028955394216",
+    "title": "品牌 KV 母版：iPhone Duo / 18 Pro 系列海报",
+    "blurb": "同一套品牌 KV 模板给虚构新品各出一张：折叠叙事 vs 专业影像。一眼看懂怎么用 Image 2.5 做新品系列 KV。",
+    "author": "liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2097884028955394216",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097920025617399875",
+    "title": "旅行海报 [CITY, COUNTRY] 丝网印刷模板",
+    "blurb": "本地建筑元素的 mid-century 丝网印刷风海报配方，带成片。做目的地/活动 KV 直接换槽。",
+    "author": "Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2097920025617399875",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097882770899091928",
+    "title": "candid 写真分层 prompt（Higgsfield）",
+    "blurb": "拆「真实夏日随拍」结构：关键不是堆细节，是分层对。适合 UGC / 社媒广告。",
+    "author": "GrowWithDani",
+    "url": "https://x.com/GrowWithDani/status/2097882770899091928",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097900600105308347",
+    "title": "同 prompt 炼狱角色一致性演示",
+    "blurb": "同一套 prompt 换 Rengoku，成品干净，prompt 贴在下面。角色锁 / 二次元营销素材可抄。",
+    "author": "Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2097900600105308347",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097914967295172794",
+    "title": "密封盒 UGC → Omni 拆箱视频链路",
+    "blurb": "Image 2.5 做密封盒静帧 → Gemini Omni 推 10 秒拆箱，纸张/折痕/重量写进 prompt。电商假 UGC 配方。",
+    "author": "ItsNazar17",
+    "url": "https://x.com/ItsNazar17/status/2097914967295172794",
+    "category": "电商改图"
+  },
+  {
+    "id": "2097902132682715547",
+    "title": "4×4 combat sprite → 干净 GIF",
+    "blurb": "在 AIReel 上用 Image 2.5 把精灵表直接变成可播 GIF，prompt 在帖里。游戏素材流水线可参考。",
+    "author": "AIReelofficial",
+    "url": "https://x.com/AIReelofficial/status/2097902132682715547",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097882934699278547",
+    "title": "设计系统 → Astra 上线流水线",
+    "blurb": "Images 2.5 出设计系统 + PC/手机 UI，再丢给 Codex（GPT-6 Astra）按色值与行为规格实现。一人公司做站的正经配方。",
+    "author": "shota7180",
+    "url": "https://x.com/shota7180/status/2097882934699278547",
+    "category": "UX产品"
+  },
+  {
+    "id": "2097785065547984984",
+    "title": "加一颗草莓看出 Flare vs Sunburst 精度差",
+    "blurb": "同咖啡馆再只加一颗草莓；Sunburst 仍比 Image-2 更快更便宜，精度编辑才是卖点。做广告迭代别盲选「快模式」。",
+    "author": "nocodemba",
+    "url": "https://x.com/nocodemba/status/2097785065547984984",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097694013469982745",
+    "title": "付费社媒静态广告：Flare/Sunburst 四块分工",
+    "blurb": "拆成投放可用四块：Flare 默认量产、Sunburst 精修、reference lock、focused edit。产品图/offer 变体可抄。",
+    "author": "nipuntaneja",
+    "url": "https://x.com/nipuntaneja/status/2097694013469982745",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097696764103201143",
+    "title": "零画功 Sketch：棒人+角色图→完整场景",
+    "blurb": "不会画画也能用棒人构图 + 角色参考生成场景；给客户讲「手绘即提示词」最直观。",
+    "author": "sunouku",
+    "url": "https://x.com/sunouku/status/2097696764103201143",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097698044733276309",
+    "title": "噪点×透明金属反光的多风格混剪",
+    "blurb": "Images 2.5 多风格混合质感：噪点被透明金属 + 反光包住；品牌视觉想玩材质差异可跟。",
+    "author": "ZHO_ZHO_ZHO",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2097698044733276309",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097818810493685854",
+    "title": "「只改文字」Before→After 实测",
+    "blurb": "长文验证「图挺好、字想换」痛点改善多少；电商主图、海报改文案的人值得看。",
+    "author": "dansyu_callenge",
+    "url": "https://x.com/dansyu_callenge/status/2097818810493685854",
+    "category": "电商改图"
+  },
+  {
+    "id": "2097860770210152638",
+    "title": "Astra×Image2.5 拼贴流水线",
+    "blurb": "逐片生成 → PS 拼 → AE 动起来；社媒拼贴 / 情绪板类内容批产。",
+    "author": "higgsfield_ai",
+    "url": "https://x.com/higgsfield_ai/status/2097860770210152638",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2097701567042609236",
+    "title": "任意角色→4×4战斗像素精灵表",
+    "blurb": "角色参考压成 combat sprite sheet（测了炭治郎），prompt 在 thread；游戏素材 / meme 模板一键量产。",
+    "author": "andytng28",
+    "url": "https://x.com/andytng28/status/2097701567042609236",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097551019295248486",
+    "title": "手部 vs Grok：Flare / Sunburst 谁更稳",
+    "blurb": "社区横向对比手部结构与真实感，选型前先看这一帖。",
+    "author": "luladogdog",
+    "url": "https://x.com/luladogdog/status/2097551019295248486",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097568820000850058",
+    "title": "Image2 → Flare → Sunburst 阶梯",
+    "blurb": "同一题材从旧模爬到 2.5，质量跳档一眼可见。",
+    "author": "atakoylanai",
+    "url": "https://x.com/atakoylanai/status/2097568820000850058",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097560368684159241",
+    "title": "Flare vs Sunburst 对比站",
+    "blurb": "并排预览站点，适合快速建立「快 vs 精」直觉。",
+    "author": "137yugi",
+    "url": "https://x.com/137yugi/status/2097560368684159241",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097584023627239575",
+    "title": "速度与成本实测",
+    "blurb": "2.0：约 120s / 20¢；Flare：约 20s / 5¢；Sunburst：约 31s / 5¢。赶量先看这组数。",
+    "author": "illyism",
+    "url": "https://x.com/illyism/status/2097584023627239575",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097620938183295288",
+    "title": "延迟硬测：17s / 35s / 74s",
+    "blurb": "Flare 17.42s · Sunburst 35.13s · Image2 1m14s，排队与体感都写清了。",
+    "author": "matthieu_ai",
+    "url": "https://x.com/matthieu_ai/status/2097620938183295288",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097646029042811046",
+    "title": "儿童涂鸦 img2img 三模对比",
+    "blurb": "Flare / Sunburst / 2.0 对「乱笔画」的忠实度与美化度。",
+    "author": "justhalfbit",
+    "url": "https://x.com/justhalfbit/status/2097646029042811046",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097641019806531864",
+    "title": "Topview 五轮编辑：Flare vs Sunburst",
+    "blurb": "多轮改图场景下谁更扛改、谁更飘。",
+    "author": "akiyoshisan",
+    "url": "https://x.com/akiyoshisan/status/2097641019806531864",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097622915730604249",
+    "title": "曲网格难题：Higgsfield 硬对比",
+    "blurb": "曲面网格这类「几何地狱」题，看 2.5 吃不吃得住。",
+    "author": "maarcoofdezz",
+    "url": "https://x.com/maarcoofdezz/status/2097622915730604249",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097588805155078576",
+    "title": "Pringles 广告：2.0 vs 2.5",
+    "blurb": "品牌广告向对比，包装文字与货架感。",
+    "author": "spect3ral",
+    "url": "https://x.com/spect3ral/status/2097588805155078576",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097604682646528030",
+    "title": "UGC 广告网格：2.0 High vs Sunburst Max",
+    "blurb": "九宫格 UGC 风素材，Max 档位是否值得。",
+    "author": "saranshvfx",
+    "url": "https://x.com/saranshvfx/status/2097604682646528030",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097621370389581931",
+    "title": "2 分钟 → 30 秒 + 多轮",
+    "blurb": "工作流压缩：更快出稿、多轮仍稳。",
+    "author": "Voxyz_ai",
+    "url": "https://x.com/Voxyz_ai/status/2097621370389581931",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097669038973284576",
+    "title": "4K +「多写细节」噪点踩坑",
+    "blurb": "4K 加细节指令时 Sunburst/Flare（尤其 Flare）会出现 2.0 低分那种糊噪；落到 2K 才干净。",
+    "author": "TestAI_WORKS",
+    "url": "https://x.com/TestAI_WORKS/status/2097669038973284576",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097668754863779900",
+    "title": "Sunburst High / Med / Low 同 prompt",
+    "blurb": "API 三档画质对照：2.5 的 Medium/Low 仍扎实，选档=控成本。",
+    "author": "WolfRiccardo",
+    "url": "https://x.com/WolfRiccardo/status/2097668754863779900",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097668790809165918",
+    "title": "同图四阶梯子：Banana → 2 → Sunburst → Flare",
+    "blurb": "原图 Nano Banana Pro 一路爬到 2.5，对外讲「换模型收益」很直观。",
+    "author": "CHAO2U_AI",
+    "url": "https://x.com/CHAO2U_AI/status/2097668790809165918",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097546394827632727",
+    "title": "手绘点选编辑",
+    "blurb": "Sketch + 点选改局部，一人团队最快闭环之一。",
+    "author": "yupi996",
+    "url": "https://x.com/yupi996/status/2097546394827632727",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097566459308417382",
+    "title": "Sketch 打光指南",
+    "blurb": "草图阶段就把光位画对，出图少返工。",
+    "author": "micchan8_",
+    "url": "https://x.com/micchan8_/status/2097566459308417382",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097585415264125325",
+    "title": "Sketch 前后对比",
+    "blurb": "从线稿到成片的 before/after，适合给客户演示流程。",
+    "author": "ontm0422ai",
+    "url": "https://x.com/ontm0422ai/status/2097585415264125325",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097608369947435116",
+    "title": "火柴人哥斯拉",
+    "blurb": "极简线稿也能控住巨型生物构图，Sketch 控形示范。",
+    "author": "GeekCatX",
+    "url": "https://x.com/GeekCatX/status/2097608369947435116",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097612107818664107",
+    "title": "Sketch 动漫海报",
+    "blurb": "海报级文字与角色，草图先行再 Sunburst 精修。",
+    "author": "lycoris_zephyr",
+    "url": "https://x.com/lycoris_zephyr/status/2097612107818664107",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097641752169427250",
+    "title": "Sketch 演示视频",
+    "blurb": "完整录屏：怎么画、怎么点、怎么迭代。",
+    "author": "minchoi",
+    "url": "https://x.com/minchoi/status/2097641752169427250",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097648993388093656",
+    "title": "Sketch 画框做封面布局",
+    "blurb": "少跟模型解释构图：@Sketch 标标题/人物/产品位置。",
+    "author": "tokenai888",
+    "url": "https://x.com/tokenai888/status/2097648993388093656",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097650763174391836",
+    "title": "鼠标手绘 Sketch 也能懂",
+    "blurb": "Sketch 容错示范。",
+    "author": "MathisYanis",
+    "url": "https://x.com/MathisYanis/status/2097650763174391836",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097550067213504848",
+    "title": "Art Deco Base Prompt",
+    "blurb": "金线+深蓝+奶油纸，可替换 SUBJECT。",
+    "author": "MrDasOnX",
+    "url": "https://x.com/MrDasOnX/status/2097550067213504848",
+    "category": "海报排版",
+    "prompt": "ChatGPT Images 2.5 is on another level. It doesn’t just generate an image, it actually captures the aesthetic you’re going for.\n\nBase prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal, and antique gold. Stylized geometric forms, sharp symmetry, radiating sunburst and fan motifs, clean flat shapes with subtle paper grain. Subject: [SUBJECT]. Timeless luxury graphic design, no photorealism, no 3D, no modern clothing or gadgets, museum-quality print look."
+  },
+  {
+    "id": "2097641872068063436",
+    "title": "Flare 赛车黄 Porsche 4:5 海报",
+    "blurb": "MageSpace Flare 竖版社媒海报，结构分明可抄。",
+    "author": "Diplomeme",
+    "url": "https://x.com/Diplomeme/status/2097641872068063436",
+    "category": "海报排版",
+    "prompt": "GPT image 2.5 Flare on @MageSpace_ \n\nThis new version looks more detailed and has better prompt understanding. \n\nTry it with prompt : 4:5 vertical social poster, ultra high resolution, 8K\n\nSCENE / BACKGROUND:\nFlat racing yellow with subtle gradient (light → deep amber)\nGrain texture 2–3%\nSoft rectangular overlays at 3% opacity\n\nPRODUCT:\nPorsche 911 GT3 RS\nGloss yellow with carbon details\nRear 3/4 angle, slightly elevated\nWing dominant\n\nPosition:\nRight of center\n\nTYPOGRAPHY:\n“PORSCHE”\nUltra tall, condensed, stretched\nDeep charcoal\n\nSecondary:\n“PORSCHE 911 GT3 RS”\n\nEDITORIAL:\n“Porsche — Where Precision Meets Passion”\n\nFocus:\nengineering, obsession, track DNA\n\nFADED TEXT:\n“GT3 RS” at 3–5%\n\nSPECS:\n386 kW / 525 PS\n3.2 s\n296 km/h\n\nLIGHTING:\nClean studio, sharp highlights\n\nMOOD:\nPrecision.\nIconic.\nTimeless performance."
+  },
+  {
+    "id": "2097607526753718428",
+    "title": "奢侈品 SMM 海报组",
+    "blurb": "社交媒体高端感排版与质感提示。",
+    "author": "sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2097607526753718428",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097666767174672871",
+    "title": "竖三栏海报构图",
+    "blurb": "Images 2.5 竖三栏：图像/文物/声音/空间各占一栏，主体与线条串栏；活动海报、品牌视觉可抄结构。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2097666767174672871",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097641178191827333",
+    "title": "字体海报 + 杂志排版压力测",
+    "blurb": "文字密集场景下 2.5 的可读性边界。",
+    "author": "modelstoreai",
+    "url": "https://x.com/modelstoreai/status/2097641178191827333",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097548765389258913",
+    "title": "晶莹剔透美人像完整 prompt",
+    "blurb": "比例约束很死的美妆竖版肖像。",
+    "author": "johnAGI168",
+    "url": "https://x.com/johnAGI168/status/2097548765389258913",
+    "category": "人像角色",
+    "prompt": "ChatGPT Images 2.5  晶莹剔透的人物质感🎨\n\nprompt 👇\n\n A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80 percent of the frame, photographed from slightly above eye level, with the composition extending from the top of her hair to her covered lap.\n\nShe has a very small heart-shaped face with a narrow lower face, a softly tapered jawline, a short delicate chin, smooth understated cheekbones, a compact midface, and refined symmetrical features. Her eyes are exceptionally large, luminous, and slightly wide-set, with a rounded almond shape, pale gray-green irises, dark defined upper lash lines, softly extended outer eyeliner, fine lower lashes, and bright glassy catchlights. Her eyebrows are slim, softly arched, and light ash brown. She has a small straight nose with a narrow bridge and petite rounded tip. Her lips are small, softly full, and rose-pink, with a subtle relaxed closed-mouth smile.\n\nHer complexion is pale warm ivory with a perfectly even, softly luminous beauty finish, delicate pink blush concentrated on the upper cheeks, and a smooth porcelain appearance. Her expression is gentle, dreamy, composed, and slightly playful. The facial proportions remain petite and delicate rather than angular or strongly sculpted.\n\nHer hair is a shoulder-length platinum-blonde layered lob. The longest strands stop precisely at the collarbones. It has a deep side part, high soft volume at the crown, a broad swept section flowing across the forehead, champagne-blonde highlights on the upper layers, and cool smoky ash-gray undertones through the lower layers and feathered ends. One side rests over her shoulder while the opposite side fans outward through her raised hand. Silky straight texture, lightweight separated strands, softly curved ends, and gentle natural movement.\n\nShe has a slim, narrow-framed physique with a long graceful neck, gently sloping shoulders, slender arms, a compact torso, a narrow waist, and balanced feminine proportions.\n\nShe wears a vivid raspberry-red cropped camisole with a soft lightweight silhouette. The camisole has thin shoulder straps tied into neat ribbon bows, a low curved neckline edged with delicate lace, subtle floral lace across the center of the bust, a semi-transparent fine-mesh lower bodice, gentle ruching at the center, and several long raspberry drawstrings hanging vertically from a small front bow. The garment appears softly fitted and flexible rather than rigidly structured.\n\nA high-waisted deep peacock-blue satin maxi skirt begins at her waist. The fabric has rich teal-blue highlights, smooth reflective folds, and a fluid drape. The long skirt flows continuously across her lap and completely covers her crossed legs.\n\nShe wears long ornate gold dangling earrings, a translucent pale-gray jade bangle, a dark red bead bracelet, a thin black elastic bracelet, and delicate metallic rings. A tiny metallic navel piercing is visible between the cropped top and the high-waisted skirt.\n\nRecreate the pose precisely: she sits upright on the pale stone pool ledge with her torso facing almost directly toward the camera. Her shoulders remain relaxed. Her head tilts noticeably toward camera-left while her eyes look directly into the lens. The arm on camera-left crosses diagonally downward over her torso and rests softly across her covered lap. The arm on camera-right bends upward beside her shoulder; the wrist is relaxed and the fingertips lightly hold the ends of her outward-flowing hair. Her fingers are slender and naturally curved.\n\nA clean modern indoor pool café forms the background. Mint-green illuminated water fills most of the middle background. A simple pale natural-wood counter spans the upper portion of the frame, with only a few softly blurred metallic drink containers, white vessels, stacked cups, and minimal dark café equipment. Plain warm-beige wall, uncluttered surfaces, no visible signage, no decorative writing, and no prominent background people. The background remains quiet, softly blurred, and secondary to the woman.\n\nSoft frontal beauty lighting with gentle warm indoor illumination and a faint mint-green reflection from the pool. Bright, evenly exposed face, very soft shadow transitions, luminous eyes, delicate highlights along the pale hair, and restrained reflections on the satin skirt. Clean smartphone beauty-camera aesthetic with a subtle smoothing effect, gentle pastel color rendering, low contrast, and softly glowing skin.\n\nVertical 9:16 social-media portrait, slight high-angle viewpoint, medium portrait framing, natural 50mm-equivalent perspective, face positioned near the upper center, raised hand fully visible on camera-right, covered lap visible in the lower frame, moderate background separation, sharpest focus on the eyes and face.\n\nHigh-fidelity photographic beauty portrait. Smooth luminous skin with extremely fine natural texture, subtle peach fuzz, gentle subsurface light on the cheeks and nose, and an even porcelain finish. Hair rendered as fine individual platinum and ash-gray strands with realistic transparency and soft movement. Fine mesh, lace, ribbons, jewelry, and satin rendered with accurate material detail. Realistic eyes with moist reflections and clear gray-green iris patterns. Accurate petite facial anatomy, slender hands, natural fingers, slim body proportions, soft fine grain, neutral-warm highlights, lightly cooled shadows, lifelike photography with the refined softness of a high-quality beauty-filtered social-media portrait."
+  },
+  {
+    "id": "2097609235395711007",
+    "title": "四风格身份锁定",
+    "blurb": "同一人设跨风格仍认得出，品牌 IP 友好。",
+    "author": "MonetizationDon",
+    "url": "https://x.com/MonetizationDon/status/2097609235395711007",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097653761569423653",
+    "title": "可互换长文衣装 Prompt 包",
+    "blurb": "Images 2.5 长文衣装再现性提升；PROTECTED WARDROBE RULE 模块化服装。",
+    "author": "MoodLock_JP",
+    "url": "https://x.com/MoodLock_JP/status/2097653761569423653",
+    "category": "人像角色",
+    "prompt": "【お洒落カッコイイ🖤】\n\nImages 2.5のおかげで長文衣装プロンプトでも再現性が格段に上がった\n\nカテゴリごとに交換可能な衣装プロンプトを配布中✨ \n生成環境：ChatGPT Images 2.5\n\n#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #プロンプト\n\nPROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.\n\nWardrobe:\n\nOuterwear / layers:\n\nA waist-length hooded jacket with a roomy, softly rounded body and full-length voluminous sleeves, made in dense chestnut-blue gray faux fur. The lustrous pile forms small irregular swirls and rippling tufts, with slate gray depths between warmer blue gray fiber tips. A generous attached hood has a thick fur-covered rim and a center-back seam. A two-way silver-tone zipper closes the full front, while smooth blue gray lining covers the interior and hood. Blue gray rib-knit cuffs and a broad matching waistband draw in the plush shell; concealed side-seam pockets and a matching fur back complete the jacket.\n\nFinal worn state:\n- Layering: Final state: keep this garment the complete outer layer over the selected Top item; open only its original center-front fastening run within existing endpoints. Preserve source neckline, collar, front/rear panels, selected shoulder, sleeve, and body positions, plus fastening inventory, receiver mapping, order, spacing, endpoints, and placket length; add, remove, move, or extend nothing. FINAL FASTENING STATE: change only the source-registered primary closure mechanism inside its exact original endpoints. Preserve that mechanism, all original parts, its source length, and the garment construction beyond both endpoints; do not reinterpret a seam, fold, rib, placket, or panel edge as an extension, and add, duplicate, remove, or relocate nothing. Only layer order, contact, occlusion, and optical transmission change. Every visible garment boundary follows the outer item's source geometry or separately selected fold-return line; inner contours remain optically behind it. Keep panel contact shallow. Relaxed handling within this same operation: Use light stable contact and broader material-correct ease without changing the selected layer order.\n\nTop: A fitted black cardigan ending at the high hip, in fine, lightweight vertical rib knit with narrow semi-sheer channels between the ribs. Short fitted set-in sleeves and a matching ribbed back continue the close silhouette. A deep rounded V-neckline is framed by broad black floral lace, which continues down both edges of the full button front to the lower hem. Large flower heads, curling leaves and fine mesh fill the lace bands, with delicate eyelash loops extending from their free edges. Small black four-hole buttons close the front, and a narrow knitted hem finishes the body and sleeves.\n\nUpper-body innerwear: A simple black stretch-jersey bandeau with a broad opaque band covering the bust, a gently curved upper edge and a straight lower edge ending above the waist. Soft matte fabric, discreet enclosed elastic along both edges and smooth side seams create a close, flexible fit, with a continuous plain back and no straps or visible hardware.\n\nBottom: A pair of full-length flared jeans in washed charcoal-black denim, with a low-to-mid-rise waist, fitted hips and thighs, and legs that narrow toward the knees before widening into broad bootcut hems. Soft gray fading runs over the front hips and thighs, with subtle whiskering beneath the waistband and fine vertical denim grain throughout. Muted tan-gray double topstitching defines the curved front pockets, coin pocket, fly and seams. Belt loops, a button-and-zip closure, a rear yoke, two plain rear patch pockets and flat stitched hems complete the five-pocket construction.\n\nFootwear: A pair of black patent-leather shoes with long tapered toes ending in short squared tips, low side quarters and enclosed heels. Two separate glossy straps cross each open instep on a slight diagonal, each threaded through a silver-tone rectangular buckle on the outer side and punctuated by large round silver eyelets. The smooth pointed toe panels and patent side sections frame the open areas beneath and between the straps. Dark lining, slim black rubber soles with a lightly projecting beveled edge and low block heels complete the pair.\n\nBag:\n\nA low, elongated shoulder bag in deep wine-brown leather with a glossy finish, subtle tonal variation and soft natural creasing. The supple body has gently rounded lower corners, shallow side and base gussets, piped perimeter seams and raised ends flanking a softly concave top opening. A fine gold-tone zipper follows the curved upper edge. One narrow matching leather shoulder strap has stitched edges, a small adjustment buckle and gold-tone circular rings with swivel-snap attachments at the bag ends. The rear is plain matching leather, and dark wine-colored textile lines the interior.\n\nFinal worn state:\nVIEW-CONDITIONAL BODY-SIDE MAP: front view — wearer-left is image-right and wearer-right is image-left; back view — wearer-left is image-left and wearer-right is image-right. In profiles, crossed limbs, or ambiguity, trace the named anatomical side continuously from its corresponding shoulder, hip, eye, or ear landmark as applicable. Apply the state only to the named anatomical side; never mirror, swap, or duplicate it.\n- Bag carry: Final state: the registered short strap bears weight from the wearer-left shoulder; the bag top sits directly beneath the wearer-left armpit against the wearer-left side torso. Both hands stay off; support never moves to the wearer-left forearm, elbow, wrist, or hand. Keep registered supports and components connected; allow contact and gravity-led ease only along the selected route. Natural handling within this same operation: Keep the selected support point exact while allowing limited natural contact variation and one small gravity-led angle.\n\nBelt:\n\nA broad black leather belt with a smooth, softly lustrous surface and clean edges, fastened by an oversized polished silver-tone buckle. The buckle forms an asymmetric swept D-shaped frame: a thick, rounded crescent broadens along the outer curve, with a second flowing ridge following its contour and tapering toward the strap attachment. A silver prong crosses the dark central opening to engage the belt holes. A matching black keeper and a rounded strap end complete the adjustable belt.\n\nFinal worn state:\n- Belt placement: Place the complete belt horizontally around the outside of the selected Bottom item at the wearer's anatomical natural waist. Do not move it to the hips or ribcage; preserve the separately selected routing, buckle position, and tail treatment. Keep the selected position and fastening state; change only contact pressure and physically available ease. Natural handling within this same operation: Keep the registered fastening secure and use light stable contact with a small amount of material-correct ease distributed around the complete belt circuit.\n- Buckle position: Center the single existing buckle on the wearer's anatomical front midline and fasten it using only its registered closure mechanism. For a frame-and-prong buckle only, pass the existing prong through exactly one existing hole and seat the strap against the frame; for a ratchet, clasp, plate, or automatic buckle, engage only its registered mechanism. Do not invent a hole, prong, or closure part, and preserve the separately selected height, routing, and tail treatment.\n\nEyewear:\n\nA pair of slim black sunglasses with low, horizontally elongated rectangular lenses, softly rounded corners and a subtle lift at the outer edges. Glossy full rims surround smoky gray-brown lenses, joined by a narrow molded bridge with integral nose rests. The gently curved front connects through small hinges to slender tapered black temples with inward-curving ear tips. The frame is smooth and unornamented.\n\nFinal worn state:\n- Eyewear placement: Final state: rest the open registered eyewear on the outer surface of the hair at the crown like a headband, with both lenses level and facing forward, the bridge centered on the head midline, and both temple arms open along the sides of the head. Do not place the eyewear on the face, neckline, chest, or garment.\n\nNecklace: A delicate silver-tone necklace with a fine short chain and a compact openwork \"Lune\" pendant, with a tall serif L at the left and smaller joined lowercase u, n and e stepping gently across its lower half; the polished silver strokes merge at their contacts while preserving open letter interiors. Small connections at the ornament's opposite upper sides suspend it centrally, with a smooth flat reverse and clean polished edges. The chain closes behind the neck with a small lobster clasp and a short matching extension chain.\n\nNavel piercing:\n\nA silver-tone curved navel barbell with two clear round stones set vertically, a small upper stone and a larger lower stone. Smooth polished rims surround the faceted stones, joined by a short gently curved metal bar. A discreet screw-on upper terminal and rounded setting backs complete the piercing.\n\nFinal worn state:\n- Piercing count and arrangement: Wear the navel piercing in a floating placement through the upper fold, keeping the flat inner end inside the hollow and only the outer decoration visible."
+  },
+  {
+    "id": "2097656994937319531",
+    "title": "高腰破洞烟管牛仔裤衣装 prompt",
+    "blurb": "日文社区可改衣装模板片段。",
+    "author": "sumeshino_moto",
+    "url": "https://x.com/sumeshino_moto/status/2097656994937319531",
+    "category": "人像角色",
+    "prompt": "【衣装プロンプト】例のデニムが出るかもしれないぴたぴたハイウエストデニムのコ〜デです\n\n改変◎\n\nfull body,\n(high waisted gray distressed jeans:1.3),\n(figure hugging jeans:1.2),\nhip-hugging, thigh-hugging,\nfitted from waist to knees,\nslim flare jeans, flared from the knees,\nlarge thigh cutouts, ripped denim,\n(oversized unisex off-shoulder top:1.25),\n(premium streetwear sweatshirt:1.2),\nclean drape, wide neckline, one shoulder exposed,\ndrop shoulder, long loose sleeves,\nribbed cuffs, clean hem,\n(chunky black platform sneakers:1.3),\n(thick platform sole:1.25),\nlace-up sneakers, oversized sole,"
+  },
+  {
+    "id": "2097648721874096507",
+    "title": "同一角色 8 looks × 8 environments",
+    "blurb": "一致性压力测试：一角色多造型多场景。",
+    "author": "trendyvers",
+    "url": "https://x.com/trendyvers/status/2097648721874096507",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097592152113242550",
+    "title": "自定义 Emoji 风格迁移",
+    "blurb": "把品牌表情包做成统一风格集。",
+    "author": "ZHO_ZHO_ZHO",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2097592152113242550",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097594649846444370",
+    "title": "亚马逊主图点选改",
+    "blurb": "电商点编辑：改标签、改背景、不重抽主体。",
+    "author": "Passenger0522",
+    "url": "https://x.com/Passenger0522/status/2097594649846444370",
+    "category": "电商改图"
+  },
+  {
+    "id": "2097660049921659014",
+    "title": "定点改图：修图师 briefing 模板",
+    "blurb": "专治「改一处整图重画」：只改指定处、保脸/Logo/文字；营销改细节最省事。",
+    "author": "alex_prompter",
+    "url": "https://x.com/alex_prompter/status/2097660049921659014",
+    "category": "电商改图",
+    "prompt": "You are my retoucher using ChatGPT Images 2.5.\n\nThe photo: [what it is and who's in it]\nThe one change I want: [describe it]\nWhat must not change: [faces, logo, background, text, anything]\n\nBefore generating, restate the change in one line and list what you'll leave untouched. Then make the edit.\n\nThen give me:\n\nThe edited image\nWhat you changed, one line\nWhat you kept, one line\nThe exact prompt to paste next time for the same edit on a different photo\n\nRules: one change per turn, never regenerate the whole image when I asked for a part, and if the change would alter a face, a logo, or text, stop and ask first."
+  },
+  {
+    "id": "2097652949560480117",
+    "title": "马克杯局部改色/改价：编辑精度实测",
+    "blurb": "Web 版连续编辑 vs Image-2，附文章。",
+    "author": "taku41477996",
+    "url": "https://x.com/taku41477996/status/2097652949560480117",
+    "category": "电商改图"
+  },
+  {
+    "id": "2097651231569399814",
+    "title": "等距国家微缩模型 diorama（可换国家）",
+    "blurb": "2.5 vs 2 对照；回复里给出完整 isometric prompt。",
+    "author": "abxxai",
+    "url": "https://x.com/abxxai/status/2097651231569399814",
+    "category": "场景视觉",
+    "prompt": "Prompt and images credits @TechieBySA\n\nSimply replace [COUNTRY]:✨\n\n“Ultra-detailed photorealistic isometric miniature scale-model diorama of [COUNTRY], floating on a pure off-white studio background with a soft drop shadow beneath. The diorama takes the exact real-world silhouette shape of the country — not a square tile, but the true precise geographic outline of the country's borders and coastline, extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges, like a chunk of the real land physically cut out and lifted. The shape of the slab matches the country's actual geography precisely, including any islands, peninsulas or coastline indentations.\n\nThe entire top surface faithfully recreates the country's real geography and terrain: mountain ranges with correct elevation and snow coverage, rivers in their real positions, major forests and plains, deserts, coastlines with beaches and cliffs. Every major city is visible as a dense urban cluster in its correct geographic position. The country's most iconic landmarks are rendered in accurate positions and to recognizable scale. Terrain elevation is fully physically modeled — mountain ranges rise dramatically, valleys are sunken, plains are flat, creating real varied 3D topography across the entire surface.\n\nDense micro-detail: individual buildings in city clusters, tiny roads and highways connecting settlements, railways, bridges, harbors with boats, agricultural field patterns in rural areas, individual trees and forest coverage. Every region has its correct landscape character — the terrain of the north looks different from the south.\n\nStyle: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus across the whole surface, no blur. Soft warm daylight from above, gentle diffuse shadows, rich natural colors. Lush greens, snow-capped peaks, golden plains, deep blue water along the coastline.\n\nLayout: the shaped diorama floats centered in the lower two-thirds of the frame with clear margins on all sides, never touching the frame edges. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the continent or region name at the very top, then directly below [COUNTRY] in a bold condensed sans-serif in medium charcoal grey — large and dominant, the biggest text element — with a small flat rectangular flag of [COUNTRY] sitting immediately to the right of the country name, vertically centered with it, accurately colored and proportioned, clean flat design, sized to roughly the cap-height of the country name, floating naturally beside the name as one cohesive unit, not pushed to the far edge but sitting close and attached to the right end of the country name text. Then small wide-tracked caps below with the capital city and population.\n\nMinimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”"
+  },
+  {
+    "id": "2097564822984626347",
+    "title": "Leaf Dancer 纸艺叶裙 9:16",
+    "blurb": "植物纸艺舞女竖版，完整一句 prompt。",
+    "author": "unrealpixels",
+    "url": "https://x.com/unrealpixels/status/2097564822984626347",
+    "category": "场景视觉",
+    "prompt": "Leaf Dancer Beneath a Paper Parasol | GPT Image 2.5\n\nPrompt: A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves with delicate veins and tiny ivory blossoms. The full parasol occupies the upper right and the sweeping leaf train flows to the lower left, framed with breathing room. Soft directional light reveals raised paper edges and delicate contact shadows."
+  },
+  {
+    "id": "2097586179835400667",
+    "title": "Pinterest → 细颗粒 Prompt 配方",
+    "blurb": "从灵感图反推可控描述，营销素材生产线。",
+    "author": "Acemation_",
+    "url": "https://x.com/Acemation_/status/2097586179835400667",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2097592608583471184",
+    "title": "10 条 Control / Astra 向 Prompt",
+    "blurb": "控制向提示合集，控构图、控风格。",
+    "author": "vinsonleow",
+    "url": "https://x.com/vinsonleow/status/2097592608583471184",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2097587863139537262",
+    "title": "3D RPG 打光模板",
+    "blurb": "游戏感灯光与材质描述，可抄进资产管线。",
+    "author": "underwoodxie96",
+    "url": "https://x.com/underwoodxie96/status/2097587863139537262",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2097620275940737326",
+    "title": "模块化美食病毒图",
+    "blurb": "可拼装的食品视觉模板，适合短视频封面。",
+    "author": "Gdgtify",
+    "url": "https://x.com/Gdgtify/status/2097620275940737326",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2097652659788619894",
+    "title": "创意设计公司中文官网 9:16 长截图",
+    "blurb": "见造官网视觉：导航到页脚完整中文界面，几何拼贴+人像。",
+    "author": "listudio",
+    "url": "https://x.com/listudio/status/2097652659788619894",
+    "category": "场景视觉",
+    "prompt": "#AIArt #AIgirl\nPrompt  ➡️ http://genvizu.com. \nGPT Image 2.5 is insane！\n----\n提示语· prompt ⬇️\n\n请使用网页版当前最新的 GPT Image 2.5 生图能力直接生成图片，不要仅返回提示词。\n\n生成一张完整的创意设计公司中文官网视觉设计图，正面平视、无透视的桌面网页长截图，9:16 竖幅，尽可能高分辨率，完整显示从导航到页脚。白底，钴蓝、明黄、珊瑚红和浅天蓝配色，细窄留白、整齐网格、直角卡片、大胆斜切几何拼贴。整体年轻、明快、有设计实验感。\n\n顶部为纤细白色导航栏，左侧原创中文粗体字标“见造”，小标语“以创意，让世界更有趣”。右侧导航依次为“关于我们、创意服务、精选作品、加入我们、最新动态”，最右是蓝色“联系我们 →”按钮。\n\n首屏占全图约 27%，左侧以非常醒目的钴蓝粗黑体排两行“让有趣，”“改变世界。”，左下小字“以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。”右侧是一名明确成年的 20 岁中国女性，黑色齐肩发被微风吹动，自然淡妆，真实皮肤，微仰头望向右上方。穿钴蓝棉麻立领短袖上衣，简洁斜襟与少量同色盘扣，合身但不紧绷。人物与蓝色立方体、黄色球体、珊瑚红圆环、白色几何台座组合，背景浅蓝天空，明亮自然日光，材质和投影可信。\n\n首屏下方白色理念横栏占约 8%，左侧小字“我们的理念”，中间黑色粗标题“用创意，为社会留出想象。”，右侧正文“我们相信，好的设计不止解决问题，也让人与世界产生新的连接。”及“了解见造 →”。\n\n服务区占约 16%，左侧窄栏标题“创意服务”、简短介绍和“查看全部服务 →”；右侧三张等宽卡片：蓝底卡片以手持灯泡摄影配“品牌创意”，黄底卡片以彩色几何积木配“传播设计”，珊瑚红底卡片以打开的笔记本电脑配“数字体验”。每张卡片下方有两行简短中文介绍和右箭头。\n\n作品区占约 17%，左侧标题“精选作品”和“查看全部作品 →”，右侧四列平面作品缩略图，分别为有彩色颜料点缀的 20 岁中国女性肖像海报、城市几何装置海报、蓝白红编辑设计、山野艺术装置海报。四个项目名称依次为“自在生长”“城市游乐场”“灵感发生地”“山野之间”，缩略图中的可见文字也全部使用中文。\n\n招聘区占约 18%，整幅钴蓝横栏，左侧白色大标题“和有趣的人，一起创造新风景。”，正文“让热爱成为日常，让灵感自由生长。”及白底按钮“查看开放职位 →”。右侧三名明确成年的 20 岁中国女性坐在黄色与珊瑚红几何台阶上自然交流，分别穿蓝色立领上衣、米白棉麻衬衫、浅黄色简约针织上衣，搭配宽松长裤与干净平底鞋，黑色长发或齐肩短发，自然淡妆，青春、自信、亲切，非古装、非职业套装、无夸张饰品。\n\n下方约 6% 为白底“最新动态”栏，三行消息为“2026.09.09 见造全新品牌网站正式上线”“2026.09.08 城市游乐场创意计划发布”“2026.09.01 秋季创意伙伴招募开启”。最后约 8% 为简洁页脚，中文“见造”、导航和“© 2026 见造创意。保留所有权利。”，留出舒适下边距。所有界面文案为可读、准确的简体中文，标题与正文层级鲜明。无日文、无乱码、无第三方标志、无水印、无浏览器边框、无设备外壳。输出一张完整网页设计图。\n\n----\nMore Prompt  ➡️ http://genvizu.com."
+  },
+  {
+    "id": "2097651464093282720",
+    "title": "Pinterest → /detailed-image-2-text-prompt",
+    "blurb": "参考图反推提示词流程。",
+    "author": "sven_ai",
+    "url": "https://x.com/sven_ai/status/2097651464093282720",
+    "category": "场景视觉",
+    "prompt": "/detailed-image-2-text-prompt"
+  },
+  {
+    "id": "2097637713784476152",
+    "title": "手机实拍 + 七轮改房仍一致",
+    "blurb": "室内场景多轮编辑，家具与透视不崩。",
+    "author": "exploraX_",
+    "url": "https://x.com/exploraX_/status/2097637713784476152",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2097584582367527358",
+    "title": "4×4 Sprite Sheet",
+    "blurb": "一图导出精灵表，游戏原型直接用。",
+    "author": "HitPawCreators",
+    "url": "https://x.com/HitPawCreators/status/2097584582367527358",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097595058757500947",
+    "title": "像素对战 GIF",
+    "blurb": "像素战斗动画向，适合小游戏预告。",
+    "author": "Re7_AI",
+    "url": "https://x.com/Re7_AI/status/2097595058757500947",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097639113415631121",
+    "title": "黑猫 vs 老鼠 Sprite 循环",
+    "blurb": "循环动作帧，角色动画 demo。",
+    "author": "Agonyframe",
+    "url": "https://x.com/Agonyframe/status/2097639113415631121",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097640115409469657",
+    "title": "定格动画：一帧 12 姿态",
+    "blurb": "单图塞满关键姿势，停格流程可抄。",
+    "author": "Lucas_IA_",
+    "url": "https://x.com/Lucas_IA_/status/2097640115409469657",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097565834931548309",
+    "title": "定格 vs Nano Banana",
+    "blurb": "停格质感横向对比，选型参考。",
+    "author": "ekcheungAI",
+    "url": "https://x.com/ekcheungAI/status/2097565834931548309",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097625779509379502",
+    "title": "Flare 等待游戏 UX",
+    "blurb": "生成等待时的交互彩蛋，产品体验向笔记。",
+    "author": "EchoraContinuum",
+    "url": "https://x.com/EchoraContinuum/status/2097625779509379502",
+    "category": "UX产品"
+  },
+  {
+    "id": "2097656459584831885",
+    "title": "把收尾提示词命名成自定义指令",
+    "blurb": "抑制噪点/收尾套路存成名字，下次只加名字。",
+    "author": "sktGT1016",
+    "url": "https://x.com/sktGT1016/status/2097656459584831885",
+    "category": "UX产品"
+  },
+  {
+    "id": "2097704377142407323",
+    "title": "Flare vs Sunburst：冻结任务再打分",
+    "blurb": "别靠玄学选型。冻结 3 个真实编辑任务、标死 must-stay 区域，按指令成功率/漂移/主体一致/延迟/图 token 成本选赢家。",
+    "author": "evankang_ai",
+    "url": "https://x.com/evankang_ai/status/2097704377142407323",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097698694296686623",
+    "title": "Image 2.5 + Seedance 写实视频工作流",
+    "blurb": "拆解+提示词全摊开：写实 AI 视频不是一键出片，种草长文/短视频可直接抄流程。",
+    "author": "abxxai",
+    "url": "https://x.com/abxxai/status/2097698694296686623",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2097703973671334359",
+    "title": "Sketch：不会画画也能迭代出片",
+    "blurb": "草图 → Images 2.5 → 继续改。视频演示「不会画也能出货」，Sketch 种草最佳素材之一。",
+    "author": "derrickcchoi",
+    "url": "https://x.com/derrickcchoi/status/2097703973671334359",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097705361830531366",
+    "title": "Image 2 vs 2.5 对比笔记（API 坑）",
+    "blurb": "2 没有 variant（2.5 默认 Flare）；参考图从 image 变 image_references——写教程/测评时这些细节拉开专业度。",
+    "author": "Lucas_IA_",
+    "url": "https://x.com/Lucas_IA_/status/2097705361830531366",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097702225707511823",
+    "title": "披萨三选一：哪张没被 AI 改过？",
+    "blurb": "编辑质量鉴宝局：看配料接缝/阴影/桌布纹理。互动玩法 + 编辑能力证明，适合小红书/视频号挑战模板。",
+    "author": "midsusnight",
+    "url": "https://x.com/midsusnight/status/2097702225707511823",
+    "category": "电商改图"
+  },
+  {
+    "id": "2097864779859976637",
+    "title": "官方 Prompt 八股文，中文一页抄走",
+    "blurb": "生成目的、可见细节、姿态视线、画面文字位置……别再堆氛围词。小红书/落地页文案直接当 checklist。",
+    "author": "csoooooooo",
+    "url": "https://x.com/csoooooooo/status/2097864779859976637",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097853425669329128",
+    "title": "Flare 打七大模型：商业大片梯队 + 成本",
+    "blurb": "官方样本 prompt 横评，第一梯队写死 gpt-image-2.5-flare（更快更接近 Image 2）。选型/报价话术现成。",
+    "author": "wquguru",
+    "url": "https://x.com/wquguru/status/2097853425669329128",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097858572319072601",
+    "title": "「把灯挪到右边」——精密局部编辑",
+    "blurb": "Higgsfield 上测 GPT-Image 2.5，一句指令改光源位置，局部编辑不是 PPT。",
+    "author": "prompts_ig",
+    "url": "https://x.com/prompts_ig/status/2097858572319072601",
+    "category": "电商改图"
+  },
+  {
+    "id": "2097858154793222529",
+    "title": "画质不是杀招，Sketch 才是",
+    "blurb": "@Sketch 棒人草图 + 一句指令 → 成品；「再往左一点」那种往返可以扔了。内容号讲工作流就讲这个。",
+    "author": "tatsumoto2222",
+    "url": "https://x.com/tatsumoto2222/status/2097858154793222529",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097864879843746285",
+    "title": "写真 UGC：先偷真照片颗粒/色调，再锁脸",
+    "blurb": "无参考 = 假色假噪点假皮肤。广告素材/种草图抄这个就够锋利。",
+    "author": "0x_harness",
+    "url": "https://x.com/0x_harness/status/2097864879843746285",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097868249392390473",
+    "title": "手办经典测图",
+    "blurb": "每出新模型必测的 1/7 手办桌面场景：透明底座 + 屏上 ZBrush + BANDAI 包装盒。2.5 直出质感直接能当选品样张。",
+    "author": "cnyzgkc",
+    "url": "https://x.com/cnyzgkc/status/2097868249392390473",
+    "category": "场景视觉",
+    "prompt": "Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a reaalistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the ZBrush modeling process of the figure. Next to the computer screen, place a BANDAI-style toy packaging box printed with the original artwork.",
+    "image": "https://upload.maynor1024.live/file/1789007740457_2097868249392390473.jpg"
+  },
+  {
+    "id": "2097863751471157498",
+    "title": "4×4像素战斗图→GIF",
+    "blurb": "上传角色图生成 16 帧 Sprite Sheet，拆格播放就成像素 GIF。攻击/跳跃/翻滚全包，小游戏预告与表情包一锅端。",
+    "author": "derek_wall90176",
+    "url": "https://x.com/derek_wall90176/status/2097863751471157498",
+    "category": "像素动效",
+    "prompt": "上传图1作为角色身份与服装的唯一参考。\n\n将图1角色转化为高质量2D像素游戏角色，生成一张正方形、4×4等分排列、共16帧的连续动作Sprite Sheet。\n\n每格尺寸完全一致。画面按从左到右、从上到下的顺序播放。\n\n严格保留角色的脸型、发型、体型、服装配色、标志性配件与武器结构。16帧使用相同的像素比例、角色尺寸、朝向和色板。\n\n角色完成一次【挥剑攻击／跳跃／翻滚／施法／扑击】动作。\n\n第1至3帧为待机与蓄力；第4至7帧为重心移动和动作展开；第8至10帧完成主要攻击与力量释放；第11至13帧表现惯性和收势；第14至16帧回到待机状态。第16帧与第1帧能够自然衔接。\n\n相邻帧只改变完成动作所需的关节、轮廓、衣摆、头发和武器位置。动作方向、受力关系和运动轨迹保持连续。\n\n所有格子保持相同机位、角色缩放、脚底基线和画面中心。角色完整显示，不裁切头部、武器、尾巴或特效。\n\n背景优先使用透明通道。透明背景不稳定时，改用统一纯色背景，方便后期抠图。不要生成场景、地面纹理、格线、编号和文字。\n\n采用清晰硬边像素、有限色板和统一像素密度。禁止模糊边缘、抗锯齿、半写实渲染、重复帧、跳帧、角色变形、服装变化、武器增减、视角切换和每格重新构图。",
+    "image": "https://upload.maynor1024.live/file/1789007738637_2097863751471157498.jpg"
+  },
+  {
+    "id": "2097859617359565266",
+    "title": "美人背唐风CG",
+    "blurb": "9:16 唐风半身背影：镜面铜屏映侧脸、凤凰步摇与低饱和粉金光。人像海报/竖版封面直接抄光影逻辑。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2097859617359565266",
+    "category": "人像角色",
+    "prompt": "9:16 竖版高级唐风 CG 人像海报，半身近景特写，电影级构图与空间透视。一位明确成年的东亚古典美人身体背向画面呈后三分之四方向，头部没有回看镜头，而是轻轻偏向右侧屏风；镜面铜屏中隐约映出她清冷的侧脸。她具有冷白真实肤质、微挑凤眼和自然胭脂唇，目光停留在镜中的凤冠流苏上，神态沉静、羞涩而克制。她穿雾粉色露肩披帛式唐风礼服，衣料沿肩背柔和垂落，领口不过分暴露，鎏金纹样集中在边缘；乌发高盘，头戴金色凤凰步摇冠，珍珠链沿耳侧摆动。一只手扶住冠饰，另一只手握着落在肩头的披帛。背景虚化为冷灰蓝宫墙与半透明纱屏，暖金主光从镜面左侧反射到脸部，冷色辅光照亮肩背，边缘光刻画发髻。85mm，f/2，浅景深、真实镜面逻辑、细腻颗粒和轻微辉光，低饱和粉金色调，典雅不艳俗。",
+    "image": "https://upload.maynor1024.live/file/1789007734918_2097859617359565266.jpg"
+  },
+  {
+    "id": "2097860248640053693",
+    "title": "璃月衣帽间极低机位自拍",
+    "blurb": "9:16 超写实手机仰拍：奢华衣帽间 + 金玉腰链细节。社媒竖版人像的「自信不艳俗」配方。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2097860248640053693",
+    "category": "人像角色",
+    "prompt": "9:16 竖版超写实智能手机自拍，一位明确成年的虚构动漫灵感东方女性，置身璃月意象的奢华私人衣帽间，雕花深木柜、玉石拉手、金属格栅与暖色灯带构成高级背景。手机位于接近地面的极低机位，以强烈仰拍捕捉她微微俯身整理腰间饰品的瞬间；身体正面偏左，头部轻轻侧倾，视线直接落向手机镜头，神情自信而克制。身穿象牙白与金色刺绣短款上衣、墨黑低腰阔腿裤，搭配翡翠腰链、精致腹部珠宝和小面积装饰性下腹纹样；金玉主题立体美甲清晰可见。丝绸、蕾丝、黄金与玉石材质真实，暖金主光配合青绿色轮廓光，电影级层次，轻微手机广角透视与自然镜面反射，高级网红社交媒体写实质感。服装完整稳妥，不过度裸露，不色情化；不使用任何角色姓名，不声称官方身份，不复刻特定角色面孔或标志。",
+    "image": "https://upload.maynor1024.live/file/1789007742566_2097860248640053693.jpg"
+  },
+  {
+    "id": "2097875217100296362",
+    "title": "蒙德里安杂物柜",
+    "blurb": "把《红、蓝、黄的构成》拉成桌面收纳柜：色块=抽屉、分割线=柜体。耳机橡皮各归其格，产品展示图三栏可抄。",
+    "author": "cellinlab",
+    "url": "https://x.com/cellinlab/status/2097875217100296362",
+    "category": "UX产品",
+    "prompt": "生成一张16:9横版桌面设计展示图。左侧放蒙德里安《红、蓝、黄的构成》的画作参考，中间是桌面收纳柜的正面网格与透视铅笔草图，右侧是使用效果。柜体采用象牙白涂装木材，粗黑色分隔条形成不对称矩形网格，红色大抽屉、蓝色小抽屉、黄色小抽屉与白色格子共同组成正面。红色抽屉拉开，里面放耳机与卷好的线；黄色抽屉略微拉开，露出橡皮。抽屉必须有真实侧壁、厚度和内部空间，并与各自格口对齐。表现涂装木材细纹、接触阴影和桌面使用痕迹，自然侧光。草图与柜体布局一致，不加文字、Logo或URL。",
+    "image": "https://upload.maynor1024.live/file/1789007741864_2097875217100296362.jpg"
+  },
+  {
+    "id": "2097871439072543175",
+    "title": "蒙娜丽莎眼镜架",
+    "blurb": "古典胸像 × 现代黑框眼镜的桌面产品：鼻托镜腿落点要对死。文创周边/落地页 mock 反差感拉满。",
+    "author": "cellinlab",
+    "url": "https://x.com/cellinlab/status/2097871439072543175",
+    "category": "UX产品",
+    "prompt": "生成一张16:9横版桌面设计展示图。左侧是《蒙娜丽莎》的画作参考，中间是同款胸像眼镜架的正面与侧面铅笔草图，右侧是放在浅橡木桌上的使用效果。胸像保留蒙娜丽莎的长发、神秘微笑、衣褶和交叠双手，采用做旧铜质与暗棕色表面，底座宽而稳定。一副真实的现代黑色厚框透明眼镜架在她的鼻梁上，镜腿自然延伸到耳侧，眼睛透过镜片可见。表现镜片反射、镜框小螺丝与铜像细微磨损。旁边放眼镜布和笔记本电脑一角，自然窗光。草图与物件一致，不加文字、Logo或URL。",
+    "image": "https://upload.maynor1024.live/file/1789007748025_2097871439072543175.jpg"
+  },
+  {
+    "id": "2097784050660376617",
+    "title": "枫叶点水 Prompt1",
+    "blurb": "半透明金叶点触暗水面，脉纹里开粉花。Flare 氛围大图，竖版奇幻场景一键出片。",
+    "author": "churvikv",
+    "url": "https://x.com/churvikv/status/2097784050660376617",
+    "category": "场景视觉",
+    "prompt": "An enchanting and surreal digital art piece featuring a translucent, golden maple leaf hovering magically above the surface of calm, dark water. The leaf glows from within with a warm, ethereal light, its delicate veins clearly visible. Inside the translucent structure of the leaf, tiny, vibrant pink flowers and closed buds are embedded, appearing to bloom within its very veins. The tips of the leaf are edged with a sparkling, golden glitter that drifts into the air like magic dust. The leaf's stem extends downward, just touching the water's surface, creating concentric ripples that spread outward. Below the water, a reflection of the glowing leaf and stem is faintly visible. The background is a dreamy twilight forest with silhouetted pine trees against a soft, gradient sky of purple, orange, and blue. Several pink water lilies float on the dark water, adding to the serene and magical atmosphere.",
+    "image": "https://upload.maynor1024.live/file/1789007736017_2097784050660376617.jpg"
+  },
+  {
+    "id": "2097860435366048106",
+    "title": "超现实写实 one-liner",
+    "blurb": "一句神 prompt：最写实地画最超现实的东西。Sunburst + Firefly Boards 直出，灵感测图必备。",
+    "author": "icreatelife",
+    "url": "https://x.com/icreatelife/status/2097860435366048106",
+    "category": "场景视觉",
+    "prompt": "create the most realistic possible image of the most surreal thing you can imagine",
+    "image": "https://upload.maynor1024.live/file/1789007740139_2097860435366048106.jpg"
+  },
+  {
+    "id": "2097806703186055263",
+    "title": "关灯只留蜡烛",
+    "blurb": "同图同设置：一句「关灯，只留蜡烛」横评 Image 2 vs 2.5 Sunburst。烛光谁更真，选型一眼定。",
+    "author": "SandbaseAI",
+    "url": "https://x.com/SandbaseAI/status/2097806703186055263",
+    "category": "选型评测",
+    "prompt": "Turn off the lights. Keep only the candles.",
+    "image": "https://upload.maynor1024.live/file/1789007741348_2097806703186055263.jpg"
+  },
+  {
+    "id": "2097800514633429315",
+    "title": "橘子微缩小人",
+    "blurb": "剥开的橘子变成透光穹顶洞穴，2cm 小人住进果肉。透射光 + Vision3 胶片逻辑，微缩场景天花板。",
+    "author": "JohnnyWang8802",
+    "url": "https://x.com/JohnnyWang8802/status/2097800514633429315",
+    "category": "场景视觉",
+    "prompt": "Macro cinematic photography inside a peeled tangerine resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.\nThree figures, each about two centimeters tall, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.\nA single low-angle sun is positioned behind the fruit and is the only light source, producing true transmitted light through the citrus flesh. The orange brightness of the dome must come from light physically passing through the fruit itself, not from any artificial glow effect. Individual juice vesicles illuminate one by one in transmission, while thicker pith appears as darker veins. The cave floor is illuminated only by this transmitted light. Outside the cave entrance is completely black. No fill light.\nAnamorphic 2.39:1, anamorphic lens with macro adapter, f/4. Sparse defocused light points outside the cave appear as vertically oval bokeh with subtle horizontal anamorphic stretch. Deep focus, focus stacked.\nKodak Vision3 500T motion picture negative, tungsten white balance, warm saturated transmitted orange highlights with deep cyan shadows. Black Pro-Mist 1/4. Strong transmitted-light edges along the thinnest parts of the fruit show visible red halation.\nOverall exposure reduced by one stop. The darkness outside the cave remains truly black. Fine film grain, more visible in the shadows. No digital sharpening, no HDR, no orange-and-teal grading, no lens-flare effects, no artificial glow, no CGI plastic texture.",
+    "image": "https://upload.maynor1024.live/file/1789007737993_2097800514633429315.png"
+  },
+  {
+    "id": "2097778936646091084",
+    "title": "轨道奢侈品三连",
+    "blurb": "Prada×Axiom×Zendaya / SpaceVIP×Keanu / Richard Mille×Hamilton 三套轨道奢侈海报。Sunburst 高端 SMM 排版系统可拆。",
+    "author": "sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2097778936646091084",
+    "category": "海报排版",
+    "prompt": "Prada × Axiom Space × Zendaya — \"ORBITAL COUTURE\"\n\nFORMAT: Ultra-Premium Aerospace SMM Poster | 3:4 | Instagram Hero | Behance Front Page Quality\nCORE STRATEGY: High-fashion lunar engineering. Sleek tailored pressurized lunar EVA spacesuit, reflective gold visor, and Earth's blue curve.\nCAMPAIGN: \"ORBITAL COUTURE\"\nMASTER VISUAL: Monolithic bold geometric PRADA typography (75% canvas) in clean lunar white across top.\nHERO SUBJECT: Zendaya. Sleek high braided ponytail, wearing the tailored Prada-designed Axiom lunar spacesuit in pristine white composite with red Linea Rossa accents.\nPOSE: Relaxed zero-gravity posture, helmet resting under her arm, gazing out a massive curved spacecraft observation cupola.\nCOLOR SYSTEM: Lunar White, Linea Rossa Crimson, Deep Space Black, Earth Atmospheric Cyan.\nBACKGROUND: The panoramic cupola of an orbital habitat revealing the illuminated blue crescent of planet Earth against the infinite starfield.\nGRAPHIC SYSTEM: Orbital velocity parameters (27,600 km/h), telemetry coordinate HUD, minimalist technical hatch numbering.\nPROMOTIONAL ELEMENTS: PRADA LUNAR DIVISION | AXIOM EXTRAVEHICULAR MOBILITY UNIT | ARTEMIS MISSION\nTYPOGRAPHY: Top iconic PRADA bold serif | Center title: ORBITAL COUTURE | Bottom technical telemetry data readout\nLIGHTING: Pristine solar sunlight raking across the composite white suit fabric from the cupola, contrasted by deep space black.\nCAMERA: ARRI Alexa 65, 70mm Hasselblad Prime, f/4.0, hyper-crisp reflections in visor and tactile ballistic nylon weave.",
+    "image": "https://upload.maynor1024.live/file/1789007737492_2097778936646091084.jpg"
+  },
+  {
+    "id": "2097878838063903217",
+    "title": "网球写真完整中文 prompt",
+    "blurb": "动作姿态写实到能当 UGC 素材库，9:16 竖版可抄。",
+    "author": "AIVideoHub_",
+    "url": "https://x.com/AIVideoHub_/status/2097878838063903217",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097878193013199231",
+    "title": "Zenmux 同 prompt：Flare vs Sunburst 硬刚",
+    "blurb": "一句话并跑两模型，日常配图纠结选谁看完能省半小时玄学。",
+    "author": "AI_jacksaku",
+    "url": "https://x.com/AI_jacksaku/status/2097878193013199231",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097874955488972897",
+    "title": "30 秒短片流水线：Flare→PixVerse→MiniMax",
+    "blurb": "Flare 出图 → PixVerse Canvas → MiniMax 视频 → ElevenMusic，一人团队概念片现成配方。",
+    "author": "lukmanfebrianto",
+    "url": "https://x.com/lukmanfebrianto/status/2097874955488972897",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2097873150621135282",
+    "title": "Image 2 左 / 2.5 Sunburst 右零后处理",
+    "blurb": "同 prompt 对照，别再嘴炮「感觉更好」，直接甩图。",
+    "author": "KeyoAPI",
+    "url": "https://x.com/KeyoAPI/status/2097873150621135282",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097877501745795432",
+    "title": "涂鸦骑士 → Chibi → GIF",
+    "blurb": "Sketch 出资产再 vibe-code 动起来，游戏/表情包可复用；通用 prompt 在帖里。",
+    "author": "mtkapi",
+    "url": "https://x.com/mtkapi/status/2097877501745795432",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097897602356306361",
+    "title": "古代美人 8 步互动捏人 prompt",
+    "blurb": "朝代→身材→气质→发式→服饰→妆容→场景→神态，少解释多状态保存。小红书/社群引流模板味很足。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2097897602356306361",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097890291860865291",
+    "title": "IG 旅游广告 [LOCATION] 可替换模板",
+    "blurb": "4:5 竖屏 + 手机导航锚点构图，换地名就能出一波 scroll-stopping 海报。出海投放直接改。",
+    "author": "Goodmanprotocol",
+    "url": "https://x.com/Goodmanprotocol/status/2097890291860865291",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097888443770782019",
+    "title": "《玩转 ChatGPT Image 2.5》中文长文",
+    "blurb": "新功能和新玩法收成一篇，适合当内容底稿或转发二次创作。",
+    "author": "Re7_AI",
+    "url": "https://x.com/Re7_AI/status/2097888443770782019",
+    "category": "UX产品"
+  },
+  {
+    "id": "2097897854505271703",
+    "title": "Flare vs Krea / Seedream / Ideogram 同光影",
+    "blurb": "同一「电影安静瞬间」四连拍，选型辩论时甩图就行。",
+    "author": "morphedai",
+    "url": "https://x.com/morphedai/status/2097897854505271703",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097929167266631771",
+    "title": "同 prompt 纸雕海报 + 六格广告打脸对照",
+    "blurb": "条形码/小字/人群压到不同模型上，文字清晰度与排版连贯性一眼见真章。素材选型别靠感觉。",
+    "author": "bozhou_ai",
+    "url": "https://x.com/bozhou_ai/status/2097929167266631771",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097926023069519960",
+    "title": "96 帧鹈鹕骑车定格动画",
+    "blurb": "Images 2.5 逐帧生 96 张拼成 8 秒定格。不靠视频模型也能出片，短视频选题很香。",
+    "author": "yunxi0623",
+    "url": "https://x.com/yunxi0623/status/2097926023069519960",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097924471655162025",
+    "title": "角色 → 4×4 战斗精灵表 → GIF",
+    "blurb": "Seedream 出人设，Image 2.5 压透明 4×4 精灵表，再拆帧成 GIF。游戏素材/小红书动图流水线可抄。",
+    "author": "AI_VideoLab",
+    "url": "https://x.com/AI_VideoLab/status/2097924471655162025",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097919290980921451",
+    "title": "香水奢品 10 格分镜 storyboard",
+    "blurb": "电影感产品分镜 + 干净网格，直接可改成你自己的品类广告故事板。",
+    "author": "Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2097919290980921451",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097928056178667694",
+    "title": "Image 2 vs Flare vs Sunburst 水彩三连",
+    "blurb": "同场景对照，Flare/Sunburst 差在哪不用猜。选型时拿来当尺子。",
+    "author": "morphedai",
+    "url": "https://x.com/morphedai/status/2097928056178667694",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097987154890944892",
+    "title": "Sketch/Doodle 完整 walkthrough：草图只锁构图",
+    "blurb": "从涂鸦到成片的完整步骤：草图只负责构图骨架，风格后置。不会画画也能控形出片。",
+    "author": "atlas_remake",
+    "url": "https://x.com/atlas_remake/status/2097987154890944892",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097989282116042813",
+    "title": "日文实务：Flare/Sunburst 同价 API 差分",
+    "blurb": "同价位下 Flare vs Sunburst 差分写清楚。报价/选型别再靠「感觉贵一点就更好」。",
+    "author": "rsensui",
+    "url": "https://x.com/rsensui/status/2097989282116042813",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097978468642480487",
+    "title": "Apple 级手机海报，可复制 prompt",
+    "blurb": "产品海报直出，prompt 可抄。做数码/3C 种草封面时省半小时磨词。",
+    "author": "Diplomeme",
+    "url": "https://x.com/Diplomeme/status/2097978468642480487",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097977460403130371",
+    "title": "投放静图四件套：Flare / Sunburst / 锁参考 / 局部改",
+    "blurb": "付费社媒静态广告拆成四块工作流。量产用 Flare，终稿 Sunburst，参考锁 + focused edit 控漂移。",
+    "author": "learnbyIsmail",
+    "url": "https://x.com/learnbyIsmail/status/2097977460403130371",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097977120441925720",
+    "title": "奢华婚礼请柬 mockup + 完整 prompt",
+    "blurb": "请柬/喜帖排版系统可拆，换名字日期就能出样。婚礼赛道与高端印刷预览很香。",
+    "author": "abs_uiux",
+    "url": "https://x.com/abs_uiux/status/2097977120441925720",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097972662828155319",
+    "title": "涂鸦一笔变插画",
+    "blurb": "乱笔画进 2.5，直接拉成可发插画。Sketch 控形的「最低门槛」演示。",
+    "author": "chrno001",
+    "url": "https://x.com/chrno001/status/2097972662828155319",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097963498273988784",
+    "title": "2.5 vs 2.0 视频硬对比",
+    "blurb": "动态对照比静态截图更有说服力。写升级值不值、做社媒 demo 直接甩。",
+    "author": "kr0der",
+    "url": "https://x.com/kr0der/status/2097963498273988784",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097963306116084142",
+    "title": "Sketch 关键词 + 线情绪怎么写",
+    "blurb": "线稿不只锁形，还要写清线情绪。控形 prompt 的细节档位可抄。",
+    "author": "wenwen11703261",
+    "url": "https://x.com/wenwen11703261/status/2097963306116084142",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097962843757006979",
+    "title": "ZenMux 上 Flare / Sunburst 怎么选",
+    "blurb": "聚合入口里两型号怎么分流。赶量 vs 终稿，别混着点。",
+    "author": "SuperByteSpace",
+    "url": "https://x.com/SuperByteSpace/status/2097962843757006979",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097961051476164612",
+    "title": "Sunburst 四轮保真：越改越稳？",
+    "blurb": "多轮编辑下身份/构图是否还在。要做长会话改图，先看这组保真实测。",
+    "author": "GuliMoreno",
+    "url": "https://x.com/GuliMoreno/status/2097961051476164612",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097954772586557873",
+    "title": "80s 复古写真锁脸",
+    "blurb": "年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。",
+    "author": "Goodmanprotocol",
+    "url": "https://x.com/Goodmanprotocol/status/2097954772586557873",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097952240707530923",
+    "title": "巴黎街拍写真 prompt",
+    "blurb": "街拍姿势/光位/服装分段可替换。UGC 人像与旅拍种草可直接改地名。",
+    "author": "AIwithSarah_",
+    "url": "https://x.com/AIwithSarah_/status/2097952240707530923",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097951132031320484",
+    "title": "哥特 Lolita 完整中文 prompt",
+    "blurb": "中文可复制人设配方，服装层次写细。角色卡/COS 种草少踩「衣服糊成一团」。",
+    "author": "AIVideoHub_",
+    "url": "https://x.com/AIVideoHub_/status/2097951132031320484",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097949170594193427",
+    "title": "Model sheet 身份锁：多角度同一人",
+    "blurb": "角色表压住脸与体型，多视角不漂移。做 IP/表情包/游戏立绘流水线先抄这套。",
+    "author": "meAsifAi",
+    "url": "https://x.com/meAsifAi/status/2097949170594193427",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097943157585424694",
+    "title": "木版画：2 / Flare / Sunburst 三连",
+    "blurb": "同题材三模吃纹理的差异。做版画/印刷风素材选型时当尺子。",
+    "author": "morphedai",
+    "url": "https://x.com/morphedai/status/2097943157585424694",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097937963523145829",
+    "title": "叠穿コーデ 全套可替换 prompt",
+    "blurb": "日系叠穿长文配方，单品可拆换。电商穿搭图与小红书 OOTD 直接改货号。",
+    "author": "MoodLock_JP",
+    "url": "https://x.com/MoodLock_JP/status/2097937963523145829",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097935536224866583",
+    "title": "Flare/Sunburst × Seedance：UGC 广告流水线",
+    "blurb": "静图出片再进短视频。一人团队做 UGC 投放素材的「图→片」衔接可抄。",
+    "author": "tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2097935536224866583",
+    "category": "人像角色"
+  },
+  {
+    "id": "2097930655375970768",
+    "title": "Sketch → 油画成片",
+    "blurb": "线稿控形后切油画质感。艺术封面/展览视觉，先形后质。",
+    "author": "Mayorkng98",
+    "url": "https://x.com/Mayorkng98/status/2097930655375970768",
+    "category": "Sketch"
+  },
+  {
+    "id": "2097930409518768543",
+    "title": "多轮编辑崩坏对照：哪一轮开始飘",
+    "blurb": "连续改图何时身份崩、构图飞。长会话改稿前先设止损轮数。",
+    "author": "luoxiaoshan_ai",
+    "url": "https://x.com/luoxiaoshan_ai/status/2097930409518768543",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097928991407546852",
+    "title": "Sunburst API 换光锁脸 / 产品",
+    "blurb": "意文实务：换光照仍锁脸与产品主体。广告补光/棚拍替代很实用。",
+    "author": "alepom",
+    "url": "https://x.com/alepom/status/2097928991407546852",
+    "category": "电商改图"
+  },
+  {
+    "id": "wechat-duanlaoshi-virtual-ip",
+    "title": "从 0 到 1 虚拟 IP 资产全流程",
+    "blurb": "人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。",
+    "author": "段老湿",
+    "url": "https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ",
+    "category": "人像角色",
+    "playbook": "docs/playbooks/virtual-ip-assets.md"
+  }
+]
