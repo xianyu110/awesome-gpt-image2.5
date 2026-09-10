@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xianyu110.github.io/awesome-gpt-image2.5/sitemap.xml

@@ -1,9 +1,9 @@
-# Awesome GPT Image 2.5
+# Awesome GPT Image 2.5（ChatGPT Images 2.5 / Flare · Sunburst）
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-brightgreen)](https://xianyu110.github.io/awesome-gpt-image2.5/)
 
-> ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
+> ChatGPT Images 2.5 / gpt-image-2.5（Flare · Sunburst · Sketch）社区好玩用法与可抄 prompt 画廊。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录 148 条**
 
