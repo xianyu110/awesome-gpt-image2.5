@@ -91,5 +91,28 @@
     ],
     "related_category": "像素动效",
     "prompt_skeleton": "上传图1作为角色身份与服装的唯一参考。\n生成 4×4 像素风动作表，网格对齐，每格一个清晰动作，…"
+  },
+  {
+    "id": "virtual-ip-assets",
+    "name": "虚拟 IP 资产流水线",
+    "tagline": "人物母版 → 五视图 → 表情/头像/封面/配图 → 换装街拍 → PV",
+    "when": "要给自媒体/品牌从零搭一套可复用的虚拟人物资产（头像、封面、配图、表情包、街拍、短视频）。",
+    "steps": [
+      "文生一张主体人像，锁定脸、发型、服装识别点。",
+      "用主体做五视图 / model sheet（身份锚点）。",
+      "同一参考出：表情九宫格、写实头像、卡通/像素变体、表情包。",
+      "定一套视觉语言（如纸片拼贴）做竖版封面 + 横版头图。",
+      "正文配图用「人物动作 + 观点」比喻，不堆大字海报。",
+      "需要时换装/街拍九宫格测一致性；再进九宫格分镜 → 视频。",
+      "交付：母版 + 五视图 + 头像族 + 封面模板 + 可复制 prompts。"
+    ],
+    "notes": [
+      "参考分工：人物图管长相，风格图管材质配色，文案管观点。",
+      "完整提示词见 docs/playbooks/virtual-ip-assets.md。",
+      "原作者：段老湿 · https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ"
+    ],
+    "related_category": "人像角色",
+    "playbook": "docs/playbooks/virtual-ip-assets.md",
+    "source_url": "https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ"
   }
 ]
