@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 162 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 173 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,6 +237,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **同一把水壶，八次链式编辑：2 vs 2.5 Sunburst** — Agent 同流程改壶嘴/把手/盖子，盯身份锁谁更稳。卖「改完还是那个东西」的营销向硬对比。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2098199974303445050)
+- **同 prompt 同 43 token：Flare 快、Sunburst 稳** — 淹城夜景左右开：Flare 抢速度，Sunburst 抠细节。选型直觉一帖讲完。 [@misaraeai](https://x.com/misaraeai) · [原帖](https://x.com/misaraeai/status/2098058799001027017)
 - **同 prompt 抽到 Flare：可能不如 Image 2** — 别盲信版本号：同一套提示抽到 gpt-image-2.5-flare，观感可能输给 Image 2。选型先看型号，再谈升级。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098207695371379164)
 - **同 prompt：NanoBanana2 vs 2.5 Sunburst/Flare** — 同一套提示压三模，画质/遵从度一眼分档。选型别靠感觉，先看并排。 [@ElitzaVasileva](https://x.com/ElitzaVasileva) · [原帖](https://x.com/ElitzaVasileva/status/2098048981519540723)
 - **TikTok 哭脸广告片：Image 2 vs 2.5** — 同套路短广告对照，升级值不值直接甩视频。投放物料选型用。 [@adriamatz](https://x.com/adriamatz) · [原帖](https://x.com/adriamatz/status/2098048651545260384)
@@ -314,6 +316,7 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **Sketch→编辑风造型：线稿+布料色卡+鞋款** — 铅笔稿 + 三块布料色卡 + 鞋子参考出 editorial look；工作流和 prompt 在首评。时尚/电商造型图可抄。 [@itsphotogptai](https://x.com/itsphotogptai) · [原帖](https://x.com/itsphotogptai/status/2098064713024409655)
 - **tldraw 24h 升级 ChatGPT Sketch：demo + live kit** — 官方画板队连夜跟上 2.5 Sketch：30 分钟演示 + 可玩 live kit。控形出片别只看截图，直接上手拖线框。 [@tldraw](https://x.com/tldraw) · [原帖](https://x.com/tldraw/status/2098132314987303251)
 - **简笔画→温馨家庭成片（闲鱼信息差）** — 随手线稿渲成光影到位的家庭画；作者还甩了闲鱼「儿童教育 Sketch 交付」变现脑洞。一人团队可抄。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2098036539704086619)
 - **Sketch 涂鸦→AI 角色 + note** — 一笔乱画做出角色，还能边聊边改；附上手感想，适合给客户演示「零门槛从草图开干」。 [@teddypooh_bear](https://x.com/teddypooh_bear) · [原帖](https://x.com/teddypooh_bear/status/2098035177968824347)
@@ -898,6 +901,28 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **角色四视图 + 衣柜锁定** — 先用 2.5 做前/¾/侧/后角色表，再做场景时把服装钉死，连镜不换衣服；后面接视频模型更稳。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2098061897702805800)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Multi-panel film character reference sheet of the same real woman across four panels: front-facing, three-quarter turn, full profile, and a rear view over the shoulder, matching the exact reference photo. Long straight golden-brown hair with warm honey balayage, oval face, warm brown eyes, faint natural freckling across the nose and cheeks, softly tanned olive-warm skin, full lips. She wears a heather-grey lace-trimmed tank top under a loosely draped grey knit cardigan slipping off one shoulder, low-slung olive cargo trousers with a black leather belt and chain detail, a black leather slouchy shoulder bag strap over one shoulder.
+
+Every panel keeps the identical lighting setup as the reference: low golden-hour sun positioned behind her, burning through overhanging tree leaves and rim-lighting the edge of her hair with a warm halo, her face falling into soft warm shade with a gentle glow on the cheekbones, a tree-lined gravel park path and a glittering sun-struck lake with a small sailboat and distant hazy hills softly blurred behind her in every panel. Same warm golden color temperature, same sun flare quality breaking through the canopy, same soft background blur, same skin tone and light direction held constant across all four panels.
+
+Shot on 35mm film, fine warm grain visible in both light and shadow, visible skin pores and natural texture, faint natural sheen where the sun catches, no smoothing, no retouching, no beauty filter, no studio backdrop, no neutral lighting. Natural film-still photograph quality, candid unposed stance in every panel.
+```
+
+  </details>
+- **课堂抓拍·反差穿搭老师** — 短 prompt 出 iPhone 纪实感人像，UGC/种草风很好用。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2097999860696072542)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+iPhone 课堂抓拍，女大学老师，时尚反差穿搭
+```
+
+  </details>
 - **表情集实测：还是熟悉的「GPT 脸」** — 表情包能用，但别神话——横向一比仍是同质化 GPT 脸。角色一致性能交差，个性脸还得锁参考硬刚。 [@munou_ac](https://x.com/munou_ac) · [原帖](https://x.com/munou_ac/status/2098224166977806575)
 - **传参考图说「出衣装资料图」几乎零 prompt** — 丢一张参考，一句「衣装资料图出して」——2.5 补全力离谱，设定图质感直接能进企划。少写 prompt 多甩参考。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2098222494175879235)
 - **偷参考美学做真感写真** — 从参考图抽美学配方，再压成真感写真。UGC/种草人像流水线可抄。 [@sixugc](https://x.com/sixugc) · [原帖](https://x.com/sixugc/status/2098047399264469048)
@@ -1769,6 +1794,7 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **改图系统 prompt：先写清改什么、保什么** — 把模糊改图意图翻成模型吃得懂的精确指令：change half + hold half。产品图/海报连续精修少跑偏，直接当编辑前置系统提示。 [@everestchris6](https://x.com/everestchris6) · [原帖](https://x.com/everestchris6/status/2098170415613137083)
 - **传单只改价格：线稿 22 秒出片 + 8 作例** — 日系营销血泪：别为改个价重做整张图。2.5 局部改价 + 手绘 rough 22 秒变传单，附 8 作例与可粘贴 prompt。 [@Charlie_no_site](https://x.com/Charlie_no_site) · [原帖](https://x.com/Charlie_no_site/status/2098155424440893702)
 - **「ここだけ直す」局部改图指示集** — 日文保存版精准改图话术合集，比再发一篇 Flare/Sunburst 科普有用。电商/海报改细节直接抄指令。 [@noel_ai_lab](https://x.com/noel_ai_lab) · [原帖](https://x.com/noel_ai_lab/status/2098031783849648284)
 - **Sunburst API 换光锁脸 / 产品** — 意文实务：换光照仍锁脸与产品主体。广告补光/棚拍替代很实用。 [@alepom](https://x.com/alepom) · [原帖](https://x.com/alepom/status/2097928991407546852)
@@ -1807,6 +1833,15 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
 场景、长卷、视频工作流与氛围大图。
 
+- **国家地标拼成 3D 微缩地图（可换国家）** — 可替换 [COUNTRY] 的模板 prompt：国界用地标拼成微缩模型。旅游/文旅 KV 秒开脑洞。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2097996229582147939)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other recognizable elements so their silhouettes collectively create the accurate outline of the country. Keep the interior mostly clean and minimal, with [CITY] represented by its signature landmark at the correct location. Use layered sculpted forms, tiny architectural details, soft shadows, handcrafted textures, warm ivory background, and elegant studio lighting. Premium collectible travel-diorama aesthetic, playful but sophisticated, highly recognizable. Add small refined typography: “[COUNTRY]” and “[CITY] • [FAMOUS FOR]”.
+```
+
+  </details>
 - **品牌 DNA × Flare/Sunburst：1985 上线脑洞** — 先吃进 BrandKit，再问「如果 BrandGen 1985 年上线会怎样」——品牌一致营销图的正确打开方式，不是单图 prompt。 [@BrandGen_AI](https://x.com/BrandGen_AI) · [原帖](https://x.com/BrandGen_AI/status/2098034801265824087)
 - **奢侈品布料动物 2×2** — 短 prompt：按时尚屋签名面料重绘动物网格（16:9）。创意广告脑暴与品牌联名视觉很香。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2097981153760116975)
 - **30 秒短片流水线：Flare→PixVerse→MiniMax** — Flare 出图 → PixVerse Canvas → MiniMax 视频 → ElevenMusic，一人团队概念片现成配方。 [@lukmanfebrianto](https://x.com/lukmanfebrianto) · [原帖](https://x.com/lukmanfebrianto/status/2097874955488972897)
@@ -1999,6 +2034,9 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 像素、精灵表与动效向玩法。
 
+- **纯 Images 2.5 直接出 GIF（没用 Astra）** — 角色动起来的轻量玩法，社媒素材试水不绑视频管线。动效入口比想象更低。 [@MNesuka](https://x.com/MNesuka) · [原帖](https://x.com/MNesuka/status/2098165367944458488)
+- **GIF 配方写死：1:1 · 16 帧 · 12fps** — API max+4K 出精灵表再动起来。短营销动图模板，别再猜帧数。 [@Voxyz_ai](https://x.com/Voxyz_ai) · [原帖](https://x.com/Voxyz_ai/status/2098063955096633467)
+- **4×4 像素精灵表（prompt 在评论）** — GPT Image 2.5 出完整 sprite sheet，评论区有 prompt。游戏资产/表情包管线一眼能抄。 [@MUsman7808](https://x.com/MUsman7808) · [原帖](https://x.com/MUsman7808/status/2098002527170277885)
 - **任意梗图 → 5×5 像素精灵表 prompt** — 把 meme / 角色图压成 5×5 sprite sheet，prompt 可抄。表情包/游戏素材量产另一条路。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2098049016596729942)
 - **开源翻页动画：手绘起始帧 → 连贯序列** — OSS flipbook：起始帧进 GPT-image 2.5 出序列，原画忠度比别家稳。附可玩 demo + 流程拆解。 [@hot_town](https://x.com/hot_town) · [原帖](https://x.com/hot_town/status/2098038563094806955)
 - **16-bit 犯罪短片：Flare + MiniMax 流水线** — Flare 出图 + MiniMax H3 Max 出片 + CapCut：像素风不当游戏贴图，硬做电影叙事。一人团队内容形态参考。 [@Danzeronero](https://x.com/Danzeronero) · [原帖](https://x.com/Danzeronero/status/2098014623803052533)
@@ -2045,6 +2083,7 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 产品 UI / UX 视觉与落地页 mock。
 
+- **选 Flare/Sunburst 到精准改图：中文操作手册** — 从选型到局部编辑一整套中文长文，一人团队当日可用的操作底稿，比刷样张管用。 [@Smartpigai](https://x.com/Smartpigai) · [原帖](https://x.com/Smartpigai/status/2098002213193011481)
 - **小互：2.5 提示词与图像编辑完全指南** — 局部编辑、多图合成、角色一致性、工程交付一条龙；海报/漫画/UI 都覆盖。比刷十个「惊艳样张」管用。 [@xiaohu](https://x.com/xiaohu) · [原帖](https://x.com/xiaohu/status/2097943386145866108)
 - **《玩转 ChatGPT Image 2.5》中文长文** — 新功能和新玩法收成一篇，适合当内容底稿或转发二次创作。 [@Re7_AI](https://x.com/Re7_AI) · [原帖](https://x.com/Re7_AI/status/2097888443770782019)
 - **设计系统 → Astra 上线流水线** — Images 2.5 出设计系统 + PC/手机 UI，再丢给 Codex（GPT-6 Astra）按色值与行为规格实现。一人公司做站的正经配方。 [@shota7180](https://x.com/shota7180) · [原帖](https://x.com/shota7180/status/2097882934699278547)
