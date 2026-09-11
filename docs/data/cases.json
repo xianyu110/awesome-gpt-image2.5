@@ -1790,5 +1790,57 @@
     "author": "ai_sns_kaz",
     "url": "https://x.com/ai_sns_kaz/status/2098345839236468861",
     "category": "Sketch"
+  },
+  {
+    "id": "2098315204509729032",
+    "title": "124 例档案库：prompt + 参数 + Flare/Sunburst 对照",
+    "blurb": "嫌晒图不给配方？这里 124 例 / 185 输出 / 24 组 Flare vs Sunburst，连参数和出处一起收。营销选型先翻库，别再刷时间线碰运气。",
+    "author": "iamrayyang",
+    "url": "https://x.com/iamrayyang/status/2098315204509729032",
+    "category": "选型评测",
+    "playbook": "https://github.com/yangbishang/gpt-image-2.5-prompt"
+  },
+  {
+    "id": "2098329951967510937",
+    "title": "UGC 起步图 30 秒修好：Pinterest 构图 → 反推 prompt",
+    "blurb": "起步静帧糊，后面 Seedance 全完。Pinterest 偷构图机位，/detailed-image-2-text-prompt 反推再改人设。营销向 AI UGC 的地基课。",
+    "author": "ViralOps_",
+    "url": "https://x.com/ViralOps_/status/2098329951967510937",
+    "category": "人像角色",
+    "prompt": "/detailed-image-2-text-prompt\n\nWorkflow:\n1. Find a casual Pinterest photo with the framing / pose / camera angle / environment you want (reference composition, not identity).\n2. Upload it to ChatGPT Images 2.5 and run /detailed-image-2-text-prompt so the model expands it into a detailed generation prompt.\n3. Edit person / clothes / location details in that prompt, then regenerate.\n4. Repeat with different casual refs to build a realistic AI-creator still library before Seedance / video."
+  },
+  {
+    "id": "2098314775344394279",
+    "title": "秦淮八艳群像：CCD 直闪 + 八人各具情态",
+    "blurb": "Sunburst 中文短 prompt：脂香绮艳、顾盼生春、八美合照。古风/国风营销测群像一致性，直接抄这串。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2098314775344394279",
+    "category": "人像角色",
+    "prompt": "脂香绮艳；秦淮烟月；顾盼生春；各具情态；CCD直闪；秦淮八艳：柳如是、陈圆圆、李香君、董小宛、顾横波、卞玉京、寇白门、马湘兰合照"
+  },
+  {
+    "id": "2098344166489293224",
+    "title": "液态狮子海报：先锁眉骨口鼻，再放鬃毛飞溅",
+    "blurb": "别先看到飞溅再猜动物——用连续咖啡奶油面塑出吼脸，再非对称甩鬃。产品液态/质感广告的可控写法，长 prompt 齐活。",
+    "author": "ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2098344166489293224",
+    "category": "海报排版",
+    "prompt": "Create a Cannes-level ultra-premium commercial coffee poster for the fictional brand FEROX ROAST, merging Transit material precision with Orbit mythic atmosphere while rigorously preserving the exact visual type of the reference: a near-black studio void, one dark cup cropped low in the frame, and a violent sculptural eruption of coffee and milk from the cup that forms the head and upper mane of a roaring lion. Keep the overall image text-free, with no headline, no promotional copy, and no extra graphic clutter. The cup and the liquid lion must remain the full commercial story.\n\nCore composition: use a vertical poster with one dark ceramic cup positioned low and centrally, partially cropped by the bottom edge to feel close and monumental. From the cup surface, coffee and cream explode upward in a single continuous fluid transformation, forming a roaring lion in three-quarter profile. The lion head must dominate the upper-middle frame, clearly readable through the liquid structure, with the mane flaring backward and outward in asymmetrical splash streams. The splash should feel powerful but controlled, with the main lion silhouette always stronger than the peripheral droplets. Preserve a clean black background so the erupting form holds maximum contrast and hero dominance.\n\nTransit material precision: render the liquid sculpture with world-class detail. The dark coffee must feel dense, hot, roasted, and syrupy, with translucent brown edges, glossy thicker cores, and realistic fluid tension. The milk and foam components must feel silky, creamy, and slightly aerated, defining the lion’s facial planes, cheek, jawline, muzzle, and mane highlights. The cup rim must show wet residue, foam disturbance, subtle splash traces, and accurate ceramic gloss. The coffee surface inside the cup must feel physically active, as if the lion is tearing itself out of a freshly agitated crema field. Every droplet, sheet, ribbon, and foam pocket must obey believable high-speed splash physics.\n\nOrbit atmosphere: deepen the emotional tone into a nocturnal myth of strength awakened by coffee. The lion must not feel like an animal pasted from another source, but like roast energy itself becoming a beast in the dark. Let the mane feel like hot power and vaporized force, as if the roar is born from aroma, heat, and impact. The black field should remain velvety and empty, making the explosion feel ceremonial, primal, and iconic, like a sacred emblem of power emerging in darkness.\n\nLion-form logic: the face must remain fierce and readable, with a fluidly sculpted brow, open mouth, roaring expression, and mane direction driven by splash momentum. The teeth and mouth interior should be suggested by liquid form and tonal carving rather than literal pasted anatomy. The lion should read instantly, but still feel fully made of coffee and milk. Emphasize the tension where the face transitions into wild mane splashes, so the image feels both animal and fluid at once.\n\nLighting: use dramatic studio lighting with a warm directional key from upper front-left and controlled rim separation along splash edges and droplet fields. Let highlights travel across the coffee membranes, cream folds, and foam edges, giving the liquid lion museum-grade sculptural definition. Keep the cup readable but secondary to the lion head. The background must stay dark and clean, without environmental contamination.\n\nColor direction: build the image around 60% dark espresso brown, black coffee depth, and roasted mocha, 30% cream-white, latte beige, and cappuccino foam light, and 10% amber-gold highlights and ceramic reflections. The overall palette should feel noble, hot, luxurious, and intense.\n\nDesign intent: the final poster must feel like a mythic coffee emblem expressed through high-speed liquid sculpture. It should preserve the reference’s exact same-category shock image while elevating both the tactile realism and the emotional power. The viewer should read strength, roast intensity, and premium coffee energy immediately from the cup and the lion-form eruption alone.\n\nRendering style: ultra-photoreal luxury coffee advertising, text-free dark studio poster, roaring lion sculpted from coffee and milk, Transit-grade splash realism, Orbit-grade nocturnal beast atmosphere, cinematic chiaroscuro, world-class beverage art direction, 8k detail.\n\nNegative prompt: visible headline, logo, packaging text, extra layout elements, cartoon lion, pasted animal face, weak cup hierarchy, muddy liquid, plastic cream, chaotic splash, low-detail droplets, broken lion anatomy, flat lighting, messy background, cheap energy-drink aesthetic, low-end fantasy rendering, noisy composition"
+  },
+  {
+    "id": "2098324667287359560",
+    "title": "2D→Image 2.5→hi3d→Three.js：两小时可逛 3D",
+    "blurb": "概念渲染进 Astra/Image 2.5 定光影材质，hi3d 出干净 mesh，再 Flora MCP + Julius 交浏览器。出图秀升级成可交付交互环境。",
+    "author": "Motion_Viz",
+    "url": "https://x.com/Motion_Viz/status/2098324667287359560",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2098347672923251128",
+    "title": "标注圈选改图：annotations × Images 2.5",
+    "blurb": "圈一下就改局部，产品图/广告迭代的 UI 范式。作者预告即将开源——一人团队做精修工具可先抄交互。",
+    "author": "SaihholdZhao",
+    "url": "https://x.com/SaihholdZhao/status/2098347672923251128",
+    "category": "UX产品"
   }
 ]
