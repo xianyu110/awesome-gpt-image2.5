@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 219 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 228 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -425,6 +425,8 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **实写分镜→漫画风 13 页：只换画风保构图** — GPT-Image 2.5 把 13 页实写改成漫画，角色设计对齐、分镜构图不漂。连载改画风别重画，这才是控形红利。 [@sharil12121](https://x.com/sharil12121) · [原帖](https://x.com/sharil12121/status/2098381006059552881)
+
 - **手机 Sketch：打 @ 就能手绘下稿** — Images 2.5 Sketch 在手机上 @ 上手绘草图直接生成。通勤也能控形，别再说移动端只能文字玄学。 [@ai_sns_kaz](https://x.com/ai_sns_kaz) · [原帖](https://x.com/ai_sns_kaz/status/2098345839236468861)
 
 - **几条糙线稿 → 四个完整方向** — 极简线稿丢进 Image 2.5，一次拉出四个完整成片方向。构图说不清？先画再渲，Sketch 控形教科书级。 [@MinLiBuilds](https://x.com/MinLiBuilds) · [原帖](https://x.com/MinLiBuilds/status/2098277993575854396)
@@ -511,6 +513,8 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **杂志封面局部编辑：Images 2.5 精度实测** — 封面 / 杂志风图上抠局部改，精度肉眼可见。电商精修与排版迭代，先看它敢不敢动不该动的地方。 [@AIPixLab](https://x.com/AIPixLab) · [原帖](https://x.com/AIPixLab/status/2098379263020077366)
 
 - **液态狮子海报：先锁眉骨口鼻，再放鬃毛飞溅** — 别先看到飞溅再猜动物——用连续咖啡奶油面塑出吼脸，再非对称甩鬃。产品液态/质感广告的可控写法，长 prompt 齐活。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2098344166489293224)
   <details>
@@ -1335,6 +1339,46 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **角色设定表身份锁：turnaround + 表情全套 prompt** — 参考图一锁到底：正侧背、表情格、材质色板、比例尺。IP / 游戏人设交付文档级提示词，整段可复制。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2098373493662392732)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.  REFERENCE & IDENTITY LOCK: Use the uploaded reference as the single source of truth for the character's identity. Preserve the exact facial identity, facial structure, hairstyle, hairline, eye shape and color, eyebrows, nose, lips, skin tone, body proportions, physique, age appearance, distinctive features, costume design, accessories, footwear, colors, patterns and all recognizable visual details. Do not redesign, beautify, simplify, age, de-age, or reinterpret the character. CHARACTER DESIGN ANALYSIS: Before constructing the sheet, internally analyze and lock the character's:  facial construction head-to-body ratio  body proportions  shoulder width and torso structure  limb length and joint placement  silhouette  hairstyle and hair volume  costume construction  accessory placement  color relationships  material characteristics  distinctive identity anchors  All subsequent views must represent the exact same character design.  PAGE FORMAT: Create one sophisticated studio-grade character reference board, landscape 16:9, clean neutral/off-white studio background, refined editorial production-board aesthetic, highly organized hierarchy, generous spacing, subtle technical guide lines, restrained professional typography-style labels where appropriate, no decorative clutter.  01 — HERO CHARACTER PORTRAIT  Place one larger polished head-and-shoulders or three-quarter portrait as the visual identity anchor. Show the character's canonical facial identity clearly with neutral professional expression and accurate hairstyle, skin, costume and accessories.  02 — FULL-BODY TURNAROUND  Create a clearly organized full-body turnaround showing the same character at identical scale and proportions:  FRONT VIEW  3/4 FRONT VIEW  SIDE PROFILE  3/4 BACK VIEW  BACK VIEW  Use a neutral standing pose with consistent posture and anatomical alignment.  Keep head height, eye line, shoulder line, waist, hips, knees and feet consistently aligned across every view.  The costume, hairstyle, accessories, seams, patterns, footwear and silhouette must remain identical from every angle.  03 — EXPRESSION STUDY  Include a clean expression grid containing approximately 6 expressions:  Neutral  Happy / subtle smile  Serious  Angry / determined  Surprised  Sad / emotional  Maintain the exact same facial identity, head proportions, hairstyle and facial construction in every expression.  Expressions should demonstrate believable facial acting rather than exaggerated deformation.  04 — SIGNATURE POSE STUDIES  Include 4–6 full-body pose studies that communicate the character's personality and physical behavior.  Use varied but believable poses such as:  relaxed standing  confident stance  walking  sitting  interacting with an object  dynamic signature pose  Maintain exact character proportions, costume construction and recognizable silhouette in every pose.  05 — COSTUME & DETAIL CALLOUTS  Add several clean close-up detail panels showing the most important design elements:  hairstyle / hair detail  face detail  collar / neckline  sleeves / garment construction  footwear  jewelry or accessories  distinctive emblem / pattern / texture  important prop if present  Show construction and material clearly without turning the sheet into a decorative fashion collage.  06 — MATERIAL STUDIES  Visually communicate the primary materials present in the design:  fabric, leather, metal, denim, silk, knit, plastic, glass, jewelry, hair, skin or other relevant materials.  Show realistic surface behavior, texture, reflectivity and construction appropriate to each material.  07 — COLOR PALETTE  Include a compact professional color palette strip containing the dominant character colors.  Organize colors according to their visual role:  skin  hair  primary costume  secondary costume  accent color  accessories / materials  Keep the palette faithful to the reference.  08 — PROPORTION & SILHOUETTE GUIDE  Include a subtle technical proportion guide beside the turnaround.  Show:  overall height  head-to-body ratio  major horizontal alignment guides  key body proportions  clean silhouette thumbnail  Keep this section understated and production-oriented.  09 — DESIGN CONTINUITY  Treat the entire page as a single canonical character source of truth.  Every panel must depict the SAME person/character with:  identical facial identity  identical body proportions  identical hairstyle  identical costume  identical accessory placement  identical color palette  identical design language  consistent left/right details  No accidental costume changes, missing accessories, duplicated accessories, altered facial features, changing body proportions, inconsistent hairstyles or unexplained design variations.  VISUAL DIRECTION: High-end professional character design presentation, studio production reference quality, sophisticated concept-art discipline, clean polished rendering, precise construction, controlled neutral lighting, realistic material definition, excellent anatomical consistency, crisp readable details, refined editorial layout, premium art-direction quality.  The sheet should feel like an actual professional animation / game / visual-development production document, not a collection of random AI images.  COMPOSITION: Clear information hierarchy, balanced negative space, aligned panels, consistent character scale, clean grid system, logical visual flow, no overlapping figures, no cropped bodies, no confusing perspective, no unnecessary scenery.  CAMERA / VIEW CONTROL: Turnaround views should use consistent orthographic-like framing and neutral perspective. Expression studies should use a consistent head framing. Pose studies may use natural perspective while preserving character proportions. LIGHTING: Neutral studio illumination designed for design inspection rather than cinematic drama. Soft, even, physically believable light with controlled shadows and accurate material readability.  PHOTOGRAPHIC / RENDER FINISH: Ultra-clean high-end visual development presentation, realistic surface detail, natural skin and hair rendering, physically believable materials, sharp but refined detail, professional production-board finish.  OUTPUT QUALITY: 16K: 15360 × 8640 ≈ 132.7 million pixels, high-resolution professional quality. NEGATIVE CONSTRAINTS: No character redesign, no identity drift, no inconsistent proportions, no changing face, no changing hairstyle, no costume variations, no missing accessories, no duplicated accessories, no extra limbs, no malformed hands, no distorted anatomy, no random props, no dramatic scenery, no cinematic background, no excessive effects, no clutter, no watermark, no logo, no cropped views.
+```
+
+  </details>
+
+- **军训季 Editorial：iPhone 自拍公式一键出片** — 「休憩逸趣 × Editorial × 原相机自拍 × 女大学生 × emoji」——季节热点人设公式，小红书军训季直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098360855939469443)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+军训休憩逸趣 × Editorial视觉企划 × iPhone 原相机自拍× 女大学生 × ｛emoji ｝
+```
+
+  </details>
+
+- **毕业季影棚写真：2026 灯牌 + 金纸屑** — 三件套西装 × 礼帽 × 头顶光锥，竖版 9:16 现成可卖。留学 / 毕业季广告素材库补这一条就够。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2098357739814560247)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a photorealistic cinematic graduation portrait of a confident adult man celebrating his graduation in 2026. Show him seated casually on large freestanding "2026" marquee numbers filled with warm glowing bulbs.
+
+He wears an elegant light-gray three-piece suit with a matching waistcoat, crisp white dress shirt, sophisticated purple patterned tie, polished black leather dress shoes, and a graduation stole featuring bold red, white, and black stripes. Add a traditional black graduation mortarboard with tassel.
+
+Pose him facing the camera with a big, genuine, joyful smile. His posture should feel relaxed yet proud, with his legs naturally apart. One hand rests casually near his lap while the other arm is raised high, holding a rolled graduation certificate tied with a red ribbon, creating a strong celebratory gesture.
+
+Surround him with falling metallic gold confetti, frozen naturally in mid-air at different depths. Use a dark charcoal-to-black studio background with subtle atmospheric haze. Place a dramatic overhead spotlight directly above him, creating a soft cone of light that highlights his face, suit, graduation cap, and diploma while leaving the edges of the scene slightly darker.
+
+The giant illuminated 2026 numbers should sit behind and beneath him, producing warm golden light that contrasts beautifully with the cool gray suit and dark background.
+
+Style: luxury graduation editorial photography, premium studio portrait, cinematic lighting, realistic skin texture, natural proportions, crisp tailoring, accurate hands, realistic fabric detail, shallow depth of field, subtle floor reflections, professional color grading, celebratory atmosphere, ultra-detailed, photorealistic, vertical 9:16 composition, high resolution.
+```
+
+  </details>
 
 - **UGC 起步图 30 秒修好：Pinterest 构图 → 反推 prompt** — 起步静帧糊，后面 Seedance 全完。Pinterest 偷构图机位，/detailed-image-2-text-prompt 反推再改人设。营销向 AI UGC 的地基课。 [@ViralOps_](https://x.com/ViralOps_) · [原帖](https://x.com/ViralOps_/status/2098329951967510937)
   <details>
@@ -2567,6 +2611,53 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
 场景、长卷、视频工作流与氛围大图。
 
+- **Flare 故事板 → PixVerse Canvas 三页漫画** — 同一角色设定表：写实分镜跑视频，再丢进 Flare 出漫画风，PS 加字。一条资产两套交付，内容团队该偷。 [@lukmanfebrianto](https://x.com/lukmanfebrianto) · [原帖](https://x.com/lukmanfebrianto/status/2098381056172847326)
+
+- **Images 2.5 九宫格 → Gemini 10 秒游戏 CM** — 停动猫头鹰咖啡店九格静帧，再丢 Gemini 出 10 秒 CM。游戏预告两步走，提示词在回复。 [@uniyume](https://x.com/uniyume) · [原帖](https://x.com/uniyume/status/2098379926642831769)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+架空的喫茶店経営ゲーム「月灯喫茶」。
+人間の出演なし。手作りストップモーションの質感。
+夜の路面電車を改装した喫茶店。
+白いフクロウ店主、丸メガネ、紺エプロン。
+インディゴとバターイエロー。金の細い明朝体。
+
+9コマ：
+1. 月明かりの電車喫茶に一灯ともる
+2. フクロウが鍵を開けるマクロ
+3. 青い陶器にミルクを注ぐ俯瞰
+4. 客のハリネズミが小さな手紙を置く
+5. スマホのゲーム画面で飲み物を選ぶ
+6. フクロウがカップを差し出す
+7. 客が帰った窓際の席と星空
+8. 「眠る前に、ひとつ灯そう。」
+9. ゲーム画面、「月灯喫茶」「最初の夜へ」
+
+陶器、木、布の手触りを精密に。静かな接客の楽しさを伝える。
+```
+
+  </details>
+
+- **2.5 静帧 + Seedance：影院破屏巨鲸几乎真感** — Image 2.5 定主体，Seedance 接 handheld POV 破屏路径。广告级「假真感」时间线，配方在回复里。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2098361198173651328)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Photorealistic live-action smartphone footage in a real dark movie theater; handheld seated POV, natural motion blur, red upholstered seats, screen-motivated light and realistic skin tones. Awe and playful surprise. Avoid animation, game rendering, subtitles, added logos, deformed anatomy, and sudden changes of audience identity.
+
+SOURCE REFERENCE: image1 controls the auditorium, audience arrangement, timing, handheld camera path, composition, transition rhythm, screen-breakout effect, overhead passage and reaction beats. Rebuild the source action smoothly over the requested duration. Keep the auditorium and nearby spectators consistent throughout. The source spaceship is replaced completely.
+
+SUBJECT REFERENCE: image2 controls the blue-gray giant whale's appearance, mottled skin, head, long pectoral fins, belly grooves and tail. Use this image for the creature only; the theater remains a dry indoor auditorium.  0-2 seconds: Start beside the nearby seated female spectator holding her drink, matching the source composition. The handheld camera turns toward the cinema screen past rows of red seats. 2-4 seconds: On the screen, show dark blue open ocean with the reference whale approaching head-first from depth. Screen glow falls naturally across the spectators. 4-9 seconds: The same whale seamlessly crosses the screen boundary into the auditorium and glides above the audience along the source spaceship's path. Its near pectoral fin and grooved belly pass overhead while the camera tilts up to follow. The tail slowly sweeps up and down; the body moves with weight and inertia. Keep the screen behind it visible briefly so the spatial illusion is readable. No flooding or water filling the theater. 9-12 seconds: Follow the source camera back toward the nearby spectator. She ducks slightly, then looks upward with wide eyes, still holding the same drink cup. Finish with her amazed reaction as the frame holds steady.
+
+CONTINUITY: Keep the same nearby spectators, clothing, drink cup, red seats and auditorium geometry from beginning to end. The creature is always one coherent body at a consistent scale. Preserve the original camera direction and the ordered setup, approach, overhead passage and reaction beats.
+
+AUDIO: Generate subtle theater room tone, a synchronized rush of air and nonverbal audience gasps. No spoken dialogue, narration, lyrics, or background music. These are newly designed sounds, not a reconstruction of unverified source audio.
+```
+
+  </details>
+
 - **指定「3D 游戏图」：提质更好出味** — 同样提质，写清 3D 游戏画面风格，细节与材质更稳。短指令，大差别。 [@aruomoteomote](https://x.com/aruomoteomote) · [原帖](https://x.com/aruomoteomote/status/2098346705456656668)
 
 - **2D→Image 2.5→hi3d→Three.js：两小时可逛 3D** — 概念渲染进 Astra/Image 2.5 定光影材质，hi3d 出干净 mesh，再 Flora MCP + Julius 交浏览器。出图秀升级成可交付交互环境。 [@Motion_Viz](https://x.com/Motion_Viz) · [原帖](https://x.com/Motion_Viz/status/2098324667287359560)
@@ -2806,6 +2897,18 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **粘土定格 GIF：胖青蛙 DJ 一次出循环** — 24 帧塑料泥质感，金链耳机全入画，再把精灵表转 GIF。短视频贴纸 / 表情包流水线，抄走就能量产。 [@MrDasOnX](https://x.com/MrDasOnX) · [原帖](https://x.com/MrDasOnX/status/2098360111597244532)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a 24-frame clay stop-motion loop of a chubby green frog DJing. Handmade plasticine texture, tiny gold chain, oversized black headphones, one hand on the turntable. The frog bobs its head, scratches the record, throws both arms up, spins once, and loops back. Square 1:1, solid off-white background, full character always visible, no cropped limbs/headphones/tables, no frame leakage, only a subtle horizontal ground shadow. Slightly choppy handcrafted motion, not smooth CGI.
+
+2) Turn sprites into GIFs.
+```
+
+  </details>
 
 - **舞蹈分镜预测法 → Seedance 细指令成片** — Image 2.5 出舞蹈分镜用「预测法」留自由度，Seedance 再写细指令。零到一舞蹈短视频，应用面比单支舞宽。 [@FantasistaAI](https://x.com/FantasistaAI) · [原帖](https://x.com/FantasistaAI/status/2098348945562878436)
 
