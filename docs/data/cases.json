@@ -1359,5 +1359,97 @@
     "author": "DeepBlueX0",
     "url": "https://x.com/DeepBlueX0/status/2098207695371379164",
     "category": "选型评测"
+  },
+  {
+    "id": "2098170415613137083",
+    "title": "改图系统 prompt：先写清改什么、保什么",
+    "blurb": "把模糊改图意图翻成模型吃得懂的精确指令：change half + hold half。产品图/海报连续精修少跑偏，直接当编辑前置系统提示。",
+    "author": "everestchris6",
+    "url": "https://x.com/everestchris6/status/2098170415613137083",
+    "category": "电商改图",
+    "prompt": "<role>\nYou write image edit instructions. Someone gives you an image and a\nrough idea of what they want changed. You return the exact instruction\nto send the model: what changes, and everything that must not.\nMost bad edits are not caused by a weak request. They are caused by\nnobody saying what to leave alone.\n</role>\n\n<rules>\n<rule name=\"Two halves, always\">\nEvery instruction has a change half and a hold half. The change half\nnames one thing. The hold half names everything in the frame that is\nstaying put. The hold half is usually longer, and it is the half that\ndecides whether the edit is usable.\n</rule>\n\n<rule name=\"Change one thing at a time\">\nIf the request contains more than one change, split it into separate\nsequential edits and return them in order. Stacked changes in a single\ninstruction come back with both done badly.\n</rule>\n\n<rule name=\"Read the frame first\">\nLook at the image and list what is actually in it: subject, wardrobe,\nprops, background, surfaces, light direction, shadows, reflections,\nany text. That list is where the hold half comes from. Never write a\nhold half from assumption.\n</rule>\n\n<rule name=\"Protect the subject by name\">\nWhen a person or product must survive the edit, describe them\nspecifically in the hold half rather than saying keep the subject.\nFace, hair, pose, hands, label, colour, proportions. Vague protection\nis not protection.\n</rule>\n\n<rule name=\"Light and shadow move together\">\nIf the edit changes the environment, state whether the light on the\nsubject changes with it or stays as it is. Say which direction shadows\nfall after the edit. Unspecified light is where edits fall apart.\n</rule>\n\n<rule name=\"Say what happens at the edges\">\nFor anything involving removal, extension or background replacement,\nstate what fills the space and how it meets what is already there.\n</rule>\n\n<rule name=\"Text is exact or it is nonsense\">\nAny writing that stays, changes or appears must be given word for\nword, with its position, size and type character. Text you do not\nspecify comes back garbled.\n</rule>\n\n<rule name=\"Output is the instruction\">\nReturn the JSON and nothing else. No explanation, no preamble, no\ncode fences.\n</rule>\n</rules>\n\n<schema>\n{\n  \"reading\": \"what is in the current frame, listed plainly\",\n  \"edits\": [\n    {\n      \"step\": 1,\n      \"change\": \"the single thing being changed, stated concretely\",\n      \"hold\": \"everything that must stay identical, named item by item\",\n      \"light\": \"what happens to the light and which way shadows fall\",\n      \"edges\": \"what fills any space that opens up, or none\",\n      \"text\": \"exact wording, position, size and type, or none\",\n      \"instruction\": \"the change and hold written as one sentence to send the model\"\n    }\n  ],\n  \"sequence_note\": \"why the steps run in this order, or none\"\n}\n</schema>\n\n<task>\nWait for an image and a rough request. Reply with the JSON only.\n</task>"
+  },
+  {
+    "id": "2098199974303445050",
+    "title": "同一把水壶，八次链式编辑：2 vs 2.5 Sunburst",
+    "blurb": "Agent 同流程改壶嘴/把手/盖子，盯身份锁谁更稳。卖「改完还是那个东西」的营销向硬对比。",
+    "author": "SandbaseAI",
+    "url": "https://x.com/SandbaseAI/status/2098199974303445050",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098165367944458488",
+    "title": "纯 Images 2.5 直接出 GIF（没用 Astra）",
+    "blurb": "角色动起来的轻量玩法，社媒素材试水不绑视频管线。动效入口比想象更低。",
+    "author": "MNesuka",
+    "url": "https://x.com/MNesuka/status/2098165367944458488",
+    "category": "像素动效"
+  },
+  {
+    "id": "2098002213193011481",
+    "title": "选 Flare/Sunburst 到精准改图：中文操作手册",
+    "blurb": "从选型到局部编辑一整套中文长文，一人团队当日可用的操作底稿，比刷样张管用。",
+    "author": "Smartpigai",
+    "url": "https://x.com/Smartpigai/status/2098002213193011481",
+    "category": "UX产品"
+  },
+  {
+    "id": "2098002527170277885",
+    "title": "4×4 像素精灵表（prompt 在评论）",
+    "blurb": "GPT Image 2.5 出完整 sprite sheet，评论区有 prompt。游戏资产/表情包管线一眼能抄。",
+    "author": "MUsman7808",
+    "url": "https://x.com/MUsman7808/status/2098002527170277885",
+    "category": "像素动效"
+  },
+  {
+    "id": "2098064713024409655",
+    "title": "Sketch→编辑风造型：线稿+布料色卡+鞋款",
+    "blurb": "铅笔稿 + 三块布料色卡 + 鞋子参考出 editorial look；工作流和 prompt 在首评。时尚/电商造型图可抄。",
+    "author": "itsphotogptai",
+    "url": "https://x.com/itsphotogptai/status/2098064713024409655",
+    "category": "Sketch"
+  },
+  {
+    "id": "2098058799001027017",
+    "title": "同 prompt 同 43 token：Flare 快、Sunburst 稳",
+    "blurb": "淹城夜景左右开：Flare 抢速度，Sunburst 抠细节。选型直觉一帖讲完。",
+    "author": "misaraeai",
+    "url": "https://x.com/misaraeai/status/2098058799001027017",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098063955096633467",
+    "title": "GIF 配方写死：1:1 · 16 帧 · 12fps",
+    "blurb": "API max+4K 出精灵表再动起来。短营销动图模板，别再猜帧数。",
+    "author": "Voxyz_ai",
+    "url": "https://x.com/Voxyz_ai/status/2098063955096633467",
+    "category": "像素动效"
+  },
+  {
+    "id": "2098061897702805800",
+    "title": "角色四视图 + 衣柜锁定",
+    "blurb": "先用 2.5 做前/¾/侧/后角色表，再做场景时把服装钉死，连镜不换衣服；后面接视频模型更稳。",
+    "author": "abxxai",
+    "url": "https://x.com/abxxai/status/2098061897702805800",
+    "category": "人像角色",
+    "prompt": "Multi-panel film character reference sheet of the same real woman across four panels: front-facing, three-quarter turn, full profile, and a rear view over the shoulder, matching the exact reference photo. Long straight golden-brown hair with warm honey balayage, oval face, warm brown eyes, faint natural freckling across the nose and cheeks, softly tanned olive-warm skin, full lips. She wears a heather-grey lace-trimmed tank top under a loosely draped grey knit cardigan slipping off one shoulder, low-slung olive cargo trousers with a black leather belt and chain detail, a black leather slouchy shoulder bag strap over one shoulder.\n\nEvery panel keeps the identical lighting setup as the reference: low golden-hour sun positioned behind her, burning through overhanging tree leaves and rim-lighting the edge of her hair with a warm halo, her face falling into soft warm shade with a gentle glow on the cheekbones, a tree-lined gravel park path and a glittering sun-struck lake with a small sailboat and distant hazy hills softly blurred behind her in every panel. Same warm golden color temperature, same sun flare quality breaking through the canopy, same soft background blur, same skin tone and light direction held constant across all four panels.\n\nShot on 35mm film, fine warm grain visible in both light and shadow, visible skin pores and natural texture, faint natural sheen where the sun catches, no smoothing, no retouching, no beauty filter, no studio backdrop, no neutral lighting. Natural film-still photograph quality, candid unposed stance in every panel."
+  },
+  {
+    "id": "2097996229582147939",
+    "title": "国家地标拼成 3D 微缩地图（可换国家）",
+    "blurb": "可替换 [COUNTRY] 的模板 prompt：国界用地标拼成微缩模型。旅游/文旅 KV 秒开脑洞。",
+    "author": "Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2097996229582147939",
+    "category": "场景视觉",
+    "prompt": "Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other recognizable elements so their silhouettes collectively create the accurate outline of the country. Keep the interior mostly clean and minimal, with [CITY] represented by its signature landmark at the correct location. Use layered sculpted forms, tiny architectural details, soft shadows, handcrafted textures, warm ivory background, and elegant studio lighting. Premium collectible travel-diorama aesthetic, playful but sophisticated, highly recognizable. Add small refined typography: “[COUNTRY]” and “[CITY] • [FAMOUS FOR]”."
+  },
+  {
+    "id": "2097999860696072542",
+    "title": "课堂抓拍·反差穿搭老师",
+    "blurb": "短 prompt 出 iPhone 纪实感人像，UGC/种草风很好用。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2097999860696072542",
+    "category": "人像角色",
+    "prompt": "iPhone 课堂抓拍，女大学老师，时尚反差穿搭"
   }
 ]
