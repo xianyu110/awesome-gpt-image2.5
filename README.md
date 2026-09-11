@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 195 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 213 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,6 +237,12 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **一句话提分辨率：1152×2048 贴图重渲** — 旧图贴进 Images 2.5，写目标像素就够。4:3 / 9:16 / 16:9 比例另说——高清化不必玄学。 [@oreno_musume](https://x.com/oreno_musume) · [原帖](https://x.com/oreno_musume/status/2098335755496042610)
+
+- **50 条开源 prompt 图谱：短句 + 工程长稿** — 371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。 [@Callirra](https://x.com/Callirra) · [原帖](https://x.com/Callirra/status/2098331457232265323) · [repo](https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas)
+
+- **2.0 vs 2.5：六组高难度同 prompt 硬刚** — ImagineArt 六组压测（时尚大片、极端镜头角、多色多人物）。选型别靠嘴，并排看谁还站得住。 [@FinanceYF5](https://x.com/FinanceYF5) · [原帖](https://x.com/FinanceYF5/status/2098318028006146332)
+
 - **Flare 量产下稿 → Sunburst 精修** — 速度用 Flare 堆构图，好看的再丢 Sunburst。省钱省时间的分工，别全压贵档。 [@aichan1224news](https://x.com/aichan1224news) · [原帖](https://x.com/aichan1224news/status/2098287192628240410)
 
 - **同图三连：Image 2 / Sunburst / Grok** — gpt-image-2 vs 2.5-Sunburst vs Grok Imagine 2.0 并排。跨厂选型甩图就行，别再嘴炮「感觉更好」。 [@zhang_baoqing](https://x.com/zhang_baoqing) · [原帖](https://x.com/zhang_baoqing/status/2098270719994179587)
@@ -408,14 +414,16 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 - **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486)
 
-- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
+- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting)
 
-- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
+- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA)
 
 
 ## Sketch
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
+
+- **手机 Sketch：打 @ 就能手绘下稿** — Images 2.5 Sketch 在手机上 @ 上手绘草图直接生成。通勤也能控形，别再说移动端只能文字玄学。 [@ai_sns_kaz](https://x.com/ai_sns_kaz) · [原帖](https://x.com/ai_sns_kaz/status/2098345839236468861)
 
 - **几条糙线稿 → 四个完整方向** — 极简线稿丢进 Image 2.5，一次拉出四个完整成片方向。构图说不清？先画再渲，Sketch 控形教科书级。 [@MinLiBuilds](https://x.com/MinLiBuilds) · [原帖](https://x.com/MinLiBuilds/status/2098277993575854396)
 
@@ -501,6 +509,18 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **雨后三帖：水滴 / 城市 / 湿花极简海报** — 一滴水、雨后城、湿润花——三组诗意极简海报，中文提示词向高级感封面。适合品牌氛围图连发。 [@Caika_app](https://x.com/Caika_app) · [原帖](https://x.com/Caika_app/status/2098321572360822907)
+
+- **拼图城市旅行微缩：填槽模板一键换城** — [CITY] / [LANDMARK] / [FAMOUS FOR] 三槽位，3D 拼图积木风旅行场景。做系列城市海报或周边图，比单张风景图更能量产。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2098301205365850272)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a charming 3D puzzle-piece travel scene of [CITY, COUNTRY], designed as a single cohesive miniature world. Build the city from beautifully interlocking puzzle pieces, with [ICONIC LANDMARK] as the central focal point. Surround it with recognizable local architecture, streets, trees, transportation, landscape, and small cultural details. Make the puzzle pieces slightly raised with visible seams, rounded edges, layered depth, and soft realistic shadows. Use a sophisticated palette inspired by the city, subtle handcrafted textures, warm studio lighting, clean cream background, playful yet premium collectible-diorama aesthetic. Add elegant 3D lettering: “[CITY]” and underneath “[COUNTRY] • [FAMOUS FOR]”. Highly polished, cute, artistic, detailed, and instantly recognizable.
+```
+
+  </details>
 
 - **同一身份锁：多姿势电影海报战役图** — 一个身份复用成中央主肖像 + 四小姿势拼贴，火焰红橙背景。角色一致性海报战役，prompt 齐活可抄。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2098282894368084350)
   <details>
@@ -1285,6 +1305,66 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **80s 复古肖像拼贴：文化区锁脸六到八姿** — 参考脸推断文化区，一次出 6–8 姿复古杂志拼贴，身份锁写死。人设海报战役图，长 prompt 齐活。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2098323157610582344)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create your own stunning vintage portrait collage ✨
+
+Use your reference photo + the prompt below to generate a series of cinematic, editorial-style portraits with different poses, outfits, expressions, and lighting — while maintaining a consistent facial identity.
+
+Created with @ChatGPT image 2.5 
+Prompt :
+Use the uploaded photo as the identity reference. Study the person's face, skin tone, eye shape, hair texture and features, and silently infer the most likely country or cultural region they belong to. Then recreate this exact same person as a star of that country's 1980s pop culture — its cinema, TV, music and fashion magazines of that decade — in one single image containing 6 to 8 different poses arranged as a retro magazine-style photo collage.
+
+Identity lock (most important): the face must be the same real person in every pose — same bone structure, nose, lips, eyes, eyebrows, skin tone, any moles or marks, same facial proportions. Only the hairstyle, outfit, jewellery, pose, expression and background change. Keep the person's natural gender and apparent age.
+
+Layout: one large hero pose fills roughly the left 60% of the frame — a three-quarter over-the-shoulder look back at camera with a confident smile. Around it, 5 to 7 smaller pose panels overlap each other with soft feathered edges like a hand-made 80s poster: close-up beauty portrait, playful blowing a kiss, side-profile glance, hands-on-hips full standing pose, seated pose leaning on an elbow, laughing candid, and a moody looking-away pose. Faces stay large and clearly visible in every panel.
+
+Era styling — pick everything from that country's real 1980s look: authentic 80s hairstyle of that region (big voluminous blow-dried curls, feathered layers, or a bouffant with a side clip for women; layered longer hair, moustache-era grooming or wet-look side part for men), and period-correct outfits from that culture — traditional dress of the region as it was worn in the 80s, plus one denim or leather jacket, bold geometric or floral prints, puff sleeves or wide lapels, oversized hoop or drop earrings, stacked bangles or a chunky watch, bright lipstick or era-correct makeup. Each pose wears a different outfit. Include small era props from that country: a cassette player, a rotary phone, a film magazine, vintage sunglasses, a vase of fresh flowers.
+
+Backgrounds: warm 80s photo-studio backdrops in maroon, teal and mustard, a velvet curtain, a wall of period posters, string lights, wooden furniture — all from that country's 80s aesthetic.
+
+Photography: shot on 1980s colour negative film, warm golden tungsten key light with soft fill, gentle halation on highlights, slightly soft focus, visible fine film grain, rich saturated but faded reds and teals, mild vignette, glossy magazine print finish. Photorealistic, high detail, faces sharp and clean.
+
+Palette: 60% warm amber and maroon tones, 30% deep teal and emerald, 10% hot pink accents.
+
+Output one single vertical portrait-orientation image with all poses in it, no text, no captions, no logos, no watermark.
+```
+
+  </details>
+
+- **90s 日杂 CCD 试衣间：高光溢散配方** — 9:16 竖版、柔光 CCD、腮红/锁骨高光 bloom。低对比奶油灰 + 细颗粒，日杂试衣间感可抄长 prompt。 [@BubbleBrain](https://x.com/BubbleBrain) · [原帖](https://x.com/BubbleBrain/status/2098315158997307550)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+9:16 vertical, ultra-realistic portrait photography, 90s Japanese magazine fitting-room photoshoot style, soft-light CCD texture, obvious highlight bloom and slight haze.
+A clearly adult Korean female idol, about 23–27 years old, fair natural skin, slender well-proportioned figure, shoulder-length black straight hair slightly messy and fluffy, long bangs falling naturally and partially covering one eye. Delicate features, haughty and languid expression, slightly looking down at the camera. Soft pink natural makeup, gentle pink lips. Keep real skin texture, fine pores, and natural facial asymmetry.
+She wears a black thin cropped short-sleeve T-shirt in soft fitted cotton, hem stopping at the upper abdomen and exposing the waist, midriff, and natural navel. Bottom: black minimalist low-rise bikini-style bottoms, waistline sitting naturally near the hip bones, simple design.
+She stands in a small 90s Japanese magazine-style fitting room with light beige-gray walls, a narrow full-length mirror, simple hooks, and soft overhead lighting. Natural standing pose: one leg supporting, the other slightly bent forward, hip shifted naturally to one side. Thinking pose 🤔: one hand raised, index finger lightly resting on the chin, thumb near the jawline, gesture natural and restrained; the other hand hanging naturally at her side. Head slightly tilted, eyes looking down at the camera with a careless, thoughtful look.
+Low-angle upward shot, camera close to the subject, slight wide-angle without exaggerated distortion, emphasizing vertical leg extension and slender proportions. Composition includes the head, upper body, full waist and midriff, hips, and most of the legs. Subject occupies the main part of the frame.
+Soft hazy lighting. Soft scattered light from the front and above. Slight overexposure on the cheeks, nose bridge, collarbones, shoulders, waist, midriff, and legs, blooming softly outward into clear highlight overflow, halation, bloom, and soft fog. Highlights are creamy white glow; shadows are soft and pale with no hard edges.
+Overall low contrast, low saturation, creamy gray and pale warm skin tones, slightly lifted blacks, fine CCD noise and film grain, slightly soft edges, soft-focus filter, and atmospheric haze. Like a casually captured page from a 90s Asian photo magazine.
+Photorealistic, real-camera photography, real skin, hair strands, and fabric texture. Soft CCD, highlight bloom, hazy and dreamy but not over-retouched.
+Avoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light, strong shadows, anime look, CGI, fisheye, exaggerated wide-angle, limb deformities, extra or wrong fingers, cluttered background, cheap influencer filters.
+```
+
+  </details>
+
+- **一个角色，25+ 世界观：宇宙级一致性复用** — 同一角色横扫吉卜力 / 热血番 / 乐高 / 赛博朋克 / 写实电影……身份不散、视觉语言全换。角色 → 分镜 → 海报 → 短视频，一套人设吃完整条内容链。 [@MonetizationDon](https://x.com/MonetizationDon) · [原帖](https://x.com/MonetizationDon/status/2098297370291134547)
+
+- **Sunburst 黑白编辑肖像：脸锁 + 杂志光** — 参考图进 Sunburst，高反差棚拍黑白、细颗粒、极简背景。身份锁写死，杂志感人像直接抄。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2098290962556727377)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a striking black-and-white editorial portrait of the person in the attached reference image, preserving their exact identity, facial features, skin texture, hairstyle, and proportions. Use dramatic high-contrast studio lighting, deep blacks, crisp highlights, subtle film grain, a clean minimal background, sharp facial focus, natural expression, premium fashion-magazine photography, timeless monochrome tones, and a sophisticated cinematic composition
+```
+
+  </details>
 
 - **中文 iPhone 随手拍：网球日常 prompt** — 「像男朋友用 iPhone 随手拍」——随机动作、距离、瞬间，UGC 写真感直接抄。中文短 prompt 也能出片。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098277846250922232)
   <details>
@@ -2283,12 +2363,14 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
   </details>
 
-- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [playbook](docs/playbooks/virtual-ip-assets.md)
+- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ)
 
 
 ## 电商改图
 
 商品图、局部编辑、包装与货架感。
+
+- **UGC 偷参考美学：Astra 拆 JSON → 2.5 出片** — 别写「cinematic soft grain」作文。真照片丢 Astra 拆色彩/灯光 JSON，再塞进 Image 2.5 锁人设。假 UGC 变真货架感，流程可复用。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2098309152141607051)
 
 - **产品罐 → 中文海报：保包装字再加氛围** — Sunburst 加茶叶气泡与中文标题，同时保住罐身品牌字/容量。改氛围与 must-stay 分开写——电商海报方向稿够用。 [@Soranlan](https://x.com/Soranlan) · [原帖](https://x.com/Soranlan/status/2098270386156970236)
 
@@ -2428,6 +2510,22 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **指定「3D 游戏图」：提质更好出味** — 同样提质，写清 3D 游戏画面风格，细节与材质更稳。短指令，大差别。 [@aruomoteomote](https://x.com/aruomoteomote) · [原帖](https://x.com/aruomoteomote/status/2098346705456656668)
+
+- **Blender 建模 → Sunburst 精修渲染** — Minimax/Blender 出三维结构，再丢 Sunburst 提质。控形归建模、皮相归 2.5——3D×图像的正经分工。 [@Banyu_Biroeee](https://x.com/Banyu_Biroeee) · [原帖](https://x.com/Banyu_Biroeee/status/2098308242279727175)
+
+- **Flare 车×建筑隐喻海报：路长成了 Camry** — 「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098299916166873371) · [prompt](https://x.com/Diplomeme/status/2098299968260067639)
+
+- **Instant 邪门一句话：诡异不安照片** — 中文短 prompt + Instant：禁止提问、禁止解释文字，专出「暗网硬盘感」。玩恐怖/异质审美的人收藏这句就够。 [@dtzy_88](https://x.com/dtzy_88) · [原帖](https://x.com/dtzy_88/status/2098290580581486858)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+把照片做得极其诡异且令人不安！不要提问，不要有任何解释性文字
+```
+
+  </details>
 
 - **2.5 插画 → Blender 可运镜 3D** — Image 2.5 插画经 Higgsfield 插件进 Blender，保风格纹理还能运镜改机位。平面资产升级空间场景的捷径。 [@adilinthewild](https://x.com/adilinthewild) · [原帖](https://x.com/adilinthewild/status/2098245333180723513)
 
@@ -2650,6 +2748,62 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **舞蹈分镜预测法 → Seedance 细指令成片** — Image 2.5 出舞蹈分镜用「预测法」留自由度，Seedance 再写细指令。零到一舞蹈短视频，应用面比单支舞宽。 [@FantasistaAI](https://x.com/FantasistaAI) · [原帖](https://x.com/FantasistaAI/status/2098348945562878436)
+
+- **LINE 动态贴纸全链路：2.5→Seedance→ClaudeCode** — 角色图→24 姿绿幕→Seedance 动起来→ClaudeCode 转申请素材。动态贴纸从零到上架的一条龙。 [@emi4900](https://x.com/emi4900) · [原帖](https://x.com/emi4900/status/2098346806900146176)
+
+- **一张角色图 → 16 格 chibi 贴纸 + GIF** — 锁发型服装→16 表情英文短 caption→白底 GIF。聊天贴纸量产管线，prompt 完整可抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2098329229490581950)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded image as the character reference. Create a personalized set of 16 chibi reaction stickers, then export a white-background animated GIF that cycles through them.
+
+CHARACTER ADAPTATION
+Study the character’s hairstyle, hair color, facial features, clothing, accessories, signature colors, and overall visual mood. Preserve these recognizable details in every sticker.
+
+Infer a suitable personality from the visual design—for example: elegant and witty, cool and reserved, cheerful and energetic, mysterious and mischievous, or gentle and shy. Treat this as a creative interpretation, not established character lore. If I provide personality details, prioritize them.
+
+STYLE
+Use expressive big-head chibi anime illustrations with glossy eyes, soft cel shading, clean lines, and a polished chat-sticker finish. Add thick white die-cut borders with a subtle light-gray outer outline.
+Use mostly chest-up compositions with clearly visible gestures.
+Keep the character design consistent across all 16 stickers.
+Use a solid pure-white background (#FFFFFF).
+
+EXPRESSIONS AND ENGLISH CAPTIONS
+Create 16 distinct combinations of expressions, gestures, and short English captions tailored to this character’s personality.
+
+Cover a useful mix of everyday reactions:
+greeting, curiosity, confidence, gratitude, affection, embarrassment, excitement, skepticism, refusal, frustration, surprise, encouragement, teasing, celebration, tiredness, and farewell.
+
+Adapt these reactions to the character rather than using a generic caption set. A proud character might respond with dry wit; a gentle character might use warmer wording.
+
+Write original, natural English captions, preferably 1–4 words each. Make them readable, expressive, and useful in real conversations. Avoid repetitive wording, forced slang, and invented backstory.
+
+Place each caption above its character in large, playful, readable lettering. Choose text colors and small decorative symbols that complement the character’s palette. Keep decorations restrained.
+
+LAYOUT
+Arrange exactly 16 complete stickers in 2 rows of 8 equal-sized cells.
+Read left to right across the first row, then the second.
+Keep the entire caption, character, hands, hair, accessories, and sticker border inside each cell with generous white margins.
+No overlap, clipped elements, visible grid lines, frame numbers, logos, or watermarks.
+
+GIF AND FILE EXPORT
+Deliver:
+1. One PNG sheet containing all 16 stickers.
+2. All 16 individual stickers as separate PNG files in a ZIP.
+3. One animated GIF cycling through the 16 stickers in order, holding each sticker for approximately 1.2 seconds and looping continuously.
+
+For the GIF:
+Use identical canvas dimensions and consistent positioning.
+Keep captions fully visible and avoid accidental jitter.
+Every frame must have an opaque pure-white background.
+Explicitly disable transparency and preserve pure white in the GIF palette.
+This is a sticker slideshow, not a continuous character-motion animation.
+```
+
+  </details>
 
 - **静帧 + 配音 → Seedance，换人设不重剪** — 2.5 出首帧、配音另做，丢进 Seedance 2.5 成片后再换角色——同一套剪辑不用重来。短视频人设 A/B 测的正经流水线。 [@meetshukla_](https://x.com/meetshukla_) · [原帖](https://x.com/meetshukla_/status/2098280866459861176)
 

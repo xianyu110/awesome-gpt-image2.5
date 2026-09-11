@@ -1638,5 +1638,157 @@
     "url": "https://x.com/kabumira862571/status/2098251497385721990",
     "category": "人像角色",
     "prompt": "“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。\nアスペクト比は縦長（4:5）で描画"
+  },
+  {
+    "id": "2098297370291134547",
+    "title": "一个角色，25+ 世界观：宇宙级一致性复用",
+    "blurb": "同一角色横扫吉卜力 / 热血番 / 乐高 / 赛博朋克 / 写实电影……身份不散、视觉语言全换。角色 → 分镜 → 海报 → 短视频，一套人设吃完整条内容链。",
+    "author": "MonetizationDon",
+    "url": "https://x.com/MonetizationDon/status/2098297370291134547",
+    "category": "人像角色"
+  },
+  {
+    "id": "2098290962556727377",
+    "title": "Sunburst 黑白编辑肖像：脸锁 + 杂志光",
+    "blurb": "参考图进 Sunburst，高反差棚拍黑白、细颗粒、极简背景。身份锁写死，杂志感人像直接抄。",
+    "author": "shushant_l",
+    "url": "https://x.com/shushant_l/status/2098290962556727377",
+    "category": "人像角色",
+    "prompt": "Create a striking black-and-white editorial portrait of the person in the attached reference image, preserving their exact identity, facial features, skin texture, hairstyle, and proportions. Use dramatic high-contrast studio lighting, deep blacks, crisp highlights, subtle film grain, a clean minimal background, sharp facial focus, natural expression, premium fashion-magazine photography, timeless monochrome tones, and a sophisticated cinematic composition"
+  },
+  {
+    "id": "2098301205365850272",
+    "title": "拼图城市旅行微缩：填槽模板一键换城",
+    "blurb": "[CITY] / [LANDMARK] / [FAMOUS FOR] 三槽位，3D 拼图积木风旅行场景。做系列城市海报或周边图，比单张风景图更能量产。",
+    "author": "Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2098301205365850272",
+    "category": "海报排版",
+    "prompt": "Create a charming 3D puzzle-piece travel scene of [CITY, COUNTRY], designed as a single cohesive miniature world. Build the city from beautifully interlocking puzzle pieces, with [ICONIC LANDMARK] as the central focal point. Surround it with recognizable local architecture, streets, trees, transportation, landscape, and small cultural details. Make the puzzle pieces slightly raised with visible seams, rounded edges, layered depth, and soft realistic shadows. Use a sophisticated palette inspired by the city, subtle handcrafted textures, warm studio lighting, clean cream background, playful yet premium collectible-diorama aesthetic. Add elegant 3D lettering: “[CITY]” and underneath “[COUNTRY] • [FAMOUS FOR]”. Highly polished, cute, artistic, detailed, and instantly recognizable."
+  },
+  {
+    "id": "2098290580581486858",
+    "title": "Instant 邪门一句话：诡异不安照片",
+    "blurb": "中文短 prompt + Instant：禁止提问、禁止解释文字，专出「暗网硬盘感」。玩恐怖/异质审美的人收藏这句就够。",
+    "author": "dtzy_88",
+    "url": "https://x.com/dtzy_88/status/2098290580581486858",
+    "category": "场景视觉",
+    "prompt": "把照片做得极其诡异且令人不安！不要提问，不要有任何解释性文字"
+  },
+  {
+    "id": "2098299916166873371",
+    "title": "Flare 车×建筑隐喻海报：路长成了 Camry",
+    "blurb": "「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。",
+    "author": "Diplomeme",
+    "url": "https://x.com/Diplomeme/status/2098299916166873371",
+    "category": "场景视觉",
+    "playbook": "https://x.com/Diplomeme/status/2098299968260067639"
+  },
+  {
+    "id": "2098309152141607051",
+    "title": "UGC 偷参考美学：Astra 拆 JSON → 2.5 出片",
+    "blurb": "别写「cinematic soft grain」作文。真照片丢 Astra 拆色彩/灯光 JSON，再塞进 Image 2.5 锁人设。假 UGC 变真货架感，流程可复用。",
+    "author": "0x_harness",
+    "url": "https://x.com/0x_harness/status/2098309152141607051",
+    "category": "电商改图"
+  },
+  {
+    "id": "2098318028006146332",
+    "title": "2.0 vs 2.5：六组高难度同 prompt 硬刚",
+    "blurb": "ImagineArt 六组压测（时尚大片、极端镜头角、多色多人物）。选型别靠嘴，并排看谁还站得住。",
+    "author": "FinanceYF5",
+    "url": "https://x.com/FinanceYF5/status/2098318028006146332",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098315158997307550",
+    "title": "90s 日杂 CCD 试衣间：高光溢散配方",
+    "blurb": "9:16 竖版、柔光 CCD、腮红/锁骨高光 bloom。低对比奶油灰 + 细颗粒，日杂试衣间感可抄长 prompt。",
+    "author": "BubbleBrain",
+    "url": "https://x.com/BubbleBrain/status/2098315158997307550",
+    "category": "人像角色",
+    "prompt": "9:16 vertical, ultra-realistic portrait photography, 90s Japanese magazine fitting-room photoshoot style, soft-light CCD texture, obvious highlight bloom and slight haze.\nA clearly adult Korean female idol, about 23–27 years old, fair natural skin, slender well-proportioned figure, shoulder-length black straight hair slightly messy and fluffy, long bangs falling naturally and partially covering one eye. Delicate features, haughty and languid expression, slightly looking down at the camera. Soft pink natural makeup, gentle pink lips. Keep real skin texture, fine pores, and natural facial asymmetry.\nShe wears a black thin cropped short-sleeve T-shirt in soft fitted cotton, hem stopping at the upper abdomen and exposing the waist, midriff, and natural navel. Bottom: black minimalist low-rise bikini-style bottoms, waistline sitting naturally near the hip bones, simple design.\nShe stands in a small 90s Japanese magazine-style fitting room with light beige-gray walls, a narrow full-length mirror, simple hooks, and soft overhead lighting. Natural standing pose: one leg supporting, the other slightly bent forward, hip shifted naturally to one side. Thinking pose 🤔: one hand raised, index finger lightly resting on the chin, thumb near the jawline, gesture natural and restrained; the other hand hanging naturally at her side. Head slightly tilted, eyes looking down at the camera with a careless, thoughtful look.\nLow-angle upward shot, camera close to the subject, slight wide-angle without exaggerated distortion, emphasizing vertical leg extension and slender proportions. Composition includes the head, upper body, full waist and midriff, hips, and most of the legs. Subject occupies the main part of the frame.\nSoft hazy lighting. Soft scattered light from the front and above. Slight overexposure on the cheeks, nose bridge, collarbones, shoulders, waist, midriff, and legs, blooming softly outward into clear highlight overflow, halation, bloom, and soft fog. Highlights are creamy white glow; shadows are soft and pale with no hard edges.\nOverall low contrast, low saturation, creamy gray and pale warm skin tones, slightly lifted blacks, fine CCD noise and film grain, slightly soft edges, soft-focus filter, and atmospheric haze. Like a casually captured page from a 90s Asian photo magazine.\nPhotorealistic, real-camera photography, real skin, hair strands, and fabric texture. Soft CCD, highlight bloom, hazy and dreamy but not over-retouched.\nAvoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light, strong shadows, anime look, CGI, fisheye, exaggerated wide-angle, limb deformities, extra or wrong fingers, cluttered background, cheap influencer filters."
+  },
+  {
+    "id": "2098308242279727175",
+    "title": "Blender 建模 → Sunburst 精修渲染",
+    "blurb": "Minimax/Blender 出三维结构，再丢 Sunburst 提质。控形归建模、皮相归 2.5——3D×图像的正经分工。",
+    "author": "Banyu_Biroeee",
+    "url": "https://x.com/Banyu_Biroeee/status/2098308242279727175",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2098335755496042610",
+    "title": "一句话提分辨率：1152×2048 贴图重渲",
+    "blurb": "旧图贴进 Images 2.5，写目标像素就够。4:3 / 9:16 / 16:9 比例另说——高清化不必玄学。",
+    "author": "oreno_musume",
+    "url": "https://x.com/oreno_musume/status/2098335755496042610",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098331457232265323",
+    "title": "50 条开源 prompt 图谱：短句 + 工程长稿",
+    "blurb": "371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。",
+    "author": "Callirra",
+    "url": "https://x.com/Callirra/status/2098331457232265323",
+    "category": "选型评测",
+    "playbook": "https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas"
+  },
+  {
+    "id": "2098329229490581950",
+    "title": "一张角色图 → 16 格 chibi 贴纸 + GIF",
+    "blurb": "锁发型服装→16 表情英文短 caption→白底 GIF。聊天贴纸量产管线，prompt 完整可抄。",
+    "author": "renoiseai",
+    "url": "https://x.com/renoiseai/status/2098329229490581950",
+    "category": "像素动效",
+    "prompt": "Use the uploaded image as the character reference. Create a personalized set of 16 chibi reaction stickers, then export a white-background animated GIF that cycles through them.\n\nCHARACTER ADAPTATION\nStudy the character’s hairstyle, hair color, facial features, clothing, accessories, signature colors, and overall visual mood. Preserve these recognizable details in every sticker.\n\nInfer a suitable personality from the visual design—for example: elegant and witty, cool and reserved, cheerful and energetic, mysterious and mischievous, or gentle and shy. Treat this as a creative interpretation, not established character lore. If I provide personality details, prioritize them.\n\nSTYLE\nUse expressive big-head chibi anime illustrations with glossy eyes, soft cel shading, clean lines, and a polished chat-sticker finish. Add thick white die-cut borders with a subtle light-gray outer outline.\nUse mostly chest-up compositions with clearly visible gestures.\nKeep the character design consistent across all 16 stickers.\nUse a solid pure-white background (#FFFFFF).\n\nEXPRESSIONS AND ENGLISH CAPTIONS\nCreate 16 distinct combinations of expressions, gestures, and short English captions tailored to this character’s personality.\n\nCover a useful mix of everyday reactions:\ngreeting, curiosity, confidence, gratitude, affection, embarrassment, excitement, skepticism, refusal, frustration, surprise, encouragement, teasing, celebration, tiredness, and farewell.\n\nAdapt these reactions to the character rather than using a generic caption set. A proud character might respond with dry wit; a gentle character might use warmer wording.\n\nWrite original, natural English captions, preferably 1–4 words each. Make them readable, expressive, and useful in real conversations. Avoid repetitive wording, forced slang, and invented backstory.\n\nPlace each caption above its character in large, playful, readable lettering. Choose text colors and small decorative symbols that complement the character’s palette. Keep decorations restrained.\n\nLAYOUT\nArrange exactly 16 complete stickers in 2 rows of 8 equal-sized cells.\nRead left to right across the first row, then the second.\nKeep the entire caption, character, hands, hair, accessories, and sticker border inside each cell with generous white margins.\nNo overlap, clipped elements, visible grid lines, frame numbers, logos, or watermarks.\n\nGIF AND FILE EXPORT\nDeliver:\n1. One PNG sheet containing all 16 stickers.\n2. All 16 individual stickers as separate PNG files in a ZIP.\n3. One animated GIF cycling through the 16 stickers in order, holding each sticker for approximately 1.2 seconds and looping continuously.\n\nFor the GIF:\nUse identical canvas dimensions and consistent positioning.\nKeep captions fully visible and avoid accidental jitter.\nEvery frame must have an opaque pure-white background.\nExplicitly disable transparency and preserve pure white in the GIF palette.\nThis is a sticker slideshow, not a continuous character-motion animation."
+  },
+  {
+    "id": "2098321572360822907",
+    "title": "雨后三帖：水滴 / 城市 / 湿花极简海报",
+    "blurb": "一滴水、雨后城、湿润花——三组诗意极简海报，中文提示词向高级感封面。适合品牌氛围图连发。",
+    "author": "Caika_app",
+    "url": "https://x.com/Caika_app/status/2098321572360822907",
+    "category": "海报排版"
+  },
+  {
+    "id": "2098323157610582344",
+    "title": "80s 复古肖像拼贴：文化区锁脸六到八姿",
+    "blurb": "参考脸推断文化区，一次出 6–8 姿复古杂志拼贴，身份锁写死。人设海报战役图，长 prompt 齐活。",
+    "author": "meAsifAi",
+    "url": "https://x.com/meAsifAi/status/2098323157610582344",
+    "category": "人像角色",
+    "prompt": "Create your own stunning vintage portrait collage ✨\n\nUse your reference photo + the prompt below to generate a series of cinematic, editorial-style portraits with different poses, outfits, expressions, and lighting — while maintaining a consistent facial identity.\n\nCreated with @ChatGPT image 2.5 \nPrompt :\nUse the uploaded photo as the identity reference. Study the person's face, skin tone, eye shape, hair texture and features, and silently infer the most likely country or cultural region they belong to. Then recreate this exact same person as a star of that country's 1980s pop culture — its cinema, TV, music and fashion magazines of that decade — in one single image containing 6 to 8 different poses arranged as a retro magazine-style photo collage.\n\nIdentity lock (most important): the face must be the same real person in every pose — same bone structure, nose, lips, eyes, eyebrows, skin tone, any moles or marks, same facial proportions. Only the hairstyle, outfit, jewellery, pose, expression and background change. Keep the person's natural gender and apparent age.\n\nLayout: one large hero pose fills roughly the left 60% of the frame — a three-quarter over-the-shoulder look back at camera with a confident smile. Around it, 5 to 7 smaller pose panels overlap each other with soft feathered edges like a hand-made 80s poster: close-up beauty portrait, playful blowing a kiss, side-profile glance, hands-on-hips full standing pose, seated pose leaning on an elbow, laughing candid, and a moody looking-away pose. Faces stay large and clearly visible in every panel.\n\nEra styling — pick everything from that country's real 1980s look: authentic 80s hairstyle of that region (big voluminous blow-dried curls, feathered layers, or a bouffant with a side clip for women; layered longer hair, moustache-era grooming or wet-look side part for men), and period-correct outfits from that culture — traditional dress of the region as it was worn in the 80s, plus one denim or leather jacket, bold geometric or floral prints, puff sleeves or wide lapels, oversized hoop or drop earrings, stacked bangles or a chunky watch, bright lipstick or era-correct makeup. Each pose wears a different outfit. Include small era props from that country: a cassette player, a rotary phone, a film magazine, vintage sunglasses, a vase of fresh flowers.\n\nBackgrounds: warm 80s photo-studio backdrops in maroon, teal and mustard, a velvet curtain, a wall of period posters, string lights, wooden furniture — all from that country's 80s aesthetic.\n\nPhotography: shot on 1980s colour negative film, warm golden tungsten key light with soft fill, gentle halation on highlights, slightly soft focus, visible fine film grain, rich saturated but faded reds and teals, mild vignette, glossy magazine print finish. Photorealistic, high detail, faces sharp and clean.\n\nPalette: 60% warm amber and maroon tones, 30% deep teal and emerald, 10% hot pink accents.\n\nOutput one single vertical portrait-orientation image with all poses in it, no text, no captions, no logos, no watermark."
+  },
+  {
+    "id": "2098348945562878436",
+    "title": "舞蹈分镜预测法 → Seedance 细指令成片",
+    "blurb": "Image 2.5 出舞蹈分镜用「预测法」留自由度，Seedance 再写细指令。零到一舞蹈短视频，应用面比单支舞宽。",
+    "author": "FantasistaAI",
+    "url": "https://x.com/FantasistaAI/status/2098348945562878436",
+    "category": "像素动效"
+  },
+  {
+    "id": "2098346806900146176",
+    "title": "LINE 动态贴纸全链路：2.5→Seedance→ClaudeCode",
+    "blurb": "角色图→24 姿绿幕→Seedance 动起来→ClaudeCode 转申请素材。动态贴纸从零到上架的一条龙。",
+    "author": "emi4900",
+    "url": "https://x.com/emi4900/status/2098346806900146176",
+    "category": "像素动效"
+  },
+  {
+    "id": "2098346705456656668",
+    "title": "指定「3D 游戏图」：提质更好出味",
+    "blurb": "同样提质，写清 3D 游戏画面风格，细节与材质更稳。短指令，大差别。",
+    "author": "aruomoteomote",
+    "url": "https://x.com/aruomoteomote/status/2098346705456656668",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2098345839236468861",
+    "title": "手机 Sketch：打 @ 就能手绘下稿",
+    "blurb": "Images 2.5 Sketch 在手机上 @ 上手绘草图直接生成。通勤也能控形，别再说移动端只能文字玄学。",
+    "author": "ai_sns_kaz",
+    "url": "https://x.com/ai_sns_kaz/status/2098345839236468861",
+    "category": "Sketch"
   }
 ]
