@@ -1151,5 +1151,213 @@
     "url": "https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA",
     "category": "选型评测",
     "playbook": "docs/playbooks/image25-controllability-shift.md"
+  },
+  {
+    "id": "2098048981519540723",
+    "title": "同 prompt：NanoBanana2 vs 2.5 Sunburst/Flare",
+    "blurb": "同一套提示压三模，画质/遵从度一眼分档。选型别靠感觉，先看并排。",
+    "author": "ElitzaVasileva",
+    "url": "https://x.com/ElitzaVasileva/status/2098048981519540723",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098048651545260384",
+    "title": "TikTok 哭脸广告片：Image 2 vs 2.5",
+    "blurb": "同套路短广告对照，升级值不值直接甩视频。投放物料选型用。",
+    "author": "adriamatz",
+    "url": "https://x.com/adriamatz/status/2098048651545260384",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098018651399975200",
+    "title": "别按画质选 Flare/Sunburst",
+    "blurb": "日文实务：案头排列用 Flare，人物/Logo 不能崩用 Sunburst；公布单价和 2 一样，消耗别拿旧计算器估。",
+    "author": "MGT_maccha",
+    "url": "https://x.com/MGT_maccha/status/2098018651399975200",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097958688321634471",
+    "title": "Flare / Sunburst 体感速度其实差不多",
+    "blurb": "高质慢 vs 快但糙：实测速度差没想象大；API 走 Sunburst low 往往更香。一人团队选型直接抄作业。",
+    "author": "makaneko_AI",
+    "url": "https://x.com/makaneko_AI/status/2097958688321634471",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097958307633795351",
+    "title": "CreativeBench 拉满 60 任务",
+    "blurb": "Flare/Sunburst 丢进 11 个真实创意流程（产品图到多步改图）。不是又一篇「感觉很强」，是可点开的工作流打分板。",
+    "author": "KristiKumrija",
+    "url": "https://x.com/KristiKumrija/status/2097958307633795351",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097958537284751416",
+    "title": "同 prompt 三模型拆招：Banana / Image 2 / 2.5",
+    "blurb": "不盯谁赢，盯构图、文字、细节、遵从度哪块会崩。选型比「一句话冠军」更有用。",
+    "author": "hotmer_alan",
+    "url": "https://x.com/hotmer_alan/status/2097958537284751416",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097943789704720820",
+    "title": "指令锁死比拼：2.5 赢 Banana Pro",
+    "blurb": "同套 stop-motion prompt（土壤占比、花心坐标、叶片数量全写死）对打。做精确分镜的人该存：听指令比好看更值钱。",
+    "author": "ekcheungAI",
+    "url": "https://x.com/ekcheungAI/status/2097943789704720820",
+    "category": "选型评测"
+  },
+  {
+    "id": "2097970522961350954",
+    "title": "OpenAI 官方 8 条 Prompt 清单",
+    "blurb": "用途→分段→材质光线→限制，收成可抄公式；顺带提醒赶量 Flare、抠画质 Sunburst。出广告图前先过一遍少翻车。",
+    "author": "WEEXAILabs",
+    "url": "https://x.com/WEEXAILabs/status/2097970522961350954",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098036539704086619",
+    "title": "简笔画→温馨家庭成片（闲鱼信息差）",
+    "blurb": "随手线稿渲成光影到位的家庭画；作者还甩了闲鱼「儿童教育 Sketch 交付」变现脑洞。一人团队可抄。",
+    "author": "Adam38363368936",
+    "url": "https://x.com/Adam38363368936/status/2098036539704086619",
+    "category": "Sketch"
+  },
+  {
+    "id": "2098035177968824347",
+    "title": "Sketch 涂鸦→AI 角色 + note",
+    "blurb": "一笔乱画做出角色，还能边聊边改；附上手感想，适合给客户演示「零门槛从草图开干」。",
+    "author": "teddypooh_bear",
+    "url": "https://x.com/teddypooh_bear/status/2098035177968824347",
+    "category": "Sketch"
+  },
+  {
+    "id": "2098049584152863016",
+    "title": "圆形框景人物海报：光 / 镜面 / 折光",
+    "blurb": "构图压力测：圆形裁切 + 光学材质。做人物海报/品牌视觉时直接偷光位。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2098049584152863016",
+    "category": "海报排版"
+  },
+  {
+    "id": "2097954546152857796",
+    "title": "麦当劳双层芝士堡 × 4 种电影级广告风",
+    "blurb": "完整 Prompt 可拆。食品/消费品要「高端感物料」时，直接换品类槽位。",
+    "author": "Caika_app",
+    "url": "https://x.com/Caika_app/status/2097954546152857796",
+    "category": "海报排版"
+  },
+  {
+    "id": "2098047399264469048",
+    "title": "偷参考美学做真感写真",
+    "blurb": "从参考图抽美学配方，再压成真感写真。UGC/种草人像流水线可抄。",
+    "author": "sixugc",
+    "url": "https://x.com/sixugc/status/2098047399264469048",
+    "category": "人像角色"
+  },
+  {
+    "id": "2098031783849648284",
+    "title": "「ここだけ直す」局部改图指示集",
+    "blurb": "日文保存版精准改图话术合集，比再发一篇 Flare/Sunburst 科普有用。电商/海报改细节直接抄指令。",
+    "author": "noel_ai_lab",
+    "url": "https://x.com/noel_ai_lab/status/2098031783849648284",
+    "category": "电商改图"
+  },
+  {
+    "id": "2098034801265824087",
+    "title": "品牌 DNA × Flare/Sunburst：1985 上线脑洞",
+    "blurb": "先吃进 BrandKit，再问「如果 BrandGen 1985 年上线会怎样」——品牌一致营销图的正确打开方式，不是单图 prompt。",
+    "author": "BrandGen_AI",
+    "url": "https://x.com/BrandGen_AI/status/2098034801265824087",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2097981153760116975",
+    "title": "奢侈品布料动物 2×2",
+    "blurb": "短 prompt：按时尚屋签名面料重绘动物网格（16:9）。创意广告脑暴与品牌联名视觉很香。",
+    "author": "Gdgtify",
+    "url": "https://x.com/Gdgtify/status/2097981153760116975",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2098049016596729942",
+    "title": "任意梗图 → 5×5 像素精灵表 prompt",
+    "blurb": "把 meme / 角色图压成 5×5 sprite sheet，prompt 可抄。表情包/游戏素材量产另一条路。",
+    "author": "Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2098049016596729942",
+    "category": "像素动效"
+  },
+  {
+    "id": "2098038563094806955",
+    "title": "开源翻页动画：手绘起始帧 → 连贯序列",
+    "blurb": "OSS flipbook：起始帧进 GPT-image 2.5 出序列，原画忠度比别家稳。附可玩 demo + 流程拆解。",
+    "author": "hot_town",
+    "url": "https://x.com/hot_town/status/2098038563094806955",
+    "category": "像素动效"
+  },
+  {
+    "id": "2098005078422835608",
+    "title": "手绘草稿直接出 GIF（中文 prompt）",
+    "blurb": "Sketch 草稿 → GPT Image 2.5 → 动图，中文提示词齐活。营销 demo / 教程最省事的一条。",
+    "author": "xiaohua_888",
+    "url": "https://x.com/xiaohua_888/status/2098005078422835608",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097958941070430477",
+    "title": "单图 → 16 姿势 → Seedance 舞蹈片",
+    "blurb": "Image 2.5 出 16 pose，再丢 Seedance 做成舞蹈序列，prompt 在帖里。角色 UGC / 短视频素材流水线可直接抄。",
+    "author": "renoiseai",
+    "url": "https://x.com/renoiseai/status/2097958941070430477",
+    "category": "像素动效"
+  },
+  {
+    "id": "2097943386145866108",
+    "title": "小互：2.5 提示词与图像编辑完全指南",
+    "blurb": "局部编辑、多图合成、角色一致性、工程交付一条龙；海报/漫画/UI 都覆盖。比刷十个「惊艳样张」管用。",
+    "author": "xiaohu",
+    "url": "https://x.com/xiaohu/status/2097943386145866108",
+    "category": "UX产品"
+  },
+  {
+    "id": "2098132314987303251",
+    "title": "tldraw 24h 升级 ChatGPT Sketch：demo + live kit",
+    "blurb": "官方画板队连夜跟上 2.5 Sketch：30 分钟演示 + 可玩 live kit。控形出片别只看截图，直接上手拖线框。",
+    "author": "tldraw",
+    "url": "https://x.com/tldraw/status/2098132314987303251",
+    "category": "Sketch"
+  },
+  {
+    "id": "2098155424440893702",
+    "title": "传单只改价格：线稿 22 秒出片 + 8 作例",
+    "blurb": "日系营销血泪：别为改个价重做整张图。2.5 局部改价 + 手绘 rough 22 秒变传单，附 8 作例与可粘贴 prompt。",
+    "author": "Charlie_no_site",
+    "url": "https://x.com/Charlie_no_site/status/2098155424440893702",
+    "category": "电商改图"
+  },
+  {
+    "id": "2098222494175879235",
+    "title": "传参考图说「出衣装资料图」几乎零 prompt",
+    "blurb": "丢一张参考，一句「衣装资料图出して」——2.5 补全力离谱，设定图质感直接能进企划。少写 prompt 多甩参考。",
+    "author": "1banana2546",
+    "url": "https://x.com/1banana2546/status/2098222494175879235",
+    "category": "人像角色"
+  },
+  {
+    "id": "2098224166977806575",
+    "title": "表情集实测：还是熟悉的「GPT 脸」",
+    "blurb": "表情包能用，但别神话——横向一比仍是同质化 GPT 脸。角色一致性能交差，个性脸还得锁参考硬刚。",
+    "author": "munou_ac",
+    "url": "https://x.com/munou_ac/status/2098224166977806575",
+    "category": "人像角色"
+  },
+  {
+    "id": "2098207695371379164",
+    "title": "同 prompt 抽到 Flare：可能不如 Image 2",
+    "blurb": "别盲信版本号：同一套提示抽到 gpt-image-2.5-flare，观感可能输给 Image 2。选型先看型号，再谈升级。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2098207695371379164",
+    "category": "选型评测"
   }
 ]

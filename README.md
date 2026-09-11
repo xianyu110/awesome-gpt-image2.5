@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-10 · **收录 136 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 162 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,24 +237,23 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **同 prompt 抽到 Flare：可能不如 Image 2** — 别盲信版本号：同一套提示抽到 gpt-image-2.5-flare，观感可能输给 Image 2。选型先看型号，再谈升级。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098207695371379164)
 - **同 prompt：NanoBanana2 vs 2.5 Sunburst/Flare** — 同一套提示压三模，画质/遵从度一眼分档。选型别靠感觉，先看并排。 [@ElitzaVasileva](https://x.com/ElitzaVasileva) · [原帖](https://x.com/ElitzaVasileva/status/2098048981519540723)
 - **TikTok 哭脸广告片：Image 2 vs 2.5** — 同套路短广告对照，升级值不值直接甩视频。投放物料选型用。 [@adriamatz](https://x.com/adriamatz) · [原帖](https://x.com/adriamatz/status/2098048651545260384)
-- **别按画质选 Flare/Sunburst** — 日文实务：案头排列用 Flare，人物/Logo 不能崩用 Sunburst；公布单价和 2 一样，消耗别拿旧计算器估。 [@MGT_maccha](https://x.com/MGT_maccha) · [原帖](https://x.com/MGT_maccha/status/2098018651399975200)
-- **线控压力测：Raster distortion 才是正经 benchmark** — 细线要在复杂形体上保持干净连续。2.5 仍有小瑕疵，但线控明显更好——海报/品牌/文化视觉能用，附 prompt。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098012211482382380)
 - **Canvas 速度账：2 → Sunburst → Flare** — 同场景实测 46.5s → 38.7s → 21.4s，作者称几乎不掉质。选型别玄学，先看秒表。 [@AndrewPulc](https://x.com/AndrewPulc) · [原帖](https://x.com/AndrewPulc/status/2098018760749981786)
+- **别按画质选 Flare/Sunburst** — 日文实务：案头排列用 Flare，人物/Logo 不能崩用 Sunburst；公布单价和 2 一样，消耗别拿旧计算器估。 [@MGT_maccha](https://x.com/MGT_maccha) · [原帖](https://x.com/MGT_maccha/status/2098018651399975200)
 - **23 任务同 prompt：2.5 vs Image 2 对打** — 2.5 赢在食物质感 + 编辑一致性；2 更稳产品构图；还有两边一起翻车的布局题——升级别神话。 [@DeepMediaLabs](https://x.com/DeepMediaLabs) · [原帖](https://x.com/DeepMediaLabs/status/2098016564960460826)
-- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
-- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测；透明底自测判断是否已上 2.5。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
-- **Flare / Sunburst 体感速度其实差不多** — 高质慢 vs 快但糙：实测速度差没想象大；API 走 Sunburst low 往往更香。一人团队选型直接抄作业。 [@makaneko_AI](https://x.com/makaneko_AI) · [原帖](https://x.com/makaneko_AI/status/2097958688321634471)
-- **CreativeBench 拉满 60 任务** — Flare/Sunburst 丢进 11 个真实创意流程（产品图到多步改图）。不是又一篇「感觉很强」，是可点开的工作流打分板。 [@KristiKumrija](https://x.com/KristiKumrija) · [原帖](https://x.com/KristiKumrija/status/2097958307633795351)
-- **同 prompt 三模型拆招：Banana / Image 2 / 2.5** — 不盯谁赢，盯构图、文字、细节、遵从度哪块会崩。选型比「一句话冠军」更有用。 [@hotmer_alan](https://x.com/hotmer_alan) · [原帖](https://x.com/hotmer_alan/status/2097958537284751416)
-- **指令锁死比拼：2.5 赢 Banana Pro** — 同套 stop-motion prompt（土壤占比、花心坐标、叶片数量全写死）对打。做精确分镜的人该存：听指令比好看更值钱。 [@ekcheungAI](https://x.com/ekcheungAI) · [原帖](https://x.com/ekcheungAI/status/2097943789704720820)
-- **OpenAI 官方 8 条 Prompt 清单** — 用途→分段→材质光线→限制，收成可抄公式；顺带提醒赶量 Flare、抠画质 Sunburst。出广告图前先过一遍少翻车。 [@WEEXAILabs](https://x.com/WEEXAILabs) · [原帖](https://x.com/WEEXAILabs/status/2097970522961350954)
+- **线控压力测：Raster distortion 才是正经 benchmark** — 细线要在复杂形体上保持干净连续。2.5 仍有小瑕疵，但线控明显更好——海报/品牌/文化视觉能用，附 prompt。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098012211482382380)
 - **日文实务：Flare/Sunburst 同价 API 差分** — 同价位下 Flare vs Sunburst 差分写清楚。报价/选型别再靠「感觉贵一点就更好」。 [@rsensui](https://x.com/rsensui) · [原帖](https://x.com/rsensui/status/2097989282116042813)
 - **投放静图四件套：Flare / Sunburst / 锁参考 / 局部改** — 付费社媒静态广告拆成四块工作流。量产用 Flare，终稿 Sunburst，参考锁 + focused edit 控漂移。 [@learnbyIsmail](https://x.com/learnbyIsmail) · [原帖](https://x.com/learnbyIsmail/status/2097977460403130371)
+- **OpenAI 官方 8 条 Prompt 清单** — 用途→分段→材质光线→限制，收成可抄公式；顺带提醒赶量 Flare、抠画质 Sunburst。出广告图前先过一遍少翻车。 [@WEEXAILabs](https://x.com/WEEXAILabs) · [原帖](https://x.com/WEEXAILabs/status/2097970522961350954)
 - **2.5 vs 2.0 视频硬对比** — 动态对照比静态截图更有说服力。写升级值不值、做社媒 demo 直接甩。 [@kr0der](https://x.com/kr0der) · [原帖](https://x.com/kr0der/status/2097963498273988784)
 - **ZenMux 上 Flare / Sunburst 怎么选** — 聚合入口里两型号怎么分流。赶量 vs 终稿，别混着点。 [@SuperByteSpace](https://x.com/SuperByteSpace) · [原帖](https://x.com/SuperByteSpace/status/2097962843757006979)
 - **Sunburst 四轮保真：越改越稳？** — 多轮编辑下身份/构图是否还在。要做长会话改图，先看这组保真实测。 [@GuliMoreno](https://x.com/GuliMoreno) · [原帖](https://x.com/GuliMoreno/status/2097961051476164612)
+- **Flare / Sunburst 体感速度其实差不多** — 高质慢 vs 快但糙：实测速度差没想象大；API 走 Sunburst low 往往更香。一人团队选型直接抄作业。 [@makaneko_AI](https://x.com/makaneko_AI) · [原帖](https://x.com/makaneko_AI/status/2097958688321634471)
+- **同 prompt 三模型拆招：Banana / Image 2 / 2.5** — 不盯谁赢，盯构图、文字、细节、遵从度哪块会崩。选型比「一句话冠军」更有用。 [@hotmer_alan](https://x.com/hotmer_alan) · [原帖](https://x.com/hotmer_alan/status/2097958537284751416)
+- **CreativeBench 拉满 60 任务** — Flare/Sunburst 丢进 11 个真实创意流程（产品图到多步改图）。不是又一篇「感觉很强」，是可点开的工作流打分板。 [@KristiKumrija](https://x.com/KristiKumrija) · [原帖](https://x.com/KristiKumrija/status/2097958307633795351)
+- **指令锁死比拼：2.5 赢 Banana Pro** — 同套 stop-motion prompt（土壤占比、花心坐标、叶片数量全写死）对打。做精确分镜的人该存：听指令比好看更值钱。 [@ekcheungAI](https://x.com/ekcheungAI) · [原帖](https://x.com/ekcheungAI/status/2097943789704720820)
 - **木版画：2 / Flare / Sunburst 三连** — 同题材三模吃纹理的差异。做版画/印刷风素材选型时当尺子。 [@morphedai](https://x.com/morphedai) · [原帖](https://x.com/morphedai/status/2097943157585424694)
 - **多轮编辑崩坏对照：哪一轮开始飘** — 连续改图何时身份崩、构图飞。长会话改稿前先设止损轮数。 [@luoxiaoshan_ai](https://x.com/luoxiaoshan_ai) · [原帖](https://x.com/luoxiaoshan_ai/status/2097930409518768543)
 - **同 prompt 纸雕海报 + 六格广告打脸对照** — 条形码/小字/人群压到不同模型上，文字清晰度与排版连贯性一眼见真章。素材选型别靠感觉。 [@bozhou_ai](https://x.com/bozhou_ai) · [原帖](https://x.com/bozhou_ai/status/2097929167266631771)
@@ -308,11 +307,14 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 - **Image2 → Flare → Sunburst 阶梯** — 同一题材从旧模爬到 2.5，质量跳档一眼可见。 [@atakoylanai](https://x.com/atakoylanai) · [原帖](https://x.com/atakoylanai/status/2097568820000850058)
 - **Flare vs Sunburst 对比站** — 并排预览站点，适合快速建立「快 vs 精」直觉。 [@137yugi](https://x.com/137yugi) · [原帖](https://x.com/137yugi/status/2097560368684159241)
 - **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486)
+- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
+- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
 
 ## Sketch
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **tldraw 24h 升级 ChatGPT Sketch：demo + live kit** — 官方画板队连夜跟上 2.5 Sketch：30 分钟演示 + 可玩 live kit。控形出片别只看截图，直接上手拖线框。 [@tldraw](https://x.com/tldraw) · [原帖](https://x.com/tldraw/status/2098132314987303251)
 - **简笔画→温馨家庭成片（闲鱼信息差）** — 随手线稿渲成光影到位的家庭画；作者还甩了闲鱼「儿童教育 Sketch 交付」变现脑洞。一人团队可抄。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2098036539704086619)
 - **Sketch 涂鸦→AI 角色 + note** — 一笔乱画做出角色，还能边聊边改；附上手感想，适合给客户演示「零门槛从草图开干」。 [@teddypooh_bear](https://x.com/teddypooh_bear) · [原帖](https://x.com/teddypooh_bear/status/2098035177968824347)
 - **Sketch/Doodle 完整 walkthrough：草图只锁构图** — 从涂鸦到成片的完整步骤：草图只负责构图骨架，风格后置。不会画画也能控形出片。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2097987154890944892)
@@ -338,12 +340,464 @@ Sketch 工作流演示：控形、打光、画框布局与容错。
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
 - **圆形框景人物海报：光 / 镜面 / 折光** — 构图压力测：圆形裁切 + 光学材质。做人物海报/品牌视觉时直接偷光位。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098049584152863016)
-- **麦当劳双层芝士堡 × 4 种电影级广告风** — 完整 Prompt 可拆。食品/消费品要「高端感物料」时，直接换品类槽位。 [@Caika_app](https://x.com/Caika_app) · [原帖](https://x.com/Caika_app/status/2097954546152857796)
 - **Apple 级手机海报，可复制 prompt** — 产品海报直出，prompt 可抄。做数码/3C 种草封面时省半小时磨词。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2097978468642480487)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready
+Style: Apple-level art direction × contemporary product photography × bold editorial composition × hyper-real commercial photography
+
+🧠 CORE INTENT:
+“ANYTHING’S POSABLE.”
+
+One iPhone.
+More ways to see it.
+More ways to use it.
+More ways to make it yours.
+
+Effortless flexibility.
+Physical intelligence.
+One device that adapts to the moment.
+
+🎬 SCENE COMPOSITION:
+
+BACKGROUND:
+Pure matte white architectural studio environment with a dominant oversized rounded rectangle block in ultra-soft warm silver gradient (top-left → bottom-right illumination)
+
+The background block creates a subtle dimensional stage behind the subject and product.
+
+GIANT TYPOGRAPHY (BACKGROUND LAYER):
+“DUO”
+
+* ultra-bold geometric sans-serif
+* stretched wide kerning
+* partially cropped by frame edges
+* soft shadow depth
+* color: very light warm grey
+* subtle embossed / debossed effect
+* typography positioned behind the subject and product
+* large enough to function as an architectural graphic element
+
+👤 SUBJECT (HUMAN ELEMENT):
+
+Female model, clean contemporary editorial look, Apple-style casting
+
+* neutral expression
+* confident, calm, effortless
+* natural skin texture
+* hair: natural flow, slightly wind-touched
+* minimal makeup
+* understated styling
+
+OUTFIT:
+→ sculptural off-white tailored top
+→ deep graphite trousers
+→ minimal accessories
+→ no visible branding
+→ sophisticated contemporary styling
+
+POSE:
+
+* Shot from slightly low angle (hero perspective)
+* Body slightly angled toward camera
+* One hand holding iPhone Duo in its compact closed configuration
+* Other hand lightly supporting the device as it opens
+* iPhone Duo positioned prominently between viewer and subject
+* Face aligned toward viewer
+* direct eye contact
+* relaxed posture
+* pose communicates control rather than excitement
+
+📱 PRODUCT (HERO FOCUS):
+
+DEVICE:
+iPhone Duo
+
+FINISH:
+Premium titanium finish with physically accurate metallic surface response
+
+POSITION:
+Extreme foreground (forced perspective)
+Slightly rotated toward camera to reveal the thin profile, hinge construction and display relationship
+
+The device must remain the dominant visual object.
+
+PRODUCT CONFIGURATION:
+iPhone Duo shown transitioning from compact outer-display mode into its expansive unfolded configuration.
+
+One continuous physical device.
+No impossible geometry.
+No duplicated products.
+No floating components.
+
+DETAILING:
+
+* ultra-thin titanium frame
+* precision hinge construction
+* seamless folding display
+* extremely thin bezels
+* hyper-sharp camera system
+* lens reflections physically accurate
+* brushed titanium edge highlights
+* subtle micro-scratches
+* realistic fingerprints / material response kept extremely subtle
+* Apple logo centered with restrained reflective gloss
+* physically accurate display reflections
+* realistic hinge shadow and contact points
+
+The unfolded display should feel expansive and architectural rather than simply “larger.”
+
+REFLECTION:
+
+* soft studio reflection across titanium edges
+* subtle screen reflections
+* controlled highlight around hinge
+* micro light bloom around metallic edges
+
+✨ LIGHTING SYSTEM:
+
+MAIN LIGHT:
+Soft studio key light (front-left)
+→ smooth skin tones
+→ clean product highlights
+→ controlled white-to-silver transitions
+
+RIM LIGHT:
+Cool-white edge light from right
+→ enhances phone silhouette
+→ separates titanium edges from white background
+→ reveals the thinness of the device
+
+ACCENT LIGHT:
+Very subtle warm-silver glow from background architectural block
+
+SHADOW:
+Soft drop shadow beneath subject + phone
+Soft contact shadow around hinge
+(no harsh contrast)
+
+🎨 COLOR SYSTEM:
+
+* Primary: clean Apple white
+* Secondary: titanium silver / warm metallic grey
+* Accent: subtle graphite
+* Background: warm neutral white
+* Contrast: deep micro-shadows
+
+No over-saturation.
+No neon.
+No unnecessary color effects.
+Controlled premium palette.
+
+✨ GRAPHIC ELEMENTS:
+
+* Minimal sparkle icons ✦ (2 only)
+* One subtle translucent UI pill floating near the unfolded display
+* Thin technical construction line following the phone’s folding axis
+* Very subtle grain for realism
+* Minimal geometric indicators showing the transition between closed and open states
+
+All graphic elements remain secondary to the product.
+
+✍️ TYPOGRAPHY SYSTEM:
+
+TOP LEFT:
+Apple logo (black, small, clean)
+
+TOP RIGHT:
+“Anything’s posable.” (thin sans-serif)
+
+MID LEFT (pill):
+“iPhone Duo”
+
+CENTER DOMINANT:
+“DUO” (background type)
+
+BOTTOM RIGHT (body text):
+Small paragraph:
+
+“iPhone Duo.
+One beautifully designed iPhone.
+Two ways to see it.
+Made to move with you.”
+
+📊 FEATURE STRIP (BOTTOM GRID):
+
+4 rounded cards (glass-white panels):
+
+1. 7.6″ INNER DISPLAY
+    “More room to see.”
+2. 5.4″ OUTER DISPLAY
+    “Ready when you are.”
+3. TITANIUM DESIGN
+    “Precision in every fold.”
+4. A20 PRO
+    “Pro performance. In a new form.”
+
+Icons minimal line style.
+
+Cards must feel integrated into the poster rather than appearing as a generic technology specification panel.
+
+📐 COMPOSITION GRID:
+
+* Top: brand + statement
+* Mid: subject + product (dominant)
+* Background: giant “DUO” typography layer
+* Bottom: feature modules
+
+Strong vertical hierarchy.
+
+The product overlaps the background typography.
+
+The model creates secondary depth behind the phone.
+
+Eye flow:
+Face → Phone → Hinge → “DUO” → Features
+
+The iPhone Duo must remain the first visual priority.
+
+🎥 CAMERA SPECS:
+
+* ARRI Alexa Mini LF
+* 50mm premium anamorphic lens
+* shallow depth of field around subject
+* product maintained in extremely high optical clarity
+* HDR rendering
+* ultra-real skin + titanium material detail
+* subtle lens distortion for realism
+* physically accurate reflections
+* controlled cinematic highlight roll-off
+* realistic depth separation
+* premium commercial product photography
+
+Slightly low camera position for a subtle hero perspective.
+
+No extreme wide-angle distortion.
+No exaggerated perspective.
+No artificial CGI appearance.
+
+🎯 FINAL ART DIRECTION:
+
+Apple-level campaign restraint with enough visual tension to feel contemporary and editorial.
+
+The poster should communicate that iPhone Duo is not simply a phone that folds.
+
+Its ability to change position becomes the central visual language of the campaign.
+
+Premium.
+Precise.
+Human.
+Physical.
+Confident.
+
+No generic foldable-phone aesthetic.
+No futuristic sci-fi environment.
+No excessive holograms.
+No neon.
+No cyberpunk styling.
+No random floating UI.
+No distorted hands.
+No malformed device geometry.
+No impossible hinge.
+No duplicated cameras.
+No fake Apple branding.
+No clutter.
+No cheap AI-rendered appearance.
+
+FINAL OUTPUT:
+4:5 vertical
+8K
+hyper-real commercial photography
+premium Apple campaign art direction
+global advertising quality
+OOH billboard ready
+social media ready
+Behance-level visual design
+```
+
+  </details>
 - **奢华婚礼请柬 mockup + 完整 prompt** — 请柬/喜帖排版系统可拆，换名字日期就能出样。婚礼赛道与高端印刷预览很香。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2097977120441925720)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium luxury wedding invitation stationery mockup photographed from a slightly elevated top-down angle on a warm beige textured stone surface.
+
+Place a large rectangular wedding invitation card at the center, printed on thick premium ivory cotton paper with visible fine paper texture and slightly raised edges. Add a very thin champagne-gold foil border around the card.
+
+At the top center, include a delicate botanical gold-foil monogram made from elegant leafy branches surrounding the couple’s initials.
+
+Use sophisticated editorial typography throughout:
+
+- elegant high-contrast serif font for the couple’s names
+- refined small uppercase serif lettering for supporting information
+- subtle handwritten calligraphy for words such as “and” and the closing line
+- generous letter spacing and carefully balanced alignment
+
+Example invitation wording:
+
+“TOGETHER WITH THEIR FAMILIES
+
+ELEANOR JAMES
+and
+JONATHAN REESE
+
+REQUEST THE PLEASURE OF YOUR COMPANY
+AT THE CELEBRATION OF THEIR MARRIAGE
+
+SATURDAY, THE FOURTEENTH OF SEPTEMBER
+TWO THOUSAND TWENTY-SIX
+AT FOUR O’CLOCK IN THE AFTERNOON
+
+VILLA SERENA
+LAKE COMO, ITALY
+
+Dinner and dancing to follow”
+
+Surround the invitation with coordinated luxury stationery pieces, including matching ivory envelopes, small information cards, and decorative paper inserts.
+
+Add romantic styling elements around the composition:
+soft ivory and blush roses, tiny white flowers, olive-green foliage, a flowing champagne satin ribbon, a vintage brass wax seal with a botanical emblem, a velvet engagement-ring box with a diamond ring, and subtle vintage postage stamps.
+
+Keep the palette warm and refined: ivory, cream, champagne gold, dusty blush, beige, muted olive green, and soft bronze.
+
+Use soft natural window lighting with delicate shadows, realistic metallic foil reflections, premium paper texture, shallow depth of field, and elegant editorial wedding photography.
+
+Overall aesthetic: timeless European wedding, Lake Como romance, quiet luxury, sophisticated bridal stationery, high-end wedding editorial, minimal but richly detailed, photorealistic, luxurious and romantic.
+```
+
+  </details>
+- **麦当劳双层芝士堡 × 4 种电影级广告风** — 完整 Prompt 可拆。食品/消费品要「高端感物料」时，直接换品类槽位。 [@Caika_app](https://x.com/Caika_app) · [原帖](https://x.com/Caika_app/status/2097954546152857796)
 - **旅行海报 [CITY, COUNTRY] 丝网印刷模板** — 本地建筑元素的 mid-century 丝网印刷风海报配方，带成片。做目的地/活动 KV 直接换槽。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2097920025617399875)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.
+
+Add one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.
+
+Use a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.
+
+Add a tall integrated sign or architectural panel featuring:
+
+[CITY]
+[LOCAL SCRIPT]
+
+Include small refined editorial typography at the bottom:
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.
+```
+
+  </details>
 - **香水奢品 10 格分镜 storyboard** — 电影感产品分镜 + 干净网格，直接可改成你自己的品类广告故事板。 [@Strength04_X](https://x.com/Strength04_X) · [原帖](https://x.com/Strength04_X/status/2097919290980921451)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+  </details>
 - **IG 旅游广告 [LOCATION] 可替换模板** — 4:5 竖屏 + 手机导航锚点构图，换地名就能出一波 scroll-stopping 海报。出海投放直接改。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097890291860865291)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format.
+
+A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation notification card overlaps the upper-middle of the phone, integrated naturally with realistic depth, soft shadows, and subtle reflections.
+
+The notification should feature a warm-white, lightly frosted rounded rectangle with a refined mobile UI aesthetic and perfectly legible typography:
+
+[map icon] MAPS — now
+You keep searching.
+Come visit [LOCATION] instead.
+
+Keep the notification within the upper 25–40% of the composition. It should feel physically connected to the phone and must not cover the miniature destination scene.
+
+Below the smartphone, a folded papercraft map labeled “[LOCATION]” unfolds into a handcrafted miniature world. Include only 4–6 highly recognizable elements that naturally represent the destination—such as iconic architecture, landscapes, nature, food, culture, or atmosphere.
+
+Visual Materials
+
+- Phone & distant background: realistic photography
+- Buildings & landmarks: handcrafted painted 3D clay
+- Map, terrain, roads & water: layered hand-cut paper
+- Vegetation & small details: miniature clay and paper
+
+Make the physical materials clearly visible through paper fibers, cut edges, layered surfaces, subtle clay texture, tiny imperfections, and soft dimensional shadows.
+
+Add one large location pin and a tiny backpacked traveler standing on the map, looking toward the miniature world. Keep the traveler small and secondary, like a hidden discovery detail.
+
+Use only 2–3 subtle travel doodles, such as a paper airplane with a dotted path, a tiny heart, and a simple hand-drawn route arrow. Keep them thin, imperfect, and journal-like.
+
+Visual Hierarchy
+
+1. Notification
+2. Miniature [LOCATION] world
+3. Location pin
+4. Tiny traveler
+5. Folded map
+
+Maintain generous negative space and avoid clutter, excessive landmarks, unnecessary text, icons, props, or competing focal points.
+
+Use a refined 3–5 color palette inspired by [LOCATION], warm cinematic or golden-hour lighting, shallow depth of field, realistic miniature photography, tactile materials, and sophisticated editorial advertising composition.
+
+The final image should feel like a world-class handcrafted travel campaign-instantly recognizable, destination-specific, clean, emotionally inviting, and rich with subtle details worth discovering.
+```
+
+  </details>
 - **品牌 KV 母版：iPhone Duo / 18 Pro 系列海报** — 同一套品牌 KV 模板给虚构新品各出一张：折叠叙事 vs 专业影像。一眼看懂怎么用 Image 2.5 做新品系列 KV。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2097884028955394216)
 - **轨道奢侈品三连** — Prada×Axiom×Zendaya / SpaceVIP×Keanu / Richard Mille×Hamilton 三套轨道奢侈海报。Sunburst 高端 SMM 排版系统可拆。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2097778936646091084)
   <details>
@@ -444,24 +898,25 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **表情集实测：还是熟悉的「GPT 脸」** — 表情包能用，但别神话——横向一比仍是同质化 GPT 脸。角色一致性能交差，个性脸还得锁参考硬刚。 [@munou_ac](https://x.com/munou_ac) · [原帖](https://x.com/munou_ac/status/2098224166977806575)
+- **传参考图说「出衣装资料图」几乎零 prompt** — 丢一张参考，一句「衣装资料图出して」——2.5 补全力离谱，设定图质感直接能进企划。少写 prompt 多甩参考。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2098222494175879235)
 - **偷参考美学做真感写真** — 从参考图抽美学配方，再压成真感写真。UGC/种草人像流水线可抄。 [@sixugc](https://x.com/sixugc) · [原帖](https://x.com/sixugc/status/2098047399264469048)
 - **一张静图当舞蹈参考，直接出片** — Image 2.5 做 dance reference 意外稳：上传一张就能跑成舞蹈视频，评论区有 prompt。短视频流水线可偷。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2098014577414033912)
-- **从 0 到 1 虚拟 IP 资产全流程（含完整提示词）** — 人物→五视图→表情头像→封面配图→换装街拍→PV。自媒体一人团队直接抄。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [完整 playbook](docs/playbooks/virtual-ip-assets.md)
+- **80s 复古写真锁脸** — 年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097954772586557873)
   <details>
-  <summary>查看 / 复制提示词（五视图摘录）</summary>
+  <summary>查看 / 复制提示词</summary>
 
 ```
-一张单人物角色参考设定图，纯净白色无缝摄影棚背景，横向排布为五个区域，区域之间保留干净白色留白。
-前四个区域展示同一位年轻成年东亚女性的完整转面：正面、三分之四侧面、纯侧面、背面。所有视图必须是同一个人、相同发型、相同服装、相同身体比例，保持自然放松的中性站姿，双臂自然垂落身体两侧，双脚自然并拢，重心稳定。
-第五个区域为同一人物的大尺寸正面脸部特写，直视镜头，表情安静自然，嘴唇轻微放松，清楚展示发型、妆容和面部细节。
-上传的照片同时作为人物的面部身份、发型、妆容、身体比例和服装造型参考。
-整张图片不要任何文字：不要视图名称、标题、编号、Logo、水印或说明文字。
-```
+Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high accuracy—do not alter or beautify the face.
 
-完整全流程提示词见 [playbook](docs/playbooks/virtual-ip-assets.md)。
+Give the subject a classic 1980s hairstyle and stylish period-accurate fashion with bold silhouettes, authentic textures, and effortless vintage attitude. Compose the portrait naturally with a strong editorial feel, keeping the subject as the clear focal point.
+
+Capture the image as if shot on a 35mm analog film camera, with realistic film grain, subtle dust and texture, gentle softness, natural skin detail, slight color fading, and authentic analog imperfections. Use warm nostalgic color grading, soft neon highlights, subtle ambient glow, and direct on-camera flash to create the distinctive look of an iconic 1980s photograph.
+
+Keep the lighting cinematic yet believable, with soft shadows, realistic highlights, natural contrast, and a slightly imperfect film exposure. The final image should feel genuinely photographed in the 1980s—not digitally recreated, with a timeless, nostalgic, fashionable, and effortlessly cool atmosphere.
+```
 
   </details>
-- **80s 复古写真锁脸** — 年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097954772586557873)
 - **巴黎街拍写真 prompt** — 街拍姿势/光位/服装分段可替换。UGC 人像与旅拍种草可直接改地名。 [@AIwithSarah_](https://x.com/AIwithSarah_) · [原帖](https://x.com/AIwithSarah_/status/2097952240707530923)
 - **哥特 Lolita 完整中文 prompt** — 中文可复制人设配方，服装层次写细。角色卡/COS 种草少踩「衣服糊成一团」。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097951132031320484)
   <details>
@@ -492,7 +947,305 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
   </details>
 - **Model sheet 身份锁：多角度同一人** — 角色表压住脸与体型，多视角不漂移。做 IP/表情包/游戏立绘流水线先抄这套。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2097949170594193427)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.
+
+REFERENCE & IDENTITY LOCK:
+Use the uploaded reference as the single source of truth for the character's identity. Preserve the exact facial identity, facial structure, hairstyle, hairline, eye shape and color, eyebrows, nose, lips, skin tone, body proportions, physique, age appearance, distinctive features, costume design, accessories, footwear, colors, patterns and all recognizable visual details. Do not redesign, beautify, simplify, age, de-age, or reinterpret the character.
+CHARACTER DESIGN ANALYSIS:
+Before constructing the sheet, internally analyze and lock the character's:
+
+facial construction
+head-to-body ratio
+
+body proportions
+
+shoulder width and torso structure
+
+limb length and joint placement
+
+silhouette
+
+hairstyle and hair volume
+
+costume construction
+
+accessory placement
+
+color relationships
+
+material characteristics
+
+distinctive identity anchors
+
+All subsequent views must represent the exact same character design.
+
+PAGE FORMAT:
+Create one sophisticated studio-grade character reference board, landscape 16:9, clean neutral/off-white studio background, refined editorial production-board aesthetic, highly organized hierarchy, generous spacing, subtle technical guide lines, restrained professional typography-style labels where appropriate, no decorative clutter.
+
+01 — HERO CHARACTER PORTRAIT
+
+Place one larger polished head-and-shoulders or three-quarter portrait as the visual identity anchor.
+Show the character's canonical facial identity clearly with neutral professional expression and accurate hairstyle, skin, costume and accessories.
+
+02 — FULL-BODY TURNAROUND
+
+Create a clearly organized full-body turnaround showing the same character at identical scale and proportions:
+
+FRONT VIEW
+
+3/4 FRONT VIEW
+
+SIDE PROFILE
+
+3/4 BACK VIEW
+
+BACK VIEW
+
+Use a neutral standing pose with consistent posture and anatomical alignment.
+
+Keep head height, eye line, shoulder line, waist, hips, knees and feet consistently aligned across every view.
+
+The costume, hairstyle, accessories, seams, patterns, footwear and silhouette must remain identical from every angle.
+
+03 — EXPRESSION STUDY
+
+Include a clean expression grid containing approximately 6 expressions:
+
+Neutral
+
+Happy / subtle smile
+
+Serious
+
+Angry / determined
+
+Surprised
+
+Sad / emotional
+
+Maintain the exact same facial identity, head proportions, hairstyle and facial construction in every expression.
+
+Expressions should demonstrate believable facial acting rather than exaggerated deformation.
+
+04 — SIGNATURE POSE STUDIES
+
+Include 4–6 full-body pose studies that communicate the character's personality and physical behavior.
+
+Use varied but believable poses such as:
+
+relaxed standing
+
+confident stance
+
+walking
+
+sitting
+
+interacting with an object
+
+dynamic signature pose
+
+Maintain exact character proportions, costume construction and recognizable silhouette in every pose.
+
+05 — COSTUME & DETAIL CALLOUTS
+
+Add several clean close-up detail panels showing the most important design elements:
+
+hairstyle / hair detail
+
+face detail
+
+collar / neckline
+
+sleeves / garment construction
+
+footwear
+
+jewelry or accessories
+
+distinctive emblem / pattern / texture
+
+important prop if present
+
+Show construction and material clearly without turning the sheet into a decorative fashion collage.
+
+06 — MATERIAL STUDIES
+
+Visually communicate the primary materials present in the design:
+
+fabric, leather, metal, denim, silk, knit, plastic, glass, jewelry, hair, skin or other relevant materials.
+
+Show realistic surface behavior, texture, reflectivity and construction appropriate to each material.
+
+07 — COLOR PALETTE
+
+Include a compact professional color palette strip containing the dominant character colors.
+
+Organize colors according to their visual role:
+
+skin
+
+hair
+
+primary costume
+
+secondary costume
+
+accent color
+
+accessories / materials
+
+Keep the palette faithful to the reference.
+
+08 — PROPORTION & SILHOUETTE GUIDE
+
+Include a subtle technical proportion guide beside the turnaround.
+
+Show:
+
+overall height
+
+head-to-body ratio
+
+major horizontal alignment guides
+
+key body proportions
+
+clean silhouette thumbnail
+
+Keep this section understated and production-oriented.
+
+09 — DESIGN CONTINUITY
+
+Treat the entire page as a single canonical character source of truth.
+
+Every panel must depict the SAME person/character with:
+
+identical facial identity
+
+identical body proportions
+
+identical hairstyle
+
+identical costume
+
+identical accessory placement
+
+identical color palette
+
+identical design language
+
+consistent left/right details
+
+No accidental costume changes, missing accessories, duplicated accessories, altered facial features, changing body proportions, inconsistent hairstyles or unexplained design variations.
+
+VISUAL DIRECTION:
+High-end professional character design presentation, studio production reference quality, sophisticated concept-art discipline, clean polished rendering, precise construction, controlled neutral lighting, realistic material definition, excellent anatomical consistency, crisp readable details, refined editorial layout, premium art-direction quality.
+
+The sheet should feel like an actual professional animation / game / visual-development production document, not a collection of random AI images.
+
+COMPOSITION:
+Clear information hierarchy, balanced negative space, aligned panels, consistent character scale, clean grid system, logical visual flow, no overlapping figures, no cropped bodies, no confusing perspective, no unnecessary scenery.
+
+CAMERA / VIEW CONTROL:
+Turnaround views should use consistent orthographic-like framing and neutral perspective. Expression studies should use a consistent head framing. Pose studies may use natural perspective while preserving character proportions.
+LIGHTING:
+Neutral studio illumination designed for design inspection rather than cinematic drama. Soft, even, physically believable light with controlled shadows and accurate material readability.
+
+PHOTOGRAPHIC / RENDER FINISH:
+Ultra-clean high-end visual development presentation, realistic surface detail, natural skin and hair rendering, physically believable materials, sharp but refined detail, professional production-board finish.
+
+OUTPUT QUALITY:
+16K: 15360 × 8640 ≈ 132.7 million pixels, high-resolution professional quality.
+NEGATIVE CONSTRAINTS:
+No character redesign, no identity drift, no inconsistent proportions, no changing face, no changing hairstyle, no costume variations, no missing accessories, no duplicated accessories, no extra limbs, no malformed hands, no distorted anatomy, no random props, no dramatic scenery, no cinematic background, no excessive effects, no clutter, no watermark, no logo, no cropped views.
+```
+
+  </details>
 - **叠穿コーデ 全套可替换 prompt** — 日系叠穿长文配方，单品可拆换。电商穿搭图与小红书 OOTD 直接改货号。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2097937963523145829)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Photorealistic fashion portrait of a single adult woman, vertical 2:3, strongly person-dominant.
+
+POSE AND LEG GEOMETRY:
+Sit lengthwise on a deep storefront bench. Keep the pelvis toward frame-right and extend both lower legs forward along the seat toward frame-lower-left.
+The knees stay close together and bent, but both ankles are placed well forward of the knees instead of tucked underneath them.
+Keep the knees in front of the lap rather than pulled back against the chest.
+Show long descending shin lines: each knee-to-ankle segment slopes approximately 25–35 degrees toward frame-left from image vertical.
+Both feet rest fully on the bench top, with complete sole contact and visible seating surface beneath them. Keep the feet inside the seat perimeter rather than hanging over its front.
+Preserve natural anatomy and the rounded knee bends; do not substitute completely straight legs.
+
+ANATOMICAL LEFT/RIGHT LOCK:
+Keep the anatomical left leg nearer the camera and on frame-right within the pair. Keep the anatomical right leg farther from the camera and on frame-left.
+Both legs remain uncrossed. The left foot sits slightly farther forward, appearing slightly lower in the image.
+Rest the anatomical right elbow on the right knee through a slight forward torso inclination. The right palm supports the right cheek.
+Gently tilt the head toward anatomical right, with a calm direct gaze.
+The anatomical left forearm drapes diagonally across the knees; the left hand rests along the anatomical right shin, fingers directed toward the right ankle.
+Do not mirror, reverse, or exchange these relationships.
+
+CAMERA AND COMPOSITION:
+Full-frame camera with a 45mm rectilinear lens.
+Camera height approximately 1.60 meters and horizontal distance approximately 1.90 meters from the hips.
+Front-left-quarter viewpoint, approximately 35 degrees toward anatomical left from frontal. Photograph across the bench’s outer long side, not straight along the legs.
+Downward pitch approximately 24 degrees; roll 0 degrees; optical axis near the waist.
+Keep the bench running from lower-left foreground to upper-right background.
+Include the full seated figure and both feet at approximately 86–90% of frame height.
+Aperture f/5.6, shutter 1/320 sec, ISO 200. Focus on the eyes, with both lower-leg directions and sole-to-seat contacts clearly readable.
+
+WARDROBE-VISIBILITY NON-OPTIMIZATION:
+Do not modify knee bends, forward leg extension, foot contacts, arm positions, torso orientation, camera azimuth, height, pitch, focal length, crop, or scale to reveal clothing, footwear, accessories, graphics, or hardware. Preserve natural concealment and original detail placement. Do not rotate the feet for display. The setting must fit the pose.
+
+BACKGROUND AND LIGHTING:
+A seaside gelato-shop veranda with a deep wooden or painted bench, pale cream walls, airy coastal trim, a large shop window, and restrained glimpses of blue sky and greenery at the arcade edge. Keep the coastal setting secondary rather than opening into a landscape. Clean coastal daylight and soft sky fill illuminate the face. Background signs are fictional and unreadable.PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.
+
+Wardrobe:
+
+Hair — final selected state: HAIR GEOMETRY AUTHORITY — Every selected axis below replaces the source hair geometry only on that axis; retain source geometry only for axes explicitly set to Preserve.
+TEXTURE CHECKSUM — Straight. Form continuous root-to-tip straight strands with natural body and no wave, curl, or coil pattern. At normal portrait scale, smooth straight strand direction with natural body must remain readable across multiple visible strand groups; one gravity or gathering arc is allowed, but repeating S-waves, ringlets, tight coils, and frizz are not. FRINGE — Keep the exact selected fringe visibly straight with natural body; do not add an S-wave, ringlet, or tight coil pattern to it; apply this to every selected-fringe strand without changing its roots, density, coverage, part, direction, route, or endpoint. MAIN HAIR — apply the same texture consistently to every declared visible hair-bearing cut-excluded section, the complete root-to-anchor scalp lead-in, and the arrangement's final visible tail, bun, twist, or other gathered mass. Texture changes strand path and surface relief only; keep the selected cut silhouette, fringe route, arrangement topology, and endpoints, create no hair merely to display texture, and never texture a shaved or scalp-close skin field. Reject a hybrid result in which only a terminal tail, bun, crest, panel edge, or endpoint carries the selected straight texture while another visible hair-bearing domain remains wavy, curly, coily, or frizzy. GATHERED LAYER CHECK — apply straight strand behavior through every scalp-following route, gathered section, braid, tail, bun, or twist surface; do not release reachable hair merely to display underlying layer endpoints.
+CUT VISUAL TARGET — RELEASED SOURCE REFERENCE FOR FULL ARRANGEMENT — Medium layers: Length — collarbone perimeter; Front — shorter jaw-to-upper-neck layer endpoints; Side — intermediate shoulder-side endpoints; Rear — connected upper-neck-to-collarbone progression; Dominant perimeter weight — lower collarbone length remains visible; Layer topology — connected increasing layers with readable front, side and rear endpoints.
+FULL ARRANGEMENT CUT VISIBILITY — The released cut geometry is not a competing final hairstyle. Hide every released endpoint belonging to arrangement-assigned hair inside the final gathered structure. Keep the exact selected fringe, selected face framing, every cut-specific arrangement-excluded zone, and every scalp-close or shaved field visible exactly as declared; never hide those retained zones merely because the arrangement mode is full.
+ARRANGEMENT VISUAL TARGET — Mid ponytail: Final worn silhouette — exactly one full-volume tail emerging from one middle-occipital center-back anchor; Underlying cut priority — CUT VISUAL TARGET and Cut describe only the source strand lengths and layer topology when fully released before styling; this full arrangement controls the final visible silhouette, so no arrangement-assigned released endpoint may remain visible merely to display the cut, length, or texture; Arrangement mass priority — include every physically reachable arrangement-assigned strand in the declared structure; no reachable assigned hair may remain as an undeclared parallel loose mass; Loose-hair boundary — outside the final gathered structure permit only the exact selected fringe, the exact selected face-framing sections, only structural zones explicitly excluded by the cut-specific arrangement scope, only selected-cut layers genuinely unable to reach their required anchor or local braid pickup; Every exception must stay inside its declared rooted cut zone and must not recreate a duplicate loose version of arrangement-assigned hair, a parallel long curtain, or an undeclared second mass; Reject — a high top-knot, low nape anchor, second tail, loose underlayer, parallel rear curtain, or detached tail; Straight texture — permitted loose exceptions and gathered lead-ins remain straight, with no S-wave, curl, or rippled loose sheet.
+Front sections: Fringe — Form a sparse airy fringe from fine separated strands across the forehead, keeping the eyebrows readable and avoiding one solid blunt edge. Keep all wispy strands on the forehead; none becomes a separate face-framing tendril. Face framing — Release exactly one narrow continuous section rooted at each temple and curve it beside the corresponding temple or cheek, ending no lower than the jaw within the selected haircut's available length; create no additional wisps. Keep every face-framing section outside the hair assigned to the Mid ponytail and independently rooted from its main routed structure. Root ownership — The fringe uses only the frontal hairline zone; selected face-framing uses one separate narrow temple-rooted band; all other roots remain in the main cut.
+Preserve the natural hairline and exact source hair colors, including roots, highlights, lowlights, accents, and gradients; preserve all unselected hair attributes.
+Cut: RELEASED SOURCE REFERENCE FOR FULL ARRANGEMENT — When released, form connected collarbone-length medium layers. Keep the longest lower perimeter at both collarbones; let shorter crown and upper-side layers end around the jaw and upper neck, then pass through intermediate shoulder-side and rear tips in one readable cascade into the collarbone edge. Preserve balanced crown lift, visible jaw-to-upper-neck and shoulder transitions, and a softly weighted collarbone perimeter in the front, sides, and rear. Do not flatten the cut into a one-length lob or turn it into a choppy shag, wolf cut, or pointed nape. Keep one naturally rooted haircut with no retained longer source underlayer, extension, wig edge, or duplicate hair mass.
+Arrangement: Arrangement-assigned hair excludes the exact selected fringe and selected face-framing sections. For this varied-length cut, assign every arrangement-assigned strand within the geometry-declared source that can reach its corresponding declared hairstyle anchor from its own root; evaluate reachability to that anchor, not against the complete route or the final tail, braid, bun, or twist length. Keep only strands genuinely too short to reach their corresponding anchor at their selected rooted zones, without extending or reclassifying them; those exceptions must not recreate a duplicate loose version of arrangement-assigned hair, a parallel long curtain, or an undeclared second mass. Use all arrangement-assigned hair; draw both sides symmetrically backward along the scalp toward the middle occipital area. At the hairstyle anchor, use one center-back anchor halfway between the nape hairline and crown apex; let exactly one tail emerge continuously from that base. leave no other free side or back section; create no high top-knot, low nape anchor, second tail, loose underlayer, or detached tail. The route, anchor, result, free-section, and integrity clauses apply only to arrangement-assigned hair; keep every cut-excluded structural zone in the final haircut state declared above.
+Measure the selected length on fully extended strands only to calculate underlying source mass and route reachability before gathering; do not compensate for wave, curl, or coil shrinkage when calculating that source mass; the full arrangement, not the released endpoints, controls the final visible silhouette.
+Apply the selected texture within the declared arrangement; do not release gathered hair merely to display length or texture.
+
+Outerwear / layers:
+
+A relaxed hip-length black varsity jacket with a dense matte wool-blend body, dropped shoulders and full black leather sleeves with a supple, softly grained sheen. A low black rib-knit stand collar, ribbed cuffs and a broad ribbed waistband frame the boxy shape. Silver-tone snaps close the front, with a closely spaced lower pair at the waistband, and diagonal welt pockets sit at both sides. Small white cursive embroidery reading "Don" sits on the wearer's right chest. The left chest carries a compact white composition reading "THE" above "Rally" in flowing slanted script; the terminal stroke sweeps into a white underline ribbon containing black serif capitals reading "SPORTS CAFE", with a split pointed tail at the ribbon's left end. The same composition appears much larger across the upper back, surrounded by generous black space. Smooth black satin lining completes the interior.
+
+Final worn state:
+- Layering: Final state: keep this garment the complete outer layer over the second selected Top item; open only its original center-front fastening run within existing endpoints. Preserve source neckline, collar, front/rear panels, selected shoulder, sleeve, and body positions, plus fastening inventory, receiver mapping, order, spacing, endpoints, and placket length; add, remove, move, or extend nothing. FINAL FASTENING STATE: change only the source-registered primary closure mechanism inside its exact original endpoints. Preserve that mechanism, all original parts, its source length, and the garment construction beyond both endpoints; do not reinterpret a seam, fold, rib, placket, or panel edge as an extension, and add, duplicate, remove, or relocate nothing. Only layer order, contact, occlusion, and optical transmission change. Every visible garment boundary follows the outer item's source geometry or separately selected fold-return line; inner contours remain optically behind it. Keep panel contact shallow. Relaxed handling within this same operation: Use light stable contact and broader material-correct ease without changing the selected layer order.
+
+Top:
+
+An oversized long crew-neck pullover in thick, loosely knitted mohair-blend yarn with a soft shaggy halo and visible stockinette stitches. The straight relaxed body reaches the upper thighs, with dropped shoulders and roomy long sleeves. Ten broad horizontal bands alternate dark chocolate brown and ivory across the torso in approximately equal widths, starting with a brown band interrupted by the neckline and ending with ivory at the hem. The same stripe scale continues around the back and along the sleeves, with softly feathered color boundaries. A brown ribbed crew neck, ivory ribbed cuffs and a broad ivory ribbed hem finish the knit.
+
+A relaxed long light-blue cotton-poplin shirt with a crisp pointed collar on a narrow stand and a full front placket of small pale buttons. The lightly structured woven fabric forms a roomy straight body, long sleeves with buttoned cuffs and a simple back yoke. Rounded shirttails reach the upper thighs, rising at the side seams, with the two front tails separating below the final button. The fabric is plain and smooth throughout.
+
+Final worn state:
+For the second item description above only:
+- Front closure: Final state: within the original center-front fastening run, disconnect only its upper approximately one-third; keep every original below connected in place. Preserve the source count, type, order, spacing, endpoints, and placket length; never extend the run toward the hem or add, duplicate, remove, or relocate any fastening or receiver FINAL FASTENING STATE: every selected closed position is physically connected to its matching receiver; every selected open position is visibly disconnected, and panel overlap does not imitate a fastening. Preserve the source-defined fastening count, type, spacing, endpoints, and placket length; do not extend the fastening run or add, duplicate, remove, or relocate any fastening or receiver. Change only the selected registered state and leave every unselected component and connection unchanged.
+- Layering: Final state: place this garment underneath the first selected Top item across the upper body. the first selected Top item remains the outer garment and retains and owns its exact source neckline aperture and edge, armholes, panel connectivity, closure state, straps, sleeves, and selected final hem or fold-return line. This inner garment contributes appearance only through the outer material's existing optical apertures; no inner contour becomes an outer boundary. Only layer order, contact, occlusion, and optical transmission change. Every visible garment boundary follows the outer item's source geometry or separately selected fold-return line; inner contours remain optically behind it. Keep panel contact shallow. Natural handling within this same operation: Use soft stable contact with limited material-correct ease.
+
+Bottom: Low-rise, close-fitting black hot pants in glossy stretch faux leather, with a smooth contoured waistband, shaped front and back panels, a fitted crotch and very short legs. Narrow stitched hems curve upward at the outer hips and beneath the seat, while subtle seam lines shape the opaque body. A concealed side zipper closes the waistband, keeping the exterior clean and unembellished.
+
+Footwear: A pair of black lace-up platform sock boots with close-fitting rib-knit shafts rising above the ankles and broad ribbed cuffs. The knit continues down the sides and across the vamp beneath smooth black leather-look toe surrounds, heel counters and curved lace facings. Round black laces cross through small loops over knitted tongues, and rear pull tabs assist entry. Rounded closed toes sit above extremely thick black molded soles with sweeping wave-like ridges, angular projecting side blocks, a recessed arch and deep segmented tread. Stretch collars, adjustable lacing and cushioned insoles complete the boots.
+
+Necklace: A silver-tone necklace made from medium-sized rounded oval cable links with open centers and softly polished edges. The links alternate in angle to form a supple, moderately substantial chain that falls in a shallow U at the upper chest. A small rear lobster clasp and short matching extension complete the necklace, with no pendant.
+
+Earrings: A pair of large silver-tone hoop earrings made from slender smooth round wire. The polished circular hoops have open centers and a light, undecorated profile, with small hinged posts closing discreetly at the earlobes.
+```
+
+  </details>
 - **Flare/Sunburst × Seedance：UGC 广告流水线** — 静图出片再进短视频。一人团队做 UGC 投放素材的「图→片」衔接可抄。 [@tanabe_fragm](https://x.com/tanabe_fragm) · [原帖](https://x.com/tanabe_fragm/status/2097935536224866583)
 - **同 prompt 炼狱角色一致性演示** — 同一套 prompt 换 Rengoku，成品干净，prompt 贴在下面。角色锁 / 二次元营销素材可抄。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2097900600105308347)
 - **古代美人 8 步互动捏人 prompt** — 朝代→身材→气质→发式→服饰→妆容→场景→神态，少解释多状态保存。小红书/社群引流模板味很足。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2097897602356306361)
@@ -673,6 +1426,163 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
   </details>
 - **candid 写真分层 prompt（Higgsfield）** — 拆「真实夏日随拍」结构：关键不是堆细节，是分层对。适合 UGC / 社媒广告。 [@GrowWithDani](https://x.com/GrowWithDani) · [原帖](https://x.com/GrowWithDani/status/2097882770899091928)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a highly photorealistic candid lifestyle photograph of a young woman ordering something from a neighborhood ice cream truck on a bright sunny day.
+
+OUTFIT REFERENCE:
+Use the attached reference image as the authoritative wardrobe reference.
+
+Accurately recreate the outfit shown in the attached reference image:
+
+- loose mint/aqua and white horizontally striped short-sleeve top
+- wide asymmetrical neckline
+- relaxed off-the-shoulder fit exposing one shoulder
+- soft lightweight casual fabric
+- loose draping around the torso
+- white wide-leg pants
+- relaxed low-to-mid-rise fit
+- clean white fabric with realistic folds and construction
+
+For this half-body composition, show enough of the white pants around the waist and hips so the outfit combination is immediately recognizable.
+
+IMPORTANT:
+Use the attached image ONLY as a wardrobe reference.
+
+Do NOT copy:
+- the reference model's face
+- identity
+- skin tone
+- hairstyle
+- body identity
+- pose
+- handbag
+- sneakers
+- studio environment
+
+SUBJECT:
+A young woman with warm lightly tanned skin and dark brown hair styled in a neat high bun.
+
+Natural facial features.
+Subtle everyday makeup.
+Large thin gold hoop earrings.
+Natural realistic skin texture.
+
+POSE AND ACTION:
+She stands beside the open service window of a white neighborhood ice cream truck.
+
+Her body is shown in a natural three-quarter side profile.
+
+She leans slightly toward the service window.
+
+One arm reaches upward and forward toward the open window as she receives or hands over cash.
+
+Her other hand is held naturally around waist level.
+
+Her head is turned slightly toward the service window.
+
+The action should feel spontaneous and believable, as if someone casually photographed her while she was buying ice cream.
+
+COMPOSITION:
+Vertical HALF-BODY environmental photograph.
+
+Frame approximately from the top of her head to the upper thighs.
+
+The woman occupies the right-center portion of the frame.
+
+The ice cream truck fills much of the left side and background.
+
+The open service window should be clearly visible next to her.
+
+Include enough of the environment to immediately communicate that she is ordering from an ice cream truck.
+
+The mint-striped top and the waist/upper portion of the white pants must both be clearly visible.
+
+Do NOT turn this into a close-up portrait.
+
+CAMERA:
+Casual handheld smartphone photograph.
+Camera positioned slightly behind and to the side of the woman.
+Natural three-quarter profile.
+Approximately eye-level viewpoint.
+Moderately wide smartphone perspective.
+Realistic perspective distortion.
+Deep enough focus for both the woman and nearby truck details to remain recognizable.
+
+ENVIRONMENT:
+White neighborhood ice cream truck parked along a sunny residential street.
+
+Include:
+- white truck exterior
+- open sliding service window
+- colorful illustrated frozen-treat menu panel
+- shelves of brightly colored packaged snacks visible through the window
+- small payment/service area
+- asphalt pavement
+- curb
+- hints of parked vehicles and green trees farther behind
+
+The truck should feel authentic, slightly worn and actively used.
+
+Avoid prominent readable brand names or perfectly generated menu text.
+Menu graphics may contain small indistinct decorative lettering and colorful ice-cream illustrations.
+
+LIGHTING:
+Strong natural midday sunlight.
+
+Bright direct sun striking the woman and truck.
+Crisp realistic shadows.
+Strong highlights on exposed skin.
+Natural sunlit hair highlights.
+Bright white truck surfaces.
+High contrast between direct sunlight and shaded areas around the service window.
+
+No studio lighting.
+No artificial rim light.
+
+PHOTOGRAPHIC CHARACTER:
+Authentic candid summer social-media photograph.
+
+Highly photorealistic but NOT overly polished.
+
+Natural skin texture.
+Fine hair strands.
+Realistic cotton fabric.
+Accurate horizontal stripe deformation around folds.
+Natural wrinkles in the white pants.
+Realistic sunlight.
+Slight smartphone sharpening.
+Subtle sensor texture.
+Minor exposure imperfections.
+Natural dynamic range.
+
+The result should feel like a spontaneous personal photo taken by a friend, NOT a fashion campaign or e-commerce image.
+
+CONSTRAINTS:
+The attached reference image controls ONLY the wardrobe.
+Do not reproduce the reference model.
+No handbag.
+No studio background.
+No catalog pose.
+No full-body framing.
+No excessive skin smoothing.
+No plastic skin.
+No exaggerated anatomy.
+No distorted hands.
+No extra fingers.
+No duplicated limbs.
+No CGI appearance.
+No artificial bokeh.
+No excessive HDR.
+No prominent readable logos or generated text.
+
+OUTPUT:
+Vertical half-body photorealistic candid lifestyle photograph, framed from head to upper thighs, showing a brunette woman ordering from a white ice cream truck while accurately wearing the outfit from the attached wardrobe reference image.
+```
+
+  </details>
 - **网球写真完整中文 prompt** — 动作姿态写实到能当 UGC 素材库，9:16 竖版可抄。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097878838063903217)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -853,11 +1763,13 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 ```
 
   </details>
+- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [完整 playbook](docs/playbooks/virtual-ip-assets.md)
 
 ## 电商改图
 
 商品图、局部编辑、包装与货架感。
 
+- **传单只改价格：线稿 22 秒出片 + 8 作例** — 日系营销血泪：别为改个价重做整张图。2.5 局部改价 + 手绘 rough 22 秒变传单，附 8 作例与可粘贴 prompt。 [@Charlie_no_site](https://x.com/Charlie_no_site) · [原帖](https://x.com/Charlie_no_site/status/2098155424440893702)
 - **「ここだけ直す」局部改图指示集** — 日文保存版精准改图话术合集，比再发一篇 Flare/Sunburst 科普有用。电商/海报改细节直接抄指令。 [@noel_ai_lab](https://x.com/noel_ai_lab) · [原帖](https://x.com/noel_ai_lab/status/2098031783849648284)
 - **Sunburst API 换光锁脸 / 产品** — 意文实务：换光照仍锁脸与产品主体。广告补光/棚拍替代很实用。 [@alepom](https://x.com/alepom) · [原帖](https://x.com/alepom/status/2097928991407546852)
 - **密封盒 UGC → Omni 拆箱视频链路** — Image 2.5 做密封盒静帧 → Gemini Omni 推 10 秒拆箱，纸张/折痕/重量写进 prompt。电商假 UGC 配方。 [@ItsNazar17](https://x.com/ItsNazar17) · [原帖](https://x.com/ItsNazar17/status/2097914967295172794)
@@ -1009,8 +1921,67 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
   </details>
 - **手机实拍 + 七轮改房仍一致** — 室内场景多轮编辑，家具与透视不崩。 [@exploraX_](https://x.com/exploraX_) · [原帖](https://x.com/exploraX_/status/2097637713784476152)
 - **模块化美食病毒图** — 可拼装的食品视觉模板，适合短视频封面。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2097620275940737326)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+GPT Image 2.5. A modular prompt for food shots. It's not my favorite structure but fun experiment. 
+
+2x2 grid, 16:9, do this for 4 clever viral subjects: INPUT ::= PERSONA_SEED + CUISINE_LANE + FRAME_TYPE    TASTE_1 :: read the cuisine  - what the cooking does to the room: wok steam, flour dust, smoke curl, citrus mist  - the hero texture of this lane: pull, crackle, drip, char, lamination  - honest kitchen evidence: sauce-splashed stove, stained apron, knife mid-board  - hands tell the résumé: small burn scars, practiced grip, flour in the nail beds    TASTE_2 :: read the frame type  - POV hands = 35mm overhead-diagonal, persona's hands + forearms only, dish 60% of frame  - portrait-with-dish = 50mm, persona mid-laugh or mid-taste, dish lifted into shared focus  - tablescape = 24mm slightly high, persona reaching in from the edge, abundance sprawl    APPETITE :: physics of delicious  - steam needs backlight to exist — place the window or lamp behind the food  - glisten on fats, matte on breads, condensation on cold glass  - controlled mess: a torn edge, a drip caught mid-run; sterile plates kill hunger  - persona's reaction is the seasoning: eyes on the food, never on the camera    STAGE :: warm frame  - 4:5, shallow depth (f/2.2), warm-neutral grade, no orange oversaturation  - kitchen or table is mid-use, not styled dead  - the unforgettable feature survives the crop even in the POV hands variant    BAR :: the viewer's mouth reacts before their brain does, and the hands could plausibly have cooked this for ten years
+```
+
+  </details>
 - **10 条 Control / Astra 向 Prompt** — 控制向提示合集，控构图、控风格。 [@vinsonleow](https://x.com/vinsonleow) · [原帖](https://x.com/vinsonleow/status/2097592608583471184)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+The biggest change with ChatGPT Images 2.5 isn’t quality.
+It’s control.
+
+10 Images 2.5 × Astra prompts that change how you generate graphics (full prompts included) ↓
+
+1. The multi-reference merge.
+“Image 1 = identity. Image 2 = clothing. Image 3 = environment. Image 4 = composition. Use each only for its assigned role. Combine into one coherent photorealistic scene.”
+
+2. Lock the master.
+“This image is the approved master. Treat every visible attribute as locked unless I explicitly name it. For future edits, change only the requested variable and preserve everything else.”
+
+3. Surgical edit.
+“Change ONLY [ELEMENT/REGION]. Match existing anatomy, materials, lighting, and perspective. Do not modify anything else.”
+
+4. Product → full campaign.
+“Treat image 1 as the immutable product reference. Preserve exact geometry, materials, colors, and branding. Place it in [SCENE]. Change only environment, lighting, and camera.”
+
+5. Controlled A/B testing.
+“Create [N] variants of this creative. Preserve product, composition, typography, and lighting. Change ONLY [VARIABLE]. Everything else stays locked.”
+
+6. Reformat without cropping.
+“Recompose this exact image for [ASPECT RATIO]. Do not simply crop it. Preserve the subject and visual hierarchy while intelligently extending and rearranging the scene.”
+
+7. UI → campaign asset.
+“Treat the uploaded UI as locked artwork. Do not redesign it. Place it accurately inside a premium [DEVICE/CAMPAIGN] scene with realistic lighting, reflections, and negative space.”
+
+8. Artwork → merch.
+“Treat image 1 as the exact artwork. Preserve composition and colors. Apply it realistically to [PRODUCT], following folds, texture, and print behavior. Do not redesign it.”
+
+9. Storyboard continuity.
+“Treat this image as the canonical character, wardrobe, and location. Generate the next shot: [SHOT]. Change only camera, framing, and pose. Preserve everything else.”
+
+10. E-commerce cleanup.
+“Preserve the product exactly. Remove the environment and isolate it on [BACKGROUND/TRANSPARENT]. Repair only edge details for a clean catalog image. Do not alter color, branding, or proportions.”
+```
+
+  </details>
 - **3D RPG 打光模板** — 游戏感灯光与材质描述，可抄进资产管线。 [@underwoodxie96](https://x.com/underwoodxie96) · [原帖](https://x.com/underwoodxie96/status/2097587863139537262)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective.  On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen.  The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.
+```
+
+  </details>
 - **Pinterest → 细颗粒 Prompt 配方** — 从灵感图反推可控描述，营销素材生产线。 [@Acemation_](https://x.com/Acemation_) · [原帖](https://x.com/Acemation_/status/2097586179835400667)
 - **Leaf Dancer 纸艺叶裙 9:16** — 植物纸艺舞女竖版，完整一句 prompt。 [@unrealpixels](https://x.com/unrealpixels) · [原帖](https://x.com/unrealpixels/status/2097564822984626347)
   <details>
@@ -1030,8 +2001,8 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 - **任意梗图 → 5×5 像素精灵表 prompt** — 把 meme / 角色图压成 5×5 sprite sheet，prompt 可抄。表情包/游戏素材量产另一条路。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2098049016596729942)
 - **开源翻页动画：手绘起始帧 → 连贯序列** — OSS flipbook：起始帧进 GPT-image 2.5 出序列，原画忠度比别家稳。附可玩 demo + 流程拆解。 [@hot_town](https://x.com/hot_town) · [原帖](https://x.com/hot_town/status/2098038563094806955)
-- **手绘草稿直接出 GIF（中文 prompt）** — Sketch 草稿 → GPT Image 2.5 → 动图，中文提示词齐活。营销 demo / 教程最省事的一条。 [@xiaohua_888](https://x.com/xiaohua_888) · [原帖](https://x.com/xiaohua_888/status/2098005078422835608)
 - **16-bit 犯罪短片：Flare + MiniMax 流水线** — Flare 出图 + MiniMax H3 Max 出片 + CapCut：像素风不当游戏贴图，硬做电影叙事。一人团队内容形态参考。 [@Danzeronero](https://x.com/Danzeronero) · [原帖](https://x.com/Danzeronero/status/2098014623803052533)
+- **手绘草稿直接出 GIF（中文 prompt）** — Sketch 草稿 → GPT Image 2.5 → 动图，中文提示词齐活。营销 demo / 教程最省事的一条。 [@xiaohua_888](https://x.com/xiaohua_888) · [原帖](https://x.com/xiaohua_888/status/2098005078422835608)
 - **单图 → 16 姿势 → Seedance 舞蹈片** — Image 2.5 出 16 pose，再丢 Seedance 做成舞蹈序列，prompt 在帖里。角色 UGC / 短视频素材流水线可直接抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2097958941070430477)
 - **96 帧鹈鹕骑车定格动画** — Images 2.5 逐帧生 96 张拼成 8 秒定格。不靠视频模型也能出片，短视频选题很香。 [@yunxi0623](https://x.com/yunxi0623) · [原帖](https://x.com/yunxi0623/status/2097926023069519960)
 - **角色 → 4×4 战斗精灵表 → GIF** — Seedream 出人设，Image 2.5 压透明 4×4 精灵表，再拆帧成 GIF。游戏素材/小红书动图流水线可抄。 [@AI_VideoLab](https://x.com/AI_VideoLab) · [原帖](https://x.com/AI_VideoLab/status/2097924471655162025)
