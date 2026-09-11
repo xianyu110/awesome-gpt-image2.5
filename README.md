@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 191 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 195 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Flare 量产下稿 → Sunburst 精修** — 速度用 Flare 堆构图，好看的再丢 Sunburst。省钱省时间的分工，别全压贵档。 [@aichan1224news](https://x.com/aichan1224news) · [原帖](https://x.com/aichan1224news/status/2098287192628240410)
 
 - **同图三连：Image 2 / Sunburst / Grok** — gpt-image-2 vs 2.5-Sunburst vs Grok Imagine 2.0 并排。跨厂选型甩图就行，别再嘴炮「感觉更好」。 [@zhang_baoqing](https://x.com/zhang_baoqing) · [原帖](https://x.com/zhang_baoqing/status/2098270719994179587)
 
@@ -542,6 +544,33 @@ dynamic depth and layering
 luxury action-campaign aesthetic
 
 Make it visually striking, energetic, and poster-worthy, with the central figure dominant and the surrounding poses supporting the composition. Vertical 2:3 ratio, ultra-detailed, cinematic, high resolution.
+```
+
+  </details>
+
+- **旅行手账 [LOCATION]：黏土微缩 + 折纸旅人** — 螺旋本俯拍 + 手作黏土微缩世界，换地名就能量产 IG 竖图。内容营销可复用模板，附完整 prompt。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2098269046022238289)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium, Instagram-worthy handcrafted travel-journal scene representing [LOCATION].
+
+Show an open cream-colored spiral notebook resting on a warm rustic wooden desk, photographed from a slightly elevated top-down angle in soft, cinematic golden-hour light.
+
+Turn the destination into a charming mixed-media miniature world. Build the architecture, landscape, plants, water, and cultural details from realistic, tactile hand-sculpted clay, with subtle handmade imperfections and fine textures. Add a small origami traveler, unmistakably folded from textured paper with visible creases and elegant, simple shapes, naturally exploring the miniature environment.
+
+Make one iconic landmark or visual symbol of [LOCATION] the clear hero, supported by a few authentic local elements such as architecture, terrain, vegetation, transportation, or cultural details. Avoid generic tourist objects. Dress the origami traveler in a tasteful outfit subtly inspired by the destination without relying on stereotypes.
+
+Use a sophisticated color palette inspired by [LOCATION], with detailed clay textures, realistic paper folds, miniature craftsmanship, soft shadows, atmospheric depth, and warm cinematic illumination. Make the miniature world feel physically integrated into the notebook page—not like a pasted photograph.
+
+Surround the artwork with subtle handwritten travel-journal notes, tiny doodles, arrows, stamps, and location-inspired sketches, keeping them secondary to the main scene.
+
+Composition: strong focal point, clear visual hierarchy, generous negative space, immersive depth, premium editorial photography, highly detailed handcrafted textures, whimsical yet sophisticated, emotionally evocative, visually distinctive, and highly shareable.
+
+Avoid: photorealistic people, clutter, excessive text, generic landmarks, flat digital illustration, plastic-looking materials, oversaturated colors, distorted architecture, and unnecessary decorations.
+
+Overall feel: a beautifully crafted tiny world inside a traveler's notebook—artistic, tactile, authentic, sophisticated, and unmistakably connected to [LOCATION], rather than a conventional travel photograph.
+STRICT FORMAT: Vertical 4:5 aspect ratio only - do not generate square, landscape, or any other aspect ratio.
 ```
 
   </details>
@@ -1281,6 +1310,62 @@ Setting: warm vintage Indian bedroom/living room with dark wood furniture, glowi
 Warm tungsten lighting, golden-brown shadows, subtle hair rim light. Authentic 35mm film look, 50mm lens, shallow depth of field, soft contrast, faded blacks, natural skin tones, fine film grain, dust, scratches, halation, slight vignette and aged-film imperfections.
 Photorealistic, sophisticated, nostalgic, intimate and editorial. Preserve the reference pose, camera angle, environment and overall composition. No modern objects, smartphones, logos, watermark, CGI, plastic skin, distorted anatomy, extra fingers, excessive HDR or oversaturated colors.
 3:4 vertical Instagram portrait, high resolution, one person only.
+```
+
+  </details>
+
+- **纽约地铁 UGC：折叠屏手写金句生活照** — 乱发、复古圆镜、耳机电车 candid；屏上金句可换。一人团队做「真实感」广告图直接改场景复用。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2098252670385676491)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway.
+
+She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style glasses, and white wired earphones. She is wearing an oversized charcoal-brown coat over a cozy cream knit sweater and relaxed light-wash wide-leg jeans. Her posture is relaxed and natural, with her legs comfortably stretched forward.
+
+She is quietly looking down at an open foldable smartphone in her hands, while holding an iced matcha latte in the other hand. The phone should look premium and realistic, with a clean minimal design.
+
+IMPORTANT — PHONE SCREEN: Replace the original book/quote completely. On the inner screen of the foldable phone, display the elegant handwritten-style quote:
+
+“romanticize your ordinary days ♡”
+
+Make the text clearly visible, beautifully typeset, and naturally integrated into the phone screen.
+
+Set the scene inside a realistic stainless-steel NYC subway carriage, with blue seats, metal panels, subway window reflections, vertical poles, and softly blurred passengers in the background. Include a subtle subway route/sign panel in the background for authentic NYC atmosphere.
+
+The iced matcha cup should have a small minimalist café-style label reading:
+
+“little joys”
+
+Photography & Mood
+
+* candid street-photography aesthetic
+* cozy, introspective, effortless mood
+* muted earthy tones
+* soft natural fluorescent subway lighting
+* realistic skin texture
+* subtle film grain
+* gentle shadows
+* slightly desaturated editorial color grading
+* shallow depth of field
+* authentic reflections and imperfections
+* premium fashion-editorial photography
+* not overly posed
+* not glamorous or studio-like
+* photorealistic, believable everyday moment
+
+Composition: vertical 4:5, medium-full body framing, woman centered slightly toward the left, phone and matcha clearly visible, subway environment surrounding her, natural perspective, highly detailed.
+```
+
+  </details>
+
+- **漫画气泡表情：心声盖住对方台词** — 方气泡盖住对方台词、咬住气泡的凶妹等叙事梗；画幅 4:5 写死。玩信息差比纯美图更有用。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2098251497385721990)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。
+アスペクト比は縦長（4:5）で描画
 ```
 
   </details>
