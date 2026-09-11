@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 228 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 242 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,6 +237,45 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **同题修车：Flare vs Sunburst 谁更「真」** — 同一 brief（修自行车师傅）、同设置零修图双轨对照。快速建立选模直觉，别靠玄学。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2098397131363025030)
+
+- **UGC 自然皮肤翻车：2.5 在这场景偏 mid** — 三天实测「刚掏出手机自拍」：塑皮、AI 对称脸、窗光仍像棚拍。反信号也值钱——做假 UGC 前先对症，别默认 2.5。 [@ItsNazar17](https://x.com/ItsNazar17) · [原帖](https://x.com/ItsNazar17/status/2098396894082843074)
+
+- **水面完美倒影：2.5 / 2 / Banana / Reve 同题烤炉** — 同一套反射几何约束（平面 Π、手性翻转、水线自重合）压四模。别听口号，直接看谁物理过关；附可复制压测 prompt。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2098389596664963278)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+GPT Image 2.5 vs. GPT Image 2 vs. Nano Banana Pro vs. Reve. Same prompt.
+
+2x2 grid,1:1 AI picks stunning different subjects: Π = reflecting plane: point q, unit normal m
+R(x) = x − 2((x−q)·m) m (reflection across Π)
+reflected image = scene imaged by the VIRTUAL camera R(C) ; every real feature f has twin R(f)
+
+RENDERED
+• reflection is a BIJECTION of the scene across Π ; occlusion order reverses
+• points on Π are fixed → the waterline is self-coincident
+• chirality FLIPS — text and hands are mirror-reversed
+• a vertical object inverts about the waterline ; base-of-object meets base-of-reflection exactly on Π
+• perspective in the reflection is that of R(C): the same vanishing points, mapped
+
+READ OFF
+• k real↔reflected correspondences: each pair's perpendicular-bisector plane must be the SAME Π
+• reflected height / compression is lawful with view angle, not free
+• everything in front of Π that R(C) can see appears — and nothing else
+
+CONSISTENCY
+recover (m̂, q̂) from correspondence pairs — must coincide ; check handedness of every reflected glyph
+FORBIDDEN : a reflection containing an object with NO real pre-image (or dropping one plainly in front) ;
+signage readable forward in the glass ;
+reflected pose / expression differing from the subject ;
+a floating reflection whose base does not meet the object on Π.
+```
+
+  </details>
+
+- **反复改图：2 vs 2.5 谁更扛一致性** — 同人同姿势连改衣服/发/背景，盯金属材质与细节谁更稳。UGC 换装、产品改色先看这个对照。 [@eachlabs](https://x.com/eachlabs) · [原帖](https://x.com/eachlabs/status/2098388258715533574)
+
 - **一句话提分辨率：1152×2048 贴图重渲** — 旧图贴进 Images 2.5，写目标像素就够。4:3 / 9:16 / 16:9 比例另说——高清化不必玄学。 [@oreno_musume](https://x.com/oreno_musume) · [原帖](https://x.com/oreno_musume/status/2098335755496042610)
 
 - **50 条开源 prompt 图谱：短句 + 工程长稿** — 371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。 [@Callirra](https://x.com/Callirra) · [原帖](https://x.com/Callirra/status/2098331457232265323) · [repo](https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas)
@@ -425,6 +464,10 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **Sketch 上手实测：视频直接秀控形** — ChatGPT Images 2.5 Sketch 试玩成片视频，比纯截图更直观。给客户/团队 demo「控形能干啥」用这条。 [@Elizaveta_ai](https://x.com/Elizaveta_ai) · [原帖](https://x.com/Elizaveta_ai/status/2098401123623199128)
+
+- **Sketch 真能当蓝图：涂鸦→厚涂奇幻生物** — 极简涂鸦一摆，厚涂奇幻生物成片路径一目了然。一人团队做角色概念，这套最省话。 [@RockyXu3000](https://x.com/RockyXu3000) · [原帖](https://x.com/RockyXu3000/status/2098391683855708543)
+
 - **实写分镜→漫画风 13 页：只换画风保构图** — GPT-Image 2.5 把 13 页实写改成漫画，角色设计对齐、分镜构图不漂。连载改画风别重画，这才是控形红利。 [@sharil12121](https://x.com/sharil12121) · [原帖](https://x.com/sharil12121/status/2098381006059552881)
 
 - **手机 Sketch：打 @ 就能手绘下稿** — Images 2.5 Sketch 在手机上 @ 上手绘草图直接生成。通勤也能控形，别再说移动端只能文字玄学。 [@ai_sns_kaz](https://x.com/ai_sns_kaz) · [原帖](https://x.com/ai_sns_kaz/status/2098345839236468861)
@@ -513,6 +556,73 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **Zara / H&M / Mango / Tommy 四套时尚 campaign 系统** — 同一 Images 2.5 底座，四品牌各一套视觉系统（色板、字体、构图语言分开）。SMM 海报工厂模板；评论区有完整 H&M「NEW UNIFORM」长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098411659002012050)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+PROMPT — H&M "NEW UNIFORM"
+FORMAT Ultra-Premium H&M Fashion SMM Promotional Poster Vertical 4:5 Instagram Hero Creative Global Fashion Retail Campaign Contemporary Fashion Advertising Commercial Fashion Graphic Design Agency-Level Art Direction Behance Front Page Quality 8K UHD Hyper-Realistic Fashion × Graphic Design × Street Culture Fusion High-Impact Visual Communication Zero AI Soft Zero Generic Fast-Fashion Advertising Zero Catalogue Aesthetic Zero Luxury-Copycat Aesthetic
+
+CORE STRATEGY This is not simply a clothing advertisement. This is H&M turned into a visual statement. The campaign should communicate: fashion moves fast. culture moves faster. H&M should feel: accessible + expressive + contemporary + youthful + global + confident. The visual language should combine: H&M fashion campaign × editorial magazine × street-culture poster × high-fashion graphic design × digital-first social advertising The result should feel unmistakably H&M, not Zara, Mango, COS or a generic luxury fashion brand.
+
+CAMPAIGN IDEA "NEW UNIFORM" Forget traditional uniforms. This is: THE UNIFORM OF NOW. THE UNIFORM CHANGES. YOU DON'T HAVE TO.
+
+MASTER VISUAL Create an enormous typographic structure reading: H&M occupying ~60–70% of the composition — bold compressed graphic energetic slightly disruptive; partially cropped, stacked, layered, intersecting red graphic blocks.
+
+HERO SUBJECT Young female fashion model. Natural skin. Confident. Mid-stride. Oversized black leather-effect bomber, white fitted tank, relaxed wide-leg grey trousers, chunky black footwear, small silver jewelry, structured mini shoulder bag, subtle red accessory.
+
+H&M COLOR SYSTEM PRIMARY H&M RED ~#E50010; BLACK #000000; WHITE #FFFFFF. Ratio ~60% white/light / 20% black / 15% red / 5% photo tones.
+
+Composition hierarchy: H&M → NEW UNIFORM → MODEL → COLLECTION INFO → CTA. Vertical 4:5, 8K UHD, dramatic in-the-moment fashion photography, agency-level art direction. Full brand system prompts for Zara / Mango / Tommy are in the original thread comments.
+```
+
+  </details>
+
+- **剪纸海报四联：一层剪开一个小世界** — CUT TO MOVE / BELOW THE SURFACE / AFTERLIGHT / SPACES BETWEEN——大剪影里叠 6–9 层纸，深处藏叙事。展览/文化海报配方可换槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098408977008676918)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Theme: {fashion / ocean / memory / architecture / other}
+Title: {main title}
+Main silhouette: {dress / whale / planet / arch / other bold shape}
+Inner world: {runway / deep ocean / memory space / courtyard / other scene}
+Color palette: {3–5 restrained colors}
+Editorial tone: {fashion / cultural / artistic / architectural}
+Aspect ratio: 9:16
+
+Create a refined layered paper-cut editorial poster built around one bold, instantly recognizable silhouette.
+
+Let the main silhouette occupy around 60–70% of the composition. Inside it, create 6–9 layers of cut paper that gradually open into a deeper space. Each layer should follow the overall shape while changing naturally in scale, direction, and contour. Avoid perfectly even or mechanical concentric layers.
+
+At the deepest point, reveal a small narrative scene related to the theme, such as a runway, underwater world, observation platform, courtyard, or another meaningful environment. Add one very small human figure when appropriate to create scale and a sense of discovery.
+
+Use matte art-paper textures, clean cut edges, subtle natural paper fibers, and soft shallow shadows between layers. Keep the result visually flat and editorial rather than heavy 3D, foam-board, plastic, or CGI.
+
+Use a restrained palette of 3–5 colors, moving from lighter outer layers to deeper, darker inner layers. Keep colors clean, solid, and consistent rather than using digital gradients or distressed textures.
+
+Leave generous negative space for typography. Use a clear editorial hierarchy with one strong title, a small project or issue name, and only a few supporting details. The typography should feel like an art magazine, exhibition poster, fashion editorial, or cultural publication.
+
+The visual rhythm should be: bold silhouette first, layered depth second, hidden inner world third.
+
+From a distance, the poster should read as one strong shape. Up close, the viewer should discover the layered paper structure and the small world hidden inside.
+```
+
+  </details>
+
+- **日系馆藏风海报：大字+材质+档案一起构图** — 百鬼夜行 / 潮汐之书 / 金继器物 / 花鸟余白——古画海浪器物花鸟进同一视觉系统。系列 KV / 文博宣传可复用题材骨架。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098403133806293161)
+
+- **功能极简帝国壁纸：换文明名批量出系列** — 孔雀王朝 / 笈多 / 朱罗 / 马拉塔同骨架：`Functional Minimalism style wallpaper of the [EMPIRE]…`。历史题材壁纸/屏保工厂直接套。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2098397177437659591)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Functional Minimalism style wallpaper of the [EMPIRE/KINGDOM/CIVILIZATION], featuring [ICONIC ARCHITECTURE/LANDMARK], [CULTURAL OR RELIGIOUS SYMBOL], [MILITARY OR HISTORICAL ELEMENT], and [REGION-SPECIFIC LANDSCAPE], with subtle silhouettes of [PEOPLE/ARMY/SHIPS/ANIMALS], using clean geometric forms, restrained historically accurate details, [PRIMARY COLOR] and [ACCENT COLOR] tones, generous negative space, soft [LIGHTING TYPE] atmospheric lighting, strong visual hierarchy, balanced composition, historically inspired cinematic aesthetic, no modern elements, no text, premium ultra-clean wallpaper, [ASPECT RATIO] aspect ratio
+```
+
+  </details>
 
 - **杂志封面局部编辑：Images 2.5 精度实测** — 封面 / 杂志风图上抠局部改，精度肉眼可见。电商精修与排版迭代，先看它敢不敢动不该动的地方。 [@AIPixLab](https://x.com/AIPixLab) · [原帖](https://x.com/AIPixLab/status/2098379263020077366)
 
@@ -1339,6 +1449,45 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **角色连续夜间手机快照：身份锁 + 直闪抓拍** — 同一角色东京雨后夜街系列：后三四分、直闪过曝、走路半步——专治「写真感太假」。UGC / 旅行人设连更可抄整段 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2098413109258207670)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Ultra-realistic late-night smartphone snapshot, 9:16 vertical.
+
+Use the reference only to establish the same fictional female character's overall appearance and continuity. Keep her recognizable across the series with the same dark-brown wavy hair, natural features, black fitted sleeveless tank top, loose high-waisted light-blue jeans, small gold hoop earrings, delicate necklace, white sneakers, and small black shoulder bag.
+
+Scene:
+A quiet Tokyo side street late at night after light rain. She walks beside an off-white ceramic-tiled building while distant convenience-store lights, traffic signals, parked bicycles and small Japanese storefronts softly disappear into the darkness. Wet pavement catches scattered reflections.
+
+New candid moment:
+Photograph her from a slightly low rear three-quarter angle, about two steps behind her. She has just slowed down and casually turns only her upper body toward the camera while continuing forward. One hand is loosely tucking windblown hair behind her ear while the other hangs naturally beside her bag.
+
+She looks toward the camera from the corner of her eyes with a tiny closed-mouth smile, as though she noticed her friend taking another photo and is trying not to laugh.
+
+No deliberate fashion pose. No exaggerated expression. Her shoulders remain relaxed, hips and legs naturally positioned from walking, with one foot caught halfway through the next step.
+
+Camera:
+Modern smartphone rear camera with direct flash. Photographer walking at the same time, creating subtle accidental camera shake. Slight motion blur around her hair, moving leg and fingertips, while her eyes remain just barely readable. Mild rolling-shutter distortion, imperfect autofocus, slight edge softness and realistic digital noise.
+
+Composition should feel accidental: her body sits slightly off-center, a little too much empty darkness on one side, with part of her shoe approaching the bottom edge of frame.
+
+Flash & exposure:
+Hard direct phone flash illuminates her face, shoulder, black top and denim while the street behind her falls rapidly into darkness. Slightly overexposed skin highlights, hard natural shadow against the tiled wall, shiny flash reflections on individual hair strands and subtle denim texture. Distant lights bloom and smear naturally.
+
+Aesthetic:
+Raw Pinterest night-photo-dump energy. Intimate, youthful, spontaneous and imperfect. It should look like a friend took the photo during a random Tokyo night walk—not a photographer conducting a photoshoot.
+
+Real pores, tiny skin variations, flyaway hairs, natural fabric wrinkles, realistic body proportions and ordinary smartphone processing.
+
+Absolutely no: studio lighting, cinematic teal-orange grading, professional bokeh, fashion-editorial posing, perfect symmetry, airbrushed skin, artificial beauty retouching, HDR look, DSLR sharpness, staged composition, AI-perfect anatomy or polished commercial photography.
+
+The final result should feel like an unexpectedly beautiful photo hidden among 30 messy pictures from the same night.
+```
+
+  </details>
 
 - **角色设定表身份锁：turnaround + 表情全套 prompt** — 参考图一锁到底：正侧背、表情格、材质色板、比例尺。IP / 游戏人设交付文档级提示词，整段可复制。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2098373493662392732)
   <details>
@@ -2610,6 +2759,12 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **2.5 分镜 → Seedance 皮克斯片开源工作流** — 任意想法先出细拆 storyboard，再丢 Seedance 2.5 成皮克斯级镜头序列。叙事广告/短片管线直接抄，原帖附开源 workflow。 [@EHuanglu](https://x.com/EHuanglu) · [原帖](https://x.com/EHuanglu/status/2098411370815643837)
+
+- **爱因斯坦 3D：Images 2.5 → Tripo → Astra 管线** — 静帧出人设 → Tripo 几分钟成模 → GPT-6 Astra High 绑骨动画。概念角色进可动 3D 的最短路径演示。 [@SimonasLTU1](https://x.com/SimonasLTU1) · [原帖](https://x.com/SimonasLTU1/status/2098405779912978525)
+
+- **Flare 把天折起来：超写实天空折叠构图** — 几张「天空折叠」光影尺度很冲。要氛围海报、不想写长 prompt 时，先偷构图再补细节。 [@ZephyraLeigh](https://x.com/ZephyraLeigh) · [原帖](https://x.com/ZephyraLeigh/status/2098381709050097920)
 
 - **Flare 故事板 → PixVerse Canvas 三页漫画** — 同一角色设定表：写实分镜跑视频，再丢进 Flare 出漫画风，PS 加字。一条资产两套交付，内容团队该偷。 [@lukmanfebrianto](https://x.com/lukmanfebrianto) · [原帖](https://x.com/lukmanfebrianto/status/2098381056172847326)
 
