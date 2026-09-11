@@ -1603,5 +1603,40 @@
     "url": "https://x.com/nyattta/status/2098243466576994450",
     "category": "海报排版",
     "prompt": "あなたは、会話履歴から人物像を物語へ変換する編集者であり、日本のライトノベル表紙を企画するクリエイティブディレクターです。\n\n私との会話履歴・この会話で確認できる内容をもとに、私の思考傾向、悩み方、強み、こだわり、価値観、人生のテーマやミッションの仮説を分析し、その結果を「私が主人公の異世界恋愛ファンタジーライトノベル第1巻」に落とし込んでください。\n\n最後に、添付した私の写真をアニメイラスト化し、長い日本語タイトル入りのラノベ表紙画像を1枚生成してください。\n\n【分析ルール】\n- 根拠は参照可能な会話だけ\n- 不明な点は不明と書く\n- 分析と創作を分ける\n- 公開向けなので個人情報は伏せる\n- 写真から内面を決めつけない\n\n【ストーリーの軸】\n- 私の会話から見える強みや願いを、異世界での役割や能力に変換する\n- 弱みや葛藤も、物語上の障害として活かす\n- テーマは「自分の価値を見つけること」「運命の相手との関係を通じた成長」\n- ラブロマンス要素を強めに入れる\n- 関係性には、契約、共闘、秘密、身分差のいずれかを自然に盛り込む\n\n【パートナー設定】\n- 主人公と異性の、美しいパートナーを必ず登場させる\n- パートナーは圧倒的な美形で、どこか危うく、でも主人公にだけ執着や特別扱いを見せる\n- 関係性は「護衛と主」「契約相手」「敵対から共闘」「婚約者候補」など、ドラマが生まれるものにする\n- 主人公との間に、視線や手の触れ方だけで伝わるロマンスの緊張感を持たせる\n\n【タイトル】\n- 日本のライトノベルらしい長いタイトルを1案\n- 60〜90字程度\n- 「自己分析から見えた私らしさ」「異世界での立場」「美しい異性パートナーとの関係」を入れる\n- 帯コピー25字以内\n- あらすじ120字程度\n\n【表紙画像の方向性】\n- 添付写真の私を、顔立ち・髪型・年齢感を活かしてアニメ化する\n- 主人公の顔も含め、イラスト全体を完全にアニメのベタ塗り画風にすること\n- 半写実、厚塗り、3DCG風、写真風、油彩風、リアル寄りの陰影表現は避けること\n- 日本の商業アニメやライトノベル表紙らしい、くっきりした線画、明快な輪郭、セル画風の塗り、フラットで鮮やかな色面、影の境界がはっきりしたアニメ塗りで描くこと\n- 肌、髪、瞳、衣装、装飾、背景に至るまで、全体の統一感を持ったアニメベタ塗りで仕上げること\n- 主人公は実写の写真感を残すのではなく、「本人の特徴を反映したアニメキャラクター」として自然に再構成すること\n\n- 主人公は異世界衣装。ドレス、ローブ、騎士服、魔導装束など、物語設定に合う華やかな衣装\n- パートナーも非常に美しく、気高く、見る人の印象に残る異世界衣装\n\n- 参考画像のように、2人が大きく配置され、恋愛感情や距離感が伝わる表紙にする\n- ただし、そのままの構図・色・文字配置・衣装にはしない\n- オリジナルなアレンジとして、斜めの体の向き、上下の視線差、手元の演技、衣装の差異などで個性を出す\n\n- 主人公の表情は単調にせず、感情が伝わる豊かな表情にすること\n- 瞳の向き、口元、眉の動きまで含めて、主人公が感情豊かに見えるようにすること\n\n- 主人公のポーズも棒立ちにせず、動きとドラマが感じられる豊かなポーズにすること\n- 主人公とパートナーの手元や距離感にも演技を持たせ、関係性が一目で伝わるようにすること\n\n- 画面のどこかに契約・魔法・身分差を象徴するモチーフを入れる\n- 色調は、深い赤、ネイビー、金、白などをベースにした高級感ある配色\n- タイトルは大きく、縦組みと横組みを混ぜて、ラノベらしい勢いある装丁にする\n- 顔に文字が重ならないようにする\n- 画角は縦長の3:4比率\n- 平面の表紙デザインにする\n- 実在の作品や既存装丁の模倣は禁止\n\n【出力順】\n1. 参照できた情報範囲\n2. 自己分析の要点\n3. 主人公設定\n4. パートナー設定\n5. タイトル\n6. 帯コピー\n7. あらすじ\n8. 表紙画像を1枚生成"
+  },
+  {
+    "id": "2098287192628240410",
+    "title": "Flare 量产下稿 → Sunburst 精修",
+    "blurb": "速度用 Flare 堆构图，好看的再丢 Sunburst。省钱省时间的分工，别全压贵档。",
+    "author": "aichan1224news",
+    "url": "https://x.com/aichan1224news/status/2098287192628240410",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098269046022238289",
+    "title": "旅行手账 [LOCATION]：黏土微缩 + 折纸旅人",
+    "blurb": "螺旋本俯拍 + 手作黏土微缩世界，换地名就能量产 IG 竖图。内容营销可复用模板，附完整 prompt。",
+    "author": "Goodmanprotocol",
+    "url": "https://x.com/Goodmanprotocol/status/2098269046022238289",
+    "category": "海报排版",
+    "prompt": "Create a premium, Instagram-worthy handcrafted travel-journal scene representing [LOCATION].\n\nShow an open cream-colored spiral notebook resting on a warm rustic wooden desk, photographed from a slightly elevated top-down angle in soft, cinematic golden-hour light.\n\nTurn the destination into a charming mixed-media miniature world. Build the architecture, landscape, plants, water, and cultural details from realistic, tactile hand-sculpted clay, with subtle handmade imperfections and fine textures. Add a small origami traveler, unmistakably folded from textured paper with visible creases and elegant, simple shapes, naturally exploring the miniature environment.\n\nMake one iconic landmark or visual symbol of [LOCATION] the clear hero, supported by a few authentic local elements such as architecture, terrain, vegetation, transportation, or cultural details. Avoid generic tourist objects. Dress the origami traveler in a tasteful outfit subtly inspired by the destination without relying on stereotypes.\n\nUse a sophisticated color palette inspired by [LOCATION], with detailed clay textures, realistic paper folds, miniature craftsmanship, soft shadows, atmospheric depth, and warm cinematic illumination. Make the miniature world feel physically integrated into the notebook page—not like a pasted photograph.\n\nSurround the artwork with subtle handwritten travel-journal notes, tiny doodles, arrows, stamps, and location-inspired sketches, keeping them secondary to the main scene.\n\nComposition: strong focal point, clear visual hierarchy, generous negative space, immersive depth, premium editorial photography, highly detailed handcrafted textures, whimsical yet sophisticated, emotionally evocative, visually distinctive, and highly shareable.\n\nAvoid: photorealistic people, clutter, excessive text, generic landmarks, flat digital illustration, plastic-looking materials, oversaturated colors, distorted architecture, and unnecessary decorations.\n\nOverall feel: a beautifully crafted tiny world inside a traveler's notebook—artistic, tactile, authentic, sophisticated, and unmistakably connected to [LOCATION], rather than a conventional travel photograph.\nSTRICT FORMAT: Vertical 4:5 aspect ratio only - do not generate square, landscape, or any other aspect ratio."
+  },
+  {
+    "id": "2098252670385676491",
+    "title": "纽约地铁 UGC：折叠屏手写金句生活照",
+    "blurb": "乱发、复古圆镜、耳机电车 candid；屏上金句可换。一人团队做「真实感」广告图直接改场景复用。",
+    "author": "Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2098252670385676491",
+    "category": "人像角色",
+    "prompt": "Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway.\n\nShe has soft, natural features, slightly messy dark hair tied loosely, round vintage-style glasses, and white wired earphones. She is wearing an oversized charcoal-brown coat over a cozy cream knit sweater and relaxed light-wash wide-leg jeans. Her posture is relaxed and natural, with her legs comfortably stretched forward.\n\nShe is quietly looking down at an open foldable smartphone in her hands, while holding an iced matcha latte in the other hand. The phone should look premium and realistic, with a clean minimal design.\n\nIMPORTANT — PHONE SCREEN: Replace the original book/quote completely. On the inner screen of the foldable phone, display the elegant handwritten-style quote:\n\n“romanticize your ordinary days ♡”\n\nMake the text clearly visible, beautifully typeset, and naturally integrated into the phone screen.\n\nSet the scene inside a realistic stainless-steel NYC subway carriage, with blue seats, metal panels, subway window reflections, vertical poles, and softly blurred passengers in the background. Include a subtle subway route/sign panel in the background for authentic NYC atmosphere.\n\nThe iced matcha cup should have a small minimalist café-style label reading:\n\n“little joys”\n\nPhotography & Mood\n\n* candid street-photography aesthetic\n* cozy, introspective, effortless mood\n* muted earthy tones\n* soft natural fluorescent subway lighting\n* realistic skin texture\n* subtle film grain\n* gentle shadows\n* slightly desaturated editorial color grading\n* shallow depth of field\n* authentic reflections and imperfections\n* premium fashion-editorial photography\n* not overly posed\n* not glamorous or studio-like\n* photorealistic, believable everyday moment\n\nComposition: vertical 4:5, medium-full body framing, woman centered slightly toward the left, phone and matcha clearly visible, subway environment surrounding her, natural perspective, highly detailed."
+  },
+  {
+    "id": "2098251497385721990",
+    "title": "漫画气泡表情：心声盖住对方台词",
+    "blurb": "方气泡盖住对方台词、咬住气泡的凶妹等叙事梗；画幅 4:5 写死。玩信息差比纯美图更有用。",
+    "author": "kabumira862571",
+    "url": "https://x.com/kabumira862571/status/2098251497385721990",
+    "category": "人像角色",
+    "prompt": "“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。\nアスペクト比は縦長（4:5）で描画"
   }
 ]
