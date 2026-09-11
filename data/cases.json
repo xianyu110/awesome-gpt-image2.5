@@ -1920,5 +1920,122 @@
     "url": "https://x.com/meAsifAi/status/2098373493662392732",
     "category": "人像角色",
     "prompt": "Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.  REFERENCE & IDENTITY LOCK: Use the uploaded reference as the single source of truth for the character's identity. Preserve the exact facial identity, facial structure, hairstyle, hairline, eye shape and color, eyebrows, nose, lips, skin tone, body proportions, physique, age appearance, distinctive features, costume design, accessories, footwear, colors, patterns and all recognizable visual details. Do not redesign, beautify, simplify, age, de-age, or reinterpret the character. CHARACTER DESIGN ANALYSIS: Before constructing the sheet, internally analyze and lock the character's:  facial construction head-to-body ratio  body proportions  shoulder width and torso structure  limb length and joint placement  silhouette  hairstyle and hair volume  costume construction  accessory placement  color relationships  material characteristics  distinctive identity anchors  All subsequent views must represent the exact same character design.  PAGE FORMAT: Create one sophisticated studio-grade character reference board, landscape 16:9, clean neutral/off-white studio background, refined editorial production-board aesthetic, highly organized hierarchy, generous spacing, subtle technical guide lines, restrained professional typography-style labels where appropriate, no decorative clutter.  01 — HERO CHARACTER PORTRAIT  Place one larger polished head-and-shoulders or three-quarter portrait as the visual identity anchor. Show the character's canonical facial identity clearly with neutral professional expression and accurate hairstyle, skin, costume and accessories.  02 — FULL-BODY TURNAROUND  Create a clearly organized full-body turnaround showing the same character at identical scale and proportions:  FRONT VIEW  3/4 FRONT VIEW  SIDE PROFILE  3/4 BACK VIEW  BACK VIEW  Use a neutral standing pose with consistent posture and anatomical alignment.  Keep head height, eye line, shoulder line, waist, hips, knees and feet consistently aligned across every view.  The costume, hairstyle, accessories, seams, patterns, footwear and silhouette must remain identical from every angle.  03 — EXPRESSION STUDY  Include a clean expression grid containing approximately 6 expressions:  Neutral  Happy / subtle smile  Serious  Angry / determined  Surprised  Sad / emotional  Maintain the exact same facial identity, head proportions, hairstyle and facial construction in every expression.  Expressions should demonstrate believable facial acting rather than exaggerated deformation.  04 — SIGNATURE POSE STUDIES  Include 4–6 full-body pose studies that communicate the character's personality and physical behavior.  Use varied but believable poses such as:  relaxed standing  confident stance  walking  sitting  interacting with an object  dynamic signature pose  Maintain exact character proportions, costume construction and recognizable silhouette in every pose.  05 — COSTUME & DETAIL CALLOUTS  Add several clean close-up detail panels showing the most important design elements:  hairstyle / hair detail  face detail  collar / neckline  sleeves / garment construction  footwear  jewelry or accessories  distinctive emblem / pattern / texture  important prop if present  Show construction and material clearly without turning the sheet into a decorative fashion collage.  06 — MATERIAL STUDIES  Visually communicate the primary materials present in the design:  fabric, leather, metal, denim, silk, knit, plastic, glass, jewelry, hair, skin or other relevant materials.  Show realistic surface behavior, texture, reflectivity and construction appropriate to each material.  07 — COLOR PALETTE  Include a compact professional color palette strip containing the dominant character colors.  Organize colors according to their visual role:  skin  hair  primary costume  secondary costume  accent color  accessories / materials  Keep the palette faithful to the reference.  08 — PROPORTION & SILHOUETTE GUIDE  Include a subtle technical proportion guide beside the turnaround.  Show:  overall height  head-to-body ratio  major horizontal alignment guides  key body proportions  clean silhouette thumbnail  Keep this section understated and production-oriented.  09 — DESIGN CONTINUITY  Treat the entire page as a single canonical character source of truth.  Every panel must depict the SAME person/character with:  identical facial identity  identical body proportions  identical hairstyle  identical costume  identical accessory placement  identical color palette  identical design language  consistent left/right details  No accidental costume changes, missing accessories, duplicated accessories, altered facial features, changing body proportions, inconsistent hairstyles or unexplained design variations.  VISUAL DIRECTION: High-end professional character design presentation, studio production reference quality, sophisticated concept-art discipline, clean polished rendering, precise construction, controlled neutral lighting, realistic material definition, excellent anatomical consistency, crisp readable details, refined editorial layout, premium art-direction quality.  The sheet should feel like an actual professional animation / game / visual-development production document, not a collection of random AI images.  COMPOSITION: Clear information hierarchy, balanced negative space, aligned panels, consistent character scale, clean grid system, logical visual flow, no overlapping figures, no cropped bodies, no confusing perspective, no unnecessary scenery.  CAMERA / VIEW CONTROL: Turnaround views should use consistent orthographic-like framing and neutral perspective. Expression studies should use a consistent head framing. Pose studies may use natural perspective while preserving character proportions. LIGHTING: Neutral studio illumination designed for design inspection rather than cinematic drama. Soft, even, physically believable light with controlled shadows and accurate material readability.  PHOTOGRAPHIC / RENDER FINISH: Ultra-clean high-end visual development presentation, realistic surface detail, natural skin and hair rendering, physically believable materials, sharp but refined detail, professional production-board finish.  OUTPUT QUALITY: 16K: 15360 × 8640 ≈ 132.7 million pixels, high-resolution professional quality. NEGATIVE CONSTRAINTS: No character redesign, no identity drift, no inconsistent proportions, no changing face, no changing hairstyle, no costume variations, no missing accessories, no duplicated accessories, no extra limbs, no malformed hands, no distorted anatomy, no random props, no dramatic scenery, no cinematic background, no excessive effects, no clutter, no watermark, no logo, no cropped views."
+  },
+  {
+    "id": "2098411370815643837",
+    "title": "2.5 分镜 → Seedance 皮克斯片开源工作流",
+    "blurb": "任意想法先出细拆 storyboard，再丢 Seedance 2.5 成皮克斯级镜头序列。叙事广告/短片管线直接抄，原帖附开源 workflow。",
+    "author": "EHuanglu",
+    "url": "https://x.com/EHuanglu/status/2098411370815643837",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2098411659002012050",
+    "title": "Zara / H&M / Mango / Tommy 四套时尚 campaign 系统",
+    "blurb": "同一 Images 2.5 底座，四品牌各一套视觉系统（色板、字体、构图语言分开）。SMM 海报工厂模板；评论区有完整 H&M「NEW UNIFORM」长 prompt。",
+    "author": "Diplomeme",
+    "url": "https://x.com/Diplomeme/status/2098411659002012050",
+    "category": "海报排版",
+    "prompt": "PROMPT — H&M \"NEW UNIFORM\"\nFORMAT Ultra-Premium H&M Fashion SMM Promotional Poster Vertical 4:5 Instagram Hero Creative Global Fashion Retail Campaign Contemporary Fashion Advertising Commercial Fashion Graphic Design Agency-Level Art Direction Behance Front Page Quality 8K UHD Hyper-Realistic Fashion × Graphic Design × Street Culture Fusion High-Impact Visual Communication Zero AI Soft Zero Generic Fast-Fashion Advertising Zero Catalogue Aesthetic Zero Luxury-Copycat Aesthetic\n\nCORE STRATEGY This is not simply a clothing advertisement. This is H&M turned into a visual statement. The campaign should communicate: fashion moves fast. culture moves faster. H&M should feel: accessible + expressive + contemporary + youthful + global + confident. The visual language should combine: H&M fashion campaign × editorial magazine × street-culture poster × high-fashion graphic design × digital-first social advertising The result should feel unmistakably H&M, not Zara, Mango, COS or a generic luxury fashion brand.\n\nCAMPAIGN IDEA \"NEW UNIFORM\" Forget traditional uniforms. This is: THE UNIFORM OF NOW. THE UNIFORM CHANGES. YOU DON'T HAVE TO.\n\nMASTER VISUAL Create an enormous typographic structure reading: H&M occupying ~60–70% of the composition — bold compressed graphic energetic slightly disruptive; partially cropped, stacked, layered, intersecting red graphic blocks.\n\nHERO SUBJECT Young female fashion model. Natural skin. Confident. Mid-stride. Oversized black leather-effect bomber, white fitted tank, relaxed wide-leg grey trousers, chunky black footwear, small silver jewelry, structured mini shoulder bag, subtle red accessory.\n\nH&M COLOR SYSTEM PRIMARY H&M RED ~#E50010; BLACK #000000; WHITE #FFFFFF. Ratio ~60% white/light / 20% black / 15% red / 5% photo tones.\n\nComposition hierarchy: H&M → NEW UNIFORM → MODEL → COLLECTION INFO → CTA. Vertical 4:5, 8K UHD, dramatic in-the-moment fashion photography, agency-level art direction. Full brand system prompts for Zara / Mango / Tommy are in the original thread comments."
+  },
+  {
+    "id": "2098408977008676918",
+    "title": "剪纸海报四联：一层剪开一个小世界",
+    "blurb": "CUT TO MOVE / BELOW THE SURFACE / AFTERLIGHT / SPACES BETWEEN——大剪影里叠 6–9 层纸，深处藏叙事。展览/文化海报配方可换槽。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2098408977008676918",
+    "category": "海报排版",
+    "prompt": "Theme: {fashion / ocean / memory / architecture / other}\nTitle: {main title}\nMain silhouette: {dress / whale / planet / arch / other bold shape}\nInner world: {runway / deep ocean / memory space / courtyard / other scene}\nColor palette: {3–5 restrained colors}\nEditorial tone: {fashion / cultural / artistic / architectural}\nAspect ratio: 9:16\n\nCreate a refined layered paper-cut editorial poster built around one bold, instantly recognizable silhouette.\n\nLet the main silhouette occupy around 60–70% of the composition. Inside it, create 6–9 layers of cut paper that gradually open into a deeper space. Each layer should follow the overall shape while changing naturally in scale, direction, and contour. Avoid perfectly even or mechanical concentric layers.\n\nAt the deepest point, reveal a small narrative scene related to the theme, such as a runway, underwater world, observation platform, courtyard, or another meaningful environment. Add one very small human figure when appropriate to create scale and a sense of discovery.\n\nUse matte art-paper textures, clean cut edges, subtle natural paper fibers, and soft shallow shadows between layers. Keep the result visually flat and editorial rather than heavy 3D, foam-board, plastic, or CGI.\n\nUse a restrained palette of 3–5 colors, moving from lighter outer layers to deeper, darker inner layers. Keep colors clean, solid, and consistent rather than using digital gradients or distressed textures.\n\nLeave generous negative space for typography. Use a clear editorial hierarchy with one strong title, a small project or issue name, and only a few supporting details. The typography should feel like an art magazine, exhibition poster, fashion editorial, or cultural publication.\n\nThe visual rhythm should be: bold silhouette first, layered depth second, hidden inner world third.\n\nFrom a distance, the poster should read as one strong shape. Up close, the viewer should discover the layered paper structure and the small world hidden inside."
+  },
+  {
+    "id": "2098413109258207670",
+    "title": "角色连续夜间手机快照：身份锁 + 直闪抓拍",
+    "blurb": "同一角色东京雨后夜街系列：后三四分、直闪过曝、走路半步——专治「写真感太假」。UGC / 旅行人设连更可抄整段 prompt。",
+    "author": "frametheory058",
+    "url": "https://x.com/frametheory058/status/2098413109258207670",
+    "category": "人像角色",
+    "prompt": "Ultra-realistic late-night smartphone snapshot, 9:16 vertical.\n\nUse the reference only to establish the same fictional female character's overall appearance and continuity. Keep her recognizable across the series with the same dark-brown wavy hair, natural features, black fitted sleeveless tank top, loose high-waisted light-blue jeans, small gold hoop earrings, delicate necklace, white sneakers, and small black shoulder bag.\n\nScene:\nA quiet Tokyo side street late at night after light rain. She walks beside an off-white ceramic-tiled building while distant convenience-store lights, traffic signals, parked bicycles and small Japanese storefronts softly disappear into the darkness. Wet pavement catches scattered reflections.\n\nNew candid moment:\nPhotograph her from a slightly low rear three-quarter angle, about two steps behind her. She has just slowed down and casually turns only her upper body toward the camera while continuing forward. One hand is loosely tucking windblown hair behind her ear while the other hangs naturally beside her bag.\n\nShe looks toward the camera from the corner of her eyes with a tiny closed-mouth smile, as though she noticed her friend taking another photo and is trying not to laugh.\n\nNo deliberate fashion pose. No exaggerated expression. Her shoulders remain relaxed, hips and legs naturally positioned from walking, with one foot caught halfway through the next step.\n\nCamera:\nModern smartphone rear camera with direct flash. Photographer walking at the same time, creating subtle accidental camera shake. Slight motion blur around her hair, moving leg and fingertips, while her eyes remain just barely readable. Mild rolling-shutter distortion, imperfect autofocus, slight edge softness and realistic digital noise.\n\nComposition should feel accidental: her body sits slightly off-center, a little too much empty darkness on one side, with part of her shoe approaching the bottom edge of frame.\n\nFlash & exposure:\nHard direct phone flash illuminates her face, shoulder, black top and denim while the street behind her falls rapidly into darkness. Slightly overexposed skin highlights, hard natural shadow against the tiled wall, shiny flash reflections on individual hair strands and subtle denim texture. Distant lights bloom and smear naturally.\n\nAesthetic:\nRaw Pinterest night-photo-dump energy. Intimate, youthful, spontaneous and imperfect. It should look like a friend took the photo during a random Tokyo night walk—not a photographer conducting a photoshoot.\n\nReal pores, tiny skin variations, flyaway hairs, natural fabric wrinkles, realistic body proportions and ordinary smartphone processing.\n\nAbsolutely no: studio lighting, cinematic teal-orange grading, professional bokeh, fashion-editorial posing, perfect symmetry, airbrushed skin, artificial beauty retouching, HDR look, DSLR sharpness, staged composition, AI-perfect anatomy or polished commercial photography.\n\nThe final result should feel like an unexpectedly beautiful photo hidden among 30 messy pictures from the same night."
+  },
+  {
+    "id": "2098405779912978525",
+    "title": "爱因斯坦 3D：Images 2.5 → Tripo → Astra 管线",
+    "blurb": "静帧出人设 → Tripo 几分钟成模 → GPT-6 Astra High 绑骨动画。概念角色进可动 3D 的最短路径演示。",
+    "author": "SimonasLTU1",
+    "url": "https://x.com/SimonasLTU1/status/2098405779912978525",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2098403133806293161",
+    "title": "日系馆藏风海报：大字+材质+档案一起构图",
+    "blurb": "百鬼夜行 / 潮汐之书 / 金继器物 / 花鸟余白——古画海浪器物花鸟进同一视觉系统。系列 KV / 文博宣传可复用题材骨架。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2098403133806293161",
+    "category": "海报排版"
+  },
+  {
+    "id": "2098401123623199128",
+    "title": "Sketch 上手实测：视频直接秀控形",
+    "blurb": "ChatGPT Images 2.5 Sketch 试玩成片视频，比纯截图更直观。给客户/团队 demo「控形能干啥」用这条。",
+    "author": "Elizaveta_ai",
+    "url": "https://x.com/Elizaveta_ai/status/2098401123623199128",
+    "category": "Sketch"
+  },
+  {
+    "id": "2098397177437659591",
+    "title": "功能极简帝国壁纸：换文明名批量出系列",
+    "blurb": "孔雀王朝 / 笈多 / 朱罗 / 马拉塔同骨架：`Functional Minimalism style wallpaper of the [EMPIRE]…`。历史题材壁纸/屏保工厂直接套。",
+    "author": "shushant_l",
+    "url": "https://x.com/shushant_l/status/2098397177437659591",
+    "category": "海报排版",
+    "prompt": "Functional Minimalism style wallpaper of the [EMPIRE/KINGDOM/CIVILIZATION], featuring [ICONIC ARCHITECTURE/LANDMARK], [CULTURAL OR RELIGIOUS SYMBOL], [MILITARY OR HISTORICAL ELEMENT], and [REGION-SPECIFIC LANDSCAPE], with subtle silhouettes of [PEOPLE/ARMY/SHIPS/ANIMALS], using clean geometric forms, restrained historically accurate details, [PRIMARY COLOR] and [ACCENT COLOR] tones, generous negative space, soft [LIGHTING TYPE] atmospheric lighting, strong visual hierarchy, balanced composition, historically inspired cinematic aesthetic, no modern elements, no text, premium ultra-clean wallpaper, [ASPECT RATIO] aspect ratio"
+  },
+  {
+    "id": "2098397131363025030",
+    "title": "同题修车：Flare vs Sunburst 谁更「真」",
+    "blurb": "同一 brief（修自行车师傅）、同设置零修图双轨对照。快速建立选模直觉，别靠玄学。",
+    "author": "SandbaseAI",
+    "url": "https://x.com/SandbaseAI/status/2098397131363025030",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098396894082843074",
+    "title": "UGC 自然皮肤翻车：2.5 在这场景偏 mid",
+    "blurb": "三天实测「刚掏出手机自拍」：塑皮、AI 对称脸、窗光仍像棚拍。反信号也值钱——做假 UGC 前先对症，别默认 2.5。",
+    "author": "ItsNazar17",
+    "url": "https://x.com/ItsNazar17/status/2098396894082843074",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098391683855708543",
+    "title": "Sketch 真能当蓝图：涂鸦→厚涂奇幻生物",
+    "blurb": "极简涂鸦一摆，厚涂奇幻生物成片路径一目了然。一人团队做角色概念，这套最省话。",
+    "author": "RockyXu3000",
+    "url": "https://x.com/RockyXu3000/status/2098391683855708543",
+    "category": "Sketch"
+  },
+  {
+    "id": "2098388258715533574",
+    "title": "反复改图：2 vs 2.5 谁更扛一致性",
+    "blurb": "同人同姿势连改衣服/发/背景，盯金属材质与细节谁更稳。UGC 换装、产品改色先看这个对照。",
+    "author": "eachlabs",
+    "url": "https://x.com/eachlabs/status/2098388258715533574",
+    "category": "选型评测"
+  },
+  {
+    "id": "2098389596664963278",
+    "title": "水面完美倒影：2.5 / 2 / Banana / Reve 同题烤炉",
+    "blurb": "同一套反射几何约束（平面 Π、手性翻转、水线自重合）压四模。别听口号，直接看谁物理过关；附可复制压测 prompt。",
+    "author": "Gdgtify",
+    "url": "https://x.com/Gdgtify/status/2098389596664963278",
+    "category": "选型评测",
+    "prompt": "GPT Image 2.5 vs. GPT Image 2 vs. Nano Banana Pro vs. Reve. Same prompt.\n\n2x2 grid,1:1 AI picks stunning different subjects: Π = reflecting plane: point q, unit normal m\nR(x) = x − 2((x−q)·m) m (reflection across Π)\nreflected image = scene imaged by the VIRTUAL camera R(C) ; every real feature f has twin R(f)\n\nRENDERED\n• reflection is a BIJECTION of the scene across Π ; occlusion order reverses\n• points on Π are fixed → the waterline is self-coincident\n• chirality FLIPS — text and hands are mirror-reversed\n• a vertical object inverts about the waterline ; base-of-object meets base-of-reflection exactly on Π\n• perspective in the reflection is that of R(C): the same vanishing points, mapped\n\nREAD OFF\n• k real↔reflected correspondences: each pair's perpendicular-bisector plane must be the SAME Π\n• reflected height / compression is lawful with view angle, not free\n• everything in front of Π that R(C) can see appears — and nothing else\n\nCONSISTENCY\nrecover (m̂, q̂) from correspondence pairs — must coincide ; check handedness of every reflected glyph\nFORBIDDEN : a reflection containing an object with NO real pre-image (or dropping one plainly in front) ;\nsignage readable forward in the glass ;\nreflected pose / expression differing from the subject ;\na floating reflection whose base does not meet the object on Π."
+  },
+  {
+    "id": "2098381709050097920",
+    "title": "Flare 把天折起来：超写实天空折叠构图",
+    "blurb": "几张「天空折叠」光影尺度很冲。要氛围海报、不想写长 prompt 时，先偷构图再补细节。",
+    "author": "ZephyraLeigh",
+    "url": "https://x.com/ZephyraLeigh/status/2098381709050097920",
+    "category": "场景视觉"
   }
 ]
