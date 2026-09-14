@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 307 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 312 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **[夜闪人像三连：2 / Sunburst / Flare 同脸硬刚](https://x.com/FlyAIgh/status/2099483146966446369)** — @FlyAIgh：直闪夜街同一张脸参考，左到右 Image 2、Sunburst、Flare；Flare 整体最强，2 反而更像「相机拍出来」。选型别只看干净——设置与费用在回复里。
 
 - **[124 例档案库：prompt + 参数 + Flare/Sunburst 对照](https://x.com/iamrayyang/status/2098315204509729032)** — @iamrayyang：嫌晒图不给配方？这里 124 例 / 185 输出 / 24 组 Flare vs Sunburst，连参数和出处一起收。营销选型先翻库，别再刷时间线碰运气。
 
@@ -744,6 +746,8 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **[芒果漩涡雪糕海报：双食材表面物理写死](https://x.com/ou_zhen599/status/2099500153598341578)** — @ou_zhen599：芒果金霜褶 vs 莓紫果浆黏度分区控漩涡，再套奢品海报信息架构。食品广告别只写「好吃」——用表面行为控材质。
 
 - **[Apple 级手机海报，可复制 prompt](https://x.com/Diplomeme/status/2097978468642480487)** — @Diplomeme：产品海报直出，prompt 可抄。做数码/3C 种草封面时省半小时磨词。
 
@@ -2125,6 +2129,12 @@ Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liq
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **[任意参考图 → 一整天 iPhone 相机卷](https://x.com/Mayz1169/status/2099479395283214473)** — @Mayz1169：一张图扩成「刷了一天相机胶卷」的多拍感，主体锁死；prompt 在 thread。UGC 假日常 / 种草连更模板。
+
+- **[素人照 → 超现实漫画街拍：身份锁长 prompt](https://x.com/meAsifAi/status/2099498417084940418)** — @meAsifAi：参考图锁脸体，24–28mm 居中全身 + 环境嵌入 2D doodle，人不变卡通。人设海报 / 社媒 campaign 整段可复制。
+
+- **[高光 CCD 未来都市生活照：分段中文 prompt](https://x.com/liyue_ai/status/2099498799786074400)** — @liyue_ai：光伏顶棚步道 + 杏橙针织 + 冷白短裙，日间清亮高光 CCD 写死光线滤镜。小红书 / UGC 都市人像直接返图。
 
 - **[80s 复古写真锁脸](https://x.com/Goodmanprotocol/status/2097954772586557873)** — @Goodmanprotocol：年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。
 
