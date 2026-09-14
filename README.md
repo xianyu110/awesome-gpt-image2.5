@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 258 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 262 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **2.5 vs 2.0：80 年代跑车真实感硬对比** — 同一题材拉齐看：车漆、人体皮肤、细节密度一眼分代。选型别听口号，把这组并排截图扔进评审会就完事。 [@icreat_ai](https://x.com/icreat_ai) · [原帖](https://x.com/icreat_ai/status/2099374093263106123)
 
 - **Flare 默认 vs Sunburst：ChatGPT 比裸 API 更懂审美** — 同题四路：普通/精度优先/API Flare/API Sunburst。结论狠：ChatGPT 上下文导演感拉满，裸 API 反而更淡——选型别只比型号名。 [@omochgpt](https://x.com/omochgpt) · [原帖](https://x.com/omochgpt/status/2099302189781176717)
 
@@ -1888,6 +1890,8 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **攻壳草薙素子：一年后再测 Images 2.5** — Zho 把素子拉回赛博写实。角色锁定 + 材质光感的回归测，国风/二次元 IP 人设出片可对标这档质感。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2099365177938575853)
+
 - **女儿国国王：千禧年非主流公式一键出片** — 「千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王」——中文 emoji 公式党再下一城，热点人设直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099303054797606998)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -3211,6 +3215,10 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **品牌人格灌进城市：换输入就长成街景广告** — 套用 mmmiyama 杂志广告配方，把品牌人格塞进东京蓝调街景（人行天桥 + 巨 Logo）。营销向：同一骨架换品牌词，城市视觉秒站队。 [@kraqvoid](https://x.com/kraqvoid) · [原帖](https://x.com/kraqvoid/status/2099375310747926862)
+
+- **同角色换装过场：Image 2.5 静帧 → Seedance 2.5** — 休闲→校服→学院正装，画外换装、人设不漂。先用 GPT Image 2.5 锁静帧，再 Seedance 串成一条概念片——UGC/穿搭广告的省心管线。 [@RXwhale](https://x.com/RXwhale) · [原帖](https://x.com/RXwhale/status/2099367352676864223)
 
 - **产品页 → 40 张静态广告：Astra 读品牌 + Image 2.5 赶量** — 一页产品详情进，Astra 写文案定角度，Image 2.5 当天吐 40 张成品静态。一人营销队核按钮。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2099293802813182089)
 
