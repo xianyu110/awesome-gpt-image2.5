@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 247 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 258 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -618,6 +618,10 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **Sketch 养演讲插图：草图+brief 终于对得上** — Maggie Appleton：2.5 能跟草图和 brief 对齐，整场 talk 幻灯片开造；并踩 MJ/Gemini「永远只对 60%」。 [@Mappletons](https://x.com/Mappletons) · [原帖](https://x.com/Mappletons/status/2098430366692388922)
+
+- **Doodle / Markup：空白涂鸦或标注局部当参考图** — Atlas 上 Image 2.5：画布涂鸦进参考，或在已有图上标注局部改。Sketch 工作流的产品化版本。 [@atlas_cloud_ai](https://x.com/atlas_cloud_ai) · [原帖](https://x.com/atlas_cloud_ai/status/2098419940361642006)
+
 - **Sketch 上手实测：视频直接秀控形** — ChatGPT Images 2.5 Sketch 试玩成片视频，比纯截图更直观。给客户/团队 demo「控形能干啥」用这条。 [@Elizaveta_ai](https://x.com/Elizaveta_ai) · [原帖](https://x.com/Elizaveta_ai/status/2098401123623199128)
 
 - **Sketch 真能当蓝图：涂鸦→厚涂奇幻生物** — 极简涂鸦一摆，厚涂奇幻生物成片路径一目了然。一人团队做角色概念，这套最省话。 [@RockyXu3000](https://x.com/RockyXu3000) · [原帖](https://x.com/RockyXu3000/status/2098391683855708543)
@@ -986,6 +990,10 @@ Create a highly realistic premium editorial portrait that feels like the SAME vi
 ```
 
   </details>
+
+- **圆形时尚海报四构图：FULL TURN / WATERLINE / INWARD / ORBIT VEIL** — Images 2.5 把圆框玩活的四套路。editorial / campaign / 杂志封面直接偷构图。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099220110355697893)
+
+- **鱼眼 editorial：15mm 草皮配方 + 开源提示词库** — 超广角 15mm 草皮 editorial 可抄；并指向 awesome-gpt-image-2-5-prompts（社区原句+出处）。模板要存 prompt 别只存图。 [@Milliekio](https://x.com/Milliekio) · [原帖](https://x.com/Milliekio/status/2098428660944695644)
 
 - **Zara / H&M / Mango / Tommy 四套时尚 campaign 系统** — 同一 Images 2.5 底座，四品牌各一套视觉系统（色板、字体、构图语言分开）。SMM 海报工厂模板；评论区有完整 H&M「NEW UNIFORM」长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098411659002012050)
   <details>
@@ -3059,6 +3067,10 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **Sunburst object-swap：换物 match-cut，其余几乎钉死** — 编辑时只换指定物件，其它几乎不动。广告改产品/道具的压测思路，直接抄。 [@invideoOfficial](https://x.com/invideoOfficial) · [原帖](https://x.com/invideoOfficial/status/2098430230079984063)
+
+- **精华液广告流水线：产品表 + 分镜 → 15 秒成片** — GPT Image 2.5 先出产品 sheet 与 cinematic storyboard，再交 Seedance 2.5；提示词全开。DTC 电商广告教科书。 [@HeyAbhishek](https://x.com/HeyAbhishek) · [原帖](https://x.com/HeyAbhishek/status/2098420637631127995)
+
 - **UGC 偷参考美学：Astra 拆 JSON → 2.5 出片** — 别写「cinematic soft grain」作文。真照片丢 Astra 拆色彩/灯光 JSON，再塞进 Image 2.5 锁人设。假 UGC 变真货架感，流程可复用。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2098309152141607051)
 
 - **产品罐 → 中文海报：保包装字再加氛围** — Sunburst 加茶叶气泡与中文标题，同时保住罐身品牌字/容量。改氛围与 must-stay 分开写——电商海报方向稿够用。 [@Soranlan](https://x.com/Soranlan) · [原帖](https://x.com/Soranlan/status/2098270386156970236)
@@ -3199,6 +3211,14 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **产品页 → 40 张静态广告：Astra 读品牌 + Image 2.5 赶量** — 一页产品详情进，Astra 写文案定角度，Image 2.5 当天吐 40 张成品静态。一人营销队核按钮。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2099293802813182089)
+
+- **品牌 30 秒广告管线：双参考 × Image 2.5 × Seedance** — 两张自定义参考 + GPT Image 2.5 + Seedance 2.5；完整 workflow、选型与视频 prompt。UGC/品牌短片可复用。 [@itsphotogptai](https://x.com/itsphotogptai) · [原帖](https://x.com/itsphotogptai/status/2099232072980484262)
+
+- **UGC 广告全流程：Image 2.5 + Seedance + 六视角角色表** — 照片→六视角角色表，外加 Image 2.5×Seedance 全套 prompt。一人团队假用户真广告流水线。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2098426534025634085)
+
+- **可换角广告模板：角色锁 + 海报锁，城市变身即插即用** — Seedance 2.5 广告配方：@[image1] 锁角色、@[image2] 锁海报，城市/变身可换槽。一人团队产品概念片骨架。 [@Iancu_ai](https://x.com/Iancu_ai) · [原帖](https://x.com/Iancu_ai/status/2098420840073236536)
 
 - **2.5 分镜 → Seedance 皮克斯片开源工作流** — 任意想法先出细拆 storyboard，再丢 Seedance 2.5 成皮克斯级镜头序列。叙事广告/短片管线直接抄，原帖附开源 workflow。 [@EHuanglu](https://x.com/EHuanglu) · [原帖](https://x.com/EHuanglu/status/2098411370815643837)
 
@@ -3633,6 +3653,8 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **Sunburst 做 App Store 截图：质感碾压糊 UI 假图** — 一图说明 2.5 Sunburst 出应用商店展示图。独立开发者截图升级捷径，别再随便糊假界面。 [@calicastle](https://x.com/calicastle) · [原帖](https://x.com/calicastle/status/2098419053899698339)
 
 - **标注圈选改图：annotations × Images 2.5** — 圈一下就改局部，产品图/广告迭代的 UI 范式。作者预告即将开源——一人团队做精修工具可先抄交互。 [@SaihholdZhao](https://x.com/SaihholdZhao) · [原帖](https://x.com/SaihholdZhao/status/2098347672923251128)
 
