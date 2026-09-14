@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 295 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 302 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,13 +237,15 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **同题秒表：2.0 九十秒 → Flare 二十秒** — 日常缩略图 prompt 实测：2.0≈90s、Flare≈20s、Sunburst≈34s，比官方「最快 50%」还狠。选型先看秒表再谈画质。 [@rutinelabo](https://x.com/rutinelabo) · [原帖](https://x.com/rutinelabo/status/2099445588249182479)
+
 - **真正值钱的是返工：局部改+多轮一致性** — 画质只是表层；一次只改该改的、多轮后脸/构图/品牌还能对齐，才进得了真生产。提示词玄学正在贬值。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2099427815829729441)
 
 - **同 prompt 四格：2.5 更真、更少 AI slop** — 前两张 2.5、后两张 2.0 并排。真实感升级不是嘴炮——少塑料感、多摄影感，选型时拿来打脸最直接。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099417551411494936)
 
 - **「别把喜欢的地方改坏」：Sunburst 精修 vs Flare 赶量** — 创作者要的往往不是更美，是改背景别毁脸、改字别毁排版。API 里 Sunburst 盯编辑精度、Flare 盯日常量产——选型别混。 [@yu_min_days](https://x.com/yu_min_days) · [原帖](https://x.com/yu_min_days/status/2099392705780756829)
 
-- **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492) · [prompt](https://img.dsxzai.com/)
+- **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492) · [playbook](https://img.dsxzai.com/)
 
 - **2.5 vs 2.0：80 年代跑车真实感硬对比** — 同一题材拉齐看：车漆、人体皮肤、细节密度一眼分代。选型别听口号，把这组并排截图扔进评审会就完事。 [@icreat_ai](https://x.com/icreat_ai) · [原帖](https://x.com/icreat_ai/status/2099374093263106123)
 
@@ -623,9 +625,9 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 - **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486)
 
-- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [prompt](docs/playbooks/official-image-prompting.md)
+- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
 
-- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [prompt](docs/playbooks/image25-controllability-shift.md)
+- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
 
 
 ## Sketch
@@ -743,6 +745,24 @@ C区域代表【背景建筑或环境】
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
+- **Fashion 海报 Flare：姿势驱动大字排版系列** — 9:16 时装海报，字号跟着姿势走、衣服与主标题互相遮挡。Flare 系列可换配色/动作批产，附完整 editorial 配方。 [@em_wagdy](https://x.com/em_wagdy) · [原帖](https://x.com/em_wagdy/status/2099400757560648122)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a 9:16 editorial fashion poster. Model: an Arab Middle Eastern woman, unveiled, early twenties, expressive Gen Z energy, realistic photographic style, ultra-high resolution.
+Build the entire poster around the natural shape and direction of the model's pose and the garment's movement. Use highly realistic fashion photography: visible fabric weave, seams, stitching, folds, fabric in motion, natural skin texture, real shadows.
+Avoid CGI, plastic skin, generic e-commerce catalog look. Use oversized editorial typography as an active part of the composition: the main word very large, cropped by the canvas, partially hidden behind the model, split, rotated or curved according to the pose direction.
+Model and typography must overlap and interact. Clear hierarchy: oversized display type, hero fashion photography, headline, supporting product details, small tags. Restrained color system: one background, realistic garment colors, 1–2 accents. A few graphic elements only (thin lines, dots, open frames, sticker-like labels).
+Energetic, asymmetric, carefully art-directed, enough negative space. No brand names, no logos.
+INPUTS: Create a 9:16 editorial fashion poster, pop art style. Model: Arab Middle Eastern woman, unveiled, early twenties, playful expression, realistic photography, ultra-high resolution.
+Outfit: oversized sweatshirt in bright cherry red printed with large black-and-white halftone dots fading across the chest, matching wide-leg sweatpants in the same red with a bold black side stripe, white chunky sneakers, small gold hoops, hair in a high ponytail.
+Background: flat sunshine yellow. Accents: black, white. Typography word: POP. Composition: diagonal — model mid-jump from bottom-left to top-right, POP in thick black comic display type along the same diagonal, her sleeve covers the O, halftone dots spill from the sweatshirt into the background.
+Headline: "Dressed in dots." Supporting text: cotton fleece · oversized · wide leg · everyday. Thick black outline around the model like a comic cutout. Bottom corner "Generated by: Eman Wagdy". No brand names, no logos.
+```
+
+  </details>
+
 - **东方禅意天灯封面：分段中文极简海报** — 屋檐+橘子橙天灯+青黛暮空，9:16 大留白给标题。和银杏台阶那版是姊妹篇，封面党又多一套可返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099392886207045950)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -828,6 +848,51 @@ Keep this structure identical for every destination. Adapt the content, never th
   </details>
 
 - **最爱的 editorial 插画海报配方** — 每张上传照单独出一张高端 editorial 海报，禁拼贴；3:4 竖版。Firefly Boards + Image 2.5 最好用，附完整 prompt。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2099343607492702258)
+
+- **照片→奢华旅行双页故事：锁脸拼贴模板** — 上传自拍锁身份，左右两页撕纸旅行 collage（美国/挪威槽位可换）。宽幅 X 友好构图，人像+目的地 KV 一锅出。 [@Alina_with_Ai](https://x.com/Alina_with_Ai) · [原帖](https://x.com/Alina_with_Ai/status/2099320489797947424)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use my uploaded photo as the SAME main female character throughout the entire image. Preserve her exact facial identity, facial features, skin tone, hairstyle, body proportions and natural appearance.
+
+Create a premium vintage travel editorial poster in a WIDE LANDSCAPE FORMAT, specifically optimized for X/Twitter so the complete image is visible without important areas being cropped.
+
+Divide the canvas into TWO equal vertical framed panels placed side by side.
+
+LEFT PANEL — UNITED STATES:
+Create a sophisticated 3×3 torn-paper travel collage featuring the same woman visiting iconic American destinations:
+Washington D.C. with the U.S. Capitol and Washington Monument, New York City with the Flatiron Building, San Francisco with the Golden Gate Bridge, New York cathedral architecture, Los Angeles with palm trees and skyline, and dramatic American mountain landscapes.
+
+In the CENTER of the left panel, place an elegant cream paper card with:
+"UNITED STATES"
+"DIVERSE LANDS"
+"TIMELESS BEAUTY"
+and a subtle vintage map of the United States.
+
+RIGHT PANEL — NORWAY:
+Create a matching 3×3 torn-paper travel collage featuring the same woman exploring Norway:
+Norwegian fjords, Bergen colorful waterfront, Oslo modern architecture, dramatic mountain villages, historic Scandinavian architecture, coastal viewpoints, Norwegian streets with a tram, and peaceful alpine landscapes.
+
+In the CENTER of the right panel, place an elegant cream paper card with:
+"NORWAY"
+"Wild beauty,"
+"a deeper kind of luxury"
+and a subtle watercolor map of Norway.
+
+IMPORTANT:
+Keep both complete panels fully visible inside the outer frame.
+Use generous margins around the entire composition.
+Do NOT make the image tall or portrait-oriented.
+Do NOT crop either panel.
+Both USA and Norway must be equally prominent and clearly visible at first glance.
+
+Style: luxury travel magazine, vintage editorial photography, refined cream paper texture, subtle torn edges, cinematic natural lighting, realistic photography, elegant serif typography, premium composition, sophisticated color grading, clean negative space, highly detailed, photorealistic.
+
+Aspect ratio: approximately 16:9 landscape.
+```
+
+  </details>
 
 - **Sunburst 半调旅行拼贴：上半真照下半印刷崩解** — 一图两世界：上半锁原片身份，下半撕纸+ASCII+复印网点。旅行 editorial / 档案感海报直接抄，附完整防翻车约束。 [@ShamiWeb3](https://x.com/ShamiWeb3) · [原帖](https://x.com/ShamiWeb3/status/2099316312426381491)
   <details>
@@ -2001,6 +2066,16 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **嫦娥×前置误触：假失败中秋写真** — 关键词串：iPhone 前置误触×曝光错误×虚焦拖影×中秋裁切。故意「拍坏」的节日人像，UGC 反精致风可直接套角色。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099451908381692387)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+嫦娥 × iPhone前置误触 × 曝光错误 ×虚焦拖影× 中秋节 × 裁切
+```
+
+  </details>
 
 - **角色 ref 破格一句话：逼 2.5 输出「平时绝对不出」的图** — 锁自己角色参照后丢这句日文，角色会「叛逆」出非常规构图。人设表之后想要惊喜帧，就靠这一刀。 [@sentakusound](https://x.com/sentakusound) · [原帖](https://x.com/sentakusound/status/2099435461861327229)
   <details>
@@ -3278,7 +3353,7 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
   </details>
 
-- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [prompt](docs/playbooks/virtual-ip-assets.md)
+- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [playbook](docs/playbooks/virtual-ip-assets.md)
 
 
 ## 电商改图
@@ -3496,6 +3571,188 @@ The final image should feel like a premium contemporary Japanese lifestyle illus
 
 - **赛博编舞表 → MiniMax H3：静帧变整段舞** — Image 2.5 出 cyberpunk dance pose sheet，再接 MiniMax H3 拉成连续编舞。产品内容/投放短视频的静转动管线。 [@aaliya_va](https://x.com/aaliya_va) · [原帖](https://x.com/aaliya_va/status/2099405356300726410)
 
+- **GTA 爷爷分镜：Image 2.5×Seedance 生日任务片** — 六格电影分镜锁同一位台北大爷：邮箱邀请→翻墙→屋顶→跨楼跳→破窗送礼。Image 2.5 钉角色再 Seedance 成片，动作喜剧分镜母版。 [@feesyiam](https://x.com/feesyiam) · [原帖](https://x.com/feesyiam/status/2099401891654615283)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a 6-panel cinematic storyboard for a 30-second action-comedy video, presented as a professional film storyboard/contact sheet. Use a photorealistic open-world video-game aesthetic inspired by modern AAA game engines, with realistic character rendering, detailed environments, cinematic lighting, physically believable materials, dramatic camera work, and subtle game HUD elements.
+
+GLOBAL CHARACTER CONSISTENCY
+
+The exact same elderly Asian grandfather must appear in every panel.
+
+Character: approximately 70–75 years old, short neatly trimmed grey hair, thick grey eyebrows, deep natural facial wrinkles, slightly weathered face, determined but expressive eyes, lean athletic build, surprisingly agile for his age. He wears the same simple beige sleeveless vest over a light-colored collared shirt, dark trousers, practical worn sneakers, and a simple wristwatch throughout the entire sequence.
+
+Maintain identical facial features, hairstyle, clothing, body proportions, and accessories across all six panels. No character redesign, no costume changes.
+
+VISUAL STYLE
+
+Photorealistic AAA open-world game-engine graphics, cinematic realism, detailed skin texture, realistic wrinkles, natural fabric folds, physically accurate reflections, realistic glass, concrete, asphalt and roof tiles, atmospheric Taipei city depth, cinematic color grading, realistic shadows, subtle motion blur.
+
+The world should feel like a living modern Taipei neighborhood, combining traditional narrow shophouses, tiled roofs, dense apartment buildings, scooters, overhead utility wires, signage, narrow streets, modern glass towers, and Taipei 101 in the distance.
+
+Add a subtle GTA-style game HUD overlay consistently throughout action-oriented panels: circular minimap in the lower-left corner, health/stamina bar, small weapon/item icons and minimal interface elements. The HUD should remain secondary to the cinematic visuals and must never obscure the character.
+
+Aspect ratio: 16:9 widescreen.
+Six clearly separated storyboard panels arranged in chronological order.
+Each panel should communicate a distinct moment of the story.
+
+---
+
+PANEL 1 — THE UNEXPECTED INVITATION | 0–5 SECONDS
+
+Wide establishing shot.
+
+A quiet residential street in Taipei during bright late-morning daylight. Traditional Taiwanese shophouses stand beside modern apartment buildings. Scooters are parked along the street, utility cables cross overhead, balconies are filled with plants, and distant traffic creates subtle city atmosphere.
+
+The elderly grandfather stands beside an old metal mailbox attached to a residential gate, casually checking the mail.
+
+He pulls out a colorful birthday invitation card.
+
+In the far background, Taipei 101 rises above the dense city skyline.
+
+Camera: cinematic wide-angle shot, approximately 24mm lens, slightly low camera position, environmental storytelling.
+
+The grandfather initially looks relaxed and curious.
+
+Mood: peaceful, ordinary, slightly comedic.
+
+---
+
+PANEL 2 — HE REALIZES WHOSE BIRTHDAY IT IS | 5–9 SECONDS
+
+Extreme close-up transitioning into a dramatic reaction shot.
+
+The grandfather holds the birthday invitation directly in front of him.
+
+His expression suddenly changes from curiosity to complete shock and excitement.
+
+Eyes wide open, eyebrows raised, mouth slightly open, deep facial wrinkles becoming highly visible. His grip tightens around the invitation.
+
+The card clearly communicates that it is a birthday celebration invitation, without relying on excessive readable text.
+
+Softly blurred Taipei apartment buildings fill the background.
+
+A small breeze moves his shirt collar and grey hair.
+
+Camera: 85mm portrait lens, shallow depth of field, dramatic facial close-up, cinematic bokeh.
+
+Add subtle game-style HUD elements at the edges of the frame.
+
+Mood: surprise → determination.
+
+---
+
+PANEL 3 — NO TIME TO WASTE | 9–14 SECONDS
+
+Dynamic over-the-shoulder action shot.
+
+The grandfather suddenly starts running through the narrow neighborhood.
+
+He reaches a wooden fence blocking his shortcut, plants one hand on it and vaults over it with unexpected athletic ability.
+
+One leg is already over the fence while the other pushes off the ground. His beige vest and shirt move naturally with the motion.
+
+Behind him: narrow Taipei houses, hanging laundry, scooters, air-conditioning units, plants and dense residential architecture.
+
+In front of him: a narrow alley leading toward the city.
+
+Camera: low-angle tracking shot from behind and slightly to the side, approximately 28mm lens.
+
+Add stronger motion blur, dust particles, realistic fabric movement and dynamic sunlight.
+
+HUD becomes more visible: minimap showing his route toward the destination, health/stamina indicator and minimal game interface.
+
+Mood: sudden urgency, humorous action-movie energy.
+
+---
+
+PANEL 4 — THE ROOFTOP SHORTCUT | 14–19 SECONDS
+
+Epic dynamic rooftop chase shot.
+
+The grandfather reaches the rooftops and continues sprinting across the tiled roofs of tightly packed low-rise Taipei buildings.
+
+He runs surprisingly fast despite his age.
+
+Traditional orange-brown roof tiles, satellite dishes, water tanks, antennas and rooftop structures surround him. Far below, narrow streets contain tiny moving scooters, pedestrians and cars.
+
+In the distance, Taipei's modern skyline rises dramatically, with tall glass towers contrasting against the older neighborhood.
+
+Camera: cinematic side-tracking shot combined with a slightly elevated perspective, approximately 35mm lens.
+
+His feet land naturally on individual roof tiles. Clothing reacts realistically to each stride. Strong afternoon sunlight creates long shadows across the rooftops.
+
+Mood: spectacular, fast-paced, unexpectedly heroic.
+
+---
+
+PANEL 5 — THE IMPOSSIBLE JUMP | 19–25 SECONDS
+
+Large-scale cinematic aerial action shot.
+
+The grandfather reaches the edge of a rooftop and launches himself into a massive leap between two high-rise buildings.
+
+His body is completely airborne, arms extended forward, determined expression visible on his face.
+
+Below him, Taipei streets appear dramatically far away. Glass skyscrapers surround him, reflecting the bright sky.
+
+Taipei 101 dominates the background, creating an unmistakable sense of scale and location.
+
+Use a dramatic camera positioned slightly below and in front of him, making the grandfather appear heroic and larger-than-life.
+
+Camera: wide cinematic lens, approximately 24mm.
+
+Add realistic atmospheric perspective, wind pushing his clothing, subtle motion blur, reflections in surrounding glass buildings and dramatic sunlight.
+
+HUD minimap, stamina bar and interface remain visible but subtle.
+
+Mood: absurdly heroic, high-stakes, comedic exaggeration.
+
+---
+
+PANEL 6 — THE GRAND ENTRANCE | 25–30 SECONDS
+
+Cinematic interior payoff shot.
+
+Inside a luxurious modern high-floor Taipei apartment with floor-to-ceiling windows, contemporary furniture and warm interior lighting.
+
+The grandfather bursts through a large glass window, creating a dramatic but non-gory shower of sparkling glass fragments.
+
+Capture the exact moment after impact: glass suspended in the air around him as he lands firmly on both feet inside the living room.
+
+He straightens his beige vest, completely calm as if nothing unusual happened.
+
+He reaches into his pocket and produces a small wrapped birthday gift.
+
+A surprised group of family members in the apartment stare at him in disbelief.
+
+The grandfather simply gives them a confident, satisfied smile.
+
+Through the broken window behind him, the enormous Taipei skyline and Taipei 101 are clearly visible.
+
+Camera: medium-wide cinematic shot from inside the apartment, approximately 28mm lens, slight low angle.
+
+Warm interior lighting contrasts with the bright blue city outside. Floating glass particles catch the sunlight. Subtle dust and atmospheric particles add realism.
+
+The HUD briefly fades or becomes minimal as the cinematic moment concludes.
+
+Final emotional beat: everyone is shocked; the grandfather is completely calm.
+
+FINAL VISUAL DIRECTION
+
+The entire storyboard should feel like a 30-second cinematic GTA-style action-comedy trailer: ordinary elderly grandfather → shocking invitation → sudden parkour → rooftop chase → impossible skyscraper leap → hilarious birthday entrance.
+
+Maintain perfect character continuity across every panel, consistent Taipei geography, realistic proportions, coherent lighting progression, cinematic composition, realistic physics, detailed environments, and a premium AAA game-engine appearance.
+
+Avoid cartoon styling, anime aesthetics, exaggerated body proportions, character duplication, inconsistent clothing, extra fingers, distorted hands, malformed faces, floating objects, unreadable excessive text, random weapons, unnecessary explosions, or changes to the grandfather's appearance.
+```
+
+  </details>
+
+- **Astra 写分镜 + Sunburst 出图：同界面一条链** — 同一工具里先让 Astra 写分镜提示，再切 GPT 2.5 Sunburst 出静帧，不用跳平台。短片/广告前期分镜管线可抄。 [@zeng_wt](https://x.com/zeng_wt) · [原帖](https://x.com/zeng_wt/status/2099392855982723213)
+
 - **角色表+场景板钉死：Seedance 最多 50 参考** — 先钉角色表与 location plate，再写戏；Seedance 2.5 可吃到约 50 张参考。写实多角戏的防漂配方。 [@kayforkind](https://x.com/kayforkind) · [原帖](https://x.com/kayforkind/status/2099391447128518810)
 
 - **InVideo 拆帧 → Image 2.5 逐帧 rotoscope** — 片子丢进 InVideo 拆帧，代理按风格用 Image 2.5 重绘每帧，仍可逐帧改。定格/转绘从月级压到下午级。 [@ohneisserdemy](https://x.com/ohneisserdemy) · [原帖](https://x.com/ohneisserdemy/status/2099390701582598195)
@@ -3593,7 +3850,7 @@ AUDIO: Generate subtle theater room tone, a synchronized rush of air and nonverb
 
 - **Blender 建模 → Sunburst 精修渲染** — Minimax/Blender 出三维结构，再丢 Sunburst 提质。控形归建模、皮相归 2.5——3D×图像的正经分工。 [@Banyu_Biroeee](https://x.com/Banyu_Biroeee) · [原帖](https://x.com/Banyu_Biroeee/status/2098308242279727175)
 
-- **Flare 车×建筑隐喻海报：路长成了 Camry** — 「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098299916166873371) · [prompt](https://x.com/Diplomeme/status/2098299968260067639)
+- **Flare 车×建筑隐喻海报：路长成了 Camry** — 「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098299916166873371) · [playbook](https://x.com/Diplomeme/status/2098299968260067639)
 
 - **Instant 邪门一句话：诡异不安照片** — 中文短 prompt + Instant：禁止提问、禁止解释文字，专出「暗网硬盘感」。玩恐怖/异质审美的人收藏这句就够。 [@dtzy_88](https://x.com/dtzy_88) · [原帖](https://x.com/dtzy_88/status/2098290580581486858)
   <details>
@@ -3826,6 +4083,18 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **角色→4×4 偶像舞姿表→GIF** — 像素猫示例：先锁人设再压 16 格连贯舞姿，Ima Studio 可直接拼 GIF。表情包/短动效流水线，舞姿表 prompt 可抄。 [@ImaStudio_ai](https://x.com/ImaStudio_ai) · [原帖](https://x.com/ImaStudio_ai/status/2099445897457446934)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the provided character image as the exact reference. Create a clean 4×4 pose sheet with exactly 16 full-body dance poses of the same character, arranged left to right, top to bottom. Keep the character fully consistent in every panel: same design, outfit, colors, and shading. Preserve the same pixel-art style, chibi proportions, sprite scale, outline, colors, and shading.
+Make 16 clearly different but smoothly connectable cute idol dance poses, including: neutral pose, wink, side sway, raised arm, hands-near-cheeks, walking step, slight lean, side turn, crouch, side kick, both paws raised, shy pose, back/three-quarter turn, forward kick, low diagonal lean, and final raised-paw wink pose. The whole sequence should feel like one continuous dance.
+Each panel must contain only one complete full-body character with enough margin around ears, feet, and tail. Use a plain white background with thin black grid dividers and small black numbers 1–16 in the top-left of each panel. No extra characters, extra limbs, missing parts, costume changes, hairstyle changes, props, watermark, or text other than the panel numbers.
+```
+
+  </details>
 
 - **飞吻 4×4 序列帧：没跑过不出厂** — Line 表情包向 16 格实测入库；「爱你哦」白底 1:1 通挂，飞吻循环连贯性偏弱也写进评测。反营销滤镜的真·合集。 [@zouyanjian](https://x.com/zouyanjian) · [原帖](https://x.com/zouyanjian/status/2099422284666884445) · [repo](https://github.com/SmartStudio/baize-prompts/blob/main/prompts/image-gen/GPTImage25-Line%E8%A1%A8%E6%83%85%E5%8C%85%E5%BA%8F%E5%88%97%E5%B8%A7.md)
 
