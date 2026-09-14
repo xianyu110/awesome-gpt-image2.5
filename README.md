@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-11 · **收录 242 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 247 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,160 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Flare 默认 vs Sunburst：ChatGPT 比裸 API 更懂审美** — 同题四路：普通/精度优先/API Flare/API Sunburst。结论狠：ChatGPT 上下文导演感拉满，裸 API 反而更淡——选型别只比型号名。 [@omochgpt](https://x.com/omochgpt) · [原帖](https://x.com/omochgpt/status/2099302189781176717)
+
+- **同 prompt 2→2.5：格斗角色高端 editorial 手感差一截** — Lovart 上同题重跑，2.5 的博物馆级人设海报更干净。附高定角色导演 prompt，换角色名就能出系列。 [@opener_ai](https://x.com/opener_ai) · [原帖](https://x.com/opener_ai/status/2099284978194612471)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+You are a high-fashion editorial image director specializing in transforming fictional characters into restrained, museum-grade portrait compositions.
+
+Your task is to reinterpret a given character into a minimal, cinematic, high-fashion editorial image while preserving their core identity through subtle physical and symbolic cues.
+
+---
+
+🧩 INPUT
+Character: [CHARACTER NAME + SOURCE]
+Optional Direction: [MOOD / KEYWORD / VARIATION — optional]
+
+---
+
+🧠 STEP 1 — CHARACTER ESSENCE EXTRACTION
+Identify and preserve only the essential identity markers:
+
+- Facial structure traits (eyes, jaw, expression tendencies)
+- Signature hairstyle or silhouette logic (reinterpret, never copy literally)
+- Core outfit identity (translate into couture fashion, not costume)
+- Character energy (discipline, chaos, elegance, brutality, etc.)
+
+Reduce everything else.
+
+---
+
+🧱 STEP 2 — COMPOSITION & SPACE
+
+- Off-center composition
+- Subject slightly angled inward
+- Negative space dominates (~60%)
+- Background: soft gradient, neutral tones
+- No environment, no narrative, no props
+
+The space should feel like absence with intention.
+
+---
+
+🧍 STEP 3 — FIGURE PRESENCE
+
+- Upright posture, controlled stillness
+- No action, no dynamic pose
+- Subtle weight shift allowed
+- Framing: upper body to mid-thigh or refined 3/4
+
+The subject exists in a state of contained motion.
+
+---
+
+👔 STEP 4 — COSTUME TRANSLATION
+Transform iconic outfit into high-fashion couture:
+
+- Maintain silhouette logic, not literal design
+- Use structured tailoring (silk, satin, matte luxury fabrics)
+- Reduce exaggerated elements into subtle design cues
+- Colors: desaturated, controlled palette
+- Details: minimal metallic accents or stitching
+
+The outfit should feel like “identity refined into discipline.”
+
+---
+
+💇 STEP 5 — HAIR REINTERPRETATION
+
+- Preserve structural identity (shape logic)
+- Remove exaggeration
+- Make it sculptural, controlled, minimal
+
+---
+
+🧠 STEP 6 — FACE & GAZE
+
+- Expression: emotionally restrained
+- Eyes: focused, present, grounded
+- Mouth: neutral
+- No dramatization, no exaggeration
+
+The gaze should feel inevitable, not aggressive.
+
+---
+
+💡 STEP 7 — LIGHTING
+
+- Single soft key light (~3500K)
+- Gentle contouring on face and body
+- Soft shadows, no harsh contrast
+- Optional subtle rim light
+
+Clarity over drama.
+
+---
+
+🎨 STEP 8 — COLOR SYSTEM
+
+- Base: desaturated cool-neutral
+- Skin: matte, natural
+- Accents: extremely restrained (metallic or tonal depth)
+- Fine film grain texture
+
+---
+
+🔷 STEP 9 — SYMBOLIC MINIMALISM
+Create ONE subtle symbolic element based on the character:
+
+- Shape (circle, line, fracture, symmetry, etc.)
+- Must represent their core power or philosophy
+- Integrated into negative space
+
+No effects. No energy visuals. Only implication.
+
+---
+
+🔤 STEP 10 — TYPOGRAPHY
+Ultra minimal (<8%):
+
+- Character name (spaced lettering)
+- Source (vertical or small)
+- Serial number + concept word
+- One restrained tagline
+
+---
+
+🧊 STEP 11 — FINAL TONE
+The image must feel like:
+
+- A luxury campaign without branding
+- A museum portrait of power
+- Controlled, silent dominance
+
+---
+
+⚠️ ANTI-RULES
+
+- No action pose
+- No combat motion
+- No energy effects
+- No game-style rendering
+- No environmental storytelling
+- No exaggerated anatomy
+- No glossy skin
+
+---
+
+🧾 OUTPUT FORMAT
+Write a single, fully integrated image generation prompt in natural descriptive form (not bullet points), maintaining cinematic clarity and precision.
+```
+
+  </details>
 
 - **同题修车：Flare vs Sunburst 谁更「真」** — 同一 brief（修自行车师傅）、同设置零修图双轨对照。快速建立选模直觉，别靠玄学。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2098397131363025030)
 
@@ -556,6 +710,282 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **Sunburst 半调旅行拼贴：上半真照下半印刷崩解** — 一图两世界：上半锁原片身份，下半撕纸+ASCII+复印网点。旅行 editorial / 档案感海报直接抄，附完整防翻车约束。 [@ShamiWeb3](https://x.com/ShamiWeb3) · [原帖](https://x.com/ShamiWeb3/status/2099316312426381491)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Turn this portrait photo into a single high-end halftone travel-collage poster. Output one poster per uploaded photo — never merge multiple photos into one frame.
+FORMAT
+
+3:4 vertical canvas. Split into two roughly equal zones — real photo on top, printed collage below — divided by one clean, sharp horizontal line. Do not stretch, warp, or reposition the figure to force the proportions.
+TOP HALF — THE REAL SHOT
+
+Preserve the original photo faithfully: same identity, face, expression, pose, hands, clothing, personal items, background structure, natural light and shadow, original color mood. Add only a light high-end color grade and the faintest film grain. Do not redraw or reinterpret the person.
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+
+Same warm gray old-paper background. Rebuild the same figure as a printed collage: torn photographic slices + fixed-width ASCII character fields + photocopy halftone dots.
+
+Keep face, hands, hairstyle, clothing, and one signature item recognizable — identity must survive the breakdown.
+Torn-edge photo fragments carry the face and key structural lines; fabric, shadow, and background dissolve outward into ASCII characters, black halftone dots, and fractured print grain.
+Texture: rough white paper-fiber edges, slight print misregistration, old paper stains, a couple of crop marks, one restrained red calibration bar.
+Color: warm gray paper + black ink + the photo’s own muted original colors + the single red accent. Never fully desaturate.
+Figure fills roughly 60–88% of the frame width — always leave 22–38% of the paper untouched and empty, so it reads as archival print, not a packed terminal screen.
+Add one readable fixed-width title pulled from the photo’s theme, plus the line "REC. STUDY 01" and one short observational caption. A few loose ASCII glyphs can trace the figure’s edge as texture only — never used to fake body detail or invent specs.
+
+MOOD
+
+Early digital systems meets analog photocopy meets underground zine meets modern travel editorial. The figure should feel like it’s surfacing — half photograph, half character, half print — restrained, archival, a little experimental.
+AVOID
+
+Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hidden faces, random symbols with no meaning, invented technical readouts, garbled fake text, author credits, brand logos, QR codes, watermarks.
+```
+
+  </details>
+
+- **自定义大字背景：TEXT HERE 一键换 editorial 海报** — 参考图锁构图排版，自拍锁脸，TEXT HERE 控巨型衬字。小红书 / 人设海报模板，改三个字就能量产。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2099302118104444953)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+MASTER PROMPT — REFERENCE-BASED EDITORIAL PORTRAIT
+
+REFERENCE IMAGE IS MANDATORY.
+
+Use the uploaded reference image as the PRIMARY VISUAL REFERENCE for the entire composition, layout, typography treatment, background, lighting, proportions, depth, and overall premium editorial poster aesthetic.
+
+Use the user's uploaded personal image as the PRIMARY IDENTITY REFERENCE for the subject.
+
+The uploaded subject can be ANY PERSON, male or female. Preserve the exact identity of the person from the uploaded image, including facial structure, facial features, skin tone, hairstyle, hair texture, age, and natural appearance. Do not replace or redesign the person's face.
+
+==================================================
+CUSTOM TEXT CONTROL
+==================================================
+
+TEXT HERE: [TYPE ANY WORD OR SHORT TEXT HERE]
+
+IMPORTANT:
+Whatever text the user writes after "TEXT HERE:" must become the MAIN LARGE BACKGROUND TYPOGRAPHY.
+
+The user can write ANY word, name, phrase, or short custom text they want.
+
+Examples:
+TEXT HERE: LOVE
+TEXT HERE: DREAM
+TEXT HERE: MAGIC
+TEXT HERE: FOREVER
+TEXT HERE: LIFE
+TEXT HERE: WILD
+TEXT HERE: HOPE
+TEXT HERE: ZARNAB
+TEXT HERE: MY STORY
+TEXT HERE: CREATE
+TEXT HERE: FREEDOM
+
+Never automatically use "LOVE" unless the user specifically writes LOVE.
+
+Use the user's exact custom text. Do not invent, replace, misspell, remove, or add words.
+
+==================================================
+SUBJECT & IDENTITY
+==================================================
+
+Place the person naturally in the center of the composition, matching the approximate position, scale, and framing of the reference image.
+
+Preserve the person's exact identity from the uploaded image.
+
+The subject should have a relaxed, natural, candid editorial pose.
+
+The person is holding a small bouquet of fresh yellow wildflowers naturally in both hands, similar to the reference.
+
+Maintain realistic anatomy, natural body proportions, realistic hands and fingers, authentic facial expression, realistic skin texture, and natural hair.
+
+The final image must look like a professionally photographed version of the person, not an AI-generated replacement person.
+
+==================================================
+OUTFIT
+==================================================
+
+Create a clean, casual, elegant outfit inspired by the reference image while keeping it natural for the person's gender, appearance, and identity.
+
+Use realistic fabric texture, natural folds, stitching, shadows, and physically accurate clothing.
+
+Include subtle backpack straps similar to the reference when visually appropriate.
+
+Do not make the outfit overly dramatic or fantasy-like.
+
+==================================================
+BACKGROUND
+==================================================
+
+Recreate the same overall outdoor environment as the reference:
+
+A beautiful dreamy yellow wildflower meadow with soft green foliage and trees in the background, abundant yellow flowers throughout the foreground and midground, warm natural daylight, soft golden sunlight, subtle atmospheric haze, delicate floating light particles, cinematic depth, and a peaceful premium editorial atmosphere.
+
+Keep the background visually very similar in mood, color balance, depth, and softness to the reference image.
+
+Use realistic natural vegetation and physically accurate flowers.
+
+==================================================
+MAIN TYPOGRAPHY
+==================================================
+
+Place the CUSTOM TEXT behind the subject.
+
+The text must be:
+
+- Extremely large
+- Bold
+- Tall and condensed
+- Uppercase
+- Minimal
+- Elegant
+- Cream/off-white
+- Highly readable
+- Vertically dominant
+
+The typography should occupy most of the background, similar to the reference composition.
+
+The person's body must naturally overlap and partially cover the letters, creating a realistic foreground/background layering effect.
+
+The text must remain BEHIND the person — never place the main typography over the person's face or body as a foreground graphic.
+
+Match the reference's typography scale, spacing, positioning, and visual hierarchy as closely as possible.
+
+If the custom text contains multiple words, arrange them in a visually balanced way while keeping the same oversized editorial poster aesthetic.
+
+==================================================
+SMALL TOP TEXT
+==================================================
+
+Add a small minimalist uppercase text above the main typography.
+
+SMALL TEXT HERE: [TYPE SHORT TEXT HERE]
+
+Keep this text subtle, centered, thin/minimal, with generous letter spacing.
+
+If the user does not provide small text, use a simple minimal decorative uppercase word that complements the main custom text without distracting from it.
+
+==================================================
+COMPOSITION
+==================================================
+
+Match the reference image's composition as closely as possible.
+
+Portrait 4:5 aspect ratio.
+
+Keep the subject centered.
+
+Use the oversized custom typography behind the subject.
+
+Maintain the same approximate proportions between:
+
+subject,
+background typography,
+flower field,
+foreground,
+negative space,
+and upper text.
+
+Create strong natural foreground, midground, and background depth.
+
+The final result should feel like a premium fashion/editorial social-media poster.
+
+==================================================
+LIGHTING & CAMERA
+==================================================
+
+Natural soft golden daylight.
+
+Warm cinematic exposure.
+
+Soft realistic shadows.
+
+Gentle highlights.
+
+Natural skin illumination.
+
+Shallow depth of field.
+
+Realistic optical bokeh.
+
+50mm professional portrait photography look.
+
+Subtle cinematic filmic softness.
+
+High dynamic range.
+
+Natural premium color grading.
+
+Avoid excessive HDR, artificial glow, plastic skin, or oversaturated colors.
+
+==================================================
+PHOTOREALISM
+==================================================
+
+Make the final image highly photorealistic.
+
+Preserve:
+
+- Realistic skin pores and texture
+- Individual hair strands
+- Natural facial details
+- Realistic eyes
+- Realistic hands and fingers
+- Physically accurate flowers
+- Natural fabric texture
+- Correct shadows
+- Realistic depth of field
+- Natural perspective
+- Authentic photographic imperfections
+
+The final image should look like a real professional photograph captured with a high-end camera.
+
+==================================================
+STRICT REFERENCE RULES
+==================================================
+
+Use the reference image ONLY for:
+
+- Composition
+- Layout
+- Typography style
+- Typography placement
+- Background environment
+- Lighting
+- Color mood
+- Subject positioning
+- Depth
+- Overall visual aesthetic
+
+Do NOT copy the identity, face, or personal appearance of the person in the reference image.
+
+The user's uploaded image is the ONLY identity reference for the subject.
+
+Do not change the person's identity.
+
+Do not create an unrelated face.
+
+Do not distort the face, hands, fingers, body, flowers, backpack, or clothing.
+
+Do not put the large custom text in front of the person.
+
+Do not use random words.
+
+Do not automatically use "LOVE".
+
+Use EXACTLY the text provided after:
+
+TEXT HERE:
+
+Keep all typography clean, correctly spelled, readable, and professionally integrated into the photograph.
+
+FINAL GOAL:
+Create a highly realistic premium editorial portrait that feels like the SAME visual concept, composition, typography treatment, background, lighting, and aesthetic as the reference image, while using the user's uploaded person as the subject and allowing the user to freely control the large background text through "TEXT HERE:".
+```
+
+  </details>
 
 - **Zara / H&M / Mango / Tommy 四套时尚 campaign 系统** — 同一 Images 2.5 底座，四品牌各一套视觉系统（色板、字体、构图语言分开）。SMM 海报工厂模板；评论区有完整 H&M「NEW UNIFORM」长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098411659002012050)
   <details>
@@ -1449,6 +1879,16 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **女儿国国王：千禧年非主流公式一键出片** — 「千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王」——中文 emoji 公式党再下一城，热点人设直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099303054797606998)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王
+```
+
+  </details>
 
 - **角色连续夜间手机快照：身份锁 + 直闪抓拍** — 同一角色东京雨后夜街系列：后三四分、直闪过曝、走路半步——专治「写真感太假」。UGC / 旅行人设连更可抄整段 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2098413109258207670)
   <details>
