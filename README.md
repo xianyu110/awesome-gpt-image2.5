@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 302 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 307 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,27 +237,122 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
-- **同题秒表：2.0 九十秒 → Flare 二十秒** — 日常缩略图 prompt 实测：2.0≈90s、Flare≈20s、Sunburst≈34s，比官方「最快 50%」还狠。选型先看秒表再谈画质。 [@rutinelabo](https://x.com/rutinelabo) · [原帖](https://x.com/rutinelabo/status/2099445588249182479)
+- **[124 例档案库：prompt + 参数 + Flare/Sunburst 对照](https://x.com/iamrayyang/status/2098315204509729032)** — @iamrayyang：嫌晒图不给配方？这里 124 例 / 185 输出 / 24 组 Flare vs Sunburst，连参数和出处一起收。营销选型先翻库，别再刷时间线碰运气。
 
-- **真正值钱的是返工：局部改+多轮一致性** — 画质只是表层；一次只改该改的、多轮后脸/构图/品牌还能对齐，才进得了真生产。提示词玄学正在贬值。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2099427815829729441)
+- **[2 分钟 → 30 秒 + 多轮](https://x.com/Voxyz_ai/status/2097621370389581931)** — @Voxyz_ai：工作流压缩：更快出稿、多轮仍稳。
 
-- **同 prompt 四格：2.5 更真、更少 AI slop** — 前两张 2.5、后两张 2.0 并排。真实感升级不是嘴炮——少塑料感、多摄影感，选型时拿来打脸最直接。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099417551411494936)
+- **[2.0 vs 2.5：六组高难度同 prompt 硬刚](https://x.com/FinanceYF5/status/2098318028006146332)** — @FinanceYF5：ImagineArt 六组压测（时尚大片、极端镜头角、多色多人物）。选型别靠嘴，并排看谁还站得住。
 
-- **「别把喜欢的地方改坏」：Sunburst 精修 vs Flare 赶量** — 创作者要的往往不是更美，是改背景别毁脸、改字别毁排版。API 里 Sunburst 盯编辑精度、Flare 盯日常量产——选型别混。 [@yu_min_days](https://x.com/yu_min_days) · [原帖](https://x.com/yu_min_days/status/2099392705780756829)
+- **[2.5 vs 2.0 专辑封面硬对比](https://x.com/ArtificialStudi/status/2097899683989385317)** — @ArtificialStudi：同 prompt 比专辑封面，回复里有 prompt。想讲「升级值不值」时有图有真相。
 
-- **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492) · [playbook](https://img.dsxzai.com/)
+- **[2.5 vs 2.0 视频硬对比](https://x.com/kr0der/status/2097963498273988784)** — @kr0der：动态对照比静态截图更有说服力。写升级值不值、做社媒 demo 直接甩。
 
-- **2.5 vs 2.0：80 年代跑车真实感硬对比** — 同一题材拉齐看：车漆、人体皮肤、细节密度一眼分代。选型别听口号，把这组并排截图扔进评审会就完事。 [@icreat_ai](https://x.com/icreat_ai) · [原帖](https://x.com/icreat_ai/status/2099374093263106123)
+- **[2.5 vs 2.0：80 年代跑车真实感硬对比](https://x.com/icreat_ai/status/2099374093263106123)** — @icreat_ai：同一题材拉齐看：车漆、人体皮肤、细节密度一眼分代。选型别听口号，把这组并排截图扔进评审会就完事。
 
-- **官方 Prompt 指南中文提炼：用途→主体→限制** — 先说最终用途，再写主体、构图、风格、光线、材质、文字和限制；指定文字用引号写死位置字体。入门骨架抄这条就够。 [@king1818888](https://x.com/king1818888) · [原帖](https://x.com/king1818888/status/2099336586462695735)
+- **[2.5 vs Banana Pro vs Midjourney，还做成动画](https://x.com/Deevid_AI/status/2097892821386813662)** — @Deevid_AI：同 style prompt 三美横评并直接动起来。比静态截图更适合做选型 demo / 社媒素材。
 
-- **Flare / Sunburst 价格带选型表：别只盯榜一** — 同价双版本按任务分流：Flare 求吞吐默认，Sunburst 求多轮精改。把价格带写进选型表，别被编辑榜分数带跑。 [@jojogh_007](https://x.com/jojogh_007) · [原帖](https://x.com/jojogh_007/status/2099330504034308530)
+- **[23 任务同 prompt：2.5 vs Image 2 对打](https://x.com/DeepMediaLabs/status/2098016564960460826)** — @DeepMediaLabs：2.5 赢在食物质感 + 编辑一致性；2 更稳产品构图；还有两边一起翻车的布局题——升级别神话。
 
-- **Flare 默认 vs Sunburst：ChatGPT 比裸 API 更懂审美** — 同题四路：普通/精度优先/API Flare/API Sunburst。结论狠：ChatGPT 上下文导演感拉满，裸 API 反而更淡——选型别只比型号名。 [@omochgpt](https://x.com/omochgpt) · [原帖](https://x.com/omochgpt/status/2099302189781176717)
+- **[4K +「多写细节」噪点踩坑](https://x.com/TestAI_WORKS/status/2097669038973284576)** — @TestAI_WORKS：4K 加细节指令时 Sunburst/Flare（尤其 Flare）会出现 2.0 低分那种糊噪；落到 2K 才干净。
 
-- **同 prompt 2→2.5：格斗角色高端 editorial 手感差一截** — Lovart 上同题重跑，2.5 的博物馆级人设海报更干净。附高定角色导演 prompt，换角色名就能出系列。 [@opener_ai](https://x.com/opener_ai) · [原帖](https://x.com/opener_ai/status/2099284978194612471)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[50 条开源 prompt 图谱：短句 + 工程长稿](https://x.com/Callirra/status/2098331457232265323)** — @Callirra：371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。
+
+- **[Canvas 速度账：2 → Sunburst → Flare](https://x.com/AndrewPulc/status/2098018760749981786)** — @AndrewPulc：同场景实测 46.5s → 38.7s → 21.4s，作者称几乎不掉质。选型别玄学，先看秒表。
+
+- **[ComfyUI 里 Sunburst 五档成本梯子](https://x.com/DataJuggler007/status/2097882272623988823)** — @DataJuggler007：同 prompt 跑 Low→Max：积分约 3.4 / 7.8 / 30 / 53 / 120。想省钱别盲冲 Max，报价/批图前先看这组数。
+
+- **[CreativeBench 拉满 60 任务](https://x.com/KristiKumrija/status/2097958307633795351)** — @KristiKumrija：Flare/Sunburst 丢进 11 个真实创意流程（产品图到多步改图）。不是又一篇「感觉很强」，是可点开的工作流打分板。
+
+- **[Flare / Sunburst 价格带选型表：别只盯榜一](https://x.com/jojogh_007/status/2099330504034308530)** — @jojogh_007：同价双版本按任务分流：Flare 求吞吐默认，Sunburst 求多轮精改。把价格带写进选型表，别被编辑榜分数带跑。
+
+- **[Flare / Sunburst 体感速度其实差不多](https://x.com/makaneko_AI/status/2097958688321634471)** — @makaneko_AI：高质慢 vs 快但糙：实测速度差没想象大；API 走 Sunburst low 往往更香。一人团队选型直接抄作业。
+
+- **[Flare vs Krea / Seedream / Ideogram 同光影](https://x.com/morphedai/status/2097897854505271703)** — @morphedai：同一「电影安静瞬间」四连拍，选型辩论时甩图就行。
+
+- **[Flare vs Sunburst 对比站](https://x.com/137yugi/status/2097560368684159241)** — @137yugi：并排预览站点，适合快速建立「快 vs 精」直觉。
+
+- **[Flare vs Sunburst：冻结任务再打分](https://x.com/evankang_ai/status/2097704377142407323)** — @evankang_ai：别靠玄学选型。冻结 3 个真实编辑任务、标死 must-stay 区域，按指令成功率/漂移/主体一致/延迟/图 token 成本选赢家。
+
+- **[Flare 打七大模型：商业大片梯队 + 成本](https://x.com/wquguru/status/2097853425669329128)** — @wquguru：官方样本 prompt 横评，第一梯队写死 gpt-image-2.5-flare（更快更接近 Image 2）。选型/报价话术现成。
+
+- **[Flare 翻车预期 + Image 2 贵 3.5 倍](https://x.com/Tino_Xu_/status/2097903246069395707)** — @Tino_Xu_：完整实测：Flare 表现超出预期，同测 Image 2 费用竟是 2.5 的 3.5 倍。做工具/套餐定价的人该看。
+
+- **[Flare 量产下稿 → Sunburst 精修](https://x.com/aichan1224news/status/2098287192628240410)** — @aichan1224news：速度用 Flare 堆构图，好看的再丢 Sunburst。省钱省时间的分工，别全压贵档。
+
+- **[Flare 默认 vs Sunburst：ChatGPT 比裸 API 更懂审美](https://x.com/omochgpt/status/2099302189781176717)** — @omochgpt：同题四路：普通/精度优先/API Flare/API Sunburst。结论狠：ChatGPT 上下文导演感拉满，裸 API 反而更淡——选型别只比型号名。
+
+- **[Image 2 vs 2.5 对比笔记（API 坑）](https://x.com/Lucas_IA_/status/2097705361830531366)** — @Lucas_IA_：2 没有 variant（2.5 默认 Flare）；参考图从 image 变 image_references——写教程/测评时这些细节拉开专业度。
+
+- **[Image 2 vs Flare vs Sunburst 水彩三连](https://x.com/morphedai/status/2097928056178667694)** — @morphedai：同场景对照，Flare/Sunburst 差在哪不用猜。选型时拿来当尺子。
+
+- **[Image 2 左 / 2.5 Sunburst 右零后处理](https://x.com/KeyoAPI/status/2097873150621135282)** — @KeyoAPI：同 prompt 对照，别再嘴炮「感觉更好」，直接甩图。
+
+- **[Image 2.5 案例提示词站：复制就能同款](https://x.com/dashiAIxz/status/2099390242197565492)** — @dashiAIxz：GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。
+
+- **[Image2 → Flare → Sunburst 阶梯](https://x.com/atakoylanai/status/2097568820000850058)** — @atakoylanai：同一题材从旧模爬到 2.5，质量跳档一眼可见。
+
+- **[OpenAI 官方 8 条 Prompt 清单](https://x.com/WEEXAILabs/status/2097970522961350954)** — @WEEXAILabs：用途→分段→材质光线→限制，收成可抄公式；顺带提醒赶量 Flare、抠画质 Sunburst。出广告图前先过一遍少翻车。
+
+- **[Pringles 广告：2.0 vs 2.5](https://x.com/spect3ral/status/2097588805155078576)** — @spect3ral：品牌广告向对比，包装文字与货架感。
+
+- **[Sunburst High / Med / Low 同 prompt](https://x.com/WolfRiccardo/status/2097668754863779900)** — @WolfRiccardo：API 三档画质对照：2.5 的 Medium/Low 仍扎实，选档=控成本。
+
+- **[Sunburst 四轮保真：越改越稳？](https://x.com/GuliMoreno/status/2097961051476164612)** — @GuliMoreno：多轮编辑下身份/构图是否还在。要做长会话改图，先看这组保真实测。
+
+- **[Sunburst 大图坑：越大越糊](https://x.com/truclam_ai/status/2097906383987605932)** — @truclam_ai：图越大，头发/文字/细节越糊。出大尺寸海报前先看一眼，别默默踩坑。
+
+- **[TikTok 哭脸广告片：Image 2 vs 2.5](https://x.com/adriamatz/status/2098048651545260384)** — @adriamatz：同套路短广告对照，升级值不值直接甩视频。投放物料选型用。
+
+- **[Topview 五轮编辑：Flare vs Sunburst](https://x.com/akiyoshisan/status/2097641019806531864)** — @akiyoshisan：多轮改图场景下谁更扛改、谁更飘。
+
+- **[UGC 广告网格：2.0 High vs Sunburst Max](https://x.com/saranshvfx/status/2097604682646528030)** — @saranshvfx：九宫格 UGC 风素材，Max 档位是否值得。
+
+- **[UGC 自然皮肤翻车：2.5 在这场景偏 mid](https://x.com/ItsNazar17/status/2098396894082843074)** — @ItsNazar17：三天实测「刚掏出手机自拍」：塑皮、AI 对称脸、窗光仍像棚拍。反信号也值钱——做假 UGC 前先对症，别默认 2.5。
+
+- **[ZenMux 上 Flare / Sunburst 怎么选](https://x.com/SuperByteSpace/status/2097962843757006979)** — @SuperByteSpace：聚合入口里两型号怎么分流。赶量 vs 终稿，别混着点。
+
+- **[Zenmux 同 prompt：Flare vs Sunburst 硬刚](https://x.com/AI_jacksaku/status/2097878193013199231)** — @AI_jacksaku：一句话并跑两模型，日常配图纠结选谁看完能省半小时玄学。
+
+- **[「别把喜欢的地方改坏」：Sunburst 精修 vs Flare 赶量](https://x.com/yu_min_days/status/2099392705780756829)** — @yu_min_days：创作者要的往往不是更美，是改背景别毁脸、改字别毁排版。API 里 Sunburst 盯编辑精度、Flare 盯日常量产——选型别混。
+
+- **[一句话提分辨率：1152×2048 贴图重渲](https://x.com/oreno_musume/status/2098335755496042610)** — @oreno_musume：旧图贴进 Images 2.5，写目标像素就够。4:3 / 9:16 / 16:9 比例另说——高清化不必玄学。
+
+- **[付费社媒静态广告：Flare/Sunburst 四块分工](https://x.com/nipuntaneja/status/2097694013469982745)** — @nipuntaneja：拆成投放可用四块：Flare 默认量产、Sunburst 精修、reference lock、focused edit。产品图/offer 变体可抄。
+
+- **[儿童涂鸦 img2img 三模对比](https://x.com/justhalfbit/status/2097646029042811046)** — @justhalfbit：Flare / Sunburst / 2.0 对「乱笔画」的忠实度与美化度。
+
+- **[关灯只留蜡烛](https://x.com/SandbaseAI/status/2097806703186055263)** — @SandbaseAI：同图同设置：一句「关灯，只留蜡烛」横评 Image 2 vs 2.5 Sunburst。烛光谁更真，选型一眼定。
+
+  <details><summary>Prompt</summary>
+
+```
+Turn off the lights. Keep only the candles.
+```
+
+  </details>
+
+- **[别按画质选 Flare/Sunburst](https://x.com/MGT_maccha/status/2098018651399975200)** — @MGT_maccha：日文实务：案头排列用 Flare，人物/Logo 不能崩用 Sunburst；公布单价和 2 一样，消耗别拿旧计算器估。
+
+- **[加一颗草莓看出 Flare vs Sunburst 精度差](https://x.com/nocodemba/status/2097785065547984984)** — @nocodemba：同咖啡馆再只加一颗草莓；Sunburst 仍比 Image-2 更快更便宜，精度编辑才是卖点。做广告迭代别盲选「快模式」。
+
+  <details><summary>Prompt</summary>
+
+```
+A realistic product photograph of a blue ceramic cup of coffee on a pale wooden café table. Beside it, a croissant rests on a folded cream linen napkin, with a silver teaspoon to the right. A small upright card reads “SLOW MORNINGS” in clear lettering. Warm sunlight from the left creates soft shadows. Keep the composition uncluttered.
+
+Edit prompt:
+Add one ripe red strawberry on the table directly beside the blue cup. Keep every existing object, the lettering, camera angle, lighting, and composition unchanged.
+```
+
+  </details>
+
+- **[反复改图：2 vs 2.5 谁更扛一致性](https://x.com/eachlabs/status/2098388258715533574)** — @eachlabs：同人同姿势连改衣服/发/背景，盯金属材质与细节谁更稳。UGC 换装、产品改色先看这个对照。
+
+- **[可控性从提示语迁到交互：2.5 综述与对比](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA)** — @卡尔的AI沃茨：Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。
+
+- **[同 prompt 2→2.5：格斗角色高端 editorial 手感差一截](https://x.com/opener_ai/status/2099284978194612471)** — @opener_ai：Lovart 上同题重跑，2.5 的博物馆级人设海报更干净。附高定角色导演 prompt，换角色名就能出系列。
+
+  <details><summary>Prompt</summary>
 
 ```
 You are a high-fashion editorial image director specializing in transforming fictional characters into restrained, museum-grade portrait compositions.
@@ -407,60 +502,11 @@ Write a single, fully integrated image generation prompt in natural descriptive 
 
   </details>
 
-- **同题修车：Flare vs Sunburst 谁更「真」** — 同一 brief（修自行车师傅）、同设置零修图双轨对照。快速建立选模直觉，别靠玄学。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2098397131363025030)
+- **[同 prompt 三模型拆招：Banana / Image 2 / 2.5](https://x.com/hotmer_alan/status/2097958537284751416)** — @hotmer_alan：不盯谁赢，盯构图、文字、细节、遵从度哪块会崩。选型比「一句话冠军」更有用。
 
-- **UGC 自然皮肤翻车：2.5 在这场景偏 mid** — 三天实测「刚掏出手机自拍」：塑皮、AI 对称脸、窗光仍像棚拍。反信号也值钱——做假 UGC 前先对症，别默认 2.5。 [@ItsNazar17](https://x.com/ItsNazar17) · [原帖](https://x.com/ItsNazar17/status/2098396894082843074)
+- **[同 prompt 三连：Flare / Sunburst / NB2](https://x.com/dreamydigiarts/status/2098267794613883368)** — @dreamydigiarts：窗光侧颜耳机人像同一套提示压三模。选型别靠感觉，并排看肤色、阴影条带和细节谁更稳；附完整 prompt。
 
-- **水面完美倒影：2.5 / 2 / Banana / Reve 同题烤炉** — 同一套反射几何约束（平面 Π、手性翻转、水线自重合）压四模。别听口号，直接看谁物理过关；附可复制压测 prompt。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2098389596664963278)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-GPT Image 2.5 vs. GPT Image 2 vs. Nano Banana Pro vs. Reve. Same prompt.
-
-2x2 grid,1:1 AI picks stunning different subjects: Π = reflecting plane: point q, unit normal m
-R(x) = x − 2((x−q)·m) m (reflection across Π)
-reflected image = scene imaged by the VIRTUAL camera R(C) ; every real feature f has twin R(f)
-
-RENDERED
-• reflection is a BIJECTION of the scene across Π ; occlusion order reverses
-• points on Π are fixed → the waterline is self-coincident
-• chirality FLIPS — text and hands are mirror-reversed
-• a vertical object inverts about the waterline ; base-of-object meets base-of-reflection exactly on Π
-• perspective in the reflection is that of R(C): the same vanishing points, mapped
-
-READ OFF
-• k real↔reflected correspondences: each pair's perpendicular-bisector plane must be the SAME Π
-• reflected height / compression is lawful with view angle, not free
-• everything in front of Π that R(C) can see appears — and nothing else
-
-CONSISTENCY
-recover (m̂, q̂) from correspondence pairs — must coincide ; check handedness of every reflected glyph
-FORBIDDEN : a reflection containing an object with NO real pre-image (or dropping one plainly in front) ;
-signage readable forward in the glass ;
-reflected pose / expression differing from the subject ;
-a floating reflection whose base does not meet the object on Π.
-```
-
-  </details>
-
-- **反复改图：2 vs 2.5 谁更扛一致性** — 同人同姿势连改衣服/发/背景，盯金属材质与细节谁更稳。UGC 换装、产品改色先看这个对照。 [@eachlabs](https://x.com/eachlabs) · [原帖](https://x.com/eachlabs/status/2098388258715533574)
-
-- **一句话提分辨率：1152×2048 贴图重渲** — 旧图贴进 Images 2.5，写目标像素就够。4:3 / 9:16 / 16:9 比例另说——高清化不必玄学。 [@oreno_musume](https://x.com/oreno_musume) · [原帖](https://x.com/oreno_musume/status/2098335755496042610)
-
-- **50 条开源 prompt 图谱：短句 + 工程长稿** — 371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。 [@Callirra](https://x.com/Callirra) · [原帖](https://x.com/Callirra/status/2098331457232265323) · [repo](https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas)
-
-- **2.0 vs 2.5：六组高难度同 prompt 硬刚** — ImagineArt 六组压测（时尚大片、极端镜头角、多色多人物）。选型别靠嘴，并排看谁还站得住。 [@FinanceYF5](https://x.com/FinanceYF5) · [原帖](https://x.com/FinanceYF5/status/2098318028006146332)
-
-- **124 例档案库：prompt + 参数 + Flare/Sunburst 对照** — 嫌晒图不给配方？这里 124 例 / 185 输出 / 24 组 Flare vs Sunburst，连参数和出处一起收。营销选型先翻库，别再刷时间线碰运气。 [@iamrayyang](https://x.com/iamrayyang) · [原帖](https://x.com/iamrayyang/status/2098315204509729032) · [repo](https://github.com/yangbishang/gpt-image-2.5-prompt)
-
-- **Flare 量产下稿 → Sunburst 精修** — 速度用 Flare 堆构图，好看的再丢 Sunburst。省钱省时间的分工，别全压贵档。 [@aichan1224news](https://x.com/aichan1224news) · [原帖](https://x.com/aichan1224news/status/2098287192628240410)
-
-- **同图三连：Image 2 / Sunburst / Grok** — gpt-image-2 vs 2.5-Sunburst vs Grok Imagine 2.0 并排。跨厂选型甩图就行，别再嘴炮「感觉更好」。 [@zhang_baoqing](https://x.com/zhang_baoqing) · [原帖](https://x.com/zhang_baoqing/status/2098270719994179587)
-
-- **同 prompt 三连：Flare / Sunburst / NB2** — 窗光侧颜耳机人像同一套提示压三模。选型别靠感觉，并排看肤色、阴影条带和细节谁更稳；附完整 prompt。 [@dreamydigiarts](https://x.com/dreamydigiarts) · [原帖](https://x.com/dreamydigiarts/status/2098267794613883368)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 The woman is positioned indoors by a window, her body turned in profile to the camera, her shoulder jutting forward, her chin slightly raised and resting on the back of her hand, her head turned to the right, her gaze directed toward the light source. The portrait is close-up, from chest to crown, with an eye-level angle. The composition is shifted to the left, the right side of the frame is filled with a softly lit background. Diagonal stripes of light from the window frame or blinds fall across her face and shoulder.
@@ -496,149 +542,131 @@ dramatic sunlight color grading.
 
   </details>
 
-- **同 prompt：2 / Sunburst / Flare 三连** — 东方极简封面同提示压三模。Flare 赶量、Sunburst 抠细节，一眼分档——选型尺子再加一把。 [@zhang_baoqing](https://x.com/zhang_baoqing) · [原帖](https://x.com/zhang_baoqing/status/2098248858283454911)
+- **[同 prompt 同 43 token：Flare 快、Sunburst 稳](https://x.com/misaraeai/status/2098058799001027017)** — @misaraeai：淹城夜景左右开：Flare 抢速度，Sunburst 抠细节。选型直觉一帖讲完。
 
-- **官方 Image Prompting 中文拆解** — Flare/Sunburst 定位 + 官方 8 条写 prompt 原则 + 编辑 must-stay，中文一页抄走。出广告图前当 checklist。 [@XiaoKooeye](https://x.com/XiaoKooeye) · [原帖](https://x.com/XiaoKooeye/status/2098238512676159764)
+- **[同 prompt 四格：2.5 更真、更少 AI slop](https://x.com/Diplomeme/status/2099417551411494936)** — @Diplomeme：前两张 2.5、后两张 2.0 并排。真实感升级不是嘴炮——少塑料感、多摄影感，选型时拿来打脸最直接。
 
-- **同 prompt 抽到 Flare：可能不如 Image 2** — 别盲信版本号：同一套提示抽到 gpt-image-2.5-flare，观感可能输给 Image 2。选型先看型号，再谈升级。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098207695371379164)
+- **[同 prompt 抽到 Flare：可能不如 Image 2](https://x.com/DeepBlueX0/status/2098207695371379164)** — @DeepBlueX0：别盲信版本号：同一套提示抽到 gpt-image-2.5-flare，观感可能输给 Image 2。选型先看型号，再谈升级。
 
-- **同一把水壶，八次链式编辑：2 vs 2.5 Sunburst** — Agent 同流程改壶嘴/把手/盖子，盯身份锁谁更稳。卖「改完还是那个东西」的营销向硬对比。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2098199974303445050)
+- **[同 prompt 纸雕海报 + 六格广告打脸对照](https://x.com/bozhou_ai/status/2097929167266631771)** — @bozhou_ai：条形码/小字/人群压到不同模型上，文字清晰度与排版连贯性一眼见真章。素材选型别靠感觉。
 
-- **同 prompt 同 43 token：Flare 快、Sunburst 稳** — 淹城夜景左右开：Flare 抢速度，Sunburst 抠细节。选型直觉一帖讲完。 [@misaraeai](https://x.com/misaraeai) · [原帖](https://x.com/misaraeai/status/2098058799001027017)
+- **[同 prompt：2 / Sunburst / Flare 三连](https://x.com/zhang_baoqing/status/2098248858283454911)** — @zhang_baoqing：东方极简封面同提示压三模。Flare 赶量、Sunburst 抠细节，一眼分档——选型尺子再加一把。
 
-- **同 prompt：NanoBanana2 vs 2.5 Sunburst/Flare** — 同一套提示压三模，画质/遵从度一眼分档。选型别靠感觉，先看并排。 [@ElitzaVasileva](https://x.com/ElitzaVasileva) · [原帖](https://x.com/ElitzaVasileva/status/2098048981519540723)
+- **[同 prompt：NanoBanana2 vs 2.5 Sunburst/Flare](https://x.com/ElitzaVasileva/status/2098048981519540723)** — @ElitzaVasileva：同一套提示压三模，画质/遵从度一眼分档。选型别靠感觉，先看并排。
 
-- **TikTok 哭脸广告片：Image 2 vs 2.5** — 同套路短广告对照，升级值不值直接甩视频。投放物料选型用。 [@adriamatz](https://x.com/adriamatz) · [原帖](https://x.com/adriamatz/status/2098048651545260384)
+- **[同 seed 连跑：版本落差比半个号大](https://x.com/sunra_ai/status/2097884945276686720)** — @sunra_ai：同 prompt、同 seed 对照，落差比「半个版本号」大；Image 2.5 已上 Sunra。写评测别只比 UI 截图。
 
-- **Canvas 速度账：2 → Sunburst → Flare** — 同场景实测 46.5s → 38.7s → 21.4s，作者称几乎不掉质。选型别玄学，先看秒表。 [@AndrewPulc](https://x.com/AndrewPulc) · [原帖](https://x.com/AndrewPulc/status/2098018760749981786)
+- **[同一把水壶，八次链式编辑：2 vs 2.5 Sunburst](https://x.com/SandbaseAI/status/2098199974303445050)** — @SandbaseAI：Agent 同流程改壶嘴/把手/盖子，盯身份锁谁更稳。卖「改完还是那个东西」的营销向硬对比。
 
-- **别按画质选 Flare/Sunburst** — 日文实务：案头排列用 Flare，人物/Logo 不能崩用 Sunburst；公布单价和 2 一样，消耗别拿旧计算器估。 [@MGT_maccha](https://x.com/MGT_maccha) · [原帖](https://x.com/MGT_maccha/status/2098018651399975200)
+- **[同图三连：Image 2 / Sunburst / Grok](https://x.com/zhang_baoqing/status/2098270719994179587)** — @zhang_baoqing：gpt-image-2 vs 2.5-Sunburst vs Grok Imagine 2.0 并排。跨厂选型甩图就行，别再嘴炮「感觉更好」。
 
-- **23 任务同 prompt：2.5 vs Image 2 对打** — 2.5 赢在食物质感 + 编辑一致性；2 更稳产品构图；还有两边一起翻车的布局题——升级别神话。 [@DeepMediaLabs](https://x.com/DeepMediaLabs) · [原帖](https://x.com/DeepMediaLabs/status/2098016564960460826)
+- **[同图四阶梯子：Banana → 2 → Sunburst → Flare](https://x.com/CHAO2U_AI/status/2097668790809165918)** — @CHAO2U_AI：原图 Nano Banana Pro 一路爬到 2.5，对外讲「换模型收益」很直观。
 
-- **线控压力测：Raster distortion 才是正经 benchmark** — 细线要在复杂形体上保持干净连续。2.5 仍有小瑕疵，但线控明显更好——海报/品牌/文化视觉能用，附 prompt。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098012211482382380)
+- **[同题修车：Flare vs Sunburst 谁更「真」](https://x.com/SandbaseAI/status/2098397131363025030)** — @SandbaseAI：同一 brief（修自行车师傅）、同设置零修图双轨对照。快速建立选模直觉，别靠玄学。
 
-- **日文实务：Flare/Sunburst 同价 API 差分** — 同价位下 Flare vs Sunburst 差分写清楚。报价/选型别再靠「感觉贵一点就更好」。 [@rsensui](https://x.com/rsensui) · [原帖](https://x.com/rsensui/status/2097989282116042813)
+- **[同题秒表：2.0 九十秒 → Flare 二十秒](https://x.com/rutinelabo/status/2099445588249182479)** — @rutinelabo：日常缩略图 prompt 实测：2.0≈90s、Flare≈20s、Sunburst≈34s，比官方「最快 50%」还狠。选型先看秒表再谈画质。
 
-- **投放静图四件套：Flare / Sunburst / 锁参考 / 局部改** — 付费社媒静态广告拆成四块工作流。量产用 Flare，终稿 Sunburst，参考锁 + focused edit 控漂移。 [@learnbyIsmail](https://x.com/learnbyIsmail) · [原帖](https://x.com/learnbyIsmail/status/2097977460403130371)
+- **[多轮编辑崩坏对照：哪一轮开始飘](https://x.com/luoxiaoshan_ai/status/2097930409518768543)** — @luoxiaoshan_ai：连续改图何时身份崩、构图飞。长会话改稿前先设止损轮数。
 
-- **OpenAI 官方 8 条 Prompt 清单** — 用途→分段→材质光线→限制，收成可抄公式；顺带提醒赶量 Flare、抠画质 Sunburst。出广告图前先过一遍少翻车。 [@WEEXAILabs](https://x.com/WEEXAILabs) · [原帖](https://x.com/WEEXAILabs/status/2097970522961350954)
+- **[官方 Image Prompting 中文拆解](https://x.com/XiaoKooeye/status/2098238512676159764)** — @XiaoKooeye：Flare/Sunburst 定位 + 官方 8 条写 prompt 原则 + 编辑 must-stay，中文一页抄走。出广告图前当 checklist。
 
-- **2.5 vs 2.0 视频硬对比** — 动态对照比静态截图更有说服力。写升级值不值、做社媒 demo 直接甩。 [@kr0der](https://x.com/kr0der) · [原帖](https://x.com/kr0der/status/2097963498273988784)
+- **[官方 Image Prompting 指南要点](https://developers.openai.com/api/docs/guides/image-prompting)** — @OpenAI：Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。
 
-- **ZenMux 上 Flare / Sunburst 怎么选** — 聚合入口里两型号怎么分流。赶量 vs 终稿，别混着点。 [@SuperByteSpace](https://x.com/SuperByteSpace) · [原帖](https://x.com/SuperByteSpace/status/2097962843757006979)
+- **[官方 Prompt 八股文，中文一页抄走](https://x.com/csoooooooo/status/2097864779859976637)** — @csoooooooo：生成目的、可见细节、姿态视线、画面文字位置……别再堆氛围词。小红书/落地页文案直接当 checklist。
 
-- **Sunburst 四轮保真：越改越稳？** — 多轮编辑下身份/构图是否还在。要做长会话改图，先看这组保真实测。 [@GuliMoreno](https://x.com/GuliMoreno) · [原帖](https://x.com/GuliMoreno/status/2097961051476164612)
+- **[官方 Prompt 指南中文提炼：用途→主体→限制](https://x.com/king1818888/status/2099336586462695735)** — @king1818888：先说最终用途，再写主体、构图、风格、光线、材质、文字和限制；指定文字用引号写死位置字体。入门骨架抄这条就够。
 
-- **Flare / Sunburst 体感速度其实差不多** — 高质慢 vs 快但糙：实测速度差没想象大；API 走 Sunburst low 往往更香。一人团队选型直接抄作业。 [@makaneko_AI](https://x.com/makaneko_AI) · [原帖](https://x.com/makaneko_AI/status/2097958688321634471)
+- **[延迟硬测：17s / 35s / 74s](https://x.com/matthieu_ai/status/2097620938183295288)** — @matthieu_ai：Flare 17.42s · Sunburst 35.13s · Image2 1m14s，排队与体感都写清了。
 
-- **同 prompt 三模型拆招：Banana / Image 2 / 2.5** — 不盯谁赢，盯构图、文字、细节、遵从度哪块会崩。选型比「一句话冠军」更有用。 [@hotmer_alan](https://x.com/hotmer_alan) · [原帖](https://x.com/hotmer_alan/status/2097958537284751416)
+- **[手部 vs Grok：Flare / Sunburst 谁更稳](https://x.com/luladogdog/status/2097551019295248486)** — @luladogdog：社区横向对比手部结构与真实感，选型前先看这一帖。
 
-- **CreativeBench 拉满 60 任务** — Flare/Sunburst 丢进 11 个真实创意流程（产品图到多步改图）。不是又一篇「感觉很强」，是可点开的工作流打分板。 [@KristiKumrija](https://x.com/KristiKumrija) · [原帖](https://x.com/KristiKumrija/status/2097958307633795351)
+- **[投放静图四件套：Flare / Sunburst / 锁参考 / 局部改](https://x.com/learnbyIsmail/status/2097977460403130371)** — @learnbyIsmail：付费社媒静态广告拆成四块工作流。量产用 Flare，终稿 Sunburst，参考锁 + focused edit 控漂移。
 
-- **指令锁死比拼：2.5 赢 Banana Pro** — 同套 stop-motion prompt（土壤占比、花心坐标、叶片数量全写死）对打。做精确分镜的人该存：听指令比好看更值钱。 [@ekcheungAI](https://x.com/ekcheungAI) · [原帖](https://x.com/ekcheungAI/status/2097943789704720820)
+- **[指令锁死比拼：2.5 赢 Banana Pro](https://x.com/ekcheungAI/status/2097943789704720820)** — @ekcheungAI：同套 stop-motion prompt（土壤占比、花心坐标、叶片数量全写死）对打。做精确分镜的人该存：听指令比好看更值钱。
 
-- **木版画：2 / Flare / Sunburst 三连** — 同题材三模吃纹理的差异。做版画/印刷风素材选型时当尺子。 [@morphedai](https://x.com/morphedai) · [原帖](https://x.com/morphedai/status/2097943157585424694)
+- **[日文实务：Flare/Sunburst 同价 API 差分](https://x.com/rsensui/status/2097989282116042813)** — @rsensui：同价位下 Flare vs Sunburst 差分写清楚。报价/选型别再靠「感觉贵一点就更好」。
 
-- **多轮编辑崩坏对照：哪一轮开始飘** — 连续改图何时身份崩、构图飞。长会话改稿前先设止损轮数。 [@luoxiaoshan_ai](https://x.com/luoxiaoshan_ai) · [原帖](https://x.com/luoxiaoshan_ai/status/2097930409518768543)
+- **[曲网格难题：Higgsfield 硬对比](https://x.com/maarcoofdezz/status/2097622915730604249)** — @maarcoofdezz：曲面网格这类「几何地狱」题，看 2.5 吃不吃得住。
 
-- **同 prompt 纸雕海报 + 六格广告打脸对照** — 条形码/小字/人群压到不同模型上，文字清晰度与排版连贯性一眼见真章。素材选型别靠感觉。 [@bozhou_ai](https://x.com/bozhou_ai) · [原帖](https://x.com/bozhou_ai/status/2097929167266631771)
+- **[木版画：2 / Flare / Sunburst 三连](https://x.com/morphedai/status/2097943157585424694)** — @morphedai：同题材三模吃纹理的差异。做版画/印刷风素材选型时当尺子。
 
-- **Image 2 vs Flare vs Sunburst 水彩三连** — 同场景对照，Flare/Sunburst 差在哪不用猜。选型时拿来当尺子。 [@morphedai](https://x.com/morphedai) · [原帖](https://x.com/morphedai/status/2097928056178667694)
+- **[水面完美倒影：2.5 / 2 / Banana / Reve 同题烤炉](https://x.com/Gdgtify/status/2098389596664963278)** — @Gdgtify：同一套反射几何约束（平面 Π、手性翻转、水线自重合）压四模。别听口号，直接看谁物理过关；附可复制压测 prompt。
 
-- **Sunburst 大图坑：越大越糊** — 图越大，头发/文字/细节越糊。出大尺寸海报前先看一眼，别默默踩坑。 [@truclam_ai](https://x.com/truclam_ai) · [原帖](https://x.com/truclam_ai/status/2097906383987605932)
-
-- **Flare 翻车预期 + Image 2 贵 3.5 倍** — 完整实测：Flare 表现超出预期，同测 Image 2 费用竟是 2.5 的 3.5 倍。做工具/套餐定价的人该看。 [@Tino_Xu_](https://x.com/Tino_Xu_) · [原帖](https://x.com/Tino_Xu_/status/2097903246069395707)
-
-- **2.5 vs 2.0 专辑封面硬对比** — 同 prompt 比专辑封面，回复里有 prompt。想讲「升级值不值」时有图有真相。 [@ArtificialStudi](https://x.com/ArtificialStudi) · [原帖](https://x.com/ArtificialStudi/status/2097899683989385317)
-
-- **Flare vs Krea / Seedream / Ideogram 同光影** — 同一「电影安静瞬间」四连拍，选型辩论时甩图就行。 [@morphedai](https://x.com/morphedai) · [原帖](https://x.com/morphedai/status/2097897854505271703)
-
-- **2.5 vs Banana Pro vs Midjourney，还做成动画** — 同 style prompt 三美横评并直接动起来。比静态截图更适合做选型 demo / 社媒素材。 [@Deevid_AI](https://x.com/Deevid_AI) · [原帖](https://x.com/Deevid_AI/status/2097892821386813662)
-
-- **同 seed 连跑：版本落差比半个号大** — 同 prompt、同 seed 对照，落差比「半个版本号」大；Image 2.5 已上 Sunra。写评测别只比 UI 截图。 [@sunra_ai](https://x.com/sunra_ai) · [原帖](https://x.com/sunra_ai/status/2097884945276686720)
-
-- **ComfyUI 里 Sunburst 五档成本梯子** — 同 prompt 跑 Low→Max：积分约 3.4 / 7.8 / 30 / 53 / 120。想省钱别盲冲 Max，报价/批图前先看这组数。 [@DataJuggler007](https://x.com/DataJuggler007) · [原帖](https://x.com/DataJuggler007/status/2097882272623988823)
-
-- **Zenmux 同 prompt：Flare vs Sunburst 硬刚** — 一句话并跑两模型，日常配图纠结选谁看完能省半小时玄学。 [@AI_jacksaku](https://x.com/AI_jacksaku) · [原帖](https://x.com/AI_jacksaku/status/2097878193013199231)
-
-- **Image 2 左 / 2.5 Sunburst 右零后处理** — 同 prompt 对照，别再嘴炮「感觉更好」，直接甩图。 [@KeyoAPI](https://x.com/KeyoAPI) · [原帖](https://x.com/KeyoAPI/status/2097873150621135282)
-
-- **官方 Prompt 八股文，中文一页抄走** — 生成目的、可见细节、姿态视线、画面文字位置……别再堆氛围词。小红书/落地页文案直接当 checklist。 [@csoooooooo](https://x.com/csoooooooo) · [原帖](https://x.com/csoooooooo/status/2097864779859976637)
-
-- **Flare 打七大模型：商业大片梯队 + 成本** — 官方样本 prompt 横评，第一梯队写死 gpt-image-2.5-flare（更快更接近 Image 2）。选型/报价话术现成。 [@wquguru](https://x.com/wquguru) · [原帖](https://x.com/wquguru/status/2097853425669329128)
-
-- **关灯只留蜡烛** — 同图同设置：一句「关灯，只留蜡烛」横评 Image 2 vs 2.5 Sunburst。烛光谁更真，选型一眼定。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2097806703186055263)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
-Turn off the lights. Keep only the candles.
-```
+GPT Image 2.5 vs. GPT Image 2 vs. Nano Banana Pro vs. Reve. Same prompt.
 
-  </details>
+2x2 grid,1:1 AI picks stunning different subjects: Π = reflecting plane: point q, unit normal m
+R(x) = x − 2((x−q)·m) m (reflection across Π)
+reflected image = scene imaged by the VIRTUAL camera R(C) ; every real feature f has twin R(f)
 
-- **加一颗草莓看出 Flare vs Sunburst 精度差** — 同咖啡馆再只加一颗草莓；Sunburst 仍比 Image-2 更快更便宜，精度编辑才是卖点。做广告迭代别盲选「快模式」。 [@nocodemba](https://x.com/nocodemba) · [原帖](https://x.com/nocodemba/status/2097785065547984984)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+RENDERED
+• reflection is a BIJECTION of the scene across Π ; occlusion order reverses
+• points on Π are fixed → the waterline is self-coincident
+• chirality FLIPS — text and hands are mirror-reversed
+• a vertical object inverts about the waterline ; base-of-object meets base-of-reflection exactly on Π
+• perspective in the reflection is that of R(C): the same vanishing points, mapped
 
-```
-A realistic product photograph of a blue ceramic cup of coffee on a pale wooden café table. Beside it, a croissant rests on a folded cream linen napkin, with a silver teaspoon to the right. A small upright card reads “SLOW MORNINGS” in clear lettering. Warm sunlight from the left creates soft shadows. Keep the composition uncluttered.
+READ OFF
+• k real↔reflected correspondences: each pair's perpendicular-bisector plane must be the SAME Π
+• reflected height / compression is lawful with view angle, not free
+• everything in front of Π that R(C) can see appears — and nothing else
 
-Edit prompt:
-Add one ripe red strawberry on the table directly beside the blue cup. Keep every existing object, the lettering, camera angle, lighting, and composition unchanged.
+CONSISTENCY
+recover (m̂, q̂) from correspondence pairs — must coincide ; check handedness of every reflected glyph
+FORBIDDEN : a reflection containing an object with NO real pre-image (or dropping one plainly in front) ;
+signage readable forward in the glass ;
+reflected pose / expression differing from the subject ;
+a floating reflection whose base does not meet the object on Π.
 ```
 
   </details>
 
-- **Image 2 vs 2.5 对比笔记（API 坑）** — 2 没有 variant（2.5 默认 Flare）；参考图从 image 变 image_references——写教程/测评时这些细节拉开专业度。 [@Lucas_IA_](https://x.com/Lucas_IA_) · [原帖](https://x.com/Lucas_IA_/status/2097705361830531366)
+- **[真正值钱的是返工：局部改+多轮一致性](https://x.com/Adam38363368936/status/2099427815829729441)** — @Adam38363368936：画质只是表层；一次只改该改的、多轮后脸/构图/品牌还能对齐，才进得了真生产。提示词玄学正在贬值。
 
-- **Flare vs Sunburst：冻结任务再打分** — 别靠玄学选型。冻结 3 个真实编辑任务、标死 must-stay 区域，按指令成功率/漂移/主体一致/延迟/图 token 成本选赢家。 [@evankang_ai](https://x.com/evankang_ai) · [原帖](https://x.com/evankang_ai/status/2097704377142407323)
+- **[线控压力测：Raster distortion 才是正经 benchmark](https://x.com/MrLarus/status/2098012211482382380)** — @MrLarus：细线要在复杂形体上保持干净连续。2.5 仍有小瑕疵，但线控明显更好——海报/品牌/文化视觉能用，附 prompt。
 
-- **付费社媒静态广告：Flare/Sunburst 四块分工** — 拆成投放可用四块：Flare 默认量产、Sunburst 精修、reference lock、focused edit。产品图/offer 变体可抄。 [@nipuntaneja](https://x.com/nipuntaneja) · [原帖](https://x.com/nipuntaneja/status/2097694013469982745)
-
-- **4K +「多写细节」噪点踩坑** — 4K 加细节指令时 Sunburst/Flare（尤其 Flare）会出现 2.0 低分那种糊噪；落到 2K 才干净。 [@TestAI_WORKS](https://x.com/TestAI_WORKS) · [原帖](https://x.com/TestAI_WORKS/status/2097669038973284576)
-
-- **同图四阶梯子：Banana → 2 → Sunburst → Flare** — 原图 Nano Banana Pro 一路爬到 2.5，对外讲「换模型收益」很直观。 [@CHAO2U_AI](https://x.com/CHAO2U_AI) · [原帖](https://x.com/CHAO2U_AI/status/2097668790809165918)
-
-- **Sunburst High / Med / Low 同 prompt** — API 三档画质对照：2.5 的 Medium/Low 仍扎实，选档=控成本。 [@WolfRiccardo](https://x.com/WolfRiccardo) · [原帖](https://x.com/WolfRiccardo/status/2097668754863779900)
-
-- **儿童涂鸦 img2img 三模对比** — Flare / Sunburst / 2.0 对「乱笔画」的忠实度与美化度。 [@justhalfbit](https://x.com/justhalfbit) · [原帖](https://x.com/justhalfbit/status/2097646029042811046)
-
-- **Topview 五轮编辑：Flare vs Sunburst** — 多轮改图场景下谁更扛改、谁更飘。 [@akiyoshisan](https://x.com/akiyoshisan) · [原帖](https://x.com/akiyoshisan/status/2097641019806531864)
-
-- **曲网格难题：Higgsfield 硬对比** — 曲面网格这类「几何地狱」题，看 2.5 吃不吃得住。 [@maarcoofdezz](https://x.com/maarcoofdezz) · [原帖](https://x.com/maarcoofdezz/status/2097622915730604249)
-
-- **2 分钟 → 30 秒 + 多轮** — 工作流压缩：更快出稿、多轮仍稳。 [@Voxyz_ai](https://x.com/Voxyz_ai) · [原帖](https://x.com/Voxyz_ai/status/2097621370389581931)
-
-- **延迟硬测：17s / 35s / 74s** — Flare 17.42s · Sunburst 35.13s · Image2 1m14s，排队与体感都写清了。 [@matthieu_ai](https://x.com/matthieu_ai) · [原帖](https://x.com/matthieu_ai/status/2097620938183295288)
-
-- **UGC 广告网格：2.0 High vs Sunburst Max** — 九宫格 UGC 风素材，Max 档位是否值得。 [@saranshvfx](https://x.com/saranshvfx) · [原帖](https://x.com/saranshvfx/status/2097604682646528030)
-
-- **Pringles 广告：2.0 vs 2.5** — 品牌广告向对比，包装文字与货架感。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2097588805155078576)
-
-- **速度与成本实测** — 2.0：约 120s / 20¢；Flare：约 20s / 5¢；Sunburst：约 31s / 5¢。赶量先看这组数。 [@illyism](https://x.com/illyism) · [原帖](https://x.com/illyism/status/2097584023627239575)
-
-- **Image2 → Flare → Sunburst 阶梯** — 同一题材从旧模爬到 2.5，质量跳档一眼可见。 [@atakoylanai](https://x.com/atakoylanai) · [原帖](https://x.com/atakoylanai/status/2097568820000850058)
-
-- **Flare vs Sunburst 对比站** — 并排预览站点，适合快速建立「快 vs 精」直觉。 [@137yugi](https://x.com/137yugi) · [原帖](https://x.com/137yugi/status/2097560368684159241)
-
-- **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486)
-
-- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
-
-- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
+- **[速度与成本实测](https://x.com/illyism/status/2097584023627239575)** — @illyism：2.0：约 120s / 20¢；Flare：约 20s / 5¢；Sunburst：约 31s / 5¢。赶量先看这组数。
 
 
 ## Sketch
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
-- **Fashion Sketch→童话高定：2.5 出图 + MiniMax 成片** — 冰川蓝丝绸+水晶绣+层叠欧根纱，Sketch 变城堡晨雾大片再接视频。时装内容从线稿到成片一条链。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2099413148684234773)
+- **[Doodle / Markup：空白涂鸦或标注局部当参考图](https://x.com/atlas_cloud_ai/status/2098419940361642006)** — @atlas_cloud_ai：Atlas 上 Image 2.5：画布涂鸦进参考，或在已有图上标注局部改。Sketch 工作流的产品化版本。
 
-- **Sketch→扎哈风美术馆：一句话草图变建筑** — 手绘草图在空中长成扎哈·哈迪德未来主义场馆。建筑/空间概念快速可视化，Sketch 控形最直观的一刀。 [@XiaoKooeye](https://x.com/XiaoKooeye) · [原帖](https://x.com/XiaoKooeye/status/2099408374249169169)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[Fashion Sketch→童话高定：2.5 出图 + MiniMax 成片](https://x.com/listudio/status/2099413148684234773)** — @listudio：冰川蓝丝绸+水晶绣+层叠欧根纱，Sketch 变城堡晨雾大片再接视频。时装内容从线稿到成片一条链。
+
+- **[Sketch → 油画成片](https://x.com/Mayorkng98/status/2097930655375970768)** — @Mayorkng98：线稿控形后切油画质感。艺术封面/展览视觉，先形后质。
+
+- **[Sketch 上手实测：视频直接秀控形](https://x.com/Elizaveta_ai/status/2098401123623199128)** — @Elizaveta_ai：ChatGPT Images 2.5 Sketch 试玩成片视频，比纯截图更直观。给客户/团队 demo「控形能干啥」用这条。
+
+- **[Sketch 关键词 + 线情绪怎么写](https://x.com/wenwen11703261/status/2097963306116084142)** — @wenwen11703261：线稿不只锁形，还要写清线情绪。控形 prompt 的细节档位可抄。
+
+- **[Sketch 养演讲插图：草图+brief 终于对得上](https://x.com/Mappletons/status/2098430366692388922)** — @Mappletons：Maggie Appleton：2.5 能跟草图和 brief 对齐，整场 talk 幻灯片开造；并踩 MJ/Gemini「永远只对 60%」。
+
+- **[Sketch 前后对比](https://x.com/ontm0422ai/status/2097585415264125325)** — @ontm0422ai：从线稿到成片的 before/after，适合给客户演示流程。
+
+- **[Sketch 动漫海报](https://x.com/lycoris_zephyr/status/2097612107818664107)** — @lycoris_zephyr：海报级文字与角色，草图先行再 Sunburst 精修。
+
+- **[Sketch 实测 walkthrough 视频](https://x.com/bartslodyczka/status/2097906238088765909)** — @bartslodyczka：视频过一遍 Images 2.5：Sketch、参考图一致性、指令跟随都强；编辑间不完全一致。快速建立「2.5 能干啥」心智。
+
+- **[Sketch 打光指南](https://x.com/micchan8_/status/2097566459308417382)** — @micchan8_：草图阶段就把光位画对，出图少返工。
+
+- **[Sketch 涂鸦→AI 角色 + note](https://x.com/teddypooh_bear/status/2098035177968824347)** — @teddypooh_bear：一笔乱画做出角色，还能边聊边改；附上手感想，适合给客户演示「零门槛从草图开干」。
+
+- **[Sketch 演示视频](https://x.com/minchoi/status/2097641752169427250)** — @minchoi：完整录屏：怎么画、怎么点、怎么迭代。
+
+- **[Sketch 画框做封面布局](https://x.com/tokenai888/status/2097648993388093656)** — @tokenai888：少跟模型解释构图：@Sketch 标标题/人物/产品位置。
+
+- **[Sketch 真能当蓝图：涂鸦→厚涂奇幻生物](https://x.com/RockyXu3000/status/2098391683855708543)** — @RockyXu3000：极简涂鸦一摆，厚涂奇幻生物成片路径一目了然。一人团队做角色概念，这套最省话。
+
+- **[Sketch/Doodle 完整 walkthrough：草图只锁构图](https://x.com/atlas_remake/status/2097987154890944892)** — @atlas_remake：从涂鸦到成片的完整步骤：草图只负责构图骨架，风格后置。不会画画也能控形出片。
+
+- **[Sketch→扎哈风美术馆：一句话草图变建筑](https://x.com/XiaoKooeye/status/2099408374249169169)** — @XiaoKooeye：手绘草图在空中长成扎哈·哈迪德未来主义场馆。建筑/空间概念快速可视化，Sketch 控形最直观的一刀。
+
+  <details><summary>Prompt</summary>
 
 ```
 一个简单的手绘草图在空中逐渐转化为一座具有扎哈·哈迪德风格的未来主义美术馆。
@@ -646,25 +674,15 @@ Sketch 工作流演示：控形、打光、画框布局与容错。
 
   </details>
 
-- **手绘 Sketch→实拍：降低提示词门槛的三步法** — 说不清就先画：Sketch 降低小白门槛，也给会画的人当快速变体草稿机。韩语 Daily Prompt 830 号拆解可对照。 [@dailyprompt_](https://x.com/dailyprompt_) · [原帖](https://x.com/dailyprompt_/status/2099393116164030795)
+- **[Sketch→编辑风造型：线稿+布料色卡+鞋款](https://x.com/itsphotogptai/status/2098064713024409655)** — @itsphotogptai：铅笔稿 + 三块布料色卡 + 鞋子参考出 editorial look；工作流和 prompt 在首评。时尚/电商造型图可抄。
 
-- **Sketch 养演讲插图：草图+brief 终于对得上** — Maggie Appleton：2.5 能跟草图和 brief 对齐，整场 talk 幻灯片开造；并踩 MJ/Gemini「永远只对 60%」。 [@Mappletons](https://x.com/Mappletons) · [原帖](https://x.com/Mappletons/status/2098430366692388922)
+- **[Sketch：不会画画也能迭代出片](https://x.com/derrickcchoi/status/2097703973671334359)** — @derrickcchoi：草图 → Images 2.5 → 继续改。视频演示「不会画也能出货」，Sketch 种草最佳素材之一。
 
-- **Doodle / Markup：空白涂鸦或标注局部当参考图** — Atlas 上 Image 2.5：画布涂鸦进参考，或在已有图上标注局部改。Sketch 工作流的产品化版本。 [@atlas_cloud_ai](https://x.com/atlas_cloud_ai) · [原帖](https://x.com/atlas_cloud_ai/status/2098419940361642006)
+- **[tldraw 24h 升级 ChatGPT Sketch：demo + live kit](https://x.com/tldraw/status/2098132314987303251)** — @tldraw：官方画板队连夜跟上 2.5 Sketch：30 分钟演示 + 可玩 live kit。控形出片别只看截图，直接上手拖线框。
 
-- **Sketch 上手实测：视频直接秀控形** — ChatGPT Images 2.5 Sketch 试玩成片视频，比纯截图更直观。给客户/团队 demo「控形能干啥」用这条。 [@Elizaveta_ai](https://x.com/Elizaveta_ai) · [原帖](https://x.com/Elizaveta_ai/status/2098401123623199128)
+- **[中文 Sketch 构图：方框箭头锁结构](https://x.com/derek_wall90176/status/2098233953949983197)** — @derek_wall90176：写三百字说不清站位？@Sketch 用 A/B/C 区 + 箭头 + 留白虚线。草图管位置，文字管内容——中文可抄公式。
 
-- **Sketch 真能当蓝图：涂鸦→厚涂奇幻生物** — 极简涂鸦一摆，厚涂奇幻生物成片路径一目了然。一人团队做角色概念，这套最省话。 [@RockyXu3000](https://x.com/RockyXu3000) · [原帖](https://x.com/RockyXu3000/status/2098391683855708543)
-
-- **实写分镜→漫画风 13 页：只换画风保构图** — GPT-Image 2.5 把 13 页实写改成漫画，角色设计对齐、分镜构图不漂。连载改画风别重画，这才是控形红利。 [@sharil12121](https://x.com/sharil12121) · [原帖](https://x.com/sharil12121/status/2098381006059552881)
-
-- **手机 Sketch：打 @ 就能手绘下稿** — Images 2.5 Sketch 在手机上 @ 上手绘草图直接生成。通勤也能控形，别再说移动端只能文字玄学。 [@ai_sns_kaz](https://x.com/ai_sns_kaz) · [原帖](https://x.com/ai_sns_kaz/status/2098345839236468861)
-
-- **几条糙线稿 → 四个完整方向** — 极简线稿丢进 Image 2.5，一次拉出四个完整成片方向。构图说不清？先画再渲，Sketch 控形教科书级。 [@MinLiBuilds](https://x.com/MinLiBuilds) · [原帖](https://x.com/MinLiBuilds/status/2098277993575854396)
-
-- **中文 Sketch 构图：方框箭头锁结构** — 写三百字说不清站位？@Sketch 用 A/B/C 区 + 箭头 + 留白虚线。草图管位置，文字管内容——中文可抄公式。 [@derek_wall90176](https://x.com/derek_wall90176) · [原帖](https://x.com/derek_wall90176/status/2098233953949983197)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 打开 ChatGPT Images，输入 @Sketch，绘制一张3比4竖版构图草图。
@@ -698,807 +716,38 @@ C区域代表【背景建筑或环境】
 
   </details>
 
-- **tldraw 24h 升级 ChatGPT Sketch：demo + live kit** — 官方画板队连夜跟上 2.5 Sketch：30 分钟演示 + 可玩 live kit。控形出片别只看截图，直接上手拖线框。 [@tldraw](https://x.com/tldraw) · [原帖](https://x.com/tldraw/status/2098132314987303251)
+- **[几条糙线稿 → 四个完整方向](https://x.com/MinLiBuilds/status/2098277993575854396)** — @MinLiBuilds：极简线稿丢进 Image 2.5，一次拉出四个完整成片方向。构图说不清？先画再渲，Sketch 控形教科书级。
 
-- **Sketch→编辑风造型：线稿+布料色卡+鞋款** — 铅笔稿 + 三块布料色卡 + 鞋子参考出 editorial look；工作流和 prompt 在首评。时尚/电商造型图可抄。 [@itsphotogptai](https://x.com/itsphotogptai) · [原帖](https://x.com/itsphotogptai/status/2098064713024409655)
+- **[实写分镜→漫画风 13 页：只换画风保构图](https://x.com/sharil12121/status/2098381006059552881)** — @sharil12121：GPT-Image 2.5 把 13 页实写改成漫画，角色设计对齐、分镜构图不漂。连载改画风别重画，这才是控形红利。
 
-- **简笔画→温馨家庭成片（闲鱼信息差）** — 随手线稿渲成光影到位的家庭画；作者还甩了闲鱼「儿童教育 Sketch 交付」变现脑洞。一人团队可抄。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2098036539704086619)
+- **[手机 Sketch：打 @ 就能手绘下稿](https://x.com/ai_sns_kaz/status/2098345839236468861)** — @ai_sns_kaz：Images 2.5 Sketch 在手机上 @ 上手绘草图直接生成。通勤也能控形，别再说移动端只能文字玄学。
 
-- **Sketch 涂鸦→AI 角色 + note** — 一笔乱画做出角色，还能边聊边改；附上手感想，适合给客户演示「零门槛从草图开干」。 [@teddypooh_bear](https://x.com/teddypooh_bear) · [原帖](https://x.com/teddypooh_bear/status/2098035177968824347)
+- **[手绘 Sketch→实拍：降低提示词门槛的三步法](https://x.com/dailyprompt_/status/2099393116164030795)** — @dailyprompt_：说不清就先画：Sketch 降低小白门槛，也给会画的人当快速变体草稿机。韩语 Daily Prompt 830 号拆解可对照。
 
-- **Sketch/Doodle 完整 walkthrough：草图只锁构图** — 从涂鸦到成片的完整步骤：草图只负责构图骨架，风格后置。不会画画也能控形出片。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2097987154890944892)
+- **[手绘点选编辑](https://x.com/yupi996/status/2097546394827632727)** — @yupi996：Sketch + 点选改局部，一人团队最快闭环之一。
 
-- **涂鸦一笔变插画** — 乱笔画进 2.5，直接拉成可发插画。Sketch 控形的「最低门槛」演示。 [@chrno001](https://x.com/chrno001) · [原帖](https://x.com/chrno001/status/2097972662828155319)
+- **[涂鸦一笔变插画](https://x.com/chrno001/status/2097972662828155319)** — @chrno001：乱笔画进 2.5，直接拉成可发插画。Sketch 控形的「最低门槛」演示。
 
-- **Sketch 关键词 + 线情绪怎么写** — 线稿不只锁形，还要写清线情绪。控形 prompt 的细节档位可抄。 [@wenwen11703261](https://x.com/wenwen11703261) · [原帖](https://x.com/wenwen11703261/status/2097963306116084142)
+- **[涂鸦骑士 → Chibi → GIF](https://x.com/mtkapi/status/2097877501745795432)** — @mtkapi：Sketch 出资产再 vibe-code 动起来，游戏/表情包可复用；通用 prompt 在帖里。
 
-- **Sketch → 油画成片** — 线稿控形后切油画质感。艺术封面/展览视觉，先形后质。 [@Mayorkng98](https://x.com/Mayorkng98) · [原帖](https://x.com/Mayorkng98/status/2097930655375970768)
+- **[火柴人哥斯拉](https://x.com/GeekCatX/status/2097608369947435116)** — @GeekCatX：极简线稿也能控住巨型生物构图，Sketch 控形示范。
 
-- **Sketch 实测 walkthrough 视频** — 视频过一遍 Images 2.5：Sketch、参考图一致性、指令跟随都强；编辑间不完全一致。快速建立「2.5 能干啥」心智。 [@bartslodyczka](https://x.com/bartslodyczka) · [原帖](https://x.com/bartslodyczka/status/2097906238088765909)
+- **[画质不是杀招，Sketch 才是](https://x.com/tatsumoto2222/status/2097858154793222529)** — @tatsumoto2222：@Sketch 棒人草图 + 一句指令 → 成品；「再往左一点」那种往返可以扔了。内容号讲工作流就讲这个。
 
-- **涂鸦骑士 → Chibi → GIF** — Sketch 出资产再 vibe-code 动起来，游戏/表情包可复用；通用 prompt 在帖里。 [@mtkapi](https://x.com/mtkapi) · [原帖](https://x.com/mtkapi/status/2097877501745795432)
+- **[简笔画→温馨家庭成片（闲鱼信息差）](https://x.com/Adam38363368936/status/2098036539704086619)** — @Adam38363368936：随手线稿渲成光影到位的家庭画；作者还甩了闲鱼「儿童教育 Sketch 交付」变现脑洞。一人团队可抄。
 
-- **画质不是杀招，Sketch 才是** — @Sketch 棒人草图 + 一句指令 → 成品；「再往左一点」那种往返可以扔了。内容号讲工作流就讲这个。 [@tatsumoto2222](https://x.com/tatsumoto2222) · [原帖](https://x.com/tatsumoto2222/status/2097858154793222529)
+- **[零画功 Sketch：棒人+角色图→完整场景](https://x.com/sunouku/status/2097696764103201143)** — @sunouku：不会画画也能用棒人构图 + 角色参考生成场景；给客户讲「手绘即提示词」最直观。
 
-- **Sketch：不会画画也能迭代出片** — 草图 → Images 2.5 → 继续改。视频演示「不会画也能出货」，Sketch 种草最佳素材之一。 [@derrickcchoi](https://x.com/derrickcchoi) · [原帖](https://x.com/derrickcchoi/status/2097703973671334359)
-
-- **零画功 Sketch：棒人+角色图→完整场景** — 不会画画也能用棒人构图 + 角色参考生成场景；给客户讲「手绘即提示词」最直观。 [@sunouku](https://x.com/sunouku) · [原帖](https://x.com/sunouku/status/2097696764103201143)
-
-- **鼠标手绘 Sketch 也能懂** — Sketch 容错示范。 [@MathisYanis](https://x.com/MathisYanis) · [原帖](https://x.com/MathisYanis/status/2097650763174391836)
-
-- **Sketch 画框做封面布局** — 少跟模型解释构图：@Sketch 标标题/人物/产品位置。 [@tokenai888](https://x.com/tokenai888) · [原帖](https://x.com/tokenai888/status/2097648993388093656)
-
-- **Sketch 演示视频** — 完整录屏：怎么画、怎么点、怎么迭代。 [@minchoi](https://x.com/minchoi) · [原帖](https://x.com/minchoi/status/2097641752169427250)
-
-- **Sketch 动漫海报** — 海报级文字与角色，草图先行再 Sunburst 精修。 [@lycoris_zephyr](https://x.com/lycoris_zephyr) · [原帖](https://x.com/lycoris_zephyr/status/2097612107818664107)
-
-- **火柴人哥斯拉** — 极简线稿也能控住巨型生物构图，Sketch 控形示范。 [@GeekCatX](https://x.com/GeekCatX) · [原帖](https://x.com/GeekCatX/status/2097608369947435116)
-
-- **Sketch 前后对比** — 从线稿到成片的 before/after，适合给客户演示流程。 [@ontm0422ai](https://x.com/ontm0422ai) · [原帖](https://x.com/ontm0422ai/status/2097585415264125325)
-
-- **Sketch 打光指南** — 草图阶段就把光位画对，出图少返工。 [@micchan8_](https://x.com/micchan8_) · [原帖](https://x.com/micchan8_/status/2097566459308417382)
-
-- **手绘点选编辑** — Sketch + 点选改局部，一人团队最快闭环之一。 [@yupi996](https://x.com/yupi996) · [原帖](https://x.com/yupi996/status/2097546394827632727)
+- **[鼠标手绘 Sketch 也能懂](https://x.com/MathisYanis/status/2097650763174391836)** — @MathisYanis：Sketch 容错示范。
 
 
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
-- **Fashion 海报 Flare：姿势驱动大字排版系列** — 9:16 时装海报，字号跟着姿势走、衣服与主标题互相遮挡。Flare 系列可换配色/动作批产，附完整 editorial 配方。 [@em_wagdy](https://x.com/em_wagdy) · [原帖](https://x.com/em_wagdy/status/2099400757560648122)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[Apple 级手机海报，可复制 prompt](https://x.com/Diplomeme/status/2097978468642480487)** — @Diplomeme：产品海报直出，prompt 可抄。做数码/3C 种草封面时省半小时磨词。
 
-```
-Create a 9:16 editorial fashion poster. Model: an Arab Middle Eastern woman, unveiled, early twenties, expressive Gen Z energy, realistic photographic style, ultra-high resolution.
-Build the entire poster around the natural shape and direction of the model's pose and the garment's movement. Use highly realistic fashion photography: visible fabric weave, seams, stitching, folds, fabric in motion, natural skin texture, real shadows.
-Avoid CGI, plastic skin, generic e-commerce catalog look. Use oversized editorial typography as an active part of the composition: the main word very large, cropped by the canvas, partially hidden behind the model, split, rotated or curved according to the pose direction.
-Model and typography must overlap and interact. Clear hierarchy: oversized display type, hero fashion photography, headline, supporting product details, small tags. Restrained color system: one background, realistic garment colors, 1–2 accents. A few graphic elements only (thin lines, dots, open frames, sticker-like labels).
-Energetic, asymmetric, carefully art-directed, enough negative space. No brand names, no logos.
-INPUTS: Create a 9:16 editorial fashion poster, pop art style. Model: Arab Middle Eastern woman, unveiled, early twenties, playful expression, realistic photography, ultra-high resolution.
-Outfit: oversized sweatshirt in bright cherry red printed with large black-and-white halftone dots fading across the chest, matching wide-leg sweatpants in the same red with a bold black side stripe, white chunky sneakers, small gold hoops, hair in a high ponytail.
-Background: flat sunshine yellow. Accents: black, white. Typography word: POP. Composition: diagonal — model mid-jump from bottom-left to top-right, POP in thick black comic display type along the same diagonal, her sleeve covers the O, halftone dots spill from the sweatshirt into the background.
-Headline: "Dressed in dots." Supporting text: cotton fleece · oversized · wide leg · everyday. Thick black outline around the model like a comic cutout. Bottom corner "Generated by: Eman Wagdy". No brand names, no logos.
-```
-
-  </details>
-
-- **东方禅意天灯封面：分段中文极简海报** — 屋檐+橘子橙天灯+青黛暮空，9:16 大留白给标题。和银杏台阶那版是姊妹篇，封面党又多一套可返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099392886207045950)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-主题方向：东方禅意极简封面海报
-风格分支：女性审美高传播型
-主体内容：一位古风女子站在极简屋檐下，抬头看向空中的天灯
-情绪母题：温暖、祝愿、轻梦感
-场景与意象：浅色屋檐、橘子橙天灯、青黛蓝暮空、女子、留白天空
-构图与空间：9:16 竖版构图，人物位于下方偏一侧，屋檐切入画面上缘，天空占据大面积主空间，方便排标题
-色彩控制：暖白作为建筑和背景基底，青黛蓝用于天空，橘子橙只用于天灯与少量暖反光，人物服装建议珍珠白或浅桃白；避免全图变成橙蓝滤镜
-光线与质感：柔亮傍晚光，清晰轮廓，现代东方海报感，轻微柔光即可
-画幅比例：9:16
-补充要求：天空必须干净通透，天灯要有记忆点，整体不能压暗成夜景
-```
-
-  </details>
-
-- **十字绣城市地标：[CITY / STRUCTURE] 可换槽** — 复古十字绣绣在象牙亚麻上，可见针脚与手工瑕疵。文旅周边 / 小红书手工风封面一键换城。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099378987713896800)
-
-- **旅行海报 [LOCATION] 系列模板：构图锁死只换城** — 4:5 插画旅行海报，植被→步道→水面→地标→字体条全锁死，只换 [LOCATION]。目的地 KV 批产神器。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2099352799893172430)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create a premium illustrated travel poster for [LOCATION] in an exact 4:5 vertical format. This is part of a cohesive global poster series, so keep the composition fixed across every destination; only adapt the landmarks, architecture, landscape, vegetation, and cultural details.
-
-COMPOSITION
-
-Illustration fills 82–85%; reserve the bottom for a warm cream typography panel.
-
-Dense vegetation frames the left edge, with one tall natural anchor in the upper-left.
-
-A curved promenade sweeps from the lower-left toward the center, with globe lamps, dark decorative railing, and a small strolling couple.
-
-A broad water/open-space field occupies the lower-middle; use authentic boats when appropriate.
-
-Place the single most iconic landmark of [LOCATION] as the central hero, with the clearest silhouette and strongest visual focus.
-
-Add one major horizontal landmark behind/beside it for balance.
-
-Build a simplified layered local skyline/landscape with 6–12 major forms.
-
-Add one distinctive tall local landmark near the upper-center as a vertical counterweight.
-
-Keep the upper sky open, bright, and uncluttered, with 2–4 soft clouds, a few birds, and a warm sun in the upper-right.
-
-VISUAL FLOW
-
-Vegetation → promenade/couple → water/open space → central landmark → horizontal landmark → sky/sun → typography.
-
-Never let secondary elements compete with the hero.
-
-STYLE
-
-Sophisticated contemporary travel-poster illustration; clean vector shapes + subtle gouache/screen-print texture, crisp dark-navy outlines, softly shaded color blocks, slight organic imperfection, refined editorial aesthetic, premium collectible quality.
-
-No photorealism, 3D, CGI, glossy rendering, or generic clip-art.
-
-COLOR
-
-Harmonious destination-specific palette using dark navy outlines, natural greens, cool environmental tones, warm architectural tones, and one restrained warm accent.
-
-AUTHENTICITY
-
-Use only genuinely recognizable features of [LOCATION]. Prioritize iconic silhouettes and authenticity over excessive detail. Do not invent landmarks.
-
-TYPOGRAPHY
-
-Bottom cream panel:
-[LOCATION] — large elegant uppercase serif
-Thin horizontal rule
-[COUNTRY / REGION] — small widely spaced uppercase text.
-
-COMPOSITION LOCK
-
-4:5 • left vegetation • upper-left anchor • curved promenade • couple • globe lamps • railing • lower-middle water/open space • central hero • horizontal anchor • layered background • upper-center vertical counterweight • open sky • upper-right sun • bottom typography.
-
-Keep this structure identical for every destination. Adapt the content, never the composition.
-```
-
-  </details>
-
-- **最爱的 editorial 插画海报配方** — 每张上传照单独出一张高端 editorial 海报，禁拼贴；3:4 竖版。Firefly Boards + Image 2.5 最好用，附完整 prompt。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2099343607492702258)
-
-- **照片→奢华旅行双页故事：锁脸拼贴模板** — 上传自拍锁身份，左右两页撕纸旅行 collage（美国/挪威槽位可换）。宽幅 X 友好构图，人像+目的地 KV 一锅出。 [@Alina_with_Ai](https://x.com/Alina_with_Ai) · [原帖](https://x.com/Alina_with_Ai/status/2099320489797947424)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Use my uploaded photo as the SAME main female character throughout the entire image. Preserve her exact facial identity, facial features, skin tone, hairstyle, body proportions and natural appearance.
-
-Create a premium vintage travel editorial poster in a WIDE LANDSCAPE FORMAT, specifically optimized for X/Twitter so the complete image is visible without important areas being cropped.
-
-Divide the canvas into TWO equal vertical framed panels placed side by side.
-
-LEFT PANEL — UNITED STATES:
-Create a sophisticated 3×3 torn-paper travel collage featuring the same woman visiting iconic American destinations:
-Washington D.C. with the U.S. Capitol and Washington Monument, New York City with the Flatiron Building, San Francisco with the Golden Gate Bridge, New York cathedral architecture, Los Angeles with palm trees and skyline, and dramatic American mountain landscapes.
-
-In the CENTER of the left panel, place an elegant cream paper card with:
-"UNITED STATES"
-"DIVERSE LANDS"
-"TIMELESS BEAUTY"
-and a subtle vintage map of the United States.
-
-RIGHT PANEL — NORWAY:
-Create a matching 3×3 torn-paper travel collage featuring the same woman exploring Norway:
-Norwegian fjords, Bergen colorful waterfront, Oslo modern architecture, dramatic mountain villages, historic Scandinavian architecture, coastal viewpoints, Norwegian streets with a tram, and peaceful alpine landscapes.
-
-In the CENTER of the right panel, place an elegant cream paper card with:
-"NORWAY"
-"Wild beauty,"
-"a deeper kind of luxury"
-and a subtle watercolor map of Norway.
-
-IMPORTANT:
-Keep both complete panels fully visible inside the outer frame.
-Use generous margins around the entire composition.
-Do NOT make the image tall or portrait-oriented.
-Do NOT crop either panel.
-Both USA and Norway must be equally prominent and clearly visible at first glance.
-
-Style: luxury travel magazine, vintage editorial photography, refined cream paper texture, subtle torn edges, cinematic natural lighting, realistic photography, elegant serif typography, premium composition, sophisticated color grading, clean negative space, highly detailed, photorealistic.
-
-Aspect ratio: approximately 16:9 landscape.
-```
-
-  </details>
-
-- **Sunburst 半调旅行拼贴：上半真照下半印刷崩解** — 一图两世界：上半锁原片身份，下半撕纸+ASCII+复印网点。旅行 editorial / 档案感海报直接抄，附完整防翻车约束。 [@ShamiWeb3](https://x.com/ShamiWeb3) · [原帖](https://x.com/ShamiWeb3/status/2099316312426381491)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Turn this portrait photo into a single high-end halftone travel-collage poster. Output one poster per uploaded photo — never merge multiple photos into one frame.
-FORMAT
-
-3:4 vertical canvas. Split into two roughly equal zones — real photo on top, printed collage below — divided by one clean, sharp horizontal line. Do not stretch, warp, or reposition the figure to force the proportions.
-TOP HALF — THE REAL SHOT
-
-Preserve the original photo faithfully: same identity, face, expression, pose, hands, clothing, personal items, background structure, natural light and shadow, original color mood. Add only a light high-end color grade and the faintest film grain. Do not redraw or reinterpret the person.
-BOTTOM HALF — THE PRINTED RECONSTRUCTION
-
-Same warm gray old-paper background. Rebuild the same figure as a printed collage: torn photographic slices + fixed-width ASCII character fields + photocopy halftone dots.
-
-Keep face, hands, hairstyle, clothing, and one signature item recognizable — identity must survive the breakdown.
-Torn-edge photo fragments carry the face and key structural lines; fabric, shadow, and background dissolve outward into ASCII characters, black halftone dots, and fractured print grain.
-Texture: rough white paper-fiber edges, slight print misregistration, old paper stains, a couple of crop marks, one restrained red calibration bar.
-Color: warm gray paper + black ink + the photo’s own muted original colors + the single red accent. Never fully desaturate.
-Figure fills roughly 60–88% of the frame width — always leave 22–38% of the paper untouched and empty, so it reads as archival print, not a packed terminal screen.
-Add one readable fixed-width title pulled from the photo’s theme, plus the line "REC. STUDY 01" and one short observational caption. A few loose ASCII glyphs can trace the figure’s edge as texture only — never used to fake body detail or invent specs.
-
-MOOD
-
-Early digital systems meets analog photocopy meets underground zine meets modern travel editorial. The figure should feel like it’s surfacing — half photograph, half character, half print — restrained, archival, a little experimental.
-AVOID
-
-Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hidden faces, random symbols with no meaning, invented technical readouts, garbled fake text, author credits, brand logos, QR codes, watermarks.
-```
-
-  </details>
-
-- **自定义大字背景：TEXT HERE 一键换 editorial 海报** — 参考图锁构图排版，自拍锁脸，TEXT HERE 控巨型衬字。小红书 / 人设海报模板，改三个字就能量产。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2099302118104444953)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-MASTER PROMPT — REFERENCE-BASED EDITORIAL PORTRAIT
-
-REFERENCE IMAGE IS MANDATORY.
-
-Use the uploaded reference image as the PRIMARY VISUAL REFERENCE for the entire composition, layout, typography treatment, background, lighting, proportions, depth, and overall premium editorial poster aesthetic.
-
-Use the user's uploaded personal image as the PRIMARY IDENTITY REFERENCE for the subject.
-
-The uploaded subject can be ANY PERSON, male or female. Preserve the exact identity of the person from the uploaded image, including facial structure, facial features, skin tone, hairstyle, hair texture, age, and natural appearance. Do not replace or redesign the person's face.
-
-==================================================
-CUSTOM TEXT CONTROL
-==================================================
-
-TEXT HERE: [TYPE ANY WORD OR SHORT TEXT HERE]
-
-IMPORTANT:
-Whatever text the user writes after "TEXT HERE:" must become the MAIN LARGE BACKGROUND TYPOGRAPHY.
-
-The user can write ANY word, name, phrase, or short custom text they want.
-
-Examples:
-TEXT HERE: LOVE
-TEXT HERE: DREAM
-TEXT HERE: MAGIC
-TEXT HERE: FOREVER
-TEXT HERE: LIFE
-TEXT HERE: WILD
-TEXT HERE: HOPE
-TEXT HERE: ZARNAB
-TEXT HERE: MY STORY
-TEXT HERE: CREATE
-TEXT HERE: FREEDOM
-
-Never automatically use "LOVE" unless the user specifically writes LOVE.
-
-Use the user's exact custom text. Do not invent, replace, misspell, remove, or add words.
-
-==================================================
-SUBJECT & IDENTITY
-==================================================
-
-Place the person naturally in the center of the composition, matching the approximate position, scale, and framing of the reference image.
-
-Preserve the person's exact identity from the uploaded image.
-
-The subject should have a relaxed, natural, candid editorial pose.
-
-The person is holding a small bouquet of fresh yellow wildflowers naturally in both hands, similar to the reference.
-
-Maintain realistic anatomy, natural body proportions, realistic hands and fingers, authentic facial expression, realistic skin texture, and natural hair.
-
-The final image must look like a professionally photographed version of the person, not an AI-generated replacement person.
-
-==================================================
-OUTFIT
-==================================================
-
-Create a clean, casual, elegant outfit inspired by the reference image while keeping it natural for the person's gender, appearance, and identity.
-
-Use realistic fabric texture, natural folds, stitching, shadows, and physically accurate clothing.
-
-Include subtle backpack straps similar to the reference when visually appropriate.
-
-Do not make the outfit overly dramatic or fantasy-like.
-
-==================================================
-BACKGROUND
-==================================================
-
-Recreate the same overall outdoor environment as the reference:
-
-A beautiful dreamy yellow wildflower meadow with soft green foliage and trees in the background, abundant yellow flowers throughout the foreground and midground, warm natural daylight, soft golden sunlight, subtle atmospheric haze, delicate floating light particles, cinematic depth, and a peaceful premium editorial atmosphere.
-
-Keep the background visually very similar in mood, color balance, depth, and softness to the reference image.
-
-Use realistic natural vegetation and physically accurate flowers.
-
-==================================================
-MAIN TYPOGRAPHY
-==================================================
-
-Place the CUSTOM TEXT behind the subject.
-
-The text must be:
-
-- Extremely large
-- Bold
-- Tall and condensed
-- Uppercase
-- Minimal
-- Elegant
-- Cream/off-white
-- Highly readable
-- Vertically dominant
-
-The typography should occupy most of the background, similar to the reference composition.
-
-The person's body must naturally overlap and partially cover the letters, creating a realistic foreground/background layering effect.
-
-The text must remain BEHIND the person — never place the main typography over the person's face or body as a foreground graphic.
-
-Match the reference's typography scale, spacing, positioning, and visual hierarchy as closely as possible.
-
-If the custom text contains multiple words, arrange them in a visually balanced way while keeping the same oversized editorial poster aesthetic.
-
-==================================================
-SMALL TOP TEXT
-==================================================
-
-Add a small minimalist uppercase text above the main typography.
-
-SMALL TEXT HERE: [TYPE SHORT TEXT HERE]
-
-Keep this text subtle, centered, thin/minimal, with generous letter spacing.
-
-If the user does not provide small text, use a simple minimal decorative uppercase word that complements the main custom text without distracting from it.
-
-==================================================
-COMPOSITION
-==================================================
-
-Match the reference image's composition as closely as possible.
-
-Portrait 4:5 aspect ratio.
-
-Keep the subject centered.
-
-Use the oversized custom typography behind the subject.
-
-Maintain the same approximate proportions between:
-
-subject,
-background typography,
-flower field,
-foreground,
-negative space,
-and upper text.
-
-Create strong natural foreground, midground, and background depth.
-
-The final result should feel like a premium fashion/editorial social-media poster.
-
-==================================================
-LIGHTING & CAMERA
-==================================================
-
-Natural soft golden daylight.
-
-Warm cinematic exposure.
-
-Soft realistic shadows.
-
-Gentle highlights.
-
-Natural skin illumination.
-
-Shallow depth of field.
-
-Realistic optical bokeh.
-
-50mm professional portrait photography look.
-
-Subtle cinematic filmic softness.
-
-High dynamic range.
-
-Natural premium color grading.
-
-Avoid excessive HDR, artificial glow, plastic skin, or oversaturated colors.
-
-==================================================
-PHOTOREALISM
-==================================================
-
-Make the final image highly photorealistic.
-
-Preserve:
-
-- Realistic skin pores and texture
-- Individual hair strands
-- Natural facial details
-- Realistic eyes
-- Realistic hands and fingers
-- Physically accurate flowers
-- Natural fabric texture
-- Correct shadows
-- Realistic depth of field
-- Natural perspective
-- Authentic photographic imperfections
-
-The final image should look like a real professional photograph captured with a high-end camera.
-
-==================================================
-STRICT REFERENCE RULES
-==================================================
-
-Use the reference image ONLY for:
-
-- Composition
-- Layout
-- Typography style
-- Typography placement
-- Background environment
-- Lighting
-- Color mood
-- Subject positioning
-- Depth
-- Overall visual aesthetic
-
-Do NOT copy the identity, face, or personal appearance of the person in the reference image.
-
-The user's uploaded image is the ONLY identity reference for the subject.
-
-Do not change the person's identity.
-
-Do not create an unrelated face.
-
-Do not distort the face, hands, fingers, body, flowers, backpack, or clothing.
-
-Do not put the large custom text in front of the person.
-
-Do not use random words.
-
-Do not automatically use "LOVE".
-
-Use EXACTLY the text provided after:
-
-TEXT HERE:
-
-Keep all typography clean, correctly spelled, readable, and professionally integrated into the photograph.
-
-FINAL GOAL:
-Create a highly realistic premium editorial portrait that feels like the SAME visual concept, composition, typography treatment, background, lighting, and aesthetic as the reference image, while using the user's uploaded person as the subject and allowing the user to freely control the large background text through "TEXT HERE:".
-```
-
-  </details>
-
-- **圆形时尚海报四构图：FULL TURN / WATERLINE / INWARD / ORBIT VEIL** — Images 2.5 把圆框玩活的四套路。editorial / campaign / 杂志封面直接偷构图。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099220110355697893)
-
-- **鱼眼 editorial：15mm 草皮配方 + 开源提示词库** — 超广角 15mm 草皮 editorial 可抄；并指向 awesome-gpt-image-2-5-prompts（社区原句+出处）。模板要存 prompt 别只存图。 [@Milliekio](https://x.com/Milliekio) · [原帖](https://x.com/Milliekio/status/2098428660944695644)
-
-- **Zara / H&M / Mango / Tommy 四套时尚 campaign 系统** — 同一 Images 2.5 底座，四品牌各一套视觉系统（色板、字体、构图语言分开）。SMM 海报工厂模板；评论区有完整 H&M「NEW UNIFORM」长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098411659002012050)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-PROMPT — H&M "NEW UNIFORM"
-FORMAT Ultra-Premium H&M Fashion SMM Promotional Poster Vertical 4:5 Instagram Hero Creative Global Fashion Retail Campaign Contemporary Fashion Advertising Commercial Fashion Graphic Design Agency-Level Art Direction Behance Front Page Quality 8K UHD Hyper-Realistic Fashion × Graphic Design × Street Culture Fusion High-Impact Visual Communication Zero AI Soft Zero Generic Fast-Fashion Advertising Zero Catalogue Aesthetic Zero Luxury-Copycat Aesthetic
-
-CORE STRATEGY This is not simply a clothing advertisement. This is H&M turned into a visual statement. The campaign should communicate: fashion moves fast. culture moves faster. H&M should feel: accessible + expressive + contemporary + youthful + global + confident. The visual language should combine: H&M fashion campaign × editorial magazine × street-culture poster × high-fashion graphic design × digital-first social advertising The result should feel unmistakably H&M, not Zara, Mango, COS or a generic luxury fashion brand.
-
-CAMPAIGN IDEA "NEW UNIFORM" Forget traditional uniforms. This is: THE UNIFORM OF NOW. THE UNIFORM CHANGES. YOU DON'T HAVE TO.
-
-MASTER VISUAL Create an enormous typographic structure reading: H&M occupying ~60–70% of the composition — bold compressed graphic energetic slightly disruptive; partially cropped, stacked, layered, intersecting red graphic blocks.
-
-HERO SUBJECT Young female fashion model. Natural skin. Confident. Mid-stride. Oversized black leather-effect bomber, white fitted tank, relaxed wide-leg grey trousers, chunky black footwear, small silver jewelry, structured mini shoulder bag, subtle red accessory.
-
-H&M COLOR SYSTEM PRIMARY H&M RED ~#E50010; BLACK #000000; WHITE #FFFFFF. Ratio ~60% white/light / 20% black / 15% red / 5% photo tones.
-
-Composition hierarchy: H&M → NEW UNIFORM → MODEL → COLLECTION INFO → CTA. Vertical 4:5, 8K UHD, dramatic in-the-moment fashion photography, agency-level art direction. Full brand system prompts for Zara / Mango / Tommy are in the original thread comments.
-```
-
-  </details>
-
-- **剪纸海报四联：一层剪开一个小世界** — CUT TO MOVE / BELOW THE SURFACE / AFTERLIGHT / SPACES BETWEEN——大剪影里叠 6–9 层纸，深处藏叙事。展览/文化海报配方可换槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098408977008676918)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Theme: {fashion / ocean / memory / architecture / other}
-Title: {main title}
-Main silhouette: {dress / whale / planet / arch / other bold shape}
-Inner world: {runway / deep ocean / memory space / courtyard / other scene}
-Color palette: {3–5 restrained colors}
-Editorial tone: {fashion / cultural / artistic / architectural}
-Aspect ratio: 9:16
-
-Create a refined layered paper-cut editorial poster built around one bold, instantly recognizable silhouette.
-
-Let the main silhouette occupy around 60–70% of the composition. Inside it, create 6–9 layers of cut paper that gradually open into a deeper space. Each layer should follow the overall shape while changing naturally in scale, direction, and contour. Avoid perfectly even or mechanical concentric layers.
-
-At the deepest point, reveal a small narrative scene related to the theme, such as a runway, underwater world, observation platform, courtyard, or another meaningful environment. Add one very small human figure when appropriate to create scale and a sense of discovery.
-
-Use matte art-paper textures, clean cut edges, subtle natural paper fibers, and soft shallow shadows between layers. Keep the result visually flat and editorial rather than heavy 3D, foam-board, plastic, or CGI.
-
-Use a restrained palette of 3–5 colors, moving from lighter outer layers to deeper, darker inner layers. Keep colors clean, solid, and consistent rather than using digital gradients or distressed textures.
-
-Leave generous negative space for typography. Use a clear editorial hierarchy with one strong title, a small project or issue name, and only a few supporting details. The typography should feel like an art magazine, exhibition poster, fashion editorial, or cultural publication.
-
-The visual rhythm should be: bold silhouette first, layered depth second, hidden inner world third.
-
-From a distance, the poster should read as one strong shape. Up close, the viewer should discover the layered paper structure and the small world hidden inside.
-```
-
-  </details>
-
-- **日系馆藏风海报：大字+材质+档案一起构图** — 百鬼夜行 / 潮汐之书 / 金继器物 / 花鸟余白——古画海浪器物花鸟进同一视觉系统。系列 KV / 文博宣传可复用题材骨架。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098403133806293161)
-
-- **功能极简帝国壁纸：换文明名批量出系列** — 孔雀王朝 / 笈多 / 朱罗 / 马拉塔同骨架：`Functional Minimalism style wallpaper of the [EMPIRE]…`。历史题材壁纸/屏保工厂直接套。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2098397177437659591)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Functional Minimalism style wallpaper of the [EMPIRE/KINGDOM/CIVILIZATION], featuring [ICONIC ARCHITECTURE/LANDMARK], [CULTURAL OR RELIGIOUS SYMBOL], [MILITARY OR HISTORICAL ELEMENT], and [REGION-SPECIFIC LANDSCAPE], with subtle silhouettes of [PEOPLE/ARMY/SHIPS/ANIMALS], using clean geometric forms, restrained historically accurate details, [PRIMARY COLOR] and [ACCENT COLOR] tones, generous negative space, soft [LIGHTING TYPE] atmospheric lighting, strong visual hierarchy, balanced composition, historically inspired cinematic aesthetic, no modern elements, no text, premium ultra-clean wallpaper, [ASPECT RATIO] aspect ratio
-```
-
-  </details>
-
-- **杂志封面局部编辑：Images 2.5 精度实测** — 封面 / 杂志风图上抠局部改，精度肉眼可见。电商精修与排版迭代，先看它敢不敢动不该动的地方。 [@AIPixLab](https://x.com/AIPixLab) · [原帖](https://x.com/AIPixLab/status/2098379263020077366)
-
-- **液态狮子海报：先锁眉骨口鼻，再放鬃毛飞溅** — 别先看到飞溅再猜动物——用连续咖啡奶油面塑出吼脸，再非对称甩鬃。产品液态/质感广告的可控写法，长 prompt 齐活。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2098344166489293224)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create a Cannes-level ultra-premium commercial coffee poster for the fictional brand FEROX ROAST, merging Transit material precision with Orbit mythic atmosphere while rigorously preserving the exact visual type of the reference: a near-black studio void, one dark cup cropped low in the frame, and a violent sculptural eruption of coffee and milk from the cup that forms the head and upper mane of a roaring lion. Keep the overall image text-free, with no headline, no promotional copy, and no extra graphic clutter. The cup and the liquid lion must remain the full commercial story.
-
-Core composition: use a vertical poster with one dark ceramic cup positioned low and centrally, partially cropped by the bottom edge to feel close and monumental. From the cup surface, coffee and cream explode upward in a single continuous fluid transformation, forming a roaring lion in three-quarter profile. The lion head must dominate the upper-middle frame, clearly readable through the liquid structure, with the mane flaring backward and outward in asymmetrical splash streams. The splash should feel powerful but controlled, with the main lion silhouette always stronger than the peripheral droplets. Preserve a clean black background so the erupting form holds maximum contrast and hero dominance.
-
-Transit material precision: render the liquid sculpture with world-class detail. The dark coffee must feel dense, hot, roasted, and syrupy, with translucent brown edges, glossy thicker cores, and realistic fluid tension. The milk and foam components must feel silky, creamy, and slightly aerated, defining the lion’s facial planes, cheek, jawline, muzzle, and mane highlights. The cup rim must show wet residue, foam disturbance, subtle splash traces, and accurate ceramic gloss. The coffee surface inside the cup must feel physically active, as if the lion is tearing itself out of a freshly agitated crema field. Every droplet, sheet, ribbon, and foam pocket must obey believable high-speed splash physics.
-
-Orbit atmosphere: deepen the emotional tone into a nocturnal myth of strength awakened by coffee. The lion must not feel like an animal pasted from another source, but like roast energy itself becoming a beast in the dark. Let the mane feel like hot power and vaporized force, as if the roar is born from aroma, heat, and impact. The black field should remain velvety and empty, making the explosion feel ceremonial, primal, and iconic, like a sacred emblem of power emerging in darkness.
-
-Lion-form logic: the face must remain fierce and readable, with a fluidly sculpted brow, open mouth, roaring expression, and mane direction driven by splash momentum. The teeth and mouth interior should be suggested by liquid form and tonal carving rather than literal pasted anatomy. The lion should read instantly, but still feel fully made of coffee and milk. Emphasize the tension where the face transitions into wild mane splashes, so the image feels both animal and fluid at once.
-
-Lighting: use dramatic studio lighting with a warm directional key from upper front-left and controlled rim separation along splash edges and droplet fields. Let highlights travel across the coffee membranes, cream folds, and foam edges, giving the liquid lion museum-grade sculptural definition. Keep the cup readable but secondary to the lion head. The background must stay dark and clean, without environmental contamination.
-
-Color direction: build the image around 60% dark espresso brown, black coffee depth, and roasted mocha, 30% cream-white, latte beige, and cappuccino foam light, and 10% amber-gold highlights and ceramic reflections. The overall palette should feel noble, hot, luxurious, and intense.
-
-Design intent: the final poster must feel like a mythic coffee emblem expressed through high-speed liquid sculpture. It should preserve the reference’s exact same-category shock image while elevating both the tactile realism and the emotional power. The viewer should read strength, roast intensity, and premium coffee energy immediately from the cup and the lion-form eruption alone.
-
-Rendering style: ultra-photoreal luxury coffee advertising, text-free dark studio poster, roaring lion sculpted from coffee and milk, Transit-grade splash realism, Orbit-grade nocturnal beast atmosphere, cinematic chiaroscuro, world-class beverage art direction, 8k detail.
-
-Negative prompt: visible headline, logo, packaging text, extra layout elements, cartoon lion, pasted animal face, weak cup hierarchy, muddy liquid, plastic cream, chaotic splash, low-detail droplets, broken lion anatomy, flat lighting, messy background, cheap energy-drink aesthetic, low-end fantasy rendering, noisy composition
-```
-
-  </details>
-
-- **雨后三帖：水滴 / 城市 / 湿花极简海报** — 一滴水、雨后城、湿润花——三组诗意极简海报，中文提示词向高级感封面。适合品牌氛围图连发。 [@Caika_app](https://x.com/Caika_app) · [原帖](https://x.com/Caika_app/status/2098321572360822907)
-
-- **拼图城市旅行微缩：填槽模板一键换城** — [CITY] / [LANDMARK] / [FAMOUS FOR] 三槽位，3D 拼图积木风旅行场景。做系列城市海报或周边图，比单张风景图更能量产。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2098301205365850272)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create a charming 3D puzzle-piece travel scene of [CITY, COUNTRY], designed as a single cohesive miniature world. Build the city from beautifully interlocking puzzle pieces, with [ICONIC LANDMARK] as the central focal point. Surround it with recognizable local architecture, streets, trees, transportation, landscape, and small cultural details. Make the puzzle pieces slightly raised with visible seams, rounded edges, layered depth, and soft realistic shadows. Use a sophisticated palette inspired by the city, subtle handcrafted textures, warm studio lighting, clean cream background, playful yet premium collectible-diorama aesthetic. Add elegant 3D lettering: “[CITY]” and underneath “[COUNTRY] • [FAMOUS FOR]”. Highly polished, cute, artistic, detailed, and instantly recognizable.
-```
-
-  </details>
-
-- **同一身份锁：多姿势电影海报战役图** — 一个身份复用成中央主肖像 + 四小姿势拼贴，火焰红橙背景。角色一致性海报战役，prompt 齐活可抄。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2098282894368084350)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create a high-impact cinematic action poster featuring the same handsome young adult man repeated in multiple dynamic poses. The composition should have one large central portrait and four smaller surrounding versions of the same man arranged in a bold collage layout.
-
-The central figure is the main focus: he is crouching low in the foreground, facing the camera with a calm, confident, intense expression. He wears a black oversized hoodie, black jogger pants, and white sneakers. One knee is raised, one arm rests casually across it, and his pose feels powerful, grounded, and stylish.
-
-Around him, place four additional versions of the same man in different expressive action/fashion poses:
-
-one on the upper left leaning outward in motion,
-
-one on the upper right with one hand placed on his head,
-
-one on the lower left in a low athletic pose with one hand touching the ground,
-
-one on the lower right in a crouched side pose.
-
-All versions should wear the same black hoodie outfit for visual consistency.
-
-Use a dramatic fiery red and orange background filled with flames, smoke, glowing heat, and intense energy. Behind the figures, include a large white circular geometric ring or abstract round graphic element that frames the collage and adds structure. Add subtle urban textures and monochrome abstract fragments inside parts of the circle for a modern editorial look.
-
-Style should feel like a premium sports-fashion poster, with:
-
-photorealistic details
-
-sharp facial features
-
-strong dramatic lighting
-
-high contrast
-
-bold red/orange glow
-
-clean compositing
-
-dynamic depth and layering
-
-luxury action-campaign aesthetic
-
-Make it visually striking, energetic, and poster-worthy, with the central figure dominant and the surrounding poses supporting the composition. Vertical 2:3 ratio, ultra-detailed, cinematic, high resolution.
-```
-
-  </details>
-
-- **旅行手账 [LOCATION]：黏土微缩 + 折纸旅人** — 螺旋本俯拍 + 手作黏土微缩世界，换地名就能量产 IG 竖图。内容营销可复用模板，附完整 prompt。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2098269046022238289)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create a premium, Instagram-worthy handcrafted travel-journal scene representing [LOCATION].
-
-Show an open cream-colored spiral notebook resting on a warm rustic wooden desk, photographed from a slightly elevated top-down angle in soft, cinematic golden-hour light.
-
-Turn the destination into a charming mixed-media miniature world. Build the architecture, landscape, plants, water, and cultural details from realistic, tactile hand-sculpted clay, with subtle handmade imperfections and fine textures. Add a small origami traveler, unmistakably folded from textured paper with visible creases and elegant, simple shapes, naturally exploring the miniature environment.
-
-Make one iconic landmark or visual symbol of [LOCATION] the clear hero, supported by a few authentic local elements such as architecture, terrain, vegetation, transportation, or cultural details. Avoid generic tourist objects. Dress the origami traveler in a tasteful outfit subtly inspired by the destination without relying on stereotypes.
-
-Use a sophisticated color palette inspired by [LOCATION], with detailed clay textures, realistic paper folds, miniature craftsmanship, soft shadows, atmospheric depth, and warm cinematic illumination. Make the miniature world feel physically integrated into the notebook page—not like a pasted photograph.
-
-Surround the artwork with subtle handwritten travel-journal notes, tiny doodles, arrows, stamps, and location-inspired sketches, keeping them secondary to the main scene.
-
-Composition: strong focal point, clear visual hierarchy, generous negative space, immersive depth, premium editorial photography, highly detailed handcrafted textures, whimsical yet sophisticated, emotionally evocative, visually distinctive, and highly shareable.
-
-Avoid: photorealistic people, clutter, excessive text, generic landmarks, flat digital illustration, plastic-looking materials, oversaturated colors, distorted architecture, and unnecessary decorations.
-
-Overall feel: a beautifully crafted tiny world inside a traveler's notebook—artistic, tactile, authentic, sophisticated, and unmistakably connected to [LOCATION], rather than a conventional travel photograph.
-STRICT FORMAT: Vertical 4:5 aspect ratio only - do not generate square, landscape, or any other aspect ratio.
-```
-
-  </details>
-
-- **旅行日记海报：上半摄影下半丝网印** — 4:5 圣托里尼家庭瞬间：上半写实金光，下半 risograph/丝网印记忆页。旅游/生活方式海报可抄长 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2098253373237875074)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create a vertical 4:5 cinematic travel-diary poster built around one beautiful family moment in Santorini, Greece.
-
-TOP — REAL PHOTOGRAPHY:
-A young couple with their little daughter at a scenic Santorini viewpoint during golden-hour sunset. The daughter is naturally positioned between her parents while both parents gently kiss her cheeks at the same time. She closes her eyes and gives a genuine happy smile. Make the interaction spontaneous, affectionate and completely natural — like a real family vacation photograph, not models posing for an advertisement.
-
-Behind them: iconic white Santorini architecture, blue-domed churches, Mediterranean Sea, distant cliffs, small boats and vibrant bougainvillea. Warm sunset light wraps naturally around their faces and hair. Real skin pores, tiny imperfections, realistic hair strands, accurate hands, natural fabric texture and believable shadows. Shot like a premium full-frame travel photograph, 35mm lens, shallow but realistic depth of field, cinematic dynamic range. Absolutely photorealistic — no AI-looking skin, excessive HDR, plastic faces or artificial expressions.
-
-Keep generous negative space around the subjects for subtle editorial typography. Add only a few refined details such as:
-“TRAVEL DIARY”
-“Sept 11, 2026”
-“SANTORINI — GREECE”
-and one small handwritten travel note.
-
-BOTTOM — HAND-PRINTED MEMORY:
-Instead of simply duplicating the photograph, reinterpret the same family moment as an original vintage travel-print artwork. Use imperfect screen printing, risograph dots, engraved linework, faded ink, rough edges and authentic paper grain on warm ivory stock.
-
-Build the Santorini landscape around the family as a graphic illustration: simplified blue domes, cliffside houses, sea, sunset and bougainvillea integrated naturally into the composition. Limited ink palette of deep Mediterranean navy, sun-faded terracotta orange, warm ivory and tiny touches of dusty blue.
-
-Use a large expressive hand-painted title:
-“MORE GOOD DAYS”
-
-Surround it with only a few carefully placed diary elements: a Santorini postal stamp, tiny handwritten notes, one or two taped miniature travel photographs and “A SMALL DIARY — #001.” Keep everything intentionally imperfect and tactile rather than digitally clean.
-
-The transition between photography and illustration should feel like a torn page from a personal travel journal rather than a basic 50/50 split.
-
-Overall aesthetic: real family vacation photography × independent travel magazine × vintage European tourism poster × handmade screen print.
-
-Warm, intimate, nostalgic and premium. Strong enough to stop someone while scrolling, but never overcrowded. The photograph must feel genuinely captured in real life, while the lower artwork feels physically printed by hand.
-
-No Chinese text. No copied layouts. No generic AI collage aesthetic. No excessive stickers. No fantasy. No fake-looking faces. No malformed hands. No waxy skin. No over-saturation. Keep all three family members consistent between the photographic and illustrated sections.
-```
-
-  </details>
-
-- **东方极简封面：分段中文 prompt** — 主题/风格/构图/色彩/光线分段写死，9:16 白底禅意封面。小红书/公众号封面直接返图试。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2098246112159420546)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-主题方向：东方禅意极简封面海报
-风格分支：女性审美高对比型
-主体内容：一位女子站在极简花器旁，轻轻整理一枝花
-情绪母题：精致、明亮、轻奢东方感
-场景与意象：白色空间、葡萄紫花朵、青柠绿叶片、白瓷花器、女子
-构图与空间：9:16 竖版构图，花器与人物位于下半部分偏一侧，上方保留完整白色标题区，花枝形成第一视觉点
-色彩控制：纯白或奶油白作为高明度基底，葡萄紫只用于花朵，青柠绿用于叶片，花器保持白色或浅米色，人物服装用浅暖白；避免紫绿污染整张画面
-光线与质感：明亮柔光，轮廓清晰，干净平面海报质感
-画幅比例：9:16
-补充要求：颜色要鲜明现代，整体高级精致，适合女性审美封面
-```
-
-  </details>
-
-- **对话诊断 → 轻小说封面长 prompt** — 从聊天记录抽人物像，落成异世界恋爱轻小说封面（动画ベタ塗り）。人设种草/粉丝向封面玩法，日文长 prompt 可抄。 [@nyattta](https://x.com/nyattta) · [原帖](https://x.com/nyattta/status/2098243466576994450)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-あなたは、会話履歴から人物像を物語へ変換する編集者であり、日本のライトノベル表紙を企画するクリエイティブディレクターです。
-
-私との会話履歴・この会話で確認できる内容をもとに、私の思考傾向、悩み方、強み、こだわり、価値観、人生のテーマやミッションの仮説を分析し、その結果を「私が主人公の異世界恋愛ファンタジーライトノベル第1巻」に落とし込んでください。
-
-最後に、添付した私の写真をアニメイラスト化し、長い日本語タイトル入りのラノベ表紙画像を1枚生成してください。
-
-【分析ルール】
-- 根拠は参照可能な会話だけ
-- 不明な点は不明と書く
-- 分析と創作を分ける
-- 公開向けなので個人情報は伏せる
-- 写真から内面を決めつけない
-
-【ストーリーの軸】
-- 私の会話から見える強みや願いを、異世界での役割や能力に変換する
-- 弱みや葛藤も、物語上の障害として活かす
-- テーマは「自分の価値を見つけること」「運命の相手との関係を通じた成長」
-- ラブロマンス要素を強めに入れる
-- 関係性には、契約、共闘、秘密、身分差のいずれかを自然に盛り込む
-
-【パートナー設定】
-- 主人公と異性の、美しいパートナーを必ず登場させる
-- パートナーは圧倒的な美形で、どこか危うく、でも主人公にだけ執着や特別扱いを見せる
-- 関係性は「護衛と主」「契約相手」「敵対から共闘」「婚約者候補」など、ドラマが生まれるものにする
-- 主人公との間に、視線や手の触れ方だけで伝わるロマンスの緊張感を持たせる
-
-【タイトル】
-- 日本のライトノベルらしい長いタイトルを1案
-- 60〜90字程度
-- 「自己分析から見えた私らしさ」「異世界での立場」「美しい異性パートナーとの関係」を入れる
-- 帯コピー25字以内
-- あらすじ120字程度
-
-【表紙画像の方向性】
-- 添付写真の私を、顔立ち・髪型・年齢感を活かしてアニメ化する
-- 主人公の顔も含め、イラスト全体を完全にアニメのベタ塗り画風にすること
-- 半写実、厚塗り、3DCG風、写真風、油彩風、リアル寄りの陰影表現は避けること
-- 日本の商業アニメやライトノベル表紙らしい、くっきりした線画、明快な輪郭、セル画風の塗り、フラットで鮮やかな色面、影の境界がはっきりしたアニメ塗りで描くこと
-- 肌、髪、瞳、衣装、装飾、背景に至るまで、全体の統一感を持ったアニメベタ塗りで仕上げること
-- 主人公は実写の写真感を残すのではなく、「本人の特徴を反映したアニメキャラクター」として自然に再構成すること
-
-- 主人公は異世界衣装。ドレス、ローブ、騎士服、魔導装束など、物語設定に合う華やかな衣装
-- パートナーも非常に美しく、気高く、見る人の印象に残る異世界衣装
-
-- 参考画像のように、2人が大きく配置され、恋愛感情や距離感が伝わる表紙にする
-- ただし、そのままの構図・色・文字配置・衣装にはしない
-- オリジナルなアレンジとして、斜めの体の向き、上下の視線差、手元の演技、衣装の差異などで個性を出す
-
-- 主人公の表情は単調にせず、感情が伝わる豊かな表情にすること
-- 瞳の向き、口元、眉の動きまで含めて、主人公が感情豊かに見えるようにすること
-
-- 主人公のポーズも棒立ちにせず、動きとドラマが感じられる豊かなポーズにすること
-- 主人公とパートナーの手元や距離感にも演技を持たせ、関係性が一目で伝わるようにすること
-
-- 画面のどこかに契約・魔法・身分差を象徴するモチーフを入れる
-- 色調は、深い赤、ネイビー、金、白などをベースにした高級感ある配色
-- タイトルは大きく、縦組みと横組みを混ぜて、ラノベらしい勢いある装丁にする
-- 顔に文字が重ならないようにする
-- 画角は縦長の3:4比率
-- 平面の表紙デザインにする
-- 実在の作品や既存装丁の模倣は禁止
-
-【出力順】
-1. 参照できた情報範囲
-2. 自己分析の要点
-3. 主人公設定
-4. パートナー設定
-5. タイトル
-6. 帯コピー
-7. あらすじ
-8. 表紙画像を1枚生成
-```
-
-  </details>
-
-- **圆形框景人物海报：光 / 镜面 / 折光** — 构图压力测：圆形裁切 + 光学材质。做人物海报/品牌视觉时直接偷光位。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098049584152863016)
-
-- **Apple 级手机海报，可复制 prompt** — 产品海报直出，prompt 可抄。做数码/3C 种草封面时省半小时磨词。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2097978468642480487)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready
@@ -1774,223 +1023,39 @@ Behance-level visual design
 
   </details>
 
-- **奢华婚礼请柬 mockup + 完整 prompt** — 请柬/喜帖排版系统可拆，换名字日期就能出样。婚礼赛道与高端印刷预览很香。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2097977120441925720)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[Art Deco Base Prompt](https://x.com/MrDasOnX/status/2097550067213504848)** — @MrDasOnX：金线+深蓝+奶油纸，可替换 SUBJECT。
+
+  <details><summary>Prompt</summary>
 
 ```
-Create a premium luxury wedding invitation stationery mockup photographed from a slightly elevated top-down angle on a warm beige textured stone surface.
+ChatGPT Images 2.5 is on another level. It doesn’t just generate an image, it actually captures the aesthetic you’re going for.
 
-Place a large rectangular wedding invitation card at the center, printed on thick premium ivory cotton paper with visible fine paper texture and slightly raised edges. Add a very thin champagne-gold foil border around the card.
-
-At the top center, include a delicate botanical gold-foil monogram made from elegant leafy branches surrounding the couple’s initials.
-
-Use sophisticated editorial typography throughout:
-
-- elegant high-contrast serif font for the couple’s names
-- refined small uppercase serif lettering for supporting information
-- subtle handwritten calligraphy for words such as “and” and the closing line
-- generous letter spacing and carefully balanced alignment
-
-Example invitation wording:
-
-“TOGETHER WITH THEIR FAMILIES
-
-ELEANOR JAMES
-and
-JONATHAN REESE
-
-REQUEST THE PLEASURE OF YOUR COMPANY
-AT THE CELEBRATION OF THEIR MARRIAGE
-
-SATURDAY, THE FOURTEENTH OF SEPTEMBER
-TWO THOUSAND TWENTY-SIX
-AT FOUR O’CLOCK IN THE AFTERNOON
-
-VILLA SERENA
-LAKE COMO, ITALY
-
-Dinner and dancing to follow”
-
-Surround the invitation with coordinated luxury stationery pieces, including matching ivory envelopes, small information cards, and decorative paper inserts.
-
-Add romantic styling elements around the composition:
-soft ivory and blush roses, tiny white flowers, olive-green foliage, a flowing champagne satin ribbon, a vintage brass wax seal with a botanical emblem, a velvet engagement-ring box with a diamond ring, and subtle vintage postage stamps.
-
-Keep the palette warm and refined: ivory, cream, champagne gold, dusty blush, beige, muted olive green, and soft bronze.
-
-Use soft natural window lighting with delicate shadows, realistic metallic foil reflections, premium paper texture, shallow depth of field, and elegant editorial wedding photography.
-
-Overall aesthetic: timeless European wedding, Lake Como romance, quiet luxury, sophisticated bridal stationery, high-end wedding editorial, minimal but richly detailed, photorealistic, luxurious and romantic.
+Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal, and antique gold. Stylized geometric forms, sharp symmetry, radiating sunburst and fan motifs, clean flat shapes with subtle paper grain. Subject: [SUBJECT]. Timeless luxury graphic design, no photorealism, no 3D, no modern clothing or gadgets, museum-quality print look.
 ```
 
   </details>
 
-- **麦当劳双层芝士堡 × 4 种电影级广告风** — 完整 Prompt 可拆。食品/消费品要「高端感物料」时，直接换品类槽位。 [@Caika_app](https://x.com/Caika_app) · [原帖](https://x.com/Caika_app/status/2097954546152857796)
+- **[Fashion 海报 Flare：姿势驱动大字排版系列](https://x.com/em_wagdy/status/2099400757560648122)** — @em_wagdy：9:16 时装海报，字号跟着姿势走、衣服与主标题互相遮挡。Flare 系列可换配色/动作批产，附完整 editorial 配方。
 
-- **旅行海报 [CITY, COUNTRY] 丝网印刷模板** — 本地建筑元素的 mid-century 丝网印刷风海报配方，带成片。做目的地/活动 KV 直接换槽。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2097920025617399875)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
-Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
-
-Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.
-
-Add one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.
-
-Use a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.
-
-Add a tall integrated sign or architectural panel featuring:
-
-[CITY]
-[LOCAL SCRIPT]
-
-Include small refined editorial typography at the bottom:
-
-[COUNTRY]
-[CITY] • [COORDINATES]
-[SHORT DESTINATION PHRASE]
-
-Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.
+Create a 9:16 editorial fashion poster. Model: an Arab Middle Eastern woman, unveiled, early twenties, expressive Gen Z energy, realistic photographic style, ultra-high resolution.
+Build the entire poster around the natural shape and direction of the model's pose and the garment's movement. Use highly realistic fashion photography: visible fabric weave, seams, stitching, folds, fabric in motion, natural skin texture, real shadows.
+Avoid CGI, plastic skin, generic e-commerce catalog look. Use oversized editorial typography as an active part of the composition: the main word very large, cropped by the canvas, partially hidden behind the model, split, rotated or curved according to the pose direction.
+Model and typography must overlap and interact. Clear hierarchy: oversized display type, hero fashion photography, headline, supporting product details, small tags. Restrained color system: one background, realistic garment colors, 1–2 accents. A few graphic elements only (thin lines, dots, open frames, sticker-like labels).
+Energetic, asymmetric, carefully art-directed, enough negative space. No brand names, no logos.
+INPUTS: Create a 9:16 editorial fashion poster, pop art style. Model: Arab Middle Eastern woman, unveiled, early twenties, playful expression, realistic photography, ultra-high resolution.
+Outfit: oversized sweatshirt in bright cherry red printed with large black-and-white halftone dots fading across the chest, matching wide-leg sweatpants in the same red with a bold black side stripe, white chunky sneakers, small gold hoops, hair in a high ponytail.
+Background: flat sunshine yellow. Accents: black, white. Typography word: POP. Composition: diagonal — model mid-jump from bottom-left to top-right, POP in thick black comic display type along the same diagonal, her sleeve covers the O, halftone dots spill from the sweatshirt into the background.
+Headline: "Dressed in dots." Supporting text: cotton fleece · oversized · wide leg · everyday. Thick black outline around the model like a comic cutout. Bottom corner "Generated by: Eman Wagdy". No brand names, no logos.
 ```
 
   </details>
 
-- **香水奢品 10 格分镜 storyboard** — 电影感产品分镜 + 干净网格，直接可改成你自己的品类广告故事板。 [@Strength04_X](https://x.com/Strength04_X) · [原帖](https://x.com/Strength04_X/status/2097919290980921451)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[Flare 赛车黄 Porsche 4:5 海报](https://x.com/Diplomeme/status/2097641872068063436)** — @Diplomeme：MageSpace Flare 竖版社媒海报，结构分明可抄。
 
-```
-FORMAT:
-• Single-page premium storyboard
-• 3:4 portrait storyboard sheet
-• 10 cinematic product-focused panels
-• Clean editorial grid with thin borders
-• Connected sequence from one continuous commercial
-• Luxury beauty campaign aesthetic
-
-HEADER:
-• Bold elegant typography
-• Compact information cards
-• Duration: 20 Seconds
-• Style: Soft Luxury Fragrance Commercial
-• Product: Premium Perfume Bottle
-• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
-• White, blush pink and champagne aesthetic
-• Minimal floral graphic accents
-
-STORYBOARD:
-1. Perfume bottle standing alone on a glossy white studio surface
-2. Macro shot revealing crystal glass, cap and delicate reflections
-3. Soft pink light sweeps smoothly across the bottle
-4. Perfume cap lifts elegantly with a subtle sparkle
-5. Fragrance liquid gently swirls inside the bottle
-6. Fine perfume mist sprays into the soft white-pink atmosphere
-7. Floating rose petals slowly move around the bottle
-8. Bottle performs a smooth elegant 360° rotation
-9. Rose petals settle around the base of the bottle
-10. Final hero shot with perfume bottle, soft pink glow and delicate petals
-
-FRAME CONSISTENCY:
-• Same perfume bottle in every scene
-• Identical bottle shape, cap, label and proportions
-• Same white glossy studio environment
-• Soft white-pink gradient background throughout
-• Consistent champagne highlights and reflections
-• Same rose petals from Scene 7 onward
-• Product remains centered and visually dominant
-• Every frame naturally continues from the previous scene
-
-CAMERA:
-Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
-
-VISUAL STYLE:
-Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
-```
-
-  </details>
-
-- **IG 旅游广告 [LOCATION] 可替换模板** — 4:5 竖屏 + 手机导航锚点构图，换地名就能出一波 scroll-stopping 海报。出海投放直接改。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097890291860865291)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format.
-
-A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation notification card overlaps the upper-middle of the phone, integrated naturally with realistic depth, soft shadows, and subtle reflections.
-
-The notification should feature a warm-white, lightly frosted rounded rectangle with a refined mobile UI aesthetic and perfectly legible typography:
-
-[map icon] MAPS — now
-You keep searching.
-Come visit [LOCATION] instead.
-
-Keep the notification within the upper 25–40% of the composition. It should feel physically connected to the phone and must not cover the miniature destination scene.
-
-Below the smartphone, a folded papercraft map labeled “[LOCATION]” unfolds into a handcrafted miniature world. Include only 4–6 highly recognizable elements that naturally represent the destination—such as iconic architecture, landscapes, nature, food, culture, or atmosphere.
-
-Visual Materials
-
-- Phone & distant background: realistic photography
-- Buildings & landmarks: handcrafted painted 3D clay
-- Map, terrain, roads & water: layered hand-cut paper
-- Vegetation & small details: miniature clay and paper
-
-Make the physical materials clearly visible through paper fibers, cut edges, layered surfaces, subtle clay texture, tiny imperfections, and soft dimensional shadows.
-
-Add one large location pin and a tiny backpacked traveler standing on the map, looking toward the miniature world. Keep the traveler small and secondary, like a hidden discovery detail.
-
-Use only 2–3 subtle travel doodles, such as a paper airplane with a dotted path, a tiny heart, and a simple hand-drawn route arrow. Keep them thin, imperfect, and journal-like.
-
-Visual Hierarchy
-
-1. Notification
-2. Miniature [LOCATION] world
-3. Location pin
-4. Tiny traveler
-5. Folded map
-
-Maintain generous negative space and avoid clutter, excessive landmarks, unnecessary text, icons, props, or competing focal points.
-
-Use a refined 3–5 color palette inspired by [LOCATION], warm cinematic or golden-hour lighting, shallow depth of field, realistic miniature photography, tactile materials, and sophisticated editorial advertising composition.
-
-The final image should feel like a world-class handcrafted travel campaign-instantly recognizable, destination-specific, clean, emotionally inviting, and rich with subtle details worth discovering.
-```
-
-  </details>
-
-- **品牌 KV 母版：iPhone Duo / 18 Pro 系列海报** — 同一套品牌 KV 模板给虚构新品各出一张：折叠叙事 vs 专业影像。一眼看懂怎么用 Image 2.5 做新品系列 KV。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2097884028955394216)
-
-- **轨道奢侈品三连** — Prada×Axiom×Zendaya / SpaceVIP×Keanu / Richard Mille×Hamilton 三套轨道奢侈海报。Sunburst 高端 SMM 排版系统可拆。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2097778936646091084)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Prada × Axiom Space × Zendaya — "ORBITAL COUTURE"
-
-FORMAT: Ultra-Premium Aerospace SMM Poster | 3:4 | Instagram Hero | Behance Front Page Quality
-CORE STRATEGY: High-fashion lunar engineering. Sleek tailored pressurized lunar EVA spacesuit, reflective gold visor, and Earth's blue curve.
-CAMPAIGN: "ORBITAL COUTURE"
-MASTER VISUAL: Monolithic bold geometric PRADA typography (75% canvas) in clean lunar white across top.
-HERO SUBJECT: Zendaya. Sleek high braided ponytail, wearing the tailored Prada-designed Axiom lunar spacesuit in pristine white composite with red Linea Rossa accents.
-POSE: Relaxed zero-gravity posture, helmet resting under her arm, gazing out a massive curved spacecraft observation cupola.
-COLOR SYSTEM: Lunar White, Linea Rossa Crimson, Deep Space Black, Earth Atmospheric Cyan.
-BACKGROUND: The panoramic cupola of an orbital habitat revealing the illuminated blue crescent of planet Earth against the infinite starfield.
-GRAPHIC SYSTEM: Orbital velocity parameters (27,600 km/h), telemetry coordinate HUD, minimalist technical hatch numbering.
-PROMOTIONAL ELEMENTS: PRADA LUNAR DIVISION | AXIOM EXTRAVEHICULAR MOBILITY UNIT | ARTEMIS MISSION
-TYPOGRAPHY: Top iconic PRADA bold serif | Center title: ORBITAL COUTURE | Bottom technical telemetry data readout
-LIGHTING: Pristine solar sunlight raking across the composite white suit fabric from the cupola, contrasted by deep space black.
-CAMERA: ARRI Alexa 65, 70mm Hasselblad Prime, f/4.0, hyper-crisp reflections in visor and tactile ballistic nylon weave.
-```
-
-  </details>
-
-- **竖三栏海报构图** — Images 2.5 竖三栏：图像/文物/声音/空间各占一栏，主体与线条串栏；活动海报、品牌视觉可抄结构。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2097666767174672871)
-
-- **Flare 赛车黄 Porsche 4:5 海报** — MageSpace Flare 竖版社媒海报，结构分明可抄。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2097641872068063436)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 GPT image 2.5 Flare on @MageSpace_ 
@@ -2046,249 +1111,1040 @@ Timeless performance.
 
   </details>
 
-- **字体海报 + 杂志排版压力测** — 文字密集场景下 2.5 的可读性边界。 [@modelstoreai](https://x.com/modelstoreai) · [原帖](https://x.com/modelstoreai/status/2097641178191827333)
+- **[IG 旅游广告 [LOCATION] 可替换模板](https://x.com/Goodmanprotocol/status/2097890291860865291)** — @Goodmanprotocol：4:5 竖屏 + 手机导航锚点构图，换地名就能出一波 scroll-stopping 海报。出海投放直接改。
 
-- **奢侈品 SMM 海报组** — 社交媒体高端感排版与质感提示。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2097607526753718428)
-
-- **Art Deco Base Prompt** — 金线+深蓝+奶油纸，可替换 SUBJECT。 [@MrDasOnX](https://x.com/MrDasOnX) · [原帖](https://x.com/MrDasOnX/status/2097550067213504848)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
-ChatGPT Images 2.5 is on another level. It doesn’t just generate an image, it actually captures the aesthetic you’re going for.
+Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format.
 
-Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy line work on warm cream paper, limited palette of terracotta, teal, and antique gold. Stylized geometric forms, sharp symmetry, radiating sunburst and fan motifs, clean flat shapes with subtle paper grain. Subject: [SUBJECT]. Timeless luxury graphic design, no photorealism, no 3D, no modern clothing or gadgets, museum-quality print look.
+A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation notification card overlaps the upper-middle of the phone, integrated naturally with realistic depth, soft shadows, and subtle reflections.
+
+The notification should feature a warm-white, lightly frosted rounded rectangle with a refined mobile UI aesthetic and perfectly legible typography:
+
+[map icon] MAPS — now
+You keep searching.
+Come visit [LOCATION] instead.
+
+Keep the notification within the upper 25–40% of the composition. It should feel physically connected to the phone and must not cover the miniature destination scene.
+
+Below the smartphone, a folded papercraft map labeled “[LOCATION]” unfolds into a handcrafted miniature world. Include only 4–6 highly recognizable elements that naturally represent the destination—such as iconic architecture, landscapes, nature, food, culture, or atmosphere.
+
+Visual Materials
+
+- Phone & distant background: realistic photography
+- Buildings & landmarks: handcrafted painted 3D clay
+- Map, terrain, roads & water: layered hand-cut paper
+- Vegetation & small details: miniature clay and paper
+
+Make the physical materials clearly visible through paper fibers, cut edges, layered surfaces, subtle clay texture, tiny imperfections, and soft dimensional shadows.
+
+Add one large location pin and a tiny backpacked traveler standing on the map, looking toward the miniature world. Keep the traveler small and secondary, like a hidden discovery detail.
+
+Use only 2–3 subtle travel doodles, such as a paper airplane with a dotted path, a tiny heart, and a simple hand-drawn route arrow. Keep them thin, imperfect, and journal-like.
+
+Visual Hierarchy
+
+1. Notification
+2. Miniature [LOCATION] world
+3. Location pin
+4. Tiny traveler
+5. Folded map
+
+Maintain generous negative space and avoid clutter, excessive landmarks, unnecessary text, icons, props, or competing focal points.
+
+Use a refined 3–5 color palette inspired by [LOCATION], warm cinematic or golden-hour lighting, shallow depth of field, realistic miniature photography, tactile materials, and sophisticated editorial advertising composition.
+
+The final image should feel like a world-class handcrafted travel campaign-instantly recognizable, destination-specific, clean, emotionally inviting, and rich with subtle details worth discovering.
 ```
 
   </details>
+
+- **[Sunburst 半调旅行拼贴：上半真照下半印刷崩解](https://x.com/ShamiWeb3/status/2099316312426381491)** — @ShamiWeb3：一图两世界：上半锁原片身份，下半撕纸+ASCII+复印网点。旅行 editorial / 档案感海报直接抄，附完整防翻车约束。
+
+  <details><summary>Prompt</summary>
+
+```
+Turn this portrait photo into a single high-end halftone travel-collage poster. Output one poster per uploaded photo — never merge multiple photos into one frame.
+FORMAT
+
+3:4 vertical canvas. Split into two roughly equal zones — real photo on top, printed collage below — divided by one clean, sharp horizontal line. Do not stretch, warp, or reposition the figure to force the proportions.
+TOP HALF — THE REAL SHOT
+
+Preserve the original photo faithfully: same identity, face, expression, pose, hands, clothing, personal items, background structure, natural light and shadow, original color mood. Add only a light high-end color grade and the faintest film grain. Do not redraw or reinterpret the person.
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+
+Same warm gray old-paper background. Rebuild the same figure as a printed collage: torn photographic slices + fixed-width ASCII character fields + photocopy halftone dots.
+
+Keep face, hands, hairstyle, clothing, and one signature item recognizable — identity must survive the breakdown.
+Torn-edge photo fragments carry the face and key structural lines; fabric, shadow, and background dissolve outward into ASCII characters, black halftone dots, and fractured print grain.
+Texture: rough white paper-fiber edges, slight print misregistration, old paper stains, a couple of crop marks, one restrained red calibration bar.
+Color: warm gray paper + black ink + the photo’s own muted original colors + the single red accent. Never fully desaturate.
+Figure fills roughly 60–88% of the frame width — always leave 22–38% of the paper untouched and empty, so it reads as archival print, not a packed terminal screen.
+Add one readable fixed-width title pulled from the photo’s theme, plus the line "REC. STUDY 01" and one short observational caption. A few loose ASCII glyphs can trace the figure’s edge as texture only — never used to fake body detail or invent specs.
+
+MOOD
+
+Early digital systems meets analog photocopy meets underground zine meets modern travel editorial. The figure should feel like it’s surfacing — half photograph, half character, half print — restrained, archival, a little experimental.
+AVOID
+
+Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hidden faces, random symbols with no meaning, invented technical readouts, garbled fake text, author credits, brand logos, QR codes, watermarks.
+```
+
+  </details>
+
+- **[Zara / H&M / Mango / Tommy 四套时尚 campaign 系统](https://x.com/Diplomeme/status/2098411659002012050)** — @Diplomeme：同一 Images 2.5 底座，四品牌各一套视觉系统（色板、字体、构图语言分开）。SMM 海报工厂模板；评论区有完整 H&M「NEW UNIFORM」长 prompt。
+
+  <details><summary>Prompt</summary>
+
+```
+PROMPT — H&M "NEW UNIFORM"
+FORMAT Ultra-Premium H&M Fashion SMM Promotional Poster Vertical 4:5 Instagram Hero Creative Global Fashion Retail Campaign Contemporary Fashion Advertising Commercial Fashion Graphic Design Agency-Level Art Direction Behance Front Page Quality 8K UHD Hyper-Realistic Fashion × Graphic Design × Street Culture Fusion High-Impact Visual Communication Zero AI Soft Zero Generic Fast-Fashion Advertising Zero Catalogue Aesthetic Zero Luxury-Copycat Aesthetic
+
+CORE STRATEGY This is not simply a clothing advertisement. This is H&M turned into a visual statement. The campaign should communicate: fashion moves fast. culture moves faster. H&M should feel: accessible + expressive + contemporary + youthful + global + confident. The visual language should combine: H&M fashion campaign × editorial magazine × street-culture poster × high-fashion graphic design × digital-first social advertising The result should feel unmistakably H&M, not Zara, Mango, COS or a generic luxury fashion brand.
+
+CAMPAIGN IDEA "NEW UNIFORM" Forget traditional uniforms. This is: THE UNIFORM OF NOW. THE UNIFORM CHANGES. YOU DON'T HAVE TO.
+
+MASTER VISUAL Create an enormous typographic structure reading: H&M occupying ~60–70% of the composition — bold compressed graphic energetic slightly disruptive; partially cropped, stacked, layered, intersecting red graphic blocks.
+
+HERO SUBJECT Young female fashion model. Natural skin. Confident. Mid-stride. Oversized black leather-effect bomber, white fitted tank, relaxed wide-leg grey trousers, chunky black footwear, small silver jewelry, structured mini shoulder bag, subtle red accessory.
+
+H&M COLOR SYSTEM PRIMARY H&M RED ~#E50010; BLACK #000000; WHITE #FFFFFF. Ratio ~60% white/light / 20% black / 15% red / 5% photo tones.
+
+Composition hierarchy: H&M → NEW UNIFORM → MODEL → COLLECTION INFO → CTA. Vertical 4:5, 8K UHD, dramatic in-the-moment fashion photography, agency-level art direction. Full brand system prompts for Zara / Mango / Tommy are in the original thread comments.
+```
+
+  </details>
+
+- **[东方极简封面：分段中文 prompt](https://x.com/liyue_ai/status/2098246112159420546)** — @liyue_ai：主题/风格/构图/色彩/光线分段写死，9:16 白底禅意封面。小红书/公众号封面直接返图试。
+
+  <details><summary>Prompt</summary>
+
+```
+主题方向：东方禅意极简封面海报
+风格分支：女性审美高对比型
+主体内容：一位女子站在极简花器旁，轻轻整理一枝花
+情绪母题：精致、明亮、轻奢东方感
+场景与意象：白色空间、葡萄紫花朵、青柠绿叶片、白瓷花器、女子
+构图与空间：9:16 竖版构图，花器与人物位于下半部分偏一侧，上方保留完整白色标题区，花枝形成第一视觉点
+色彩控制：纯白或奶油白作为高明度基底，葡萄紫只用于花朵，青柠绿用于叶片，花器保持白色或浅米色，人物服装用浅暖白；避免紫绿污染整张画面
+光线与质感：明亮柔光，轮廓清晰，干净平面海报质感
+画幅比例：9:16
+补充要求：颜色要鲜明现代，整体高级精致，适合女性审美封面
+```
+
+  </details>
+
+- **[东方禅意天灯封面：分段中文极简海报](https://x.com/liyue_ai/status/2099392886207045950)** — @liyue_ai：屋檐+橘子橙天灯+青黛暮空，9:16 大留白给标题。和银杏台阶那版是姊妹篇，封面党又多一套可返图。
+
+  <details><summary>Prompt</summary>
+
+```
+主题方向：东方禅意极简封面海报
+风格分支：女性审美高传播型
+主体内容：一位古风女子站在极简屋檐下，抬头看向空中的天灯
+情绪母题：温暖、祝愿、轻梦感
+场景与意象：浅色屋檐、橘子橙天灯、青黛蓝暮空、女子、留白天空
+构图与空间：9:16 竖版构图，人物位于下方偏一侧，屋檐切入画面上缘，天空占据大面积主空间，方便排标题
+色彩控制：暖白作为建筑和背景基底，青黛蓝用于天空，橘子橙只用于天灯与少量暖反光，人物服装建议珍珠白或浅桃白；避免全图变成橙蓝滤镜
+光线与质感：柔亮傍晚光，清晰轮廓，现代东方海报感，轻微柔光即可
+画幅比例：9:16
+补充要求：天空必须干净通透，天灯要有记忆点，整体不能压暗成夜景
+```
+
+  </details>
+
+- **[剪纸海报四联：一层剪开一个小世界](https://x.com/MrLarus/status/2098408977008676918)** — @MrLarus：CUT TO MOVE / BELOW THE SURFACE / AFTERLIGHT / SPACES BETWEEN——大剪影里叠 6–9 层纸，深处藏叙事。展览/文化海报配方可换槽。
+
+  <details><summary>Prompt</summary>
+
+```
+Theme: {fashion / ocean / memory / architecture / other}
+Title: {main title}
+Main silhouette: {dress / whale / planet / arch / other bold shape}
+Inner world: {runway / deep ocean / memory space / courtyard / other scene}
+Color palette: {3–5 restrained colors}
+Editorial tone: {fashion / cultural / artistic / architectural}
+Aspect ratio: 9:16
+
+Create a refined layered paper-cut editorial poster built around one bold, instantly recognizable silhouette.
+
+Let the main silhouette occupy around 60–70% of the composition. Inside it, create 6–9 layers of cut paper that gradually open into a deeper space. Each layer should follow the overall shape while changing naturally in scale, direction, and contour. Avoid perfectly even or mechanical concentric layers.
+
+At the deepest point, reveal a small narrative scene related to the theme, such as a runway, underwater world, observation platform, courtyard, or another meaningful environment. Add one very small human figure when appropriate to create scale and a sense of discovery.
+
+Use matte art-paper textures, clean cut edges, subtle natural paper fibers, and soft shallow shadows between layers. Keep the result visually flat and editorial rather than heavy 3D, foam-board, plastic, or CGI.
+
+Use a restrained palette of 3–5 colors, moving from lighter outer layers to deeper, darker inner layers. Keep colors clean, solid, and consistent rather than using digital gradients or distressed textures.
+
+Leave generous negative space for typography. Use a clear editorial hierarchy with one strong title, a small project or issue name, and only a few supporting details. The typography should feel like an art magazine, exhibition poster, fashion editorial, or cultural publication.
+
+The visual rhythm should be: bold silhouette first, layered depth second, hidden inner world third.
+
+From a distance, the poster should read as one strong shape. Up close, the viewer should discover the layered paper structure and the small world hidden inside.
+```
+
+  </details>
+
+- **[功能极简帝国壁纸：换文明名批量出系列](https://x.com/shushant_l/status/2098397177437659591)** — @shushant_l：孔雀王朝 / 笈多 / 朱罗 / 马拉塔同骨架：`Functional Minimalism style wallpaper of the [EMPIRE]…`。历史题材壁纸/屏保工厂直接套。
+
+  <details><summary>Prompt</summary>
+
+```
+Functional Minimalism style wallpaper of the [EMPIRE/KINGDOM/CIVILIZATION], featuring [ICONIC ARCHITECTURE/LANDMARK], [CULTURAL OR RELIGIOUS SYMBOL], [MILITARY OR HISTORICAL ELEMENT], and [REGION-SPECIFIC LANDSCAPE], with subtle silhouettes of [PEOPLE/ARMY/SHIPS/ANIMALS], using clean geometric forms, restrained historically accurate details, [PRIMARY COLOR] and [ACCENT COLOR] tones, generous negative space, soft [LIGHTING TYPE] atmospheric lighting, strong visual hierarchy, balanced composition, historically inspired cinematic aesthetic, no modern elements, no text, premium ultra-clean wallpaper, [ASPECT RATIO] aspect ratio
+```
+
+  </details>
+
+- **[十字绣城市地标：[CITY / STRUCTURE] 可换槽](https://x.com/Naiknelofar788/status/2099378987713896800)** — @Naiknelofar788：复古十字绣绣在象牙亚麻上，可见针脚与手工瑕疵。文旅周边 / 小红书手工风封面一键换城。
+
+- **[同一身份锁：多姿势电影海报战役图](https://x.com/abs_uiux/status/2098282894368084350)** — @abs_uiux：一个身份复用成中央主肖像 + 四小姿势拼贴，火焰红橙背景。角色一致性海报战役，prompt 齐活可抄。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a high-impact cinematic action poster featuring the same handsome young adult man repeated in multiple dynamic poses. The composition should have one large central portrait and four smaller surrounding versions of the same man arranged in a bold collage layout.
+
+The central figure is the main focus: he is crouching low in the foreground, facing the camera with a calm, confident, intense expression. He wears a black oversized hoodie, black jogger pants, and white sneakers. One knee is raised, one arm rests casually across it, and his pose feels powerful, grounded, and stylish.
+
+Around him, place four additional versions of the same man in different expressive action/fashion poses:
+
+one on the upper left leaning outward in motion,
+
+one on the upper right with one hand placed on his head,
+
+one on the lower left in a low athletic pose with one hand touching the ground,
+
+one on the lower right in a crouched side pose.
+
+All versions should wear the same black hoodie outfit for visual consistency.
+
+Use a dramatic fiery red and orange background filled with flames, smoke, glowing heat, and intense energy. Behind the figures, include a large white circular geometric ring or abstract round graphic element that frames the collage and adds structure. Add subtle urban textures and monochrome abstract fragments inside parts of the circle for a modern editorial look.
+
+Style should feel like a premium sports-fashion poster, with:
+
+photorealistic details
+
+sharp facial features
+
+strong dramatic lighting
+
+high contrast
+
+bold red/orange glow
+
+clean compositing
+
+dynamic depth and layering
+
+luxury action-campaign aesthetic
+
+Make it visually striking, energetic, and poster-worthy, with the central figure dominant and the surrounding poses supporting the composition. Vertical 2:3 ratio, ultra-detailed, cinematic, high resolution.
+```
+
+  </details>
+
+- **[品牌 KV 母版：iPhone Duo / 18 Pro 系列海报](https://x.com/liyue_ai/status/2097884028955394216)** — @liyue_ai：同一套品牌 KV 模板给虚构新品各出一张：折叠叙事 vs 专业影像。一眼看懂怎么用 Image 2.5 做新品系列 KV。
+
+- **[圆形时尚海报四构图：FULL TURN / WATERLINE / INWARD / ORBIT VEIL](https://x.com/MrLarus/status/2099220110355697893)** — @MrLarus：Images 2.5 把圆框玩活的四套路。editorial / campaign / 杂志封面直接偷构图。
+
+- **[圆形构图时尚海报四联：穿进/踏出/戴环/靠弧](https://x.com/MrLarus/status/2099463499588018438)** — @MrLarus：PLEATED ORBIT / SCARLET EXIT / HALO FORM / ECLIPSE LOUNGE——圆不是背景，是造型与姿态的一部分。时尚广告、杂志封面、美妆 editorial 直接套。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a 9:16 high-fashion editorial poster series built around elegant circular framing and direct interaction between the model and the circular form.
+
+The overall style should feel like international fashion magazine covers, couture campaigns, and luxury editorial photography: refined studio lighting, realistic skin and fabric, clean backgrounds, sophisticated serif typography, controlled negative space, and strong visual hierarchy.
+
+The circle should never feel like a simple background graphic. It must become part of the styling, pose, garment, or physical set, with the model actively sitting in it, stepping through it, wearing it, or opening it.
+
+Keep all typography in English, with large fashion-editorial headlines and a small amount of meaningful secondary copy. Avoid logos, watermarks, numbered labels, fake magazine branding, and meaningless filler text.
+
+For this third set, create four independent poster variations under the same visual system:
+
+1. “PLEATED ORBIT” — a woman in a deep burgundy dress stepping through a huge blush-pink circular structure made from radial couture pleats, gently pulling one fold aside as fabric layers pass in front of and behind her body, soft and elegant but visually striking.
+
+2. “SCARLET EXIT” — a woman in a structured black fashion look stepping out through a monumental thick scarlet-red ring, one leg still inside and the other already outside, with direct eye contact, strong movement, clean ivory background, and bold magazine-cover energy.
+
+3. “HALO FORM” — a close-up beauty editorial of a short-haired woman in a minimal black dress wearing an oversized burnished-copper circular couture collar around her shoulders, with part of the circle open so one shoulder and hand break through the structure.
+
+4. “ECLIPSE LOUNGE” — a young man in warm ivory and tobacco tailoring seated naturally on the inner curve of a monumental burnt-amber crescent sculpture, relaxed posture, soft cream background, warm luxury lighting, and a refined menswear editorial mood.
+
+All four images should feel like one fashion story while using completely different relationships between the body and the circle. Keep the visuals polished, elegant, modern, and strong enough to work as magazine covers or campaign posters.
+```
+
+  </details>
+
+- **[圆形框景人物海报：光 / 镜面 / 折光](https://x.com/MrLarus/status/2098049584152863016)** — @MrLarus：构图压力测：圆形裁切 + 光学材质。做人物海报/品牌视觉时直接偷光位。
+
+- **[城市=悬浮微缩雕塑海报（可换 [CITY]）](https://x.com/Naiknelofar788/status/2099465141641470114)** — @Naiknelofar788：[CITY]/[COUNTRY]/地标槽位齐备，切开看地铁层的博物馆模型美学。城市/品牌系列图批量出图模板。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a premium 4:5 vertical architectural art poster featuring [CITY], [COUNTRY], designed as a miniature floating city sculpture.
+
+The entire city appears as a beautifully crafted three-dimensional architectural model suspended in the air, with streets, rivers, bridges, parks, neighborhoods, and iconic buildings layered at different heights. The city is not shown as a flat map.
+
+Place the most recognizable landmark dramatically at the center, rising above the miniature city like a sculptural centerpiece. Add tiny realistic cars, trees, boats, people, streetlights, and architectural details to create a sense of scale.
+
+Behind the floating city, use a soft warm ivory background with subtle architectural blueprint lines, elevation drawings, coordinates, and delicate technical annotations.
+
+At the top:
+
+[CITY NAME]
+[COUNTRY] • [REGION]
+
+Below it, a small elegant line:
+
+FAMOUS FOR • [LANDMARK / CULTURAL FEATURE]
+
+Use museum-model aesthetics, precision architectural model-making, sophisticated neutral colors, realistic miniature textures, soft studio lighting, subtle shadows, clean negative space, luxury architecture magazine aesthetic, highly detailed, photorealistic 3D render.
+
+No flat map, no ordinary travel collage, no excessive text, no busy background, no watermark.
+
+Make the city look like a giant architectural “cutaway” — as if the top layer of the city has been lifted away, revealing subways, underground stations, foundations, tunnels, rivers and buildings beneath it.
+```
+
+  </details>
+
+- **[奢侈品 SMM 海报组](https://x.com/sebatheepan/status/2097607526753718428)** — @sebatheepan：社交媒体高端感排版与质感提示。
+
+- **[奢华婚礼请柬 mockup + 完整 prompt](https://x.com/abs_uiux/status/2097977120441925720)** — @abs_uiux：请柬/喜帖排版系统可拆，换名字日期就能出样。婚礼赛道与高端印刷预览很香。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a premium luxury wedding invitation stationery mockup photographed from a slightly elevated top-down angle on a warm beige textured stone surface.
+
+Place a large rectangular wedding invitation card at the center, printed on thick premium ivory cotton paper with visible fine paper texture and slightly raised edges. Add a very thin champagne-gold foil border around the card.
+
+At the top center, include a delicate botanical gold-foil monogram made from elegant leafy branches surrounding the couple’s initials.
+
+Use sophisticated editorial typography throughout:
+
+- elegant high-contrast serif font for the couple’s names
+- refined small uppercase serif lettering for supporting information
+- subtle handwritten calligraphy for words such as “and” and the closing line
+- generous letter spacing and carefully balanced alignment
+
+Example invitation wording:
+
+“TOGETHER WITH THEIR FAMILIES
+
+ELEANOR JAMES
+and
+JONATHAN REESE
+
+REQUEST THE PLEASURE OF YOUR COMPANY
+AT THE CELEBRATION OF THEIR MARRIAGE
+
+SATURDAY, THE FOURTEENTH OF SEPTEMBER
+TWO THOUSAND TWENTY-SIX
+AT FOUR O’CLOCK IN THE AFTERNOON
+
+VILLA SERENA
+LAKE COMO, ITALY
+
+Dinner and dancing to follow”
+
+Surround the invitation with coordinated luxury stationery pieces, including matching ivory envelopes, small information cards, and decorative paper inserts.
+
+Add romantic styling elements around the composition:
+soft ivory and blush roses, tiny white flowers, olive-green foliage, a flowing champagne satin ribbon, a vintage brass wax seal with a botanical emblem, a velvet engagement-ring box with a diamond ring, and subtle vintage postage stamps.
+
+Keep the palette warm and refined: ivory, cream, champagne gold, dusty blush, beige, muted olive green, and soft bronze.
+
+Use soft natural window lighting with delicate shadows, realistic metallic foil reflections, premium paper texture, shallow depth of field, and elegant editorial wedding photography.
+
+Overall aesthetic: timeless European wedding, Lake Como romance, quiet luxury, sophisticated bridal stationery, high-end wedding editorial, minimal but richly detailed, photorealistic, luxurious and romantic.
+```
+
+  </details>
+
+- **[字体海报 + 杂志排版压力测](https://x.com/modelstoreai/status/2097641178191827333)** — @modelstoreai：文字密集场景下 2.5 的可读性边界。
+
+- **[对话诊断 → 轻小说封面长 prompt](https://x.com/nyattta/status/2098243466576994450)** — @nyattta：从聊天记录抽人物像，落成异世界恋爱轻小说封面（动画ベタ塗り）。人设种草/粉丝向封面玩法，日文长 prompt 可抄。
+
+  <details><summary>Prompt</summary>
+
+```
+あなたは、会話履歴から人物像を物語へ変換する編集者であり、日本のライトノベル表紙を企画するクリエイティブディレクターです。
+
+私との会話履歴・この会話で確認できる内容をもとに、私の思考傾向、悩み方、強み、こだわり、価値観、人生のテーマやミッションの仮説を分析し、その結果を「私が主人公の異世界恋愛ファンタジーライトノベル第1巻」に落とし込んでください。
+
+最後に、添付した私の写真をアニメイラスト化し、長い日本語タイトル入りのラノベ表紙画像を1枚生成してください。
+
+【分析ルール】
+- 根拠は参照可能な会話だけ
+- 不明な点は不明と書く
+- 分析と創作を分ける
+- 公開向けなので個人情報は伏せる
+- 写真から内面を決めつけない
+
+【ストーリーの軸】
+- 私の会話から見える強みや願いを、異世界での役割や能力に変換する
+- 弱みや葛藤も、物語上の障害として活かす
+- テーマは「自分の価値を見つけること」「運命の相手との関係を通じた成長」
+- ラブロマンス要素を強めに入れる
+- 関係性には、契約、共闘、秘密、身分差のいずれかを自然に盛り込む
+
+【パートナー設定】
+- 主人公と異性の、美しいパートナーを必ず登場させる
+- パートナーは圧倒的な美形で、どこか危うく、でも主人公にだけ執着や特別扱いを見せる
+- 関係性は「護衛と主」「契約相手」「敵対から共闘」「婚約者候補」など、ドラマが生まれるものにする
+- 主人公との間に、視線や手の触れ方だけで伝わるロマンスの緊張感を持たせる
+
+【タイトル】
+- 日本のライトノベルらしい長いタイトルを1案
+- 60〜90字程度
+- 「自己分析から見えた私らしさ」「異世界での立場」「美しい異性パートナーとの関係」を入れる
+- 帯コピー25字以内
+- あらすじ120字程度
+
+【表紙画像の方向性】
+- 添付写真の私を、顔立ち・髪型・年齢感を活かしてアニメ化する
+- 主人公の顔も含め、イラスト全体を完全にアニメのベタ塗り画風にすること
+- 半写実、厚塗り、3DCG風、写真風、油彩風、リアル寄りの陰影表現は避けること
+- 日本の商業アニメやライトノベル表紙らしい、くっきりした線画、明快な輪郭、セル画風の塗り、フラットで鮮やかな色面、影の境界がはっきりしたアニメ塗りで描くこと
+- 肌、髪、瞳、衣装、装飾、背景に至るまで、全体の統一感を持ったアニメベタ塗りで仕上げること
+- 主人公は実写の写真感を残すのではなく、「本人の特徴を反映したアニメキャラクター」として自然に再構成すること
+
+- 主人公は異世界衣装。ドレス、ローブ、騎士服、魔導装束など、物語設定に合う華やかな衣装
+- パートナーも非常に美しく、気高く、見る人の印象に残る異世界衣装
+
+- 参考画像のように、2人が大きく配置され、恋愛感情や距離感が伝わる表紙にする
+- ただし、そのままの構図・色・文字配置・衣装にはしない
+- オリジナルなアレンジとして、斜めの体の向き、上下の視線差、手元の演技、衣装の差異などで個性を出す
+
+- 主人公の表情は単調にせず、感情が伝わる豊かな表情にすること
+- 瞳の向き、口元、眉の動きまで含めて、主人公が感情豊かに見えるようにすること
+
+- 主人公のポーズも棒立ちにせず、動きとドラマが感じられる豊かなポーズにすること
+- 主人公とパートナーの手元や距離感にも演技を持たせ、関係性が一目で伝わるようにすること
+
+- 画面のどこかに契約・魔法・身分差を象徴するモチーフを入れる
+- 色調は、深い赤、ネイビー、金、白などをベースにした高級感ある配色
+- タイトルは大きく、縦組みと横組みを混ぜて、ラノベらしい勢いある装丁にする
+- 顔に文字が重ならないようにする
+- 画角は縦長の3:4比率
+- 平面の表紙デザインにする
+- 実在の作品や既存装丁の模倣は禁止
+
+【出力順】
+1. 参照できた情報範囲
+2. 自己分析の要点
+3. 主人公設定
+4. パートナー設定
+5. タイトル
+6. 帯コピー
+7. あらすじ
+8. 表紙画像を1枚生成
+```
+
+  </details>
+
+- **[拼图城市旅行微缩：填槽模板一键换城](https://x.com/Naiknelofar788/status/2098301205365850272)** — @Naiknelofar788：[CITY] / [LANDMARK] / [FAMOUS FOR] 三槽位，3D 拼图积木风旅行场景。做系列城市海报或周边图，比单张风景图更能量产。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a charming 3D puzzle-piece travel scene of [CITY, COUNTRY], designed as a single cohesive miniature world. Build the city from beautifully interlocking puzzle pieces, with [ICONIC LANDMARK] as the central focal point. Surround it with recognizable local architecture, streets, trees, transportation, landscape, and small cultural details. Make the puzzle pieces slightly raised with visible seams, rounded edges, layered depth, and soft realistic shadows. Use a sophisticated palette inspired by the city, subtle handcrafted textures, warm studio lighting, clean cream background, playful yet premium collectible-diorama aesthetic. Add elegant 3D lettering: “[CITY]” and underneath “[COUNTRY] • [FAMOUS FOR]”. Highly polished, cute, artistic, detailed, and instantly recognizable.
+```
+
+  </details>
+
+- **[旅行手账 [LOCATION]：黏土微缩 + 折纸旅人](https://x.com/Goodmanprotocol/status/2098269046022238289)** — @Goodmanprotocol：螺旋本俯拍 + 手作黏土微缩世界，换地名就能量产 IG 竖图。内容营销可复用模板，附完整 prompt。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a premium, Instagram-worthy handcrafted travel-journal scene representing [LOCATION].
+
+Show an open cream-colored spiral notebook resting on a warm rustic wooden desk, photographed from a slightly elevated top-down angle in soft, cinematic golden-hour light.
+
+Turn the destination into a charming mixed-media miniature world. Build the architecture, landscape, plants, water, and cultural details from realistic, tactile hand-sculpted clay, with subtle handmade imperfections and fine textures. Add a small origami traveler, unmistakably folded from textured paper with visible creases and elegant, simple shapes, naturally exploring the miniature environment.
+
+Make one iconic landmark or visual symbol of [LOCATION] the clear hero, supported by a few authentic local elements such as architecture, terrain, vegetation, transportation, or cultural details. Avoid generic tourist objects. Dress the origami traveler in a tasteful outfit subtly inspired by the destination without relying on stereotypes.
+
+Use a sophisticated color palette inspired by [LOCATION], with detailed clay textures, realistic paper folds, miniature craftsmanship, soft shadows, atmospheric depth, and warm cinematic illumination. Make the miniature world feel physically integrated into the notebook page—not like a pasted photograph.
+
+Surround the artwork with subtle handwritten travel-journal notes, tiny doodles, arrows, stamps, and location-inspired sketches, keeping them secondary to the main scene.
+
+Composition: strong focal point, clear visual hierarchy, generous negative space, immersive depth, premium editorial photography, highly detailed handcrafted textures, whimsical yet sophisticated, emotionally evocative, visually distinctive, and highly shareable.
+
+Avoid: photorealistic people, clutter, excessive text, generic landmarks, flat digital illustration, plastic-looking materials, oversaturated colors, distorted architecture, and unnecessary decorations.
+
+Overall feel: a beautifully crafted tiny world inside a traveler's notebook—artistic, tactile, authentic, sophisticated, and unmistakably connected to [LOCATION], rather than a conventional travel photograph.
+STRICT FORMAT: Vertical 4:5 aspect ratio only - do not generate square, landscape, or any other aspect ratio.
+```
+
+  </details>
+
+- **[旅行日记海报：上半摄影下半丝网印](https://x.com/frametheory058/status/2098253373237875074)** — @frametheory058：4:5 圣托里尼家庭瞬间：上半写实金光，下半 risograph/丝网印记忆页。旅游/生活方式海报可抄长 prompt。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a vertical 4:5 cinematic travel-diary poster built around one beautiful family moment in Santorini, Greece.
+
+TOP — REAL PHOTOGRAPHY:
+A young couple with their little daughter at a scenic Santorini viewpoint during golden-hour sunset. The daughter is naturally positioned between her parents while both parents gently kiss her cheeks at the same time. She closes her eyes and gives a genuine happy smile. Make the interaction spontaneous, affectionate and completely natural — like a real family vacation photograph, not models posing for an advertisement.
+
+Behind them: iconic white Santorini architecture, blue-domed churches, Mediterranean Sea, distant cliffs, small boats and vibrant bougainvillea. Warm sunset light wraps naturally around their faces and hair. Real skin pores, tiny imperfections, realistic hair strands, accurate hands, natural fabric texture and believable shadows. Shot like a premium full-frame travel photograph, 35mm lens, shallow but realistic depth of field, cinematic dynamic range. Absolutely photorealistic — no AI-looking skin, excessive HDR, plastic faces or artificial expressions.
+
+Keep generous negative space around the subjects for subtle editorial typography. Add only a few refined details such as:
+“TRAVEL DIARY”
+“Sept 11, 2026”
+“SANTORINI — GREECE”
+and one small handwritten travel note.
+
+BOTTOM — HAND-PRINTED MEMORY:
+Instead of simply duplicating the photograph, reinterpret the same family moment as an original vintage travel-print artwork. Use imperfect screen printing, risograph dots, engraved linework, faded ink, rough edges and authentic paper grain on warm ivory stock.
+
+Build the Santorini landscape around the family as a graphic illustration: simplified blue domes, cliffside houses, sea, sunset and bougainvillea integrated naturally into the composition. Limited ink palette of deep Mediterranean navy, sun-faded terracotta orange, warm ivory and tiny touches of dusty blue.
+
+Use a large expressive hand-painted title:
+“MORE GOOD DAYS”
+
+Surround it with only a few carefully placed diary elements: a Santorini postal stamp, tiny handwritten notes, one or two taped miniature travel photographs and “A SMALL DIARY — #001.” Keep everything intentionally imperfect and tactile rather than digitally clean.
+
+The transition between photography and illustration should feel like a torn page from a personal travel journal rather than a basic 50/50 split.
+
+Overall aesthetic: real family vacation photography × independent travel magazine × vintage European tourism poster × handmade screen print.
+
+Warm, intimate, nostalgic and premium. Strong enough to stop someone while scrolling, but never overcrowded. The photograph must feel genuinely captured in real life, while the lower artwork feels physically printed by hand.
+
+No Chinese text. No copied layouts. No generic AI collage aesthetic. No excessive stickers. No fantasy. No fake-looking faces. No malformed hands. No waxy skin. No over-saturation. Keep all three family members consistent between the photographic and illustrated sections.
+```
+
+  </details>
+
+- **[旅行海报 [CITY, COUNTRY] 丝网印刷模板](https://x.com/Naiknelofar788/status/2097920025617399875)** — @Naiknelofar788：本地建筑元素的 mid-century 丝网印刷风海报配方，带成片。做目的地/活动 KV 直接换槽。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.
+
+Add one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.
+
+Use a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.
+
+Add a tall integrated sign or architectural panel featuring:
+
+[CITY]
+[LOCAL SCRIPT]
+
+Include small refined editorial typography at the bottom:
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.
+```
+
+  </details>
+
+- **[旅行海报 [LOCATION] 系列模板：构图锁死只换城](https://x.com/Goodmanprotocol/status/2099352799893172430)** — @Goodmanprotocol：4:5 插画旅行海报，植被→步道→水面→地标→字体条全锁死，只换 [LOCATION]。目的地 KV 批产神器。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a premium illustrated travel poster for [LOCATION] in an exact 4:5 vertical format. This is part of a cohesive global poster series, so keep the composition fixed across every destination; only adapt the landmarks, architecture, landscape, vegetation, and cultural details.
+
+COMPOSITION
+
+Illustration fills 82–85%; reserve the bottom for a warm cream typography panel.
+
+Dense vegetation frames the left edge, with one tall natural anchor in the upper-left.
+
+A curved promenade sweeps from the lower-left toward the center, with globe lamps, dark decorative railing, and a small strolling couple.
+
+A broad water/open-space field occupies the lower-middle; use authentic boats when appropriate.
+
+Place the single most iconic landmark of [LOCATION] as the central hero, with the clearest silhouette and strongest visual focus.
+
+Add one major horizontal landmark behind/beside it for balance.
+
+Build a simplified layered local skyline/landscape with 6–12 major forms.
+
+Add one distinctive tall local landmark near the upper-center as a vertical counterweight.
+
+Keep the upper sky open, bright, and uncluttered, with 2–4 soft clouds, a few birds, and a warm sun in the upper-right.
+
+VISUAL FLOW
+
+Vegetation → promenade/couple → water/open space → central landmark → horizontal landmark → sky/sun → typography.
+
+Never let secondary elements compete with the hero.
+
+STYLE
+
+Sophisticated contemporary travel-poster illustration; clean vector shapes + subtle gouache/screen-print texture, crisp dark-navy outlines, softly shaded color blocks, slight organic imperfection, refined editorial aesthetic, premium collectible quality.
+
+No photorealism, 3D, CGI, glossy rendering, or generic clip-art.
+
+COLOR
+
+Harmonious destination-specific palette using dark navy outlines, natural greens, cool environmental tones, warm architectural tones, and one restrained warm accent.
+
+AUTHENTICITY
+
+Use only genuinely recognizable features of [LOCATION]. Prioritize iconic silhouettes and authenticity over excessive detail. Do not invent landmarks.
+
+TYPOGRAPHY
+
+Bottom cream panel:
+[LOCATION] — large elegant uppercase serif
+Thin horizontal rule
+[COUNTRY / REGION] — small widely spaced uppercase text.
+
+COMPOSITION LOCK
+
+4:5 • left vegetation • upper-left anchor • curved promenade • couple • globe lamps • railing • lower-middle water/open space • central hero • horizontal anchor • layered background • upper-center vertical counterweight • open sky • upper-right sun • bottom typography.
+
+Keep this structure identical for every destination. Adapt the content, never the composition.
+```
+
+  </details>
+
+- **[日系馆藏风海报：大字+材质+档案一起构图](https://x.com/MrLarus/status/2098403133806293161)** — @MrLarus：百鬼夜行 / 潮汐之书 / 金继器物 / 花鸟余白——古画海浪器物花鸟进同一视觉系统。系列 KV / 文博宣传可复用题材骨架。
+
+- **[最爱的 editorial 插画海报配方](https://x.com/icreatelife/status/2099343607492702258)** — @icreatelife：每张上传照单独出一张高端 editorial 海报，禁拼贴；3:4 竖版。Firefly Boards + Image 2.5 最好用，附完整 prompt。
+
+- **[杂志封面局部编辑：Images 2.5 精度实测](https://x.com/AIPixLab/status/2098379263020077366)** — @AIPixLab：封面 / 杂志风图上抠局部改，精度肉眼可见。电商精修与排版迭代，先看它敢不敢动不该动的地方。
+
+- **[液态狮子海报：先锁眉骨口鼻，再放鬃毛飞溅](https://x.com/ou_zhen599/status/2098344166489293224)** — @ou_zhen599：别先看到飞溅再猜动物——用连续咖啡奶油面塑出吼脸，再非对称甩鬃。产品液态/质感广告的可控写法，长 prompt 齐活。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a Cannes-level ultra-premium commercial coffee poster for the fictional brand FEROX ROAST, merging Transit material precision with Orbit mythic atmosphere while rigorously preserving the exact visual type of the reference: a near-black studio void, one dark cup cropped low in the frame, and a violent sculptural eruption of coffee and milk from the cup that forms the head and upper mane of a roaring lion. Keep the overall image text-free, with no headline, no promotional copy, and no extra graphic clutter. The cup and the liquid lion must remain the full commercial story.
+
+Core composition: use a vertical poster with one dark ceramic cup positioned low and centrally, partially cropped by the bottom edge to feel close and monumental. From the cup surface, coffee and cream explode upward in a single continuous fluid transformation, forming a roaring lion in three-quarter profile. The lion head must dominate the upper-middle frame, clearly readable through the liquid structure, with the mane flaring backward and outward in asymmetrical splash streams. The splash should feel powerful but controlled, with the main lion silhouette always stronger than the peripheral droplets. Preserve a clean black background so the erupting form holds maximum contrast and hero dominance.
+
+Transit material precision: render the liquid sculpture with world-class detail. The dark coffee must feel dense, hot, roasted, and syrupy, with translucent brown edges, glossy thicker cores, and realistic fluid tension. The milk and foam components must feel silky, creamy, and slightly aerated, defining the lion’s facial planes, cheek, jawline, muzzle, and mane highlights. The cup rim must show wet residue, foam disturbance, subtle splash traces, and accurate ceramic gloss. The coffee surface inside the cup must feel physically active, as if the lion is tearing itself out of a freshly agitated crema field. Every droplet, sheet, ribbon, and foam pocket must obey believable high-speed splash physics.
+
+Orbit atmosphere: deepen the emotional tone into a nocturnal myth of strength awakened by coffee. The lion must not feel like an animal pasted from another source, but like roast energy itself becoming a beast in the dark. Let the mane feel like hot power and vaporized force, as if the roar is born from aroma, heat, and impact. The black field should remain velvety and empty, making the explosion feel ceremonial, primal, and iconic, like a sacred emblem of power emerging in darkness.
+
+Lion-form logic: the face must remain fierce and readable, with a fluidly sculpted brow, open mouth, roaring expression, and mane direction driven by splash momentum. The teeth and mouth interior should be suggested by liquid form and tonal carving rather than literal pasted anatomy. The lion should read instantly, but still feel fully made of coffee and milk. Emphasize the tension where the face transitions into wild mane splashes, so the image feels both animal and fluid at once.
+
+Lighting: use dramatic studio lighting with a warm directional key from upper front-left and controlled rim separation along splash edges and droplet fields. Let highlights travel across the coffee membranes, cream folds, and foam edges, giving the liquid lion museum-grade sculptural definition. Keep the cup readable but secondary to the lion head. The background must stay dark and clean, without environmental contamination.
+
+Color direction: build the image around 60% dark espresso brown, black coffee depth, and roasted mocha, 30% cream-white, latte beige, and cappuccino foam light, and 10% amber-gold highlights and ceramic reflections. The overall palette should feel noble, hot, luxurious, and intense.
+
+Design intent: the final poster must feel like a mythic coffee emblem expressed through high-speed liquid sculpture. It should preserve the reference’s exact same-category shock image while elevating both the tactile realism and the emotional power. The viewer should read strength, roast intensity, and premium coffee energy immediately from the cup and the lion-form eruption alone.
+
+Rendering style: ultra-photoreal luxury coffee advertising, text-free dark studio poster, roaring lion sculpted from coffee and milk, Transit-grade splash realism, Orbit-grade nocturnal beast atmosphere, cinematic chiaroscuro, world-class beverage art direction, 8k detail.
+
+Negative prompt: visible headline, logo, packaging text, extra layout elements, cartoon lion, pasted animal face, weak cup hierarchy, muddy liquid, plastic cream, chaotic splash, low-detail droplets, broken lion anatomy, flat lighting, messy background, cheap energy-drink aesthetic, low-end fantasy rendering, noisy composition
+```
+
+  </details>
+
+- **[照片→奢华旅行双页故事：锁脸拼贴模板](https://x.com/Alina_with_Ai/status/2099320489797947424)** — @Alina_with_Ai：上传自拍锁身份，左右两页撕纸旅行 collage（美国/挪威槽位可换）。宽幅 X 友好构图，人像+目的地 KV 一锅出。
+
+  <details><summary>Prompt</summary>
+
+```
+Use my uploaded photo as the SAME main female character throughout the entire image. Preserve her exact facial identity, facial features, skin tone, hairstyle, body proportions and natural appearance.
+
+Create a premium vintage travel editorial poster in a WIDE LANDSCAPE FORMAT, specifically optimized for X/Twitter so the complete image is visible without important areas being cropped.
+
+Divide the canvas into TWO equal vertical framed panels placed side by side.
+
+LEFT PANEL — UNITED STATES:
+Create a sophisticated 3×3 torn-paper travel collage featuring the same woman visiting iconic American destinations:
+Washington D.C. with the U.S. Capitol and Washington Monument, New York City with the Flatiron Building, San Francisco with the Golden Gate Bridge, New York cathedral architecture, Los Angeles with palm trees and skyline, and dramatic American mountain landscapes.
+
+In the CENTER of the left panel, place an elegant cream paper card with:
+"UNITED STATES"
+"DIVERSE LANDS"
+"TIMELESS BEAUTY"
+and a subtle vintage map of the United States.
+
+RIGHT PANEL — NORWAY:
+Create a matching 3×3 torn-paper travel collage featuring the same woman exploring Norway:
+Norwegian fjords, Bergen colorful waterfront, Oslo modern architecture, dramatic mountain villages, historic Scandinavian architecture, coastal viewpoints, Norwegian streets with a tram, and peaceful alpine landscapes.
+
+In the CENTER of the right panel, place an elegant cream paper card with:
+"NORWAY"
+"Wild beauty,"
+"a deeper kind of luxury"
+and a subtle watercolor map of Norway.
+
+IMPORTANT:
+Keep both complete panels fully visible inside the outer frame.
+Use generous margins around the entire composition.
+Do NOT make the image tall or portrait-oriented.
+Do NOT crop either panel.
+Both USA and Norway must be equally prominent and clearly visible at first glance.
+
+Style: luxury travel magazine, vintage editorial photography, refined cream paper texture, subtle torn edges, cinematic natural lighting, realistic photography, elegant serif typography, premium composition, sophisticated color grading, clean negative space, highly detailed, photorealistic.
+
+Aspect ratio: approximately 16:9 landscape.
+```
+
+  </details>
+
+- **[竖三栏海报构图](https://x.com/MrLarus/status/2097666767174672871)** — @MrLarus：Images 2.5 竖三栏：图像/文物/声音/空间各占一栏，主体与线条串栏；活动海报、品牌视觉可抄结构。
+
+- **[自定义大字背景：TEXT HERE 一键换 editorial 海报](https://x.com/meAsifAi/status/2099302118104444953)** — @meAsifAi：参考图锁构图排版，自拍锁脸，TEXT HERE 控巨型衬字。小红书 / 人设海报模板，改三个字就能量产。
+
+  <details><summary>Prompt</summary>
+
+```
+MASTER PROMPT — REFERENCE-BASED EDITORIAL PORTRAIT
+
+REFERENCE IMAGE IS MANDATORY.
+
+Use the uploaded reference image as the PRIMARY VISUAL REFERENCE for the entire composition, layout, typography treatment, background, lighting, proportions, depth, and overall premium editorial poster aesthetic.
+
+Use the user's uploaded personal image as the PRIMARY IDENTITY REFERENCE for the subject.
+
+The uploaded subject can be ANY PERSON, male or female. Preserve the exact identity of the person from the uploaded image, including facial structure, facial features, skin tone, hairstyle, hair texture, age, and natural appearance. Do not replace or redesign the person's face.
+
+==================================================
+CUSTOM TEXT CONTROL
+==================================================
+
+TEXT HERE: [TYPE ANY WORD OR SHORT TEXT HERE]
+
+IMPORTANT:
+Whatever text the user writes after "TEXT HERE:" must become the MAIN LARGE BACKGROUND TYPOGRAPHY.
+
+The user can write ANY word, name, phrase, or short custom text they want.
+
+Examples:
+TEXT HERE: LOVE
+TEXT HERE: DREAM
+TEXT HERE: MAGIC
+TEXT HERE: FOREVER
+TEXT HERE: LIFE
+TEXT HERE: WILD
+TEXT HERE: HOPE
+TEXT HERE: ZARNAB
+TEXT HERE: MY STORY
+TEXT HERE: CREATE
+TEXT HERE: FREEDOM
+
+Never automatically use "LOVE" unless the user specifically writes LOVE.
+
+Use the user's exact custom text. Do not invent, replace, misspell, remove, or add words.
+
+==================================================
+SUBJECT & IDENTITY
+==================================================
+
+Place the person naturally in the center of the composition, matching the approximate position, scale, and framing of the reference image.
+
+Preserve the person's exact identity from the uploaded image.
+
+The subject should have a relaxed, natural, candid editorial pose.
+
+The person is holding a small bouquet of fresh yellow wildflowers naturally in both hands, similar to the reference.
+
+Maintain realistic anatomy, natural body proportions, realistic hands and fingers, authentic facial expression, realistic skin texture, and natural hair.
+
+The final image must look like a professionally photographed version of the person, not an AI-generated replacement person.
+
+==================================================
+OUTFIT
+==================================================
+
+Create a clean, casual, elegant outfit inspired by the reference image while keeping it natural for the person's gender, appearance, and identity.
+
+Use realistic fabric texture, natural folds, stitching, shadows, and physically accurate clothing.
+
+Include subtle backpack straps similar to the reference when visually appropriate.
+
+Do not make the outfit overly dramatic or fantasy-like.
+
+==================================================
+BACKGROUND
+==================================================
+
+Recreate the same overall outdoor environment as the reference:
+
+A beautiful dreamy yellow wildflower meadow with soft green foliage and trees in the background, abundant yellow flowers throughout the foreground and midground, warm natural daylight, soft golden sunlight, subtle atmospheric haze, delicate floating light particles, cinematic depth, and a peaceful premium editorial atmosphere.
+
+Keep the background visually very similar in mood, color balance, depth, and softness to the reference image.
+
+Use realistic natural vegetation and physically accurate flowers.
+
+==================================================
+MAIN TYPOGRAPHY
+==================================================
+
+Place the CUSTOM TEXT behind the subject.
+
+The text must be:
+
+- Extremely large
+- Bold
+- Tall and condensed
+- Uppercase
+- Minimal
+- Elegant
+- Cream/off-white
+- Highly readable
+- Vertically dominant
+
+The typography should occupy most of the background, similar to the reference composition.
+
+The person's body must naturally overlap and partially cover the letters, creating a realistic foreground/background layering effect.
+
+The text must remain BEHIND the person — never place the main typography over the person's face or body as a foreground graphic.
+
+Match the reference's typography scale, spacing, positioning, and visual hierarchy as closely as possible.
+
+If the custom text contains multiple words, arrange them in a visually balanced way while keeping the same oversized editorial poster aesthetic.
+
+==================================================
+SMALL TOP TEXT
+==================================================
+
+Add a small minimalist uppercase text above the main typography.
+
+SMALL TEXT HERE: [TYPE SHORT TEXT HERE]
+
+Keep this text subtle, centered, thin/minimal, with generous letter spacing.
+
+If the user does not provide small text, use a simple minimal decorative uppercase word that complements the main custom text without distracting from it.
+
+==================================================
+COMPOSITION
+==================================================
+
+Match the reference image's composition as closely as possible.
+
+Portrait 4:5 aspect ratio.
+
+Keep the subject centered.
+
+Use the oversized custom typography behind the subject.
+
+Maintain the same approximate proportions between:
+
+subject,
+background typography,
+flower field,
+foreground,
+negative space,
+and upper text.
+
+Create strong natural foreground, midground, and background depth.
+
+The final result should feel like a premium fashion/editorial social-media poster.
+
+==================================================
+LIGHTING & CAMERA
+==================================================
+
+Natural soft golden daylight.
+
+Warm cinematic exposure.
+
+Soft realistic shadows.
+
+Gentle highlights.
+
+Natural skin illumination.
+
+Shallow depth of field.
+
+Realistic optical bokeh.
+
+50mm professional portrait photography look.
+
+Subtle cinematic filmic softness.
+
+High dynamic range.
+
+Natural premium color grading.
+
+Avoid excessive HDR, artificial glow, plastic skin, or oversaturated colors.
+
+==================================================
+PHOTOREALISM
+==================================================
+
+Make the final image highly photorealistic.
+
+Preserve:
+
+- Realistic skin pores and texture
+- Individual hair strands
+- Natural facial details
+- Realistic eyes
+- Realistic hands and fingers
+- Physically accurate flowers
+- Natural fabric texture
+- Correct shadows
+- Realistic depth of field
+- Natural perspective
+- Authentic photographic imperfections
+
+The final image should look like a real professional photograph captured with a high-end camera.
+
+==================================================
+STRICT REFERENCE RULES
+==================================================
+
+Use the reference image ONLY for:
+
+- Composition
+- Layout
+- Typography style
+- Typography placement
+- Background environment
+- Lighting
+- Color mood
+- Subject positioning
+- Depth
+- Overall visual aesthetic
+
+Do NOT copy the identity, face, or personal appearance of the person in the reference image.
+
+The user's uploaded image is the ONLY identity reference for the subject.
+
+Do not change the person's identity.
+
+Do not create an unrelated face.
+
+Do not distort the face, hands, fingers, body, flowers, backpack, or clothing.
+
+Do not put the large custom text in front of the person.
+
+Do not use random words.
+
+Do not automatically use "LOVE".
+
+Use EXACTLY the text provided after:
+
+TEXT HERE:
+
+Keep all typography clean, correctly spelled, readable, and professionally integrated into the photograph.
+
+FINAL GOAL:
+Create a highly realistic premium editorial portrait that feels like the SAME visual concept, composition, typography treatment, background, lighting, and aesthetic as the reference image, while using the user's uploaded person as the subject and allowing the user to freely control the large background text through "TEXT HERE:".
+```
+
+  </details>
+
+- **[轨道奢侈品三连](https://x.com/sebatheepan/status/2097778936646091084)** — @sebatheepan：Prada×Axiom×Zendaya / SpaceVIP×Keanu / Richard Mille×Hamilton 三套轨道奢侈海报。Sunburst 高端 SMM 排版系统可拆。
+
+  <details><summary>Prompt</summary>
+
+```
+Prada × Axiom Space × Zendaya — "ORBITAL COUTURE"
+
+FORMAT: Ultra-Premium Aerospace SMM Poster | 3:4 | Instagram Hero | Behance Front Page Quality
+CORE STRATEGY: High-fashion lunar engineering. Sleek tailored pressurized lunar EVA spacesuit, reflective gold visor, and Earth's blue curve.
+CAMPAIGN: "ORBITAL COUTURE"
+MASTER VISUAL: Monolithic bold geometric PRADA typography (75% canvas) in clean lunar white across top.
+HERO SUBJECT: Zendaya. Sleek high braided ponytail, wearing the tailored Prada-designed Axiom lunar spacesuit in pristine white composite with red Linea Rossa accents.
+POSE: Relaxed zero-gravity posture, helmet resting under her arm, gazing out a massive curved spacecraft observation cupola.
+COLOR SYSTEM: Lunar White, Linea Rossa Crimson, Deep Space Black, Earth Atmospheric Cyan.
+BACKGROUND: The panoramic cupola of an orbital habitat revealing the illuminated blue crescent of planet Earth against the infinite starfield.
+GRAPHIC SYSTEM: Orbital velocity parameters (27,600 km/h), telemetry coordinate HUD, minimalist technical hatch numbering.
+PROMOTIONAL ELEMENTS: PRADA LUNAR DIVISION | AXIOM EXTRAVEHICULAR MOBILITY UNIT | ARTEMIS MISSION
+TYPOGRAPHY: Top iconic PRADA bold serif | Center title: ORBITAL COUTURE | Bottom technical telemetry data readout
+LIGHTING: Pristine solar sunlight raking across the composite white suit fabric from the cupola, contrasted by deep space black.
+CAMERA: ARRI Alexa 65, 70mm Hasselblad Prime, f/4.0, hyper-crisp reflections in visor and tactile ballistic nylon weave.
+```
+
+  </details>
+
+- **[雨后三帖：水滴 / 城市 / 湿花极简海报](https://x.com/Caika_app/status/2098321572360822907)** — @Caika_app：一滴水、雨后城、湿润花——三组诗意极简海报，中文提示词向高级感封面。适合品牌氛围图连发。
+
+- **[香水奢品 10 格分镜 storyboard](https://x.com/Strength04_X/status/2097919290980921451)** — @Strength04_X：电影感产品分镜 + 干净网格，直接可改成你自己的品类广告故事板。
+
+  <details><summary>Prompt</summary>
+
+```
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+  </details>
+
+- **[鱼眼 editorial：15mm 草皮配方 + 开源提示词库](https://x.com/Milliekio/status/2098428660944695644)** — @Milliekio：超广角 15mm 草皮 editorial 可抄；并指向 awesome-gpt-image-2-5-prompts（社区原句+出处）。模板要存 prompt 别只存图。
+
+- **[麦当劳双层芝士堡 × 4 种电影级广告风](https://x.com/Caika_app/status/2097954546152857796)** — @Caika_app：完整 Prompt 可拆。食品/消费品要「高端感物料」时，直接换品类槽位。
 
 
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
-- **嫦娥×前置误触：假失败中秋写真** — 关键词串：iPhone 前置误触×曝光错误×虚焦拖影×中秋裁切。故意「拍坏」的节日人像，UGC 反精致风可直接套角色。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099451908381692387)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[80s 复古写真锁脸](https://x.com/Goodmanprotocol/status/2097954772586557873)** — @Goodmanprotocol：年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。
+
+  <details><summary>Prompt</summary>
 
 ```
-嫦娥 × iPhone前置误触 × 曝光错误 ×虚焦拖影× 中秋节 × 裁切
-```
+Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high accuracy—do not alter or beautify the face.
 
-  </details>
+Give the subject a classic 1980s hairstyle and stylish period-accurate fashion with bold silhouettes, authentic textures, and effortless vintage attitude. Compose the portrait naturally with a strong editorial feel, keeping the subject as the clear focal point.
 
-- **角色 ref 破格一句话：逼 2.5 输出「平时绝对不出」的图** — 锁自己角色参照后丢这句日文，角色会「叛逆」出非常规构图。人设表之后想要惊喜帧，就靠这一刀。 [@sentakusound](https://x.com/sentakusound) · [原帖](https://x.com/sentakusound/status/2099435461861327229)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+Capture the image as if shot on a 35mm analog film camera, with realistic film grain, subtle dust and texture, gentle softness, natural skin detail, slight color fading, and authentic analog imperfections. Use warm nostalgic color grading, soft neon highlights, subtle ambient glow, and direct on-camera flash to create the distinctive look of an iconic 1980s photograph.
 
-```
-このキャラクターを使ってGPT image 2.5 が、普段絶対に出さない画像を生成して下さい
+Keep the lighting cinematic yet believable, with soft shadows, realistic highlights, natural contrast, and a slightly imperfect film exposure. The final image should feel genuinely photographed in the 1980s—not digitally recreated, with a timeless, nostalgic, fashionable, and effortlessly cool atmosphere.
 ```
 
   </details>
 
-- **北欧奢侈 editorial：冰灰大衣+visor 眼镜完整 prompt** — 输入照片一键北欧奢牌大片：冰蓝灰渐变、硬边轮廓光、105mm 压缩。男装投放 / 品牌 KV 直接抄。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2099425863200920002)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[80s 复古肖像拼贴：文化区锁脸六到八姿](https://x.com/meAsifAi/status/2098323157610582344)** — @meAsifAi：参考脸推断文化区，一次出 6–8 姿复古杂志拼贴，身份锁写死。人设海报战役图，长 prompt 齐活。
 
-```
-ULTRA-REALISTIC STUDIO EDITORIAL PORTRAIT FROM INPUT PHOTO. VIBE: Scandinavian luxury fashion campaign, sterile elegance, futuristic calmness. ENVIRONMENT: Minimal smooth gradient background transitioning from pale icy- blue into soft gray. LIGHTING: Bright diffused frontal light with subtle hard edge-lighting outlining the hair and shoulders. STYLING (MALE): Oversized ash-gray textured coat layered over monochrome knitwear, silver futuristic visor sunglasses. relaxed tailoring. POSE: Minimal side-profile portrait with shoulders slightly turned away, one hand lightly touching the coat collar. TECH: 105mm lens with clean portrait compression and luxury campaign framing. EXPRESSION: Detached serene expression, looking past camera. POST-PROCESSING: Cool desaturated tones, soft silver highlights, realistic luxury campaign texture.
-```
-
-  </details>
-
-- **写实生活照配方：伸手拉你起床的 9:16** — 周末赖床亲密互动分段中文 prompt：手伸向镜头制造「你就在对面」。UGC / 情感向人像模板可直接改场景。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099408990228914449)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-风格方向： 周末赖床后的亲密互动
-场景方向： 卧室床边 / 地毯旁
-服装方向： 奶油白修身短袖家居裙
-气质标签： 亲近、慵懒、温柔、轻甜、自然
-身形方向： 丰腴自然曲线
-线条强调： 中偏强
-镜头方向： 女生坐在床边或地毯上，身体略微前倾并偏向镜头，一只手向镜头伸过来，像要拉男友起身，另一只手轻撑床沿，抬眼看向镜头轻笑
-画幅比例： 9:16
-互动重点： 手伸向镜头会形成很强的“你就在她面前”的感觉，前倾动作还能自然表现胸腰关系。
-```
-
-  </details>
-
-- **攻壳草薙素子：一年后再测 Images 2.5** — Zho 把素子拉回赛博写实。角色锁定 + 材质光感的回归测，国风/二次元 IP 人设出片可对标这档质感。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2099365177938575853)
-
-- **钴蓝棚拍街潮男装：奢华 campaign 完整 prompt** — 深蓝针织+烟色透明框眼镜+无缝钴蓝背景，手部与织物约束写死。男装电商主图 / 投放素材可直接用。 [@john_my07](https://x.com/john_my07) · [原帖](https://x.com/john_my07/status/2099357576484069651)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create an ultra-photorealistic high-end studio fashion portrait of a handsome young adult man in his early-to-mid 20s, photographed like a luxury streetwear campaign.
-
-Subject & Appearance:
-A naturally handsome young man with masculine yet refined facial features, realistic skin texture, subtle natural imperfections, expressive eyes, defined jawline, straight nose, natural lips, and light authentic stubble. Tousled, slightly wavy dark-brown hair with realistic individual strands. His appearance should feel believable and photographic rather than overly perfected or AI-generated.
-
-Pose & Expression:
-Place him in a relaxed seated pose, leaning slightly toward the camera. His torso is angled subtly while his shoulders remain relaxed. One arm is bent upward with his hand resting naturally near his mouth and chin, with his fingers positioned loosely and realistically. His other arm rests casually in the foreground. His head is tilted slightly upward and toward the side, with a calm, confident, slightly aloof expression. His gaze is directed toward the camera through the glasses. The pose should feel effortless and editorial rather than staged.
-
-Wardrobe:
-Dress him in a premium oversized dark-navy textured knit sweater with a relaxed streetwear silhouette. The sweater should have realistic heavy fabric, natural folds, ribbed cuffs, and believable draping around the shoulders and arms. Pair it with relaxed-fit light-wash blue denim jeans. Add a minimal fine silver chain necklace. Keep accessories understated and luxurious.
-
-Eyewear:
-Add sophisticated oversized translucent/clear-frame glasses with lightly tinted smoky lenses. The glasses must have realistic reflections and accurate interaction with the studio lighting. Ensure the frames sit naturally on the face without distorting the eyes or facial proportions.
-
-Studio & Background:
-Use a completely seamless, rich cobalt-blue studio backdrop extending uniformly across the entire frame. No visible studio equipment, furniture, texture, gradients, patterns, or environmental distractions. Maintain a premium monochromatic blue fashion-campaign aesthetic.
-
-Lighting:
-Use soft directional studio lighting coming from slightly above and to one side of the subject. Create subtle highlights across the forehead, cheekbones, nose, lips, glasses, and hair while maintaining realistic shadow transitions along the jawline, neck, sweater, and hands. Include gentle rim separation around the hair and shoulders. Preserve natural skin texture and realistic tonal variation. Avoid harsh shadows or artificial HDR.
-
-Camera & Composition:
-Professional full-frame fashion photography, approximately 50–85mm portrait-lens feel, slightly low camera angle, shallow depth of field, realistic perspective, natural facial proportions, and crisp focus on the eyes and face. Frame the subject tightly from approximately the knees/upper legs upward, with the foreground jeans subtly visible. Maintain strong editorial balance with some clean negative space around the head and shoulders.
-
-Photographic Quality:
-Ultra-photorealistic, luxury fashion campaign, premium commercial advertising photography, cinematic studio portrait, subtle film-grade contrast, realistic skin pores, fine facial hair, detailed knit texture, physically accurate fabric folds, realistic hands and fingers, natural hair strands, authentic optical reflections, soft depth of field, refined color grading, high dynamic range without an HDR look, professional magazine-cover quality.
-
-Important:
-The final image must look like a genuine professional photograph captured in a controlled fashion studio, not a digital illustration or AI artwork. Prioritize anatomical accuracy, realistic hands, natural facial proportions, physically believable clothing, authentic skin texture, and convincing studio lighting.
-```
-
-  </details>
-
-- **参考图一发四张定妆照：同人四造型一致性** — 一张参考图锁脸+泪痣，一次出 Cyber Grunge / Quiet Luxury / Sporty Siren / Butterfly Core 四套。人设测一致性直接抄。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2099331412444713025)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-✨ 4 套定妆照 Prompt｜同一人物，不同风格
-
-统一人物锚点：
-同一位成年东亚女性、骨相五官一致、左眼下方保留标志性泪痣、真实毛孔与皮肤纹理、9:16 竖屏摄影、拒绝塑料假人感。
-
-🖤 01｜暗黑甜酷辣妹 Cyber Grunge Chic
-9:16 竖屏人像大片。同一位成年东亚女性，立体精致五官，左眼下方有一颗清晰的标志性泪痣，冷艳眼神，水光裸粉唇釉。墨黑色长发带细微冷银灰挑染，轻薄空气刘海。身穿解构风黑色罗纹镂空挂脖露肩针织短上衣，展露优雅锁骨与直角肩，佩戴细银十字架项链。右手优雅捏着一支银黑金属细管口红，轻贴下唇，直视正前方固定镜头。背景为东京涩谷街头与大楼霓虹虚化，自然漫射光，真实微小毛孔与发丝细节，8K 超清写实摄影。
-
-🤍 02｜法式老钱千金 Quiet Luxury Silk
-9:16 竖屏人像大片。同一位成年东亚女性，五官与左眼下泪痣保持一致，从容慵懒的温柔浅笑，奶茶水润双唇。丰盈蓬松的焦糖蜜糖浅棕色法式大波浪卷发，搭配法式刘海。身穿香槟金色高光真丝缎面深 V 蕾丝拼接修身吊带背心；米白色粗针织开衫自然滑落一侧香肩。右手轻捏金色圆盒气垫粉扑，点按在右侧面颊，正对镜头。背景为柔和奶油感浅景深街景，柔和天光，8K 写实人像摄影。
-
-🖤 03｜美式街头酷辣 Sporty Siren Corset
-9:16 竖屏时尚大片。同一位成年东亚女性，五官与左眼下泪痣保持一致，神态冷峻自信，微光复古正红唇彩。极光冷白金色长直发，垂顺丝滑，搭配齐眉轻薄刘海。身穿极度修身的黑色哑光皮革鱼骨紧身胸衣 Corset；外搭黑白拼色复古棒球服夹克，敞开并自然滑落单肩。右手单指轻抚耳际发丝，下巴微微抬起，直视镜头。东京繁华街头背景，高对比侧逆光，8K 商业级真实摄影。
-
-💚 04｜落日仙女蝶饰 Ethereal Butterfly Core
-9:16 竖屏电影感人像。同一位成年东亚女性，五官与左眼下泪痣保持一致，笑容明媚，水光草莓粉唇。浅杏奶茶金色法式羊毛卷长发，发间错落点缀数枚半透明粉白色立体蝴蝶发夹。身穿复古水洗苔藓绿色弹力抹胸紧身包臀短裙；佩戴细珍珠锁骨链。双手自然垂在身体两侧，手中无任何设备，正对固定机位。背景为东京商业街入口，落日暖黄色漫射光，8K 胶片级写实摄影质感。
-
-同一张人物参考图，只换发型、妆容、服装、光线和场景。
-```
-
-  </details>
-
-- **女儿国国王：千禧年非主流公式一键出片** — 「千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王」——中文 emoji 公式党再下一城，热点人设直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099303054797606998)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王
-```
-
-  </details>
-
-- **角色连续夜间手机快照：身份锁 + 直闪抓拍** — 同一角色东京雨后夜街系列：后三四分、直闪过曝、走路半步——专治「写真感太假」。UGC / 旅行人设连更可抄整段 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2098413109258207670)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Ultra-realistic late-night smartphone snapshot, 9:16 vertical.
-
-Use the reference only to establish the same fictional female character's overall appearance and continuity. Keep her recognizable across the series with the same dark-brown wavy hair, natural features, black fitted sleeveless tank top, loose high-waisted light-blue jeans, small gold hoop earrings, delicate necklace, white sneakers, and small black shoulder bag.
-
-Scene:
-A quiet Tokyo side street late at night after light rain. She walks beside an off-white ceramic-tiled building while distant convenience-store lights, traffic signals, parked bicycles and small Japanese storefronts softly disappear into the darkness. Wet pavement catches scattered reflections.
-
-New candid moment:
-Photograph her from a slightly low rear three-quarter angle, about two steps behind her. She has just slowed down and casually turns only her upper body toward the camera while continuing forward. One hand is loosely tucking windblown hair behind her ear while the other hangs naturally beside her bag.
-
-She looks toward the camera from the corner of her eyes with a tiny closed-mouth smile, as though she noticed her friend taking another photo and is trying not to laugh.
-
-No deliberate fashion pose. No exaggerated expression. Her shoulders remain relaxed, hips and legs naturally positioned from walking, with one foot caught halfway through the next step.
-
-Camera:
-Modern smartphone rear camera with direct flash. Photographer walking at the same time, creating subtle accidental camera shake. Slight motion blur around her hair, moving leg and fingertips, while her eyes remain just barely readable. Mild rolling-shutter distortion, imperfect autofocus, slight edge softness and realistic digital noise.
-
-Composition should feel accidental: her body sits slightly off-center, a little too much empty darkness on one side, with part of her shoe approaching the bottom edge of frame.
-
-Flash & exposure:
-Hard direct phone flash illuminates her face, shoulder, black top and denim while the street behind her falls rapidly into darkness. Slightly overexposed skin highlights, hard natural shadow against the tiled wall, shiny flash reflections on individual hair strands and subtle denim texture. Distant lights bloom and smear naturally.
-
-Aesthetic:
-Raw Pinterest night-photo-dump energy. Intimate, youthful, spontaneous and imperfect. It should look like a friend took the photo during a random Tokyo night walk—not a photographer conducting a photoshoot.
-
-Real pores, tiny skin variations, flyaway hairs, natural fabric wrinkles, realistic body proportions and ordinary smartphone processing.
-
-Absolutely no: studio lighting, cinematic teal-orange grading, professional bokeh, fashion-editorial posing, perfect symmetry, airbrushed skin, artificial beauty retouching, HDR look, DSLR sharpness, staged composition, AI-perfect anatomy or polished commercial photography.
-
-The final result should feel like an unexpectedly beautiful photo hidden among 30 messy pictures from the same night.
-```
-
-  </details>
-
-- **角色设定表身份锁：turnaround + 表情全套 prompt** — 参考图一锁到底：正侧背、表情格、材质色板、比例尺。IP / 游戏人设交付文档级提示词，整段可复制。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2098373493662392732)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.  REFERENCE & IDENTITY LOCK: Use the uploaded reference as the single source of truth for the character's identity. Preserve the exact facial identity, facial structure, hairstyle, hairline, eye shape and color, eyebrows, nose, lips, skin tone, body proportions, physique, age appearance, distinctive features, costume design, accessories, footwear, colors, patterns and all recognizable visual details. Do not redesign, beautify, simplify, age, de-age, or reinterpret the character. CHARACTER DESIGN ANALYSIS: Before constructing the sheet, internally analyze and lock the character's:  facial construction head-to-body ratio  body proportions  shoulder width and torso structure  limb length and joint placement  silhouette  hairstyle and hair volume  costume construction  accessory placement  color relationships  material characteristics  distinctive identity anchors  All subsequent views must represent the exact same character design.  PAGE FORMAT: Create one sophisticated studio-grade character reference board, landscape 16:9, clean neutral/off-white studio background, refined editorial production-board aesthetic, highly organized hierarchy, generous spacing, subtle technical guide lines, restrained professional typography-style labels where appropriate, no decorative clutter.  01 — HERO CHARACTER PORTRAIT  Place one larger polished head-and-shoulders or three-quarter portrait as the visual identity anchor. Show the character's canonical facial identity clearly with neutral professional expression and accurate hairstyle, skin, costume and accessories.  02 — FULL-BODY TURNAROUND  Create a clearly organized full-body turnaround showing the same character at identical scale and proportions:  FRONT VIEW  3/4 FRONT VIEW  SIDE PROFILE  3/4 BACK VIEW  BACK VIEW  Use a neutral standing pose with consistent posture and anatomical alignment.  Keep head height, eye line, shoulder line, waist, hips, knees and feet consistently aligned across every view.  The costume, hairstyle, accessories, seams, patterns, footwear and silhouette must remain identical from every angle.  03 — EXPRESSION STUDY  Include a clean expression grid containing approximately 6 expressions:  Neutral  Happy / subtle smile  Serious  Angry / determined  Surprised  Sad / emotional  Maintain the exact same facial identity, head proportions, hairstyle and facial construction in every expression.  Expressions should demonstrate believable facial acting rather than exaggerated deformation.  04 — SIGNATURE POSE STUDIES  Include 4–6 full-body pose studies that communicate the character's personality and physical behavior.  Use varied but believable poses such as:  relaxed standing  confident stance  walking  sitting  interacting with an object  dynamic signature pose  Maintain exact character proportions, costume construction and recognizable silhouette in every pose.  05 — COSTUME & DETAIL CALLOUTS  Add several clean close-up detail panels showing the most important design elements:  hairstyle / hair detail  face detail  collar / neckline  sleeves / garment construction  footwear  jewelry or accessories  distinctive emblem / pattern / texture  important prop if present  Show construction and material clearly without turning the sheet into a decorative fashion collage.  06 — MATERIAL STUDIES  Visually communicate the primary materials present in the design:  fabric, leather, metal, denim, silk, knit, plastic, glass, jewelry, hair, skin or other relevant materials.  Show realistic surface behavior, texture, reflectivity and construction appropriate to each material.  07 — COLOR PALETTE  Include a compact professional color palette strip containing the dominant character colors.  Organize colors according to their visual role:  skin  hair  primary costume  secondary costume  accent color  accessories / materials  Keep the palette faithful to the reference.  08 — PROPORTION & SILHOUETTE GUIDE  Include a subtle technical proportion guide beside the turnaround.  Show:  overall height  head-to-body ratio  major horizontal alignment guides  key body proportions  clean silhouette thumbnail  Keep this section understated and production-oriented.  09 — DESIGN CONTINUITY  Treat the entire page as a single canonical character source of truth.  Every panel must depict the SAME person/character with:  identical facial identity  identical body proportions  identical hairstyle  identical costume  identical accessory placement  identical color palette  identical design language  consistent left/right details  No accidental costume changes, missing accessories, duplicated accessories, altered facial features, changing body proportions, inconsistent hairstyles or unexplained design variations.  VISUAL DIRECTION: High-end professional character design presentation, studio production reference quality, sophisticated concept-art discipline, clean polished rendering, precise construction, controlled neutral lighting, realistic material definition, excellent anatomical consistency, crisp readable details, refined editorial layout, premium art-direction quality.  The sheet should feel like an actual professional animation / game / visual-development production document, not a collection of random AI images.  COMPOSITION: Clear information hierarchy, balanced negative space, aligned panels, consistent character scale, clean grid system, logical visual flow, no overlapping figures, no cropped bodies, no confusing perspective, no unnecessary scenery.  CAMERA / VIEW CONTROL: Turnaround views should use consistent orthographic-like framing and neutral perspective. Expression studies should use a consistent head framing. Pose studies may use natural perspective while preserving character proportions. LIGHTING: Neutral studio illumination designed for design inspection rather than cinematic drama. Soft, even, physically believable light with controlled shadows and accurate material readability.  PHOTOGRAPHIC / RENDER FINISH: Ultra-clean high-end visual development presentation, realistic surface detail, natural skin and hair rendering, physically believable materials, sharp but refined detail, professional production-board finish.  OUTPUT QUALITY: 16K: 15360 × 8640 ≈ 132.7 million pixels, high-resolution professional quality. NEGATIVE CONSTRAINTS: No character redesign, no identity drift, no inconsistent proportions, no changing face, no changing hairstyle, no costume variations, no missing accessories, no duplicated accessories, no extra limbs, no malformed hands, no distorted anatomy, no random props, no dramatic scenery, no cinematic background, no excessive effects, no clutter, no watermark, no logo, no cropped views.
-```
-
-  </details>
-
-- **军训季 Editorial：iPhone 自拍公式一键出片** — 「休憩逸趣 × Editorial × 原相机自拍 × 女大学生 × emoji」——季节热点人设公式，小红书军训季直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098360855939469443)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-军训休憩逸趣 × Editorial视觉企划 × iPhone 原相机自拍× 女大学生 × ｛emoji ｝
-```
-
-  </details>
-
-- **毕业季影棚写真：2026 灯牌 + 金纸屑** — 三件套西装 × 礼帽 × 头顶光锥，竖版 9:16 现成可卖。留学 / 毕业季广告素材库补这一条就够。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2098357739814560247)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create a photorealistic cinematic graduation portrait of a confident adult man celebrating his graduation in 2026. Show him seated casually on large freestanding "2026" marquee numbers filled with warm glowing bulbs.
-
-He wears an elegant light-gray three-piece suit with a matching waistcoat, crisp white dress shirt, sophisticated purple patterned tie, polished black leather dress shoes, and a graduation stole featuring bold red, white, and black stripes. Add a traditional black graduation mortarboard with tassel.
-
-Pose him facing the camera with a big, genuine, joyful smile. His posture should feel relaxed yet proud, with his legs naturally apart. One hand rests casually near his lap while the other arm is raised high, holding a rolled graduation certificate tied with a red ribbon, creating a strong celebratory gesture.
-
-Surround him with falling metallic gold confetti, frozen naturally in mid-air at different depths. Use a dark charcoal-to-black studio background with subtle atmospheric haze. Place a dramatic overhead spotlight directly above him, creating a soft cone of light that highlights his face, suit, graduation cap, and diploma while leaving the edges of the scene slightly darker.
-
-The giant illuminated 2026 numbers should sit behind and beneath him, producing warm golden light that contrasts beautifully with the cool gray suit and dark background.
-
-Style: luxury graduation editorial photography, premium studio portrait, cinematic lighting, realistic skin texture, natural proportions, crisp tailoring, accurate hands, realistic fabric detail, shallow depth of field, subtle floor reflections, professional color grading, celebratory atmosphere, ultra-detailed, photorealistic, vertical 9:16 composition, high resolution.
-```
-
-  </details>
-
-- **UGC 起步图 30 秒修好：Pinterest 构图 → 反推 prompt** — 起步静帧糊，后面 Seedance 全完。Pinterest 偷构图机位，/detailed-image-2-text-prompt 反推再改人设。营销向 AI UGC 的地基课。 [@ViralOps_](https://x.com/ViralOps_) · [原帖](https://x.com/ViralOps_/status/2098329951967510937)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-/detailed-image-2-text-prompt
-
-Workflow:
-1. Find a casual Pinterest photo with the framing / pose / camera angle / environment you want (reference composition, not identity).
-2. Upload it to ChatGPT Images 2.5 and run /detailed-image-2-text-prompt so the model expands it into a detailed generation prompt.
-3. Edit person / clothes / location details in that prompt, then regenerate.
-4. Repeat with different casual refs to build a realistic AI-creator still library before Seedance / video.
-```
-
-  </details>
-
-- **80s 复古肖像拼贴：文化区锁脸六到八姿** — 参考脸推断文化区，一次出 6–8 姿复古杂志拼贴，身份锁写死。人设海报战役图，长 prompt 齐活。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2098323157610582344)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 Create your own stunning vintage portrait collage ✨
@@ -2316,9 +2172,25 @@ Output one single vertical portrait-orientation image with all poses in it, no t
 
   </details>
 
-- **90s 日杂 CCD 试衣间：高光溢散配方** — 9:16 竖版、柔光 CCD、腮红/锁骨高光 bloom。低对比奶油灰 + 细颗粒，日杂试衣间感可抄长 prompt。 [@BubbleBrain](https://x.com/BubbleBrain) · [原帖](https://x.com/BubbleBrain/status/2098315158997307550)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[80s 宝莱坞时尚参考图：锁构图出片](https://x.com/harboriis/status/2098267933659300039)** — @harboriis：上传参考当严格构图指南，复古钨丝灯 + 胶片颗粒。时尚/人设参考图可抄；must-keep 写得很死。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a highly realistic cinematic 1980s Bollywood-inspired retro fashion portrait using the uploaded reference as the strict composition and styling guide. One attractive adult model with androgynous styling, natural South Asian features, realistic skin and slightly messy voluminous 80s hair.
+Seated casually against a dark polished wooden table, leaning slightly toward the camera. One arm rests on the table while the other holds a vintage cream corded telephone receiver beside the ear. Relaxed editorial pose, direct eye contact, calm confident expression. Waist to mid-thigh framing.
+Outfit: loose cream blouse/shirt with voluminous sleeves, high-waisted light-wash jeans, wide black leather belt with aged brass buckle, patterned navy/cream/gold silk scarf, minimal vintage jewelry.
+Setting: warm vintage Indian bedroom/living room with dark wood furniture, glowing table lamp, plants, retro Bollywood posters, old cassette/VHS cases and cream rotary telephone base. Background softly blurred.
+Warm tungsten lighting, golden-brown shadows, subtle hair rim light. Authentic 35mm film look, 50mm lens, shallow depth of field, soft contrast, faded blacks, natural skin tones, fine film grain, dust, scratches, halation, slight vignette and aged-film imperfections.
+Photorealistic, sophisticated, nostalgic, intimate and editorial. Preserve the reference pose, camera angle, environment and overall composition. No modern objects, smartphones, logos, watermark, CGI, plastic skin, distorted anatomy, extra fingers, excessive HDR or oversaturated colors.
+3:4 vertical Instagram portrait, high resolution, one person only.
+```
+
+  </details>
+
+- **[90s 日杂 CCD 试衣间：高光溢散配方](https://x.com/BubbleBrain/status/2098315158997307550)** — @BubbleBrain：9:16 竖版、柔光 CCD、腮红/锁骨高光 bloom。低对比奶油灰 + 细颗粒，日杂试衣间感可抄长 prompt。
+
+  <details><summary>Prompt</summary>
 
 ```
 9:16 vertical, ultra-realistic portrait photography, 90s Japanese magazine fitting-room photoshoot style, soft-light CCD texture, obvious highlight bloom and slight haze.
@@ -2334,194 +2206,192 @@ Avoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light,
 
   </details>
 
-- **秦淮八艳群像：CCD 直闪 + 八人各具情态** — Sunburst 中文短 prompt：脂香绮艳、顾盼生春、八美合照。古风/国风营销测群像一致性，直接抄这串。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098314775344394279)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[candid 写真分层 prompt（Higgsfield）](https://x.com/GrowWithDani/status/2097882770899091928)** — @GrowWithDani：拆「真实夏日随拍」结构：关键不是堆细节，是分层对。适合 UGC / 社媒广告。
+
+  <details><summary>Prompt</summary>
 
 ```
-脂香绮艳；秦淮烟月；顾盼生春；各具情态；CCD直闪；秦淮八艳：柳如是、陈圆圆、李香君、董小宛、顾横波、卞玉京、寇白门、马湘兰合照
-```
+Create a highly photorealistic candid lifestyle photograph of a young woman ordering something from a neighborhood ice cream truck on a bright sunny day.
 
-  </details>
+OUTFIT REFERENCE:
+Use the attached reference image as the authoritative wardrobe reference.
 
-- **一个角色，25+ 世界观：宇宙级一致性复用** — 同一角色横扫吉卜力 / 热血番 / 乐高 / 赛博朋克 / 写实电影……身份不散、视觉语言全换。角色 → 分镜 → 海报 → 短视频，一套人设吃完整条内容链。 [@MonetizationDon](https://x.com/MonetizationDon) · [原帖](https://x.com/MonetizationDon/status/2098297370291134547)
+Accurately recreate the outfit shown in the attached reference image:
 
-- **Sunburst 黑白编辑肖像：脸锁 + 杂志光** — 参考图进 Sunburst，高反差棚拍黑白、细颗粒、极简背景。身份锁写死，杂志感人像直接抄。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2098290962556727377)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- loose mint/aqua and white horizontally striped short-sleeve top
+- wide asymmetrical neckline
+- relaxed off-the-shoulder fit exposing one shoulder
+- soft lightweight casual fabric
+- loose draping around the torso
+- white wide-leg pants
+- relaxed low-to-mid-rise fit
+- clean white fabric with realistic folds and construction
 
-```
-Create a striking black-and-white editorial portrait of the person in the attached reference image, preserving their exact identity, facial features, skin texture, hairstyle, and proportions. Use dramatic high-contrast studio lighting, deep blacks, crisp highlights, subtle film grain, a clean minimal background, sharp facial focus, natural expression, premium fashion-magazine photography, timeless monochrome tones, and a sophisticated cinematic composition
-```
+For this half-body composition, show enough of the white pants around the waist and hips so the outfit combination is immediately recognizable.
 
-  </details>
+IMPORTANT:
+Use the attached image ONLY as a wardrobe reference.
 
-- **中文 iPhone 随手拍：网球日常 prompt** — 「像男朋友用 iPhone 随手拍」——随机动作、距离、瞬间，UGC 写真感直接抄。中文短 prompt 也能出片。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098277846250922232)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+Do NOT copy:
+- the reference model's face
+- identity
+- skin tone
+- hairstyle
+- body identity
+- pose
+- handbag
+- sneakers
+- studio environment
 
-```
-像男朋友用 iPhone 随手拍下的网球日常：年轻成年女孩，穿简洁网球服和球鞋；每次随机捕捉她不同的动作、当下发生的瞬间和拍摄距离，像两个人相处时偶然留下的真实照片。
-```
+SUBJECT:
+A young woman with warm lightly tanned skin and dark brown hair styled in a neat high bun.
 
-  </details>
+Natural facial features.
+Subtle everyday makeup.
+Large thin gold hoop earrings.
+Natural realistic skin texture.
 
-- **旧人设表用 Sunburst 一刷新：同物种两角色** — 将近一年前的 OC sheet 丢进 Sunburst 升级画质，同物种两角色仍锁设定。老资产翻新别重画，先过 2.5。 [@Jenny_MommaLion](https://x.com/Jenny_MommaLion) · [原帖](https://x.com/Jenny_MommaLion/status/2098276640451420223)
+POSE AND ACTION:
+She stands beside the open service window of a white neighborhood ice cream truck.
 
-- **80s 宝莱坞时尚参考图：锁构图出片** — 上传参考当严格构图指南，复古钨丝灯 + 胶片颗粒。时尚/人设参考图可抄；must-keep 写得很死。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2098267933659300039)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+Her body is shown in a natural three-quarter side profile.
 
-```
-Create a highly realistic cinematic 1980s Bollywood-inspired retro fashion portrait using the uploaded reference as the strict composition and styling guide. One attractive adult model with androgynous styling, natural South Asian features, realistic skin and slightly messy voluminous 80s hair.
-Seated casually against a dark polished wooden table, leaning slightly toward the camera. One arm rests on the table while the other holds a vintage cream corded telephone receiver beside the ear. Relaxed editorial pose, direct eye contact, calm confident expression. Waist to mid-thigh framing.
-Outfit: loose cream blouse/shirt with voluminous sleeves, high-waisted light-wash jeans, wide black leather belt with aged brass buckle, patterned navy/cream/gold silk scarf, minimal vintage jewelry.
-Setting: warm vintage Indian bedroom/living room with dark wood furniture, glowing table lamp, plants, retro Bollywood posters, old cassette/VHS cases and cream rotary telephone base. Background softly blurred.
-Warm tungsten lighting, golden-brown shadows, subtle hair rim light. Authentic 35mm film look, 50mm lens, shallow depth of field, soft contrast, faded blacks, natural skin tones, fine film grain, dust, scratches, halation, slight vignette and aged-film imperfections.
-Photorealistic, sophisticated, nostalgic, intimate and editorial. Preserve the reference pose, camera angle, environment and overall composition. No modern objects, smartphones, logos, watermark, CGI, plastic skin, distorted anatomy, extra fingers, excessive HDR or oversaturated colors.
-3:4 vertical Instagram portrait, high resolution, one person only.
-```
+She leans slightly toward the service window.
 
-  </details>
+One arm reaches upward and forward toward the open window as she receives or hands over cash.
 
-- **纽约地铁 UGC：折叠屏手写金句生活照** — 乱发、复古圆镜、耳机电车 candid；屏上金句可换。一人团队做「真实感」广告图直接改场景复用。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2098252670385676491)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+Her other hand is held naturally around waist level.
 
-```
-Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway.
+Her head is turned slightly toward the service window.
 
-She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style glasses, and white wired earphones. She is wearing an oversized charcoal-brown coat over a cozy cream knit sweater and relaxed light-wash wide-leg jeans. Her posture is relaxed and natural, with her legs comfortably stretched forward.
+The action should feel spontaneous and believable, as if someone casually photographed her while she was buying ice cream.
 
-She is quietly looking down at an open foldable smartphone in her hands, while holding an iced matcha latte in the other hand. The phone should look premium and realistic, with a clean minimal design.
+COMPOSITION:
+Vertical HALF-BODY environmental photograph.
 
-IMPORTANT — PHONE SCREEN: Replace the original book/quote completely. On the inner screen of the foldable phone, display the elegant handwritten-style quote:
+Frame approximately from the top of her head to the upper thighs.
 
-“romanticize your ordinary days ♡”
+The woman occupies the right-center portion of the frame.
 
-Make the text clearly visible, beautifully typeset, and naturally integrated into the phone screen.
+The ice cream truck fills much of the left side and background.
 
-Set the scene inside a realistic stainless-steel NYC subway carriage, with blue seats, metal panels, subway window reflections, vertical poles, and softly blurred passengers in the background. Include a subtle subway route/sign panel in the background for authentic NYC atmosphere.
+The open service window should be clearly visible next to her.
 
-The iced matcha cup should have a small minimalist café-style label reading:
+Include enough of the environment to immediately communicate that she is ordering from an ice cream truck.
 
-“little joys”
+The mint-striped top and the waist/upper portion of the white pants must both be clearly visible.
 
-Photography & Mood
+Do NOT turn this into a close-up portrait.
 
-* candid street-photography aesthetic
-* cozy, introspective, effortless mood
-* muted earthy tones
-* soft natural fluorescent subway lighting
-* realistic skin texture
-* subtle film grain
-* gentle shadows
-* slightly desaturated editorial color grading
-* shallow depth of field
-* authentic reflections and imperfections
-* premium fashion-editorial photography
-* not overly posed
-* not glamorous or studio-like
-* photorealistic, believable everyday moment
+CAMERA:
+Casual handheld smartphone photograph.
+Camera positioned slightly behind and to the side of the woman.
+Natural three-quarter profile.
+Approximately eye-level viewpoint.
+Moderately wide smartphone perspective.
+Realistic perspective distortion.
+Deep enough focus for both the woman and nearby truck details to remain recognizable.
 
-Composition: vertical 4:5, medium-full body framing, woman centered slightly toward the left, phone and matcha clearly visible, subway environment surrounding her, natural perspective, highly detailed.
-```
+ENVIRONMENT:
+White neighborhood ice cream truck parked along a sunny residential street.
 
-  </details>
+Include:
+- white truck exterior
+- open sliding service window
+- colorful illustrated frozen-treat menu panel
+- shelves of brightly colored packaged snacks visible through the window
+- small payment/service area
+- asphalt pavement
+- curb
+- hints of parked vehicles and green trees farther behind
 
-- **漫画气泡表情：心声盖住对方台词** — 方气泡盖住对方台词、咬住气泡的凶妹等叙事梗；画幅 4:5 写死。玩信息差比纯美图更有用。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2098251497385721990)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+The truck should feel authentic, slightly worn and actively used.
 
-```
-“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。
-アスペクト比は縦長（4:5）で描画
-```
+Avoid prominent readable brand names or perfectly generated menu text.
+Menu graphics may contain small indistinct decorative lettering and colorful ice-cream illustrations.
 
-  </details>
+LIGHTING:
+Strong natural midday sunlight.
 
-- **表情集实测：还是熟悉的「GPT 脸」** — 表情包能用，但别神话——横向一比仍是同质化 GPT 脸。角色一致性能交差，个性脸还得锁参考硬刚。 [@munou_ac](https://x.com/munou_ac) · [原帖](https://x.com/munou_ac/status/2098224166977806575)
+Bright direct sun striking the woman and truck.
+Crisp realistic shadows.
+Strong highlights on exposed skin.
+Natural sunlit hair highlights.
+Bright white truck surfaces.
+High contrast between direct sunlight and shaded areas around the service window.
 
-- **传参考图说「出衣装资料图」几乎零 prompt** — 丢一张参考，一句「衣装资料图出して」——2.5 补全力离谱，设定图质感直接能进企划。少写 prompt 多甩参考。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2098222494175879235)
+No studio lighting.
+No artificial rim light.
 
-- **角色四视图 + 衣柜锁定** — 先用 2.5 做前/¾/侧/后角色表，再做场景时把服装钉死，连镜不换衣服；后面接视频模型更稳。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2098061897702805800)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+PHOTOGRAPHIC CHARACTER:
+Authentic candid summer social-media photograph.
 
-```
-Multi-panel film character reference sheet of the same real woman across four panels: front-facing, three-quarter turn, full profile, and a rear view over the shoulder, matching the exact reference photo. Long straight golden-brown hair with warm honey balayage, oval face, warm brown eyes, faint natural freckling across the nose and cheeks, softly tanned olive-warm skin, full lips. She wears a heather-grey lace-trimmed tank top under a loosely draped grey knit cardigan slipping off one shoulder, low-slung olive cargo trousers with a black leather belt and chain detail, a black leather slouchy shoulder bag strap over one shoulder.
+Highly photorealistic but NOT overly polished.
 
-Every panel keeps the identical lighting setup as the reference: low golden-hour sun positioned behind her, burning through overhanging tree leaves and rim-lighting the edge of her hair with a warm halo, her face falling into soft warm shade with a gentle glow on the cheekbones, a tree-lined gravel park path and a glittering sun-struck lake with a small sailboat and distant hazy hills softly blurred behind her in every panel. Same warm golden color temperature, same sun flare quality breaking through the canopy, same soft background blur, same skin tone and light direction held constant across all four panels.
+Natural skin texture.
+Fine hair strands.
+Realistic cotton fabric.
+Accurate horizontal stripe deformation around folds.
+Natural wrinkles in the white pants.
+Realistic sunlight.
+Slight smartphone sharpening.
+Subtle sensor texture.
+Minor exposure imperfections.
+Natural dynamic range.
 
-Shot on 35mm film, fine warm grain visible in both light and shadow, visible skin pores and natural texture, faint natural sheen where the sun catches, no smoothing, no retouching, no beauty filter, no studio backdrop, no neutral lighting. Natural film-still photograph quality, candid unposed stance in every panel.
-```
+The result should feel like a spontaneous personal photo taken by a friend, NOT a fashion campaign or e-commerce image.
 
-  </details>
+CONSTRAINTS:
+The attached reference image controls ONLY the wardrobe.
+Do not reproduce the reference model.
+No handbag.
+No studio background.
+No catalog pose.
+No full-body framing.
+No excessive skin smoothing.
+No plastic skin.
+No exaggerated anatomy.
+No distorted hands.
+No extra fingers.
+No duplicated limbs.
+No CGI appearance.
+No artificial bokeh.
+No excessive HDR.
+No prominent readable logos or generated text.
 
-- **偷参考美学做真感写真** — 从参考图抽美学配方，再压成真感写真。UGC/种草人像流水线可抄。 [@sixugc](https://x.com/sixugc) · [原帖](https://x.com/sixugc/status/2098047399264469048)
-
-- **一张静图当舞蹈参考，直接出片** — Image 2.5 做 dance reference 意外稳：上传一张就能跑成舞蹈视频，评论区有 prompt。短视频流水线可偷。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2098014577414033912)
-
-- **课堂抓拍·反差穿搭老师** — 短 prompt 出 iPhone 纪实感人像，UGC/种草风很好用。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2097999860696072542)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-iPhone 课堂抓拍，女大学老师，时尚反差穿搭
-```
-
-  </details>
-
-- **80s 复古写真锁脸** — 年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097954772586557873)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high accuracy—do not alter or beautify the face.
-
-Give the subject a classic 1980s hairstyle and stylish period-accurate fashion with bold silhouettes, authentic textures, and effortless vintage attitude. Compose the portrait naturally with a strong editorial feel, keeping the subject as the clear focal point.
-
-Capture the image as if shot on a 35mm analog film camera, with realistic film grain, subtle dust and texture, gentle softness, natural skin detail, slight color fading, and authentic analog imperfections. Use warm nostalgic color grading, soft neon highlights, subtle ambient glow, and direct on-camera flash to create the distinctive look of an iconic 1980s photograph.
-
-Keep the lighting cinematic yet believable, with soft shadows, realistic highlights, natural contrast, and a slightly imperfect film exposure. The final image should feel genuinely photographed in the 1980s—not digitally recreated, with a timeless, nostalgic, fashionable, and effortlessly cool atmosphere.
-```
-
-  </details>
-
-- **巴黎街拍写真 prompt** — 街拍姿势/光位/服装分段可替换。UGC 人像与旅拍种草可直接改地名。 [@AIwithSarah_](https://x.com/AIwithSarah_) · [原帖](https://x.com/AIwithSarah_/status/2097952240707530923)
-
-- **哥特 Lolita 完整中文 prompt** — 中文可复制人设配方，服装层次写细。角色卡/COS 种草少踩「衣服糊成一团」。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097951132031320484)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-近距离俯拍自拍 Cosplay 写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，小头比例，冷白通透肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。白色齐刘海长发 × 侧边长马尾，哥特 Lolita 发饰搭配黑色小帽子；外穿风衣，内搭白衬衫与深色领带，下身可见黑色光腿神器与小皮鞋，酷感又精致。
-
-🛏️ 卧室床边，床铺与浅色墙面背景干净，人物居中，半身近景，画面上下留白充足。浅景深、柔和朦胧光影、低饱和色调、轻微曝光，真实高清摄影质感，日常随拍氛围，面部细节真实，手部自然准确，肢体不穿插。
-
-随机动作池：
-
-🎀 坐在床边看向镜头，一手轻抓侧边长马尾
-🖤 微微歪头托腮，另一手绕住马尾末端
-🪞 身体微微前倾，抬眼看镜头，手指整理刘海
-📖 坐在床沿低头整理领带，下一秒抬眼被抓拍
-🫧 一手扶着床边，另一手轻拎马尾，神态安静冷感
-✨ 侧身坐在床边，回头看镜头，长马尾垂落肩前
-🌙 双腿自然并拢坐好，轻捏发尾，表情松弛疏离
-🎩 抬手轻碰黑色小帽子，另一手自然落在腿侧
-
-🎲 围绕不同动作自由发挥俯拍角度、自拍距离、马尾状态、领带细节、床边构图与朦胧光影，重点保持真人 Cosplay 质感、手部自然、脸部真实，追求哥特 Lolita × 日常卧室 × 高级随拍氛围。
-
-出一张包含不同动作的综合预览图，让我从中选择。
-
-#今日提示词 #GPT #IMAGE2.5
+OUTPUT:
+Vertical half-body photorealistic candid lifestyle photograph, framed from head to upper thighs, showing a brunette woman ordering from a white ice cream truck while accurately wearing the outfit from the attached wardrobe reference image.
 ```
 
   </details>
 
-- **Model sheet 身份锁：多角度同一人** — 角色表压住脸与体型，多视角不漂移。做 IP/表情包/游戏立绘流水线先抄这套。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2097949170594193427)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[Chef & Cat 双人角色圣经表（严格 ref 锁脸）](https://x.com/TechieBySA/status/2099460145449185433)** — @TechieBySA：Split-screen 设定表：上传 sheets 死守脸与造型，联名 IP / 角色资产封面可复用。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a premium cinematic character bible sheet for THE CHEF & THE CAT. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance.
+
+LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center.
+
+LEFT SIDE — CHEF: Clean white watercolor splash behind him fading into center. Large bold brushstroke text CHEF top left in deep red. Below small text: SATURDAY AFTERNOON / KITCHEN. One massive dramatic cropped hero image of the chef from mid-thigh up — desperate exhausted expression, white chef uniform, tall white hat slightly crooked, one arm outstretched reaching for something he can't catch, white watercolor splash radiating behind him.
+
+CENTER: Bold dramatic THE FISH in deep red, slightly worn. Below it small text: KITCHEN. ONE FISH. ONE PROBLEM.
+
+RIGHT SIDE — CAT: Warm orange watercolor splash behind him fading into center. Large bold brushstroke text THE CAT top right in deep orange. Below small text: FLUFFY / UNBOTHERED. One massive dramatic cropped hero image of the cat from mid-body up — narrow judgemental eyes, smug expression, large fish dangling from its mouth, arrogant tail curled upward, orange watercolor splash radiating behind him.
+
+BOTTOM CENTER: Color palette — clean white, warm orange, deep red, black. Tagline centered: HEY!!
+
+OVERALL: Clean white background, white watercolor left side, warm orange watercolor right side, dramatic deep red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+```
+
+  </details>
+
+- **[Flare/Sunburst × Seedance：UGC 广告流水线](https://x.com/tanabe_fragm/status/2097935536224866583)** — @tanabe_fragm：静图出片再进短视频。一人团队做 UGC 投放素材的「图→片」衔接可抄。
+
+- **[Model sheet 身份锁：多角度同一人](https://x.com/meAsifAi/status/2097949170594193427)** — @meAsifAi：角色表压住脸与体型，多视角不漂移。做 IP/表情包/游戏立绘流水线先抄这套。
+
+  <details><summary>Prompt</summary>
 
 ```
 Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.
@@ -2740,9 +2610,122 @@ No character redesign, no identity drift, no inconsistent proportions, no changi
 
   </details>
 
-- **叠穿コーデ 全套可替换 prompt** — 日系叠穿长文配方，单品可拆换。电商穿搭图与小红书 OOTD 直接改货号。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2097937963523145829)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[Sunburst 黑白编辑肖像：脸锁 + 杂志光](https://x.com/shushant_l/status/2098290962556727377)** — @shushant_l：参考图进 Sunburst，高反差棚拍黑白、细颗粒、极简背景。身份锁写死，杂志感人像直接抄。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a striking black-and-white editorial portrait of the person in the attached reference image, preserving their exact identity, facial features, skin texture, hairstyle, and proportions. Use dramatic high-contrast studio lighting, deep blacks, crisp highlights, subtle film grain, a clean minimal background, sharp facial focus, natural expression, premium fashion-magazine photography, timeless monochrome tones, and a sophisticated cinematic composition
+```
+
+  </details>
+
+- **[UGC 起步图 30 秒修好：Pinterest 构图 → 反推 prompt](https://x.com/ViralOps_/status/2098329951967510937)** — @ViralOps_：起步静帧糊，后面 Seedance 全完。Pinterest 偷构图机位，/detailed-image-2-text-prompt 反推再改人设。营销向 AI UGC 的地基课。
+
+  <details><summary>Prompt</summary>
+
+```
+/detailed-image-2-text-prompt
+
+Workflow:
+1. Find a casual Pinterest photo with the framing / pose / camera angle / environment you want (reference composition, not identity).
+2. Upload it to ChatGPT Images 2.5 and run /detailed-image-2-text-prompt so the model expands it into a detailed generation prompt.
+3. Edit person / clothes / location details in that prompt, then regenerate.
+4. Repeat with different casual refs to build a realistic AI-creator still library before Seedance / video.
+```
+
+  </details>
+
+- **[一个角色，25+ 世界观：宇宙级一致性复用](https://x.com/MonetizationDon/status/2098297370291134547)** — @MonetizationDon：同一角色横扫吉卜力 / 热血番 / 乐高 / 赛博朋克 / 写实电影……身份不散、视觉语言全换。角色 → 分镜 → 海报 → 短视频，一套人设吃完整条内容链。
+
+- **[一张静图当舞蹈参考，直接出片](https://x.com/Mayz1169/status/2098014577414033912)** — @Mayz1169：Image 2.5 做 dance reference 意外稳：上传一张就能跑成舞蹈视频，评论区有 prompt。短视频流水线可偷。
+
+- **[中文 iPhone 随手拍：网球日常 prompt](https://x.com/DeepBlueX0/status/2098277846250922232)** — @DeepBlueX0：「像男朋友用 iPhone 随手拍」——随机动作、距离、瞬间，UGC 写真感直接抄。中文短 prompt 也能出片。
+
+  <details><summary>Prompt</summary>
+
+```
+像男朋友用 iPhone 随手拍下的网球日常：年轻成年女孩，穿简洁网球服和球鞋；每次随机捕捉她不同的动作、当下发生的瞬间和拍摄距离，像两个人相处时偶然留下的真实照片。
+```
+
+  </details>
+
+- **[从 0 到 1 虚拟 IP 资产全流程](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ)** — @段老湿：人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。
+
+- **[传参考图说「出衣装资料图」几乎零 prompt](https://x.com/1banana2546/status/2098222494175879235)** — @1banana2546：丢一张参考，一句「衣装资料图出して」——2.5 补全力离谱，设定图质感直接能进企划。少写 prompt 多甩参考。
+
+- **[偷参考美学做真感写真](https://x.com/sixugc/status/2098047399264469048)** — @sixugc：从参考图抽美学配方，再压成真感写真。UGC/种草人像流水线可抄。
+
+- **[写实生活照配方：伸手拉你起床的 9:16](https://x.com/liyue_ai/status/2099408990228914449)** — @liyue_ai：周末赖床亲密互动分段中文 prompt：手伸向镜头制造「你就在对面」。UGC / 情感向人像模板可直接改场景。
+
+  <details><summary>Prompt</summary>
+
+```
+风格方向： 周末赖床后的亲密互动
+场景方向： 卧室床边 / 地毯旁
+服装方向： 奶油白修身短袖家居裙
+气质标签： 亲近、慵懒、温柔、轻甜、自然
+身形方向： 丰腴自然曲线
+线条强调： 中偏强
+镜头方向： 女生坐在床边或地毯上，身体略微前倾并偏向镜头，一只手向镜头伸过来，像要拉男友起身，另一只手轻撑床沿，抬眼看向镜头轻笑
+画幅比例： 9:16
+互动重点： 手伸向镜头会形成很强的“你就在她面前”的感觉，前倾动作还能自然表现胸腰关系。
+```
+
+  </details>
+
+- **[写真 UGC：先偷真照片颗粒/色调，再锁脸](https://x.com/0x_harness/status/2097864879843746285)** — @0x_harness：无参考 = 假色假噪点假皮肤。广告素材/种草图抄这个就够锋利。
+
+- **[军训季 Editorial：iPhone 自拍公式一键出片](https://x.com/DeepBlueX0/status/2098360855939469443)** — @DeepBlueX0：「休憩逸趣 × Editorial × 原相机自拍 × 女大学生 × emoji」——季节热点人设公式，小红书军训季直接套。
+
+  <details><summary>Prompt</summary>
+
+```
+军训休憩逸趣 × Editorial视觉企划 × iPhone 原相机自拍× 女大学生 × ｛emoji ｝
+```
+
+  </details>
+
+- **[北欧奢侈 editorial：冰灰大衣+visor 眼镜完整 prompt](https://x.com/harboriis/status/2099425863200920002)** — @harboriis：输入照片一键北欧奢牌大片：冰蓝灰渐变、硬边轮廓光、105mm 压缩。男装投放 / 品牌 KV 直接抄。
+
+  <details><summary>Prompt</summary>
+
+```
+ULTRA-REALISTIC STUDIO EDITORIAL PORTRAIT FROM INPUT PHOTO. VIBE: Scandinavian luxury fashion campaign, sterile elegance, futuristic calmness. ENVIRONMENT: Minimal smooth gradient background transitioning from pale icy- blue into soft gray. LIGHTING: Bright diffused frontal light with subtle hard edge-lighting outlining the hair and shoulders. STYLING (MALE): Oversized ash-gray textured coat layered over monochrome knitwear, silver futuristic visor sunglasses. relaxed tailoring. POSE: Minimal side-profile portrait with shoulders slightly turned away, one hand lightly touching the coat collar. TECH: 105mm lens with clean portrait compression and luxury campaign framing. EXPRESSION: Detached serene expression, looking past camera. POST-PROCESSING: Cool desaturated tones, soft silver highlights, realistic luxury campaign texture.
+```
+
+  </details>
+
+- **[参考图一发四张定妆照：同人四造型一致性](https://x.com/johnAGI168/status/2099331412444713025)** — @johnAGI168：一张参考图锁脸+泪痣，一次出 Cyber Grunge / Quiet Luxury / Sporty Siren / Butterfly Core 四套。人设测一致性直接抄。
+
+  <details><summary>Prompt</summary>
+
+```
+✨ 4 套定妆照 Prompt｜同一人物，不同风格
+
+统一人物锚点：
+同一位成年东亚女性、骨相五官一致、左眼下方保留标志性泪痣、真实毛孔与皮肤纹理、9:16 竖屏摄影、拒绝塑料假人感。
+
+🖤 01｜暗黑甜酷辣妹 Cyber Grunge Chic
+9:16 竖屏人像大片。同一位成年东亚女性，立体精致五官，左眼下方有一颗清晰的标志性泪痣，冷艳眼神，水光裸粉唇釉。墨黑色长发带细微冷银灰挑染，轻薄空气刘海。身穿解构风黑色罗纹镂空挂脖露肩针织短上衣，展露优雅锁骨与直角肩，佩戴细银十字架项链。右手优雅捏着一支银黑金属细管口红，轻贴下唇，直视正前方固定镜头。背景为东京涩谷街头与大楼霓虹虚化，自然漫射光，真实微小毛孔与发丝细节，8K 超清写实摄影。
+
+🤍 02｜法式老钱千金 Quiet Luxury Silk
+9:16 竖屏人像大片。同一位成年东亚女性，五官与左眼下泪痣保持一致，从容慵懒的温柔浅笑，奶茶水润双唇。丰盈蓬松的焦糖蜜糖浅棕色法式大波浪卷发，搭配法式刘海。身穿香槟金色高光真丝缎面深 V 蕾丝拼接修身吊带背心；米白色粗针织开衫自然滑落一侧香肩。右手轻捏金色圆盒气垫粉扑，点按在右侧面颊，正对镜头。背景为柔和奶油感浅景深街景，柔和天光，8K 写实人像摄影。
+
+🖤 03｜美式街头酷辣 Sporty Siren Corset
+9:16 竖屏时尚大片。同一位成年东亚女性，五官与左眼下泪痣保持一致，神态冷峻自信，微光复古正红唇彩。极光冷白金色长直发，垂顺丝滑，搭配齐眉轻薄刘海。身穿极度修身的黑色哑光皮革鱼骨紧身胸衣 Corset；外搭黑白拼色复古棒球服夹克，敞开并自然滑落单肩。右手单指轻抚耳际发丝，下巴微微抬起，直视镜头。东京繁华街头背景，高对比侧逆光，8K 商业级真实摄影。
+
+💚 04｜落日仙女蝶饰 Ethereal Butterfly Core
+9:16 竖屏电影感人像。同一位成年东亚女性，五官与左眼下泪痣保持一致，笑容明媚，水光草莓粉唇。浅杏奶茶金色法式羊毛卷长发，发间错落点缀数枚半透明粉白色立体蝴蝶发夹。身穿复古水洗苔藓绿色弹力抹胸紧身包臀短裙；佩戴细珍珠锁骨链。双手自然垂在身体两侧，手中无任何设备，正对固定机位。背景为东京商业街入口，落日暖黄色漫射光，8K 胶片级写实摄影质感。
+
+同一张人物参考图，只换发型、妆容、服装、光线和场景。
+```
+
+  </details>
+
+- **[叠穿コーデ 全套可替换 prompt](https://x.com/MoodLock_JP/status/2097937963523145829)** — @MoodLock_JP：日系叠穿长文配方，单品可拆换。电商穿搭图与小红书 OOTD 直接改货号。
+
+  <details><summary>Prompt</summary>
 
 ```
 Photorealistic fashion portrait of a single adult woman, vertical 2:3, strongly person-dominant.
@@ -2821,13 +2804,9 @@ Earrings: A pair of large silver-tone hoop earrings made from slender smooth rou
 
   </details>
 
-- **Flare/Sunburst × Seedance：UGC 广告流水线** — 静图出片再进短视频。一人团队做 UGC 投放素材的「图→片」衔接可抄。 [@tanabe_fragm](https://x.com/tanabe_fragm) · [原帖](https://x.com/tanabe_fragm/status/2097935536224866583)
+- **[古代美人 8 步互动捏人 prompt](https://x.com/DeepBlueX0/status/2097897602356306361)** — @DeepBlueX0：朝代→身材→气质→发式→服饰→妆容→场景→神态，少解释多状态保存。小红书/社群引流模板味很足。
 
-- **同 prompt 炼狱角色一致性演示** — 同一套 prompt 换 Rengoku，成品干净，prompt 贴在下面。角色锁 / 二次元营销素材可抄。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2097900600105308347)
-
-- **古代美人 8 步互动捏人 prompt** — 朝代→身材→气质→发式→服饰→妆容→场景→神态，少解释多状态保存。小红书/社群引流模板味很足。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2097897602356306361)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 你是一款互动式古代美人捏人游戏。通过8步决定人物核心特征，其余细节由AI补全。少解释，多互动，始终保存当前角色状态。
@@ -3003,247 +2982,9 @@ Earrings: A pair of large silver-tone hoop earrings made from slender smooth rou
 
   </details>
 
-- **candid 写真分层 prompt（Higgsfield）** — 拆「真实夏日随拍」结构：关键不是堆细节，是分层对。适合 UGC / 社媒广告。 [@GrowWithDani](https://x.com/GrowWithDani) · [原帖](https://x.com/GrowWithDani/status/2097882770899091928)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[可互换长文衣装 Prompt 包](https://x.com/MoodLock_JP/status/2097653761569423653)** — @MoodLock_JP：Images 2.5 长文衣装再现性提升；PROTECTED WARDROBE RULE 模块化服装。
 
-```
-Create a highly photorealistic candid lifestyle photograph of a young woman ordering something from a neighborhood ice cream truck on a bright sunny day.
-
-OUTFIT REFERENCE:
-Use the attached reference image as the authoritative wardrobe reference.
-
-Accurately recreate the outfit shown in the attached reference image:
-
-- loose mint/aqua and white horizontally striped short-sleeve top
-- wide asymmetrical neckline
-- relaxed off-the-shoulder fit exposing one shoulder
-- soft lightweight casual fabric
-- loose draping around the torso
-- white wide-leg pants
-- relaxed low-to-mid-rise fit
-- clean white fabric with realistic folds and construction
-
-For this half-body composition, show enough of the white pants around the waist and hips so the outfit combination is immediately recognizable.
-
-IMPORTANT:
-Use the attached image ONLY as a wardrobe reference.
-
-Do NOT copy:
-- the reference model's face
-- identity
-- skin tone
-- hairstyle
-- body identity
-- pose
-- handbag
-- sneakers
-- studio environment
-
-SUBJECT:
-A young woman with warm lightly tanned skin and dark brown hair styled in a neat high bun.
-
-Natural facial features.
-Subtle everyday makeup.
-Large thin gold hoop earrings.
-Natural realistic skin texture.
-
-POSE AND ACTION:
-She stands beside the open service window of a white neighborhood ice cream truck.
-
-Her body is shown in a natural three-quarter side profile.
-
-She leans slightly toward the service window.
-
-One arm reaches upward and forward toward the open window as she receives or hands over cash.
-
-Her other hand is held naturally around waist level.
-
-Her head is turned slightly toward the service window.
-
-The action should feel spontaneous and believable, as if someone casually photographed her while she was buying ice cream.
-
-COMPOSITION:
-Vertical HALF-BODY environmental photograph.
-
-Frame approximately from the top of her head to the upper thighs.
-
-The woman occupies the right-center portion of the frame.
-
-The ice cream truck fills much of the left side and background.
-
-The open service window should be clearly visible next to her.
-
-Include enough of the environment to immediately communicate that she is ordering from an ice cream truck.
-
-The mint-striped top and the waist/upper portion of the white pants must both be clearly visible.
-
-Do NOT turn this into a close-up portrait.
-
-CAMERA:
-Casual handheld smartphone photograph.
-Camera positioned slightly behind and to the side of the woman.
-Natural three-quarter profile.
-Approximately eye-level viewpoint.
-Moderately wide smartphone perspective.
-Realistic perspective distortion.
-Deep enough focus for both the woman and nearby truck details to remain recognizable.
-
-ENVIRONMENT:
-White neighborhood ice cream truck parked along a sunny residential street.
-
-Include:
-- white truck exterior
-- open sliding service window
-- colorful illustrated frozen-treat menu panel
-- shelves of brightly colored packaged snacks visible through the window
-- small payment/service area
-- asphalt pavement
-- curb
-- hints of parked vehicles and green trees farther behind
-
-The truck should feel authentic, slightly worn and actively used.
-
-Avoid prominent readable brand names or perfectly generated menu text.
-Menu graphics may contain small indistinct decorative lettering and colorful ice-cream illustrations.
-
-LIGHTING:
-Strong natural midday sunlight.
-
-Bright direct sun striking the woman and truck.
-Crisp realistic shadows.
-Strong highlights on exposed skin.
-Natural sunlit hair highlights.
-Bright white truck surfaces.
-High contrast between direct sunlight and shaded areas around the service window.
-
-No studio lighting.
-No artificial rim light.
-
-PHOTOGRAPHIC CHARACTER:
-Authentic candid summer social-media photograph.
-
-Highly photorealistic but NOT overly polished.
-
-Natural skin texture.
-Fine hair strands.
-Realistic cotton fabric.
-Accurate horizontal stripe deformation around folds.
-Natural wrinkles in the white pants.
-Realistic sunlight.
-Slight smartphone sharpening.
-Subtle sensor texture.
-Minor exposure imperfections.
-Natural dynamic range.
-
-The result should feel like a spontaneous personal photo taken by a friend, NOT a fashion campaign or e-commerce image.
-
-CONSTRAINTS:
-The attached reference image controls ONLY the wardrobe.
-Do not reproduce the reference model.
-No handbag.
-No studio background.
-No catalog pose.
-No full-body framing.
-No excessive skin smoothing.
-No plastic skin.
-No exaggerated anatomy.
-No distorted hands.
-No extra fingers.
-No duplicated limbs.
-No CGI appearance.
-No artificial bokeh.
-No excessive HDR.
-No prominent readable logos or generated text.
-
-OUTPUT:
-Vertical half-body photorealistic candid lifestyle photograph, framed from head to upper thighs, showing a brunette woman ordering from a white ice cream truck while accurately wearing the outfit from the attached wardrobe reference image.
-```
-
-  </details>
-
-- **网球写真完整中文 prompt** — 动作姿态写实到能当 UGC 素材库，9:16 竖版可抄。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097878838063903217)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-室内网球写真抓拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致窄长鹅蛋脸，冷白透亮肌肤，高挑纤细模特身材。黑色超长直发，白色空顶帽带蝴蝶结，浅天蓝色细吊带运动背心 × 同色系多层荷叶短裙，白色网球拍，清新又有活力。
-
-💙 专业蓝色硬地网球场，深蓝围挡，明亮柔和顶光，85mm 运动抓拍感。整体清新蓝白色调，人物全身完整入镜，偏侧颜、神情专注、嘴唇微张，皮肤、发丝、纱裙褶皱与球拍细节清晰，真实运动写真感。
-
-随机动作池：
-
-🎾 侧身弓步预备接球，双手握拍，目光紧盯侧方来球
-💨 向左侧快速跨步，球拍前伸准备拦截
-🩵 半蹲压低重心，双腿弯曲，准备反手接球
-🏃🏻‍♀️ 接球前瞬间急停，长发与裙摆轻微扬起
-✨ 双手持拍放在身前，身体前倾进入防守姿态
-🌀 刚完成一次小碎步调整，回头锁定来球方向
-🎯 单脚前踏、另一脚蹬地，球拍微抬，专注等待来球
-🌬️ 低重心侧移，裙摆与碎发轻轻甩动，形成动态抓拍感
-
-🎲 围绕不同动作自由发挥机位、弓步幅度、挥拍方向、发丝动态、裙摆层次与场馆光线，保持人体结构、手部握拍和运动姿态自然，追求网球少女 × 清新运动感 × 高级体育写真抓拍氛围。
-
-出一张包含不同动作的综合预览图，让我从中选择。
-```
-
-  </details>
-
-- **写真 UGC：先偷真照片颗粒/色调，再锁脸** — 无参考 = 假色假噪点假皮肤。广告素材/种草图抄这个就够锋利。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2097864879843746285)
-
-- **璃月衣帽间极低机位自拍** — 9:16 超写实手机仰拍：奢华衣帽间 + 金玉腰链细节。社媒竖版人像的「自信不艳俗」配方。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2097860248640053693)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-9:16 竖版超写实智能手机自拍，一位明确成年的虚构动漫灵感东方女性，置身璃月意象的奢华私人衣帽间，雕花深木柜、玉石拉手、金属格栅与暖色灯带构成高级背景。手机位于接近地面的极低机位，以强烈仰拍捕捉她微微俯身整理腰间饰品的瞬间；身体正面偏左，头部轻轻侧倾，视线直接落向手机镜头，神情自信而克制。身穿象牙白与金色刺绣短款上衣、墨黑低腰阔腿裤，搭配翡翠腰链、精致腹部珠宝和小面积装饰性下腹纹样；金玉主题立体美甲清晰可见。丝绸、蕾丝、黄金与玉石材质真实，暖金主光配合青绿色轮廓光，电影级层次，轻微手机广角透视与自然镜面反射，高级网红社交媒体写实质感。服装完整稳妥，不过度裸露，不色情化；不使用任何角色姓名，不声称官方身份，不复刻特定角色面孔或标志。
-```
-
-  </details>
-
-- **美人背唐风CG** — 9:16 唐风半身背影：镜面铜屏映侧脸、凤凰步摇与低饱和粉金光。人像海报/竖版封面直接抄光影逻辑。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2097859617359565266)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-9:16 竖版高级唐风 CG 人像海报，半身近景特写，电影级构图与空间透视。一位明确成年的东亚古典美人身体背向画面呈后三分之四方向，头部没有回看镜头，而是轻轻偏向右侧屏风；镜面铜屏中隐约映出她清冷的侧脸。她具有冷白真实肤质、微挑凤眼和自然胭脂唇，目光停留在镜中的凤冠流苏上，神态沉静、羞涩而克制。她穿雾粉色露肩披帛式唐风礼服，衣料沿肩背柔和垂落，领口不过分暴露，鎏金纹样集中在边缘；乌发高盘，头戴金色凤凰步摇冠，珍珠链沿耳侧摆动。一只手扶住冠饰，另一只手握着落在肩头的披帛。背景虚化为冷灰蓝宫墙与半透明纱屏，暖金主光从镜面左侧反射到脸部，冷色辅光照亮肩背，边缘光刻画发髻。85mm，f/2，浅景深、真实镜面逻辑、细腻颗粒和轻微辉光，低饱和粉金色调，典雅不艳俗。
-```
-
-  </details>
-
-- **噪点×透明金属反光的多风格混剪** — Images 2.5 多风格混合质感：噪点被透明金属 + 反光包住；品牌视觉想玩材质差异可跟。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2097698044733276309)
-
-- **高腰破洞烟管牛仔裤衣装 prompt** — 日文社区可改衣装模板片段。 [@sumeshino_moto](https://x.com/sumeshino_moto) · [原帖](https://x.com/sumeshino_moto/status/2097656994937319531)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-【衣装プロンプト】例のデニムが出るかもしれないぴたぴたハイウエストデニムのコ〜デです
-
-改変◎
-
-full body,
-(high waisted gray distressed jeans:1.3),
-(figure hugging jeans:1.2),
-hip-hugging, thigh-hugging,
-fitted from waist to knees,
-slim flare jeans, flared from the knees,
-large thigh cutouts, ripped denim,
-(oversized unisex off-shoulder top:1.25),
-(premium streetwear sweatshirt:1.2),
-clean drape, wide neckline, one shoulder exposed,
-drop shoulder, long loose sleeves,
-ribbed cuffs, clean hem,
-(chunky black platform sneakers:1.3),
-(thick platform sole:1.25),
-lace-up sneakers, oversized sole,
-```
-
-  </details>
-
-- **可互换长文衣装 Prompt 包** — Images 2.5 长文衣装再现性提升；PROTECTED WARDROBE RULE 模块化服装。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2097653761569423653)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 【お洒落カッコイイ🖤】
@@ -3309,15 +3050,72 @@ Final worn state:
 
   </details>
 
-- **同一角色 8 looks × 8 environments** — 一致性压力测试：一角色多造型多场景。 [@trendyvers](https://x.com/trendyvers) · [原帖](https://x.com/trendyvers/status/2097648721874096507)
+- **[同 prompt 炼狱角色一致性演示](https://x.com/Mayz1169/status/2097900600105308347)** — @Mayz1169：同一套 prompt 换 Rengoku，成品干净，prompt 贴在下面。角色锁 / 二次元营销素材可抄。
 
-- **四风格身份锁定** — 同一人设跨风格仍认得出，品牌 IP 友好。 [@MonetizationDon](https://x.com/MonetizationDon) · [原帖](https://x.com/MonetizationDon/status/2097609235395711007)
+- **[同一角色 8 looks × 8 environments](https://x.com/trendyvers/status/2097648721874096507)** — @trendyvers：一致性压力测试：一角色多造型多场景。
 
-- **自定义 Emoji 风格迁移** — 把品牌表情包做成统一风格集。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2097592152113242550)
+- **[哥特 Lolita 完整中文 prompt](https://x.com/AIVideoHub_/status/2097951132031320484)** — @AIVideoHub_：中文可复制人设配方，服装层次写细。角色卡/COS 种草少踩「衣服糊成一团」。
 
-- **晶莹剔透美人像完整 prompt** — 比例约束很死的美妆竖版肖像。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2097548765389258913)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
+
+```
+近距离俯拍自拍 Cosplay 写真，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，小头比例，冷白通透肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。白色齐刘海长发 × 侧边长马尾，哥特 Lolita 发饰搭配黑色小帽子；外穿风衣，内搭白衬衫与深色领带，下身可见黑色光腿神器与小皮鞋，酷感又精致。
+
+🛏️ 卧室床边，床铺与浅色墙面背景干净，人物居中，半身近景，画面上下留白充足。浅景深、柔和朦胧光影、低饱和色调、轻微曝光，真实高清摄影质感，日常随拍氛围，面部细节真实，手部自然准确，肢体不穿插。
+
+随机动作池：
+
+🎀 坐在床边看向镜头，一手轻抓侧边长马尾
+🖤 微微歪头托腮，另一手绕住马尾末端
+🪞 身体微微前倾，抬眼看镜头，手指整理刘海
+📖 坐在床沿低头整理领带，下一秒抬眼被抓拍
+🫧 一手扶着床边，另一手轻拎马尾，神态安静冷感
+✨ 侧身坐在床边，回头看镜头，长马尾垂落肩前
+🌙 双腿自然并拢坐好，轻捏发尾，表情松弛疏离
+🎩 抬手轻碰黑色小帽子，另一手自然落在腿侧
+
+🎲 围绕不同动作自由发挥俯拍角度、自拍距离、马尾状态、领带细节、床边构图与朦胧光影，重点保持真人 Cosplay 质感、手部自然、脸部真实，追求哥特 Lolita × 日常卧室 × 高级随拍氛围。
+
+出一张包含不同动作的综合预览图，让我从中选择。
+
+#今日提示词 #GPT #IMAGE2.5
+```
+
+  </details>
+
+- **[噪点×透明金属反光的多风格混剪](https://x.com/ZHO_ZHO_ZHO/status/2097698044733276309)** — @ZHO_ZHO_ZHO：Images 2.5 多风格混合质感：噪点被透明金属 + 反光包住；品牌视觉想玩材质差异可跟。
+
+- **[四风格身份锁定](https://x.com/MonetizationDon/status/2097609235395711007)** — @MonetizationDon：同一人设跨风格仍认得出，品牌 IP 友好。
+
+- **[女儿国国王：千禧年非主流公式一键出片](https://x.com/DeepBlueX0/status/2099303054797606998)** — @DeepBlueX0：「千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王」——中文 emoji 公式党再下一城，热点人设直接套。
+
+  <details><summary>Prompt</summary>
+
+```
+千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王
+```
+
+  </details>
+
+- **[嫦娥×前置误触：假失败中秋写真](https://x.com/DeepBlueX0/status/2099451908381692387)** — @DeepBlueX0：关键词串：iPhone 前置误触×曝光错误×虚焦拖影×中秋裁切。故意「拍坏」的节日人像，UGC 反精致风可直接套角色。
+
+  <details><summary>Prompt</summary>
+
+```
+嫦娥 × iPhone前置误触 × 曝光错误 ×虚焦拖影× 中秋节 × 裁切
+```
+
+  </details>
+
+- **[巴黎街拍写真 prompt](https://x.com/AIwithSarah_/status/2097952240707530923)** — @AIwithSarah_：街拍姿势/光位/服装分段可替换。UGC 人像与旅拍种草可直接改地名。
+
+- **[攻壳草薙素子：一年后再测 Images 2.5](https://x.com/ZHO_ZHO_ZHO/status/2099365177938575853)** — @ZHO_ZHO_ZHO：Zho 把素子拉回赛博写实。角色锁定 + 材质光感的回归测，国风/二次元 IP 人设出片可对标这档质感。
+
+- **[旧人设表用 Sunburst 一刷新：同物种两角色](https://x.com/Jenny_MommaLion/status/2098276640451420223)** — @Jenny_MommaLion：将近一年前的 OC sheet 丢进 Sunburst 升级画质，同物种两角色仍锁设定。老资产翻新别重画，先过 2.5。
+
+- **[晶莹剔透美人像完整 prompt](https://x.com/johnAGI168/status/2097548765389258913)** — @johnAGI168：比例约束很死的美妆竖版肖像。
+
+  <details><summary>Prompt</summary>
 
 ```
 ChatGPT Images 2.5  晶莹剔透的人物质感🎨
@@ -3353,28 +3151,348 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
   </details>
 
-- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [playbook](docs/playbooks/virtual-ip-assets.md)
+- **[毕业季影棚写真：2026 灯牌 + 金纸屑](https://x.com/abs_uiux/status/2098357739814560247)** — @abs_uiux：三件套西装 × 礼帽 × 头顶光锥，竖版 9:16 现成可卖。留学 / 毕业季广告素材库补这一条就够。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a photorealistic cinematic graduation portrait of a confident adult man celebrating his graduation in 2026. Show him seated casually on large freestanding "2026" marquee numbers filled with warm glowing bulbs.
+
+He wears an elegant light-gray three-piece suit with a matching waistcoat, crisp white dress shirt, sophisticated purple patterned tie, polished black leather dress shoes, and a graduation stole featuring bold red, white, and black stripes. Add a traditional black graduation mortarboard with tassel.
+
+Pose him facing the camera with a big, genuine, joyful smile. His posture should feel relaxed yet proud, with his legs naturally apart. One hand rests casually near his lap while the other arm is raised high, holding a rolled graduation certificate tied with a red ribbon, creating a strong celebratory gesture.
+
+Surround him with falling metallic gold confetti, frozen naturally in mid-air at different depths. Use a dark charcoal-to-black studio background with subtle atmospheric haze. Place a dramatic overhead spotlight directly above him, creating a soft cone of light that highlights his face, suit, graduation cap, and diploma while leaving the edges of the scene slightly darker.
+
+The giant illuminated 2026 numbers should sit behind and beneath him, producing warm golden light that contrasts beautifully with the cool gray suit and dark background.
+
+Style: luxury graduation editorial photography, premium studio portrait, cinematic lighting, realistic skin texture, natural proportions, crisp tailoring, accurate hands, realistic fabric detail, shallow depth of field, subtle floor reflections, professional color grading, celebratory atmosphere, ultra-detailed, photorealistic, vertical 9:16 composition, high resolution.
+```
+
+  </details>
+
+- **[漫画气泡表情：心声盖住对方台词](https://x.com/kabumira862571/status/2098251497385721990)** — @kabumira862571：方气泡盖住对方台词、咬住气泡的凶妹等叙事梗；画幅 4:5 写死。玩信息差比纯美图更有用。
+
+  <details><summary>Prompt</summary>
+
+```
+“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。
+アスペクト比は縦長（4:5）で描画
+```
+
+  </details>
+
+- **[璃月衣帽间极低机位自拍](https://x.com/Mrpinecone888/status/2097860248640053693)** — @Mrpinecone888：9:16 超写实手机仰拍：奢华衣帽间 + 金玉腰链细节。社媒竖版人像的「自信不艳俗」配方。
+
+  <details><summary>Prompt</summary>
+
+```
+9:16 竖版超写实智能手机自拍，一位明确成年的虚构动漫灵感东方女性，置身璃月意象的奢华私人衣帽间，雕花深木柜、玉石拉手、金属格栅与暖色灯带构成高级背景。手机位于接近地面的极低机位，以强烈仰拍捕捉她微微俯身整理腰间饰品的瞬间；身体正面偏左，头部轻轻侧倾，视线直接落向手机镜头，神情自信而克制。身穿象牙白与金色刺绣短款上衣、墨黑低腰阔腿裤，搭配翡翠腰链、精致腹部珠宝和小面积装饰性下腹纹样；金玉主题立体美甲清晰可见。丝绸、蕾丝、黄金与玉石材质真实，暖金主光配合青绿色轮廓光，电影级层次，轻微手机广角透视与自然镜面反射，高级网红社交媒体写实质感。服装完整稳妥，不过度裸露，不色情化；不使用任何角色姓名，不声称官方身份，不复刻特定角色面孔或标志。
+```
+
+  </details>
+
+- **[秦淮八艳群像：CCD 直闪 + 八人各具情态](https://x.com/DeepBlueX0/status/2098314775344394279)** — @DeepBlueX0：Sunburst 中文短 prompt：脂香绮艳、顾盼生春、八美合照。古风/国风营销测群像一致性，直接抄这串。
+
+  <details><summary>Prompt</summary>
+
+```
+脂香绮艳；秦淮烟月；顾盼生春；各具情态；CCD直闪；秦淮八艳：柳如是、陈圆圆、李香君、董小宛、顾横波、卞玉京、寇白门、马湘兰合照
+```
+
+  </details>
+
+- **[纽约地铁 UGC：折叠屏手写金句生活照](https://x.com/Naiknelofar788/status/2098252670385676491)** — @Naiknelofar788：乱发、复古圆镜、耳机电车 candid；屏上金句可换。一人团队做「真实感」广告图直接改场景复用。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a cinematic, candid lifestyle photograph inspired by the reference image, but featuring a young woman sitting comfortably inside a New York City subway.
+
+She has soft, natural features, slightly messy dark hair tied loosely, round vintage-style glasses, and white wired earphones. She is wearing an oversized charcoal-brown coat over a cozy cream knit sweater and relaxed light-wash wide-leg jeans. Her posture is relaxed and natural, with her legs comfortably stretched forward.
+
+She is quietly looking down at an open foldable smartphone in her hands, while holding an iced matcha latte in the other hand. The phone should look premium and realistic, with a clean minimal design.
+
+IMPORTANT — PHONE SCREEN: Replace the original book/quote completely. On the inner screen of the foldable phone, display the elegant handwritten-style quote:
+
+“romanticize your ordinary days ♡”
+
+Make the text clearly visible, beautifully typeset, and naturally integrated into the phone screen.
+
+Set the scene inside a realistic stainless-steel NYC subway carriage, with blue seats, metal panels, subway window reflections, vertical poles, and softly blurred passengers in the background. Include a subtle subway route/sign panel in the background for authentic NYC atmosphere.
+
+The iced matcha cup should have a small minimalist café-style label reading:
+
+“little joys”
+
+Photography & Mood
+
+* candid street-photography aesthetic
+* cozy, introspective, effortless mood
+* muted earthy tones
+* soft natural fluorescent subway lighting
+* realistic skin texture
+* subtle film grain
+* gentle shadows
+* slightly desaturated editorial color grading
+* shallow depth of field
+* authentic reflections and imperfections
+* premium fashion-editorial photography
+* not overly posed
+* not glamorous or studio-like
+* photorealistic, believable everyday moment
+
+Composition: vertical 4:5, medium-full body framing, woman centered slightly toward the left, phone and matcha clearly visible, subway environment surrounding her, natural perspective, highly detailed.
+```
+
+  </details>
+
+- **[网球写真完整中文 prompt](https://x.com/AIVideoHub_/status/2097878838063903217)** — @AIVideoHub_：动作姿态写实到能当 UGC 素材库，9:16 竖版可抄。
+
+  <details><summary>Prompt</summary>
+
+```
+室内网球写真抓拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致窄长鹅蛋脸，冷白透亮肌肤，高挑纤细模特身材。黑色超长直发，白色空顶帽带蝴蝶结，浅天蓝色细吊带运动背心 × 同色系多层荷叶短裙，白色网球拍，清新又有活力。
+
+💙 专业蓝色硬地网球场，深蓝围挡，明亮柔和顶光，85mm 运动抓拍感。整体清新蓝白色调，人物全身完整入镜，偏侧颜、神情专注、嘴唇微张，皮肤、发丝、纱裙褶皱与球拍细节清晰，真实运动写真感。
+
+随机动作池：
+
+🎾 侧身弓步预备接球，双手握拍，目光紧盯侧方来球
+💨 向左侧快速跨步，球拍前伸准备拦截
+🩵 半蹲压低重心，双腿弯曲，准备反手接球
+🏃🏻‍♀️ 接球前瞬间急停，长发与裙摆轻微扬起
+✨ 双手持拍放在身前，身体前倾进入防守姿态
+🌀 刚完成一次小碎步调整，回头锁定来球方向
+🎯 单脚前踏、另一脚蹬地，球拍微抬，专注等待来球
+🌬️ 低重心侧移，裙摆与碎发轻轻甩动，形成动态抓拍感
+
+🎲 围绕不同动作自由发挥机位、弓步幅度、挥拍方向、发丝动态、裙摆层次与场馆光线，保持人体结构、手部握拍和运动姿态自然，追求网球少女 × 清新运动感 × 高级体育写真抓拍氛围。
+
+出一张包含不同动作的综合预览图，让我从中选择。
+```
+
+  </details>
+
+- **[美人背唐风CG](https://x.com/Mrpinecone888/status/2097859617359565266)** — @Mrpinecone888：9:16 唐风半身背影：镜面铜屏映侧脸、凤凰步摇与低饱和粉金光。人像海报/竖版封面直接抄光影逻辑。
+
+  <details><summary>Prompt</summary>
+
+```
+9:16 竖版高级唐风 CG 人像海报，半身近景特写，电影级构图与空间透视。一位明确成年的东亚古典美人身体背向画面呈后三分之四方向，头部没有回看镜头，而是轻轻偏向右侧屏风；镜面铜屏中隐约映出她清冷的侧脸。她具有冷白真实肤质、微挑凤眼和自然胭脂唇，目光停留在镜中的凤冠流苏上，神态沉静、羞涩而克制。她穿雾粉色露肩披帛式唐风礼服，衣料沿肩背柔和垂落，领口不过分暴露，鎏金纹样集中在边缘；乌发高盘，头戴金色凤凰步摇冠，珍珠链沿耳侧摆动。一只手扶住冠饰，另一只手握着落在肩头的披帛。背景虚化为冷灰蓝宫墙与半透明纱屏，暖金主光从镜面左侧反射到脸部，冷色辅光照亮肩背，边缘光刻画发髻。85mm，f/2，浅景深、真实镜面逻辑、细腻颗粒和轻微辉光，低饱和粉金色调，典雅不艳俗。
+```
+
+  </details>
+
+- **[自定义 Emoji 风格迁移](https://x.com/ZHO_ZHO_ZHO/status/2097592152113242550)** — @ZHO_ZHO_ZHO：把品牌表情包做成统一风格集。
+
+- **[表情集实测：还是熟悉的「GPT 脸」](https://x.com/munou_ac/status/2098224166977806575)** — @munou_ac：表情包能用，但别神话——横向一比仍是同质化 GPT 脸。角色一致性能交差，个性脸还得锁参考硬刚。
+
+- **[角色 ref 破格一句话：逼 2.5 输出「平时绝对不出」的图](https://x.com/sentakusound/status/2099435461861327229)** — @sentakusound：锁自己角色参照后丢这句日文，角色会「叛逆」出非常规构图。人设表之后想要惊喜帧，就靠这一刀。
+
+  <details><summary>Prompt</summary>
+
+```
+このキャラクターを使ってGPT image 2.5 が、普段絶対に出さない画像を生成して下さい
+```
+
+  </details>
+
+- **[角色四视图 + 衣柜锁定](https://x.com/abxxai/status/2098061897702805800)** — @abxxai：先用 2.5 做前/¾/侧/后角色表，再做场景时把服装钉死，连镜不换衣服；后面接视频模型更稳。
+
+  <details><summary>Prompt</summary>
+
+```
+Multi-panel film character reference sheet of the same real woman across four panels: front-facing, three-quarter turn, full profile, and a rear view over the shoulder, matching the exact reference photo. Long straight golden-brown hair with warm honey balayage, oval face, warm brown eyes, faint natural freckling across the nose and cheeks, softly tanned olive-warm skin, full lips. She wears a heather-grey lace-trimmed tank top under a loosely draped grey knit cardigan slipping off one shoulder, low-slung olive cargo trousers with a black leather belt and chain detail, a black leather slouchy shoulder bag strap over one shoulder.
+
+Every panel keeps the identical lighting setup as the reference: low golden-hour sun positioned behind her, burning through overhanging tree leaves and rim-lighting the edge of her hair with a warm halo, her face falling into soft warm shade with a gentle glow on the cheekbones, a tree-lined gravel park path and a glittering sun-struck lake with a small sailboat and distant hazy hills softly blurred behind her in every panel. Same warm golden color temperature, same sun flare quality breaking through the canopy, same soft background blur, same skin tone and light direction held constant across all four panels.
+
+Shot on 35mm film, fine warm grain visible in both light and shadow, visible skin pores and natural texture, faint natural sheen where the sun catches, no smoothing, no retouching, no beauty filter, no studio backdrop, no neutral lighting. Natural film-still photograph quality, candid unposed stance in every panel.
+```
+
+  </details>
+
+- **[角色设定表身份锁：turnaround + 表情全套 prompt](https://x.com/meAsifAi/status/2098373493662392732)** — @meAsifAi：参考图一锁到底：正侧背、表情格、材质色板、比例尺。IP / 游戏人设交付文档级提示词，整段可复制。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.  REFERENCE & IDENTITY LOCK: Use the uploaded reference as the single source of truth for the character's identity. Preserve the exact facial identity, facial structure, hairstyle, hairline, eye shape and color, eyebrows, nose, lips, skin tone, body proportions, physique, age appearance, distinctive features, costume design, accessories, footwear, colors, patterns and all recognizable visual details. Do not redesign, beautify, simplify, age, de-age, or reinterpret the character. CHARACTER DESIGN ANALYSIS: Before constructing the sheet, internally analyze and lock the character's:  facial construction head-to-body ratio  body proportions  shoulder width and torso structure  limb length and joint placement  silhouette  hairstyle and hair volume  costume construction  accessory placement  color relationships  material characteristics  distinctive identity anchors  All subsequent views must represent the exact same character design.  PAGE FORMAT: Create one sophisticated studio-grade character reference board, landscape 16:9, clean neutral/off-white studio background, refined editorial production-board aesthetic, highly organized hierarchy, generous spacing, subtle technical guide lines, restrained professional typography-style labels where appropriate, no decorative clutter.  01 — HERO CHARACTER PORTRAIT  Place one larger polished head-and-shoulders or three-quarter portrait as the visual identity anchor. Show the character's canonical facial identity clearly with neutral professional expression and accurate hairstyle, skin, costume and accessories.  02 — FULL-BODY TURNAROUND  Create a clearly organized full-body turnaround showing the same character at identical scale and proportions:  FRONT VIEW  3/4 FRONT VIEW  SIDE PROFILE  3/4 BACK VIEW  BACK VIEW  Use a neutral standing pose with consistent posture and anatomical alignment.  Keep head height, eye line, shoulder line, waist, hips, knees and feet consistently aligned across every view.  The costume, hairstyle, accessories, seams, patterns, footwear and silhouette must remain identical from every angle.  03 — EXPRESSION STUDY  Include a clean expression grid containing approximately 6 expressions:  Neutral  Happy / subtle smile  Serious  Angry / determined  Surprised  Sad / emotional  Maintain the exact same facial identity, head proportions, hairstyle and facial construction in every expression.  Expressions should demonstrate believable facial acting rather than exaggerated deformation.  04 — SIGNATURE POSE STUDIES  Include 4–6 full-body pose studies that communicate the character's personality and physical behavior.  Use varied but believable poses such as:  relaxed standing  confident stance  walking  sitting  interacting with an object  dynamic signature pose  Maintain exact character proportions, costume construction and recognizable silhouette in every pose.  05 — COSTUME & DETAIL CALLOUTS  Add several clean close-up detail panels showing the most important design elements:  hairstyle / hair detail  face detail  collar / neckline  sleeves / garment construction  footwear  jewelry or accessories  distinctive emblem / pattern / texture  important prop if present  Show construction and material clearly without turning the sheet into a decorative fashion collage.  06 — MATERIAL STUDIES  Visually communicate the primary materials present in the design:  fabric, leather, metal, denim, silk, knit, plastic, glass, jewelry, hair, skin or other relevant materials.  Show realistic surface behavior, texture, reflectivity and construction appropriate to each material.  07 — COLOR PALETTE  Include a compact professional color palette strip containing the dominant character colors.  Organize colors according to their visual role:  skin  hair  primary costume  secondary costume  accent color  accessories / materials  Keep the palette faithful to the reference.  08 — PROPORTION & SILHOUETTE GUIDE  Include a subtle technical proportion guide beside the turnaround.  Show:  overall height  head-to-body ratio  major horizontal alignment guides  key body proportions  clean silhouette thumbnail  Keep this section understated and production-oriented.  09 — DESIGN CONTINUITY  Treat the entire page as a single canonical character source of truth.  Every panel must depict the SAME person/character with:  identical facial identity  identical body proportions  identical hairstyle  identical costume  identical accessory placement  identical color palette  identical design language  consistent left/right details  No accidental costume changes, missing accessories, duplicated accessories, altered facial features, changing body proportions, inconsistent hairstyles or unexplained design variations.  VISUAL DIRECTION: High-end professional character design presentation, studio production reference quality, sophisticated concept-art discipline, clean polished rendering, precise construction, controlled neutral lighting, realistic material definition, excellent anatomical consistency, crisp readable details, refined editorial layout, premium art-direction quality.  The sheet should feel like an actual professional animation / game / visual-development production document, not a collection of random AI images.  COMPOSITION: Clear information hierarchy, balanced negative space, aligned panels, consistent character scale, clean grid system, logical visual flow, no overlapping figures, no cropped bodies, no confusing perspective, no unnecessary scenery.  CAMERA / VIEW CONTROL: Turnaround views should use consistent orthographic-like framing and neutral perspective. Expression studies should use a consistent head framing. Pose studies may use natural perspective while preserving character proportions. LIGHTING: Neutral studio illumination designed for design inspection rather than cinematic drama. Soft, even, physically believable light with controlled shadows and accurate material readability.  PHOTOGRAPHIC / RENDER FINISH: Ultra-clean high-end visual development presentation, realistic surface detail, natural skin and hair rendering, physically believable materials, sharp but refined detail, professional production-board finish.  OUTPUT QUALITY: 16K: 15360 × 8640 ≈ 132.7 million pixels, high-resolution professional quality. NEGATIVE CONSTRAINTS: No character redesign, no identity drift, no inconsistent proportions, no changing face, no changing hairstyle, no costume variations, no missing accessories, no duplicated accessories, no extra limbs, no malformed hands, no distorted anatomy, no random props, no dramatic scenery, no cinematic background, no excessive effects, no clutter, no watermark, no logo, no cropped views.
+```
+
+  </details>
+
+- **[角色连续夜间手机快照：身份锁 + 直闪抓拍](https://x.com/frametheory058/status/2098413109258207670)** — @frametheory058：同一角色东京雨后夜街系列：后三四分、直闪过曝、走路半步——专治「写真感太假」。UGC / 旅行人设连更可抄整段 prompt。
+
+  <details><summary>Prompt</summary>
+
+```
+Ultra-realistic late-night smartphone snapshot, 9:16 vertical.
+
+Use the reference only to establish the same fictional female character's overall appearance and continuity. Keep her recognizable across the series with the same dark-brown wavy hair, natural features, black fitted sleeveless tank top, loose high-waisted light-blue jeans, small gold hoop earrings, delicate necklace, white sneakers, and small black shoulder bag.
+
+Scene:
+A quiet Tokyo side street late at night after light rain. She walks beside an off-white ceramic-tiled building while distant convenience-store lights, traffic signals, parked bicycles and small Japanese storefronts softly disappear into the darkness. Wet pavement catches scattered reflections.
+
+New candid moment:
+Photograph her from a slightly low rear three-quarter angle, about two steps behind her. She has just slowed down and casually turns only her upper body toward the camera while continuing forward. One hand is loosely tucking windblown hair behind her ear while the other hangs naturally beside her bag.
+
+She looks toward the camera from the corner of her eyes with a tiny closed-mouth smile, as though she noticed her friend taking another photo and is trying not to laugh.
+
+No deliberate fashion pose. No exaggerated expression. Her shoulders remain relaxed, hips and legs naturally positioned from walking, with one foot caught halfway through the next step.
+
+Camera:
+Modern smartphone rear camera with direct flash. Photographer walking at the same time, creating subtle accidental camera shake. Slight motion blur around her hair, moving leg and fingertips, while her eyes remain just barely readable. Mild rolling-shutter distortion, imperfect autofocus, slight edge softness and realistic digital noise.
+
+Composition should feel accidental: her body sits slightly off-center, a little too much empty darkness on one side, with part of her shoe approaching the bottom edge of frame.
+
+Flash & exposure:
+Hard direct phone flash illuminates her face, shoulder, black top and denim while the street behind her falls rapidly into darkness. Slightly overexposed skin highlights, hard natural shadow against the tiled wall, shiny flash reflections on individual hair strands and subtle denim texture. Distant lights bloom and smear naturally.
+
+Aesthetic:
+Raw Pinterest night-photo-dump energy. Intimate, youthful, spontaneous and imperfect. It should look like a friend took the photo during a random Tokyo night walk—not a photographer conducting a photoshoot.
+
+Real pores, tiny skin variations, flyaway hairs, natural fabric wrinkles, realistic body proportions and ordinary smartphone processing.
+
+Absolutely no: studio lighting, cinematic teal-orange grading, professional bokeh, fashion-editorial posing, perfect symmetry, airbrushed skin, artificial beauty retouching, HDR look, DSLR sharpness, staged composition, AI-perfect anatomy or polished commercial photography.
+
+The final result should feel like an unexpectedly beautiful photo hidden among 30 messy pictures from the same night.
+```
+
+  </details>
+
+- **[课堂抓拍·反差穿搭老师](https://x.com/DeepBlueX0/status/2097999860696072542)** — @DeepBlueX0：短 prompt 出 iPhone 纪实感人像，UGC/种草风很好用。
+
+  <details><summary>Prompt</summary>
+
+```
+iPhone 课堂抓拍，女大学老师，时尚反差穿搭
+```
+
+  </details>
+
+- **[钴蓝棚拍街潮男装：奢华 campaign 完整 prompt](https://x.com/john_my07/status/2099357576484069651)** — @john_my07：深蓝针织+烟色透明框眼镜+无缝钴蓝背景，手部与织物约束写死。男装电商主图 / 投放素材可直接用。
+
+  <details><summary>Prompt</summary>
+
+```
+Create an ultra-photorealistic high-end studio fashion portrait of a handsome young adult man in his early-to-mid 20s, photographed like a luxury streetwear campaign.
+
+Subject & Appearance:
+A naturally handsome young man with masculine yet refined facial features, realistic skin texture, subtle natural imperfections, expressive eyes, defined jawline, straight nose, natural lips, and light authentic stubble. Tousled, slightly wavy dark-brown hair with realistic individual strands. His appearance should feel believable and photographic rather than overly perfected or AI-generated.
+
+Pose & Expression:
+Place him in a relaxed seated pose, leaning slightly toward the camera. His torso is angled subtly while his shoulders remain relaxed. One arm is bent upward with his hand resting naturally near his mouth and chin, with his fingers positioned loosely and realistically. His other arm rests casually in the foreground. His head is tilted slightly upward and toward the side, with a calm, confident, slightly aloof expression. His gaze is directed toward the camera through the glasses. The pose should feel effortless and editorial rather than staged.
+
+Wardrobe:
+Dress him in a premium oversized dark-navy textured knit sweater with a relaxed streetwear silhouette. The sweater should have realistic heavy fabric, natural folds, ribbed cuffs, and believable draping around the shoulders and arms. Pair it with relaxed-fit light-wash blue denim jeans. Add a minimal fine silver chain necklace. Keep accessories understated and luxurious.
+
+Eyewear:
+Add sophisticated oversized translucent/clear-frame glasses with lightly tinted smoky lenses. The glasses must have realistic reflections and accurate interaction with the studio lighting. Ensure the frames sit naturally on the face without distorting the eyes or facial proportions.
+
+Studio & Background:
+Use a completely seamless, rich cobalt-blue studio backdrop extending uniformly across the entire frame. No visible studio equipment, furniture, texture, gradients, patterns, or environmental distractions. Maintain a premium monochromatic blue fashion-campaign aesthetic.
+
+Lighting:
+Use soft directional studio lighting coming from slightly above and to one side of the subject. Create subtle highlights across the forehead, cheekbones, nose, lips, glasses, and hair while maintaining realistic shadow transitions along the jawline, neck, sweater, and hands. Include gentle rim separation around the hair and shoulders. Preserve natural skin texture and realistic tonal variation. Avoid harsh shadows or artificial HDR.
+
+Camera & Composition:
+Professional full-frame fashion photography, approximately 50–85mm portrait-lens feel, slightly low camera angle, shallow depth of field, realistic perspective, natural facial proportions, and crisp focus on the eyes and face. Frame the subject tightly from approximately the knees/upper legs upward, with the foreground jeans subtly visible. Maintain strong editorial balance with some clean negative space around the head and shoulders.
+
+Photographic Quality:
+Ultra-photorealistic, luxury fashion campaign, premium commercial advertising photography, cinematic studio portrait, subtle film-grade contrast, realistic skin pores, fine facial hair, detailed knit texture, physically accurate fabric folds, realistic hands and fingers, natural hair strands, authentic optical reflections, soft depth of field, refined color grading, high dynamic range without an HDR look, professional magazine-cover quality.
+
+Important:
+The final image must look like a genuine professional photograph captured in a controlled fashion studio, not a digital illustration or AI artwork. Prioritize anatomical accuracy, realistic hands, natural facial proportions, physically believable clothing, authentic skin texture, and convincing studio lighting.
+```
+
+  </details>
+
+- **[高腰破洞烟管牛仔裤衣装 prompt](https://x.com/sumeshino_moto/status/2097656994937319531)** — @sumeshino_moto：日文社区可改衣装模板片段。
+
+  <details><summary>Prompt</summary>
+
+```
+【衣装プロンプト】例のデニムが出るかもしれないぴたぴたハイウエストデニムのコ〜デです
+
+改変◎
+
+full body,
+(high waisted gray distressed jeans:1.3),
+(figure hugging jeans:1.2),
+hip-hugging, thigh-hugging,
+fitted from waist to knees,
+slim flare jeans, flared from the knees,
+large thigh cutouts, ripped denim,
+(oversized unisex off-shoulder top:1.25),
+(premium streetwear sweatshirt:1.2),
+clean drape, wide neckline, one shoulder exposed,
+drop shoulder, long loose sleeves,
+ribbed cuffs, clean hem,
+(chunky black platform sneakers:1.3),
+(thick platform sole:1.25),
+lace-up sneakers, oversized sole,
+```
+
+  </details>
 
 
 ## 电商改图
 
 商品图、局部编辑、包装与货架感。
 
-- **网格单格自然语言抽取：口语坐标也能拆** — 「上从2左从2」「纵3×横2」这种日常说法，Image 2.5 也能抽出单格再拉到 2K。九宫格/精灵表后处理省事。 [@misakin883](https://x.com/misakin883) · [原帖](https://x.com/misakin883/status/2099351178077413642)
+- **[Sunburst API 换光锁脸 / 产品](https://x.com/alepom/status/2097928991407546852)** — @alepom：意文实务：换光照仍锁脸与产品主体。广告补光/棚拍替代很实用。
 
-- **一张图接着改、接着用：连续编辑实测文** — 西堂长文压测「同一张图能不能一路改下去」。品牌物料多轮精修前先看这篇踩坑。 [@congcongtang](https://x.com/congcongtang) · [原帖](https://x.com/congcongtang/status/2099330191365415193)
+- **[Sunburst object-swap：换物 match-cut，其余几乎钉死](https://x.com/invideoOfficial/status/2098430230079984063)** — @invideoOfficial：编辑时只换指定物件，其它几乎不动。广告改产品/道具的压测思路，直接抄。
 
-- **Sunburst object-swap：换物 match-cut，其余几乎钉死** — 编辑时只换指定物件，其它几乎不动。广告改产品/道具的压测思路，直接抄。 [@invideoOfficial](https://x.com/invideoOfficial) · [原帖](https://x.com/invideoOfficial/status/2098430230079984063)
+- **[UGC 偷参考美学：Astra 拆 JSON → 2.5 出片](https://x.com/0x_harness/status/2098309152141607051)** — @0x_harness：别写「cinematic soft grain」作文。真照片丢 Astra 拆色彩/灯光 JSON，再塞进 Image 2.5 锁人设。假 UGC 变真货架感，流程可复用。
 
-- **精华液广告流水线：产品表 + 分镜 → 15 秒成片** — GPT Image 2.5 先出产品 sheet 与 cinematic storyboard，再交 Seedance 2.5；提示词全开。DTC 电商广告教科书。 [@HeyAbhishek](https://x.com/HeyAbhishek) · [原帖](https://x.com/HeyAbhishek/status/2098420637631127995)
+- **[「ここだけ直す」局部改图指示集](https://x.com/noel_ai_lab/status/2098031783849648284)** — @noel_ai_lab：日文保存版精准改图话术合集，比再发一篇 Flare/Sunburst 科普有用。电商/海报改细节直接抄指令。
 
-- **UGC 偷参考美学：Astra 拆 JSON → 2.5 出片** — 别写「cinematic soft grain」作文。真照片丢 Astra 拆色彩/灯光 JSON，再塞进 Image 2.5 锁人设。假 UGC 变真货架感，流程可复用。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2098309152141607051)
+- **[「只改文字」Before→After 实测](https://x.com/dansyu_callenge/status/2097818810493685854)** — @dansyu_callenge：长文验证「图挺好、字想换」痛点改善多少；电商主图、海报改文案的人值得看。
 
-- **产品罐 → 中文海报：保包装字再加氛围** — Sunburst 加茶叶气泡与中文标题，同时保住罐身品牌字/容量。改氛围与 must-stay 分开写——电商海报方向稿够用。 [@Soranlan](https://x.com/Soranlan) · [原帖](https://x.com/Soranlan/status/2098270386156970236)
+- **[「把灯挪到右边」——精密局部编辑](https://x.com/prompts_ig/status/2097858572319072601)** — @prompts_ig：Higgsfield 上测 GPT-Image 2.5，一句指令改光源位置，局部编辑不是 PPT。
 
-- **改图系统 prompt：先写清改什么、保什么** — 把模糊改图意图翻成模型吃得懂的精确指令：change half + hold half。产品图/海报连续精修少跑偏，直接当编辑前置系统提示。 [@everestchris6](https://x.com/everestchris6) · [原帖](https://x.com/everestchris6/status/2098170415613137083)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[一张图接着改、接着用：连续编辑实测文](https://x.com/congcongtang/status/2099330191365415193)** — @congcongtang：西堂长文压测「同一张图能不能一路改下去」。品牌物料多轮精修前先看这篇踩坑。
+
+- **[亚马逊主图点选改](https://x.com/Passenger0522/status/2097594649846444370)** — @Passenger0522：电商点编辑：改标签、改背景、不重抽主体。
+
+- **[产品罐 → 中文海报：保包装字再加氛围](https://x.com/Soranlan/status/2098270386156970236)** — @Soranlan：Sunburst 加茶叶气泡与中文标题，同时保住罐身品牌字/容量。改氛围与 must-stay 分开写——电商海报方向稿够用。
+
+- **[传单只改价格：线稿 22 秒出片 + 8 作例](https://x.com/Charlie_no_site/status/2098155424440893702)** — @Charlie_no_site：日系营销血泪：别为改个价重做整张图。2.5 局部改价 + 手绘 rough 22 秒变传单，附 8 作例与可粘贴 prompt。
+
+- **[定点改图：修图师 briefing 模板](https://x.com/alex_prompter/status/2097660049921659014)** — @alex_prompter：专治「改一处整图重画」：只改指定处、保脸/Logo/文字；营销改细节最省事。
+
+  <details><summary>Prompt</summary>
+
+```
+You are my retoucher using ChatGPT Images 2.5.
+
+The photo: [what it is and who's in it]
+The one change I want: [describe it]
+What must not change: [faces, logo, background, text, anything]
+
+Before generating, restate the change in one line and list what you'll leave untouched. Then make the edit.
+
+Then give me:
+
+The edited image
+What you changed, one line
+What you kept, one line
+The exact prompt to paste next time for the same edit on a different photo
+
+Rules: one change per turn, never regenerate the whole image when I asked for a part, and if the change would alter a face, a logo, or text, stop and ask first.
+```
+
+  </details>
+
+- **[密封盒 UGC → Omni 拆箱视频链路](https://x.com/ItsNazar17/status/2097914967295172794)** — @ItsNazar17：Image 2.5 做密封盒静帧 → Gemini Omni 推 10 秒拆箱，纸张/折痕/重量写进 prompt。电商假 UGC 配方。
+
+- **[披萨三选一：哪张没被 AI 改过？](https://x.com/midsusnight/status/2097702225707511823)** — @midsusnight：编辑质量鉴宝局：看配料接缝/阴影/桌布纹理。互动玩法 + 编辑能力证明，适合小红书/视频号挑战模板。
+
+- **[改图系统 prompt：先写清改什么、保什么](https://x.com/everestchris6/status/2098170415613137083)** — @everestchris6：把模糊改图意图翻成模型吃得懂的精确指令：change half + hold half。产品图/海报连续精修少跑偏，直接当编辑前置系统提示。
+
+  <details><summary>Prompt</summary>
 
 ```
 <role>
@@ -3461,119 +3579,115 @@ Wait for an image and a rough request. Reply with the JSON only.
 
   </details>
 
-- **传单只改价格：线稿 22 秒出片 + 8 作例** — 日系营销血泪：别为改个价重做整张图。2.5 局部改价 + 手绘 rough 22 秒变传单，附 8 作例与可粘贴 prompt。 [@Charlie_no_site](https://x.com/Charlie_no_site) · [原帖](https://x.com/Charlie_no_site/status/2098155424440893702)
+- **[精华液广告流水线：产品表 + 分镜 → 15 秒成片](https://x.com/HeyAbhishek/status/2098420637631127995)** — @HeyAbhishek：GPT Image 2.5 先出产品 sheet 与 cinematic storyboard，再交 Seedance 2.5；提示词全开。DTC 电商广告教科书。
 
-- **「ここだけ直す」局部改图指示集** — 日文保存版精准改图话术合集，比再发一篇 Flare/Sunburst 科普有用。电商/海报改细节直接抄指令。 [@noel_ai_lab](https://x.com/noel_ai_lab) · [原帖](https://x.com/noel_ai_lab/status/2098031783849648284)
+- **[网格单格自然语言抽取：口语坐标也能拆](https://x.com/misakin883/status/2099351178077413642)** — @misakin883：「上从2左从2」「纵3×横2」这种日常说法，Image 2.5 也能抽出单格再拉到 2K。九宫格/精灵表后处理省事。
 
-- **Sunburst API 换光锁脸 / 产品** — 意文实务：换光照仍锁脸与产品主体。广告补光/棚拍替代很实用。 [@alepom](https://x.com/alepom) · [原帖](https://x.com/alepom/status/2097928991407546852)
-
-- **密封盒 UGC → Omni 拆箱视频链路** — Image 2.5 做密封盒静帧 → Gemini Omni 推 10 秒拆箱，纸张/折痕/重量写进 prompt。电商假 UGC 配方。 [@ItsNazar17](https://x.com/ItsNazar17) · [原帖](https://x.com/ItsNazar17/status/2097914967295172794)
-
-- **「把灯挪到右边」——精密局部编辑** — Higgsfield 上测 GPT-Image 2.5，一句指令改光源位置，局部编辑不是 PPT。 [@prompts_ig](https://x.com/prompts_ig) · [原帖](https://x.com/prompts_ig/status/2097858572319072601)
-
-- **「只改文字」Before→After 实测** — 长文验证「图挺好、字想换」痛点改善多少；电商主图、海报改文案的人值得看。 [@dansyu_callenge](https://x.com/dansyu_callenge) · [原帖](https://x.com/dansyu_callenge/status/2097818810493685854)
-
-- **披萨三选一：哪张没被 AI 改过？** — 编辑质量鉴宝局：看配料接缝/阴影/桌布纹理。互动玩法 + 编辑能力证明，适合小红书/视频号挑战模板。 [@midsusnight](https://x.com/midsusnight) · [原帖](https://x.com/midsusnight/status/2097702225707511823)
-
-- **定点改图：修图师 briefing 模板** — 专治「改一处整图重画」：只改指定处、保脸/Logo/文字；营销改细节最省事。 [@alex_prompter](https://x.com/alex_prompter) · [原帖](https://x.com/alex_prompter/status/2097660049921659014)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-You are my retoucher using ChatGPT Images 2.5.
-
-The photo: [what it is and who's in it]
-The one change I want: [describe it]
-What must not change: [faces, logo, background, text, anything]
-
-Before generating, restate the change in one line and list what you'll leave untouched. Then make the edit.
-
-Then give me:
-
-The edited image
-What you changed, one line
-What you kept, one line
-The exact prompt to paste next time for the same edit on a different photo
-
-Rules: one change per turn, never regenerate the whole image when I asked for a part, and if the change would alter a face, a logo, or text, stop and ask first.
-```
-
-  </details>
-
-- **马克杯局部改色/改价：编辑精度实测** — Web 版连续编辑 vs Image-2，附文章。 [@taku41477996](https://x.com/taku41477996) · [原帖](https://x.com/taku41477996/status/2097652949560480117)
-
-- **亚马逊主图点选改** — 电商点编辑：改标签、改背景、不重抽主体。 [@Passenger0522](https://x.com/Passenger0522) · [原帖](https://x.com/Passenger0522/status/2097594649846444370)
+- **[马克杯局部改色/改价：编辑精度实测](https://x.com/taku41477996/status/2097652949560480117)** — @taku41477996：Web 版连续编辑 vs Image-2，附文章。
 
 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
 
-- **先锁世界观再 Seedance：暗黑 ARPG 一镜成片** — 银发+青铜半面甲+青绿斗篷+火山废墟，用 Image 2.5 钉死视觉身份，再丢 Seedance 2.5 打成电影感战斗镜头。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099434423884390583)
+- **[10 条 Control / Astra 向 Prompt](https://x.com/vinsonleow/status/2097592608583471184)** — @vinsonleow：控制向提示合集，控构图、控风格。
 
-- **Nokia 旧照手绘叠层：白线日记风改图** — 十几年前 N82 原图，2.5 加手绘描边+繁中旁白+爱心蒸汽。旅行/生活照「时髦随性」一层滤镜配方。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099429070723551484)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
-在圖片上方加上一層手繪疊加。最終成品要時髦、放鬆、毫不費力地隨性。繪製規則：用細細的手繪線條，像是用白色筆畫上去。保持單筆勾勒風格：粗糙、略帶不均。沿著物件外緣加上描邊。可用箭頭或虛線引導視線。文字規則：使用手寫繁体中文。保持簡短，像輕鬆的內心獨白。語氣：像日記、簡短、以情緒為主。旁白要正面又甜甜的。裝飾：適度加入蒸氣、閃光、愛心、小小表情臉。不要太滿；留一些「留白」。
-```
+The biggest change with ChatGPT Images 2.5 isn’t quality.
+It’s control.
 
-  </details>
+10 Images 2.5 × Astra prompts that change how you generate graphics (full prompts included) ↓
 
-- **日系日常 STYLE 锁：钢笔淡彩+小红点** — 当代日式 slice-of-life 完整 STYLE 块：笔触、配色、避雷清单都写死，场景槽位可换。杂志风插画母版。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2099417903858843997)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+1. The multi-reference merge.
+“Image 1 = identity. Image 2 = clothing. Image 3 = environment. Image 4 = composition. Use each only for its assigned role. Combine into one coherent photorealistic scene.”
 
-```
-Create a delicate contemporary Japanese slice-of-life illustration showing a quiet, cozy everyday moment.
+2. Lock the master.
+“This image is the approved master. Treat every visible attribute as locked unless I explicitly name it. For future edits, change only the requested variable and preserve everything else.”
 
-STYLE
+3. Surgical edit.
+“Change ONLY [ELEMENT/REGION]. Match existing anatomy, materials, lighting, and perspective. Do not modify anything else.”
 
-Hand-drawn pen-and-ink artwork with fine expressive lines, naturally imperfect contours, subtle watercolor washes, visible paper texture, soft edges, and generous negative space. Blend Japanese minimalism with the charm of an independent sketchbook, café magazine, or modern lifestyle art book. Keep the artwork elegant, airy, tactile, and slightly unfinished.
+4. Product → full campaign.
+“Treat image 1 as the immutable product reference. Preserve exact geometry, materials, colors, and branding. Place it in [SCENE]. Change only environment, lighting, and camera.”
 
-CHARACTERS
+5. Controlled A/B testing.
+“Create [N] variants of this creative. Preserve product, composition, typography, and lighting. Change ONLY [VARIABLE]. Everything else stays locked.”
 
-Two young adults with simplified facial features, subtle expressions, relaxed body language, and natural interaction. Dress them in casual oversized contemporary clothing. Avoid realistic facial rendering; communicate personality through posture, gestures, and eye direction.
+6. Reformat without cropping.
+“Recompose this exact image for [ASPECT RATIO]. Do not simply crop it. Preserve the subject and visual hierarchy while intelligently extending and rearranging the scene.”
 
-ENVIRONMENT
+7. UI → campaign asset.
+“Treat the uploaded UI as locked artwork. Do not redesign it. Place it accurately inside a premium [DEVICE/CAMPAIGN] scene with realistic lighting, reflections, and negative space.”
 
-A warm, lived-in interior such as a café, apartment, studio, bookstore, kitchen corner, or creative workspace. Include selective details like wooden furniture, coffee cups, books, shelves, plants, windows, ceramics, stationery, and small everyday objects. Keep the setting uncluttered.
+8. Artwork → merch.
+“Treat image 1 as the exact artwork. Preserve composition and colors. Apply it realistically to [PRODUCT], following folds, texture, and print behavior. Do not redesign it.”
 
-COMPOSITION
+9. Storyboard continuity.
+“Treat this image as the canonical character, wardrobe, and location. Generate the next shot: [SHOT]. Change only camera, framing, and pose. Preserve everything else.”
 
-Full-body or three-quarter view at eye level. Seat the characters naturally facing one another. Use a balanced asymmetrical composition with generous clean space and an editorial framing. The relationship between the characters should be the main storytelling element.
-
-COLORS
-
-Use only muted, desaturated tones: warm cream, ivory, dusty blue, soft beige, light gray, sage green, natural brown, and off-white. Add one small red accent such as a mug, shoe, sock, notebook, or object.
-
-LIGHTING
-
-Soft natural daylight through a window with gentle ambient illumination and minimal shadows. Create a peaceful, warm, nostalgic atmosphere without dramatic lighting.
-
-RENDERING
-
-Sparse detail, delicate watercolor fills within fine ink outlines, subtle tonal variation, visible paper grain, and authentic hand-drawn imperfections. Avoid overly polished digital rendering.
-
-AVOID
-
-Anime, manga panels, cel shading, photorealism, hyperrealism, 3D rendering, glossy surfaces, vibrant colors, cinematic effects, heavy outlines, harsh shadows, and cluttered backgrounds.
-
-SCENE
-
-[Scene Description]
-
-The final image should feel like a premium contemporary Japanese lifestyle illustration-quiet, intimate, nostalgic, and beautifully ordinary, with the warmth of a carefully observed sketchbook moment.
+10. E-commerce cleanup.
+“Preserve the product exactly. Remove the environment and isolate it on [BACKGROUND/TRANSPARENT]. Repair only edge details for a clean catalog image. Do not alter color, branding, or proportions.”
 ```
 
   </details>
 
-- **赛博编舞表 → MiniMax H3：静帧变整段舞** — Image 2.5 出 cyberpunk dance pose sheet，再接 MiniMax H3 拉成连续编舞。产品内容/投放短视频的静转动管线。 [@aaliya_va](https://x.com/aaliya_va) · [原帖](https://x.com/aaliya_va/status/2099405356300726410)
+- **[16 姿态编舞表 → Seedance 连续舞：先锁关键帧](https://x.com/gptproto/status/2099356107605180871)** — @gptproto：GPT Image 2.5 出 16-pose choreography sheet，再丢 Seedance 2.5。关键姿态当地标，过渡更稳、少 AI 鬼畜。
 
-- **GTA 爷爷分镜：Image 2.5×Seedance 生日任务片** — 六格电影分镜锁同一位台北大爷：邮箱邀请→翻墙→屋顶→跨楼跳→破窗送礼。Image 2.5 钉角色再 Seedance 成片，动作喜剧分镜母版。 [@feesyiam](https://x.com/feesyiam) · [原帖](https://x.com/feesyiam/status/2099401891654615283)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[2.5 分镜 → Seedance 皮克斯片开源工作流](https://x.com/EHuanglu/status/2098411370815643837)** — @EHuanglu：任意想法先出细拆 storyboard，再丢 Seedance 2.5 成皮克斯级镜头序列。叙事广告/短片管线直接抄，原帖附开源 workflow。
+
+- **[2.5 插画 → Blender 可运镜 3D](https://x.com/adilinthewild/status/2098245333180723513)** — @adilinthewild：Image 2.5 插画经 Higgsfield 插件进 Blender，保风格纹理还能运镜改机位。平面资产升级空间场景的捷径。
+
+- **[2.5 静帧 + Seedance：影院破屏巨鲸几乎真感](https://x.com/renoiseai/status/2098361198173651328)** — @renoiseai：Image 2.5 定主体，Seedance 接 handheld POV 破屏路径。广告级「假真感」时间线，配方在回复里。
+
+  <details><summary>Prompt</summary>
+
+```
+Photorealistic live-action smartphone footage in a real dark movie theater; handheld seated POV, natural motion blur, red upholstered seats, screen-motivated light and realistic skin tones. Awe and playful surprise. Avoid animation, game rendering, subtitles, added logos, deformed anatomy, and sudden changes of audience identity.
+
+SOURCE REFERENCE: image1 controls the auditorium, audience arrangement, timing, handheld camera path, composition, transition rhythm, screen-breakout effect, overhead passage and reaction beats. Rebuild the source action smoothly over the requested duration. Keep the auditorium and nearby spectators consistent throughout. The source spaceship is replaced completely.
+
+SUBJECT REFERENCE: image2 controls the blue-gray giant whale's appearance, mottled skin, head, long pectoral fins, belly grooves and tail. Use this image for the creature only; the theater remains a dry indoor auditorium.  0-2 seconds: Start beside the nearby seated female spectator holding her drink, matching the source composition. The handheld camera turns toward the cinema screen past rows of red seats. 2-4 seconds: On the screen, show dark blue open ocean with the reference whale approaching head-first from depth. Screen glow falls naturally across the spectators. 4-9 seconds: The same whale seamlessly crosses the screen boundary into the auditorium and glides above the audience along the source spaceship's path. Its near pectoral fin and grooved belly pass overhead while the camera tilts up to follow. The tail slowly sweeps up and down; the body moves with weight and inertia. Keep the screen behind it visible briefly so the spatial illusion is readable. No flooding or water filling the theater. 9-12 seconds: Follow the source camera back toward the nearby spectator. She ducks slightly, then looks upward with wide eyes, still holding the same drink cup. Finish with her amazed reaction as the frame holds steady.
+
+CONTINUITY: Keep the same nearby spectators, clothing, drink cup, red seats and auditorium geometry from beginning to end. The creature is always one coherent body at a consistent scale. Preserve the original camera direction and the ordered setup, approach, overhead passage and reaction beats.
+
+AUDIO: Generate subtle theater room tone, a synchronized rush of air and nonverbal audience gasps. No spoken dialogue, narration, lyrics, or background music. These are newly designed sounds, not a reconstruction of unverified source audio.
+```
+
+  </details>
+
+- **[2D→Image 2.5→hi3d→Three.js：两小时可逛 3D](https://x.com/Motion_Viz/status/2098324667287359560)** — @Motion_Viz：概念渲染进 Astra/Image 2.5 定光影材质，hi3d 出干净 mesh，再 Flora MCP + Julius 交浏览器。出图秀升级成可交付交互环境。
+
+- **[30 秒短片流水线：Flare→PixVerse→MiniMax](https://x.com/lukmanfebrianto/status/2097874955488972897)** — @lukmanfebrianto：Flare 出图 → PixVerse Canvas → MiniMax 视频 → ElevenMusic，一人团队概念片现成配方。
+
+- **[3D RPG 打光模板](https://x.com/underwoodxie96/status/2097587863139537262)** — @underwoodxie96：游戏感灯光与材质描述，可抄进资产管线。
+
+  <details><summary>Prompt</summary>
+
+```
+Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective.  On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen.  The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.
+```
+
+  </details>
+
+- **[Astra 写分镜 + Sunburst 出图：同界面一条链](https://x.com/zeng_wt/status/2099392855982723213)** — @zeng_wt：同一工具里先让 Astra 写分镜提示，再切 GPT 2.5 Sunburst 出静帧，不用跳平台。短片/广告前期分镜管线可抄。
+
+- **[Astra×Image2.5 拼贴流水线](https://x.com/higgsfield_ai/status/2097860770210152638)** — @higgsfield_ai：逐片生成 → PS 拼 → AE 动起来；社媒拼贴 / 情绪板类内容批产。
+
+- **[Blender 建模 → Sunburst 精修渲染](https://x.com/Banyu_Biroeee/status/2098308242279727175)** — @Banyu_Biroeee：Minimax/Blender 出三维结构，再丢 Sunburst 提质。控形归建模、皮相归 2.5——3D×图像的正经分工。
+
+- **[Blueprint Racer：Codex+Godot+Blender+Sunburst 贴图](https://x.com/Parastashvilii/status/2099371368710037793)** — @Parastashvilii：一人团队赛车：Godot 引擎、Blender 模、GPT Image 2.5 Sunburst 出图与贴图，Codex 写测代码。游戏资产里 Sunburst 怎么嵌进管线。
+
+- **[Flare 把天折起来：超写实天空折叠构图](https://x.com/ZephyraLeigh/status/2098381709050097920)** — @ZephyraLeigh：几张「天空折叠」光影尺度很冲。要氛围海报、不想写长 prompt 时，先偷构图再补细节。
+
+- **[Flare 故事板 → PixVerse Canvas 三页漫画](https://x.com/lukmanfebrianto/status/2098381056172847326)** — @lukmanfebrianto：同一角色设定表：写实分镜跑视频，再丢进 Flare 出漫画风，PS 加字。一条资产两套交付，内容团队该偷。
+
+- **[Flare 车×建筑隐喻海报：路长成了 Camry](https://x.com/Diplomeme/status/2098299916166873371)** — @Diplomeme：「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。
+
+- **[GTA 爷爷分镜：Image 2.5×Seedance 生日任务片](https://x.com/feesyiam/status/2099401891654615283)** — @feesyiam：六格电影分镜锁同一位台北大爷：邮箱邀请→翻墙→屋顶→跨楼跳→破窗送礼。Image 2.5 钉角色再 Seedance 成片，动作喜剧分镜母版。
+
+  <details><summary>Prompt</summary>
 
 ```
 Create a 6-panel cinematic storyboard for a 30-second action-comedy video, presented as a professional film storyboard/contact sheet. Use a photorealistic open-world video-game aesthetic inspired by modern AAA game engines, with realistic character rendering, detailed environments, cinematic lighting, physically believable materials, dramatic camera work, and subtle game HUD elements.
@@ -3751,57 +3865,11 @@ Avoid cartoon styling, anime aesthetics, exaggerated body proportions, character
 
   </details>
 
-- **Astra 写分镜 + Sunburst 出图：同界面一条链** — 同一工具里先让 Astra 写分镜提示，再切 GPT 2.5 Sunburst 出静帧，不用跳平台。短片/广告前期分镜管线可抄。 [@zeng_wt](https://x.com/zeng_wt) · [原帖](https://x.com/zeng_wt/status/2099392855982723213)
+- **[Image 2.5 + Seedance 写实视频工作流](https://x.com/abxxai/status/2097698694296686623)** — @abxxai：拆解+提示词全摊开：写实 AI 视频不是一键出片，种草长文/短视频可直接抄流程。
 
-- **角色表+场景板钉死：Seedance 最多 50 参考** — 先钉角色表与 location plate，再写戏；Seedance 2.5 可吃到约 50 张参考。写实多角戏的防漂配方。 [@kayforkind](https://x.com/kayforkind) · [原帖](https://x.com/kayforkind/status/2099391447128518810)
+- **[Images 2.5 九宫格 → Gemini 10 秒游戏 CM](https://x.com/uniyume/status/2098379926642831769)** — @uniyume：停动猫头鹰咖啡店九格静帧，再丢 Gemini 出 10 秒 CM。游戏预告两步走，提示词在回复。
 
-- **InVideo 拆帧 → Image 2.5 逐帧 rotoscope** — 片子丢进 InVideo 拆帧，代理按风格用 Image 2.5 重绘每帧，仍可逐帧改。定格/转绘从月级压到下午级。 [@ohneisserdemy](https://x.com/ohneisserdemy) · [原帖](https://x.com/ohneisserdemy/status/2099390701582598195)
-
-- **Sunburst 4K 纸雕奎师那：金线+卷纸浮雕** — 纸艺浮雕+金属金线+棚拍阴影，Sunburst 4K 细节直接拉满。节日/文创主视觉可整段复用。 [@yourPlugAI](https://x.com/yourPlugAI) · [原帖](https://x.com/yourPlugAI/status/2099386679551279392)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-A detailed 3D paper quilling bas-relief artwork of Lord Krishna playing a golden flute, shown in side profile with closed eyes, soft blue skin, a yellow tilak on his forehead, and a peaceful expression.
-
-His flowing dark hair is crafted from intricate coiled paper strips, adorned with large paper-quilled peacock feathers in vibrant teal, yellow, and orange, paired with a beaded gold headband. His hands softly hold the wooden flute while a small stylized blue paper peacock perches near the end.
-
-Richly layered paper swirls in vibrant orange, yellow, red, and blue cascade around his shoulders. Clean off-white background with subtle embossed white paper swirl patterns and dramatic studio shadows. High-detail paper sculpture aesthetic, 3D papercraft depth.
-```
-
-  </details>
-
-- **品牌人格灌进城市：换输入就长成街景广告** — 套用 mmmiyama 杂志广告配方，把品牌人格塞进东京蓝调街景（人行天桥 + 巨 Logo）。营销向：同一骨架换品牌词，城市视觉秒站队。 [@kraqvoid](https://x.com/kraqvoid) · [原帖](https://x.com/kraqvoid/status/2099375310747926862)
-
-- **Blueprint Racer：Codex+Godot+Blender+Sunburst 贴图** — 一人团队赛车：Godot 引擎、Blender 模、GPT Image 2.5 Sunburst 出图与贴图，Codex 写测代码。游戏资产里 Sunburst 怎么嵌进管线。 [@Parastashvilii](https://x.com/Parastashvilii) · [原帖](https://x.com/Parastashvilii/status/2099371368710037793)
-
-- **同角色换装过场：Image 2.5 静帧 → Seedance 2.5** — 休闲→校服→学院正装，画外换装、人设不漂。先用 GPT Image 2.5 锁静帧，再 Seedance 串成一条概念片——UGC/穿搭广告的省心管线。 [@RXwhale](https://x.com/RXwhale) · [原帖](https://x.com/RXwhale/status/2099367352676864223)
-
-- **16 姿态编舞表 → Seedance 连续舞：先锁关键帧** — GPT Image 2.5 出 16-pose choreography sheet，再丢 Seedance 2.5。关键姿态当地标，过渡更稳、少 AI 鬼畜。 [@gptproto](https://x.com/gptproto) · [原帖](https://x.com/gptproto/status/2099356107605180871)
-
-- **整集角色表 × Image 2.5：Seedance 2.5 连载短剧** — THA TRENCHEZ Ep.04：每镜、每人设、每场景都按 Seedance 2.5 建，顺手测 Image 2.5。连载短剧资产管线可对标。 [@BGriffinCreator](https://x.com/BGriffinCreator) · [原帖](https://x.com/BGriffinCreator/status/2099352480119398736)
-
-- **TV 商业广告管线：Image 2.5 静帧 + Seedance 分镜 prompt** — 汉堡 TVC 向：先出 4:5 静帧构图，再接 18 秒 9:16 Seedance 广告 prompt。投放素材双端配方都摊开。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2099348903699362138)
-
-- **产品页 → 40 张静态广告：Astra 读品牌 + Image 2.5 赶量** — 一页产品详情进，Astra 写文案定角度，Image 2.5 当天吐 40 张成品静态。一人营销队核按钮。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2099293802813182089)
-
-- **品牌 30 秒广告管线：双参考 × Image 2.5 × Seedance** — 两张自定义参考 + GPT Image 2.5 + Seedance 2.5；完整 workflow、选型与视频 prompt。UGC/品牌短片可复用。 [@itsphotogptai](https://x.com/itsphotogptai) · [原帖](https://x.com/itsphotogptai/status/2099232072980484262)
-
-- **UGC 广告全流程：Image 2.5 + Seedance + 六视角角色表** — 照片→六视角角色表，外加 Image 2.5×Seedance 全套 prompt。一人团队假用户真广告流水线。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2098426534025634085)
-
-- **可换角广告模板：角色锁 + 海报锁，城市变身即插即用** — Seedance 2.5 广告配方：@[image1] 锁角色、@[image2] 锁海报，城市/变身可换槽。一人团队产品概念片骨架。 [@Iancu_ai](https://x.com/Iancu_ai) · [原帖](https://x.com/Iancu_ai/status/2098420840073236536)
-
-- **2.5 分镜 → Seedance 皮克斯片开源工作流** — 任意想法先出细拆 storyboard，再丢 Seedance 2.5 成皮克斯级镜头序列。叙事广告/短片管线直接抄，原帖附开源 workflow。 [@EHuanglu](https://x.com/EHuanglu) · [原帖](https://x.com/EHuanglu/status/2098411370815643837)
-
-- **爱因斯坦 3D：Images 2.5 → Tripo → Astra 管线** — 静帧出人设 → Tripo 几分钟成模 → GPT-6 Astra High 绑骨动画。概念角色进可动 3D 的最短路径演示。 [@SimonasLTU1](https://x.com/SimonasLTU1) · [原帖](https://x.com/SimonasLTU1/status/2098405779912978525)
-
-- **Flare 把天折起来：超写实天空折叠构图** — 几张「天空折叠」光影尺度很冲。要氛围海报、不想写长 prompt 时，先偷构图再补细节。 [@ZephyraLeigh](https://x.com/ZephyraLeigh) · [原帖](https://x.com/ZephyraLeigh/status/2098381709050097920)
-
-- **Flare 故事板 → PixVerse Canvas 三页漫画** — 同一角色设定表：写实分镜跑视频，再丢进 Flare 出漫画风，PS 加字。一条资产两套交付，内容团队该偷。 [@lukmanfebrianto](https://x.com/lukmanfebrianto) · [原帖](https://x.com/lukmanfebrianto/status/2098381056172847326)
-
-- **Images 2.5 九宫格 → Gemini 10 秒游戏 CM** — 停动猫头鹰咖啡店九格静帧，再丢 Gemini 出 10 秒 CM。游戏预告两步走，提示词在回复。 [@uniyume](https://x.com/uniyume) · [原帖](https://x.com/uniyume/status/2098379926642831769)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 架空的喫茶店経営ゲーム「月灯喫茶」。
@@ -3826,35 +3894,9 @@ Richly layered paper swirls in vibrant orange, yellow, red, and blue cascade aro
 
   </details>
 
-- **2.5 静帧 + Seedance：影院破屏巨鲸几乎真感** — Image 2.5 定主体，Seedance 接 handheld POV 破屏路径。广告级「假真感」时间线，配方在回复里。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2098361198173651328)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[Instant 邪门一句话：诡异不安照片](https://x.com/dtzy_88/status/2098290580581486858)** — @dtzy_88：中文短 prompt + Instant：禁止提问、禁止解释文字，专出「暗网硬盘感」。玩恐怖/异质审美的人收藏这句就够。
 
-```
-Photorealistic live-action smartphone footage in a real dark movie theater; handheld seated POV, natural motion blur, red upholstered seats, screen-motivated light and realistic skin tones. Awe and playful surprise. Avoid animation, game rendering, subtitles, added logos, deformed anatomy, and sudden changes of audience identity.
-
-SOURCE REFERENCE: image1 controls the auditorium, audience arrangement, timing, handheld camera path, composition, transition rhythm, screen-breakout effect, overhead passage and reaction beats. Rebuild the source action smoothly over the requested duration. Keep the auditorium and nearby spectators consistent throughout. The source spaceship is replaced completely.
-
-SUBJECT REFERENCE: image2 controls the blue-gray giant whale's appearance, mottled skin, head, long pectoral fins, belly grooves and tail. Use this image for the creature only; the theater remains a dry indoor auditorium.  0-2 seconds: Start beside the nearby seated female spectator holding her drink, matching the source composition. The handheld camera turns toward the cinema screen past rows of red seats. 2-4 seconds: On the screen, show dark blue open ocean with the reference whale approaching head-first from depth. Screen glow falls naturally across the spectators. 4-9 seconds: The same whale seamlessly crosses the screen boundary into the auditorium and glides above the audience along the source spaceship's path. Its near pectoral fin and grooved belly pass overhead while the camera tilts up to follow. The tail slowly sweeps up and down; the body moves with weight and inertia. Keep the screen behind it visible briefly so the spatial illusion is readable. No flooding or water filling the theater. 9-12 seconds: Follow the source camera back toward the nearby spectator. She ducks slightly, then looks upward with wide eyes, still holding the same drink cup. Finish with her amazed reaction as the frame holds steady.
-
-CONTINUITY: Keep the same nearby spectators, clothing, drink cup, red seats and auditorium geometry from beginning to end. The creature is always one coherent body at a consistent scale. Preserve the original camera direction and the ordered setup, approach, overhead passage and reaction beats.
-
-AUDIO: Generate subtle theater room tone, a synchronized rush of air and nonverbal audience gasps. No spoken dialogue, narration, lyrics, or background music. These are newly designed sounds, not a reconstruction of unverified source audio.
-```
-
-  </details>
-
-- **指定「3D 游戏图」：提质更好出味** — 同样提质，写清 3D 游戏画面风格，细节与材质更稳。短指令，大差别。 [@aruomoteomote](https://x.com/aruomoteomote) · [原帖](https://x.com/aruomoteomote/status/2098346705456656668)
-
-- **2D→Image 2.5→hi3d→Three.js：两小时可逛 3D** — 概念渲染进 Astra/Image 2.5 定光影材质，hi3d 出干净 mesh，再 Flora MCP + Julius 交浏览器。出图秀升级成可交付交互环境。 [@Motion_Viz](https://x.com/Motion_Viz) · [原帖](https://x.com/Motion_Viz/status/2098324667287359560)
-
-- **Blender 建模 → Sunburst 精修渲染** — Minimax/Blender 出三维结构，再丢 Sunburst 提质。控形归建模、皮相归 2.5——3D×图像的正经分工。 [@Banyu_Biroeee](https://x.com/Banyu_Biroeee) · [原帖](https://x.com/Banyu_Biroeee/status/2098308242279727175)
-
-- **Flare 车×建筑隐喻海报：路长成了 Camry** — 「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098299916166873371) · [playbook](https://x.com/Diplomeme/status/2098299968260067639)
-
-- **Instant 邪门一句话：诡异不安照片** — 中文短 prompt + Instant：禁止提问、禁止解释文字，专出「暗网硬盘感」。玩恐怖/异质审美的人收藏这句就够。 [@dtzy_88](https://x.com/dtzy_88) · [原帖](https://x.com/dtzy_88/status/2098290580581486858)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 把照片做得极其诡异且令人不安！不要提问，不要有任何解释性文字
@@ -3862,76 +3904,67 @@ AUDIO: Generate subtle theater room tone, a synchronized rush of air and nonverb
 
   </details>
 
-- **2.5 插画 → Blender 可运镜 3D** — Image 2.5 插画经 Higgsfield 插件进 Blender，保风格纹理还能运镜改机位。平面资产升级空间场景的捷径。 [@adilinthewild](https://x.com/adilinthewild) · [原帖](https://x.com/adilinthewild/status/2098245333180723513)
+- **[InVideo 拆帧 → Image 2.5 逐帧 rotoscope](https://x.com/ohneisserdemy/status/2099390701582598195)** — @ohneisserdemy：片子丢进 InVideo 拆帧，代理按风格用 Image 2.5 重绘每帧，仍可逐帧改。定格/转绘从月级压到下午级。
 
-- **品牌 DNA × Flare/Sunburst：1985 上线脑洞** — 先吃进 BrandKit，再问「如果 BrandGen 1985 年上线会怎样」——品牌一致营销图的正确打开方式，不是单图 prompt。 [@BrandGen_AI](https://x.com/BrandGen_AI) · [原帖](https://x.com/BrandGen_AI/status/2098034801265824087)
+- **[Leaf Dancer 纸艺叶裙 9:16](https://x.com/unrealpixels/status/2097564822984626347)** — @unrealpixels：植物纸艺舞女竖版，完整一句 prompt。
 
-- **国家地标拼成 3D 微缩地图（可换国家）** — 可替换 [COUNTRY] 的模板 prompt：国界用地标拼成微缩模型。旅游/文旅 KV 秒开脑洞。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2097996229582147939)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
-Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other recognizable elements so their silhouettes collectively create the accurate outline of the country. Keep the interior mostly clean and minimal, with [CITY] represented by its signature landmark at the correct location. Use layered sculpted forms, tiny architectural details, soft shadows, handcrafted textures, warm ivory background, and elegant studio lighting. Premium collectible travel-diorama aesthetic, playful but sophisticated, highly recognizable. Add small refined typography: “[COUNTRY]” and “[CITY] • [FAMOUS FOR]”.
-```
+Leaf Dancer Beneath a Paper Parasol | GPT Image 2.5
 
-  </details>
-
-- **奢侈品布料动物 2×2** — 短 prompt：按时尚屋签名面料重绘动物网格（16:9）。创意广告脑暴与品牌联名视觉很香。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2097981153760116975)
-
-- **30 秒短片流水线：Flare→PixVerse→MiniMax** — Flare 出图 → PixVerse Canvas → MiniMax 视频 → ElevenMusic，一人团队概念片现成配方。 [@lukmanfebrianto](https://x.com/lukmanfebrianto) · [原帖](https://x.com/lukmanfebrianto/status/2097874955488972897)
-
-- **手办经典测图** — 每出新模型必测的 1/7 手办桌面场景：透明底座 + 屏上 ZBrush + BANDAI 包装盒。2.5 直出质感直接能当选品样张。 [@cnyzgkc](https://x.com/cnyzgkc) · [原帖](https://x.com/cnyzgkc/status/2097868249392390473)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a reaalistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the ZBrush modeling process of the figure. Next to the computer screen, place a BANDAI-style toy packaging box printed with the original artwork.
+Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves with delicate veins and tiny ivory blossoms. The full parasol occupies the upper right and the sweeping leaf train flows to the lower left, framed with breathing room. Soft directional light reveals raised paper edges and delicate contact shadows.
 ```
 
   </details>
 
-- **Astra×Image2.5 拼贴流水线** — 逐片生成 → PS 拼 → AE 动起来；社媒拼贴 / 情绪板类内容批产。 [@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2097860770210152638)
+- **[Nokia 旧照手绘叠层：白线日记风改图](https://x.com/DeepBlueX0/status/2099429070723551484)** — @DeepBlueX0：十几年前 N82 原图，2.5 加手绘描边+繁中旁白+爱心蒸汽。旅行/生活照「时髦随性」一层滤镜配方。
 
-- **超现实写实 one-liner** — 一句神 prompt：最写实地画最超现实的东西。Sunburst + Firefly Boards 直出，灵感测图必备。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2097860435366048106)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
-create the most realistic possible image of the most surreal thing you can imagine
+在圖片上方加上一層手繪疊加。最終成品要時髦、放鬆、毫不費力地隨性。繪製規則：用細細的手繪線條，像是用白色筆畫上去。保持單筆勾勒風格：粗糙、略帶不均。沿著物件外緣加上描邊。可用箭頭或虛線引導視線。文字規則：使用手寫繁体中文。保持簡短，像輕鬆的內心獨白。語氣：像日記、簡短、以情緒為主。旁白要正面又甜甜的。裝飾：適度加入蒸氣、閃光、愛心、小小表情臉。不要太滿；留一些「留白」。
 ```
 
   </details>
 
-- **橘子微缩小人** — 剥开的橘子变成透光穹顶洞穴，2cm 小人住进果肉。透射光 + Vision3 胶片逻辑，微缩场景天花板。 [@JohnnyWang8802](https://x.com/JohnnyWang8802) · [原帖](https://x.com/JohnnyWang8802/status/2097800514633429315)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[Pinterest → /detailed-image-2-text-prompt](https://x.com/sven_ai/status/2097651464093282720)** — @sven_ai：参考图反推提示词流程。
+
+  <details><summary>Prompt</summary>
 
 ```
-Macro cinematic photography inside a peeled tangerine resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.
-Three figures, each about two centimeters tall, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.
-A single low-angle sun is positioned behind the fruit and is the only light source, producing true transmitted light through the citrus flesh. The orange brightness of the dome must come from light physically passing through the fruit itself, not from any artificial glow effect. Individual juice vesicles illuminate one by one in transmission, while thicker pith appears as darker veins. The cave floor is illuminated only by this transmitted light. Outside the cave entrance is completely black. No fill light.
-Anamorphic 2.39:1, anamorphic lens with macro adapter, f/4. Sparse defocused light points outside the cave appear as vertically oval bokeh with subtle horizontal anamorphic stretch. Deep focus, focus stacked.
-Kodak Vision3 500T motion picture negative, tungsten white balance, warm saturated transmitted orange highlights with deep cyan shadows. Black Pro-Mist 1/4. Strong transmitted-light edges along the thinnest parts of the fruit show visible red halation.
-Overall exposure reduced by one stop. The darkness outside the cave remains truly black. Fine film grain, more visible in the shadows. No digital sharpening, no HDR, no orange-and-teal grading, no lens-flare effects, no artificial glow, no CGI plastic texture.
+/detailed-image-2-text-prompt
 ```
 
   </details>
 
-- **枫叶点水 Prompt1** — 半透明金叶点触暗水面，脉纹里开粉花。Flare 氛围大图，竖版奇幻场景一键出片。 [@churvikv](https://x.com/churvikv) · [原帖](https://x.com/churvikv/status/2097784050660376617)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[Pinterest → 细颗粒 Prompt 配方](https://x.com/Acemation_/status/2097586179835400667)** — @Acemation_：从灵感图反推可控描述，营销素材生产线。
+
+- **[Sunburst 4K 纸雕奎师那：金线+卷纸浮雕](https://x.com/yourPlugAI/status/2099386679551279392)** — @yourPlugAI：纸艺浮雕+金属金线+棚拍阴影，Sunburst 4K 细节直接拉满。节日/文创主视觉可整段复用。
+
+  <details><summary>Prompt</summary>
 
 ```
-An enchanting and surreal digital art piece featuring a translucent, golden maple leaf hovering magically above the surface of calm, dark water. The leaf glows from within with a warm, ethereal light, its delicate veins clearly visible. Inside the translucent structure of the leaf, tiny, vibrant pink flowers and closed buds are embedded, appearing to bloom within its very veins. The tips of the leaf are edged with a sparkling, golden glitter that drifts into the air like magic dust. The leaf's stem extends downward, just touching the water's surface, creating concentric ripples that spread outward. Below the water, a reflection of the glowing leaf and stem is faintly visible. The background is a dreamy twilight forest with silhouetted pine trees against a soft, gradient sky of purple, orange, and blue. Several pink water lilies float on the dark water, adding to the serene and magical atmosphere.
+A detailed 3D paper quilling bas-relief artwork of Lord Krishna playing a golden flute, shown in side profile with closed eyes, soft blue skin, a yellow tilak on his forehead, and a peaceful expression.
+
+His flowing dark hair is crafted from intricate coiled paper strips, adorned with large paper-quilled peacock feathers in vibrant teal, yellow, and orange, paired with a beaded gold headband. His hands softly hold the wooden flute while a small stylized blue paper peacock perches near the end.
+
+Richly layered paper swirls in vibrant orange, yellow, red, and blue cascade around his shoulders. Clean off-white background with subtle embossed white paper swirl patterns and dramatic studio shadows. High-detail paper sculpture aesthetic, 3D papercraft depth.
 ```
 
   </details>
 
-- **Image 2.5 + Seedance 写实视频工作流** — 拆解+提示词全摊开：写实 AI 视频不是一键出片，种草长文/短视频可直接抄流程。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2097698694296686623)
+- **[TV 商业广告管线：Image 2.5 静帧 + Seedance 分镜 prompt](https://x.com/itsPixieVerse/status/2099348903699362138)** — @itsPixieVerse：汉堡 TVC 向：先出 4:5 静帧构图，再接 18 秒 9:16 Seedance 广告 prompt。投放素材双端配方都摊开。
 
-- **创意设计公司中文官网 9:16 长截图** — 见造官网视觉：导航到页脚完整中文界面，几何拼贴+人像。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2097652659788619894)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[UGC 广告全流程：Image 2.5 + Seedance + 六视角角色表](https://x.com/abxxai/status/2098426534025634085)** — @abxxai：照片→六视角角色表，外加 Image 2.5×Seedance 全套 prompt。一人团队假用户真广告流水线。
+
+- **[产品页 → 40 张静态广告：Astra 读品牌 + Image 2.5 赶量](https://x.com/spect3ral/status/2099293802813182089)** — @spect3ral：一页产品详情进，Astra 写文案定角度，Image 2.5 当天吐 40 张成品静态。一人营销队核按钮。
+
+- **[先锁世界观再 Seedance：暗黑 ARPG 一镜成片](https://x.com/atlas_remake/status/2099434423884390583)** — @atlas_remake：银发+青铜半面甲+青绿斗篷+火山废墟，用 Image 2.5 钉死视觉身份，再丢 Seedance 2.5 打成电影感战斗镜头。
+
+- **[创意设计公司中文官网 9:16 长截图](https://x.com/listudio/status/2097652659788619894)** — @listudio：见造官网视觉：导航到页脚完整中文界面，几何拼贴+人像。
+
+  <details><summary>Prompt</summary>
 
 ```
 #AIArt #AIgirl
@@ -3964,19 +3997,134 @@ More Prompt  ➡️ http://genvizu.com.
 
   </details>
 
-- **Pinterest → /detailed-image-2-text-prompt** — 参考图反推提示词流程。 [@sven_ai](https://x.com/sven_ai) · [原帖](https://x.com/sven_ai/status/2097651464093282720)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[可换角广告模板：角色锁 + 海报锁，城市变身即插即用](https://x.com/Iancu_ai/status/2098420840073236536)** — @Iancu_ai：Seedance 2.5 广告配方：@[image1] 锁角色、@[image2] 锁海报，城市/变身可换槽。一人团队产品概念片骨架。
+
+- **[同角色换装过场：Image 2.5 静帧 → Seedance 2.5](https://x.com/RXwhale/status/2099367352676864223)** — @RXwhale：休闲→校服→学院正装，画外换装、人设不漂。先用 GPT Image 2.5 锁静帧，再 Seedance 串成一条概念片——UGC/穿搭广告的省心管线。
+
+- **[品牌 30 秒广告管线：双参考 × Image 2.5 × Seedance](https://x.com/itsphotogptai/status/2099232072980484262)** — @itsphotogptai：两张自定义参考 + GPT Image 2.5 + Seedance 2.5；完整 workflow、选型与视频 prompt。UGC/品牌短片可复用。
+
+- **[品牌 DNA × Flare/Sunburst：1985 上线脑洞](https://x.com/BrandGen_AI/status/2098034801265824087)** — @BrandGen_AI：先吃进 BrandKit，再问「如果 BrandGen 1985 年上线会怎样」——品牌一致营销图的正确打开方式，不是单图 prompt。
+
+- **[品牌人格灌进城市：换输入就长成街景广告](https://x.com/kraqvoid/status/2099375310747926862)** — @kraqvoid：套用 mmmiyama 杂志广告配方，把品牌人格塞进东京蓝调街景（人行天桥 + 巨 Logo）。营销向：同一骨架换品牌词，城市视觉秒站队。
+
+- **[国家地标拼成 3D 微缩地图（可换国家）](https://x.com/Naiknelofar788/status/2097996229582147939)** — @Naiknelofar788：可替换 [COUNTRY] 的模板 prompt：国界用地标拼成微缩模型。旅游/文旅 KV 秒开脑洞。
+
+  <details><summary>Prompt</summary>
 
 ```
-/detailed-image-2-text-prompt
+Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its most iconic landmarks and cultural symbols. Arrange famous buildings, monuments, bridges, mountains, temples, towers, traditional architecture, trees, and other recognizable elements so their silhouettes collectively create the accurate outline of the country. Keep the interior mostly clean and minimal, with [CITY] represented by its signature landmark at the correct location. Use layered sculpted forms, tiny architectural details, soft shadows, handcrafted textures, warm ivory background, and elegant studio lighting. Premium collectible travel-diorama aesthetic, playful but sophisticated, highly recognizable. Add small refined typography: “[COUNTRY]” and “[CITY] • [FAMOUS FOR]”.
 ```
 
   </details>
 
-- **等距国家微缩模型 diorama（可换国家）** — 2.5 vs 2 对照；回复里给出完整 isometric prompt。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2097651231569399814)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[奢侈品布料动物 2×2](https://x.com/Gdgtify/status/2097981153760116975)** — @Gdgtify：短 prompt：按时尚屋签名面料重绘动物网格（16:9）。创意广告脑暴与品牌联名视觉很香。
+
+- **[手办经典测图](https://x.com/cnyzgkc/status/2097868249392390473)** — @cnyzgkc：每出新模型必测的 1/7 手办桌面场景：透明底座 + 屏上 ZBrush + BANDAI 包装盒。2.5 直出质感直接能当选品样张。
+
+  <details><summary>Prompt</summary>
+
+```
+Use the model to create a 1/7 scale commercialized figure of the character in the illustration, in a reaalistic style and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the ZBrush modeling process of the figure. Next to the computer screen, place a BANDAI-style toy packaging box printed with the original artwork.
+```
+
+  </details>
+
+- **[手机实拍 + 七轮改房仍一致](https://x.com/exploraX_/status/2097637713784476152)** — @exploraX_：室内场景多轮编辑，家具与透视不崩。
+
+- **[指定「3D 游戏图」：提质更好出味](https://x.com/aruomoteomote/status/2098346705456656668)** — @aruomoteomote：同样提质，写清 3D 游戏画面风格，细节与材质更稳。短指令，大差别。
+
+- **[整集角色表 × Image 2.5：Seedance 2.5 连载短剧](https://x.com/BGriffinCreator/status/2099352480119398736)** — @BGriffinCreator：THA TRENCHEZ Ep.04：每镜、每人设、每场景都按 Seedance 2.5 建，顺手测 Image 2.5。连载短剧资产管线可对标。
+
+- **[日系日常 STYLE 锁：钢笔淡彩+小红点](https://x.com/Goodmanprotocol/status/2099417903858843997)** — @Goodmanprotocol：当代日式 slice-of-life 完整 STYLE 块：笔触、配色、避雷清单都写死，场景槽位可换。杂志风插画母版。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a delicate contemporary Japanese slice-of-life illustration showing a quiet, cozy everyday moment.
+
+STYLE
+
+Hand-drawn pen-and-ink artwork with fine expressive lines, naturally imperfect contours, subtle watercolor washes, visible paper texture, soft edges, and generous negative space. Blend Japanese minimalism with the charm of an independent sketchbook, café magazine, or modern lifestyle art book. Keep the artwork elegant, airy, tactile, and slightly unfinished.
+
+CHARACTERS
+
+Two young adults with simplified facial features, subtle expressions, relaxed body language, and natural interaction. Dress them in casual oversized contemporary clothing. Avoid realistic facial rendering; communicate personality through posture, gestures, and eye direction.
+
+ENVIRONMENT
+
+A warm, lived-in interior such as a café, apartment, studio, bookstore, kitchen corner, or creative workspace. Include selective details like wooden furniture, coffee cups, books, shelves, plants, windows, ceramics, stationery, and small everyday objects. Keep the setting uncluttered.
+
+COMPOSITION
+
+Full-body or three-quarter view at eye level. Seat the characters naturally facing one another. Use a balanced asymmetrical composition with generous clean space and an editorial framing. The relationship between the characters should be the main storytelling element.
+
+COLORS
+
+Use only muted, desaturated tones: warm cream, ivory, dusty blue, soft beige, light gray, sage green, natural brown, and off-white. Add one small red accent such as a mug, shoe, sock, notebook, or object.
+
+LIGHTING
+
+Soft natural daylight through a window with gentle ambient illumination and minimal shadows. Create a peaceful, warm, nostalgic atmosphere without dramatic lighting.
+
+RENDERING
+
+Sparse detail, delicate watercolor fills within fine ink outlines, subtle tonal variation, visible paper grain, and authentic hand-drawn imperfections. Avoid overly polished digital rendering.
+
+AVOID
+
+Anime, manga panels, cel shading, photorealism, hyperrealism, 3D rendering, glossy surfaces, vibrant colors, cinematic effects, heavy outlines, harsh shadows, and cluttered backgrounds.
+
+SCENE
+
+[Scene Description]
+
+The final image should feel like a premium contemporary Japanese lifestyle illustration-quiet, intimate, nostalgic, and beautifully ordinary, with the warmth of a carefully observed sketchbook moment.
+```
+
+  </details>
+
+- **[枫叶点水 Prompt1](https://x.com/churvikv/status/2097784050660376617)** — @churvikv：半透明金叶点触暗水面，脉纹里开粉花。Flare 氛围大图，竖版奇幻场景一键出片。
+
+  <details><summary>Prompt</summary>
+
+```
+An enchanting and surreal digital art piece featuring a translucent, golden maple leaf hovering magically above the surface of calm, dark water. The leaf glows from within with a warm, ethereal light, its delicate veins clearly visible. Inside the translucent structure of the leaf, tiny, vibrant pink flowers and closed buds are embedded, appearing to bloom within its very veins. The tips of the leaf are edged with a sparkling, golden glitter that drifts into the air like magic dust. The leaf's stem extends downward, just touching the water's surface, creating concentric ripples that spread outward. Below the water, a reflection of the glowing leaf and stem is faintly visible. The background is a dreamy twilight forest with silhouetted pine trees against a soft, gradient sky of purple, orange, and blue. Several pink water lilies float on the dark water, adding to the serene and magical atmosphere.
+```
+
+  </details>
+
+- **[模块化美食病毒图](https://x.com/Gdgtify/status/2097620275940737326)** — @Gdgtify：可拼装的食品视觉模板，适合短视频封面。
+
+  <details><summary>Prompt</summary>
+
+```
+GPT Image 2.5. A modular prompt for food shots. It's not my favorite structure but fun experiment. 
+
+2x2 grid, 16:9, do this for 4 clever viral subjects: INPUT ::= PERSONA_SEED + CUISINE_LANE + FRAME_TYPE    TASTE_1 :: read the cuisine  - what the cooking does to the room: wok steam, flour dust, smoke curl, citrus mist  - the hero texture of this lane: pull, crackle, drip, char, lamination  - honest kitchen evidence: sauce-splashed stove, stained apron, knife mid-board  - hands tell the résumé: small burn scars, practiced grip, flour in the nail beds    TASTE_2 :: read the frame type  - POV hands = 35mm overhead-diagonal, persona's hands + forearms only, dish 60% of frame  - portrait-with-dish = 50mm, persona mid-laugh or mid-taste, dish lifted into shared focus  - tablescape = 24mm slightly high, persona reaching in from the edge, abundance sprawl    APPETITE :: physics of delicious  - steam needs backlight to exist — place the window or lamp behind the food  - glisten on fats, matte on breads, condensation on cold glass  - controlled mess: a torn edge, a drip caught mid-run; sterile plates kill hunger  - persona's reaction is the seasoning: eyes on the food, never on the camera    STAGE :: warm frame  - 4:5, shallow depth (f/2.2), warm-neutral grade, no orange oversaturation  - kitchen or table is mid-use, not styled dead  - the unforgettable feature survives the crop even in the POV hands variant    BAR :: the viewer's mouth reacts before their brain does, and the hands could plausibly have cooked this for ten years
+```
+
+  </details>
+
+- **[橘子微缩小人](https://x.com/JohnnyWang8802/status/2097800514633429315)** — @JohnnyWang8802：剥开的橘子变成透光穹顶洞穴，2cm 小人住进果肉。透射光 + Vision3 胶片逻辑，微缩场景天花板。
+
+  <details><summary>Prompt</summary>
+
+```
+Macro cinematic photography inside a peeled tangerine resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.
+Three figures, each about two centimeters tall, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.
+A single low-angle sun is positioned behind the fruit and is the only light source, producing true transmitted light through the citrus flesh. The orange brightness of the dome must come from light physically passing through the fruit itself, not from any artificial glow effect. Individual juice vesicles illuminate one by one in transmission, while thicker pith appears as darker veins. The cave floor is illuminated only by this transmitted light. Outside the cave entrance is completely black. No fill light.
+Anamorphic 2.39:1, anamorphic lens with macro adapter, f/4. Sparse defocused light points outside the cave appear as vertically oval bokeh with subtle horizontal anamorphic stretch. Deep focus, focus stacked.
+Kodak Vision3 500T motion picture negative, tungsten white balance, warm saturated transmitted orange highlights with deep cyan shadows. Black Pro-Mist 1/4. Strong transmitted-light edges along the thinnest parts of the fruit show visible red halation.
+Overall exposure reduced by one stop. The darkness outside the cave remains truly black. Fine film grain, more visible in the shadows. No digital sharpening, no HDR, no orange-and-teal grading, no lens-flare effects, no artificial glow, no CGI plastic texture.
+```
+
+  </details>
+
+- **[爱因斯坦 3D：Images 2.5 → Tripo → Astra 管线](https://x.com/SimonasLTU1/status/2098405779912978525)** — @SimonasLTU1：静帧出人设 → Tripo 几分钟成模 → GPT-6 Astra High 绑骨动画。概念角色进可动 3D 的最短路径演示。
+
+- **[等距国家微缩模型 diorama（可换国家）](https://x.com/abxxai/status/2097651231569399814)** — @abxxai：2.5 vs 2 对照；回复里给出完整 isometric prompt。
+
+  <details><summary>Prompt</summary>
 
 ```
 Prompt and images credits @TechieBySA
@@ -3998,83 +4146,16 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
 
   </details>
 
-- **手机实拍 + 七轮改房仍一致** — 室内场景多轮编辑，家具与透视不崩。 [@exploraX_](https://x.com/exploraX_) · [原帖](https://x.com/exploraX_/status/2097637713784476152)
+- **[角色表+场景板钉死：Seedance 最多 50 参考](https://x.com/kayforkind/status/2099391447128518810)** — @kayforkind：先钉角色表与 location plate，再写戏；Seedance 2.5 可吃到约 50 张参考。写实多角戏的防漂配方。
 
-- **模块化美食病毒图** — 可拼装的食品视觉模板，适合短视频封面。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2097620275940737326)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[赛博编舞表 → MiniMax H3：静帧变整段舞](https://x.com/aaliya_va/status/2099405356300726410)** — @aaliya_va：Image 2.5 出 cyberpunk dance pose sheet，再接 MiniMax H3 拉成连续编舞。产品内容/投放短视频的静转动管线。
 
-```
-GPT Image 2.5. A modular prompt for food shots. It's not my favorite structure but fun experiment. 
+- **[超现实写实 one-liner](https://x.com/icreatelife/status/2097860435366048106)** — @icreatelife：一句神 prompt：最写实地画最超现实的东西。Sunburst + Firefly Boards 直出，灵感测图必备。
 
-2x2 grid, 16:9, do this for 4 clever viral subjects: INPUT ::= PERSONA_SEED + CUISINE_LANE + FRAME_TYPE    TASTE_1 :: read the cuisine  - what the cooking does to the room: wok steam, flour dust, smoke curl, citrus mist  - the hero texture of this lane: pull, crackle, drip, char, lamination  - honest kitchen evidence: sauce-splashed stove, stained apron, knife mid-board  - hands tell the résumé: small burn scars, practiced grip, flour in the nail beds    TASTE_2 :: read the frame type  - POV hands = 35mm overhead-diagonal, persona's hands + forearms only, dish 60% of frame  - portrait-with-dish = 50mm, persona mid-laugh or mid-taste, dish lifted into shared focus  - tablescape = 24mm slightly high, persona reaching in from the edge, abundance sprawl    APPETITE :: physics of delicious  - steam needs backlight to exist — place the window or lamp behind the food  - glisten on fats, matte on breads, condensation on cold glass  - controlled mess: a torn edge, a drip caught mid-run; sterile plates kill hunger  - persona's reaction is the seasoning: eyes on the food, never on the camera    STAGE :: warm frame  - 4:5, shallow depth (f/2.2), warm-neutral grade, no orange oversaturation  - kitchen or table is mid-use, not styled dead  - the unforgettable feature survives the crop even in the POV hands variant    BAR :: the viewer's mouth reacts before their brain does, and the hands could plausibly have cooked this for ten years
-```
-
-  </details>
-
-- **10 条 Control / Astra 向 Prompt** — 控制向提示合集，控构图、控风格。 [@vinsonleow](https://x.com/vinsonleow) · [原帖](https://x.com/vinsonleow/status/2097592608583471184)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
-The biggest change with ChatGPT Images 2.5 isn’t quality.
-It’s control.
-
-10 Images 2.5 × Astra prompts that change how you generate graphics (full prompts included) ↓
-
-1. The multi-reference merge.
-“Image 1 = identity. Image 2 = clothing. Image 3 = environment. Image 4 = composition. Use each only for its assigned role. Combine into one coherent photorealistic scene.”
-
-2. Lock the master.
-“This image is the approved master. Treat every visible attribute as locked unless I explicitly name it. For future edits, change only the requested variable and preserve everything else.”
-
-3. Surgical edit.
-“Change ONLY [ELEMENT/REGION]. Match existing anatomy, materials, lighting, and perspective. Do not modify anything else.”
-
-4. Product → full campaign.
-“Treat image 1 as the immutable product reference. Preserve exact geometry, materials, colors, and branding. Place it in [SCENE]. Change only environment, lighting, and camera.”
-
-5. Controlled A/B testing.
-“Create [N] variants of this creative. Preserve product, composition, typography, and lighting. Change ONLY [VARIABLE]. Everything else stays locked.”
-
-6. Reformat without cropping.
-“Recompose this exact image for [ASPECT RATIO]. Do not simply crop it. Preserve the subject and visual hierarchy while intelligently extending and rearranging the scene.”
-
-7. UI → campaign asset.
-“Treat the uploaded UI as locked artwork. Do not redesign it. Place it accurately inside a premium [DEVICE/CAMPAIGN] scene with realistic lighting, reflections, and negative space.”
-
-8. Artwork → merch.
-“Treat image 1 as the exact artwork. Preserve composition and colors. Apply it realistically to [PRODUCT], following folds, texture, and print behavior. Do not redesign it.”
-
-9. Storyboard continuity.
-“Treat this image as the canonical character, wardrobe, and location. Generate the next shot: [SHOT]. Change only camera, framing, and pose. Preserve everything else.”
-
-10. E-commerce cleanup.
-“Preserve the product exactly. Remove the environment and isolate it on [BACKGROUND/TRANSPARENT]. Repair only edge details for a clean catalog image. Do not alter color, branding, or proportions.”
-```
-
-  </details>
-
-- **3D RPG 打光模板** — 游戏感灯光与材质描述，可抄进资产管线。 [@underwoodxie96](https://x.com/underwoodxie96) · [原帖](https://x.com/underwoodxie96/status/2097587863139537262)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective.  On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen.  The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.
-```
-
-  </details>
-
-- **Pinterest → 细颗粒 Prompt 配方** — 从灵感图反推可控描述，营销素材生产线。 [@Acemation_](https://x.com/Acemation_) · [原帖](https://x.com/Acemation_/status/2097586179835400667)
-
-- **Leaf Dancer 纸艺叶裙 9:16** — 植物纸艺舞女竖版，完整一句 prompt。 [@unrealpixels](https://x.com/unrealpixels) · [原帖](https://x.com/unrealpixels/status/2097564822984626347)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Leaf Dancer Beneath a Paper Parasol | GPT Image 2.5
-
-Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground shows a slender paper woman in profile with a black high bun and an open ivory parasol. Her long gown consists of layered golden dried leaves with delicate veins and tiny ivory blossoms. The full parasol occupies the upper right and the sweeping leaf train flows to the lower left, framed with breathing room. Soft directional light reveals raised paper edges and delicate contact shadows.
+create the most realistic possible image of the most surreal thing you can imagine
 ```
 
   </details>
@@ -4084,39 +4165,53 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 像素、精灵表与动效向玩法。
 
-- **角色→4×4 偶像舞姿表→GIF** — 像素猫示例：先锁人设再压 16 格连贯舞姿，Ima Studio 可直接拼 GIF。表情包/短动效流水线，舞姿表 prompt 可抄。 [@ImaStudio_ai](https://x.com/ImaStudio_ai) · [原帖](https://x.com/ImaStudio_ai/status/2099445897457446934)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[16-bit 犯罪短片：Flare + MiniMax 流水线](https://x.com/Danzeronero/status/2098014623803052533)** — @Danzeronero：Flare 出图 + MiniMax H3 Max 出片 + CapCut：像素风不当游戏贴图，硬做电影叙事。一人团队内容形态参考。
+
+- **[2.5 静帧 → Seedance 粤语麻将短片](https://x.com/creator_kachun/status/2098266658205004027)** — @creator_kachun：Image 2.5 出参考帧 + Seedance 2.5 配粤语旁白。噪点还在，但遵从度与审美上去了——方言短视频可抄这条管线。
+
+- **[4×4 combat sprite → 干净 GIF](https://x.com/AIReelofficial/status/2097902132682715547)** — @AIReelofficial：在 AIReel 上用 Image 2.5 把精灵表直接变成可播 GIF，prompt 在帖里。游戏素材流水线可参考。
+
+- **[4×4 Sprite Sheet](https://x.com/HitPawCreators/status/2097584582367527358)** — @HitPawCreators：一图导出精灵表，游戏原型直接用。
+
+- **[4×4 像素精灵表（prompt 在评论）](https://x.com/MUsman7808/status/2098002527170277885)** — @MUsman7808：GPT Image 2.5 出完整 sprite sheet，评论区有 prompt。游戏资产/表情包管线一眼能抄。
+
+- **[4×4像素战斗图→GIF](https://x.com/derek_wall90176/status/2097863751471157498)** — @derek_wall90176：上传角色图生成 16 帧 Sprite Sheet，拆格播放就成像素 GIF。攻击/跳跃/翻滚全包，小游戏预告与表情包一锅端。
+
+  <details><summary>Prompt</summary>
 
 ```
-Use the provided character image as the exact reference. Create a clean 4×4 pose sheet with exactly 16 full-body dance poses of the same character, arranged left to right, top to bottom. Keep the character fully consistent in every panel: same design, outfit, colors, and shading. Preserve the same pixel-art style, chibi proportions, sprite scale, outline, colors, and shading.
-Make 16 clearly different but smoothly connectable cute idol dance poses, including: neutral pose, wink, side sway, raised arm, hands-near-cheeks, walking step, slight lean, side turn, crouch, side kick, both paws raised, shy pose, back/three-quarter turn, forward kick, low diagonal lean, and final raised-paw wink pose. The whole sequence should feel like one continuous dance.
-Each panel must contain only one complete full-body character with enough margin around ears, feet, and tail. Use a plain white background with thin black grid dividers and small black numbers 1–16 in the top-left of each panel. No extra characters, extra limbs, missing parts, costume changes, hairstyle changes, props, watermark, or text other than the panel numbers.
+上传图1作为角色身份与服装的唯一参考。
+
+将图1角色转化为高质量2D像素游戏角色，生成一张正方形、4×4等分排列、共16帧的连续动作Sprite Sheet。
+
+每格尺寸完全一致。画面按从左到右、从上到下的顺序播放。
+
+严格保留角色的脸型、发型、体型、服装配色、标志性配件与武器结构。16帧使用相同的像素比例、角色尺寸、朝向和色板。
+
+角色完成一次【挥剑攻击／跳跃／翻滚／施法／扑击】动作。
+
+第1至3帧为待机与蓄力；第4至7帧为重心移动和动作展开；第8至10帧完成主要攻击与力量释放；第11至13帧表现惯性和收势；第14至16帧回到待机状态。第16帧与第1帧能够自然衔接。
+
+相邻帧只改变完成动作所需的关节、轮廓、衣摆、头发和武器位置。动作方向、受力关系和运动轨迹保持连续。
+
+所有格子保持相同机位、角色缩放、脚底基线和画面中心。角色完整显示，不裁切头部、武器、尾巴或特效。
+
+背景优先使用透明通道。透明背景不稳定时，改用统一纯色背景，方便后期抠图。不要生成场景、地面纹理、格线、编号和文字。
+
+采用清晰硬边像素、有限色板和统一像素密度。禁止模糊边缘、抗锯齿、半写实渲染、重复帧、跳帧、角色变形、服装变化、武器增减、视角切换和每格重新构图。
 ```
 
   </details>
 
-- **飞吻 4×4 序列帧：没跑过不出厂** — Line 表情包向 16 格实测入库；「爱你哦」白底 1:1 通挂，飞吻循环连贯性偏弱也写进评测。反营销滤镜的真·合集。 [@zouyanjian](https://x.com/zouyanjian) · [原帖](https://x.com/zouyanjian/status/2099422284666884445) · [repo](https://github.com/SmartStudio/baize-prompts/blob/main/prompts/image-gen/GPTImage25-Line%E8%A1%A8%E6%83%85%E5%8C%85%E5%BA%8F%E5%88%97%E5%B8%A7.md)
+- **[96 帧鹈鹕骑车定格动画](https://x.com/yunxi0623/status/2097926023069519960)** — @yunxi0623：Images 2.5 逐帧生 96 张拼成 8 秒定格。不靠视频模型也能出片，短视频选题很香。
 
-- **粘土定格 GIF：胖青蛙 DJ 一次出循环** — 24 帧塑料泥质感，金链耳机全入画，再把精灵表转 GIF。短视频贴纸 / 表情包流水线，抄走就能量产。 [@MrDasOnX](https://x.com/MrDasOnX) · [原帖](https://x.com/MrDasOnX/status/2098360111597244532)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[GIF 配方写死：1:1 · 16 帧 · 12fps](https://x.com/Voxyz_ai/status/2098063955096633467)** — @Voxyz_ai：API max+4K 出精灵表再动起来。短营销动图模板，别再猜帧数。
 
-```
-Create a 24-frame clay stop-motion loop of a chubby green frog DJing. Handmade plasticine texture, tiny gold chain, oversized black headphones, one hand on the turntable. The frog bobs its head, scratches the record, throws both arms up, spins once, and loops back. Square 1:1, solid off-white background, full character always visible, no cropped limbs/headphones/tables, no frame leakage, only a subtle horizontal ground shadow. Slightly choppy handcrafted motion, not smooth CGI.
+- **[LINE 动态贴纸全链路：2.5→Seedance→ClaudeCode](https://x.com/emi4900/status/2098346806900146176)** — @emi4900：角色图→24 姿绿幕→Seedance 动起来→ClaudeCode 转申请素材。动态贴纸从零到上架的一条龙。
 
-2) Turn sprites into GIFs.
-```
+- **[一张角色图 → 16 格 chibi 贴纸 + GIF](https://x.com/renoiseai/status/2098329229490581950)** — @renoiseai：锁发型服装→16 表情英文短 caption→白底 GIF。聊天贴纸量产管线，prompt 完整可抄。
 
-  </details>
-
-- **舞蹈分镜预测法 → Seedance 细指令成片** — Image 2.5 出舞蹈分镜用「预测法」留自由度，Seedance 再写细指令。零到一舞蹈短视频，应用面比单支舞宽。 [@FantasistaAI](https://x.com/FantasistaAI) · [原帖](https://x.com/FantasistaAI/status/2098348945562878436)
-
-- **LINE 动态贴纸全链路：2.5→Seedance→ClaudeCode** — 角色图→24 姿绿幕→Seedance 动起来→ClaudeCode 转申请素材。动态贴纸从零到上架的一条龙。 [@emi4900](https://x.com/emi4900) · [原帖](https://x.com/emi4900/status/2098346806900146176)
-
-- **一张角色图 → 16 格 chibi 贴纸 + GIF** — 锁发型服装→16 表情英文短 caption→白底 GIF。聊天贴纸量产管线，prompt 完整可抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2098329229490581950)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 Use the uploaded image as the character reference. Create a personalized set of 16 chibi reaction stickers, then export a white-background animated GIF that cycles through them.
@@ -4166,82 +4261,153 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
   </details>
 
-- **静帧 + 配音 → Seedance，换人设不重剪** — 2.5 出首帧、配音另做，丢进 Seedance 2.5 成片后再换角色——同一套剪辑不用重来。短视频人设 A/B 测的正经流水线。 [@meetshukla_](https://x.com/meetshukla_) · [原帖](https://x.com/meetshukla_/status/2098280866459861176)
+- **[任意梗图 → 5×5 像素精灵表 prompt](https://x.com/Mayz1169/status/2098049016596729942)** — @Mayz1169：把 meme / 角色图压成 5×5 sprite sheet，prompt 可抄。表情包/游戏素材量产另一条路。
 
-- **2.5 静帧 → Seedance 粤语麻将短片** — Image 2.5 出参考帧 + Seedance 2.5 配粤语旁白。噪点还在，但遵从度与审美上去了——方言短视频可抄这条管线。 [@creator_kachun](https://x.com/creator_kachun) · [原帖](https://x.com/creator_kachun/status/2098266658205004027)
+- **[任意角色→4×4战斗像素精灵表](https://x.com/andytng28/status/2097701567042609236)** — @andytng28：角色参考压成 combat sprite sheet（测了炭治郎），prompt 在 thread；游戏素材 / meme 模板一键量产。
 
-- **舞蹈参考图 → Seedance 动画** — 2.5 先出舞蹈参考姿，再丢 Seedance 2.5 动起来。短视频角色舞素材流水线，prompt 在回复栏。 [@renoiseaijp](https://x.com/renoiseaijp) · [原帖](https://x.com/renoiseaijp/status/2098255433249288323)
+- **[像素对战 GIF](https://x.com/Re7_AI/status/2097595058757500947)** — @Re7_AI：像素战斗动画向，适合小游戏预告。
 
-- **纯 Images 2.5 直接出 GIF（没用 Astra）** — 角色动起来的轻量玩法，社媒素材试水不绑视频管线。动效入口比想象更低。 [@MNesuka](https://x.com/MNesuka) · [原帖](https://x.com/MNesuka/status/2098165367944458488)
+- **[单图 → 16 姿势 → Seedance 舞蹈片](https://x.com/renoiseai/status/2097958941070430477)** — @renoiseai：Image 2.5 出 16 pose，再丢 Seedance 做成舞蹈序列，prompt 在帖里。角色 UGC / 短视频素材流水线可直接抄。
 
-- **GIF 配方写死：1:1 · 16 帧 · 12fps** — API max+4K 出精灵表再动起来。短营销动图模板，别再猜帧数。 [@Voxyz_ai](https://x.com/Voxyz_ai) · [原帖](https://x.com/Voxyz_ai/status/2098063955096633467)
+- **[定格 vs Nano Banana](https://x.com/ekcheungAI/status/2097565834931548309)** — @ekcheungAI：停格质感横向对比，选型参考。
 
-- **任意梗图 → 5×5 像素精灵表 prompt** — 把 meme / 角色图压成 5×5 sprite sheet，prompt 可抄。表情包/游戏素材量产另一条路。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2098049016596729942)
+- **[定格动画：一帧 12 姿态](https://x.com/Lucas_IA_/status/2097640115409469657)** — @Lucas_IA_：单图塞满关键姿势，停格流程可抄。
 
-- **开源翻页动画：手绘起始帧 → 连贯序列** — OSS flipbook：起始帧进 GPT-image 2.5 出序列，原画忠度比别家稳。附可玩 demo + 流程拆解。 [@hot_town](https://x.com/hot_town) · [原帖](https://x.com/hot_town/status/2098038563094806955)
+- **[开源翻页动画：手绘起始帧 → 连贯序列](https://x.com/hot_town/status/2098038563094806955)** — @hot_town：OSS flipbook：起始帧进 GPT-image 2.5 出序列，原画忠度比别家稳。附可玩 demo + 流程拆解。
 
-- **16-bit 犯罪短片：Flare + MiniMax 流水线** — Flare 出图 + MiniMax H3 Max 出片 + CapCut：像素风不当游戏贴图，硬做电影叙事。一人团队内容形态参考。 [@Danzeronero](https://x.com/Danzeronero) · [原帖](https://x.com/Danzeronero/status/2098014623803052533)
+- **[手绘草稿直接出 GIF（中文 prompt）](https://x.com/xiaohua_888/status/2098005078422835608)** — @xiaohua_888：Sketch 草稿 → GPT Image 2.5 → 动图，中文提示词齐活。营销 demo / 教程最省事的一条。
 
-- **手绘草稿直接出 GIF（中文 prompt）** — Sketch 草稿 → GPT Image 2.5 → 动图，中文提示词齐活。营销 demo / 教程最省事的一条。 [@xiaohua_888](https://x.com/xiaohua_888) · [原帖](https://x.com/xiaohua_888/status/2098005078422835608)
+- **[粘土定格 GIF：胖青蛙 DJ 一次出循环](https://x.com/MrDasOnX/status/2098360111597244532)** — @MrDasOnX：24 帧塑料泥质感，金链耳机全入画，再把精灵表转 GIF。短视频贴纸 / 表情包流水线，抄走就能量产。
 
-- **4×4 像素精灵表（prompt 在评论）** — GPT Image 2.5 出完整 sprite sheet，评论区有 prompt。游戏资产/表情包管线一眼能抄。 [@MUsman7808](https://x.com/MUsman7808) · [原帖](https://x.com/MUsman7808/status/2098002527170277885)
-
-- **单图 → 16 姿势 → Seedance 舞蹈片** — Image 2.5 出 16 pose，再丢 Seedance 做成舞蹈序列，prompt 在帖里。角色 UGC / 短视频素材流水线可直接抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2097958941070430477)
-
-- **96 帧鹈鹕骑车定格动画** — Images 2.5 逐帧生 96 张拼成 8 秒定格。不靠视频模型也能出片，短视频选题很香。 [@yunxi0623](https://x.com/yunxi0623) · [原帖](https://x.com/yunxi0623/status/2097926023069519960)
-
-- **角色 → 4×4 战斗精灵表 → GIF** — Seedream 出人设，Image 2.5 压透明 4×4 精灵表，再拆帧成 GIF。游戏素材/小红书动图流水线可抄。 [@AI_VideoLab](https://x.com/AI_VideoLab) · [原帖](https://x.com/AI_VideoLab/status/2097924471655162025)
-
-- **4×4 combat sprite → 干净 GIF** — 在 AIReel 上用 Image 2.5 把精灵表直接变成可播 GIF，prompt 在帖里。游戏素材流水线可参考。 [@AIReelofficial](https://x.com/AIReelofficial) · [原帖](https://x.com/AIReelofficial/status/2097902132682715547)
-
-- **4×4像素战斗图→GIF** — 上传角色图生成 16 帧 Sprite Sheet，拆格播放就成像素 GIF。攻击/跳跃/翻滚全包，小游戏预告与表情包一锅端。 [@derek_wall90176](https://x.com/derek_wall90176) · [原帖](https://x.com/derek_wall90176/status/2097863751471157498)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
-上传图1作为角色身份与服装的唯一参考。
+Create a 24-frame clay stop-motion loop of a chubby green frog DJing. Handmade plasticine texture, tiny gold chain, oversized black headphones, one hand on the turntable. The frog bobs its head, scratches the record, throws both arms up, spins once, and loops back. Square 1:1, solid off-white background, full character always visible, no cropped limbs/headphones/tables, no frame leakage, only a subtle horizontal ground shadow. Slightly choppy handcrafted motion, not smooth CGI.
 
-将图1角色转化为高质量2D像素游戏角色，生成一张正方形、4×4等分排列、共16帧的连续动作Sprite Sheet。
-
-每格尺寸完全一致。画面按从左到右、从上到下的顺序播放。
-
-严格保留角色的脸型、发型、体型、服装配色、标志性配件与武器结构。16帧使用相同的像素比例、角色尺寸、朝向和色板。
-
-角色完成一次【挥剑攻击／跳跃／翻滚／施法／扑击】动作。
-
-第1至3帧为待机与蓄力；第4至7帧为重心移动和动作展开；第8至10帧完成主要攻击与力量释放；第11至13帧表现惯性和收势；第14至16帧回到待机状态。第16帧与第1帧能够自然衔接。
-
-相邻帧只改变完成动作所需的关节、轮廓、衣摆、头发和武器位置。动作方向、受力关系和运动轨迹保持连续。
-
-所有格子保持相同机位、角色缩放、脚底基线和画面中心。角色完整显示，不裁切头部、武器、尾巴或特效。
-
-背景优先使用透明通道。透明背景不稳定时，改用统一纯色背景，方便后期抠图。不要生成场景、地面纹理、格线、编号和文字。
-
-采用清晰硬边像素、有限色板和统一像素密度。禁止模糊边缘、抗锯齿、半写实渲染、重复帧、跳帧、角色变形、服装变化、武器增减、视角切换和每格重新构图。
+2) Turn sprites into GIFs.
 ```
 
   </details>
 
-- **任意角色→4×4战斗像素精灵表** — 角色参考压成 combat sprite sheet（测了炭治郎），prompt 在 thread；游戏素材 / meme 模板一键量产。 [@andytng28](https://x.com/andytng28) · [原帖](https://x.com/andytng28/status/2097701567042609236)
+- **[纯 Images 2.5 直接出 GIF（没用 Astra）](https://x.com/MNesuka/status/2098165367944458488)** — @MNesuka：角色动起来的轻量玩法，社媒素材试水不绑视频管线。动效入口比想象更低。
 
-- **定格动画：一帧 12 姿态** — 单图塞满关键姿势，停格流程可抄。 [@Lucas_IA_](https://x.com/Lucas_IA_) · [原帖](https://x.com/Lucas_IA_/status/2097640115409469657)
+- **[舞蹈分镜预测法 → Seedance 细指令成片](https://x.com/FantasistaAI/status/2098348945562878436)** — @FantasistaAI：Image 2.5 出舞蹈分镜用「预测法」留自由度，Seedance 再写细指令。零到一舞蹈短视频，应用面比单支舞宽。
 
-- **黑猫 vs 老鼠 Sprite 循环** — 循环动作帧，角色动画 demo。 [@Agonyframe](https://x.com/Agonyframe) · [原帖](https://x.com/Agonyframe/status/2097639113415631121)
+- **[舞蹈参考图 → Seedance 动画](https://x.com/renoiseaijp/status/2098255433249288323)** — @renoiseaijp：2.5 先出舞蹈参考姿，再丢 Seedance 2.5 动起来。短视频角色舞素材流水线，prompt 在回复栏。
 
-- **像素对战 GIF** — 像素战斗动画向，适合小游戏预告。 [@Re7_AI](https://x.com/Re7_AI) · [原帖](https://x.com/Re7_AI/status/2097595058757500947)
+- **[角色 → 4×4 战斗精灵表 → GIF](https://x.com/AI_VideoLab/status/2097924471655162025)** — @AI_VideoLab：Seedream 出人设，Image 2.5 压透明 4×4 精灵表，再拆帧成 GIF。游戏素材/小红书动图流水线可抄。
 
-- **4×4 Sprite Sheet** — 一图导出精灵表，游戏原型直接用。 [@HitPawCreators](https://x.com/HitPawCreators) · [原帖](https://x.com/HitPawCreators/status/2097584582367527358)
+- **[角色→4×4 偶像舞姿表→GIF](https://x.com/ImaStudio_ai/status/2099445897457446934)** — @ImaStudio_ai：像素猫示例：先锁人设再压 16 格连贯舞姿，Ima Studio 可直接拼 GIF。表情包/短动效流水线，舞姿表 prompt 可抄。
 
-- **定格 vs Nano Banana** — 停格质感横向对比，选型参考。 [@ekcheungAI](https://x.com/ekcheungAI) · [原帖](https://x.com/ekcheungAI/status/2097565834931548309)
+  <details><summary>Prompt</summary>
+
+```
+Use the provided character image as the exact reference. Create a clean 4×4 pose sheet with exactly 16 full-body dance poses of the same character, arranged left to right, top to bottom. Keep the character fully consistent in every panel: same design, outfit, colors, and shading. Preserve the same pixel-art style, chibi proportions, sprite scale, outline, colors, and shading.
+Make 16 clearly different but smoothly connectable cute idol dance poses, including: neutral pose, wink, side sway, raised arm, hands-near-cheeks, walking step, slight lean, side turn, crouch, side kick, both paws raised, shy pose, back/three-quarter turn, forward kick, low diagonal lean, and final raised-paw wink pose. The whole sequence should feel like one continuous dance.
+Each panel must contain only one complete full-body character with enough margin around ears, feet, and tail. Use a plain white background with thin black grid dividers and small black numbers 1–16 in the top-left of each panel. No extra characters, extra limbs, missing parts, costume changes, hairstyle changes, props, watermark, or text other than the panel numbers.
+```
+
+  </details>
+
+- **[角色自适应 4×4 舞蹈姿态表](https://x.com/Mayz1169/status/2099457417528692871)** — @Mayz1169：上传人设自动选舞风，16 格连贯姿态；可再接视频 prompt 出片。短视频种草/表情包流水线。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.
+
+CHARACTER CONSISTENCY Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.  
+
+ADAPTIVE CHOREOGRAPHY Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion. 
+
+Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.  Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.  
+
+Use the following movement structure, adapting each action to the character: 
+1. Opening pose that establishes the character’s personality. 
+2. Small rhythmic step with a coordinated arm gesture. 
+3. Side step with one arm extended. 
+4. Compact expressive gesture near the face or upper body. 
+5. Grounded stance with arms crossing or sweeping inward. 
+6. Knee lift or an anatomically appropriate weight shift. 
+7. Open, expansive pose with arms spread. 
+8. Playful or expressive balance pose. 
+9. Turning pose showing a three-quarter rear view. 
+10. Forward-reaching movement with a diagonal body lean. 
+11. Strong upward-reaching accent. 
+12. Climactic jump or a grounded full-body extension if jumping is unsuitable. 
+13. Lowered stance with a forward gesture. 
+14. Elegant or dynamic side-facing transition. 
+15. Signature gesture that suits the character. 
+16. Confident final pose with a clear finishing silhouette.  
+
+COMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.  Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.  Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.  
+
+AVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.  
+
+Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+```
+
+  </details>
+
+- **[静帧 + 配音 → Seedance，换人设不重剪](https://x.com/meetshukla_/status/2098280866459861176)** — @meetshukla_：2.5 出首帧、配音另做，丢进 Seedance 2.5 成片后再换角色——同一套剪辑不用重来。短视频人设 A/B 测的正经流水线。
+
+- **[飞吻 4×4 序列帧：没跑过不出厂](https://x.com/zouyanjian/status/2099422284666884445)** — @zouyanjian：Line 表情包向 16 格实测入库；「爱你哦」白底 1:1 通挂，飞吻循环连贯性偏弱也写进评测。反营销滤镜的真·合集。
+
+- **[黏土狐狸烤鲷鱼烧：16 格停格序列](https://x.com/renoiseai/status/2099459517373391327)** — @renoiseai：4×4 contact sheet 一把梭：锁机位、只动爪子/模具/表情。短视频/封面动效母版，完整 prompt 可抄。
+
+  <details><summary>Prompt</summary>
+
+```
+Create a beautiful handmade clay stop-motion animation contact sheet, exactly 4 columns by 4 rows, sixteen equally sized square frames in chronological row-major order. No borders, gutters, frame numbers or overlaid text. Original little fox baking Japanese taiyaki in a nostalgic Japanese neighborhood taiyaki shop at night.
+
+Character: charming original orange-red little fox clay puppet, cream pointed muzzle and chest, large triangular ears with dark tips, black bead eyes, distinct elegant fox face and one fluffy sculpted tail visible beside torso, happy gentle expression. White cloth headband, muted rust-red cross-collar work jacket with cream cuffs and cream waist apron. Matte plasticine with subtle fingerprints, rounded hand sculpted forepaws, miniature practical photography.
+Set: beautifully aged dark cedar shop interior, warm buttery light from vintage milk-glass pendant at upper right, softly glowing frosted wood lattice window at left, faded rust-red short noren at upper back center, old ceramic jars on a small back ledge, subtle patina and handcraft. Dark warm walnut counter. Golden subject against softly blurred brown background. 
+
+Cozy Showa-inspired sweets shop, amber highlights, not uniformly orange. No sushi, no rice barrel, no modern bright tiles. No other characters.
+
+Props: one hinged cast iron single-fish taiyaki mold centered on a small vintage cooking stand on counter, lower fish-shaped cavity clearly visible to camera, hinged upper lid swings back upright when open. Small cream bowl of pale batter at screen left with spoon, small brown bowl of burgundy red bean paste at screen right, small cream serving plate near front right. The finished taiyaki is a golden fish-shaped waffle with recognizable tail, round eye and embossed scale pattern, not a real fish.
+
+Critical: identical locked slightly elevated frontal medium shot in all 16 cells, exactly same fox identity and torso placement, background, counter and prop positions. Only forepaws, mold lid, batter and facial expression change. Keep camera perfectly static for stop motion. Full ears and hands in frame, mold large and readable.
+
+Frame sequence:
+1 fox holding spoon of pale batter above open empty fish mold.
+2 batter starts pouring from spoon.
+3 lower fish cavity filled with batter.
+4 spoon set down, other paw reaches bean bowl.
+5 spoon of burgundy bean paste above fish cavity.
+6 deposits red bean paste into center of batter.
+7 adds a little pale batter over bean filling.
+8 paw reaches open upper lid handle.
+9 upper lid lowered halfway.
+10 upper lid fully closed.
+11 both paws turn closed mold slightly by its handles.
+12 closed mold settled back on cooking stand, fox anticipates.
+13 opens upper lid halfway, golden taiyaki revealed.
+14 upper lid fully open, fox lifts golden fish waffle with small wooden pick.
+15 fox holds finished golden taiyaki over cream plate, proud smile.
+16 fox displays taiyaki resting on plate held in both paws at chest height, closed-eye delighted smile.
+
+Coherent readable food preparation, tiny frame-to-frame changes, handcrafted clay food and set, premium charming stop-motion look. Exactly 16 equal frames in strict 4x4 grid.
+```
+
+  </details>
+
+- **[黑猫 vs 老鼠 Sprite 循环](https://x.com/Agonyframe/status/2097639113415631121)** — @Agonyframe：循环动作帧，角色动画 demo。
 
 
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
 
-- **一句话出 iPhone 相机胶卷界面** — 挂参考图+短 prompt，直接生成像真机 Photos 里刷了一天的相机卷。UGC 广告 / 产品 mock 超好用。 [@Kel_vinleven](https://x.com/Kel_vinleven) · [原帖](https://x.com/Kel_vinleven/status/2099419041672699933)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+- **[Flare 等待游戏 UX](https://x.com/EchoraContinuum/status/2097625779509379502)** — @EchoraContinuum：生成等待时的交互彩蛋，产品体验向笔记。
+
+- **[Sunburst 做 App Store 截图：质感碾压糊 UI 假图](https://x.com/calicastle/status/2098419053899698339)** — @calicastle：一图说明 2.5 Sunburst 出应用商店展示图。独立开发者截图升级捷径，别再随便糊假界面。
+
+- **[《玩转 ChatGPT Image 2.5》中文长文](https://x.com/Re7_AI/status/2097888443770782019)** — @Re7_AI：新功能和新玩法收成一篇，适合当内容底稿或转发二次创作。
+
+- **[一句话出 iPhone 相机胶卷界面](https://x.com/Kel_vinleven/status/2099419041672699933)** — @Kel_vinleven：挂参考图+短 prompt，直接生成像真机 Photos 里刷了一天的相机卷。UGC 广告 / 产品 mock 超好用。
+
+  <details><summary>Prompt</summary>
 
 ```
 Turn one full day's worth of camera roll for the person in the reference image into a single image that captures the iPhone's Photos app screen as-is. Make it a realistic camera roll that feels like it captures casual everyday moments 9:16 aspect ratio.
@@ -4249,31 +4415,15 @@ Turn one full day's worth of camera roll for the person in the reference image i
 
   </details>
 
-- **Sunburst 做 App Store 截图：质感碾压糊 UI 假图** — 一图说明 2.5 Sunburst 出应用商店展示图。独立开发者截图升级捷径，别再随便糊假界面。 [@calicastle](https://x.com/calicastle) · [原帖](https://x.com/calicastle/status/2098419053899698339)
+- **[小互：2.5 提示词与图像编辑完全指南](https://x.com/xiaohu/status/2097943386145866108)** — @xiaohu：局部编辑、多图合成、角色一致性、工程交付一条龙；海报/漫画/UI 都覆盖。比刷十个「惊艳样张」管用。
 
-- **标注圈选改图：annotations × Images 2.5** — 圈一下就改局部，产品图/广告迭代的 UI 范式。作者预告即将开源——一人团队做精修工具可先抄交互。 [@SaihholdZhao](https://x.com/SaihholdZhao) · [原帖](https://x.com/SaihholdZhao/status/2098347672923251128)
+- **[把收尾提示词命名成自定义指令](https://x.com/sktGT1016/status/2097656459584831885)** — @sktGT1016：抑制噪点/收尾套路存成名字，下次只加名字。
 
-- **选 Flare/Sunburst 到精准改图：中文操作手册** — 从选型到局部编辑一整套中文长文，一人团队当日可用的操作底稿，比刷样张管用。 [@Smartpigai](https://x.com/Smartpigai) · [原帖](https://x.com/Smartpigai/status/2098002213193011481)
+- **[标注圈选改图：annotations × Images 2.5](https://x.com/SaihholdZhao/status/2098347672923251128)** — @SaihholdZhao：圈一下就改局部，产品图/广告迭代的 UI 范式。作者预告即将开源——一人团队做精修工具可先抄交互。
 
-- **小互：2.5 提示词与图像编辑完全指南** — 局部编辑、多图合成、角色一致性、工程交付一条龙；海报/漫画/UI 都覆盖。比刷十个「惊艳样张」管用。 [@xiaohu](https://x.com/xiaohu) · [原帖](https://x.com/xiaohu/status/2097943386145866108)
+- **[蒙娜丽莎眼镜架](https://x.com/cellinlab/status/2097871439072543175)** — @cellinlab：古典胸像 × 现代黑框眼镜的桌面产品：鼻托镜腿落点要对死。文创周边/落地页 mock 反差感拉满。
 
-- **《玩转 ChatGPT Image 2.5》中文长文** — 新功能和新玩法收成一篇，适合当内容底稿或转发二次创作。 [@Re7_AI](https://x.com/Re7_AI) · [原帖](https://x.com/Re7_AI/status/2097888443770782019)
-
-- **设计系统 → Astra 上线流水线** — Images 2.5 出设计系统 + PC/手机 UI，再丢给 Codex（GPT-6 Astra）按色值与行为规格实现。一人公司做站的正经配方。 [@shota7180](https://x.com/shota7180) · [原帖](https://x.com/shota7180/status/2097882934699278547)
-
-- **蒙德里安杂物柜** — 把《红、蓝、黄的构成》拉成桌面收纳柜：色块=抽屉、分割线=柜体。耳机橡皮各归其格，产品展示图三栏可抄。 [@cellinlab](https://x.com/cellinlab) · [原帖](https://x.com/cellinlab/status/2097875217100296362)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-生成一张16:9横版桌面设计展示图。左侧放蒙德里安《红、蓝、黄的构成》的画作参考，中间是桌面收纳柜的正面网格与透视铅笔草图，右侧是使用效果。柜体采用象牙白涂装木材，粗黑色分隔条形成不对称矩形网格，红色大抽屉、蓝色小抽屉、黄色小抽屉与白色格子共同组成正面。红色抽屉拉开，里面放耳机与卷好的线；黄色抽屉略微拉开，露出橡皮。抽屉必须有真实侧壁、厚度和内部空间，并与各自格口对齐。表现涂装木材细纹、接触阴影和桌面使用痕迹，自然侧光。草图与柜体布局一致，不加文字、Logo或URL。
-```
-
-  </details>
-
-- **蒙娜丽莎眼镜架** — 古典胸像 × 现代黑框眼镜的桌面产品：鼻托镜腿落点要对死。文创周边/落地页 mock 反差感拉满。 [@cellinlab](https://x.com/cellinlab) · [原帖](https://x.com/cellinlab/status/2097871439072543175)
-  <details>
-  <summary>查看 / 复制提示词</summary>
+  <details><summary>Prompt</summary>
 
 ```
 生成一张16:9横版桌面设计展示图。左侧是《蒙娜丽莎》的画作参考，中间是同款胸像眼镜架的正面与侧面铅笔草图，右侧是放在浅橡木桌上的使用效果。胸像保留蒙娜丽莎的长发、神秘微笑、衣褶和交叠双手，采用做旧铜质与暗棕色表面，底座宽而稳定。一副真实的现代黑色厚框透明眼镜架在她的鼻梁上，镜腿自然延伸到耳侧，眼睛透过镜片可见。表现镜片反射、镜框小螺丝与铜像细微磨损。旁边放眼镜布和笔记本电脑一角，自然窗光。草图与物件一致，不加文字、Logo或URL。
@@ -4281,9 +4431,19 @@ Turn one full day's worth of camera roll for the person in the reference image i
 
   </details>
 
-- **把收尾提示词命名成自定义指令** — 抑制噪点/收尾套路存成名字，下次只加名字。 [@sktGT1016](https://x.com/sktGT1016) · [原帖](https://x.com/sktGT1016/status/2097656459584831885)
+- **[蒙德里安杂物柜](https://x.com/cellinlab/status/2097875217100296362)** — @cellinlab：把《红、蓝、黄的构成》拉成桌面收纳柜：色块=抽屉、分割线=柜体。耳机橡皮各归其格，产品展示图三栏可抄。
 
-- **Flare 等待游戏 UX** — 生成等待时的交互彩蛋，产品体验向笔记。 [@EchoraContinuum](https://x.com/EchoraContinuum) · [原帖](https://x.com/EchoraContinuum/status/2097625779509379502)
+  <details><summary>Prompt</summary>
+
+```
+生成一张16:9横版桌面设计展示图。左侧放蒙德里安《红、蓝、黄的构成》的画作参考，中间是桌面收纳柜的正面网格与透视铅笔草图，右侧是使用效果。柜体采用象牙白涂装木材，粗黑色分隔条形成不对称矩形网格，红色大抽屉、蓝色小抽屉、黄色小抽屉与白色格子共同组成正面。红色抽屉拉开，里面放耳机与卷好的线；黄色抽屉略微拉开，露出橡皮。抽屉必须有真实侧壁、厚度和内部空间，并与各自格口对齐。表现涂装木材细纹、接触阴影和桌面使用痕迹，自然侧光。草图与柜体布局一致，不加文字、Logo或URL。
+```
+
+  </details>
+
+- **[设计系统 → Astra 上线流水线](https://x.com/shota7180/status/2097882934699278547)** — @shota7180：Images 2.5 出设计系统 + PC/手机 UI，再丢给 Codex（GPT-6 Astra）按色值与行为规格实现。一人公司做站的正经配方。
+
+- **[选 Flare/Sunburst 到精准改图：中文操作手册](https://x.com/Smartpigai/status/2098002213193011481)** — @Smartpigai：从选型到局部编辑一整套中文长文，一人团队当日可用的操作底稿，比刷样张管用。
 
 ## 收录说明
 
