@@ -2081,5 +2081,93 @@
     "url": "https://x.com/opener_ai/status/2099284978194612471",
     "category": "选型评测",
     "prompt": "You are a high-fashion editorial image director specializing in transforming fictional characters into restrained, museum-grade portrait compositions.\n\nYour task is to reinterpret a given character into a minimal, cinematic, high-fashion editorial image while preserving their core identity through subtle physical and symbolic cues.\n\n---\n\n🧩 INPUT\nCharacter: [CHARACTER NAME + SOURCE]\nOptional Direction: [MOOD / KEYWORD / VARIATION — optional]\n\n---\n\n🧠 STEP 1 — CHARACTER ESSENCE EXTRACTION\nIdentify and preserve only the essential identity markers:\n\n- Facial structure traits (eyes, jaw, expression tendencies)\n- Signature hairstyle or silhouette logic (reinterpret, never copy literally)\n- Core outfit identity (translate into couture fashion, not costume)\n- Character energy (discipline, chaos, elegance, brutality, etc.)\n\nReduce everything else.\n\n---\n\n🧱 STEP 2 — COMPOSITION & SPACE\n\n- Off-center composition\n- Subject slightly angled inward\n- Negative space dominates (~60%)\n- Background: soft gradient, neutral tones\n- No environment, no narrative, no props\n\nThe space should feel like absence with intention.\n\n---\n\n🧍 STEP 3 — FIGURE PRESENCE\n\n- Upright posture, controlled stillness\n- No action, no dynamic pose\n- Subtle weight shift allowed\n- Framing: upper body to mid-thigh or refined 3/4\n\nThe subject exists in a state of contained motion.\n\n---\n\n👔 STEP 4 — COSTUME TRANSLATION\nTransform iconic outfit into high-fashion couture:\n\n- Maintain silhouette logic, not literal design\n- Use structured tailoring (silk, satin, matte luxury fabrics)\n- Reduce exaggerated elements into subtle design cues\n- Colors: desaturated, controlled palette\n- Details: minimal metallic accents or stitching\n\nThe outfit should feel like “identity refined into discipline.”\n\n---\n\n💇 STEP 5 — HAIR REINTERPRETATION\n\n- Preserve structural identity (shape logic)\n- Remove exaggeration\n- Make it sculptural, controlled, minimal\n\n---\n\n🧠 STEP 6 — FACE & GAZE\n\n- Expression: emotionally restrained\n- Eyes: focused, present, grounded\n- Mouth: neutral\n- No dramatization, no exaggeration\n\nThe gaze should feel inevitable, not aggressive.\n\n---\n\n💡 STEP 7 — LIGHTING\n\n- Single soft key light (~3500K)\n- Gentle contouring on face and body\n- Soft shadows, no harsh contrast\n- Optional subtle rim light\n\nClarity over drama.\n\n---\n\n🎨 STEP 8 — COLOR SYSTEM\n\n- Base: desaturated cool-neutral\n- Skin: matte, natural\n- Accents: extremely restrained (metallic or tonal depth)\n- Fine film grain texture\n\n---\n\n🔷 STEP 9 — SYMBOLIC MINIMALISM\nCreate ONE subtle symbolic element based on the character:\n\n- Shape (circle, line, fracture, symmetry, etc.)\n- Must represent their core power or philosophy\n- Integrated into negative space\n\nNo effects. No energy visuals. Only implication.\n\n---\n\n🔤 STEP 10 — TYPOGRAPHY\nUltra minimal (<8%):\n\n- Character name (spaced lettering)\n- Source (vertical or small)\n- Serial number + concept word\n- One restrained tagline\n\n---\n\n🧊 STEP 11 — FINAL TONE\nThe image must feel like:\n\n- A luxury campaign without branding\n- A museum portrait of power\n- Controlled, silent dominance\n\n---\n\n⚠️ ANTI-RULES\n\n- No action pose\n- No combat motion\n- No energy effects\n- No game-style rendering\n- No environmental storytelling\n- No exaggerated anatomy\n- No glossy skin\n\n---\n\n🧾 OUTPUT FORMAT\nWrite a single, fully integrated image generation prompt in natural descriptive form (not bullet points), maintaining cinematic clarity and precision."
+  },
+  {
+    "id": "2098420840073236536",
+    "title": "可换角广告模板：角色锁 + 海报锁，城市变身即插即用",
+    "blurb": "Seedance 2.5 广告配方：@[image1] 锁角色、@[image2] 锁海报，城市/变身可换槽。一人团队产品概念片骨架。",
+    "author": "Iancu_ai",
+    "url": "https://x.com/Iancu_ai/status/2098420840073236536",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2098420637631127995",
+    "title": "精华液广告流水线：产品表 + 分镜 → 15 秒成片",
+    "blurb": "GPT Image 2.5 先出产品 sheet 与 cinematic storyboard，再交 Seedance 2.5；提示词全开。DTC 电商广告教科书。",
+    "author": "HeyAbhishek",
+    "url": "https://x.com/HeyAbhishek/status/2098420637631127995",
+    "category": "电商改图"
+  },
+  {
+    "id": "2098419053899698339",
+    "title": "Sunburst 做 App Store 截图：质感碾压糊 UI 假图",
+    "blurb": "一图说明 2.5 Sunburst 出应用商店展示图。独立开发者截图升级捷径，别再随便糊假界面。",
+    "author": "calicastle",
+    "url": "https://x.com/calicastle/status/2098419053899698339",
+    "category": "UX产品"
+  },
+  {
+    "id": "2098419940361642006",
+    "title": "Doodle / Markup：空白涂鸦或标注局部当参考图",
+    "blurb": "Atlas 上 Image 2.5：画布涂鸦进参考，或在已有图上标注局部改。Sketch 工作流的产品化版本。",
+    "author": "atlas_cloud_ai",
+    "url": "https://x.com/atlas_cloud_ai/status/2098419940361642006",
+    "category": "Sketch"
+  },
+  {
+    "id": "2098430230079984063",
+    "title": "Sunburst object-swap：换物 match-cut，其余几乎钉死",
+    "blurb": "编辑时只换指定物件，其它几乎不动。广告改产品/道具的压测思路，直接抄。",
+    "author": "invideoOfficial",
+    "url": "https://x.com/invideoOfficial/status/2098430230079984063",
+    "category": "电商改图"
+  },
+  {
+    "id": "2098426534025634085",
+    "title": "UGC 广告全流程：Image 2.5 + Seedance + 六视角角色表",
+    "blurb": "照片→六视角角色表，外加 Image 2.5×Seedance 全套 prompt。一人团队假用户真广告流水线。",
+    "author": "abxxai",
+    "url": "https://x.com/abxxai/status/2098426534025634085",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2098430366692388922",
+    "title": "Sketch 养演讲插图：草图+brief 终于对得上",
+    "blurb": "Maggie Appleton：2.5 能跟草图和 brief 对齐，整场 talk 幻灯片开造；并踩 MJ/Gemini「永远只对 60%」。",
+    "author": "Mappletons",
+    "url": "https://x.com/Mappletons/status/2098430366692388922",
+    "category": "Sketch"
+  },
+  {
+    "id": "2098428660944695644",
+    "title": "鱼眼 editorial：15mm 草皮配方 + 开源提示词库",
+    "blurb": "超广角 15mm 草皮 editorial 可抄；并指向 awesome-gpt-image-2-5-prompts（社区原句+出处）。模板要存 prompt 别只存图。",
+    "author": "Milliekio",
+    "url": "https://x.com/Milliekio/status/2098428660944695644",
+    "category": "海报排版"
+  },
+  {
+    "id": "2099293802813182089",
+    "title": "产品页 → 40 张静态广告：Astra 读品牌 + Image 2.5 赶量",
+    "blurb": "一页产品详情进，Astra 写文案定角度，Image 2.5 当天吐 40 张成品静态。一人营销队核按钮。",
+    "author": "spect3ral",
+    "url": "https://x.com/spect3ral/status/2099293802813182089",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2099232072980484262",
+    "title": "品牌 30 秒广告管线：双参考 × Image 2.5 × Seedance",
+    "blurb": "两张自定义参考 + GPT Image 2.5 + Seedance 2.5；完整 workflow、选型与视频 prompt。UGC/品牌短片可复用。",
+    "author": "itsphotogptai",
+    "url": "https://x.com/itsphotogptai/status/2099232072980484262",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2099220110355697893",
+    "title": "圆形时尚海报四构图：FULL TURN / WATERLINE / INWARD / ORBIT VEIL",
+    "blurb": "Images 2.5 把圆框玩活的四套路。editorial / campaign / 杂志封面直接偷构图。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2099220110355697893",
+    "category": "海报排版"
   }
 ]
