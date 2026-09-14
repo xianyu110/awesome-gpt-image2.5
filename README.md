@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 278 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 295 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,12 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **真正值钱的是返工：局部改+多轮一致性** — 画质只是表层；一次只改该改的、多轮后脸/构图/品牌还能对齐，才进得了真生产。提示词玄学正在贬值。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2099427815829729441)
+
+- **同 prompt 四格：2.5 更真、更少 AI slop** — 前两张 2.5、后两张 2.0 并排。真实感升级不是嘴炮——少塑料感、多摄影感，选型时拿来打脸最直接。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099417551411494936)
+
+- **「别把喜欢的地方改坏」：Sunburst 精修 vs Flare 赶量** — 创作者要的往往不是更美，是改背景别毁脸、改字别毁排版。API 里 Sunburst 盯编辑精度、Flare 盯日常量产——选型别混。 [@yu_min_days](https://x.com/yu_min_days) · [原帖](https://x.com/yu_min_days/status/2099392705780756829)
 
 - **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492) · [prompt](https://img.dsxzai.com/)
 
@@ -617,14 +623,28 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 - **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486)
 
-- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting)
+- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [prompt](docs/playbooks/official-image-prompting.md)
 
-- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA)
+- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [prompt](docs/playbooks/image25-controllability-shift.md)
 
 
 ## Sketch
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
+
+- **Fashion Sketch→童话高定：2.5 出图 + MiniMax 成片** — 冰川蓝丝绸+水晶绣+层叠欧根纱，Sketch 变城堡晨雾大片再接视频。时装内容从线稿到成片一条链。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2099413148684234773)
+
+- **Sketch→扎哈风美术馆：一句话草图变建筑** — 手绘草图在空中长成扎哈·哈迪德未来主义场馆。建筑/空间概念快速可视化，Sketch 控形最直观的一刀。 [@XiaoKooeye](https://x.com/XiaoKooeye) · [原帖](https://x.com/XiaoKooeye/status/2099408374249169169)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+一个简单的手绘草图在空中逐渐转化为一座具有扎哈·哈迪德风格的未来主义美术馆。
+```
+
+  </details>
+
+- **手绘 Sketch→实拍：降低提示词门槛的三步法** — 说不清就先画：Sketch 降低小白门槛，也给会画的人当快速变体草稿机。韩语 Daily Prompt 830 号拆解可对照。 [@dailyprompt_](https://x.com/dailyprompt_) · [原帖](https://x.com/dailyprompt_/status/2099393116164030795)
 
 - **Sketch 养演讲插图：草图+brief 终于对得上** — Maggie Appleton：2.5 能跟草图和 brief 对齐，整场 talk 幻灯片开造；并踩 MJ/Gemini「永远只对 60%」。 [@Mappletons](https://x.com/Mappletons) · [原帖](https://x.com/Mappletons/status/2098430366692388922)
 
@@ -722,6 +742,25 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **东方禅意天灯封面：分段中文极简海报** — 屋檐+橘子橙天灯+青黛暮空，9:16 大留白给标题。和银杏台阶那版是姊妹篇，封面党又多一套可返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099392886207045950)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主题方向：东方禅意极简封面海报
+风格分支：女性审美高传播型
+主体内容：一位古风女子站在极简屋檐下，抬头看向空中的天灯
+情绪母题：温暖、祝愿、轻梦感
+场景与意象：浅色屋檐、橘子橙天灯、青黛蓝暮空、女子、留白天空
+构图与空间：9:16 竖版构图，人物位于下方偏一侧，屋檐切入画面上缘，天空占据大面积主空间，方便排标题
+色彩控制：暖白作为建筑和背景基底，青黛蓝用于天空，橘子橙只用于天灯与少量暖反光，人物服装建议珍珠白或浅桃白；避免全图变成橙蓝滤镜
+光线与质感：柔亮傍晚光，清晰轮廓，现代东方海报感，轻微柔光即可
+画幅比例：9:16
+补充要求：天空必须干净通透，天灯要有记忆点，整体不能压暗成夜景
+```
+
+  </details>
 
 - **十字绣城市地标：[CITY / STRUCTURE] 可换槽** — 复古十字绣绣在象牙亚麻上，可见针脚与手工瑕疵。文旅周边 / 小红书手工风封面一键换城。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099378987713896800)
 
@@ -1963,6 +2002,44 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **角色 ref 破格一句话：逼 2.5 输出「平时绝对不出」的图** — 锁自己角色参照后丢这句日文，角色会「叛逆」出非常规构图。人设表之后想要惊喜帧，就靠这一刀。 [@sentakusound](https://x.com/sentakusound) · [原帖](https://x.com/sentakusound/status/2099435461861327229)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+このキャラクターを使ってGPT image 2.5 が、普段絶対に出さない画像を生成して下さい
+```
+
+  </details>
+
+- **北欧奢侈 editorial：冰灰大衣+visor 眼镜完整 prompt** — 输入照片一键北欧奢牌大片：冰蓝灰渐变、硬边轮廓光、105mm 压缩。男装投放 / 品牌 KV 直接抄。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2099425863200920002)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+ULTRA-REALISTIC STUDIO EDITORIAL PORTRAIT FROM INPUT PHOTO. VIBE: Scandinavian luxury fashion campaign, sterile elegance, futuristic calmness. ENVIRONMENT: Minimal smooth gradient background transitioning from pale icy- blue into soft gray. LIGHTING: Bright diffused frontal light with subtle hard edge-lighting outlining the hair and shoulders. STYLING (MALE): Oversized ash-gray textured coat layered over monochrome knitwear, silver futuristic visor sunglasses. relaxed tailoring. POSE: Minimal side-profile portrait with shoulders slightly turned away, one hand lightly touching the coat collar. TECH: 105mm lens with clean portrait compression and luxury campaign framing. EXPRESSION: Detached serene expression, looking past camera. POST-PROCESSING: Cool desaturated tones, soft silver highlights, realistic luxury campaign texture.
+```
+
+  </details>
+
+- **写实生活照配方：伸手拉你起床的 9:16** — 周末赖床亲密互动分段中文 prompt：手伸向镜头制造「你就在对面」。UGC / 情感向人像模板可直接改场景。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099408990228914449)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+风格方向： 周末赖床后的亲密互动
+场景方向： 卧室床边 / 地毯旁
+服装方向： 奶油白修身短袖家居裙
+气质标签： 亲近、慵懒、温柔、轻甜、自然
+身形方向： 丰腴自然曲线
+线条强调： 中偏强
+镜头方向： 女生坐在床边或地毯上，身体略微前倾并偏向镜头，一只手向镜头伸过来，像要拉男友起身，另一只手轻撑床沿，抬眼看向镜头轻笑
+画幅比例： 9:16
+互动重点： 手伸向镜头会形成很强的“你就在她面前”的感觉，前倾动作还能自然表现胸腰关系。
+```
+
+  </details>
+
 - **攻壳草薙素子：一年后再测 Images 2.5** — Zho 把素子拉回赛博写实。角色锁定 + 材质光感的回归测，国风/二次元 IP 人设出片可对标这档质感。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2099365177938575853)
 
 - **钴蓝棚拍街潮男装：奢华 campaign 完整 prompt** — 深蓝针织+烟色透明框眼镜+无缝钴蓝背景，手部与织物约束写死。男装电商主图 / 投放素材可直接用。 [@john_my07](https://x.com/john_my07) · [原帖](https://x.com/john_my07/status/2099357576484069651)
@@ -3201,7 +3278,7 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
   </details>
 
-- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ)
+- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [prompt](docs/playbooks/virtual-ip-assets.md)
 
 
 ## 电商改图
@@ -3357,9 +3434,85 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
 场景、长卷、视频工作流与氛围大图。
 
+- **先锁世界观再 Seedance：暗黑 ARPG 一镜成片** — 银发+青铜半面甲+青绿斗篷+火山废墟，用 Image 2.5 钉死视觉身份，再丢 Seedance 2.5 打成电影感战斗镜头。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099434423884390583)
+
+- **Nokia 旧照手绘叠层：白线日记风改图** — 十几年前 N82 原图，2.5 加手绘描边+繁中旁白+爱心蒸汽。旅行/生活照「时髦随性」一层滤镜配方。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099429070723551484)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+在圖片上方加上一層手繪疊加。最終成品要時髦、放鬆、毫不費力地隨性。繪製規則：用細細的手繪線條，像是用白色筆畫上去。保持單筆勾勒風格：粗糙、略帶不均。沿著物件外緣加上描邊。可用箭頭或虛線引導視線。文字規則：使用手寫繁体中文。保持簡短，像輕鬆的內心獨白。語氣：像日記、簡短、以情緒為主。旁白要正面又甜甜的。裝飾：適度加入蒸氣、閃光、愛心、小小表情臉。不要太滿；留一些「留白」。
+```
+
+  </details>
+
+- **日系日常 STYLE 锁：钢笔淡彩+小红点** — 当代日式 slice-of-life 完整 STYLE 块：笔触、配色、避雷清单都写死，场景槽位可换。杂志风插画母版。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2099417903858843997)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a delicate contemporary Japanese slice-of-life illustration showing a quiet, cozy everyday moment.
+
+STYLE
+
+Hand-drawn pen-and-ink artwork with fine expressive lines, naturally imperfect contours, subtle watercolor washes, visible paper texture, soft edges, and generous negative space. Blend Japanese minimalism with the charm of an independent sketchbook, café magazine, or modern lifestyle art book. Keep the artwork elegant, airy, tactile, and slightly unfinished.
+
+CHARACTERS
+
+Two young adults with simplified facial features, subtle expressions, relaxed body language, and natural interaction. Dress them in casual oversized contemporary clothing. Avoid realistic facial rendering; communicate personality through posture, gestures, and eye direction.
+
+ENVIRONMENT
+
+A warm, lived-in interior such as a café, apartment, studio, bookstore, kitchen corner, or creative workspace. Include selective details like wooden furniture, coffee cups, books, shelves, plants, windows, ceramics, stationery, and small everyday objects. Keep the setting uncluttered.
+
+COMPOSITION
+
+Full-body or three-quarter view at eye level. Seat the characters naturally facing one another. Use a balanced asymmetrical composition with generous clean space and an editorial framing. The relationship between the characters should be the main storytelling element.
+
+COLORS
+
+Use only muted, desaturated tones: warm cream, ivory, dusty blue, soft beige, light gray, sage green, natural brown, and off-white. Add one small red accent such as a mug, shoe, sock, notebook, or object.
+
+LIGHTING
+
+Soft natural daylight through a window with gentle ambient illumination and minimal shadows. Create a peaceful, warm, nostalgic atmosphere without dramatic lighting.
+
+RENDERING
+
+Sparse detail, delicate watercolor fills within fine ink outlines, subtle tonal variation, visible paper grain, and authentic hand-drawn imperfections. Avoid overly polished digital rendering.
+
+AVOID
+
+Anime, manga panels, cel shading, photorealism, hyperrealism, 3D rendering, glossy surfaces, vibrant colors, cinematic effects, heavy outlines, harsh shadows, and cluttered backgrounds.
+
+SCENE
+
+[Scene Description]
+
+The final image should feel like a premium contemporary Japanese lifestyle illustration-quiet, intimate, nostalgic, and beautifully ordinary, with the warmth of a carefully observed sketchbook moment.
+```
+
+  </details>
+
+- **赛博编舞表 → MiniMax H3：静帧变整段舞** — Image 2.5 出 cyberpunk dance pose sheet，再接 MiniMax H3 拉成连续编舞。产品内容/投放短视频的静转动管线。 [@aaliya_va](https://x.com/aaliya_va) · [原帖](https://x.com/aaliya_va/status/2099405356300726410)
+
 - **角色表+场景板钉死：Seedance 最多 50 参考** — 先钉角色表与 location plate，再写戏；Seedance 2.5 可吃到约 50 张参考。写实多角戏的防漂配方。 [@kayforkind](https://x.com/kayforkind) · [原帖](https://x.com/kayforkind/status/2099391447128518810)
 
 - **InVideo 拆帧 → Image 2.5 逐帧 rotoscope** — 片子丢进 InVideo 拆帧，代理按风格用 Image 2.5 重绘每帧，仍可逐帧改。定格/转绘从月级压到下午级。 [@ohneisserdemy](https://x.com/ohneisserdemy) · [原帖](https://x.com/ohneisserdemy/status/2099390701582598195)
+
+- **Sunburst 4K 纸雕奎师那：金线+卷纸浮雕** — 纸艺浮雕+金属金线+棚拍阴影，Sunburst 4K 细节直接拉满。节日/文创主视觉可整段复用。 [@yourPlugAI](https://x.com/yourPlugAI) · [原帖](https://x.com/yourPlugAI/status/2099386679551279392)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A detailed 3D paper quilling bas-relief artwork of Lord Krishna playing a golden flute, shown in side profile with closed eyes, soft blue skin, a yellow tilak on his forehead, and a peaceful expression.
+
+His flowing dark hair is crafted from intricate coiled paper strips, adorned with large paper-quilled peacock feathers in vibrant teal, yellow, and orange, paired with a beaded gold headband. His hands softly hold the wooden flute while a small stylized blue paper peacock perches near the end.
+
+Richly layered paper swirls in vibrant orange, yellow, red, and blue cascade around his shoulders. Clean off-white background with subtle embossed white paper swirl patterns and dramatic studio shadows. High-detail paper sculpture aesthetic, 3D papercraft depth.
+```
+
+  </details>
 
 - **品牌人格灌进城市：换输入就长成街景广告** — 套用 mmmiyama 杂志广告配方，把品牌人格塞进东京蓝调街景（人行天桥 + 巨 Logo）。营销向：同一骨架换品牌词，城市视觉秒站队。 [@kraqvoid](https://x.com/kraqvoid) · [原帖](https://x.com/kraqvoid/status/2099375310747926862)
 
@@ -3674,6 +3827,8 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 像素、精灵表与动效向玩法。
 
+- **飞吻 4×4 序列帧：没跑过不出厂** — Line 表情包向 16 格实测入库；「爱你哦」白底 1:1 通挂，飞吻循环连贯性偏弱也写进评测。反营销滤镜的真·合集。 [@zouyanjian](https://x.com/zouyanjian) · [原帖](https://x.com/zouyanjian/status/2099422284666884445) · [repo](https://github.com/SmartStudio/baize-prompts/blob/main/prompts/image-gen/GPTImage25-Line%E8%A1%A8%E6%83%85%E5%8C%85%E5%BA%8F%E5%88%97%E5%B8%A7.md)
+
 - **粘土定格 GIF：胖青蛙 DJ 一次出循环** — 24 帧塑料泥质感，金链耳机全入画，再把精灵表转 GIF。短视频贴纸 / 表情包流水线，抄走就能量产。 [@MrDasOnX](https://x.com/MrDasOnX) · [原帖](https://x.com/MrDasOnX/status/2098360111597244532)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -3814,6 +3969,16 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **一句话出 iPhone 相机胶卷界面** — 挂参考图+短 prompt，直接生成像真机 Photos 里刷了一天的相机卷。UGC 广告 / 产品 mock 超好用。 [@Kel_vinleven](https://x.com/Kel_vinleven) · [原帖](https://x.com/Kel_vinleven/status/2099419041672699933)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Turn one full day's worth of camera roll for the person in the reference image into a single image that captures the iPhone's Photos app screen as-is. Make it a realistic camera roll that feels like it captures casual everyday moments 9:16 aspect ratio.
+```
+
+  </details>
 
 - **Sunburst 做 App Store 截图：质感碾压糊 UI 假图** — 一图说明 2.5 Sunburst 出应用商店展示图。独立开发者截图升级捷径，别再随便糊假界面。 [@calicastle](https://x.com/calicastle) · [原帖](https://x.com/calicastle/status/2098419053899698339)
 
