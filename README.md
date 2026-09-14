@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 262 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-14 · **收录 278 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,7 +237,13 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492) · [prompt](https://img.dsxzai.com/)
+
 - **2.5 vs 2.0：80 年代跑车真实感硬对比** — 同一题材拉齐看：车漆、人体皮肤、细节密度一眼分代。选型别听口号，把这组并排截图扔进评审会就完事。 [@icreat_ai](https://x.com/icreat_ai) · [原帖](https://x.com/icreat_ai/status/2099374093263106123)
+
+- **官方 Prompt 指南中文提炼：用途→主体→限制** — 先说最终用途，再写主体、构图、风格、光线、材质、文字和限制；指定文字用引号写死位置字体。入门骨架抄这条就够。 [@king1818888](https://x.com/king1818888) · [原帖](https://x.com/king1818888/status/2099336586462695735)
+
+- **Flare / Sunburst 价格带选型表：别只盯榜一** — 同价双版本按任务分流：Flare 求吞吐默认，Sunburst 求多轮精改。把价格带写进选型表，别被编辑榜分数带跑。 [@jojogh_007](https://x.com/jojogh_007) · [原帖](https://x.com/jojogh_007/status/2099330504034308530)
 
 - **Flare 默认 vs Sunburst：ChatGPT 比裸 API 更懂审美** — 同题四路：普通/精度优先/API Flare/API Sunburst。结论狠：ChatGPT 上下文导演感拉满，裸 API 反而更淡——选型别只比型号名。 [@omochgpt](https://x.com/omochgpt) · [原帖](https://x.com/omochgpt/status/2099302189781176717)
 
@@ -716,6 +722,73 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **十字绣城市地标：[CITY / STRUCTURE] 可换槽** — 复古十字绣绣在象牙亚麻上，可见针脚与手工瑕疵。文旅周边 / 小红书手工风封面一键换城。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099378987713896800)
+
+- **旅行海报 [LOCATION] 系列模板：构图锁死只换城** — 4:5 插画旅行海报，植被→步道→水面→地标→字体条全锁死，只换 [LOCATION]。目的地 KV 批产神器。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2099352799893172430)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium illustrated travel poster for [LOCATION] in an exact 4:5 vertical format. This is part of a cohesive global poster series, so keep the composition fixed across every destination; only adapt the landmarks, architecture, landscape, vegetation, and cultural details.
+
+COMPOSITION
+
+Illustration fills 82–85%; reserve the bottom for a warm cream typography panel.
+
+Dense vegetation frames the left edge, with one tall natural anchor in the upper-left.
+
+A curved promenade sweeps from the lower-left toward the center, with globe lamps, dark decorative railing, and a small strolling couple.
+
+A broad water/open-space field occupies the lower-middle; use authentic boats when appropriate.
+
+Place the single most iconic landmark of [LOCATION] as the central hero, with the clearest silhouette and strongest visual focus.
+
+Add one major horizontal landmark behind/beside it for balance.
+
+Build a simplified layered local skyline/landscape with 6–12 major forms.
+
+Add one distinctive tall local landmark near the upper-center as a vertical counterweight.
+
+Keep the upper sky open, bright, and uncluttered, with 2–4 soft clouds, a few birds, and a warm sun in the upper-right.
+
+VISUAL FLOW
+
+Vegetation → promenade/couple → water/open space → central landmark → horizontal landmark → sky/sun → typography.
+
+Never let secondary elements compete with the hero.
+
+STYLE
+
+Sophisticated contemporary travel-poster illustration; clean vector shapes + subtle gouache/screen-print texture, crisp dark-navy outlines, softly shaded color blocks, slight organic imperfection, refined editorial aesthetic, premium collectible quality.
+
+No photorealism, 3D, CGI, glossy rendering, or generic clip-art.
+
+COLOR
+
+Harmonious destination-specific palette using dark navy outlines, natural greens, cool environmental tones, warm architectural tones, and one restrained warm accent.
+
+AUTHENTICITY
+
+Use only genuinely recognizable features of [LOCATION]. Prioritize iconic silhouettes and authenticity over excessive detail. Do not invent landmarks.
+
+TYPOGRAPHY
+
+Bottom cream panel:
+[LOCATION] — large elegant uppercase serif
+Thin horizontal rule
+[COUNTRY / REGION] — small widely spaced uppercase text.
+
+COMPOSITION LOCK
+
+4:5 • left vegetation • upper-left anchor • curved promenade • couple • globe lamps • railing • lower-middle water/open space • central hero • horizontal anchor • layered background • upper-center vertical counterweight • open sky • upper-right sun • bottom typography.
+
+Keep this structure identical for every destination. Adapt the content, never the composition.
+```
+
+  </details>
+
+- **最爱的 editorial 插画海报配方** — 每张上传照单独出一张高端 editorial 海报，禁拼贴；3:4 竖版。Firefly Boards + Image 2.5 最好用，附完整 prompt。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2099343607492702258)
 
 - **Sunburst 半调旅行拼贴：上半真照下半印刷崩解** — 一图两世界：上半锁原片身份，下半撕纸+ASCII+复印网点。旅行 editorial / 档案感海报直接抄，附完整防翻车约束。 [@ShamiWeb3](https://x.com/ShamiWeb3) · [原帖](https://x.com/ShamiWeb3/status/2099316312426381491)
   <details>
@@ -1891,6 +1964,70 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
 - **攻壳草薙素子：一年后再测 Images 2.5** — Zho 把素子拉回赛博写实。角色锁定 + 材质光感的回归测，国风/二次元 IP 人设出片可对标这档质感。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2099365177938575853)
+
+- **钴蓝棚拍街潮男装：奢华 campaign 完整 prompt** — 深蓝针织+烟色透明框眼镜+无缝钴蓝背景，手部与织物约束写死。男装电商主图 / 投放素材可直接用。 [@john_my07](https://x.com/john_my07) · [原帖](https://x.com/john_my07/status/2099357576484069651)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create an ultra-photorealistic high-end studio fashion portrait of a handsome young adult man in his early-to-mid 20s, photographed like a luxury streetwear campaign.
+
+Subject & Appearance:
+A naturally handsome young man with masculine yet refined facial features, realistic skin texture, subtle natural imperfections, expressive eyes, defined jawline, straight nose, natural lips, and light authentic stubble. Tousled, slightly wavy dark-brown hair with realistic individual strands. His appearance should feel believable and photographic rather than overly perfected or AI-generated.
+
+Pose & Expression:
+Place him in a relaxed seated pose, leaning slightly toward the camera. His torso is angled subtly while his shoulders remain relaxed. One arm is bent upward with his hand resting naturally near his mouth and chin, with his fingers positioned loosely and realistically. His other arm rests casually in the foreground. His head is tilted slightly upward and toward the side, with a calm, confident, slightly aloof expression. His gaze is directed toward the camera through the glasses. The pose should feel effortless and editorial rather than staged.
+
+Wardrobe:
+Dress him in a premium oversized dark-navy textured knit sweater with a relaxed streetwear silhouette. The sweater should have realistic heavy fabric, natural folds, ribbed cuffs, and believable draping around the shoulders and arms. Pair it with relaxed-fit light-wash blue denim jeans. Add a minimal fine silver chain necklace. Keep accessories understated and luxurious.
+
+Eyewear:
+Add sophisticated oversized translucent/clear-frame glasses with lightly tinted smoky lenses. The glasses must have realistic reflections and accurate interaction with the studio lighting. Ensure the frames sit naturally on the face without distorting the eyes or facial proportions.
+
+Studio & Background:
+Use a completely seamless, rich cobalt-blue studio backdrop extending uniformly across the entire frame. No visible studio equipment, furniture, texture, gradients, patterns, or environmental distractions. Maintain a premium monochromatic blue fashion-campaign aesthetic.
+
+Lighting:
+Use soft directional studio lighting coming from slightly above and to one side of the subject. Create subtle highlights across the forehead, cheekbones, nose, lips, glasses, and hair while maintaining realistic shadow transitions along the jawline, neck, sweater, and hands. Include gentle rim separation around the hair and shoulders. Preserve natural skin texture and realistic tonal variation. Avoid harsh shadows or artificial HDR.
+
+Camera & Composition:
+Professional full-frame fashion photography, approximately 50–85mm portrait-lens feel, slightly low camera angle, shallow depth of field, realistic perspective, natural facial proportions, and crisp focus on the eyes and face. Frame the subject tightly from approximately the knees/upper legs upward, with the foreground jeans subtly visible. Maintain strong editorial balance with some clean negative space around the head and shoulders.
+
+Photographic Quality:
+Ultra-photorealistic, luxury fashion campaign, premium commercial advertising photography, cinematic studio portrait, subtle film-grade contrast, realistic skin pores, fine facial hair, detailed knit texture, physically accurate fabric folds, realistic hands and fingers, natural hair strands, authentic optical reflections, soft depth of field, refined color grading, high dynamic range without an HDR look, professional magazine-cover quality.
+
+Important:
+The final image must look like a genuine professional photograph captured in a controlled fashion studio, not a digital illustration or AI artwork. Prioritize anatomical accuracy, realistic hands, natural facial proportions, physically believable clothing, authentic skin texture, and convincing studio lighting.
+```
+
+  </details>
+
+- **参考图一发四张定妆照：同人四造型一致性** — 一张参考图锁脸+泪痣，一次出 Cyber Grunge / Quiet Luxury / Sporty Siren / Butterfly Core 四套。人设测一致性直接抄。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2099331412444713025)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+✨ 4 套定妆照 Prompt｜同一人物，不同风格
+
+统一人物锚点：
+同一位成年东亚女性、骨相五官一致、左眼下方保留标志性泪痣、真实毛孔与皮肤纹理、9:16 竖屏摄影、拒绝塑料假人感。
+
+🖤 01｜暗黑甜酷辣妹 Cyber Grunge Chic
+9:16 竖屏人像大片。同一位成年东亚女性，立体精致五官，左眼下方有一颗清晰的标志性泪痣，冷艳眼神，水光裸粉唇釉。墨黑色长发带细微冷银灰挑染，轻薄空气刘海。身穿解构风黑色罗纹镂空挂脖露肩针织短上衣，展露优雅锁骨与直角肩，佩戴细银十字架项链。右手优雅捏着一支银黑金属细管口红，轻贴下唇，直视正前方固定镜头。背景为东京涩谷街头与大楼霓虹虚化，自然漫射光，真实微小毛孔与发丝细节，8K 超清写实摄影。
+
+🤍 02｜法式老钱千金 Quiet Luxury Silk
+9:16 竖屏人像大片。同一位成年东亚女性，五官与左眼下泪痣保持一致，从容慵懒的温柔浅笑，奶茶水润双唇。丰盈蓬松的焦糖蜜糖浅棕色法式大波浪卷发，搭配法式刘海。身穿香槟金色高光真丝缎面深 V 蕾丝拼接修身吊带背心；米白色粗针织开衫自然滑落一侧香肩。右手轻捏金色圆盒气垫粉扑，点按在右侧面颊，正对镜头。背景为柔和奶油感浅景深街景，柔和天光，8K 写实人像摄影。
+
+🖤 03｜美式街头酷辣 Sporty Siren Corset
+9:16 竖屏时尚大片。同一位成年东亚女性，五官与左眼下泪痣保持一致，神态冷峻自信，微光复古正红唇彩。极光冷白金色长直发，垂顺丝滑，搭配齐眉轻薄刘海。身穿极度修身的黑色哑光皮革鱼骨紧身胸衣 Corset；外搭黑白拼色复古棒球服夹克，敞开并自然滑落单肩。右手单指轻抚耳际发丝，下巴微微抬起，直视镜头。东京繁华街头背景，高对比侧逆光，8K 商业级真实摄影。
+
+💚 04｜落日仙女蝶饰 Ethereal Butterfly Core
+9:16 竖屏电影感人像。同一位成年东亚女性，五官与左眼下泪痣保持一致，笑容明媚，水光草莓粉唇。浅杏奶茶金色法式羊毛卷长发，发间错落点缀数枚半透明粉白色立体蝴蝶发夹。身穿复古水洗苔藓绿色弹力抹胸紧身包臀短裙；佩戴细珍珠锁骨链。双手自然垂在身体两侧，手中无任何设备，正对固定机位。背景为东京商业街入口，落日暖黄色漫射光，8K 胶片级写实摄影质感。
+
+同一张人物参考图，只换发型、妆容、服装、光线和场景。
+```
+
+  </details>
 
 - **女儿国国王：千禧年非主流公式一键出片** — 「千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王」——中文 emoji 公式党再下一城，热点人设直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099303054797606998)
   <details>
@@ -3071,6 +3208,10 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **网格单格自然语言抽取：口语坐标也能拆** — 「上从2左从2」「纵3×横2」这种日常说法，Image 2.5 也能抽出单格再拉到 2K。九宫格/精灵表后处理省事。 [@misakin883](https://x.com/misakin883) · [原帖](https://x.com/misakin883/status/2099351178077413642)
+
+- **一张图接着改、接着用：连续编辑实测文** — 西堂长文压测「同一张图能不能一路改下去」。品牌物料多轮精修前先看这篇踩坑。 [@congcongtang](https://x.com/congcongtang) · [原帖](https://x.com/congcongtang/status/2099330191365415193)
+
 - **Sunburst object-swap：换物 match-cut，其余几乎钉死** — 编辑时只换指定物件，其它几乎不动。广告改产品/道具的压测思路，直接抄。 [@invideoOfficial](https://x.com/invideoOfficial) · [原帖](https://x.com/invideoOfficial/status/2098430230079984063)
 
 - **精华液广告流水线：产品表 + 分镜 → 15 秒成片** — GPT Image 2.5 先出产品 sheet 与 cinematic storyboard，再交 Seedance 2.5；提示词全开。DTC 电商广告教科书。 [@HeyAbhishek](https://x.com/HeyAbhishek) · [原帖](https://x.com/HeyAbhishek/status/2098420637631127995)
@@ -3216,9 +3357,21 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
 场景、长卷、视频工作流与氛围大图。
 
+- **角色表+场景板钉死：Seedance 最多 50 参考** — 先钉角色表与 location plate，再写戏；Seedance 2.5 可吃到约 50 张参考。写实多角戏的防漂配方。 [@kayforkind](https://x.com/kayforkind) · [原帖](https://x.com/kayforkind/status/2099391447128518810)
+
+- **InVideo 拆帧 → Image 2.5 逐帧 rotoscope** — 片子丢进 InVideo 拆帧，代理按风格用 Image 2.5 重绘每帧，仍可逐帧改。定格/转绘从月级压到下午级。 [@ohneisserdemy](https://x.com/ohneisserdemy) · [原帖](https://x.com/ohneisserdemy/status/2099390701582598195)
+
 - **品牌人格灌进城市：换输入就长成街景广告** — 套用 mmmiyama 杂志广告配方，把品牌人格塞进东京蓝调街景（人行天桥 + 巨 Logo）。营销向：同一骨架换品牌词，城市视觉秒站队。 [@kraqvoid](https://x.com/kraqvoid) · [原帖](https://x.com/kraqvoid/status/2099375310747926862)
 
+- **Blueprint Racer：Codex+Godot+Blender+Sunburst 贴图** — 一人团队赛车：Godot 引擎、Blender 模、GPT Image 2.5 Sunburst 出图与贴图，Codex 写测代码。游戏资产里 Sunburst 怎么嵌进管线。 [@Parastashvilii](https://x.com/Parastashvilii) · [原帖](https://x.com/Parastashvilii/status/2099371368710037793)
+
 - **同角色换装过场：Image 2.5 静帧 → Seedance 2.5** — 休闲→校服→学院正装，画外换装、人设不漂。先用 GPT Image 2.5 锁静帧，再 Seedance 串成一条概念片——UGC/穿搭广告的省心管线。 [@RXwhale](https://x.com/RXwhale) · [原帖](https://x.com/RXwhale/status/2099367352676864223)
+
+- **16 姿态编舞表 → Seedance 连续舞：先锁关键帧** — GPT Image 2.5 出 16-pose choreography sheet，再丢 Seedance 2.5。关键姿态当地标，过渡更稳、少 AI 鬼畜。 [@gptproto](https://x.com/gptproto) · [原帖](https://x.com/gptproto/status/2099356107605180871)
+
+- **整集角色表 × Image 2.5：Seedance 2.5 连载短剧** — THA TRENCHEZ Ep.04：每镜、每人设、每场景都按 Seedance 2.5 建，顺手测 Image 2.5。连载短剧资产管线可对标。 [@BGriffinCreator](https://x.com/BGriffinCreator) · [原帖](https://x.com/BGriffinCreator/status/2099352480119398736)
+
+- **TV 商业广告管线：Image 2.5 静帧 + Seedance 分镜 prompt** — 汉堡 TVC 向：先出 4:5 静帧构图，再接 18 秒 9:16 Seedance 广告 prompt。投放素材双端配方都摊开。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2099348903699362138)
 
 - **产品页 → 40 张静态广告：Astra 读品牌 + Image 2.5 赶量** — 一页产品详情进，Astra 写文案定角度，Image 2.5 当天吐 40 张成品静态。一人营销队核按钮。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2099293802813182089)
 
