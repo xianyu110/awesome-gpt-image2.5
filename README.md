@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 358 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 367 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **物体删除烤炉：Sunburst vs Nano Banana 2** — 同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。 [@danywach](https://x.com/danywach) · [原帖](https://x.com/danywach/status/2099845477885714780) · [长文](https://nanostudiopro.com/blog/nano-banana-2-vs-gpt-image-2-5-object-removal)
 
 - **Flare 赶量测稿 / Sunburst 出片：同模两档** — 一句话说清选型：Flare 管产品试错与粗视觉，Sunburst 管光影材质与可交货成片。别玄学，按交付阶段切。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766335710654676)
 
@@ -655,9 +657,9 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 - **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486)
 
-- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting)
+- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
 
-- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA)
+- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
 
 
 ## Sketch
@@ -782,6 +784,8 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **四大饮料品牌四世界：一条 campaign 多世界观** — PAUSE / SIP / REFRESH / HAVE FUN——四联各成一套视觉语言。一人团队做饮料/快消 SMM 时，「一提示多世界」比单张好看更值钱；评论区有完整 7UP 级长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099851373470945551) · [prompt](https://x.com/Diplomeme/status/2099851680380838194)
 
 - **品牌字标校园：Fortune 500 等距微缩校园** — 把公司名变成可逛的字标建筑校园，负空间藏剪影。2×2·16:9 槽位可换品牌，病毒设计物配方完整可抄。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2099807186461634953)
   <details>
@@ -2352,6 +2356,48 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **中文海边 UGC 自拍：黄金时段写实配方** — 高开叉泳衣 + 黄金时段暖侧光 + 海浪礁石——写实摄影质感写全。中文市场生活方式素材比空喊 photoreal 好用；顺带踩到官网 vs 第三方 API 审核差。 [@shitunote](https://x.com/shitunote) · [原帖](https://x.com/shitunote/status/2099846900031852562)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+一位长发黑发的东亚美女在海边自拍，穿着黑色高开叉连体泳衣，金色硬币吊坠项链，夕阳黄金时段，海浪拍打礁石，暖色侧光，真实摄影质感，皮肤细腻，微微侧身看镜头
+```
+
+  </details>
+
+- **汉风夜亭人像：宫灯暖金×月光冷蓝** — 明艳古风女子斜倚夜亭软榻——团扇、凤冠、披帛与樱花全写死。国风竖版人像/封面结构化中文 prompt 可整段复用。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2099845483594404165)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+一位明确成年的明艳古风女子斜倚在夜色木亭的软榻边，身穿胭脂红与鎏金配色的华丽汉服，外搭米白薄纱长袖，头戴金凤凰红宝石珍珠凤冠。她的身体朝向右前方，头部轻轻偏向左侧，目光直视镜头，眉眼温柔坚定，嘴角微扬；一只手握着圆形团扇置于胸前，另一只手轻搭软榻边缘。晚风推动披帛、长发和凤冠流苏，几片樱花从暖色宫灯前掠过。背景保留木柱、雕花栏杆和虚化月色，宫灯暖金光照亮脸部与红色织锦，冷蓝月光勾勒肩线和发丝。85mm 人像镜头，f/1.8 浅景深，克制冷暖对比，东方电影美学、高级华丽而不艳俗、8K。
+```
+
+  </details>
+
+- **个人图解/角色设定表：Images 2.5 复刻实测** — 把「个人图解」那套人设表丢给 Images 2.5 复刻——信息架构+角色格一次成型。做自我介绍卡 / IP 设定表可对标。 [@2ndHitsuji](https://x.com/2ndHitsuji) · [原帖](https://x.com/2ndHitsuji/status/2099843668572049873)
+
+- **表情参考锁：人脸表情一键搬到猫/角色** — 一句「把图二猫咪变成图一那样的表情」——人脸表情稳贴到动物/角色。UGC 表情包与品牌吉祥物改表情直接抄。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+把图二猫咪变成图一那样的表情
+```
+
+  </details>
+
+- **盛夏记忆感生活照：湿发×CCD×高亮逆光** — 海边盛夏 × 湿发抓拍 × CCD 柔焦 × 近距离互动 × 高亮逆光——社媒生活方式素材一句话出片。 [@chenlinspark](https://x.com/chenlinspark) · [原帖](https://x.com/chenlinspark/status/2099826059982295326)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+海边盛夏 × 湿发抓拍 × CCD柔焦 × 近距离互动 × 高亮逆光
+```
+
+  </details>
+
 - **WoW 元帅铠甲角色表：Astra×Sunburst×Seedance** — 先用 Astra 拆 Forever 预告，再 Sunburst 出自己穿 Field Marshal 铠甲的角色表，Seedance 接成片。游戏 IP 自插角色管线可抄。 [@maxescu](https://x.com/maxescu) · [原帖](https://x.com/maxescu/status/2099809695972110560)
 
 - **Flare 9:16 4K Max：东亚瓷肤近景人像** — 青蓝侧光+纯黑底+双手托脸珠宝细节。Flare Max 竖版美妆/种草 KV 直接复用整段。 [@woleswoosh](https://x.com/woleswoosh) · [原帖](https://x.com/woleswoosh/status/2099743767951737090)
@@ -3772,7 +3818,7 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
   </details>
 
-- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ)
+- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [playbook](docs/playbooks/virtual-ip-assets.md)
 
 
 ## 电商改图
@@ -4006,6 +4052,50 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **TWIX 焦糖分镜商业片：故事板锁镜三镜头** — 上传 storyboard 当主参考，约 16 秒、三镜、9:16 竖屏——产品/包装一致性写死。快消食品广告「分镜锁一致性」整段可抄。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2099850452426961352)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded storyboard image as the primary visual reference.
+
+Create a premium 9:16 vertical TWIX Caramel Cookie Bars commercial, about 15.5–16 seconds long, in 3 shots, following the storyboard exactly.
+
+Keep the same saturated warm gold seamless studio, glossy commercial lighting, caramel-brown and gold palette, and premium food-advertising style throughout.
+
+Maintain product consistency across all shots:
+- TWIX bars = biscuit cookie base + chewy caramel layer + milk chocolate coating
+- TWIX pack = gold flow-wrap, readable white TWIX letters with red sides, sealed, upright, centered where shown
+
+Use clean straight cuts only.
+No text overlays.
+No slogans.
+No camera shake.
+No morphing.
+All shots use a locked camera.
+
+SHOT 1:
+Stacked unwrapped TWIX bars on a glossy gold cylindrical pedestal in the gold studio. One bar shows its interior cross-section. A thick glossy caramel stream pours from above onto the top bar, coats it, and drips down the sides onto the pedestal. The stack stays still. Locked camera. End with a few heavy caramel drips.
+
+SHOT 2:
+Extreme close-up of an adult woman’s mouth with caramel-red lipstick against the gold background. She holds a bitten TWIX bar to her lips. She takes one slow small bite. The cookie compresses slightly and a thin caramel string stretches briefly, then settles. Her head stays nearly still. Locked camera. End with the bitten bar still at her lips.
+
+SHOT 3:
+Hero packshot in the same gold studio. The upright TWIX pack stands centered, surrounded by a low ring of broken cookie pieces, caramel shards, and chocolate chunks. Small crumbs and chocolate bits fall slowly from above around the pack and settle onto the pile. The pack stays still and readable. Locked camera.
+
+Food realism is critical:
+glossy caramel, realistic biscuit texture, realistic chocolate coating, appetizing bite mark, clean premium studio finish.
+
+Do not generate:
+children, extra people, extra products, KitKat, Nestlé, wrapper in shot 1 or 2, messy chocolate, smoke, steam, dark backgrounds, floating pack, rotating pack, chaotic particles, text overlays, subtitles, or surreal motion.
+
+Final feel: iconic, appetizing, glossy, controlled, premium gold-studio food commercial.
+```
+
+  </details>
+
+- **人设图+ElevenLabs+Seedance：50 条 FB 广告流水线** — Image 2.5 出目标客群人设图 → ElevenLabs 配音 → Seedance 批量成片 → Facebook CBO 同广告组灌 50 条让 Andromeda 筛赢家。一人增长团队的素材工厂模板。 [@codyschneider](https://x.com/codyschneider) · [原帖](https://x.com/codyschneider/status/2099845746354733333)
 
 - **低头看一眼手机：车站灾变动画** — Image 2.5 钉首帧，Seedance 2.5 接灾难片节奏。社媒「一晃神世界观崩了」短片模板。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099807993785397630)
 
