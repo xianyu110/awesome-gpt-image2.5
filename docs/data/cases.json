@@ -2587,5 +2587,88 @@
     "url": "https://x.com/Mayz1169/status/2099457417528692871",
     "category": "像素动效",
     "prompt": "Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image.\n\nCHARACTER CONSISTENCY Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout.  \n\nADAPTIVE CHOREOGRAPHY Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion. \n\nChoose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses.  Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending.  \n\nUse the following movement structure, adapting each action to the character: \n1. Opening pose that establishes the character’s personality. \n2. Small rhythmic step with a coordinated arm gesture. \n3. Side step with one arm extended. \n4. Compact expressive gesture near the face or upper body. \n5. Grounded stance with arms crossing or sweeping inward. \n6. Knee lift or an anatomically appropriate weight shift. \n7. Open, expansive pose with arms spread. \n8. Playful or expressive balance pose. \n9. Turning pose showing a three-quarter rear view. \n10. Forward-reaching movement with a diagonal body lean. \n11. Strong upward-reaching accent. \n12. Climactic jump or a grounded full-body extension if jumping is unsuitable. \n13. Lowered stance with a forward gesture. \n14. Elegant or dynamic side-facing transition. \n15. Signature gesture that suits the character. \n16. Confident final pose with a clear finishing silhouette.  \n\nCOMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally.  Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories.  Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable.  \n\nAVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks.  \n\nFinal output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses."
+  },
+  {
+    "id": "2099483146966446369",
+    "title": "夜闪人像三连：2 / Sunburst / Flare 同脸硬刚",
+    "blurb": "直闪夜街同一张脸参考，左到右 Image 2、Sunburst、Flare；Flare 整体最强，2 反而更像「相机拍出来」。选型别只看干净——设置与费用在回复里。",
+    "author": "FlyAIgh",
+    "url": "https://x.com/FlyAIgh/status/2099483146966446369",
+    "category": "选型评测"
+  },
+  {
+    "id": "2099479395283214473",
+    "title": "任意参考图 → 一整天 iPhone 相机卷",
+    "blurb": "一张图扩成「刷了一天相机胶卷」的多拍感，主体锁死；prompt 在 thread。UGC 假日常 / 种草连更模板。",
+    "author": "Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2099479395283214473",
+    "category": "人像角色"
+  },
+  {
+    "id": "2099498417084940418",
+    "title": "素人照 → 超现实漫画街拍：身份锁长 prompt",
+    "blurb": "参考图锁脸体，24–28mm 居中全身 + 环境嵌入 2D doodle，人不变卡通。人设海报 / 社媒 campaign 整段可复制。",
+    "author": "meAsifAi",
+    "url": "https://x.com/meAsifAi/status/2099498417084940418",
+    "category": "人像角色"
+  },
+  {
+    "id": "2099498799786074400",
+    "title": "高光 CCD 未来都市生活照：分段中文 prompt",
+    "blurb": "光伏顶棚步道 + 杏橙针织 + 冷白短裙，日间清亮高光 CCD 写死光线滤镜。小红书 / UGC 都市人像直接返图。",
+    "author": "liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2099498799786074400",
+    "category": "人像角色"
+  },
+  {
+    "id": "2099500153598341578",
+    "title": "芒果漩涡雪糕海报：双食材表面物理写死",
+    "blurb": "芒果金霜褶 vs 莓紫果浆黏度分区控漩涡，再套奢品海报信息架构。食品广告别只写「好吃」——用表面行为控材质。",
+    "author": "ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2099500153598341578",
+    "category": "海报排版"
+  },
+  {
+    "id": "2099677911477551536",
+    "title": "当代新中式文化海报：宣纸网格+印章几何",
+    "blurb": "竖版 3:4，「读懂中国文化」主标题压画面六成；墨黑/朱砂/玉青，折扇窗棂印章入现代网格。国风知识海报 / 公众号封面直接抄。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2099677911477551536",
+    "category": "海报排版",
+    "prompt": "设计一张竖版 3:4 中国文化知识海报，采用“当代新中式”风格。暖米色宣纸背景，墨黑、朱砂红与玉石青配色，现代网格结合印章、折扇和窗棂几何元素。画面上方放置主标题“读懂中国文化”，中部副标题“藏在日常里的东方智慧”，底部小字“礼 · 乐 · 诗 · 书 · 茶”。标题占画面约60%，字体清晰有力量，留白克制。只呈现指定中文，不添加其他文字、拼音、Logo、水印或乱码。"
+  },
+  {
+    "id": "2099676470872518926",
+    "title": "Sketch 构图口诀：大数字 / 人物 / 短说明",
+    "blurb": "别用长文抠站位——先画「左大数字、右人物、下短说明」。厅内 POP / 社媒图：说什么之外，先把怎么摆画出来。",
+    "author": "amusement_works",
+    "url": "https://x.com/amusement_works/status/2099676470872518926",
+    "category": "Sketch"
+  },
+  {
+    "id": "2099672233572745336",
+    "title": "巨型玻璃球球面折射人像（短配方）",
+    "blurb": "卡哇伊女友 × 巨型玻璃球视角 × 球面折射 × 浅景深微距。物理对不对先别管——种草大片光学感一把梭。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2099672233572745336",
+    "category": "人像角色",
+    "prompt": "卡哇伊女友 × 巨型玻璃球视角 × 球面折射人像 × 浅景深微距抓拍"
+  },
+  {
+    "id": "2099661962414284975",
+    "title": "短 prompt 文字设计：横长 5:2 信息图",
+    "blurb": "附参考图 + 换主题即可；侧脸头像溢出 3D 零件，橙珊瑚点缀。图解 / 品牌首屏别堆长文——短约束反而稳。",
+    "author": "MatoToushi",
+    "url": "https://x.com/MatoToushi/status/2099661962414284975",
+    "category": "海报排版",
+    "prompt": "\"一生モノの\" AI×デザイン思考を手に入れる　をテーマにしたおしゃれな図解を作成します。添付した画像の女性の横顔、頭から、AIとデザイン関する3Dパーツがあふれでるイラスト。オレンジとコーラルピンクを差し色に使用する。アスペクト比　5:2 n=2"
+  },
+  {
+    "id": "2099665985569755159",
+    "title": "Image 2.5 分镜 → Seedance 广告生产线",
+    "blurb": "先锁产品/人物/镜头/节奏分镜，再丢 Seedance 2.5，最后时间线精修。单模型是入场券，串成工作流才是下一轮差距。",
+    "author": "Adam38363368936",
+    "url": "https://x.com/Adam38363368936/status/2099665985569755159",
+    "category": "场景视觉"
   }
 ]
