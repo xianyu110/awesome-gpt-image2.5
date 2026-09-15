@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 348 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 358 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Flare 赶量测稿 / Sunburst 出片：同模两档** — 一句话说清选型：Flare 管产品试错与粗视觉，Sunburst 管光影材质与可交货成片。别玄学，按交付阶段切。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766335710654676)
 
 - **Codex MCP Sunburst vs 内置 image_gen 同题** — 结城浩对照：mcp-create-image 走 GPT Image 2.5 Sunburst，另一路用 Codex 内置 image_gen。同是 OpenAI，管线不同画风也不同——工具链选型别混。 [@hyuki](https://x.com/hyuki) · [原帖](https://x.com/hyuki/status/2099750214492131662)
 
@@ -780,6 +782,147 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **品牌字标校园：Fortune 500 等距微缩校园** — 把公司名变成可逛的字标建筑校园，负空间藏剪影。2×2·16:9 槽位可换品牌，病毒设计物配方完整可抄。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2099807186461634953)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+2x2 grid, 16:9, do this for 4 Fortune 500 companies: [HYBRID EQUATION]  $ SUBJECT + giant architectural typography + minimalist negative-space logo + isometric product campus + hidden silhouette inside letters + tiny people for scale + clean platform base + white/black premium material palette + rooftop gardens / rooms / plazas - copied real logos - random miniature clutter - messy typography - generic building model = subject-as-wordmark-campus-emblem  [INSTRUCTION] Render the visual solution.  VISUAL LOGIC: - The subject’s name becomes the architecture. - The architecture becomes a miniature campus. - The campus layout secretly forms the subject’s silhouette. - The negative space becomes the cleverest part of the image. - The tiny inhabitants reveal function, scale, and culture. - The final object must work as both a logo and a diorama.  TRANSFORMATION LOGIC: - Convert letters into buildings. - Convert letter counters/open spaces into courtyards, windows, eyes, mouths, portals, rooms, or symbolic holes. - Convert curves into tails, paths, ramps, bridges, handles, wings, waves, tools, or motion trails. - Convert vertical strokes into towers, legs, pillars, screens, shelves, or monuments. - Convert the subject’s essence into a hidden silhouette readable only after a second look. - Convert culture/function into tiny subject-relevant props and micro-scenes.  OUTPUT: A viral design-object where $ SUBJECT becomes a walkable typographic campus with a hidden negative-space emblem embedded into its architecture.
+```
+
+  </details>
+
+- **东方文化海报：大色域+微场景纸本拼贴** — 纸鸢/听琴/晒书/溪上清集四联——远看色块构图，近看微型故事。非遗/文化活动 KV 可填槽模板，附完整中文提示词。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099804706801369428)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【主题 / 活动名称】
+【主色域】
+【微场景】
+【文化元素】
+【标题文字】
+【辅助信息】
+【画幅比例】
+
+设计一张具有现代东方编辑美学的文化活动海报，核心视觉采用「大色域 + 微场景」的构成方式，并加入明显但克制的纸本拼贴与水彩材质语言。
+
+画面以大面积低饱和色块作为第一视觉主体，使用【主色域】建立强烈、完整的大形关系。色块可以通过撕纸、叠层、遮挡、围合、穿插、悬挂、斜向延伸或留白负空间构成山势、水岸、庭院、工坊、纸鸢、染布等抽象空间，但不要直接画成普通写实场景。远看首先看到清晰的大色域构图，缩略图状态下仍具有明显识别度。
+
+所有色块具有丰富真实的手工纸、水彩纸浆和矿物颜料质感，可见天然纸纤维、颜料沉积、轻微压痕、擦印、自然浓淡变化与不规则撕纸边缘。材质细腻丰富但保持干净完整，不做脏旧、黄斑、严重破损、强颗粒或廉价复古滤镜。整体呈现哑光、自然、有呼吸感的纸本触觉。
+
+在大片色域之间加入一个尺度非常小但内容完整的【微场景】。人物与道具整体只占画面约 2%–5%，人物正在真实地做一件事情，而不是站立摆拍。通过动作、器物和空间关系讲清一个小故事，例如放飞、弹琴、饮茶、拓印、晒书、染布、制陶等。人物服装自然克制，与整体文化主题统一，不抢夺大色域的第一视觉。
+
+微场景可以加入少量【文化元素】，但控制数量和信息密度。道具自然散落或参与人物动作，不做商品陈列，不堆满画面。可以设置一个面积很小的暖色节点、朱红印记、灯火、月亮或器物色彩作为点睛，通常控制在画面 1%–3%。
+
+排版采用克制的东方编辑设计语言。主标题【标题文字】使用精致的中文宋体、明朝体或具有出版感的现代字体，字号不要过大，保持充足留白，让文字成为第二视觉层级，而不是用巨大 Typography 压住画面。辅助英文、日期、地点和活动信息采用更小字号，形成清楚的信息层级。所有文字必须有真实意义，不使用 RANDOM、DESIGN、ART、STUDIO 等无意义占位词。
+
+构图避免机械居中和规则 PPT 网格，优先使用不对称布局、大面积留白、色块错位、前后遮挡和疏密反差。让画面形成“远看简洁、有大形；近看有材质、有场景、有故事”的阅读体验。
+
+整体风格应呈现现代东方文化海报、纸本拼贴、水彩材质、编辑设计与微型叙事融合的视觉效果，高级、自然、克制、有文化气质，同时具备真实专业海报的完成度。
+
+避免：书籍封面既视感、巨大标题、传统水墨画、普通国风插画、写实摄影背景、PPT式排版、商业广告感、元素堆砌、过度装饰、脏旧纸张、随机噪点、塑料感、3D CGI、玻璃材质、霓虹色、Logo、水印、编号、星芒装饰。
+```
+
+  </details>
+
+- **写真→水彩纸面封面：禁对半拼贴改编** — 上传照片只抽轮廓与叙事，整幅变成手工水彩封面；修正常见「上下对半」翻车。封面/独立出版向完整英文 prompt。 [@impaulxyz](https://x.com/impaulxyz) · [原帖](https://x.com/impaulxyz/status/2099770443808821443)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+## DIRECTIVE
+Generate a single watercolor paper-cover illustration. Use the attached reference image only as a source to extract subject, silhouette, pose, objects, colors, and canvas proportion. Do not place, collage, overlay, split, or attach the original photograph anywhere in the frame. The entire canvas is the illustration.
+
+## FORMAT
+Match the exact aspect ratio and orientation of the attached reference image.
+If the reference is horizontal, the illustration is horizontal.
+If the reference is vertical, the illustration is vertical.
+If the reference is square, the illustration is square.
+One full-bleed handmade paper illustration.
+No top/bottom split.
+No photographic insert.
+No diptych.
+No letterboxing or added bars.
+
+## ASPECT RATIO ADAPTATION
+The output canvas must inherit the size relationship of the reference image.
+Recompose the extracted elements to occupy that same proportion with intention.
+Do not stretch, squash, or pad the drawing to fake another format.
+Do not keep the original photograph's empty margins as dead space.
+Use the full reference proportion as an editorial page: subject, a few supporting shapes, and paper ground arranged for that specific width and height.
+
+## SUBJECT EXTRACTION
+Study the attached reference image.
+Preserve only:
+- the most recognizable subject
+- essential silhouette and proportions
+- key pose or gesture
+- important objects
+- the core narrative relationship between people and objects
+
+Highly simplify.
+Remove unnecessary details.
+Retain only the visual information needed for immediate recognition.
+
+Never copy photographic texture, pores, lens blur, or camera grain into the illustration.
+Never redraw the photograph as a painted photo.
+Never keep the original photo visible.
+
+## MEDIUM
+Minimalist hand-drawn watercolor on paper.
+
+Use:
+- delicate, slightly imperfect hand-drawn lines
+- transparent watercolor washes
+- a small number of bold, clearly defined flat color shapes
+- rough paper texture
+- visible handmade brush marks
+- slightly irregular, organic edges
+- subtle pooling, bloom, and pigment granulation
+- slight imperfections that make it feel genuinely handmade
+
+The main illustrated subject should be small and carefully composed, occupying approximately 20–35% of the canvas.
+Leave a large amount of negative space around the illustration, distributed according to the reference proportion.
+
+## PAPER GROUND
+The background should primarily resemble:
+- rough white paper
+- warm off-white paper
+- pale natural paper
+- minimal editorial book-cover stock
+
+Use only a few lines or small watercolor shapes to suggest the surrounding environment.
+Do not fill the page with a full scene.
+Do not paint a photographic background.
+
+## COLOR PALETTE
+Extract the dominant colors directly from the attached reference image.
+Compress the palette into no more than 4 main colors.
+Keep the colors restrained, sophisticated, and harmonious.
+Use bold but controlled flat watercolor blocks.
+Avoid excessive color variation.
+Preserve subtle paper grain and handmade brush texture.
+The illustration should feel like a simplified watercolor interpretation of the reference, not a copy of it.
+
+## TYPOGRAPHY
+A small amount of simple typography may be included when it naturally fits.
+Possible elements: a short title, keyword, object name, location, year, number, or short phrase.
+Text should be minimal, understated, and editorial.
+Place type in the negative space created by the reference proportion.
+Do not force text into the composition if it does not naturally fit the subject.
+No logos. No watermarks. No captions describing the image.
+
+## VISUAL LANGUAGE
+Quiet. Poetic. Refined. Minimal. Innocent. Relaxed. Artistic. Thoughtful. High-recognition. Premium.
+Art-book cover. Independent publishing. Contemporary editorial design. Thoughtful picture book.
+
+## NEGATIVE PROMPT
+No original photograph in the frame, no split layout, no top photo / bottom drawing, no collage, no photomontage, no attached reference image, no photorealism, no camera look, no lens blur, no cinematic portrait, no beauty retouch, no extra people, no identity-heavy realism, no crowded composition, no full-bleed painted scene, no forced 3:4, no forced square, no letterboxing, no black bars, no stretched or squashed drawing, no unused margins copied from the photograph, no excessive detail, no more than four main colors, no loud typography, no logos, no watermarks, no HUD.
+```
+
+  </details>
 
 - **3D 纸雕地标：[STRUCTURE] 博物馆模型模板** — 地标切成分层纸雕雕塑，配城市/国家/卖点三行字。文旅系列 KV 换槽即出，纸艺边缘与阴影写死了。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099741955458478351)
   <details>
@@ -2209,6 +2352,8 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **WoW 元帅铠甲角色表：Astra×Sunburst×Seedance** — 先用 Astra 拆 Forever 预告，再 Sunburst 出自己穿 Field Marshal 铠甲的角色表，Seedance 接成片。游戏 IP 自插角色管线可抄。 [@maxescu](https://x.com/maxescu) · [原帖](https://x.com/maxescu/status/2099809695972110560)
+
 - **Flare 9:16 4K Max：东亚瓷肤近景人像** — 青蓝侧光+纯黑底+双手托脸珠宝细节。Flare Max 竖版美妆/种草 KV 直接复用整段。 [@woleswoosh](https://x.com/woleswoosh) · [原帖](https://x.com/woleswoosh/status/2099743767951737090)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -3634,6 +3779,8 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **Sunburst 电商色号一键改：只动颜色其余锁死** — 六个色号不重拍——定向改色，构图/模特/布光全留。商品主图与货架变体流水线直接抄。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766317129867637)
+
 - **金色香水仪式：锁脸 9:16 产品人像** — 上传图锁身份，喷香水动作+琥珀侧光电影感。香水/美妆 KV 可整段复用，负向词也写全了。 [@imGopalTiwari](https://x.com/imGopalTiwari) · [原帖](https://x.com/imGopalTiwari/status/2099715941605195847)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -3859,6 +4006,50 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **低头看一眼手机：车站灾变动画** — Image 2.5 钉首帧，Seedance 2.5 接灾难片节奏。社媒「一晃神世界观崩了」短片模板。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099807993785397630)
+
+- **皮克斯风午夜食堂：角色场景→Seedance** — 角色与场景全用 Image 2.5，再喂 Seedance；厨师备餐动作意外丝滑。短动画食堂氛围片流水线。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099804371450216506)
+
+- **草莓酱冲出信息流：UI 锁死局部溢出** — 把参考图当锁死底片，只让果酱越过黑条 UI 滴到吐司——构图/点赞数全不动。Feed 破框创意+完整物理 prompt。 [@miacyrnswy](https://x.com/miacyrnswy) · [原帖](https://x.com/miacyrnswy/status/2099801749163012364)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+STRICT COMPOSITION LOCK:
+Treat the reference image as a locked photographic plate. Preserve the exact position, size, shape, and orientation of the jar, label, existing jam pool, toast, black-gloved hand, white backgrounds, and black social-media UI.
+
+The existing jam pool on the upper white surface must retain its original footprint, outer contour, and location. Do not expand, slide, reshape, or reposition it. Keep the jar, hand, and toast completely still. No camera movement, zoom, cuts, or reframing.
+
+ONLY ANIMATE THE OVERFLOW AND ITS ACCUMULATION:
+The only source of motion is the frontmost jam tip already protruding over the upper image boundary. Extend this exact tip downward into a glossy, continuous strawberry-jam stream. Keep its attachment point fixed at the same image coordinates throughout the video.
+
+Only the small overhanging tip may deform into the falling stream; the rest of the existing surface pool remains visually unchanged. Do not create a new pouring origin, shift the pool, or leave a duplicated static tip behind.
+
+FLOW PATH:
+The stream falls straight downward from the fixed tip, passes visibly IN FRONT OF the black UI bar, and lands on the area of toast directly beneath it.
+
+The black bar is a background graphic, not a physical barrier. The stream naturally occludes only the text or icons directly behind it. Preserve all UI text, engagement numbers, and icons exactly in place, without distortion.
+
+REALISTIC JAM PHYSICS:
+Thick but pourable, glossy strawberry jam with fine seeds and tiny fruit flecks. The stream elongates and narrows naturally under gravity while remaining continuously attached to the original tip.
+
+Once it reaches the toast, the jam folds onto itself and gradually accumulates into a glossy mound at the fixed landing point, slowly spreading a short distance across the bread texture. Do not move the toast to distribute it. No instant full coating, watery splashes, disconnected blobs, or rigid rubber-like stretching.
+
+TIMELINE:
+0–2s: The existing overhanging tip stretches straight down across the foreground of the black bar and reaches the stationary toast.
+2–10s: A continuous stream pours from the same fixed origin onto the same landing area. Jam visibly builds up and slowly spreads locally on the toast. All other elements remain locked.
+
+AUDIO:
+Subtle, synchronized viscous pouring and sticky contact sounds. No music or speech.
+
+PRIORITY:
+Preserve the original image composition. Animate only the small overflowing tip, the falling jam stream, and the jam accumulating on the bread.
+```
+
+  </details>
+
+- **从零搭 campaign：不抄热门模板** — 刻意不用流行 prompt 模板，从零测 Image 2.5 品牌 campaign 输出。营销向「别跟风槽位」对照样本。 [@eyishazyer](https://x.com/eyishazyer) · [原帖](https://x.com/eyishazyer/status/2099796328918417818)
 
 - **Image 2.5 静帧 → wan 2.1 说话头像** — 本地 5090 跑 wan 2.1 animate：先用 GPT Images 2.5 出参考静帧，再做 talking-head。开源权重静转动又一条实操链。 [@kaimonstre](https://x.com/kaimonstre) · [原帖](https://x.com/kaimonstre/status/2099684940090917262)
 
