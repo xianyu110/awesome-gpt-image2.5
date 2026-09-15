@@ -3019,5 +3019,84 @@
     "url": "https://x.com/miacyrnswy/status/2099801749163012364",
     "category": "场景视觉",
     "prompt": "STRICT COMPOSITION LOCK:\nTreat the reference image as a locked photographic plate. Preserve the exact position, size, shape, and orientation of the jar, label, existing jam pool, toast, black-gloved hand, white backgrounds, and black social-media UI.\n\nThe existing jam pool on the upper white surface must retain its original footprint, outer contour, and location. Do not expand, slide, reshape, or reposition it. Keep the jar, hand, and toast completely still. No camera movement, zoom, cuts, or reframing.\n\nONLY ANIMATE THE OVERFLOW AND ITS ACCUMULATION:\nThe only source of motion is the frontmost jam tip already protruding over the upper image boundary. Extend this exact tip downward into a glossy, continuous strawberry-jam stream. Keep its attachment point fixed at the same image coordinates throughout the video.\n\nOnly the small overhanging tip may deform into the falling stream; the rest of the existing surface pool remains visually unchanged. Do not create a new pouring origin, shift the pool, or leave a duplicated static tip behind.\n\nFLOW PATH:\nThe stream falls straight downward from the fixed tip, passes visibly IN FRONT OF the black UI bar, and lands on the area of toast directly beneath it.\n\nThe black bar is a background graphic, not a physical barrier. The stream naturally occludes only the text or icons directly behind it. Preserve all UI text, engagement numbers, and icons exactly in place, without distortion.\n\nREALISTIC JAM PHYSICS:\nThick but pourable, glossy strawberry jam with fine seeds and tiny fruit flecks. The stream elongates and narrows naturally under gravity while remaining continuously attached to the original tip.\n\nOnce it reaches the toast, the jam folds onto itself and gradually accumulates into a glossy mound at the fixed landing point, slowly spreading a short distance across the bread texture. Do not move the toast to distribute it. No instant full coating, watery splashes, disconnected blobs, or rigid rubber-like stretching.\n\nTIMELINE:\n0–2s: The existing overhanging tip stretches straight down across the foreground of the black bar and reaches the stationary toast.\n2–10s: A continuous stream pours from the same fixed origin onto the same landing area. Jam visibly builds up and slowly spreads locally on the toast. All other elements remain locked.\n\nAUDIO:\nSubtle, synchronized viscous pouring and sticky contact sounds. No music or speech.\n\nPRIORITY:\nPreserve the original image composition. Animate only the small overflowing tip, the falling jam stream, and the jam accumulating on the bread."
+  },
+  {
+    "id": "2099845477885714780",
+    "title": "物体删除烤炉：Sunburst vs Nano Banana 2",
+    "blurb": "同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。",
+    "author": "danywach",
+    "url": "https://x.com/danywach/status/2099845477885714780",
+    "category": "选型评测",
+    "playbook": "https://nanostudiopro.com/blog/nano-banana-2-vs-gpt-image-2-5-object-removal"
+  },
+  {
+    "id": "2099851373470945551",
+    "title": "四大饮料品牌四世界：一条 campaign 多世界观",
+    "blurb": "PAUSE / SIP / REFRESH / HAVE FUN——四联各成一套视觉语言。一人团队做饮料/快消 SMM 时，「一提示多世界」比单张好看更值钱；评论区有完整 7UP 级长 prompt。",
+    "author": "Diplomeme",
+    "url": "https://x.com/Diplomeme/status/2099851373470945551",
+    "category": "海报排版",
+    "playbook": "https://x.com/Diplomeme/status/2099851680380838194"
+  },
+  {
+    "id": "2099832996216135874",
+    "title": "表情参考锁：人脸表情一键搬到猫/角色",
+    "blurb": "一句「把图二猫咪变成图一那样的表情」——人脸表情稳贴到动物/角色。UGC 表情包与品牌吉祥物改表情直接抄。",
+    "author": "ZHO_ZHO_ZHO",
+    "url": "https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874",
+    "category": "人像角色",
+    "prompt": "把图二猫咪变成图一那样的表情"
+  },
+  {
+    "id": "2099826059982295326",
+    "title": "盛夏记忆感生活照：湿发×CCD×高亮逆光",
+    "blurb": "海边盛夏 × 湿发抓拍 × CCD 柔焦 × 近距离互动 × 高亮逆光——社媒生活方式素材一句话出片。",
+    "author": "chenlinspark",
+    "url": "https://x.com/chenlinspark/status/2099826059982295326",
+    "category": "人像角色",
+    "prompt": "海边盛夏 × 湿发抓拍 × CCD柔焦 × 近距离互动 × 高亮逆光"
+  },
+  {
+    "id": "2099845483594404165",
+    "title": "汉风夜亭人像：宫灯暖金×月光冷蓝",
+    "blurb": "明艳古风女子斜倚夜亭软榻——团扇、凤冠、披帛与樱花全写死。国风竖版人像/封面结构化中文 prompt 可整段复用。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2099845483594404165",
+    "category": "人像角色",
+    "prompt": "一位明确成年的明艳古风女子斜倚在夜色木亭的软榻边，身穿胭脂红与鎏金配色的华丽汉服，外搭米白薄纱长袖，头戴金凤凰红宝石珍珠凤冠。她的身体朝向右前方，头部轻轻偏向左侧，目光直视镜头，眉眼温柔坚定，嘴角微扬；一只手握着圆形团扇置于胸前，另一只手轻搭软榻边缘。晚风推动披帛、长发和凤冠流苏，几片樱花从暖色宫灯前掠过。背景保留木柱、雕花栏杆和虚化月色，宫灯暖金光照亮脸部与红色织锦，冷蓝月光勾勒肩线和发丝。85mm 人像镜头，f/1.8 浅景深，克制冷暖对比，东方电影美学、高级华丽而不艳俗、8K。"
+  },
+  {
+    "id": "2099843668572049873",
+    "title": "个人图解/角色设定表：Images 2.5 复刻实测",
+    "blurb": "把「个人图解」那套人设表丢给 Images 2.5 复刻——信息架构+角色格一次成型。做自我介绍卡 / IP 设定表可对标。",
+    "author": "2ndHitsuji",
+    "url": "https://x.com/2ndHitsuji/status/2099843668572049873",
+    "category": "人像角色"
+  },
+  {
+    "id": "2099846900031852562",
+    "title": "中文海边 UGC 自拍：黄金时段写实配方",
+    "blurb": "高开叉泳衣 + 黄金时段暖侧光 + 海浪礁石——写实摄影质感写全。中文市场生活方式素材比空喊 photoreal 好用；顺带踩到官网 vs 第三方 API 审核差。",
+    "author": "shitunote",
+    "url": "https://x.com/shitunote/status/2099846900031852562",
+    "category": "人像角色",
+    "prompt": "一位长发黑发的东亚美女在海边自拍，穿着黑色高开叉连体泳衣，金色硬币吊坠项链，夕阳黄金时段，海浪拍打礁石，暖色侧光，真实摄影质感，皮肤细腻，微微侧身看镜头"
+  },
+  {
+    "id": "2099845746354733333",
+    "title": "人设图+ElevenLabs+Seedance：50 条 FB 广告流水线",
+    "blurb": "Image 2.5 出目标客群人设图 → ElevenLabs 配音 → Seedance 批量成片 → Facebook CBO 同广告组灌 50 条让 Andromeda 筛赢家。一人增长团队的素材工厂模板。",
+    "author": "codyschneider",
+    "url": "https://x.com/codyschneider/status/2099845746354733333",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2099850452426961352",
+    "title": "TWIX 焦糖分镜商业片：故事板锁镜三镜头",
+    "blurb": "上传 storyboard 当主参考，约 16 秒、三镜、9:16 竖屏——产品/包装一致性写死。快消食品广告「分镜锁一致性」整段可抄。",
+    "author": "NoravaleAI",
+    "url": "https://x.com/NoravaleAI/status/2099850452426961352",
+    "category": "场景视觉",
+    "prompt": "Use the uploaded storyboard image as the primary visual reference.\n\nCreate a premium 9:16 vertical TWIX Caramel Cookie Bars commercial, about 15.5–16 seconds long, in 3 shots, following the storyboard exactly.\n\nKeep the same saturated warm gold seamless studio, glossy commercial lighting, caramel-brown and gold palette, and premium food-advertising style throughout.\n\nMaintain product consistency across all shots:\n- TWIX bars = biscuit cookie base + chewy caramel layer + milk chocolate coating\n- TWIX pack = gold flow-wrap, readable white TWIX letters with red sides, sealed, upright, centered where shown\n\nUse clean straight cuts only.\nNo text overlays.\nNo slogans.\nNo camera shake.\nNo morphing.\nAll shots use a locked camera.\n\nSHOT 1:\nStacked unwrapped TWIX bars on a glossy gold cylindrical pedestal in the gold studio. One bar shows its interior cross-section. A thick glossy caramel stream pours from above onto the top bar, coats it, and drips down the sides onto the pedestal. The stack stays still. Locked camera. End with a few heavy caramel drips.\n\nSHOT 2:\nExtreme close-up of an adult woman’s mouth with caramel-red lipstick against the gold background. She holds a bitten TWIX bar to her lips. She takes one slow small bite. The cookie compresses slightly and a thin caramel string stretches briefly, then settles. Her head stays nearly still. Locked camera. End with the bitten bar still at her lips.\n\nSHOT 3:\nHero packshot in the same gold studio. The upright TWIX pack stands centered, surrounded by a low ring of broken cookie pieces, caramel shards, and chocolate chunks. Small crumbs and chocolate bits fall slowly from above around the pack and settle onto the pile. The pack stays still and readable. Locked camera.\n\nFood realism is critical:\nglossy caramel, realistic biscuit texture, realistic chocolate coating, appetizing bite mark, clean premium studio finish.\n\nDo not generate:\nchildren, extra people, extra products, KitKat, Nestlé, wrapper in shot 1 or 2, messy chocolate, smoke, steam, dark backgrounds, floating pack, rotating pack, chaotic particles, text overlays, subtitles, or surreal motion.\n\nFinal feel: iconic, appetizing, glossy, controlled, premium gold-studio food commercial."
   }
 ]
