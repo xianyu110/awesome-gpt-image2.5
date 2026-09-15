@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 336 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 340 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,16 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Flare Max vs Sunburst Max：同题丝路人像硬对比** — Miora 里左右并排：左边 Flare Max、右边 Sunburst Max，留言区放完整 prompt。选型别口嗨，截这组进评审会。 [@shitunote](https://x.com/shitunote) · [原帖](https://x.com/shitunote/status/2099714542511292721)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a breathtaking, ultra-realistic live-action movie still of a pristine, flawlessly beautiful 20-year-old classical Chinese maiden. Open, highly breathable and majestic Silk Road landscape portrait framing (ABSOLUTELY NO dark frames, vast and crystal-clear evening sky). STRICT SPATIAL LAYOUT: She stands on the high, carved-stone terrace of an ancient Silk Road fortress watchtower (烽燧石台). In the infinitely deep background, the colossal, jagged, snow-capped peaks of the Tian Shan mountain range (天山雪峰) rise majestically into a deep indigo-blue twilight sky above a calm sea of clouds. Above the snow peaks hangs an astronomically accurate, realistically proportioned bright silver full moon (ABSOLUTELY NOT an oversized fantasy moon). CRUCIAL FACIAL BEAUTY: She possesses a pristine, baby-smooth youthful face (NO wrinkles, pure, absolute clean dry skin, zero dirt). ATTIRE: She wears authentic, high-Tang Silk Road Western Regions attire (西域唐风胡服 / 宝相花纹披帛) with rich, textured lapis-lazuli blue, warm ochre-gold, and pomegranate-crimson silk woven with fine metallic threads. CRUCIAL SAFE ANATOMY: Her hands are safely and gently resting completely flat on the carved, ancient weathered stone balustrade of the terrace (flawless flat rest, ABSOLUTELY NO holding weapons, NO complex fingers). Cinematic high-altitude twilight lighting: crisp, clear evening twilight blends with soft, cool-silver moonlight striking the snow-capped mountain ridges and her face, casting natural, heroic, perfectly exposed highlights. In the extreme foreground, out-of-focus macro carved stone balustrade edge. 8k, absolute cinematic realism, profound Silk Road majesty.
+```
+
+  </details>
 
 - **同 prompt 四宫格：Image 2.5 vs 2.0** — 同一提示词并排打脸细节与一致性。选型别靠感觉，把这组截进评审会就完事。 [@HIX_AI_](https://x.com/HIX_AI_) · [原帖](https://x.com/HIX_AI_/status/2099490851919458365)
 
@@ -2156,6 +2166,41 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **奶凶女友槽位：粉芭蕾裙×机车靴×叉腰** — 一行中文槽位出「奶凶」反差人设。穿搭广告 / 角色 UGC 换裙子靴子场景就能连更。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099721592582656282)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+粉色芭蕾裙 × 黑色机车靴 × 双手叉腰 😾 × 地下停车场
+```
+
+  </details>
+
+- **时尚角色设定表：16:9 锁风格参考成片** — 高定角色 concept sheet：元数据+三视图+主姿+动态姿+细节格。IP 圣经 / 时尚角色提案直接抄布局。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2099712708908319052)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate reference image verbatim: painterly matte digital gouache, flat posterized color blocks, NO outlines, hard-edged brush shapes, identical muted palette and bright white background.
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no 3D render, no glossy highlights, no photorealism, no petite proportions.
+
+[PROPORTIONS]: Match reference exactly: 10 heads tall, elongated fashion anatomy, long slender limbs, small head.
+
+[SUBJECT_DESCRIPTION]: Extremely tall adult woman in early 20s, wide black visor-hat with gold script, floating orbital halo, black prosthetic arms with trailing puppet strings. Outfit: massive ballooning obsidian cloak with gold buttons, structured cream draped gown with high slit, chunky platform heels. Ability: Controls invisible gravitational tethers to manipulate reality and celestial fragments.
+
+Layout Composition:
+
+1. LEFT PANEL: METADATA & TURNAROUND — Name "OPHELIA", metadata block ("ROLE: Graviton Oracle", "CORE MOOD: Detached Supremacy", "VISUAL SIGNATURE: Orbital Halo & Gravity Strings"), 3 turnaround figures, 3 silhouettes, 4 expression crops (obscured visor glare, slight chin lift, gold glyphs glowing, cold smirk).
+2. CENTRAL PANEL: Dominant full-body centerpiece in towering signature pose with trailing strings and floating halo.
+3. RIGHT PANEL: 4 dynamic pose studies (pulling gravity threads, levitating above ground, cloak billowing wide, adjusting hat) with handwritten labels.
+4. BOTTOM RIGHT PANEL: 5 square detail crops (visor gold glyphs, orbital halo sphere, black prosthetic hand/strings, gown drape, platform heels).
+```
+
+  </details>
+
 - **3×3 失败写真×KPOP 日常：短 prompt 出网格** — 竖版 3×3、略带私密角度的「翻车日常」网格，一行中文就够。UGC/App 广告比精修模特更像用户内容。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2099687551724626013)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -3531,6 +3576,17 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 ## 电商改图
 
 商品图、局部编辑、包装与货架感。
+
+- **金色香水仪式：锁脸 9:16 产品人像** — 上传图锁身份，喷香水动作+琥珀侧光电影感。香水/美妆 KV 可整段复用，负向词也写全了。 [@imGopalTiwari](https://x.com/imGopalTiwari) · [原帖](https://x.com/imGopalTiwari/status/2099715941605195847)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Hyper-realistic IMAX-level Netflix-style cinematic portrait, 9:16 vertical. Use the uploaded image as the primary identity reference and preserve her exact facial identity, proportions, and defining features. Create a beautiful woman wearing a black thin-strap top and small gold hoop earrings, holding a dark perfume bottle in one hand and spraying perfume toward her neck. She is in a dark elegant interior with a softly blurred background and a warm vertical light source behind her. Warm amber side lighting falls across her face, neck, shoulders, and chest, while the rest of the scene remains deep and dark. Porcelain skin with a warm golden undertone, natural skin texture, soft makeup, and deep red glossy lips. She holds the perfume bottle near her chest with one hand, index finger pressing the spray nozzle, while her other arm remains relaxed. Her shoulders are slightly angled, neck extended naturally, head tilted back and turned slightly to the side, eyes gently closed, with a calm sensual expression. Loose low updo with a deep side part, soft wavy strands framing the face, and a few loose strands falling around the neck. Rich warm tones, deep blacks, soft highlights, subtle film grain, shallow depth of field, luxurious dark cinematic color grading.
+Negative prompt: changed identity, distorted face, deformed hands or fingers, bad anatomy, unnatural pose, text or watermark.
+```
+
+  </details>
 
 - **芒果罐物理笑话海报：牛拽不动的产品英雄** — 姿势张力讲完笑话：牛拼命拉绳、罐子纹丝不动。完整 Cannes 级 FMCG prompt，包装广告可整段复用。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2099500411455721969)
   <details>
