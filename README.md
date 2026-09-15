@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 345 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 348 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -661,6 +661,10 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 ## Sketch
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
+
+- **手指框+箭头：Sketch 秒出 X 信息图** — 不会画画也行——框和箭头随手一画，Images 2.5 Sketch 压成专业向 X 信息图；「留什么/改什么」写进 prompt，排版控形这派必看。 [@orino009](https://x.com/orino009) · [原帖](https://x.com/orino009/status/2099800404045271203)
+
+- **别卷画质：锁区编辑+Sketch 心法卡** — 2.5 真正杀器是「背景只改、人脸不动、Logo 别碰」。Sketch / Comment / Template / 多轮编辑串成「作→改→收」，SNS 图别再赌一发成片。 [@AImusicPlan](https://x.com/AImusicPlan) · [原帖](https://x.com/AImusicPlan/status/2099800403231539214)
 
 - **随手涂鸦→一段剧情：Sketch 成片长文** — 西堂实测从 doodle 到剧情成片的完整路径。不会画画也能控形讲故事，Sketch 控构图那派必读。 [@congcongtang](https://x.com/congcongtang) · [原帖](https://x.com/congcongtang/status/2099747691093729719)
 
@@ -4474,6 +4478,132 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **单图→4×4 舞蹈参考表→MiniMax 成片** — 上传角色一图，Image 2.5 出 16 格连续舞姿 sheet，再丢 MiniMax H3 接成流畅舞蹈视频。像素/二次元短动效流水线可直接抄图 prompt。 [@Scenario_gg](https://x.com/Scenario_gg) · [原帖](https://x.com/Scenario_gg/status/2099797670516695385)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a polished square-format dance reference sheet featuring the character from the uploaded reference image. The final image should be arranged as a clean 4×4 grid containing exactly 16 equally sized panels. Each panel represents the next key pose in a single uninterrupted dance sequence, read from left to right and then top to bottom.
+
+Reference Fidelity
+
+Treat the uploaded character as the definitive visual reference throughout the sheet.
+
+Across all 16 frames, keep the character’s identity completely stable, including:
+
+face and facial features
+hairstyle and hair length
+color palette
+body proportions and species
+clothing and garment construction
+accessories
+overall illustration and rendering style
+
+Any part of the character that is not visible in the reference should be inferred conservatively and then depicted the same way throughout the entire sequence.
+
+Choose a style of dance that feels natural for the character’s personality, anatomy, outfit, and available range of motion.
+
+Movement Logic
+
+The sixteen images are consecutive moments from one continuous routine, not sixteen unrelated dance poses.
+
+Every pose should flow naturally into the next through small steps, weight transfers, pivots, or continuing arm gestures. Keep the supporting limbs and direction of rotation physically consistent from frame to frame.
+
+Changes in orientation, body height, balance, and momentum should happen progressively rather than suddenly.
+
+Each frame should remain visually distinct while the overall routine develops through a clear progression: a relaxed opening, gradual build-up, expressive peak, and controlled settling finish.
+
+Choreography
+
+Follow this exact movement sequence:
+
+1. Begin with feet comfortably apart, knees relaxed, and arms resting low.
+
+2. Shift weight left, tapping the right foot outward as the hands drift left.
+
+3. Transfer weight onto the right foot, letting both hands sweep low toward the right.
+
+4. Draw the left foot inward while the hands continue upward to waist height.
+
+5. Step the left foot forward diagonally, turning the torso slightly left as the arms round forward.
+
+6. Rock onto the front left foot, allowing the rounded arms to rise toward chest height.
+
+7. Push gently back onto the right foot, drawing the elbows toward the ribs.
+
+8. Step the left foot out to the left, opening the left arm in the same direction.
+
+9. Settle into a shallow left lunge while the right arm sweeps across the chest toward the left.
+
+10. Deepen the lunge slightly as the right arm continues its arc overhead into a gentle left side bend.
+
+11. Straighten gradually, keeping the right arm overhead while the left arm opens outward.
+
+12. Reach the routine’s peak in a tall, grounded stance, extending both arms into an open upward diagonal.
+
+13. Soften the knees and lower both arms outward through shoulder height.
+
+14. Shift weight onto the left foot and pivot a quarter-turn left, letting the arms continue downward.
+
+15. Bring the right foot forward into a small staggered stance, lifting the chest as the arms settle low behind the hips.
+
+16. Finish in that same stance, turning the head toward the viewer with a character-appropriate expression and relaxed, deliberate hands.
+
+If the character has nonhuman anatomy, reinterpret the steps and gestures as the closest anatomically appropriate equivalents while preserving the same order, rhythm, direction, and continuity.
+
+Secondary Motion
+
+Hair, loose garments, and hanging accessories should react naturally to the choreography rather than remaining static.
+
+Their movement should follow the character’s momentum:
+
+hair and fabric lag slightly behind steps and sweeping gestures
+loose elements swing naturally during turns
+hair and garments fall with gravity during bends
+movement gradually settles as the routine approaches the final pose
+light fabrics flutter subtly
+heavier fabrics move with greater weight and slower follow-through
+fitted clothing develops believable folds around bending and twisting joints
+
+Keep all secondary motion proportional to this relatively gentle routine.
+
+Hair length, clothing construction, and accessory placement must remain consistent in every frame.
+
+Communicate movement through the changing shapes and positions of the hair and fabric themselves. Do not use motion lines, speed lines, ghosting, or movement trails.
+
+Sheet Presentation
+
+Use a square canvas containing a precise 4×4 grid.
+
+The presentation should include:
+
+exactly 16 equally sized panels
+one full-body character in every panel
+small, clearly readable numbers 1–16 in the upper-left corner of their corresponding panels
+a clean white background
+thin grid lines
+consistent character scale
+a fixed camera viewpoint
+consistent lighting and rendering
+comfortable empty space around every limb, hairstyle, ear, wing, tail, garment, and accessory
+subtle ground shadows
+clear silhouettes
+anatomically plausible joints
+convincing weight distribution and balance
+
+The character should never be cropped by the panel boundaries.
+
+Constraints
+
+Do not introduce repeated or near-identical poses, abrupt movement transitions, identity drift, costume changes, additional characters, new props, scenery, captions, or watermarks.
+
+Avoid extra or missing limbs, malformed hands, implausible joints, inconsistent supporting feet, accidental panel overlap, cropped features, sudden changes in character scale, or unexplained changes in orientation.
+
+The finished sheet should read immediately as sixteen carefully selected consecutive keyframes from one coherent dance performance by the same character.
+```
+
+  </details>
 
 - **Sunburst 粘土龙：蛋孵化 one-shot 定格** — 一句话故事板：孵化→打喷嚏小火→烤糊蛋壳。玩梗短广告钩子，prompt 可直接抄改角色。 [@reach_vb](https://x.com/reach_vb) · [原帖](https://x.com/reach_vb/status/2099545621040422979)
   <details>
