@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 340 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 345 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,18 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Codex MCP Sunburst vs 内置 image_gen 同题** — 结城浩对照：mcp-create-image 走 GPT Image 2.5 Sunburst，另一路用 Codex 内置 image_gen。同是 OpenAI，管线不同画风也不同——工具链选型别混。 [@hyuki](https://x.com/hyuki) · [原帖](https://x.com/hyuki/status/2099750214492131662)
+
+- **黑手党影院人像：2.5 vs 2 同脸硬刚** — 左 2.5、右 2，上传脸锁身份出奢车雪茄黑帮海报。选型看脸与烟雾细节差，完整 prompt 可抄。 [@john_my07](https://x.com/john_my07) · [原帖](https://x.com/john_my07/status/2099745210196738366)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
+```
+
+  </details>
 
 - **Flare Max vs Sunburst Max：同题丝路人像硬对比** — Miora 里左右并排：左边 Flare Max、右边 Sunburst Max，留言区放完整 prompt。选型别口嗨，截这组进评审会。 [@shitunote](https://x.com/shitunote) · [原帖](https://x.com/shitunote/status/2099714542511292721)
   <details>
@@ -650,6 +662,8 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **随手涂鸦→一段剧情：Sketch 成片长文** — 西堂实测从 doodle 到剧情成片的完整路径。不会画画也能控形讲故事，Sketch 控构图那派必读。 [@congcongtang](https://x.com/congcongtang) · [原帖](https://x.com/congcongtang/status/2099747691093729719)
+
 - **Sketch 构图口诀：大数字 / 人物 / 短说明** — 别用长文抠站位——先画「左大数字、右人物、下短说明」。厅内 POP / 社媒图：说什么之外，先把怎么摆画出来。 [@amusement_works](https://x.com/amusement_works) · [原帖](https://x.com/amusement_works/status/2099676470872518926)
 
 - **Fashion Sketch→童话高定：2.5 出图 + MiniMax 成片** — 冰川蓝丝绸+水晶绣+层叠欧根纱，Sketch 变城堡晨雾大片再接视频。时装内容从线稿到成片一条链。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2099413148684234773)
@@ -762,6 +776,31 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **3D 纸雕地标：[STRUCTURE] 博物馆模型模板** — 地标切成分层纸雕雕塑，配城市/国家/卖点三行字。文旅系列 KV 换槽即出，纸艺边缘与阴影写死了。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099741955458478351)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium 3D layered paper-cut artwork of [STRUCTURE NAME], transforming the famous architectural landmark into an intricate handcrafted paper sculpture.
+
+Show the structure as the central focal point, built entirely from carefully cut and stacked paper layers, with realistic paper edges, subtle folds, depth, shadows, and raised details. Surround it with miniature architectural elements inspired by its location — tiny streets, arches, trees, steps, rooftops, clouds, or landscape details — all integrated into the same paper-cut world.
+
+Use a sophisticated palette of warm ivory, cream, muted sage, dusty blue, terracotta, soft beige, and charcoal, with gentle natural shadows between every layer.
+
+Place the structure on a slightly elevated museum-style paper base, giving the artwork a collectible architectural-model appearance.
+
+Add minimal elegant typography:
+[STRUCTURE NAME]
+[CITY, COUNTRY]
+Famous for: [KEY FEATURE]
+
+Clean editorial composition, refined handcrafted details, soft studio lighting, premium paper texture, architectural design magazine aesthetic, subtle depth, highly detailed cut edges, elegant and artistic, no people, no photorealistic background, no clutter, no watermark.
+
+Aspect ratio: 4:5 vertical.
+```
+
+  </details>
 
 - **当代新中式文化海报：宣纸网格+印章几何** — 竖版 3:4，「读懂中国文化」主标题压画面六成；墨黑/朱砂/玉青，折扇窗棂印章入现代网格。国风知识海报 / 公众号封面直接抄。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2099677911477551536)
   <details>
@@ -2165,6 +2204,20 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **Flare 9:16 4K Max：东亚瓷肤近景人像** — 青蓝侧光+纯黑底+双手托脸珠宝细节。Flare Max 竖版美妆/种草 KV 直接复用整段。 [@woleswoosh](https://x.com/woleswoosh) · [原帖](https://x.com/woleswoosh/status/2099743767951737090)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A ultra-realistic close-up portrait of a young East Asian woman with fair, porcelain skin and a soft, dewy complexion. She has long, messy black hair with straight bangs falling over her forehead and strands framing her face, some strands appearing slightly wet or glossy. Large, striking blue eyes with long lashes look directly at the viewer with an intense, slightly melancholic expression. Soft pink glossy lips slightly parted.
+
+Both hands gently cup her face, fingers resting on her cheeks and temples, showing multiple delicate silver rings on her fingers (twisted and band styles). She wears a thin silver chain necklace and a matching delicate bracelet.
+
+She is wearing a light cream or off-white spaghetti-strap top with a soft, silky texture. Dramatic cinematic cyan-blue lighting from both sides creates strong highlights on her skin, hair, and jewelry while casting deep shadows across her face and against a pure black background. High-detail skin texture, subtle freckles, sharp focus on the eyes, photorealistic quality, soft volumetric light rays, 8k resolution, beauty photography style.
+```
+
+  </details>
 
 - **奶凶女友槽位：粉芭蕾裙×机车靴×叉腰** — 一行中文槽位出「奶凶」反差人设。穿搭广告 / 角色 UGC 换裙子靴子场景就能连更。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099721592582656282)
   <details>
