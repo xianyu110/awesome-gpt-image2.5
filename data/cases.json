@@ -2867,5 +2867,48 @@
     "url": "https://x.com/imGopalTiwari/status/2099715941605195847",
     "category": "电商改图",
     "prompt": "Hyper-realistic IMAX-level Netflix-style cinematic portrait, 9:16 vertical. Use the uploaded image as the primary identity reference and preserve her exact facial identity, proportions, and defining features. Create a beautiful woman wearing a black thin-strap top and small gold hoop earrings, holding a dark perfume bottle in one hand and spraying perfume toward her neck. She is in a dark elegant interior with a softly blurred background and a warm vertical light source behind her. Warm amber side lighting falls across her face, neck, shoulders, and chest, while the rest of the scene remains deep and dark. Porcelain skin with a warm golden undertone, natural skin texture, soft makeup, and deep red glossy lips. She holds the perfume bottle near her chest with one hand, index finger pressing the spray nozzle, while her other arm remains relaxed. Her shoulders are slightly angled, neck extended naturally, head tilted back and turned slightly to the side, eyes gently closed, with a calm sensual expression. Loose low updo with a deep side part, soft wavy strands framing the face, and a few loose strands falling around the neck. Rich warm tones, deep blacks, soft highlights, subtle film grain, shallow depth of field, luxurious dark cinematic color grading.\nNegative prompt: changed identity, distorted face, deformed hands or fingers, bad anatomy, unnatural pose, text or watermark."
+  },
+  {
+    "id": "2099745210196738366",
+    "title": "黑手党影院人像：2.5 vs 2 同脸硬刚",
+    "blurb": "左 2.5、右 2，上传脸锁身份出奢车雪茄黑帮海报。选型看脸与烟雾细节差，完整 prompt 可抄。",
+    "author": "john_my07",
+    "url": "https://x.com/john_my07/status/2099745210196738366",
+    "category": "选型评测",
+    "prompt": "Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1"
+  },
+  {
+    "id": "2099750214492131662",
+    "title": "Codex MCP Sunburst vs 内置 image_gen 同题",
+    "blurb": "结城浩对照：mcp-create-image 走 GPT Image 2.5 Sunburst，另一路用 Codex 内置 image_gen。同是 OpenAI，管线不同画风也不同——工具链选型别混。",
+    "author": "hyuki",
+    "url": "https://x.com/hyuki/status/2099750214492131662",
+    "category": "选型评测"
+  },
+  {
+    "id": "2099747691093729719",
+    "title": "随手涂鸦→一段剧情：Sketch 成片长文",
+    "blurb": "西堂实测从 doodle 到剧情成片的完整路径。不会画画也能控形讲故事，Sketch 控构图那派必读。",
+    "author": "congcongtang",
+    "url": "https://x.com/congcongtang/status/2099747691093729719",
+    "category": "Sketch"
+  },
+  {
+    "id": "2099741955458478351",
+    "title": "3D 纸雕地标：[STRUCTURE] 博物馆模型模板",
+    "blurb": "地标切成分层纸雕雕塑，配城市/国家/卖点三行字。文旅系列 KV 换槽即出，纸艺边缘与阴影写死了。",
+    "author": "Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2099741955458478351",
+    "category": "海报排版",
+    "prompt": "Create a premium 3D layered paper-cut artwork of [STRUCTURE NAME], transforming the famous architectural landmark into an intricate handcrafted paper sculpture.\n\nShow the structure as the central focal point, built entirely from carefully cut and stacked paper layers, with realistic paper edges, subtle folds, depth, shadows, and raised details. Surround it with miniature architectural elements inspired by its location — tiny streets, arches, trees, steps, rooftops, clouds, or landscape details — all integrated into the same paper-cut world.\n\nUse a sophisticated palette of warm ivory, cream, muted sage, dusty blue, terracotta, soft beige, and charcoal, with gentle natural shadows between every layer.\n\nPlace the structure on a slightly elevated museum-style paper base, giving the artwork a collectible architectural-model appearance.\n\nAdd minimal elegant typography:\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [KEY FEATURE]\n\nClean editorial composition, refined handcrafted details, soft studio lighting, premium paper texture, architectural design magazine aesthetic, subtle depth, highly detailed cut edges, elegant and artistic, no people, no photorealistic background, no clutter, no watermark.\n\nAspect ratio: 4:5 vertical."
+  },
+  {
+    "id": "2099743767951737090",
+    "title": "Flare 9:16 4K Max：东亚瓷肤近景人像",
+    "blurb": "青蓝侧光+纯黑底+双手托脸珠宝细节。Flare Max 竖版美妆/种草 KV 直接复用整段。",
+    "author": "woleswoosh",
+    "url": "https://x.com/woleswoosh/status/2099743767951737090",
+    "category": "人像角色",
+    "prompt": "A ultra-realistic close-up portrait of a young East Asian woman with fair, porcelain skin and a soft, dewy complexion. She has long, messy black hair with straight bangs falling over her forehead and strands framing her face, some strands appearing slightly wet or glossy. Large, striking blue eyes with long lashes look directly at the viewer with an intense, slightly melancholic expression. Soft pink glossy lips slightly parted.\n\nBoth hands gently cup her face, fingers resting on her cheeks and temples, showing multiple delicate silver rings on her fingers (twisted and band styles). She wears a thin silver chain necklace and a matching delicate bracelet.\n\nShe is wearing a light cream or off-white spaghetti-strap top with a soft, silky texture. Dramatic cinematic cyan-blue lighting from both sides creates strong highlights on her skin, hair, and jewelry while casting deep shadows across her face and against a pure black background. High-detail skin texture, subtle freckles, sharp focus on the eyes, photorealistic quality, soft volumetric light rays, 8k resolution, beauty photography style."
   }
 ]
