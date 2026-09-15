@@ -2670,5 +2670,166 @@
     "author": "Adam38363368936",
     "url": "https://x.com/Adam38363368936/status/2099665985569755159",
     "category": "场景视觉"
+  },
+  {
+    "id": "2099693409950998899",
+    "title": "iPad / MacBook 相册截图：角色×城市×系统 UI",
+    "blurb": "继 iPhone 相册后，DeepBlue 把同一配方扩到 iPad Pro / iPadOS 假截图。产品 mock / 角色 UGC 换设备外壳就能出系列。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2099693409950998899",
+    "category": "UX产品",
+    "prompt": "海賊王女帝 ×杭州游 × iPad Pro相册截图× iPadOS 27 × 竖版3:4"
+  },
+  {
+    "id": "2099684732950958440",
+    "title": "玛奇玛×广州游：iPhone 相册截图迭代版",
+    "blurb": "改提示词后相册 UI 更稳：角色×城市游×iOS 相册假截图。角色 IP 做「随手拍相册」广告的短公式。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2099684732950958440",
+    "category": "人像角色",
+    "prompt": "玛奇玛 ×广州游iPhone 相册截图×iOS 27"
+  },
+  {
+    "id": "2099687551724626013",
+    "title": "3×3 失败写真×KPOP 日常：短 prompt 出网格",
+    "blurb": "竖版 3×3、略带私密角度的「翻车日常」网格，一行中文就够。UGC/App 广告比精修模特更像用户内容。",
+    "author": "listudio",
+    "url": "https://x.com/listudio/status/2099687551724626013",
+    "category": "人像角色",
+    "prompt": "竖版3×3失败照片× KPOP x 日常工作和生活 x 略带私密角度"
+  },
+  {
+    "id": "2099684940090917262",
+    "title": "Image 2.5 静帧 → wan 2.1 说话头像",
+    "blurb": "本地 5090 跑 wan 2.1 animate：先用 GPT Images 2.5 出参考静帧，再做 talking-head。开源权重静转动又一条实操链。",
+    "author": "kaimonstre",
+    "url": "https://x.com/kaimonstre/status/2099684940090917262",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2099632182985625756",
+    "title": "产品静帧→Seedance→CapCut：商业片一条龙",
+    "blurb": "两张 GPT Image 2.5 产品视觉进 Seedance 2.5，再在 CapCut 剪成完整广告。Visuals → Video → Edit，一人团队可抄。",
+    "author": "JaydenCoach",
+    "url": "https://x.com/JaydenCoach/status/2099632182985625756",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2099627433754300803",
+    "title": "Flare 出「真 GoPro 机位」再喂 Seedance",
+    "blurb": "胸挂俯视极限坡口静帧配方锁死光学抓拍感，再接秒级分镜动画。想控视频，先把起步静帧拍「真」。",
+    "author": "techhalla",
+    "url": "https://x.com/techhalla/status/2099627433754300803",
+    "category": "场景视觉",
+    "prompt": "DIRECTIVE:\nProduce one still that reads as a real GoPro chest-mount first-person frame an instant before a downhill skate drop. Optical capture, available daylight, lived-in action-cam grit, extreme vertigo. Text-to-image only.\n\nSUBJECT / POV:\nStrict first-person from a chest-mounted GoPro on a woman skateboarder. Looking DOWN her own body: upper frame shows her athletic neckline and collarbones (fitted crop top / sports tank), mid frame her arms and the skateboard deck underfoot, lower frame her feet planted on the grip tape, trucks and wheels visible at the lip. Hands may enter for balance. No face — downward body POV only. One coherent body.\n\nBEAT:\nStopped at the brink of ONE insanely steep wooden launch ramp on a canyon rim, about to roll. Board tip hangs over empty air.\n\nSCENE / RAMP (ONE ONLY):\nA single continuous steep wooden downhill skate ramp under the board — planks visibly slope down toward empty air. No second ramp. Beyond the lip: Grand Canyon / Colorado River canyon, sheer red-rock cliffs, the river a thin ribbon far below. Real outdoor location, wind, dust.\n\nCOMPOSITION:\n3:4 vertical GoPro. Extreme downward tilt: body and board dominate the near field; the canyon yawns beyond the ramp lip. Feet huge, river tiny — pure vertigo. Tall frame stacks top → deck → plunging ramp → abyss.\n\nCAMERA PACK:\nGoPro chest mount, wide fisheye-ish action FOV, high shutter daylight, slight rolling shutter, scuffs on the lens, single JPEG from a real session.\n\nLIGHT:\nHarsh high-desert sun, hard shadows on the deck and collarbones, bright canyon bounce from red rock.\n\nPHOTOGRAPHIC CHARACTER:\nConsumer action-cam realism, flat-ish GoPro color, grit and dust motes, cliff-edge vertigo."
+  },
+  {
+    "id": "2099545621040422979",
+    "title": "Sunburst 粘土龙：蛋孵化 one-shot 定格",
+    "blurb": "一句话故事板：孵化→打喷嚏小火→烤糊蛋壳。玩梗短广告钩子，prompt 可直接抄改角色。",
+    "author": "reach_vb",
+    "url": "https://x.com/reach_vb/status/2099545621040422979",
+    "category": "像素动效",
+    "prompt": "I want you to make a cinematic, cute and heartwarming stop motion video with gpt image 2.5 sunburst with the following ideas:\n\negg to baby dragon transformation in claymation\n\nrough story: It hatches, sneezes a tiny flame, accidentally toasts its shell"
+  },
+  {
+    "id": "2099508984541769771",
+    "title": "行星级汉服巨人：超尺度槽位通用模版",
+    "blurb": "人物身份 × 超尺度 × 动作主体 × emoji 手势 × 特殊相机 × 背景。病毒感角色/产品广告直接套槽。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2099508984541769771",
+    "category": "人像角色",
+    "prompt": "真实东方汉服女性 × 行星级真人放大 × 手托🌍 × 😜👌 × 月球视角CCD相机抓拍 × 黑色宇宙背景\n\n通用模版：\n真实【人物身份】 × 【超尺度设定】 × 【核心动作＋主体】 × 【emoji 表情＋手势】 × 【特殊视角＋相机抓拍】 × 【背景环境】"
+  },
+  {
+    "id": "2099503950714065269",
+    "title": "写实 AI UGC：一 prompt 拉满素人感",
+    "blurb": "Image 2.5 素人广告素材钩子——改产品/场景就能测投放。轻团队快速出 UGC 变体用这条。",
+    "author": "simonecanciello",
+    "url": "https://x.com/simonecanciello/status/2099503950714065269",
+    "category": "人像角色"
+  },
+  {
+    "id": "2099493015761129874",
+    "title": "Codex Pets 语音小画室：Live 调 Flare 改画",
+    "blurb": "Astra 里 gpt-live-1 听指令，甩给 gpt-image-2.5-flare 改画（月亮变柠檬）。互动 demo / 语音改图灵感包。",
+    "author": "gabrielchua",
+    "url": "https://x.com/gabrielchua/status/2099493015761129874",
+    "category": "UX产品"
+  },
+  {
+    "id": "2099500411455721969",
+    "title": "芒果罐物理笑话海报：牛拽不动的产品英雄",
+    "blurb": "姿势张力讲完笑话：牛拼命拉绳、罐子纹丝不动。完整 Cannes 级 FMCG prompt，包装广告可整段复用。",
+    "author": "ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2099500411455721969",
+    "category": "电商改图",
+    "prompt": "Create a Cannes-level ultra-premium mango FMCG advertising poster for a fictional tropical food house called SOLARO PULP, preserving the exact structural logic of a bright high-conversion product campaign while merging narrative humor, forensic packaging realism, and curatorial restraint. The composition is vertical and highly controlled: a saturated full-frame mango-yellow studio background, one expressive 3D dairy-cow mascot on the left pulling a rope with comic desperation, one large premium mango-pulp can dominating the right side, a bold witty headline block in the upper-right quadrant, one clean three-part benefit strip near the bottom, and one centered call-to-action plaque beneath it. The final image must feel playful, memorable, and globally polished, while keeping the can as the unquestioned commercial hero.\n\nCore composition: use a vivid monochrome mango-yellow background with a seamless floor-to-wall studio transition and generous negative space. On the left, place one premium 3D cow mascot standing upright, leaning backward with visible effort while gripping a rope that is tied tightly around the can. The rope creates the main directional tension across the frame, but the can must visually win the struggle through scale, weight, and authority. On the right, position one large front-facing can of mango pulp, cleanly isolated and slightly forward in the composition, surrounded at the base by a small curated cluster of real mangoes, one scored mango cheek, several glossy leaves, and nothing more. Keep the frame open, breathable, and conversion-driven.\n\nOrbit atmosphere: the emotional hook should feel like the product is so rich and irresistible that even the farm mascot refuses to let it go. The humor must feel brand-smart, not childish. The mascot’s expression should communicate eager panic, possessiveness, and comic frustration, while the product remains calm, solid, and desirable. The poster should create instant recall through one simple story: desire meets abundance, and the can becomes the source of the joke. The mood is bright, cheerful, and high-confidence, but still clean enough to feel premium.\n\nTransit realism: render every material with world-class FMCG precision. The can must show accurate cylindrical geometry, crisp top-lid metal reflections, subtle rolled-edge seams, flawless label registration, believable print contrast, and premium finish. The label should contain only elegant built-in branding such as “SOLARO PULP” and the product name “Totapuri Mango Pulp,” supported by a realistic mango visual and a bowl of dense puree. The mangoes at the base must show taut skin gloss, ripe yellow-orange gradients, natural dimples, juicy fiber in the cut fruit, and fresh green leaves with visible veins. The rope should show twisted fiber detail, tension compression where it presses into the can, and believable contact with the mascot’s hooves. The mascot must carry smooth premium 3D surfacing, soft matte-to-satin shading, correct hoof anatomy, natural limb articulation, subtle skin/fur transition, and expressive but clean facial sculpting with no animation slop.\n\nPort restraint: simplify the campaign into a more gallery-like FMCG statement. Remove extra decorative fruit clutter, excessive footer information, and unnecessary small promotional noise. Keep only the logo block, the upper-right witty headline, the left mascot, the right hero can, one restrained fruit cluster, the bottom benefit strip, and the CTA plaque. Let the yellow field, the rope tension, and the can scale create the luxury. The frame should feel edited, intelligent, and immediately readable.\n\nMascot design: create a lovable premium-cartoon dairy cow with rounded proportions, black-and-white patches, small horns, expressive wide eyes, a slightly open mouth, lifted brows, and a tense pulling posture. The character should feel physically grounded, with believable weight shift through the legs, stretched arms or forelimbs gripping the rope, and clear contact shadows. The cow is a narrative device, not the hero product. It supports the brand story but never steals dominance from the can.\n\nTypography and message layout: in the upper-left corner, place one compact brand block for SOLARO PULP. In the upper-right quadrant, place a large playful English headline such as “Too Good To Give Away” or “So Rich, Nobody Wants To Share,” with one short supporting line beneath it describing the richness of Totapuri mango pulp. The main phrase can be rendered in expressive brush-script or lively premium handwriting, while the secondary line uses a clean modern sans-serif. Typography must feel art-directed, witty, and compositionally integrated, not generic or overly retail.\n\nBottom information architecture: near the bottom, include one clean three-part benefits band with elegant icons and concise copy such as “Made with real Totapuri mangoes,” “No artificial colors,” and “Rich, thick texture.” Beneath it, place one centered rounded CTA plaque such as “SHOP NOW” or “TASTE THE GOLD.” Keep the band crisp, symmetrical, and highly legible, but avoid a noisy marketplace-flyer feel. If a tiny footer exists, it should be minimal and peripheral.\n\nLighting: use bright premium studio lighting with soft frontal clarity and subtle upper-left shaping. The yellow background must remain luminous and even, without dirty gradients. The can should receive the cleanest highlight structure, with crisp label readability and controlled metallic sheen on the lid. The mascot should have smooth dimensional modeling and soft contact shadows. The mangoes should catch small glossy highlights and juicy speculars. Keep the image cheerful and dimensional, but never harsh or cluttered.\n\nColor hierarchy: 60% saturated mango yellow and warm golden-orange tones; 30% black, white, deep brown, and warm neutral accents from the mascot, rope, and label typography; 10% green leaf accents and silver metallic can-top highlights. The palette must feel fruity, bright, trustworthy, and internationally premium.\n\nDesign intent: the final poster must preserve the exact impact logic of the reference structure—full yellow background, left-side mascot action, right-side hero can, upper-right witty text block, bottom benefits strip, and centered CTA—while merging Orbit narrative charm, Transit material realism, and Port curatorial restraint into one resolved luxury FMCG campaign. The humor creates memorability, but the product remains the true visual and commercial center.\n\nRendering style: ultra-polished FMCG advertising, premium 3D mascot branding, bright studio product poster, clean global retail campaign, high-end packaging realism, appetizing fruit detail, elegant graphic hierarchy, world-class commercial retouching, immaculate print-ready finish.\n\nNegative prompt: copied source text, real brand names, low-detail mascot, creepy cow face, malformed limbs, bad hoof anatomy, unreadable label, cheap flyer styling, muddy yellow background, warped can geometry, fake mango texture, cluttered footer, poor typography spacing, flat lighting, black blotches, watermark"
+  },
+  {
+    "id": "2099489998882177205",
+    "title": "巨桶城市海报：尺度幻觉靠微型街区钉死",
+    "blurb": "街角仰拍巨型炸鸡桶，底座长出迷你店面区。用建筑给产品量尺度的快餐 KV 教科书。",
+    "author": "ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2099489998882177205",
+    "category": "电商改图",
+    "prompt": "Create a Cannes-level ultra-premium fast-food advertising poster for a fictional brand called CRUNCH DISTRICT, preserving the exact structural logic of a monumental bucket-city campaign while merging narrative spectacle, forensic food realism, and curatorial restraint into one resolved image. The composition is vertical and cinematic: one colossal fried-chicken bucket rises in the center like an urban landmark, overflowing with hero fast-food items, while its lower structure transforms into a compact branded street district with storefronts, awnings, food kiosks, tiny pedestrians, and a few parked delivery vehicles. The image must feel like an entire city built around appetite, yet remain clean, disciplined, and unmistakably product-led.\n\nCore composition: use a low street-level perspective looking slightly upward so the bucket dominates the skyline from lower frame to upper-middle frame. The giant bucket must be perfectly centered and visually stable, with premium dimensional branding integrated on the front as the main architectural identity mark, such as “CRUNCH DISTRICT”. From the bucket opening, let oversized fried chicken pieces, upright fries, and a small number of burgers emerge like a celebratory edible skyline. Keep the upper sky open and breathable, with only a few sculptural cloud forms and a sparse scattering of tiny crumbs or coating particles. The bucket remains the unquestioned hero; the surrounding city only reinforces its myth.\n\nOrbit atmosphere: the poster should feel like a legendary fast-food district at the height of its golden-hour energy, as if the city has gathered around a sacred monument of crunch. The streets below suggest excitement, gathering, and ritual, but not chaos. Tiny figures, storefront lights, and food trucks create the emotional impression of a living destination, while the oversized foods above feel like a dream of abundance made real. The tone should be joyful, larger-than-life, and cinematic, yet mature enough to feel like an international award-winning campaign rather than a theme-park illustration.\n\nTransit realism: render every food and architectural surface with commercial-grade precision. The fried chicken must show layered craggy crust, realistic breading granules, warm oil-sheen glints, crackled edges, and dense golden-orange browning with deeper amber shadows in the creases. The fries should stand upright with believable rigidity, lightly salted surfaces, faint blistering, and clear potato structure. The burgers should show soft glossy buns, seared patties, clean cheese melt, and minimal but readable fillings. The bucket itself must feel like premium printed packaging at enormous scale, with crisp label edges, subtle paperboard texture, smooth curvature, and believable structural volume. The street-level district must carry refined storefront materials, striped awnings, glass reflections, painted trims, asphalt texture, signage relief, and small vehicle detail that all feel physically grounded.\n\nPort restraint: simplify the visual system so the grandeur feels curated rather than overloaded. Keep only the giant bucket, a select number of floating hero foods, a handful of cloud shapes, a compact but rich architectural base, and a few sparse atmospheric crumbs. Reduce excessive signage, over-busy urban clutter, and random decorative elements. Let the contrast between monumental object and miniature city create the intelligence of the composition. The poster should feel more like a luxury exhibition image for fast food culture than a noisy retail ad.\n\nStreet-district design: build the base of the bucket into an elegant branded neighborhood with 4–6 visible storefront fronts, a central entrance, a few lit windows, one or two delivery vans, and a controlled number of tiny pedestrians interacting naturally in the street. Include a crosswalk or narrow roadway in the foreground to ground the viewer in the city scale. The small architecture should feel lively and precise, but still secondary to the giant bucket and hero foods above.\n\nLighting: use high-end warm daylight with slight golden-hour character. The upper food elements catch the brightest sunlight, creating premium highlights on chicken crust, fry edges, and burger buns. The bucket surface should carry soft sculptural shading and subtle frontal readability. At street level, introduce slightly warmer reflected light and refined storefront glows to deepen the sense of place. Keep shadows rich but never muddy, and avoid dead black areas.\n\nMaterial and texture: emphasize crunchy crust topography, fry salt crystals, burger bun gloss, soft paperboard bucket finish, sign lettering depth, glass storefront reflections, painted architectural trims, tiny street objects, and subtle atmospheric dust. Every material must feel photographically plausible and luxuriously retouched.\n\nColor hierarchy: 60% fried-gold, creamy bucket white, and luminous sky blue; 30% ketchup red, warm caramel browns, and urban neutral shadows; 10% green, teal, and sign-light accents in tiny controlled touches. The palette must feel appetizing, festive, and internationally premium.\n\nDesign intent: the final poster must preserve the exact impact logic of a giant central bucket monument, overflowing hero food, a miniature branded city at its base, and a clean sky-framed vertical composition, while merging Orbit atmosphere, Transit realism, and Port curatorial restraint into one complete fast-food myth image. The bucket is the city, the city is the brand, and the brand is the appetite.\n\nRendering style: ultra-photoreal luxury fast-food advertising, cinematic branded food-world architecture, premium packaging monument, highly detailed miniature urban district, world-class commercial retouching, clean graphic hierarchy, appetizing hero-food realism, print-ready finish.\n\nNegative prompt: copied source text, real brand names, cartoon food, plastic-looking chicken, low-detail fries, cheap burger styling, cluttered signage, unreadable main logo, warped bucket geometry, muddy colors, distorted street perspective, excessive crumbs, chaotic crowds, dirty shadows, black blotches, watermark"
+  },
+  {
+    "id": "2099490851919458365",
+    "title": "同 prompt 四宫格：Image 2.5 vs 2.0",
+    "blurb": "同一提示词并排打脸细节与一致性。选型别靠感觉，把这组截进评审会就完事。",
+    "author": "HIX_AI_",
+    "url": "https://x.com/HIX_AI_/status/2099490851919458365",
+    "category": "选型评测"
+  },
+  {
+    "id": "2099482513693622358",
+    "title": "角色设计表压测：2 / Sunburst / Flare 同题",
+    "blurb": "一 prompt 三跑，专测排版、小字、多视角、剪影标注。做 IP 表或产品角色圣经直接抄对照法。",
+    "author": "FlyAIgh",
+    "url": "https://x.com/FlyAIgh/status/2099482513693622358",
+    "category": "选型评测"
+  },
+  {
+    "id": "2099476928218685914",
+    "title": "Flare 钢琴静帧 → Seedance 成片",
+    "blurb": "Images 2.5 Flare 锁气质，再进 Seedance 2.5 补动态（Topview）。静图锁定→动态补全的短链路样板。",
+    "author": "hashimura55",
+    "url": "https://x.com/hashimura55/status/2099476928218685914",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2099470223384740047",
+    "title": "跑步品牌短片：Gemini Omni × Image 2.5",
+    "blurb": "从起步到日出一镜感广告，楼下有 prompt。跨模型拼管线做运动品牌投放可参考。",
+    "author": "Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2099470223384740047",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2099466924572983460",
+    "title": "定格动画：描述镜头就能出序列",
+    "blurb": "Image 2.5 做 stop-motion 实测，附 prompt。短广告分镜/产品动效一人团队可偷师。",
+    "author": "Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2099466924572983460",
+    "category": "像素动效"
+  },
+  {
+    "id": "2099460129833783779",
+    "title": "Fish Thief：角色圣经锁脸→Seedance 成片",
+    "blurb": "split-screen character bible 严格参考不改脸，再接 Seedance 2.5。品牌 IP 短片流水线样板。",
+    "author": "TechieBySA",
+    "url": "https://x.com/TechieBySA/status/2099460129833783779",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2099447111414845520",
+    "title": "素人翻车日常：Sunburst 3×3 / 9:16",
+    "blurb": "『素人の日常の失敗写真』网格——真实糟糕但可爱的手机感。App/生活方式广告比精修模特更像用户。",
+    "author": "darkgaldoggo",
+    "url": "https://x.com/darkgaldoggo/status/2099447111414845520",
+    "category": "人像角色",
+    "prompt": "素人の日常の失敗写真。3×3, 9:16"
   }
 ]
