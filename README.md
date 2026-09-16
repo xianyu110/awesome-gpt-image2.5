@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-15 · **收录 367 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 372 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,7 +237,7 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
-- **物体删除烤炉：Sunburst vs Nano Banana 2** — 同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。 [@danywach](https://x.com/danywach) · [原帖](https://x.com/danywach/status/2099845477885714780) · [长文](https://nanostudiopro.com/blog/nano-banana-2-vs-gpt-image-2-5-object-removal)
+- **物体删除烤炉：Sunburst vs Nano Banana 2** — 同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。 [@danywach](https://x.com/danywach) · [原帖](https://x.com/danywach/status/2099845477885714780) · [prompt](https://nanostudiopro.com/blog/nano-banana-2-vs-gpt-image-2-5-object-removal)
 
 - **Flare 赶量测稿 / Sunburst 出片：同模两档** — 一句话说清选型：Flare 管产品试错与粗视觉，Sunburst 管光影材质与可交货成片。别玄学，按交付阶段切。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766335710654676)
 
@@ -657,9 +657,9 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 - **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486)
 
-- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
+- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting)
 
-- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
+- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA)
 
 
 ## Sketch
@@ -784,6 +784,18 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **字体也能锁：缩略图字体参考表** — 不只锁脸——缩略图用的字体也能出 reference sheet。做系列封面/世界观时，少开一遍设计软件抠字。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2100026883643670876)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+画像1に写っている（または指定した）フォントの見た目・ウェイト・字間・装飾感を厳守し、画像2のようなフォントリファレンスシートを作成してください。
+シートには同じ書体の：アルファベット大文字／小文字、数字、よく使う記号、短い見出し見本、サムネ向け短文見本を、きれいなグリッドで並べる。
+背景はシンプル、文字以外の装飾を足さない。フォントの骨格・セリフの有無・コントラストを崩さない。
+```
+
+  </details>
 
 - **四大饮料品牌四世界：一条 campaign 多世界观** — PAUSE / SIP / REFRESH / HAVE FUN——四联各成一套视觉语言。一人团队做饮料/快消 SMM 时，「一提示多世界」比单张好看更值钱；评论区有完整 7UP 级长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099851373470945551) · [prompt](https://x.com/Diplomeme/status/2099851680380838194)
 
@@ -2356,6 +2368,55 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **实拍抽可替换服装 prompt 库（猎人风 cos）** — 先从原图抽衣装 prompt，再按类目换装；Images 2.5 跑猎人风 cos。虚拟 IP / UGC 换装资产库可复用。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100020747146342911)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. If source prose omits or misclassifies a component required by an explicit selection, that selection corrects only that component. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.
+
+Wardrobe:
+
+Outerwear / layers: A short open-front warrior shoulder mantle with a thick shaggy ivory-and-taupe fur collar wrapping around the nape and framing the chest. Fur-backed shoulder caps extend over the upper arms beneath layered blue-gray metal scales, arranged in staggered overlapping rows that taper into elongated pointed ends. Each scale has a raised dark border, fine worn scroll-like edging and small antique-brass rivets, with pale scuffs across the weathered metal. The shoulder plates articulate on concealed flexible leather mounts; fur projects beyond their lower edges, while a leather-lined back remains soft and unplated. Narrow underarm straps secure the paired shoulder caps.
+
+Dress / all-in-one: A fitted long-sleeved battle tunic in weathered slate blue, ash gray and dirty ivory, with a deep V-shaped wrap front edged in narrow blue bands and secured by concealed inner ties. The overlapping bodice panels have broad irregular pale worn areas across their blue-gray surfaces, while the close-fitting gray sleeves are softly wrinkled. A joined waist supports a split, asymmetrical skirt: short overlapping pointed blue panels cover the hips above longer uneven blue outer strips and exposed gray-and-ivory inner panels. The front opens above the knees, while jagged side and rear points descend toward the lower calves. Frayed edges, scattered small tears, pale abrasion, sparse antique-metal studs and restrained curling edge decoration give the layered fabric and reinforced hip panels a heavily worn finish.
+
+Bottom: A pair of fitted dark-charcoal-brown leather trousers with tapered full-length legs, a plain waistband and concealed button fly. The leather is supple and deeply creased around the knees, with irregular pale abrasions and angular ash-gray and muted blue reinforcement patches that differ slightly between the legs. Narrow dark-brown leather straps anchored at the side seams wind diagonally around the knees and upper calves, crossing in front and behind and fastening with small aged-metal buckles. Sparse studs, rubbed strap edges and visible patch stitching reinforce the worn, pieced-together appearance.
+
+Footwear: A pair of rugged calf-high boots with weathered blue-gray leather uppers, rounded dark-metal toe caps and reinforced heel counters. Dirty-ivory cloth strips wrap the shins and cross the insteps beneath broad dark-brown leather straps that wind in diagonal X-shaped courses around the shafts and feet, fastening with aged-brass side buckles. Thick shaggy ivory-and-taupe fur forms wide bands at the calf tops and ankles. Each upper strap carries a small ring-linked pointed oval leather tab with a riveted metal border. Flexible lined shafts, scuffed hardware, thick dark lugged soles and low block heels complete the boots, with pale wear and ingrained dirt concentrated along the toes, seams and sole edges.
+
+Bag:
+
+A small vertical brown leather belt pouch with a narrow body tapering into a rounded teardrop-shaped bottom. Its shallow gusset gives the pocket a little depth without widening the pointed silhouette. An angular fold-over flap has dark blue-gray edging and a single pale aged-metal stud fastening, while a slim central seam and close edge stitching emphasize the long shape. A concealed rear leather loop provides belt attachment; the surface is darkened, creased and rubbed lighter along the edges.
+
+A compact dark-brown leather belt pouch with a broad softly rounded rectangular body, curved bottom corners and a substantial folded side gusset. A rounded envelope flap closes over the front with an aged-metal stud fastening. A worn blue-gray reinforcing strip runs vertically down the center from the flap toward the base, accompanied by matching dark corner reinforcement, pale perimeter stitching and small metal rivets. Two rear leather loops mount the single-compartment pouch to a belt. The leather is creased and heavily scuffed, with darkened edges and rubbed lighter patches.
+
+Final worn state:
+For the first item description above only:
+- Bag carry: Fasten the original belt horizontally around the natural waist, with the complete bag body flat against the anatomical center back of the waist. Preserve its original attachments and hardware. Keep the bag at the back even when hidden by the pose; do not shift it to the front or a side. Keep registered supports and components connected; allow contact and gravity-led ease only along the selected route. Natural handling within this same operation: Keep the selected route and all attachment points exact while allowing limited material-correct slack and natural body contact.
+
+For the second item description above only:
+VIEW-CONDITIONAL BODY-SIDE MAP: front view — wearer-left is image-right and wearer-right is image-left; back view — wearer-left is image-left and wearer-right is image-right. In profiles, crossed limbs, or ambiguity, trace the named anatomical side continuously from its corresponding shoulder, hip, eye, or ear landmark as applicable. Apply the state only to the named anatomical side; never mirror, swap, or duplicate it.
+- Bag carry: Fasten the original belt horizontally around the natural waist, with the complete bag body flat against the wearer-right side of the waist. Preserve its original attachments and hardware. Keep it off both shoulders and the chest; do not move it to center front or the opposite hip. Keep registered supports and components connected; allow contact and gravity-led ease only along the selected route. Natural handling within this same operation: Keep the selected route and all attachment points exact while allowing limited material-correct slack and natural body contact.
+
+Belt: A broad warrior waist girdle built from a weathered slate-blue cloth wrap crossed by three narrow dark-brown leather belt courses and a lower slanting hip belt. Aged-brass buckles, keeper loops, punched holes and rivets secure the irregular stacked arrangement while leaving blue fabric visible between the straps. A large brass ring at the front supports an ivory-colored long-snouted animal-skull ornament with recessed eye sockets, a ridged brow and a deep elongated nasal opening. Shaggy gray-taupe fur strips hang from reinforced front and rear tabs, tapering unevenly toward the knees, with the front strip extending beneath the skull. Short cords along the hip belt suspend a loose fringe of curved ivory-colored teeth; worn leather edges and darkened fittings unify the construction.
+
+Necklace: A close-fitting dark braided-cord necklace carrying a graduated fringe of ivory-colored fang pendants. The longest slightly curved tooth hangs at the center, with progressively shorter irregular teeth angled outward toward the sides so their pointed tips form a radiating crescent. Each fang is secured at its blunt root with a dark wrapped binding, separated by small muted bone-colored beads and knots. Subtle gray-brown grooves and worn tips give the tooth replicas an aged finish; an adjustable knotted cord fastening closes the necklace behind the neck.
+
+Gloves: A pair of close-fitting dark-charcoal leather fingerless gloves with short open finger stalls and open thumb tips. Overlapping angular blue-gray metal plates protect the backs of the hands, with raised dark edges, small pale-metal rivets and scratched silver-gray highlights. Small riveted reinforcements sit above the knuckles while the fingers and palms remain flexible leather. Neat stitched openings, reinforced thumb seams and short wrists with concealed side snaps complete the gloves; creases and rubbed edges give the leather a worn finish.
+
+Arm guards / bracers: A matched pair of blue-gray metal forearm bracers, broad below the elbows and tapering closely toward the wrists. Long curved plates have raised longitudinal borders, narrow reinforcing ribs, scattered antique-brass rivets and scratched, pale-worn surfaces. Each flared upper section carries a prominent angular silver-gray crest made from overlapping pointed plates projecting above and to the sides of the forearm guard. Dark-brown leather straps encircle the leather-backed shells and buckle along the inner arms. Short shaggy ivory-and-taupe fur cuffs finish the wrists, while darkened seams and restrained incised edge decoration emphasize the segmented construction.
+
+Body harnesses:
+
+A dark-brown leather torso harness with two adjustable shoulder straps descending beside the chest and a narrow crossed strap arrangement beneath the bust. At the back, four diagonal strap ends meet at a substantial aged-brass ring: the upper pair rises toward the shoulders through rectangular buckles, and the lower pair runs outward around the ribs to the front crossing. Small brass buckles, punched adjustment holes, rivets and keeper loops provide working fastening points. The leather has darkened edges, pale scuffs and visible edge stitching, with an open chest and open spaces between the rear straps.
+
+Final worn state:
+- Body harness layering: Wear the complete body harness outside the selected Outerwear / layers item, keeping every registered neck, shoulder, chest, torso, and waist strap on its original anatomical route with every connector visible and correctly joined. Do not hide it beneath the target, merge straps, invent attachments, or convert the harness into suspenders, a belt, body chain, or garment trim. Change only layer order, contact, and occlusion. Keep each item's front, rear, side, edges, openings, and connections distinct. Visibility follows only existing apertures or optical transmission through existing material; every source edge and panel connection retains its geometry. Contact response stays shallow and fades within connected panels.
+```
+
+  </details>
+
 - **中文海边 UGC 自拍：黄金时段写实配方** — 高开叉泳衣 + 黄金时段暖侧光 + 海浪礁石——写实摄影质感写全。中文市场生活方式素材比空喊 photoreal 好用；顺带踩到官网 vs 第三方 API 审核差。 [@shitunote](https://x.com/shitunote) · [原帖](https://x.com/shitunote/status/2099846900031852562)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -3818,12 +3879,14 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
   </details>
 
-- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [playbook](docs/playbooks/virtual-ip-assets.md)
+- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ)
 
 
 ## 电商改图
 
 商品图、局部编辑、包装与货架感。
+
+- **Sunburst 美妆级修图 + 产品原型同框** — Yana 用 Sunburst 直接「化妆」，还塞了 Post-Keyboard Polo 原型。产品营销照的偷懒天花板——脸与货同时成片。 [@yanabana](https://x.com/yanabana) · [原帖](https://x.com/yanabana/status/2100025172543918578)
 
 - **Sunburst 电商色号一键改：只动颜色其余锁死** — 六个色号不重拍——定向改色，构图/模特/布光全留。商品主图与货架变体流水线直接抄。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766317129867637)
 
@@ -4052,6 +4115,43 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **Sunburst 尾帧→MiniMax Meta 向延时广告** — 钢琴教室虚构广告：Sunburst 出 end frame，MiniMax H3 出 9:16 / 10 秒延时彩铅成片，还把视线往 offer 按钮上导。广告素材流水线示范。 [@tanabe_fragm](https://x.com/tanabe_fragm) · [原帖](https://x.com/tanabe_fragm/status/2100020375006654762)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+How the reference pictures align with the target video — <Picture 1> (from [Shot 1]) aligns with the 10.00-second mark.
+
+integrated_multimodal_description: [Shot 1] Live-action, authentic traditional art timelapse of a hyperrealistic colored-pencil drawing, filmed as one continuous take from a locked-off top-down camera directly above the paper. The camera stays completely still in a Static Shot for the entire 10 seconds, with no zoom, no pan, no tilt, and no change of framing. A blank white vertical sheet of drawing paper fills the whole frame edge to edge, so the paper edges, the desk, any table, and any art supplies are never visible; only the paper and the drawing hand appear. The drawing hand is a young woman's slender right hand with short, neat natural nails and a bare wrist. With a graphite pencil, her hand quickly sketches the little girl on the piano bench and the smiling female teacher seated behind her, then the upright piano on the right with its keys and open sheet music, then the wavy lower booking band with its rounded button and faint guide lines where every line of lettering in <Picture 1> will sit.
+At 00:01.500, in the same fixed framing, her hand rapidly defines the girl's smiling face, braided half-up hair, and small hands on the keys, then the teacher's gentle face and hair tied back, then the bookshelf, framed picture, bright window, and plants behind them, using short strokes and one quick eraser correction.
+At 00:03.500, in the same fixed framing, her hand layers soft warm cream over the room and bright window, then pale lavender over the girl's top and a small floral pattern over her skirt, then cream over the teacher's blouse and soft gray over her skirt.
+At 00:05.500, in the same fixed framing, her hand colors the warm brown wood of the piano, the dark brown leather bench, and the wooden footrest, then the green plants, bookshelf, and patterned rug, then soft window light and shadows, so the image looks more and more like a photograph. The lower booking band stays uncolored white paper with only faint pencil outlines.
+At 00:07.000, in the same fixed framing, her hand goes over the upper guide lines, turning them into the small line above the logo and the large navy rounded logo with a tiny green sprout, then the navy two-line headline with the word inside the brackets switched to soft coral orange and the subcopy, then the small handwritten phrases, the pale blue wave with music notes in the top right, and the watercolor leaves in the top left of <Picture 1>. The lower booking band still stays uncolored.
+At 00:08.000, in the same fixed framing, her hand finally finishes the lower booking band: first it fills the wavy band with soft pale blue and adds the watercolor white flowers and green leaves in its corners, then writes the navy heading with small yellow accent marks and fills the wide rounded button with bright coral orange, then writes the white button lettering and the tiny note below it, exactly as in <Picture 1>.
+At 00:09.000, in the same fixed framing, her hand adds one final small stroke on the coral button, then lifts away out of the top of the frame.
+At 00:09.400, the frame holds perfectly still with no hand, no pencil, and no shadow, and the finished artwork settles into an exact match of <Picture 1> in layout, colors, lettering, and photographic detail.
+Throughout the video, the camera never moves, the paper never shifts, and nothing outside the paper is ever shown; everything appears only through visible strokes of the woman's hand, with no morphing, no digital interface, and no cursor.
+
+overall_soundscape: Graphite and colored pencils scratch rapidly across textured paper in quick bursts. A rubber eraser rubs briefly and crumbs are brushed away with a soft swipe. The strokes become broad and steady as the pale blue band is filled, then stop as the hand lifts away, leaving near silence for the last moment.
+
+non_diegetic_music: N/A
+```
+
+  </details>
+
+- **静止画→航拍路径可视化→Seedance 成片** — 角色静帧一贴，Images 2.5 画出脚→脸的无人机拍摄黄线路径，再丢 Seedance。镜头语言先可视化再成片，短视频分镜党直接抄。 [@agi_aibusi](https://x.com/agi_aibusi) · [原帖](https://x.com/agi_aibusi/status/2100004003237204394)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+添付画像をSeedance用のカメラ経路ガイドにしてください。
+元画像は一切描き直さず、次の順番を通る一本の細い黄色い線と、進行方向を示す矢印だけを重ねてください。
+経路：［始点］→［経由点1］→［経由点2］→［経由点3］→［経由点4］→［終点］
+各点は画像内の実際の位置に合わせ、被写体の輪郭に沿って左右へ緩やかに折り返しながら、滑らかな曲線でつないでください。点の順番が分かる小さな番号を付けます。線や番号は顔などの重要な部分をできるだけ隠さないよう配置してください。人物・動物・背景・構図・色味は変更しないでください。
+```
+
+  </details>
 
 - **TWIX 焦糖分镜商业片：故事板锁镜三镜头** — 上传 storyboard 当主参考，约 16 秒、三镜、9:16 竖屏——产品/包装一致性写死。快消食品广告「分镜锁一致性」整段可抄。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2099850452426961352)
   <details>
