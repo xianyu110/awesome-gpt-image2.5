@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 372 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 382 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,10 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **同 prompt 三题材：Image 2 vs 2.5 并排烤炉** — 插画 / 胶片写真 / 时装 editorial 同一提示压两代，附可抄 prompt。选型别靠感觉——并排看谁更听话。 [@magnific](https://x.com/magnific) · [原帖](https://x.com/magnific/status/2099984889554825693)
+
+- **Flare 4K Max vs Neo Banana Pro：同题硬刚** — 左 Google Neo Banana Pro 4K、右 GPT Image 2.5 Flare 4K Max。跨厂旗舰选型甩图就行。 [@leploutos](https://x.com/leploutos) · [原帖](https://x.com/leploutos/status/2099865822231711948)
 
 - **物体删除烤炉：Sunburst vs Nano Banana 2** — 同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。 [@danywach](https://x.com/danywach) · [原帖](https://x.com/danywach/status/2099845477885714780) · [prompt](https://nanostudiopro.com/blog/nano-banana-2-vs-gpt-image-2-5-object-removal)
 
@@ -797,7 +801,73 @@ C区域代表【背景建筑或环境】
 
   </details>
 
+- **透视即设计：四种景深系统海报** — FRAME SHIFT / VANISH POINT / LEVEL SHIFT / STRATA——人与建筑叠进同一透视场。活动 KV / 时装 campaign 控空间直接抄槽位公式。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099880009053917543)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+[BRAND NAME]: {fill in}
+[CAMPAIGN / SERIES]: {fill in}
+[MAIN TITLE]: {fill in}
+[TAGLINE]: {fill in}
+[DEPTH SYSTEM]: {nested frames / converging perspective / stacked levels / layered slabs}
+[PRIMARY COLOR]: {fill in}
+[ACCENT COLOR]: {fill in}
+[NUMBER OF PEOPLE]: {6–8 adults}
+[ASPECT RATIO]: {9:16}
+
+Create a high-end multi-person editorial campaign poster where depth and perspective become the main design system.
+
+Build the scene around one strong spatial structure, such as nested architectural frames, lines converging toward a vanishing point, irregular stacked platforms, or large horizontal layers. The architecture should immediately create a clear foreground, middle ground, and background.
+
+Place multiple adult figures at different distances and heights within the same coherent perspective field. Their scale must change naturally with depth. Use one or two strong foreground figures, several smaller midground figures, and a few distant figures. Avoid evenly spaced people, grids, lineups, or team-photo compositions.
+
+Make people and architecture physically overlap. Some figures should pass through frames, disappear behind walls, be partially hidden by platforms, appear between layers, or emerge from deeper spaces. The result should feel like one real photographed environment, not separate people pasted onto a layout.
+
+Integrate the main title into the architecture whenever possible. Let typography follow the perspective of a frame, wall, platform, or structural edge. It may change scale, become partially occluded, or stretch across several depth planes, but it should remain readable.
+
+Keep the environment minimal and sculptural. Use large geometric forms, controlled negative space, one dominant color system, realistic directional daylight, and consistent architectural shadows. The spatial idea should still read clearly at thumbnail size.
+
+Use realistic fashion photography for the cast: natural skin texture, believable anatomy, real hair, accurate hands and feet, natural fabric folds, varied poses, and subtle movement. Avoid duplicated figures, plastic skin, floating bodies, or overly staged model poses.
+
+Supporting typography should stay minimal and secondary. The final image should feel like a real contemporary fashion, cultural, or brand campaign where people, architecture, type, and perspective are all part of the same composition.
+```
+
+  </details>
+
 - **四大饮料品牌四世界：一条 campaign 多世界观** — PAUSE / SIP / REFRESH / HAVE FUN——四联各成一套视觉语言。一人团队做饮料/快消 SMM 时，「一提示多世界」比单张好看更值钱；评论区有完整 7UP 级长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099851373470945551) · [prompt](https://x.com/Diplomeme/status/2099851680380838194)
+
+- **字体当建筑：四联空间排版海报** — CAST TYPE / SKY APERTURE / OPEN CORNER / FLOAT LEVEL——字投阴影、绕混凝土、穿景深。编辑海报 / 建筑视觉空间字体教科书。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099849499170492882)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a 9:16 vertical editorial poster series in English, combining brutalist architecture, oversized perspective typography, realistic young adult figures, and strong three-dimensional spatial relationships.
+
+Keep the visual system consistent across the series: dramatic low-angle photography, deep cobalt-blue sky, warm raw-concrete gray, warm ivory typography, charcoal clothing, and safety orange as the only strong accent. Architecture should feel monumental and simple, with large geometric surfaces rather than complex structures.
+
+Typography must actively participate in the space. Let letters follow architectural perspective, change scale with depth, wrap around surfaces, cast real shadows, become partially hidden by people or concrete, and interact naturally with foreground and background elements. Avoid flat text placed over a photograph.
+
+Keep the people realistic and naturally posed, with authentic skin texture, natural hair, believable clothing folds, and clear physical interaction with the surrounding architecture.
+
+Poster 1: CAST TYPE
+Create monumental three-dimensional letters spelling “TYPE” mounted above a brutalist concrete structure. Use warm-ivory front faces and safety-orange side depth. Strong sunlight casts huge readable letter shadows across the concrete wall below. Place a realistic young woman walking through the transition between sunlight and the projected shadow. Add “CAST” as giant perspective typography in the sky. Supporting text may include “LIGHT MAKES FORM”, “READ THE SHADOW”, and “SOLID / PROJECTION”.
+
+Poster 2: SKY APERTURE
+Create a monumental circular brutalist atrium viewed from below, with a large round opening revealing vivid blue sky. Integrate “SKY APERTURE” into the curved concrete structure using true circular perspective rather than flat curved text. Add a realistic young man on the lower walkway and a restrained vermilion curved graphic accent. Supporting text may include “OPEN ABOVE”, “CIRCULAR FIELD”, and “LIGHT ENTERS HERE”.
+
+Poster 3: OPEN CORNER
+Create a massive 90-degree brutalist concrete corner viewed from a dramatic low angle. Place a realistic young woman naturally interacting with the corner and an orange three-dimensional L-shaped spatial form. Make “OPEN CORNER” wrap across the two architectural planes so the typography visibly changes direction at the corner. Supporting text may include “TWO SIDES”, “TURN THE GRID”, and “BETWEEN SURFACES”.
+
+Poster 4: FLOAT LEVEL
+Create two offset concrete slabs with a realistic young man walking along the upper level. Introduce two separated translucent planes at different depths, one smoky blue-gray behind him and one orange plane in front, creating a fragmented spatial volume. Place “FLOAT LEVEL” across multiple depths so the words appear at different distances. Supporting text may include “BETWEEN PLANES”, “NO FIXED GROUND”, and “OFFSET HEIGHT”.
+
+Use meaningful editorial microcopy, small labels, thin rules, and compact annotations to create rich but controlled information density. Keep clear hierarchy and generous negative space around the main architectural forms.
+
+The final series should feel like professionally art-directed architecture and youth-culture editorial posters, with strong thumbnail impact and sophisticated spatial detail up close.
+```
+
+  </details>
 
 - **品牌字标校园：Fortune 500 等距微缩校园** — 把公司名变成可逛的字标建筑校园，负空间藏剪影。2×2·16:9 槽位可换品牌，病毒设计物配方完整可抄。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2099807186461634953)
   <details>
@@ -2417,6 +2487,66 @@ Final worn state:
 
   </details>
 
+- **个人品牌四联棚拍：一图四种表情身份锁** — 上传脸锁身份，竖版一图塞全身 + 坐姿 + 笑脸 + 严肃特写。个人品牌 / 高管 editorial 一锅出。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2099973325779054806)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Add a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.
+
+Use the uploaded photo as the facial identity reference and create a premium cinematic studio portrait of the same adult man. Preserve his recognizable facial structure, skin tone, features, and proportions accurately.
+
+Create a premium cinematic multi-panel fashion portrait of the same adult man, presented as four coordinated portraits inside one vertical composition.
+
+Use a luxurious deep navy-to-black studio background with subtle golden vertical frame lines separating each portrait. Add faint warm gold particles and soft highlights for an elegant editorial atmosphere.
+
+Main center portrait: Show the man full-body, standing confidently and smiling slightly. Dress him in a tailored dark navy double-breasted blazer with subtle pinstripes and gold buttons, crisp white dress shirt, patterned dark tie, white pocket square, slim white tailored trousers, and polished black leather dress shoes. Add a sophisticated silver wristwatch. His hands are gently clasped together around waist level.
+
+Top portrait: Place him seated confidently in a dark leather armchair, wearing the same navy blazer, white shirt, patterned tie, pocket square, and light trousers. One hand rests naturally on the chair arm. Give him a relaxed, composed expression.
+
+Left portrait: Create a chest-up close-up of him laughing naturally with a wide genuine smile, showing an energetic and approachable personality.
+
+Right portrait: Create another chest-up close-up with a serious, intense expression, looking slightly to the side for a strong executive/editorial feel.
+
+Keep the same facial identity, hairstyle, facial proportions, skin tone, clothing details, and overall appearance consistent across all four portraits.
+
+Use cinematic studio lighting with soft highlights on the face and suit, controlled shadows, subtle rim lighting, realistic skin texture, sharp tailoring details, luxury menswear campaign styling, high-end magazine photography, symmetrical composition, dramatic contrast, ultra-realistic finish, 85mm portrait lens look, shallow depth of field, premium color grading, high detail, vertical 9:16 aspect ratio.
+```
+
+  </details>
+
+- **烈日人像四发色：同一阳光感配方** — 银白 / 铜红 / 深棕 / 蜜金——硬自然光当主角，肤质与发丝写死。写真 / 时装 mood shot 换槽就能批。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099904698073616580)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Hair color: 
+Top: 
+Sunlight: 
+Pose: 
+Background: 
+
+Create a 9:16 ultra-realistic close-up portrait of an adult young woman in strong natural sunlight.
+
+Make the sunlight a major part of the image: direct, uneven, slightly harsh, with bright highlights falling across the hair, face, shoulders, and collarbone. Allow small areas of controlled highlight clipping while keeping facial structure and skin detail visible.
+
+Hair should feel especially alive in the light—natural volume, loose strands, flyaways, fine individual hairs, and subtle movement. Backlit or side-lit strands should glow clearly against the darker background, with realistic variation in tone rather than a flat solid hair color.
+
+Keep the skin highly realistic and human: visible fine texture, subtle pores, natural tonal variation, soft facial color, and believable highlights. Avoid overly smooth, oily, plastic, waxy, or CGI-looking skin.
+
+Use a simple fitted top with a clean neckline and realistic fabric texture. The clothing should gently define and complement the upper-body silhouette without becoming the main focus. Keep the design minimal, with no logos, prints, or distracting accessories.
+
+Frame the portrait very close, with slightly imperfect cropping and a casual, private snapshot feeling. Let a few strands of hair cross the face naturally. Keep the expression relaxed and understated, never like a commercial fashion pose.
+
+Use a simple darker background to make the sunlit hair and skin stand out.
+
+Overall feel: intimate, sun-drenched, candid, tactile, slightly imperfect, and genuinely photographic rather than polished studio beauty photography.
+
+Avoid: beauty-filter skin, perfect salon hair, flat soft lighting, studio lighting, excessive retouching, glossy CGI skin, fake wig texture, overly posed expressions, busy backgrounds, distorted hands, or unnatural anatomy.
+```
+
+  </details>
+
 - **中文海边 UGC 自拍：黄金时段写实配方** — 高开叉泳衣 + 黄金时段暖侧光 + 海浪礁石——写实摄影质感写全。中文市场生活方式素材比空喊 photoreal 好用；顺带踩到官网 vs 第三方 API 审核差。 [@shitunote](https://x.com/shitunote) · [原帖](https://x.com/shitunote/status/2099846900031852562)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -3888,6 +4018,8 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 - **Sunburst 美妆级修图 + 产品原型同框** — Yana 用 Sunburst 直接「化妆」，还塞了 Post-Keyboard Polo 原型。产品营销照的偷懒天花板——脸与货同时成片。 [@yanabana](https://x.com/yanabana) · [原帖](https://x.com/yanabana/status/2100025172543918578)
 
+- **色卡联动换装广告：产品色号跟着转** — 模特转体换色时，背景货与色卡同步同色号；Image 2.5 出协调静帧再 Seedance 动画。电商换色种草管线可抄。 [@AIPandaX](https://x.com/AIPandaX) · [原帖](https://x.com/AIPandaX/status/2099948996878074268)
+
 - **Sunburst 电商色号一键改：只动颜色其余锁死** — 六个色号不重拍——定向改色，构图/模特/布光全留。商品主图与货架变体流水线直接抄。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766317129867637)
 
 - **金色香水仪式：锁脸 9:16 产品人像** — 上传图锁身份，喷香水动作+琥珀侧光电影感。香水/美妆 KV 可整段复用，负向词也写全了。 [@imGopalTiwari](https://x.com/imGopalTiwari) · [原帖](https://x.com/imGopalTiwari/status/2099715941605195847)
@@ -4149,6 +4281,26 @@ non_diegetic_music: N/A
 元画像は一切描き直さず、次の順番を通る一本の細い黄色い線と、進行方向を示す矢印だけを重ねてください。
 経路：［始点］→［経由点1］→［経由点2］→［経由点3］→［経由点4］→［終点］
 各点は画像内の実際の位置に合わせ、被写体の輪郭に沿って左右へ緩やかに折り返しながら、滑らかな曲線でつないでください。点の順番が分かる小さな番号を付けます。線や番号は顔などの重要な部分をできるだけ隠さないよう配置してください。人物・動物・背景・構図・色味は変更しないでください。
+```
+
+  </details>
+
+- **Astra×Image 2.5：粗引导编辑再渲染** — Astra 造 / 改 / 动粗引导（笔触、SVG、角色绑骨），Image 2.5 跨帧一致性渲染。控形管线从草图升级到可动引导。 [@ArmanMaesumi](https://x.com/ArmanMaesumi) · [原帖](https://x.com/ArmanMaesumi/status/2099985353469992962)
+
+- **保安大爷动作片：角色表→Seedance 成片** — Image 2.5 出 THE JANITOR 角色圣经，再 Seedance 2.5 夜校走廊清场。IP 短片：先锁脸造型再喂视频。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2099914485729231198)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium cinematic character bible sheet for THE JANITOR. Use uploaded character sheet as strict visual reference. Do not change his appearance.
+
+LAYOUT: Single character centered format. Janitor filling most of the sheet, centered and dominant.
+
+Bright yellow watercolor splash radiating behind him — bold and dramatic, controlled, same style as the Taken and John Wick sheets. Large bold brushstroke text THE JANITOR top left in deep yellow. Below small text: HALLWAY / NIGHT SHIFT. One massive dramatic cropped hero image of the Janitor from mid-thigh up — completely calm expression, navy uniform, name badge visible, yellow glowing mop staff held in both hands radiating yellow light outward, yellow watercolor splash behind him.
+
+BOTTOM CENTER: Bold dramatic THE JANITOR in deep navy, slightly worn. Below it small text: NIGHT SHIFT. ONE MOP. NO MERCY. Color palette — navy blue, bright yellow, black, white. Tagline centered: SOMEBODY MADE A MESS.
+
+OVERALL: Clean white background, bright yellow watercolor splash behind the Janitor same style as Taken and John Wick, character from mid-thigh up filling the frame, face clearly recognisable, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
 ```
 
   </details>
@@ -5235,6 +5387,8 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **Codex×DaVinci MCP：实拍帧局部改不劣化** — 平静实拍丢 DaVinci Resolve + Codex（Image 2.5）：消杯子、换椅子，比重生视频少糊。剪辑后期局部修的正经备胎。 [@IntLab0000](https://x.com/IntLab0000) · [原帖](https://x.com/IntLab0000/status/2099867092568977674)
 
 - **iPad / MacBook 相册截图：角色×城市×系统 UI** — 继 iPhone 相册后，DeepBlue 把同一配方扩到 iPad Pro / iPadOS 假截图。产品 mock / 角色 UGC 换设备外壳就能出系列。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099693409950998899)
   <details>
