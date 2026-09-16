@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 387 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 399 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,12 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Flare / Sunburst API 实务清单：快产 vs 精修** — Flare 日常量产、Sunburst 局部改 / 多参考 / mask；xhigh·max、会话续改一次理清。一人团队接自动化管线先抄这张分工表。 [@AIlife2024ka](https://x.com/AIlife2024ka) · [原帖](https://x.com/AIlife2024ka/status/2100083815339425917)
+
+- **Image 2 vs 2.5 Flare：同尺寸成本速度 A/B** — 同 prompt 同尺寸：Image 2 约 32 秒 / $0.035，2.5 Flare 约 10 秒 / $0.009。谈迭代节奏和账单时，这组数字比口号硬。 [@111tad1](https://x.com/111tad1) · [原帖](https://x.com/111tad1/status/2100070991254921457)
+
+- **Flare vs Sunburst：16 宫格只改一格不串改** — 同一份情侣生活照 + 同一条二次编辑 prompt，ZenMux PK 看谁改到位又不顺手重做另外 15 格。局部改选型别再听口嗨——并排露馅最管用。 [@msjiaozhu](https://x.com/msjiaozhu) · [原帖](https://x.com/msjiaozhu/status/2100044254987043250)
 
 - **同 prompt 三题材：Image 2 vs 2.5 并排烤炉** — 插画 / 胶片写真 / 时装 editorial 同一提示压两代，附可抄 prompt。选型别靠感觉——并排看谁更听话。 [@magnific](https://x.com/magnific) · [原帖](https://x.com/magnific/status/2099984889554825693)
 
@@ -881,6 +887,91 @@ Surround the composition with subtle **editorial travel-poster typography**, inc
 **QUALITY:** Ultra-high resolution, razor-sharp details, crisp typography, sophisticated illustration, realistic environmental depth, polished print texture, professional travel-poster finish.
 
 **FORMAT:** STRICT **4:5 VERTICAL**.
+```
+
+  </details>
+
+- **建筑照片→半调旅行海报：上下分区模板** — 上半保留实拍结构，下半撕纸碎片 + ASCII + 影印半调重建同一建筑。地产 / 文旅批量出片，分区格式写死可复用。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100067049288634730)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.
+
+FORMAT
+
+3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line.
+
+Do not stretch, warp, tilt, or unnaturally reposition the structure to force the proportions.
+
+TOP HALF — THE REAL SHOT
+
+Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood.
+
+Keep recognizable features such as:
+
+* façade
+* windows and arches
+* towers or domes
+* doors and structural details
+* roofline
+* surrounding landscape or street elements
+
+Add only a subtle high-end color grade and the faintest film grain. Do not redesign or reinterpret the architecture.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+
+Rebuild the same structure as an experimental printed architectural collage using:
+
+torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework.
+
+The structure must remain immediately recognizable.
+
+* Torn-edge photographic fragments preserve the most important architectural details.
+* Brick, stone, glass, metal, shadows, windows, and surrounding textures gradually dissolve outward into ASCII characters, black halftone dots, fragmented print grain, and fine architectural drafting lines.
+* Use thin technical construction lines to subtly trace the structure’s geometry.
+* Let selected areas break apart into paper fibers and halftone fragments, creating the feeling that the building is emerging from an archival print.
+* Keep the main silhouette strong and readable.
+* Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar.
+* Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent.
+* Never fully desaturate the structure.
+
+The structure should occupy roughly 60–88% of the frame width, scaled according to what reads best for the architecture.
+
+Leave 22–38% of the paper visibly untouched and empty, creating generous negative space so the poster feels like an archival architectural specimen rather than a packed digital screen.
+
+TYPOGRAPHY
+
+Add one clean, readable fixed-width architectural title based on the structure:
+
+[STRUCTURE NAME]
+
+Below it include:
+
+[CITY, COUNTRY]
+REC. STUDY 01
+
+Add one short observational caption related to the architecture, such as:
+
+“A monumental study in geometry, time, and place.”
+
+Typography should feel like an old architectural archive mixed with an underground experimental design journal.
+
+A few loose ASCII glyphs may trace the outer silhouette or architectural edges as texture only — never use ASCII to invent windows, doors, structural details, or technical specifications.
+
+MOOD
+
+Early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial.
+
+The structure should feel like it is surfacing from an old printed document — half photograph, half architectural drawing, half experimental print.
+
+Sophisticated, minimal, tactile, intellectual, slightly mysterious, and highly collectible.
+
+AVOID
+
+Solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive ASCII, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random symbols with no meaning, garbled text, excessive colors, brand logos, QR codes, watermarks, author credits, or tourist-poster clichés.
+
+Priority: Preserve the structure’s identity and architectural accuracy first. The experimental halftone/ASCII treatment should enhance the architecture, not hide it.
 ```
 
   </details>
@@ -2582,6 +2673,42 @@ Use cute hand-drawn doodles such as: hearts, stars, sparkles, clouds, question m
 
   </details>
 
+- **乘务员 3×3 UGC：九格同人手机抓拍** — 超写实智能手机拼贴九宫格，同一乘务员脸 / 制服 / 发型锁死。生活感广告素材的现成模板，完整 prompt 可抄。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2100071548145070438)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+ULTRA-REALISTIC CASUAL SMARTPHONE PHOTO COLLAGE, vertical 3:4, consisting of 9 separate candid snapshots arranged in a clean 3×3 grid, capturing the same young East Asian female train attendant during a normal workday aboard a modern passenger train.
+
+Keep the same woman, same facial features, same hairstyle, same overall appearance, and same uniform consistently across every panel. She has dark brown hair neatly tied into a low bun, delicate natural features, subtle makeup, and a youthful appearance.
+
+She wears a professional dark navy train-attendant uniform, a fitted blazer or elegant uniform dress, a red-and-navy patterned neck scarf, a small gold name badge, dark stockings, and simple professional shoes. Her appearance is polished but natural.
+
+Panel 1: accidental close-up smartphone selfie inside the train vestibule, with one finger partially covering the lens, slightly blurry and imperfect, train doors and safety signage visible behind her.
+
+Panel 2: full-body candid shot of her walking through the narrow train aisle while pulling a small black rolling suitcase, slight motion blur, passengers and rows of seats softly visible in the background.
+
+Panel 3: close-up selfie from a train seat beside the window, bright natural sunlight entering through the glass and slightly overexposing part of her face, relaxed expression and casual framing.
+
+Panel 4: candid rear/side view of her standing inside the train carriage while reaching toward an overhead luggage compartment, showing her neat low bun, uniform silhouette, and professional posture.
+
+Panel 5: extremely close casual selfie, her face filling most of the frame with a few loose strands of hair crossing her face, soft focus, slightly imperfect smartphone exposure, playful natural expression.
+
+Panel 6: candid seated selfie inside the train, one hand covering her mouth while laughing, wearing a simple wristwatch, warm carriage lighting, genuine spontaneous moment.
+
+Panel 7: close-up side selfie beside a large train window, railway platform and another train visible outside, natural daylight, slightly cropped face and realistic reflections on the glass.
+
+Panel 8: candid rear view of her walking through the train carriage toward another section, slight motion blur, overhead luggage racks, seats, doors, and realistic train interior details visible.
+
+Panel 9: close-up accidental selfie inside the train vestibule, part of her finger covering the camera lens, playful imperfect framing, realistic train door controls and safety equipment behind her.
+
+The whole collage should feel like real personal smartphone memories from a train attendant's workday, not professional photography. Use inconsistent framing, slight motion blur, accidental cropping, mild lens distortion, subtle exposure variations, realistic carriage lighting, soft focus, natural skin texture, authentic facial expressions, and small photographic imperfections.
+
+No polished studio look, no artificial beauty filter, no plastic skin, no CGI appearance. Raw everyday smartphone photography, authentic behind-the-scenes train-attendant photo diary, realistic modern passenger train interior, spontaneous candid moments, consistent character across all 9 panels, thin white dividers between panels, clean 3×3 grid, vertical 3:4 aspect ratio.
+```
+
+  </details>
+
 - **实拍抽可替换服装 prompt 库（猎人风 cos）** — 先从原图抽衣装 prompt，再按类目换装；Images 2.5 跑猎人风 cos。虚拟 IP / UGC 换装资产库可复用。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100020747146342911)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -4160,6 +4287,16 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **自拍→glossy 设计师玩具头像** — 上传参考图变 premium 3D vinyl designer toy 浮空头像，大墨镜 + 棚拍高光。UGC / 周边营销一键出片。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2100057090332995927)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+@Create image Create a premium glossy 3D "designer toy" render of the subject(s) using the uploaded image as the only reference. Render one floating head per person (no duplication), cropped cleanly below the jaw with a visible neck and full head comfortably framed. Style: high-quality vinyl figure with ultra-smooth, simplified forms, rounded volumes, and strong glossy reflections across key facial areas. Hair should be sculpted, glossy, and stylized, with embedded playful accessories. Include oversized retro wraparound sunglasses with vibrant, matching frame/lens colors. Use strong studio lighting with pronounced highlights. Background: blue sky with soft clouds.
+```
+
+  </details>
+
 - **Sunburst 美妆级修图 + 产品原型同框** — Yana 用 Sunburst 直接「化妆」，还塞了 Post-Keyboard Polo 原型。产品营销照的偷懒天花板——脸与货同时成片。 [@yanabana](https://x.com/yanabana) · [原帖](https://x.com/yanabana/status/2100025172543918578)
 
 - **色卡联动换装广告：产品色号跟着转** — 模特转体换色时，背景货与色卡同步同色号；Image 2.5 出协调静帧再 Seedance 动画。电商换色种草管线可抄。 [@AIPandaX](https://x.com/AIPandaX) · [原帖](https://x.com/AIPandaX/status/2099948996878074268)
@@ -4393,6 +4530,36 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 场景、长卷、视频工作流与氛围大图。
 
 - **Image→色板→动效→剪辑：变体先于视频** — Image 2.5 先出视觉变体，Seedance 转旋转序列，CapCut 收成片。别再 Prompt→Video 一把梭——先锁画面再喂动效。 [@tylerrwayne](https://x.com/tylerrwayne) · [原帖](https://x.com/tylerrwayne/status/2100099092135440769)
+
+- **Acidic 门缝静物：青光长曝光黑空间** — 黑建筑虚空里一扇半开白门泼冷青光，asset type / 长曝光 / 禁止项写死。品牌 mood / 产品概念静物整段复用。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2100075950360945150)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+stylized-concept. Asset type: vertical experimental interior photograph. Create a new 2:3 portrait image inside an almost completely black architectural void. A single narrow, tall matte-white door stands upright near the center, slightly to the right, viewed straight on; the top edge nearly disappears into darkness. The door is ajar by a small angle, releasing an intense cold cyan-blue light that floods the right wall and sweeps across the dark floor as a broad diagonal wedge. Across the door surface, soft acidic color contamination transitions from cyan at the top through cool white to pale magenta and a concentrated amber-yellow glow near the lower left. Add one minimal black horizontal lever handle on the right side of the door. Use a long-exposure photographic effect in the projected floor light and peripheral glow: smooth blue light drag, soft blooming and subtle color bleed, while the door geometry and handle remain crisp. Deep velvety blacks, high contrast, restrained film grain, clean architectural minimalism, no people, no furniture, no text, no logo, no watermark, no border, no extra objects.
+```
+
+  </details>
+
+- **Flare×Seedance：GTA 风开放世界洗车片** — GPT Image 2.5 Flare + Seedance 2.5 做黄金时段 Hellcat 洗车短片。想蹭游戏美学做广告的，这条够玩（教程帖内 DM 获取）。 [@yourPlugAI](https://x.com/yourPlugAI) · [原帖](https://x.com/yourPlugAI/status/2100074567398043685)
+
+- **午夜 diner：Image 2.5 定角 → Seedance 下厨** — Image 2.5 出角色，Seedance 2.5 跑厨房戏；prompt 与 turnaround 挂在账号。静帧定人设再喂视频的标准营销片流水线。 [@atlas_cloud_ai](https://x.com/atlas_cloud_ai) · [原帖](https://x.com/atlas_cloud_ai/status/2100066521846612402)
+
+- **DRAM 纳米城：电子显微镜视角结构化中文** — 两套可抄中文槽位：东方女性 × 纳米真人 × DRAM / 3D NAND 存储城市 × 电子显微镜抓拍。科技产品视觉还能俏皮。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100051568154538130)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+图1
+真实东方女性 × 纳米级真人 × 穿梭在巨大存储单元之间 × DRAM存储城市 × 纳米摩天大楼 × 密集晶体管阵列 × 电子显微镜视角抓拍 × 微观黑色背景
+
+图2
+真实东方女性 × 纳米级真人 × 穿梭在巨大存储结构之间 × 可爱俏皮表情 × 双手扶着巨大存储结构探头张望 × 3D NAND存储城市 × 纳米摩天大楼 × 无限堆叠存储单元 × 电子显微镜视角抓拍 × 微观黑色背景
+```
+
+  </details>
+
+- **粉红海 POV→30 秒无剪辑广告管线** — Flare 出首帧（全海面必须玫红）+ Seedance 2.5 锁 ref 连拍到酒吧落桌。DIRECTIVE + 30s timeline 在首评，场景广告流水线可抄。 [@wuzhu_](https://x.com/wuzhu_) · [原帖](https://x.com/wuzhu_/status/2100048689989288414)
 
 - **Sunburst 尾帧→MiniMax Meta 向延时广告** — 钢琴教室虚构广告：Sunburst 出 end frame，MiniMax H3 出 9:16 / 10 秒延时彩铅成片，还把视线往 offer 按钮上导。广告素材流水线示范。 [@tanabe_fragm](https://x.com/tanabe_fragm) · [原帖](https://x.com/tanabe_fragm/status/2100020375006654762)
   <details>
@@ -5157,6 +5324,8 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **Sunburst 粘土 skill：24 帧场景不崩脸** — ChatGPT skill 硬刚「同一粘土场景跨 24 帧一致」，横竖画幅都能出短片。一人团队短内容管线可抄思路（作者考虑开源）。 [@bahaa_alghazawy](https://x.com/bahaa_alghazawy) · [原帖](https://x.com/bahaa_alghazawy/status/2100073038603780182)
 
 - **单图→4×4 舞蹈参考表→MiniMax 成片** — 上传角色一图，Image 2.5 出 16 格连续舞姿 sheet，再丢 MiniMax H3 接成流畅舞蹈视频。像素/二次元短动效流水线可直接抄图 prompt。 [@Scenario_gg](https://x.com/Scenario_gg) · [原帖](https://x.com/Scenario_gg/status/2099797670516695385)
   <details>
