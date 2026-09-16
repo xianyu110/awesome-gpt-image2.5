@@ -44,6 +44,107 @@
     "prompt": "Create a premium ultra-high-resolution illustrated travel poster for **[LOCATION]**, designed as a sophisticated vintage adventure-travel editorial poster in a strict **4:5 vertical format**.\n\nBuild the composition around the destination’s most iconic landscapes, landmarks, wildlife, architecture, cultural symbols, and natural features. Create a strong **three-level visual composition**:\n\n1. **TOP SECTION:** A dramatic panoramic hero scene representing [LOCATION], featuring its most recognizable landscape or landmark under beautiful atmospheric skies. Add a few authentic destination-specific elements such as wildlife, vegetation, architecture, or local details.\n\n2. **CENTER SECTION:** Make **“[LOCATION NAME]”** extremely large and dominant across the poster using bold condensed geometric sans-serif typography. Fill the interior of the letters with a detailed scenic image of the destination, seamlessly combining mountains, coastline, forests, architecture, glaciers, desert, cityscape, or other relevant scenery. Keep the typography perfectly readable while allowing the imagery to extend naturally through the letters.\n\n3. **BOTTOM SECTION:** Create a second expansive scenic panorama showing another iconic aspect of [LOCATION], with foreground details such as native wildlife, vegetation, water, rocks, streets, buildings, or cultural elements. Make it visually connected to the central typography and upper landscape.\n\nSurround the composition with subtle **editorial travel-poster typography**, including short destination-relevant phrases, geographic references, and atmospheric descriptive words. Keep all secondary text minimal, correctly spelled, evenly spaced, and visually subordinate to the main location name.\n\n**ART STYLE:** Premium vintage travel illustration × mid-century editorial poster × modern screen print aesthetic. Handcrafted painterly texture, bold shapes, sophisticated composition, slightly weathered print character, cinematic landscapes, rich environmental detail, and authentic destination identity.\n\n**COLOR:** Automatically derive a refined palette from [LOCATION] and its natural environment. Use harmonious earthy and atmospheric tones with strong contrast, avoiding excessive colors.\n\n**COMPOSITION:** Strong visual hierarchy, balanced negative space, layered scenery, oversized typography, seamless image-filled lettering, panoramic landscape bands, elegant editorial spacing, and premium collectible travel-poster design.\n\n**TEXT RULES:** The primary headline must be exactly **“[LOCATION NAME]”**. All visible text must be in English, correctly spelled, clean, intentional, and legible. Do not add random words, fake logos, watermarks, or meaningless text.\n\n**QUALITY:** Ultra-high resolution, razor-sharp details, crisp typography, sophisticated illustration, realistic environmental depth, polished print texture, professional travel-poster finish.\n\n**FORMAT:** STRICT **4:5 VERTICAL**."
   },
   {
+    "id": "2100083815339425917",
+    "title": "Flare / Sunburst API 实务清单：快产 vs 精修",
+    "blurb": "Flare 日常量产、Sunburst 局部改 / 多参考 / mask；xhigh·max、会话续改一次理清。一人团队接自动化管线先抄这张分工表。",
+    "author": "AIlife2024ka",
+    "url": "https://x.com/AIlife2024ka/status/2100083815339425917",
+    "category": "选型评测"
+  },
+  {
+    "id": "2100075950360945150",
+    "title": "Acidic 门缝静物：青光长曝光黑空间",
+    "blurb": "黑建筑虚空里一扇半开白门泼冷青光，asset type / 长曝光 / 禁止项写死。品牌 mood / 产品概念静物整段复用。",
+    "author": "listudio",
+    "url": "https://x.com/listudio/status/2100075950360945150",
+    "category": "场景视觉",
+    "prompt": "stylized-concept. Asset type: vertical experimental interior photograph. Create a new 2:3 portrait image inside an almost completely black architectural void. A single narrow, tall matte-white door stands upright near the center, slightly to the right, viewed straight on; the top edge nearly disappears into darkness. The door is ajar by a small angle, releasing an intense cold cyan-blue light that floods the right wall and sweeps across the dark floor as a broad diagonal wedge. Across the door surface, soft acidic color contamination transitions from cyan at the top through cool white to pale magenta and a concentrated amber-yellow glow near the lower left. Add one minimal black horizontal lever handle on the right side of the door. Use a long-exposure photographic effect in the projected floor light and peripheral glow: smooth blue light drag, soft blooming and subtle color bleed, while the door geometry and handle remain crisp. Deep velvety blacks, high contrast, restrained film grain, clean architectural minimalism, no people, no furniture, no text, no logo, no watermark, no border, no extra objects."
+  },
+  {
+    "id": "2100074567398043685",
+    "title": "Flare×Seedance：GTA 风开放世界洗车片",
+    "blurb": "GPT Image 2.5 Flare + Seedance 2.5 做黄金时段 Hellcat 洗车短片。想蹭游戏美学做广告的，这条够玩（教程帖内 DM 获取）。",
+    "author": "yourPlugAI",
+    "url": "https://x.com/yourPlugAI/status/2100074567398043685",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2100073038603780182",
+    "title": "Sunburst 粘土 skill：24 帧场景不崩脸",
+    "blurb": "ChatGPT skill 硬刚「同一粘土场景跨 24 帧一致」，横竖画幅都能出短片。一人团队短内容管线可抄思路（作者考虑开源）。",
+    "author": "bahaa_alghazawy",
+    "url": "https://x.com/bahaa_alghazawy/status/2100073038603780182",
+    "category": "像素动效"
+  },
+  {
+    "id": "2100071548145070438",
+    "title": "乘务员 3×3 UGC：九格同人手机抓拍",
+    "blurb": "超写实智能手机拼贴九宫格，同一乘务员脸 / 制服 / 发型锁死。生活感广告素材的现成模板，完整 prompt 可抄。",
+    "author": "saniaspeaks_",
+    "url": "https://x.com/saniaspeaks_/status/2100071548145070438",
+    "category": "人像角色",
+    "prompt": "ULTRA-REALISTIC CASUAL SMARTPHONE PHOTO COLLAGE, vertical 3:4, consisting of 9 separate candid snapshots arranged in a clean 3×3 grid, capturing the same young East Asian female train attendant during a normal workday aboard a modern passenger train.\n\nKeep the same woman, same facial features, same hairstyle, same overall appearance, and same uniform consistently across every panel. She has dark brown hair neatly tied into a low bun, delicate natural features, subtle makeup, and a youthful appearance.\n\nShe wears a professional dark navy train-attendant uniform, a fitted blazer or elegant uniform dress, a red-and-navy patterned neck scarf, a small gold name badge, dark stockings, and simple professional shoes. Her appearance is polished but natural.\n\nPanel 1: accidental close-up smartphone selfie inside the train vestibule, with one finger partially covering the lens, slightly blurry and imperfect, train doors and safety signage visible behind her.\n\nPanel 2: full-body candid shot of her walking through the narrow train aisle while pulling a small black rolling suitcase, slight motion blur, passengers and rows of seats softly visible in the background.\n\nPanel 3: close-up selfie from a train seat beside the window, bright natural sunlight entering through the glass and slightly overexposing part of her face, relaxed expression and casual framing.\n\nPanel 4: candid rear/side view of her standing inside the train carriage while reaching toward an overhead luggage compartment, showing her neat low bun, uniform silhouette, and professional posture.\n\nPanel 5: extremely close casual selfie, her face filling most of the frame with a few loose strands of hair crossing her face, soft focus, slightly imperfect smartphone exposure, playful natural expression.\n\nPanel 6: candid seated selfie inside the train, one hand covering her mouth while laughing, wearing a simple wristwatch, warm carriage lighting, genuine spontaneous moment.\n\nPanel 7: close-up side selfie beside a large train window, railway platform and another train visible outside, natural daylight, slightly cropped face and realistic reflections on the glass.\n\nPanel 8: candid rear view of her walking through the train carriage toward another section, slight motion blur, overhead luggage racks, seats, doors, and realistic train interior details visible.\n\nPanel 9: close-up accidental selfie inside the train vestibule, part of her finger covering the camera lens, playful imperfect framing, realistic train door controls and safety equipment behind her.\n\nThe whole collage should feel like real personal smartphone memories from a train attendant's workday, not professional photography. Use inconsistent framing, slight motion blur, accidental cropping, mild lens distortion, subtle exposure variations, realistic carriage lighting, soft focus, natural skin texture, authentic facial expressions, and small photographic imperfections.\n\nNo polished studio look, no artificial beauty filter, no plastic skin, no CGI appearance. Raw everyday smartphone photography, authentic behind-the-scenes train-attendant photo diary, realistic modern passenger train interior, spontaneous candid moments, consistent character across all 9 panels, thin white dividers between panels, clean 3×3 grid, vertical 3:4 aspect ratio."
+  },
+  {
+    "id": "2100070991254921457",
+    "title": "Image 2 vs 2.5 Flare：同尺寸成本速度 A/B",
+    "blurb": "同 prompt 同尺寸：Image 2 约 32 秒 / $0.035，2.5 Flare 约 10 秒 / $0.009。谈迭代节奏和账单时，这组数字比口号硬。",
+    "author": "111tad1",
+    "url": "https://x.com/111tad1/status/2100070991254921457",
+    "category": "选型评测"
+  },
+  {
+    "id": "2100067049288634730",
+    "title": "建筑照片→半调旅行海报：上下分区模板",
+    "blurb": "上半保留实拍结构，下半撕纸碎片 + ASCII + 影印半调重建同一建筑。地产 / 文旅批量出片，分区格式写死可复用。",
+    "author": "Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2100067049288634730",
+    "category": "海报排版",
+    "prompt": "Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.\n\nFORMAT\n\n3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line.\n\nDo not stretch, warp, tilt, or unnaturally reposition the structure to force the proportions.\n\nTOP HALF — THE REAL SHOT\n\nPreserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood.\n\nKeep recognizable features such as:\n\n* façade\n* windows and arches\n* towers or domes\n* doors and structural details\n* roofline\n* surrounding landscape or street elements\n\nAdd only a subtle high-end color grade and the faintest film grain. Do not redesign or reinterpret the architecture.\n\nBOTTOM HALF — THE PRINTED RECONSTRUCTION\n\nRebuild the same structure as an experimental printed architectural collage using:\n\ntorn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework.\n\nThe structure must remain immediately recognizable.\n\n* Torn-edge photographic fragments preserve the most important architectural details.\n* Brick, stone, glass, metal, shadows, windows, and surrounding textures gradually dissolve outward into ASCII characters, black halftone dots, fragmented print grain, and fine architectural drafting lines.\n* Use thin technical construction lines to subtly trace the structure’s geometry.\n* Let selected areas break apart into paper fibers and halftone fragments, creating the feeling that the building is emerging from an archival print.\n* Keep the main silhouette strong and readable.\n* Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar.\n* Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent.\n* Never fully desaturate the structure.\n\nThe structure should occupy roughly 60–88% of the frame width, scaled according to what reads best for the architecture.\n\nLeave 22–38% of the paper visibly untouched and empty, creating generous negative space so the poster feels like an archival architectural specimen rather than a packed digital screen.\n\nTYPOGRAPHY\n\nAdd one clean, readable fixed-width architectural title based on the structure:\n\n[STRUCTURE NAME]\n\nBelow it include:\n\n[CITY, COUNTRY]\nREC. STUDY 01\n\nAdd one short observational caption related to the architecture, such as:\n\n“A monumental study in geometry, time, and place.”\n\nTypography should feel like an old architectural archive mixed with an underground experimental design journal.\n\nA few loose ASCII glyphs may trace the outer silhouette or architectural edges as texture only — never use ASCII to invent windows, doors, structural details, or technical specifications.\n\nMOOD\n\nEarly digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial.\n\nThe structure should feel like it is surfacing from an old printed document — half photograph, half architectural drawing, half experimental print.\n\nSophisticated, minimal, tactile, intellectual, slightly mysterious, and highly collectible.\n\nAVOID\n\nSolid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive ASCII, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random symbols with no meaning, garbled text, excessive colors, brand logos, QR codes, watermarks, author credits, or tourist-poster clichés.\n\nPriority: Preserve the structure’s identity and architectural accuracy first. The experimental halftone/ASCII treatment should enhance the architecture, not hide it."
+  },
+  {
+    "id": "2100066521846612402",
+    "title": "午夜 diner：Image 2.5 定角 → Seedance 下厨",
+    "blurb": "Image 2.5 出角色，Seedance 2.5 跑厨房戏；prompt 与 turnaround 挂在账号。静帧定人设再喂视频的标准营销片流水线。",
+    "author": "atlas_cloud_ai",
+    "url": "https://x.com/atlas_cloud_ai/status/2100066521846612402",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2100057090332995927",
+    "title": "自拍→glossy 设计师玩具头像",
+    "blurb": "上传参考图变 premium 3D vinyl designer toy 浮空头像，大墨镜 + 棚拍高光。UGC / 周边营销一键出片。",
+    "author": "meAsifAi",
+    "url": "https://x.com/meAsifAi/status/2100057090332995927",
+    "category": "电商改图",
+    "prompt": "@Create image Create a premium glossy 3D \"designer toy\" render of the subject(s) using the uploaded image as the only reference. Render one floating head per person (no duplication), cropped cleanly below the jaw with a visible neck and full head comfortably framed. Style: high-quality vinyl figure with ultra-smooth, simplified forms, rounded volumes, and strong glossy reflections across key facial areas. Hair should be sculpted, glossy, and stylized, with embedded playful accessories. Include oversized retro wraparound sunglasses with vibrant, matching frame/lens colors. Use strong studio lighting with pronounced highlights. Background: blue sky with soft clouds."
+  },
+  {
+    "id": "2100051568154538130",
+    "title": "DRAM 纳米城：电子显微镜视角结构化中文",
+    "blurb": "两套可抄中文槽位：东方女性 × 纳米真人 × DRAM / 3D NAND 存储城市 × 电子显微镜抓拍。科技产品视觉还能俏皮。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2100051568154538130",
+    "category": "场景视觉",
+    "prompt": "图1\n真实东方女性 × 纳米级真人 × 穿梭在巨大存储单元之间 × DRAM存储城市 × 纳米摩天大楼 × 密集晶体管阵列 × 电子显微镜视角抓拍 × 微观黑色背景\n\n图2\n真实东方女性 × 纳米级真人 × 穿梭在巨大存储结构之间 × 可爱俏皮表情 × 双手扶着巨大存储结构探头张望 × 3D NAND存储城市 × 纳米摩天大楼 × 无限堆叠存储单元 × 电子显微镜视角抓拍 × 微观黑色背景"
+  },
+  {
+    "id": "2100048689989288414",
+    "title": "粉红海 POV→30 秒无剪辑广告管线",
+    "blurb": "Flare 出首帧（全海面必须玫红）+ Seedance 2.5 锁 ref 连拍到酒吧落桌。DIRECTIVE + 30s timeline 在首评，场景广告流水线可抄。",
+    "author": "wuzhu_",
+    "url": "https://x.com/wuzhu_/status/2100048689989288414",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2100044254987043250",
+    "title": "Flare vs Sunburst：16 宫格只改一格不串改",
+    "blurb": "同一份情侣生活照 + 同一条二次编辑 prompt，ZenMux PK 看谁改到位又不顺手重做另外 15 格。局部改选型别再听口嗨——并排露馅最管用。",
+    "author": "msjiaozhu",
+    "url": "https://x.com/msjiaozhu/status/2100044254987043250",
+    "category": "选型评测"
+  },
+  {
     "id": "2100026883643670876",
     "title": "字体也能锁：缩略图字体参考表",
     "blurb": "不只锁脸——缩略图用的字体也能出 reference sheet。做系列封面/世界观时，少开一遍设计软件抠字。",
