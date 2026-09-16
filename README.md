@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 404 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 416 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,10 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **GPT Image 2.5 使用手册：模型·参数·提示词** — 苏乐长文把型号、参数与提示词一次摊开。接客户或写自家 playbook 当速查表，比刷碎片帖靠谱。 [@ai_suxiaole](https://x.com/ai_suxiaole) · [原帖](https://x.com/ai_suxiaole/status/2100131000055390470) · [prompt](https://x.com/i/article/2100107397507477504)
+
+- **Image2 vs Sunburst：光与发丝并排打脸** — KAWARIMI 同场景：1 张 Image 2、2 张 Sunburst。光更满、头发会「晃」，也更夸张——角色一致性选型别只看干净。 [@eightbeat8b](https://x.com/eightbeat8b) · [原帖](https://x.com/eightbeat8b/status/2100110852984823931)
 
 - **Flare / Sunburst API 实务清单：快产 vs 精修** — Flare 日常量产、Sunburst 局部改 / 多参考 / mask；xhigh·max、会话续改一次理清。一人团队接自动化管线先抄这张分工表。 [@AIlife2024ka](https://x.com/AIlife2024ka) · [原帖](https://x.com/AIlife2024ka/status/2100083815339425917)
 
@@ -2693,6 +2697,87 @@ Aspect ratio: 3:4 portrait.
 
   </details>
 
+- **超写实手机自拍：餐厅镜面 3:4 配方** — 自然波浪发 + 针织开衫 + 奶牛壳手机，竖版室内镜面自拍写死瑕疵与手部。素人 UGC / 身份锁起点。 [@Aqsahere_](https://x.com/Aqsahere_) · [原帖](https://x.com/Aqsahere_/status/2100150776488460476)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+ULTRA-REALISTIC NATURAL SMARTPHONE SELFIE, vertical 3:4, a candid indoor mirror-style selfie of a young East Asian woman in a cozy upscale restaurant or hotel lounge.
+She has long, naturally wavy dark-brown hair falling over her shoulders and chest, soft wispy strands around her face, delicate youthful features, clear natural skin, subtle makeup, and a gentle closed-mouth smile while looking at her phone screen.
+She is wearing a light powder-blue ribbed fitted button-front top underneath a chunky cream-white cable-knit cardigan with large buttons and slightly oversized sleeves. A soft light-blue vintage-style baseball cap sits naturally on her head, with her hair flowing out from underneath it.
+She is holding a modern smartphone in front of her face at a natural selfie angle. The phone has a cute pink-and-brown cow-print protective case, clearly visible in the foreground. Her hand and fingers naturally grip the phone, with realistic skin texture and proportions.
+The background is a dimly lit elegant interior with dark walls, warm ambient lights, polished stone or wood surfaces, subtle decorative elements, and softly blurred people or furniture in the distance. Warm indoor lighting illuminates her face and cream cardigan while the background remains darker and atmospheric.
+Authentic personal smartphone selfie, slightly imperfect framing, natural lens distortion, realistic exposure, subtle softness, genuine skin pores, individual hair strands, realistic knit texture, natural hands and fingers, no excessive retouching, no beauty filter, no plastic skin, no CGI appearance, cozy lifestyle photography, warm realistic lighting, shallow natural depth of field, vertical 3:4 composition.
+```
+
+  </details>
+
+- **严重过曝 iPhone JK 自拍：短公式可抄** — 高光溢出 × 局部剪裁 × 五官细节消失 × 原相机自拍 × JK。UGC / 美妆「假拍真感」一条公式够用。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100148633966719009)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+严重曝光过度 × 高光大面积溢出 × 局部高光完全剪裁 × 五官细节局部消失 × iPhone原相机自拍 × jk制服女友
+```
+
+  </details>
+
+- **素人翻车写真 3×3：一句失败美学** — 一句日文 prompt 出九宫格翻车写真：`素人の失敗写真の数々、3x3、9:16`。不完美真实感素材库很省事。 [@MingTian685474](https://x.com/MingTian685474) · [原帖](https://x.com/MingTian685474/status/2100138165164245153)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+素人の失敗写真の数々、3x3、9:16
+```
+
+  </details>
+
+- **高光 CCD：镜面雕塑广场都市生活照** — 青柚 Polo + 奶油短裙，日间清亮 CCD 写死光线滤镜；镜面雕塑只当几何背景。UGC / 生活方式素材库可改场景。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100123514745536819)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市艺术时尚生活照
+场景方向：现代公共艺术广场 / 大型不锈钢镜面雕塑 / 浅灰地面 / 极简开放空间
+服装方向：青柚绿色修身Polo短上衣 + 奶油白低腰修身短裙
+气质标签：清冷、俏皮、时尚、明亮、有设计感
+五官方向：高级元气淡颜
+身形方向：轻盈纤细
+线条强调：强
+镜头方向：半身到大腿
+姿态动作：站在镜面雕塑边，一只手轻触金属表面，身体轻微侧身看向镜面中的自己
+光线氛围：晴天明亮自然光 + 镜面金属形成清晰中性反射补光
+滤镜效果：高亮清晰绿白CCD色彩 + 清楚高光 + 稳定黑位 + 轻颗粒 + 极轻锐度
+画幅比例：9:16
+补充要求：镜面雕塑只能作为几何背景，不出现复杂畸变人像；人物胸腰轮廓清楚，整体要像城市随手拍而不是艺术棚拍
+```
+
+  </details>
+
+- **首尔咖啡馆身份锁 UGC：Image 2.5→视频** — 上传参考锁脸发装，DV 手持咖啡馆下午茶短片；完整分镜式 prompt 可抄。一人队「生活感种草」模板。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100109930921419055)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a 30-second ultra-realistic personal home-video of a young Korean woman visiting a small indie café in an older Seoul neighborhood on a quiet afternoon. Use the attached image as the character reference and keep her face, hairstyle, and outfit consistent throughout.
+She walks into a cozy, small café, orders at the counter, and waits briefly before receiving her coffee. She finds a seat by the window, pulls out a book from her tote bag, and settles in, sipping her coffee occasionally while reading. She pauses to look out the window for a moment, watching the street outside, then goes back to her book, turning a page and adjusting her position in the chair.
+Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts from window light, soft detail, mild noise, natural motion blur and occasional awkward zooms.
+Natural café ambience only — quiet murmur of other customers, cups clinking, page turns, faint street sounds through the window. No music, no narration, no dramatic events, no polished commercial cinematography.
+```
+
+  </details>
+
+- **当代肖像身份锁：杂志感四联保脸** — 上传参考图，保脸保发 + 极简棚拍杂志光。个人品牌 / 头像迭代直接返图，完整 portrait prompt。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2100102907639247145)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a contemporary portrait of the person in the attached reference image, preserving their facial identity, features, skin tone, hairstyle, proportions, and overall likeness accurately. Modern editorial photography aesthetic, confident natural expression, stylish minimalist outfit, clean sophisticated background, soft directional studio lighting, realistic skin texture, subtle shadows, refined neutral tones, shallow depth of field, crisp facial details, premium fashion-magazine feel, balanced composition, professional full-frame camera photography, 85mm portrait lens, photorealistic, cinematic, elegant, natural, high-end, ultra-detailed.
+```
+
+  </details>
+
 - **上传人脸锁身份：九宫格贴纸叙事** — 同一张脸贯穿九格表情贴纸，面部结构全板一致。UGC / 人设表情包：先锁身份再批姿态。 [@aniyaintel](https://x.com/aniyaintel) · [原帖](https://x.com/aniyaintel/status/2100091272895791296)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -4694,6 +4779,109 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
   </details>
 
+- **奇幻片 BTS：Sunburst×Seedance 幕后戏** — Higgsfield 上 GPT-6 + Seedance 1080p + Image-2.5 Sunburst；贴完整 BTS 分镜 prompt。多模型广告流水线参考。 [@maxescu](https://x.com/maxescu) · [原帖](https://x.com/maxescu/status/2100153168256499784)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Fast, funny BTS: the fantasy cast breaks character among crews, practical sets and costume technicians.
+
+[Cast references: identity and costume only]
+[IMAGE REFERNCE 1] defines Alex: bareheaded gold Field Marshal, eagle right shoulder, ivory left drape, huge broad rigid blue-gold claymore.
+[IMAGE REFERNCE 2] defines Garran: bald black-bearded human, gunmetal/navy armor, blue shield.
+[IMAGE REFERNCE 3] defines Bix: short white-bearded gnome, goggles, cobalt robes, wooden crystal staff.
+[IMAGE REFERNCE 4] defines Lyra: silver-haired lavender night elf, plum leather.
+[IMAGE REFERNCE 5] defines Karg: green orc, black braids, iron/burgundy armor.
+[IMAGE REFERNCE 6] defines Aldra: blonde human, silver/cobalt paladin plate and shield.
+[IMAGE REFERNCE 7] defines Torga: brown-furred horned tauren, ochre/teal costume.
+[IMAGE REFERNCE 8] defines Rattlegore: towering skeleton, shown here as a full-scale articulated puppet with operators.
+Everyone is a friendly off-duty performer in the same makeup and costume. Adult crew wear plain modern work clothes and headsets. Each hard cut is a different candid moment. Bix retains his staff and free palm. Alex's claymore stays straight, supported in a rack or held low with both hands.
+
+[Stage 1 - 0-3s]
+Dungeon soundstage, medium two-shot. A blank striped slate claps beside a cinema camera; Alex and Garran's fierce poses collapse into laughter. The visible headset director says in English {Reset--same epic faces!} <Slate armor creaks, laughter. snap,>
+Hard cut.
+[Stage 2 - 3-6s]
+Dungeon, medium Bix beside Lyra. Bix raises his free palm while gripping his staff; a crew-triggered practical light flashes before his cue. Bix shrugs. Lyra deadpans in English {That was... not my mark.} <Light chuckles. click, relay>
+Hard cut.
+[Stage 3 - 6-9s]
+Dungeon, close two-shot. Lyra carefully touches Garran's beard with a tiny makeup brush. Garran crosses his eyes at her; Lyra breaks into laughter and lowers the brush. A makeup trolley fills the soft background.
+Hard cut.
+[Stage 4 - 9-12s]
+Dungeon, wider low side view. Rattlegore's enormous puppet arm moves with a ridiculous hinge squeak. Two visible operators work its rods beneath scaffolding. Alex points at their exposed mechanism and grins. <Joint crew laughter. squeak,>
+Hard cut.
+[Stage 5 - 12-15s]
+Sunlit Hillsbrad film location, close Karg with wind fan visible beside camera crew. His big roar is interrupted when his braids blow across his mouth. He cough-laughs; Garran gives a mock-serious director's nod nearby. <Fan interrupted laughter. roar, rush,>
+Hard cut.
+[Stage 6 - 15-18s]
+Field set, medium Aldra. A wardrobe technician briskly refastens her armor clasp while she holds a regal pose. Aldra relaxes into a grin and gives the technician a thumbs-up.
+Hard cut.
+[Stage 7 - 18-21s]
+Field costume station, close Torga. A technician adjusts the seam of his bulky creature costume. Torga maintains a ferocious stare, then playfully raises his eyebrows at the BTS camera. <Fabric giggles. rustle, suppressed>
+Hard cut.
+[Stage 8 - 21-24s]
+Compact Nagrand set, wide with a dolly camera. Two crew easily lift a hollow stone-look pillar from its base. Bix gently taps the lightweight scenery with his staff while they hold it securely; he laughs at the illusion. <Hollow laughter. tap,>
+Hard cut.
+[Stage 9 - 24-27s]
+Arena, close Alex beside a reflector operator. Reflected sunlight briefly flashes across his face; he turns aside, then grins. English, Alex: {That's the sun's crit.} <Reflector crew laughter. rustle,>
+Hard cut.
+[Stage 10 - 27-30s]
+Later common studio apron, lively wide wrap. Alex, Garran, Bix, Lyra, Karg, Aldra and Torga wave with the crew; Rattlegore waves through its visible puppet rig. Alex holds his claymore low in both hands.
+
+Vivid photoreal costumes, fine 35mm grain. Varied candid handheld framing, fixed focal length, no zoom. Full-bleed, unlettered gear; overlay text zero.
+```
+
+  </details>
+
+- **任意角色→12 格变身分镜：完整 prompt** — 3×4 变身 storyboard：从原装到终态逐步揭示，禁套娃恶魔翅膀。短剧 / 广告分镜模板，线程附视频接法。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2100135954032087346)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a 12-panel transformation storyboard for the character in the uploaded reference image, arranged in a clean 3-column × 4-row grid, read left to right and top to bottom.
+
+CHARACTER AND CONCEPT
+First, visually analyze the character’s identity, outfit, signature accessories, color palette, personality, and apparent world or profession. Use these details to invent a distinctive transformation theme that feels like a natural evolution of this specific character.
+
+Choose a coherent power source, visual effects, transformation mechanism, and final evolved form. Derive these from the character rather than defaulting to generic demon wings, horns, purple lightning, or an unrelated costume.
+
+The final form must show a substantial, deliberate change in silhouette, costume structure, materials, and signature accessories—not merely the original outfit with a glowing aura. Preserve enough recognizable motifs that the result unmistakably feels like the same character.
+
+IDENTITY CONSISTENCY
+Keep the same face, apparent age, body proportions, skin tone, and defining features throughout all 12 panels. Preserve the character’s signature hair color and recognizable hairstyle, allowing natural movement and subtle styling changes. Maintain the reference image’s illustration style.
+
+Begin with the original outfit faithfully reproduced. Design one coherent final outfit and reveal it progressively. Once a transformed element appears, keep its design consistent in all subsequent panels.
+
+12-PANEL SEQUENCE
+Panel 1 — Original state: Clearly establish the reference character in their original outfit, with a readable full-body silhouette in an appropriate setting.
+Panel 2 — Trigger: A signature accessory, gesture, or environmental element activates the character’s latent power.
+Panel 3 — Response: The character notices the change and makes a purposeful movement. Small thematic effects begin to gather.
+Panel 4 — Gathering power: The transformation energy establishes a clear direction and motion around the character.
+Panel 5 — First visible change: One important costume element or accessory evolves, clearly showing the transformation mechanism.
+Panel 6 — Progression: The transformation travels across the body, forming new clothing, armor, ornamentation, or other theme-appropriate details.
+Panel 7 — Defining detail: Show a closer view of a major identity-linked upgrade, such as headwear, shoulder pieces, a weapon, or a magical accessory.
+Panel 8 — Silhouette expansion: Reveal the largest structural change, such as a flowing mantle, elongated coat, layered armor, or another character-specific feature.
+Panel 9 — Climax: Show the peak of the transformation with a powerful pose and dramatic thematic effects. Keep the character readable.
+Panel 10 — Full reveal: Effects clear to reveal the complete evolved form in a clean full-body view.
+Panel 11 — Personality moment: The character makes a small expressive gesture that conveys their personality and newfound confidence.
+Panel 12 — Final hero image: Finish with a striking full-body pose that clearly displays the completed design, with restrained residual effects and a resolved background.
+
+VISUAL DIRECTION
+Build a clear emotional progression from anticipation to awakening to mastery, adapted to the character’s personality. The character actively participates in the transformation rather than simply standing still.
+
+Use a cohesive environment and lighting progression across the sequence. Vary framing between full-body, three-quarter, and selective detail shots while maintaining spatial continuity. Prioritize full-body views for the original state, major silhouette changes, and final reveal.
+
+Make every panel advance the transformation. Show intermediate stages with clear visual cause and effect; do not jump abruptly from the original outfit to the final costume.
+
+Use elegant, theme-specific transitions such as flowing material, particles assembling into solid forms, unfolding structures, or energy passing over and revealing new costume elements. Keep anatomy stable and clothing coherent. No nudity or erotic framing.
+
+OUTPUT
+One polished, high-resolution storyboard image containing exactly 12 distinct panels with thin, consistent borders. Balance character detail with visual clarity. No captions, labels, speech bubbles, logos, or watermarks.
+
+Do not reproduce the uploaded reference sheet’s layout or duplicate its multiple views. Use the uploaded image to identify one character, then depict that same character across a new, continuous transformation sequence.
+```
+
+  </details>
+
 - **Image→色板→动效→剪辑：变体先于视频** — Image 2.5 先出视觉变体，Seedance 转旋转序列，CapCut 收成片。别再 Prompt→Video 一把梭——先锁画面再喂动效。 [@tylerrwayne](https://x.com/tylerrwayne) · [原帖](https://x.com/tylerrwayne/status/2100099092135440769)
 
 - **Acidic 门缝静物：青光长曝光黑空间** — 黑建筑虚空里一扇半开白门泼冷青光，asset type / 长曝光 / 禁止项写死。品牌 mood / 产品概念静物整段复用。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2100075950360945150)
@@ -5490,6 +5678,8 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 像素、精灵表与动效向玩法。
 
+- **16 格舞姿分镜→Wan 3.0 连续动画** — 先用 Image 2.5 铺 16-panel 动作表，再 Wan 3.0 整段成片。分镜当运动规划，比瞎生成省后悔。 [@SeeGen_Official](https://x.com/SeeGen_Official) · [原帖](https://x.com/SeeGen_Official/status/2100102904011190648)
+
 - **Sunburst 粘土 skill：24 帧场景不崩脸** — ChatGPT skill 硬刚「同一粘土场景跨 24 帧一致」，横竖画幅都能出短片。一人团队短内容管线可抄思路（作者考虑开源）。 [@bahaa_alghazawy](https://x.com/bahaa_alghazawy) · [原帖](https://x.com/bahaa_alghazawy/status/2100073038603780182)
 
 - **单图→4×4 舞蹈参考表→MiniMax 成片** — 上传角色一图，Image 2.5 出 16 格连续舞姿 sheet，再丢 MiniMax H3 接成流畅舞蹈视频。像素/二次元短动效流水线可直接抄图 prompt。 [@Scenario_gg](https://x.com/Scenario_gg) · [原帖](https://x.com/Scenario_gg/status/2099797670516695385)
@@ -5867,6 +6057,8 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **Images 2.5 当选色轮毂：Astra 产品变体站** — 无 3D：coding agent + LTX 转场，用 Image 2.5 定车色与轮毂。一人队做产品变体页可偷师。 [@Sourav1533032](https://x.com/Sourav1533032) · [原帖](https://x.com/Sourav1533032/status/2100117185930924248)
 
 - **Codex×DaVinci MCP：实拍帧局部改不劣化** — 平静实拍丢 DaVinci Resolve + Codex（Image 2.5）：消杯子、换椅子，比重生视频少糊。剪辑后期局部修的正经备胎。 [@IntLab0000](https://x.com/IntLab0000) · [原帖](https://x.com/IntLab0000/status/2099867092568977674)
 
