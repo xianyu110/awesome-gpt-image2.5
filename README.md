@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 416 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 424 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,16 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Sunburst vs Image2：科技品牌捏成昆虫 2×2** — 结构化 2×2 指令把品牌符号重构成昆虫形态学。选型素材 + 可改模板，比空喊「2.5 更强」管用。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100211349414441426)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+2x2 grid, 1080x1080: <instructions> Input = Tech companies Identify 4 iconic tech brands and their signature elements/patterns. Function Draw ($ Tech_Brand, $ Insect_Species) ... Anchor: [$Insect_Species] :: [$Tech_Brand]::4 | Morphology: Biological anatomy of [$Insect_Species] reconstructed via the assemblage of [$Tech_Brand] textiles, exoskeleton formed from constituent haute couture garments... </instructions>
+```
+
+  </details>
 
 - **GPT Image 2.5 使用手册：模型·参数·提示词** — 苏乐长文把型号、参数与提示词一次摊开。接客户或写自家 playbook 当速查表，比刷碎片帖靠谱。 [@ai_suxiaole](https://x.com/ai_suxiaole) · [原帖](https://x.com/ai_suxiaole/status/2100131000055390470) · [prompt](https://x.com/i/article/2100107397507477504)
 
@@ -680,6 +690,8 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **圆珠笔草图硬刚成片：Image2 vs Flare/Sunburst** — 只丢一张潦草构图（手写 5 ARCHES / KEEP HIM SMALL），同题一跑：2 High + 2.5 Max 4K。符号写进 prompt 的 Sketch→成片对照，n=1 但选型有感觉。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2100205158911361300)
+
 - **草图一笔→右侧成图：Sketch 控形对照** — 左侧手绘线稿，右侧 GPT-Image 2.5 直接出片。创意人最爱的控形门槛——敢画就能玩花，Sketch 工作流入门对照。 [@krienknight](https://x.com/krienknight) · [原帖](https://x.com/krienknight/status/2100164110914932747)
 
 - **手指框+箭头：Sketch 秒出 X 信息图** — 不会画画也行——框和箭头随手一画，Images 2.5 Sketch 压成专业向 X 信息图；「留什么/改什么」写进 prompt，排版控形这派必看。 [@orino009](https://x.com/orino009) · [原帖](https://x.com/orino009/status/2099800404045271203)
@@ -800,6 +812,79 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **《白鹿王庭》黑暗奇幻商业大片海报** — 2:3 Key Visual：银发女王 + 白鹿灵体 + 主演条/片名/文案层一次写齐。国风奇幻商业海报可抄结构。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100204772578251107)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+2:3竖版黑暗奇幻商业大片海报，电影标题《白鹿王庭 / THE COURT OF THE WHITE STAG》。原创成年动漫女王角色由真人电影演员式cosplay呈现，保留梦幻银发、锐利眼型和高辨识度轮廓，同时具有真实皮肤、精致冷调妆容与可触摸的服装材质。她头戴残缺银冠，身穿黑银刺绣长袍和深蓝羽毛披肩，端坐在被藤蔓侵蚀的古老王座上；背后浮现一头巨大白鹿的半透明灵体，鹿角延伸成枯树林与宫殿尖塔，阶梯下散落破碎旗帜。人物身体正对画面，脸略微偏向侧方，一只手扶王座，一只手握银色权杖，神态庄严疏离。月光从高处穿透穹顶，冷银轮廓光与少量烛火形成克制冷暖对比，黑色天鹅绒、金属、羽毛与石材均为电影级PBR质感，加入轻微胶片颗粒。顶部显示主演：“TOP CAST · EIRA QIN · LUNA SHAO · REI AKITO”；底部片名“THE COURT OF THE WHITE STAG”，宣传语“王冠选择的从来不是继承者，而是祭品”。下方只保留通用制片信息，不加入导演署名或手写签名。官方Key Visual，恢宏但不杂乱。
+```
+
+  </details>
+
+- **中秋「人间团圆夜」竖版海报：完整提示词** — 3:4 深红夜空 + 暖金满月 + 归家剪影，主副标题层级写死。节日营销海报直接改字就能发。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100204144149819616)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+设计中秋节夜空海报，竖版 3:4。深红到暗红的渐变背景，暖金满月与细小星光构成简洁夜景；下方是城市屋顶与归家行人的柔和剪影。中央主标题“人间团圆夜”，底部小字“愿每一次抬头，都有月光相伴”。光影温柔，文字层级明确。只渲染指定中文，不添加其他文字、Logo、水印或乱码。
+```
+
+  </details>
+
+- **上半原图 + 下半手绘：作品集切分海报** — 3:4 严格 50/50：上半保风格身份，下半极简手绘重释 + 大余白。角色图一键变「画册封面」感。 [@tokotoko_aiil](https://x.com/tokotoko_aiil) · [原帖](https://x.com/tokotoko_aiil/status/2100185428188168203)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded reference image.
+
+Create one independent high-end editorial poster per image. Do not make a collage.
+
+FORMAT
+- Strict 3:4 vertical
+- Exact 50/50 horizontal split
+- Top half: original illustration
+- Bottom half: minimalist hand-drawn reinterpretation
+
+TOP HALF
+Preserve the original image as faithfully as possible:
+character identity, face, hair, eyes, expression, proportions, pose, outfit, accessories, objects, composition, art style, linework, coloring, lighting, atmosphere, and color mood.
+
+Do not redesign the character, change the outfit or pose, make it photorealistic, convert it to 3D, or change the art style.
+
+Apply only subtle editorial color grading.
+If needed, extend only the background naturally. Do not distort the main subject.
+
+BOTTOM HALF
+Reinterpret the most recognizable elements as a small minimalist handmade illustration.
+
+Use:
+- delicate imperfect hand-drawn lines
+- flat acrylic-style color shapes
+- subtle brush marks
+- rough off-white paper texture
+- organic edges
+- strong simplification
+
+Keep only the essential silhouette, distinctive features, key pose, and important objects.
+
+The illustrated subject should occupy only about 10–20% of the bottom half and be surrounded by generous negative space.
+
+COLOR
+Use no more than 4 main colors extracted from the original image.
+
+TYPOGRAPHY
+Optional. If used, keep it very small, minimal, and editorial.
+
+MOOD
+Quiet, poetic, refined, minimal, soft, artistic, premium.
+
+Final result: a contemporary art-book cover combining the original digital illustration above with a small handmade reinterpretation below.
+```
+
+  </details>
 
 - **制度叙事东方海报：科举夜巡水利榫卯** — 大色域纸纤维扛结构，微场景讲流程：科举放榜 / 更鼓夜巡 / 水利分流 / 榫卯咬合。博物馆 KV 可填槽模板，比堆古建筑高级一整档。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100159212047544806)
   <details>
@@ -2656,6 +2741,16 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **唐风宫廊读信：9:16 半身近景配方** — 杏粉襦裙 × 青灰披帛 × 薄绢书信，85mm/f1.8 写死光色。国风人像种草/短剧封面直接返工。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100205250825380199)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+9:16 竖版唐风美学国风 CG 人像，超写实与东方诗意融合，半身近景特写。一位明确成年的东亚古典美人立于清晨宫廊，身体为右侧面，头部随身体朝向前方，目光落在手中展开的薄绢书信上。她拥有冷白通透肌肤、细长凤眼和自然柔和的立体五官，眉间略微收紧，胭脂唇轻抿，表情从羞涩转为若有所思，情绪安静而明确。她穿浅杏粉高腰唐风襦裙与冷青灰披帛，鎏金纹样只点缀领缘和袖口，适度低领衬托修长颈线；头饰由轻巧金凤发簪、珍珠串和一枚青玉组成，保留唐风华贵感但更简洁。双手共同展开书信，手指结构自然，袖纱形成柔性引导线。背景虚化为朱红廊柱、青灰晨雾和微亮庭院，金色晨光从侧前方照亮脸颊，冷白天光填充暗部，发丝边缘清晰。85mm，f/1.8，浅景深，低饱和杏粉、金色和青灰体系，真实丝绢材质、轻颗粒与柔光。
+```
+
+  </details>
 
 - **一图四 pose 水彩拼贴：人脸锁完整 prompt** — 上传照片锁脸，白衬衫四姿态水彩拼贴 + 蓝橙渐变泼墨底。个人品牌 / 编辑肖像直接抄，身份锁公式换水彩皮。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2100164037896225226)
   <details>
@@ -6057,6 +6152,10 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **Image 2.5 分层资产 → Astra 视差沉浸站** — 先用 2.5 出场景分层，再 Astra 做滚动视差/遮挡/转场。一人队做「走进画面」落地页的现成链路。 [@happycapyai](https://x.com/happycapyai) · [原帖](https://x.com/happycapyai/status/2100194873529991441)
+
+- **一人团队 Agentic YouTube：Image 2.5 管视觉** — DaVinci/Remotion/Blender 管剪辑与动效，GPT Image 2.5 出视觉，agent 串调研到发布。超级个体制片栈。 [@SimonHoiberg](https://x.com/SimonHoiberg) · [原帖](https://x.com/SimonHoiberg/status/2100193439329452091)
 
 - **Images 2.5 当选色轮毂：Astra 产品变体站** — 无 3D：coding agent + LTX 转场，用 Image 2.5 定车色与轮毂。一人队做产品变体页可偷师。 [@Sourav1533032](https://x.com/Sourav1533032) · [原帖](https://x.com/Sourav1533032/status/2100117185930924248)
 

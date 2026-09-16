@@ -1,5 +1,74 @@
 [
   {
+    "id": "2100211349414441426",
+    "title": "Sunburst vs Image2：科技品牌捏成昆虫 2×2",
+    "blurb": "结构化 2×2 指令把品牌符号重构成昆虫形态学。选型素材 + 可改模板，比空喊「2.5 更强」管用。",
+    "author": "Gdgtify",
+    "url": "https://x.com/Gdgtify/status/2100211349414441426",
+    "category": "选型评测",
+    "prompt": "2x2 grid, 1080x1080: <instructions> Input = Tech companies Identify 4 iconic tech brands and their signature elements/patterns. Function Draw ($ Tech_Brand, $ Insect_Species) ... Anchor: [$Insect_Species] :: [$Tech_Brand]::4 | Morphology: Biological anatomy of [$Insect_Species] reconstructed via the assemblage of [$Tech_Brand] textiles, exoskeleton formed from constituent haute couture garments... </instructions>"
+  },
+  {
+    "id": "2100205250825380199",
+    "title": "唐风宫廊读信：9:16 半身近景配方",
+    "blurb": "杏粉襦裙 × 青灰披帛 × 薄绢书信，85mm/f1.8 写死光色。国风人像种草/短剧封面直接返工。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2100205250825380199",
+    "category": "人像角色",
+    "prompt": "9:16 竖版唐风美学国风 CG 人像，超写实与东方诗意融合，半身近景特写。一位明确成年的东亚古典美人立于清晨宫廊，身体为右侧面，头部随身体朝向前方，目光落在手中展开的薄绢书信上。她拥有冷白通透肌肤、细长凤眼和自然柔和的立体五官，眉间略微收紧，胭脂唇轻抿，表情从羞涩转为若有所思，情绪安静而明确。她穿浅杏粉高腰唐风襦裙与冷青灰披帛，鎏金纹样只点缀领缘和袖口，适度低领衬托修长颈线；头饰由轻巧金凤发簪、珍珠串和一枚青玉组成，保留唐风华贵感但更简洁。双手共同展开书信，手指结构自然，袖纱形成柔性引导线。背景虚化为朱红廊柱、青灰晨雾和微亮庭院，金色晨光从侧前方照亮脸颊，冷白天光填充暗部，发丝边缘清晰。85mm，f/1.8，浅景深，低饱和杏粉、金色和青灰体系，真实丝绢材质、轻颗粒与柔光。"
+  },
+  {
+    "id": "2100205158911361300",
+    "title": "圆珠笔草图硬刚成片：Image2 vs Flare/Sunburst",
+    "blurb": "只丢一张潦草构图（手写 5 ARCHES / KEEP HIM SMALL），同题一跑：2 High + 2.5 Max 4K。符号写进 prompt 的 Sketch→成片对照，n=1 但选型有感觉。",
+    "author": "FlyAIgh",
+    "url": "https://x.com/FlyAIgh/status/2100205158911361300",
+    "category": "Sketch"
+  },
+  {
+    "id": "2100204772578251107",
+    "title": "《白鹿王庭》黑暗奇幻商业大片海报",
+    "blurb": "2:3 Key Visual：银发女王 + 白鹿灵体 + 主演条/片名/文案层一次写齐。国风奇幻商业海报可抄结构。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2100204772578251107",
+    "category": "海报排版",
+    "prompt": "2:3竖版黑暗奇幻商业大片海报，电影标题《白鹿王庭 / THE COURT OF THE WHITE STAG》。原创成年动漫女王角色由真人电影演员式cosplay呈现，保留梦幻银发、锐利眼型和高辨识度轮廓，同时具有真实皮肤、精致冷调妆容与可触摸的服装材质。她头戴残缺银冠，身穿黑银刺绣长袍和深蓝羽毛披肩，端坐在被藤蔓侵蚀的古老王座上；背后浮现一头巨大白鹿的半透明灵体，鹿角延伸成枯树林与宫殿尖塔，阶梯下散落破碎旗帜。人物身体正对画面，脸略微偏向侧方，一只手扶王座，一只手握银色权杖，神态庄严疏离。月光从高处穿透穹顶，冷银轮廓光与少量烛火形成克制冷暖对比，黑色天鹅绒、金属、羽毛与石材均为电影级PBR质感，加入轻微胶片颗粒。顶部显示主演：“TOP CAST · EIRA QIN · LUNA SHAO · REI AKITO”；底部片名“THE COURT OF THE WHITE STAG”，宣传语“王冠选择的从来不是继承者，而是祭品”。下方只保留通用制片信息，不加入导演署名或手写签名。官方Key Visual，恢宏但不杂乱。"
+  },
+  {
+    "id": "2100204144149819616",
+    "title": "中秋「人间团圆夜」竖版海报：完整提示词",
+    "blurb": "3:4 深红夜空 + 暖金满月 + 归家剪影，主副标题层级写死。节日营销海报直接改字就能发。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2100204144149819616",
+    "category": "海报排版",
+    "prompt": "设计中秋节夜空海报，竖版 3:4。深红到暗红的渐变背景，暖金满月与细小星光构成简洁夜景；下方是城市屋顶与归家行人的柔和剪影。中央主标题“人间团圆夜”，底部小字“愿每一次抬头，都有月光相伴”。光影温柔，文字层级明确。只渲染指定中文，不添加其他文字、Logo、水印或乱码。"
+  },
+  {
+    "id": "2100194873529991441",
+    "title": "Image 2.5 分层资产 → Astra 视差沉浸站",
+    "blurb": "先用 2.5 出场景分层，再 Astra 做滚动视差/遮挡/转场。一人队做「走进画面」落地页的现成链路。",
+    "author": "happycapyai",
+    "url": "https://x.com/happycapyai/status/2100194873529991441",
+    "category": "UX产品"
+  },
+  {
+    "id": "2100193439329452091",
+    "title": "一人团队 Agentic YouTube：Image 2.5 管视觉",
+    "blurb": "DaVinci/Remotion/Blender 管剪辑与动效，GPT Image 2.5 出视觉，agent 串调研到发布。超级个体制片栈。",
+    "author": "SimonHoiberg",
+    "url": "https://x.com/SimonHoiberg/status/2100193439329452091",
+    "category": "UX产品"
+  },
+  {
+    "id": "2100185428188168203",
+    "title": "上半原图 + 下半手绘：作品集切分海报",
+    "blurb": "3:4 严格 50/50：上半保风格身份，下半极简手绘重释 + 大余白。角色图一键变「画册封面」感。",
+    "author": "tokotoko_aiil",
+    "url": "https://x.com/tokotoko_aiil/status/2100185428188168203",
+    "category": "海报排版",
+    "prompt": "Use the uploaded reference image.\n\nCreate one independent high-end editorial poster per image. Do not make a collage.\n\nFORMAT\n- Strict 3:4 vertical\n- Exact 50/50 horizontal split\n- Top half: original illustration\n- Bottom half: minimalist hand-drawn reinterpretation\n\nTOP HALF\nPreserve the original image as faithfully as possible:\ncharacter identity, face, hair, eyes, expression, proportions, pose, outfit, accessories, objects, composition, art style, linework, coloring, lighting, atmosphere, and color mood.\n\nDo not redesign the character, change the outfit or pose, make it photorealistic, convert it to 3D, or change the art style.\n\nApply only subtle editorial color grading.\nIf needed, extend only the background naturally. Do not distort the main subject.\n\nBOTTOM HALF\nReinterpret the most recognizable elements as a small minimalist handmade illustration.\n\nUse:\n- delicate imperfect hand-drawn lines\n- flat acrylic-style color shapes\n- subtle brush marks\n- rough off-white paper texture\n- organic edges\n- strong simplification\n\nKeep only the essential silhouette, distinctive features, key pose, and important objects.\n\nThe illustrated subject should occupy only about 10–20% of the bottom half and be surrounded by generous negative space.\n\nCOLOR\nUse no more than 4 main colors extracted from the original image.\n\nTYPOGRAPHY\nOptional. If used, keep it very small, minimal, and editorial.\n\nMOOD\nQuiet, poetic, refined, minimal, soft, artistic, premium.\n\nFinal result: a contemporary art-book cover combining the original digital illustration above with a small handmade reinterpretation below."
+  },
+  {
     "id": "2100164110914932747",
     "title": "草图一笔→右侧成图：Sketch 控形对照",
     "blurb": "左侧手绘线稿，右侧 GPT-Image 2.5 直接出片。创意人最爱的控形门槛——敢画就能玩花，Sketch 工作流入门对照。",
