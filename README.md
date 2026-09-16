@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 399 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 404 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -676,6 +676,8 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **草图一笔→右侧成图：Sketch 控形对照** — 左侧手绘线稿，右侧 GPT-Image 2.5 直接出片。创意人最爱的控形门槛——敢画就能玩花，Sketch 工作流入门对照。 [@krienknight](https://x.com/krienknight) · [原帖](https://x.com/krienknight/status/2100164110914932747)
+
 - **手指框+箭头：Sketch 秒出 X 信息图** — 不会画画也行——框和箭头随手一画，Images 2.5 Sketch 压成专业向 X 信息图；「留什么/改什么」写进 prompt，排版控形这派必看。 [@orino009](https://x.com/orino009) · [原帖](https://x.com/orino009/status/2099800404045271203)
 
 - **别卷画质：锁区编辑+Sketch 心法卡** — 2.5 真正杀器是「背景只改、人脸不动、Logo 别碰」。Sketch / Comment / Template / 多轮编辑串成「作→改→收」，SNS 图别再赌一发成片。 [@AImusicPlan](https://x.com/AImusicPlan) · [原帖](https://x.com/AImusicPlan/status/2099800403231539214)
@@ -794,6 +796,32 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **制度叙事东方海报：科举夜巡水利榫卯** — 大色域纸纤维扛结构，微场景讲流程：科举放榜 / 更鼓夜巡 / 水利分流 / 榫卯咬合。博物馆 KV 可填槽模板，比堆古建筑高级一整档。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100159212047544806)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【主题 / 展览名称】{填写，例如：科举制度 / 城市夜巡 / 古代水利 / 榫卯结构}
+【主标题】{填写}
+【核心制度 / 文化逻辑】{填写，例如：入闱→弥封→放榜 / 暮鼓→夜巡→晨启 / 分水→量水→灌溉}
+【主色域】{填写 3–5 个颜色，例如：旧麦金 + 墨青 + 朱砂 / 深靛蓝 + 灰蓝 + 暖赭}
+【微场景节点】{填写 2–4 个连续场景}
+【展览信息】{日期 / 地点 / 展览类型，可选}
+【画幅比例】9:16 竖版
+
+设计一张具有现代东方编辑美学的历史文化海报，以「纸纤维 + 大色域 + 微场景」作为核心视觉语言。不要把传统文化理解成堆叠古建筑、书法、祥云或器物，而是先提炼【核心制度 / 文化逻辑】，再让大面积手工纸色域直接承担结构、空间、时间、流向、秩序或流程关系，使观众远看首先看到强烈而清晰的大形，近看才逐渐发现隐藏在其中的文化叙事。
+
+使用【主色域】建立 2–5 个面积明显不同的主纸色块，保持低饱和但色彩浓度完整。所有色块具有真实丰富的手工纸、纸浆、水彩或矿物颜料质感，可见天然长短纤维、颜料沉积、轻微压痕、大尺度自然色差与不规则撕纸边缘，整体哑光、干净、完整，不做脏旧、黄斑、随机斑驳、廉价复古或数字渐变。根据主题让色域通过折叠、分叉、穿插、咬合、错层、承托、分段、围合或负空间关系表现制度运行逻辑，而不是简单作为背景装饰。
+
+在大色域结构中嵌入【微场景节点】，人物与道具保持非常小的尺度，总体约占画面 3%–6%。每个场景都要表现一个明确动作，并且彼此存在因果或时间关系，例如“进入→执行→记录→完成”，让微型人物真正承担叙事，而不是站立摆拍。人物服装和器物符合主题时代与身份，但保持克制，不做影视古装大片；场景只保留能说明制度关系的关键道具，不堆满装饰和无关文化符号。
+
+排版使用现代东方文化机构、博物馆或档案展览的编辑语言。主标题【主标题】使用精致宋体、明朝体或具有出版感的中文字体，字号保持中小尺度，不让文字压过大色域；辅助英文、日期、地点和说明信息使用更小字号，形成明确层级。可以加入极少朱砂印记、纸签、档案标签或节点文字，但必须与主题逻辑发生真实关系，不能只是为了“国风感”随机装饰。
+
+整体阅读顺序应为：大色域结构与色彩关系 → 制度或空间逻辑 → 微型人物连续叙事 → 主标题与展览信息。最终画面要做到远看有强烈大形和视觉冲击，近看有纸纤维、人物动作和历史细节，兼具设计感、叙事感与文化完成度。避免书籍封面感、传统古风插画、满屏古建筑、巨大标题、PPT式规则排版、现代信息图箭头、无意义英文占位、元素堆砌、商业广告感、3D CGI、玻璃材质、霓虹色、Logo、水印、编号和星芒装饰。
+```
+
+  </details>
 
 - **日系街头杂志风：东京旅行时尚竖版** — 复古杂志拼贴 + TOKYO 大字报头，红黑图形面板压夜景。旅行时尚 / 城市 campaign 竖版直接抄。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100099718605135962)
   <details>
@@ -2624,6 +2652,46 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **一图四 pose 水彩拼贴：人脸锁完整 prompt** — 上传照片锁脸，白衬衫四姿态水彩拼贴 + 蓝橙渐变泼墨底。个人品牌 / 编辑肖像直接抄，身份锁公式换水彩皮。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2100164037896225226)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded photo as the facial identity reference and create a premium four-pose watercolor portrait collage of the same adult man. Preserve his recognizable facial structure, skin tone, features, and natural proportions accurately.
+
+Give him a neat low-cut haircut with a clean natural hairline and subtle taper fade, professionally groomed. Keep him clean-shaven with no beard or mustache.
+
+Dress him consistently in a crisp white long-sleeve button-up shirt with black trousers. Arrange four portraits in one vertical composition:
+
+Top: large shoulder-up three-quarter portrait, body turned slightly away while looking confidently toward the camera.
+
+Middle left: chest-up portrait with a relaxed smile, looking slightly to the side.
+
+Middle right: chest-up portrait smiling naturally while looking in the opposite direction.
+
+Bottom: seated portrait, leaning slightly forward with one hand resting beneath the chin, wearing a simple silver wristwatch.
+
+Blend the portraits smoothly using a soft watercolor splash background with sky blue at the top transitioning into coral orange, blush pink, and subtle peach tones toward the bottom. Add organic paint splashes, soft feathered edges, delicate pigment textures, and plenty of clean white negative space.
+
+Style: high-end watercolor editorial portrait, realistic facial details combined with hand-painted watercolor textures, elegant celebrity-style collage, clean premium poster design, soft natural lighting, sharp eyes, realistic skin texture, balanced composition, high detail.
+
+Add a small elegant handwritten signature-style text “Abkr Sadiq” near the bottom center.
+
+Aspect ratio: 3:4 portrait.
+```
+
+  </details>
+
+- **雷电将军乱入经典电影：短公式可复用** — 经典名场面 × 第三者雷电将军融入剧情 × 荒诞合理 × 失败照片 × 9:16。二次元闯三次元的短 prompt，玩梗短视频素材一秒开练。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100156601600782528)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+经典电影名场面 × 第三者雷电将军融入剧情 × 荒诞合理感 × 失败照片 × 9:16竖版。
+```
+
+  </details>
 
 - **上传人脸锁身份：九宫格贴纸叙事** — 同一张脸贯穿九格表情贴纸，面部结构全板一致。UGC / 人设表情包：先锁身份再批姿态。 [@aniyaintel](https://x.com/aniyaintel) · [原帖](https://x.com/aniyaintel/status/2100091272895791296)
   <details>
@@ -4528,6 +4596,103 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **旅馆 PR：Image 2.5 九宫分镜→Gemini Omni** — GPT Image 2.5 出 9 格品牌分镜，再喂 Gemini Omni 成片+配乐。温泉旅馆「ほどける時間へ。」整条可抄，静帧定调再出视频的标准管线。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2100162861045817624)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+温泉旅館「KAWANE」のブランドムービー用フォトストーリーボードを、1枚の画像として生成してください。
+
+【広告コンセプト】
+「ほどける時間へ。」
+
+都会で忙しく働く女性が山間の温泉旅館を訪れ、景色、お茶、温泉、食事を通じて、少しずつ心を解放していく物語。観光地の華やかさではなく、静かな時間と丁寧なおもてなしを価値として描く。
+
+【画面構成】
+全体は16:9の横長。
+3列×3行、全9コマの均等なフォトグリッド。
+各コマも横長16:9。
+コマの間には細いアイボリー色の余白を入れる。
+左上から右方向へ「01」〜「09」の小さな白い番号を、各コマ左上に配置する。
+説明文やカット名は表示しない。
+
+すべてのコマを、実際に撮影された高級旅館のTVCMから切り出したようなフォトリアルな映像品質にする。
+
+【主人公】
+30代前半の日本人女性。
+肩に触れる長さの自然な黒髪。
+上品で親しみやすい顔立ち、自然な瞳、控えめなメイク。
+肌の毛穴や柔らかな陰影を残し、過度な美肌加工は行わない。
+到着時は生成りのニット、ダークブラウンのロングスカート、革靴、小さな旅行バッグ。
+館内では同じ女性が落ち着いたベージュ系の浴衣を着用する。
+顔、髪型、体格を全カットで統一する。
+
+【ロケーション】
+山と清流に囲まれた現代的な温泉旅館。
+木、石、和紙、土壁を取り入れた静かな和モダン建築。
+窓の外には色づき始めた山、川、紅葉。
+観光施設らしい派手さを避け、品のある落ち着いた空間にする。
+
+【9コマの内容】
+
+01：
+午後の山間に佇む旅館の外観。
+女性が小さな旅行バッグを持ち、石畳を歩いて玄関へ向かっている。
+旅館、川、山、紅葉がひとつの画面に収まる広い導入カット。
+
+02：
+吹き抜けのロビー。
+女性が大きな窓の前で立ち止まり、山と川を眺めている。
+後ろ斜めから撮影したミディアムワイド。
+木造建築と窓から入る自然光を美しく見せる。
+
+03：
+スタッフの手がお茶と小さな和菓子を木製テーブルへ置く瞬間の接写。
+陶器の質感、薄い湯気、菓子の繊細な造形、丁寧な所作を描く。
+
+04：
+女性が客室の障子を開ける場面。
+手元と横顔を近距離から捉え、障子の向こうに山の景色と柔らかな光が広がる。
+
+05：
+露天風呂の湯面を捉えたマクロショット。
+水面に赤い落ち葉が一枚浮かび、細かな波紋と湯気が広がる。
+人物は映さない。
+
+06：
+浴衣姿の女性が窓辺の椅子に座り、両手で湯呑みを持ってお茶を飲む。
+横顔に午後の柔らかな光が当たり、緊張が解けた穏やかな表情。
+
+07：
+夕食の会席料理を真上から撮影したフラットレイ。
+川魚、季節の野菜、土鍋、小鉢、酒器を端正に配置する。
+器、木目、料理の色彩を高精細に描く。
+
+08：
+夕暮れの縁側に座る女性の親密なポートレート。
+目を静かに閉じ、秋の空気を吸い込むような自然な表情。
+山のシルエットと行灯の光が背景で柔らかくぼける。
+
+09：
+夜の客室と縁側を捉えた締めのブランドカット。
+右側に暖簾、木の格子、光る行灯。
+左側には暗い山と文字用の余白を確保する。
+左側に正確な日本語で「ほどける時間へ。」
+その下に、字間を広く取った上品なセリフ体で「KAWANE」。
+
+【撮影表現】
+日本の高級旅館広告。
+標準〜中望遠レンズを中心に、料理やお茶はマクロレンズ。
+午後から夕暮れ、夜へ自然に時間が進行する。
+木の温かさ、石の冷たさ、湯気、紙、陶器の質感を丁寧に描く。
+滑らかなハイライト、奥行きのある影、微細なフィルムグレイン。
+
+【禁止事項】
+アニメ、イラスト、CG感の強い表現、過度なオレンジ加工、強い霞、非現実的な豪華さ、人物の顔の変化、手指の破綻、余分な人物、指定外のコピー、透かし、余分なロゴを入れない。
+```
+
+  </details>
 
 - **Image→色板→动效→剪辑：变体先于视频** — Image 2.5 先出视觉变体，Seedance 转旋转序列，CapCut 收成片。别再 Prompt→Video 一把梭——先锁画面再喂动效。 [@tylerrwayne](https://x.com/tylerrwayne) · [原帖](https://x.com/tylerrwayne/status/2100099092135440769)
 
