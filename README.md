@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 382 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 387 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -788,6 +788,102 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **日系街头杂志风：东京旅行时尚竖版** — 复古杂志拼贴 + TOKYO 大字报头，红黑图形面板压夜景。旅行时尚 / 城市 campaign 竖版直接抄。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100099718605135962)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a vertical 4:5 ultra-realistic editorial travel fashion poster inspired by a vintage Japanese street magazine cover.
+
+A young woman stands prominently in the center foreground, photographed from a slightly low angle. She has dark hair tied into a messy high bun with loose strands framing her face, wearing narrow futuristic black wraparound sunglasses and looking slightly toward the camera with a confident, calm expression. She wears an oversized black technical utility jacket covered with realistic straps, buckles, zippers, pockets, printed patches, labels and subtle reflective details, paired with dark tactical-style clothing and a large black utility bag. Preserve realistic fabric texture and natural proportions.
+
+The background is a Tokyo night street collage, featuring rain-soaked neon streets, Japanese shop signs, narrow urban alleys, Tokyo Tower glowing at night, and a Tokyo train arriving at a station. Arrange several rectangular photographs around the central subject at different slight angles, creating a handmade editorial scrapbook layout. Use off-white aged paper as the main background with subtle paper grain, worn edges, folds, stains and vintage print texture.
+
+At the top, add huge bold black typography reading:
+
+TOKYO
+
+Under it, smaller elegant italic serif text:
+
+FUTURE IS NOW
+
+Add small editorial text blocks such as:
+
+“Where tradition meets technology, and every street tells a story of tomorrow.”
+
+Include minimalist globe symbols, technical graphic lines, barcode elements, coordinates, small labels and futuristic editorial markings.
+
+Use Japanese-inspired red and black graphic panels throughout the composition. Add a vertical red panel on the right with Japanese typography, a red graphic card on the lower left containing large Japanese characters, and another red photographic panel in the lower right showing a dark silhouette of the woman.
+
+Include small typography such as:
+
+35.6895° N
+139.6917° E
+
+and:
+
+SHIBUYA • SHINJUKU • HARAJUKU • AKIHABARA
+
+Overall aesthetic: high-end Japanese streetwear magazine, cyberpunk Tokyo, vintage travel poster, contemporary fashion editorial, analog print collage. Muted black, charcoal, cream, dark gray and deep red color palette. Strong photographic realism, cinematic night lighting, subtle film grain, slightly faded ink, authentic paper texture, imperfect print registration, sophisticated magazine typography, balanced negative space.
+
+Composition: central full-body subject, oversized “TOKYO” headline occupying the upper section, layered Tokyo photographs surrounding her, red graphic accents, vintage paper border, premium editorial layout.
+
+Photorealistic, highly detailed, cinematic, 8K, realistic skin, realistic clothing textures, professional fashion photography, authentic vintage print finish, no modern digital UI elements.
+```
+
+  </details>
+
+- **东方极简封面：结构化中文海报槽位** — 主题 / 风格分支 / 情绪母题 / 色彩控制写死，新中式竖版封面可返图。营销封面别靠玄学——槽位填完再出图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100097638326780122)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主题方向：东方禅意极简封面海报
+风格分支：女性审美新中式型
+主体内容：一位古风女子站在浅色屋脊下方，抬眼看一只停在檐角的小雀
+情绪母题：灵动、安静、东方趣味感
+场景与意象：月牙白屋墙、海棠红檐角点缀、松针绿植物、小雀、女子
+构图与空间：9:16 竖版构图，屋檐斜向切入上方，人物位于下方偏一侧，上方大片浅色墙面形成标题区
+色彩控制：月牙白作为背景和墙面基底，海棠红用于檐角和局部点睛，松针绿用于少量植物，小雀保持自然浅棕色；避免整图偏红或偏绿
+光线与质感：明亮自然光，画面干净，边缘清楚，轻平面新中式海报感
+画幅比例：9:16
+补充要求：整体要有趣味但仍极简，小雀只作为灵动点，不要把背景做复杂，画面留白处配上合适的艺术文字
+```
+
+  </details>
+
+- **旅行海报模板：[LOCATION] 可替换复古探险** — 上中下三层构图 + 字内填景，换地名就能批量出 4:5 旅行 editorial。旅游 / 城市 KV 直接套槽。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100089588559802619)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium ultra-high-resolution illustrated travel poster for **[LOCATION]**, designed as a sophisticated vintage adventure-travel editorial poster in a strict **4:5 vertical format**.
+
+Build the composition around the destination’s most iconic landscapes, landmarks, wildlife, architecture, cultural symbols, and natural features. Create a strong **three-level visual composition**:
+
+1. **TOP SECTION:** A dramatic panoramic hero scene representing [LOCATION], featuring its most recognizable landscape or landmark under beautiful atmospheric skies. Add a few authentic destination-specific elements such as wildlife, vegetation, architecture, or local details.
+
+2. **CENTER SECTION:** Make **“[LOCATION NAME]”** extremely large and dominant across the poster using bold condensed geometric sans-serif typography. Fill the interior of the letters with a detailed scenic image of the destination, seamlessly combining mountains, coastline, forests, architecture, glaciers, desert, cityscape, or other relevant scenery. Keep the typography perfectly readable while allowing the imagery to extend naturally through the letters.
+
+3. **BOTTOM SECTION:** Create a second expansive scenic panorama showing another iconic aspect of [LOCATION], with foreground details such as native wildlife, vegetation, water, rocks, streets, buildings, or cultural elements. Make it visually connected to the central typography and upper landscape.
+
+Surround the composition with subtle **editorial travel-poster typography**, including short destination-relevant phrases, geographic references, and atmospheric descriptive words. Keep all secondary text minimal, correctly spelled, evenly spaced, and visually subordinate to the main location name.
+
+**ART STYLE:** Premium vintage travel illustration × mid-century editorial poster × modern screen print aesthetic. Handcrafted painterly texture, bold shapes, sophisticated composition, slightly weathered print character, cinematic landscapes, rich environmental detail, and authentic destination identity.
+
+**COLOR:** Automatically derive a refined palette from [LOCATION] and its natural environment. Use harmonious earthy and atmospheric tones with strong contrast, avoiding excessive colors.
+
+**COMPOSITION:** Strong visual hierarchy, balanced negative space, layered scenery, oversized typography, seamless image-filled lettering, panoramic landscape bands, elegant editorial spacing, and premium collectible travel-poster design.
+
+**TEXT RULES:** The primary headline must be exactly **“[LOCATION NAME]”**. All visible text must be in English, correctly spelled, clean, intentional, and legible. Do not add random words, fake logos, watermarks, or meaningless text.
+
+**QUALITY:** Ultra-high resolution, razor-sharp details, crisp typography, sophisticated illustration, realistic environmental depth, polished print texture, professional travel-poster finish.
+
+**FORMAT:** STRICT **4:5 VERTICAL**.
+```
+
+  </details>
 
 - **字体也能锁：缩略图字体参考表** — 不只锁脸——缩略图用的字体也能出 reference sheet。做系列封面/世界观时，少开一遍设计软件抠字。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2100026883643670876)
   <details>
@@ -2437,6 +2533,54 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **上传人脸锁身份：九宫格贴纸叙事** — 同一张脸贯穿九格表情贴纸，面部结构全板一致。UGC / 人设表情包：先锁身份再批姿态。 [@aniyaintel](https://x.com/aniyaintel) · [原帖](https://x.com/aniyaintel/status/2100091272895791296)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use my uploaded female face as the ONLY identity reference for the main character. Preserve my exact facial identity and natural appearance throughout all nine panels. Keep my facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, hairline, hair texture, and natural skin details consistent and recognizable. Do not beautify, reshape, feminize, masculinize, age, de-age, or otherwise alter my facial features. The same woman must appear in every panel with strong identity consistency.
+
+Create a 3×3 grid containing exactly 9 different cute expressive sticker-style portraits, for a total of nine unique expressions and poses. The composition should look like a professionally designed messaging app sticker sheet, with all nine panels visually connected and balanced.
+
+Each panel should feature the same female character but with a clearly different facial expression, body gesture, pose, and emotion. Make the expressions natural, exaggerated enough to work as expressive stickers, but still realistic and flattering.
+
+Panel 1 — Encouragement
+A confident playful expression with one eye closed in a cute wink and a subtle smile. She points toward the viewer with a confident gesture, creating an energetic motivational feeling. Add the text “You got this!” with a cute handwritten sticker-style font. Small hearts and sparkles around her.
+
+Panel 2 — Thinking / Confused
+She rests one cheek gently on her hand while looking slightly sideways with a thoughtful, mildly confused expression. Add a small doodle above her head and the text “Hmm…” or “我想想…”. Make the expression curious and adorable.
+
+Panel 3 — Good Night
+She hugs a soft fluffy pillow close to her chest with her eyes gently closed and a peaceful sleepy smile. Add a small crescent moon, stars, and subtle sparkles. Include the text “Good Night” and/or “晚安”.
+
+Panel 4 — Motivation / Coffee
+She holds a warm coffee mug with both hands, looking energized and slightly playful. Add subtle steam rising from the cup. Include the Chinese text “加油!” and small energetic doodles. The expression should communicate “I’m ready!”
+
+Panel 5 — Happy
+She tilts her head slightly with her eyes closed and a genuine joyful smile. Add small hearts, sparkles, and a cute smiley doodle. Include “Happy Day!” or “开心每一天!”.
+
+Panel 6 — Confused / Questioning
+Give her a cute puzzled expression with slightly raised eyebrows and a subtle frown, looking toward the side as if she doesn't understand something. Add floating question marks “???” around her. The emotion should be funny rather than angry.
+
+Panel 7 — Cool / Stylish
+Give her a confident fashionable pose wearing stylish sunglasses, making a relaxed peace sign with her fingers. Add subtle sparkle effects and the text “So Cool!”. The overall feeling should be trendy, playful, and confident.
+
+Panel 8 — Laughing
+She covers her mouth with both hands while laughing naturally, with slightly squinted happy eyes and a playful expression. Add small laughter marks and the Chinese text “哈哈哈”. Make this panel feel spontaneous and genuinely funny.
+
+Panel 9 — Love / Affection
+She rests her cheek gently against one hand while giving a sweet wink and warm smile toward the viewer. Add pink hearts and soft sparkles. Include the Chinese text “爱你” with smaller English text “Love you!” underneath.
+
+Visual Style
+Use a soft pastel light-gradient background for every panel. Each panel can have a different subtle gradient such as blush pink, lavender, baby blue, mint, peach, cream, and light violet, while maintaining one cohesive visual style.
+
+Give the character a clean white sticker-cutout outline around her entire silhouette. The white border should clearly separate her from the pastel background and create an authentic premium sticker appearance.
+
+Use cute hand-drawn doodles such as: hearts, stars, sparkles, clouds, question marks, smiley faces, small moons, coffee steam, playful motion lines.
+```
+
+  </details>
 
 - **实拍抽可替换服装 prompt 库（猎人风 cos）** — 先从原图抽衣装 prompt，再按类目换装；Images 2.5 跑猎人风 cos。虚拟 IP / UGC 换装资产库可复用。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100020747146342911)
   <details>
@@ -4247,6 +4391,8 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **Image→色板→动效→剪辑：变体先于视频** — Image 2.5 先出视觉变体，Seedance 转旋转序列，CapCut 收成片。别再 Prompt→Video 一把梭——先锁画面再喂动效。 [@tylerrwayne](https://x.com/tylerrwayne) · [原帖](https://x.com/tylerrwayne/status/2100099092135440769)
 
 - **Sunburst 尾帧→MiniMax Meta 向延时广告** — 钢琴教室虚构广告：Sunburst 出 end frame，MiniMax H3 出 9:16 / 10 秒延时彩铅成片，还把视线往 offer 按钮上导。广告素材流水线示范。 [@tanabe_fragm](https://x.com/tanabe_fragm) · [原帖](https://x.com/tanabe_fragm/status/2100020375006654762)
   <details>
