@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 424 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 434 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Row-Bot 上 Flare vs Sunburst：放大镜硬对比** — 同一复杂静物题连跑两档：速度档 Flare vs 精度档 Sunburst，连放大镜/高光/材质差都写清楚。选型话术与 n=1 对照素材一次齐。 [@sydsachar](https://x.com/sydsachar) · [原帖](https://x.com/sydsachar/status/2100216986538029207)
 
 - **Sunburst vs Image2：科技品牌捏成昆虫 2×2** — 结构化 2×2 指令把品牌符号重构成昆虫形态学。选型素材 + 可改模板，比空喊「2.5 更强」管用。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100211349414441426)
   <details>
@@ -813,6 +815,89 @@ C区域代表【背景建筑或环境】
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
+- **一品两出：先锁战役规则再换版式** — 同一瓶沐浴油：电影感广告片 + 3×3卖点海报。瓶型/配色/苹果意象先写死，版式才能换而不散品牌。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2100225374974026080)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+One product. Two formats. Built in GPT Image 2.5.
+
+Campaign lock rules (keep fixed across formats):
+- clear bottle + signature red pump
+- apple red + cream + soft green
+- red apple, blossoms, water droplets
+- silky golden oil + soft emulsion
+- luminous wet skin
+- crisp fruit + floral + musky cedar
+- fresh, feminine, fragrance-led luxury
+
+Outputs from the same visual system:
+1) cinematic commercial
+2) 3×3 selling-point poster
+
+Principle: lock campaign rules first, then change format without the brand falling apart.
+```
+
+  </details>
+
+- **地铁斜穿连通性：四区房产海报一气呵成** — 别用四个框解释配套——让高架地铁斜穿分区，视线落到楼盘。连通性卖点写成空间关系的可抄结构。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100223219383124188)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a Cannes-level ultra-premium real estate advertising poster for a fictional development brand called AURELIA GATE RESIDENCES, preserving the exact structural logic of a multi-panel infrastructure-led property campaign: a square or near-square luxury real estate poster divided into four integrated visual zones with softly curved page-like corner framing, where the top-left panel presents the hero residential towers rising above the city, the top-right panel highlights a major expressway corridor, the lower-left and center are dramatically crossed by an elevated metro line in perspective, and the bottom-right panel shows a refined private consultation meeting in an elegant sales-lounge interior. The final image must communicate that this development is defined by strategic connectivity, transit-oriented value, and premium urban lifestyle.
+
+Core composition: structure the poster as a refined four-zone collage with thin elegant dividing lines and subtle curved panel edges, preserving the same premium brochure-meets-commercial-ad language as the reference. Top-left: one aerial oblique view of the hero residential project, with 3 to 4 slender luxury towers standing prominently above a dense low-rise city fabric, warm sunset light, and a discreet location tag integrated near the site. Top-right: one wide, clean view of a modern multi-lane expressway with landscaped medians, smooth traffic flow, and urban skyline in the distance, representing regional access. Lower-left/center: one modern elevated metro train sweeps diagonally across the composition toward the viewer, occupying strong foreground dominance and visually linking the top property panels to the lifestyle promise below. Bottom-right: one premium sales or negotiation lounge with two well-dressed business professionals seated at a round table in a polished interior, reviewing documents in a calm high-end environment. All four zones must feel part of one coherent brand story.
+
+Hero project design: create a premium urban residential development for AURELIA GATE RESIDENCES with elegant glass-and-stone towers, warm architectural lighting, podium greenery, and a sophisticated city-integration concept. The tower cluster should feel financially aspirational, architecturally credible, and highly sellable, with clean facade rhythm, realistic balcony or glazing repetition, refined rooftop crowns, and believable urban scale. The development must remain the conceptual hero even though the transit line is visually dramatic.
+
+Transit-oriented narrative: the metro line is a major storytelling device. Render one sleek modern elevated train with realistic carriage proportions, reflective glazing, subtle interior hints, and premium metallic finish, traveling on an elevated viaduct that cuts diagonally through the composition. The train must feel fast, clean, and future-forward, visually symbolizing convenience, rising value, and metropolitan momentum. The viaduct structure should be engineered and convincing, with support detail, guard rails, and proper perspective depth. This transit element should strengthen the real estate value proposition rather than overpower the towers.
+
+Expressway and access panel: the top-right infrastructure panel must show a broad, elegant arterial highway or national corridor under soft daylight, with landscaped edges, a few realistic vehicles, and a clean urban horizon. The shot should communicate regional mobility, strategic access, and development upside. Avoid traffic chaos, dirty roads, or generic stock-photo feel.
+
+Lifestyle and trust panel: the bottom-right consultation scene should communicate investment confidence and premium service. Show two adult male professionals or sales executives in tailored suits seated in a luxurious lobby or sales gallery with warm stone, wood, glass, and soft neutral furnishings. Their posture should suggest focused conversation, trust, and deal-making rather than casual chatting. Keep anatomy, hands, and facial proportions realistic and understated. This panel should feel aspirational, polished, and calm.
+
+Typography and layout: preserve the source image’s same-type panel-based property-sales hierarchy but rewrite all wording into original English. In the top-left or upper central visual field, place a strong campaign line such as “Two Frontages. One Strategic Address.” In the top-right panel, include a concise infrastructure callout like “Gateway to Route 13” or “Connected to the City’s Main Artery.” In the lower-left or over the train zone, place a compact premium callout such as “First-Mover TOD Advantage.” In the bottom-right panel, add a short trust message like “Flexible Terms for Modern Buyers.” Typography must be elegant, highly legible, and spatially integrated into each panel, using premium serif and modern sans-serif combinations. Do not overcrowd the poster with dense brochure text.
+
+Branding: place a small refined AURELIA GATE RESIDENCES logo lockup in the upper-left corner, with a minimal developer or partner mark if needed. Branding should feel premium, corporate, and internationally polished, not loud or crowded.
+
+Lighting: use refined golden-hour-to-soft-daylight transitions across the panels while keeping one unified visual grade. The residential towers should glow with aspirational sunset warmth. The expressway panel should feel clear, clean, and daylight-balanced. The train should carry polished highlights and forward energy. The consultation panel should use soft interior luxury lighting with warm reflections on marble, metal, and glass. Keep contrast rich but controlled, with no muddy green shadows or dead black blocks.
+
+Material and texture: emphasize tower facade realism, metro train metal and glass surfaces, highway asphalt and planted medians, polished sales-lounge marble and upholstery, and the crisp graphic finish of a high-end real estate poster. Every panel should feel photographically believable while still maintaining unified commercial art direction.
+
+Color hierarchy: 50% premium deep green, ivory, and soft urban neutrals; 25% warm sunset gold and champagne architectural highlights; 15% cool steel, metro silver, and highway grey; 10% muted rose-magenta or burgundy typographic accents for premium contrast. The palette must feel upscale, strategic, modern, and trustworthy.
+
+Design intent: the final poster must preserve the source image’s exact impact logic of panel-based real estate storytelling, transit-led motion, infrastructure access, and investor-service messaging, while elevating it into a more original, more luxurious, and more internationally art-directed property campaign. The project is not sold merely as a building, but as a strategically connected urban asset anchored by mobility, visibility, and premium sales confidence.
+
+Rendering style: ultra-photoreal luxury real estate advertising, premium urban development campaign, transit-oriented property poster, high-end architectural visualization merged with commercial editorial design, polished infrastructure storytelling, world-class property marketing finish, print-ready realism.
+
+Negative prompt: copied source text, real developer names, generic brochure clutter, low-detail towers, warped metro geometry, fake highway perspective, malformed hands, extra fingers, stiff business poses, muddy urban haze, overpacked text blocks, cheap condo flyer styling, distorted panel layout, black blotches, watermark
+```
+
+  </details>
+
+- **楼盘先入镜：三竖屏生活区房地产海报** — 下半整栋实楼当主角，身后三道发光生活区竖屏。生活感不抢戏、楼盘不沦装饰的高端地产 KV 骨架。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100222341871726598)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A hyper-real premium real estate poster advertisement for a fictional domestic luxury development brand called LANHAI TIANJING, designed as a high-end architectural campaign visual that preserves a strong three-panel aspirational structure while making the residential property the absolute visual hero. In the foreground, create a highly realistic low-rise luxury mixed-use residential block occupying the full lower half of the composition: stepped contemporary architecture, elegant stone-and-glass facade, planted rooftop terraces, continuous balcony rhythm, warm boutique storefront glow at street level, mature roadside trees, a clean broad boulevard, a few small refined pedestrians and bicycles for scale, all physically plausible, meticulously detailed, and clearly premium.
+
+Behind the building, rise three monumental vertical vision panels integrated into the poster like luminous branded portals. Keep the same tall, narrow, clean-edged three-column structure, evenly spaced, with the central panel slightly dominant. Left panel: a sunlit coastal mountain boulevard with a silver luxury electric grand tourer moving through a scenic curve, conveying freedom, status, and effortless access. Center panel: a bright bayfront skyline with waterfront towers, layered bridges, transport infrastructure, and a passenger jet flying toward camera above the city, expressing metropolitan reach, connectivity, and urban momentum. Right panel: a serene private marina scene with a sleek white yacht cutting through deep blue water near a high-end coastal leisure zone, expressing waterfront lifestyle and exclusive privilege. The three panels must feel unified in perspective, light quality, and graphic authority, acting as symbolic lifestyle extensions of the property rather than random collage fragments.
+
+Framing and composition: vertical hero poster, slightly low eye-level architectural angle, strong rule of thirds, the property mass grounded and dominant in the lower field, the three aspiration panels rising behind it into the sky, generous negative space at the top for the logo and at the bottom for the title typography. Preserve the original visual grammar of upward ambition and layered value stacking, but sharpen the hierarchy so the residential architecture reads first, the central aspirational skyline reads second, and the side panels complete the narrative. Keep the flow from top emblem to middle triptych to building volume to bottom title band.
+
+Lighting and color: bright cinematic daylight with polished ad-grade contrast, clear atmospheric glow in the upper sky, crisp sunlight on facade edges, soft shadow depth beneath balconies, refined glass reflections, luminous but controlled highlights across vehicles, aircraft, water, and architecture. Build stronger light-dark separation across the building mass to emphasize terrace depth and material volume. Color system: 60% clean sky blue, bay cyan, and cool daylight atmosphere; 30% warm ivory stone, greenery, and soft urban neutrals; 10% metallic gold accents in the logo and typography. The frame must feel fresh, prosperous, elegant, and globally aspirational, without muddy shadows, dead black patches, or oversaturated brochure harshness.
+
+Materials and finish: ultra-real architectural visualization fused with luxury commercial photography. Dense matte mineral stone, crisp low-iron glass, realistic planted greenery with varied leaf density, elegant metal balcony rails, smooth asphalt, restrained storefront illumination, polished metallic vehicle bodywork, aerodynamic aircraft surface, glossy yacht hull, coherent scale relationships across every element. Maintain premium realism with clean micro-detail, subtle atmospheric depth, and highly controlled retouching, as if created for a Cannes-level property campaign.
+
+Typography: place a refined minimal gold emblem at the top center, with the brand name "LANHAI TIANJING" below it in elegant uppercase serif. In the lower title band, set the Chinese main title exactly as "岚海天境" in large luxurious gold typography with graceful, slightly calligraphic serif character construction. Directly below it, add the English subtitle exactly as "Bayfront Skyline Residences" in a small refined serif. Add two supporting Chinese copy clusters in the lower typography zone: left cluster exactly "湾芯主场", right cluster exactly "向上而居", each paired with a subtle line of tiny English microcopy in a delicate editorial serif. Typography must feel integrated, spacious, and premium, with precise alignment, elegant kerning, controlled scale hierarchy, and safe margins away from the main building silhouette.
+
+Output and constraints: polished luxury real estate commercial poster, architecture-first hierarchy, clean and unified visual system, no real city names, no real people names, no random clutter, no extra decorative noise. Keep architecture structurally correct, windows aligned, balconies logical, street scale believable, trees rooted, pedestrians small and anatomically normal, vehicles and yacht physically accurate, aircraft proportionally correct, typography readable and elegant. Avoid warped architecture, duplicated windows, broken perspective, malformed vehicles, unreadable text, floating objects, muddy grading, cheap CGI plastic surfaces, chaotic collage edges, distorted anatomy, extra fingers, broken limbs, black blotches, and off-style visual drift.
+```
+
+  </details>
+
 - **《白鹿王庭》黑暗奇幻商业大片海报** — 2:3 Key Visual：银发女王 + 白鹿灵体 + 主演条/片名/文案层一次写齐。国风奇幻商业海报可抄结构。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100204772578251107)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -882,6 +967,46 @@ MOOD
 Quiet, poetic, refined, minimal, soft, artistic, premium.
 
 Final result: a contemporary art-book cover combining the original digital illustration above with a small handmade reinterpretation below.
+```
+
+  </details>
+
+- **[COUNTRY] 巨型巧克力食物艺术：本地化模板** — 国家名 + 地标 + 本地食物塞进掰开的巧克力棒。超写实美食海报占位符齐全，本地化营销一键换皮。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100164588721651910)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a breathtaking, photorealistic luxury food-art image of [COUNTRY] transformed into a giant premium chocolate bar.
+
+The chocolate bar lies diagonally on an elegant dark stone surface, photographed from a slightly elevated cinematic angle. Its wrapper is inspired by the visual identity, colors, patterns, and cultural aesthetic of [COUNTRY], while remaining sophisticated and premium.
+
+The chocolate bar is dramatically broken open in the center.
+
+From inside the broken chocolate, an incredibly detailed miniature 3D version of [COUNTRY] emerges as if the entire country is sculpted inside the chocolate.
+
+Include:
+
+[FAMOUS LANDMARK] as the central focal point
+
+[FAMOUS NATURAL LANDSCAPE] surrounding it
+
+tiny recognizable local architecture
+
+miniature streets and transportation
+
+[FAMOUS LOCAL FOOD] as tiny decorative elements
+
+native flowers, trees, mountains or coastline
+
+subtle cultural details unique to the country
+
+Make the chocolate itself extremely realistic: glossy cocoa surface, crisp snapped edges, creamy layered interior, tiny chocolate crumbs, delicate melting chocolate, realistic highlights and shadows.
+
+Create a magical transition where chocolate pieces gradually become mountains, buildings and landscape, making it look as though the entire country has been hidden inside the chocolate bar.
+
+Premium commercial food photography, cinematic lighting, ultra-detailed miniature world, realistic materials, macro photography, shallow depth of field, atmospheric perspective, sophisticated composition, rich textures, 8K photorealism, visually irresistible, surreal but believable.
+
+Composition: vertical 4:5, centered hero object, dramatic perspective, clean luxurious background, strong visual contrast, no people, no subtitles, no watermark, no unnecessary text.
 ```
 
   </details>
@@ -2752,6 +2877,75 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
   </details>
 
+- **失败写真通用模版：任意场景×2×2** — 【任意场景】×【任意穿搭/主体】×竖版 2×2 错误照片。比单题材 case 更像内容工厂骨架，UGC/种草拼贴直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100184573376381181)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【任意场景】 × 【任意穿搭/主体】 × 竖版2×2错误照片
+```
+
+  </details>
+
+- **换装不崩：PROTECTED WARDROBE 锁规则** — Images 2.5 + 分类换装 prompt，把剪裁/五金/图案写成不可变身份。虚拟模特换季最怕脸漂，这条把规则钉死。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100182700544213429)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. If source prose omits or misclassifies a component required by an explicit selection, that selection corrects only that component. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.
+
+Wardrobe:
+
+Top: A fitted cropped top in heathered slate-gray fine ribbed stretch knit, with a broad low V-neckline and slim full-length set-in sleeves extending slightly beyond the wrists. Dense horizontal ruching runs across the front between a raised central vertical seam and curved side-front shaping seams, continuing lightly around the sides. The gathered center draws the lower edge upward into a shallow central arch, while the side-front hem sits lower above the waist. Narrow matching binding finishes the neckline, with plain sleeve hems and a close-fitting matching ribbed back completing the pullover.
+
+Bottom: High-rise wide-leg trousers in softly draping light-gray woven fabric, covered with charcoal-black leopard spots. Large irregular broken rosettes, roughly 25% of one leg's width, mingle with smaller solid spots and pale open centers in a dense, non-directional pattern. A fitted waistband with belt loops and deep front pleats releases into exceptionally broad straight legs with floor-length plain hems. A concealed hook-and-zip fly, side pockets and rear shaping darts complete the trousers.
+
+Legwear: A pair of plain ivory crew socks in soft opaque knit, with close vertical ribbing along the shafts, neatly finished elastic cuffs, and matching shaped heels and smooth-knit feet with closed rounded toes. The design is unadorned, with a soft matte finish and a snug, flexible fit.
+
+Footwear: A pair of black ankle boots with broad rounded toes and plain matte suede vamps. Simple close-fitting shafts have concealed inner-side zippers and soft dark linings. Thick charcoal-black platform soles wrap prominently around the forefeet, with parallel horizontal grooves along the sidewalls and deep separated tread blocks around the outer edges, creating a heavy, grounded silhouette without upper decoration.
+
+Belt: A broad black leather belt with a substantial silver-tone rectangular prong buckle, squared corners and a thick polished frame. Punched adjustment holes and a matching black keeper secure the tongue, while smooth edges and a plain continuous back keep the strap cleanly finished.
+
+Eyewear:
+
+Dark tortoiseshell acetate sunglasses with broad, low rounded-rectangular full rims, subtly upswept outer corners and an integrated saddle bridge. Deep brown-gray lenses sit inside the polished mottled brown frames. Short polished gold-tone interlocking oval-link fittings decorate the temples immediately behind the hinges, continuing into dark acetate arms with curved ear tips and molded nose rests.
+
+Final worn state:
+- Eyewear placement: Center the registered eyewear bridge on the nose, align the two lenses at equal height directly in front of the corresponding eyes, and place each temple over its corresponding ear. Do not move the eyewear to the top of the head, forehead, nose tip, or neckline, and do not disengage only one temple.
+
+Necklace:
+
+A long silver-tone station necklace with small faceted metal beads spaced evenly along a fine linked chain. Slender connecting sections leave clear gaps between the bright bead stations, allowing the strand to fall in a long supple curve to the middle of the chest. A discreet lobster clasp closes the necklace, which has no pendant.
+
+A silver-tone ball-chain necklace with evenly sized polished spherical beads connected by short metal links. The close, regular bead spacing forms a supple strand resting around the collarbone and upper chest. A compact matching connector clasp closes the plain pendant-free necklace at the back.
+
+Final worn state:
+For the first and second item descriptions above together:
+- Necklace placement: Layer the selected necklaces at clearly separated short, medium, and long lengths, centered at the front and not tangled. Keep registered supports and components connected; allow contact and gravity-led ease only along the selected route.
+
+Earrings: Small polished silver hoop earrings with slender rounded tubular bands, clean circular openings and smooth undecorated surfaces. Fine hinged posts close into discreet catches, maintaining an almost continuous silver contour.
+
+Bracelet:
+
+A polished silver-tone link bracelet composed of closely spaced rounded rectangular plates with softly bulging edges and shallow recessed center grooves. Short articulated connectors allow the substantial reflective links to curve smoothly around the wrist, with a compact matching clasp completing the continuous row.
+
+Final worn state:
+VIEW-CONDITIONAL BODY-SIDE MAP: front view — wearer-left is image-right and wearer-right is image-left; back view — wearer-left is image-left and wearer-right is image-right. In profiles, crossed limbs, or ambiguity, trace the named anatomical side continuously from its corresponding shoulder, hip, eye, or ear landmark as applicable. Apply the state only to the named anatomical side; never mirror, swap, or duplicate it.
+- Bracelet placement: Render one complete instance of the registered bracelet from the item description immediately above around only the wearer-left wrist. Keep the wearer-right wrist free of this bracelet; do not mirror or duplicate it. Preserve the registered design and count. Keep other separately selected wrist items unchanged.
+```
+
+  </details>
+
+- **南方菜园失败写真 3×3：田园竖版短配方** — 南方农村菜园 × 田园风穿搭 × 竖版 3×3 失败照片。中文生活感 UGC 素材库继续挖金的一条具体 case。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100172521664573551)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+南方农村菜园 × 田园风穿搭  ×竖版 3×3失败照片
+```
+
+  </details>
+
 - **一图四 pose 水彩拼贴：人脸锁完整 prompt** — 上传照片锁脸，白衬衫四姿态水彩拼贴 + 蓝橙渐变泼墨底。个人品牌 / 编辑肖像直接抄，身份锁公式换水彩皮。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2100164037896225226)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -4535,6 +4729,16 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **路边实拍车 → Marketplace 级棚拍成片** — input vs output：手机街拍洗成在线卖车超写实。电商/二手最痛「有货没图」，短 prompt 可直接塞进售卖流。 [@Rodrigo_Bubble](https://x.com/Rodrigo_Bubble) · [原帖](https://x.com/Rodrigo_Bubble/status/2100183263843393634)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+create images based on this, to publish on online marketplaces to sell the car. hiperrealismo. camara 4k. fotografo profesional de coches. vlur plate
+```
+
+  </details>
+
 - **自拍→glossy 设计师玩具头像** — 上传参考图变 premium 3D vinyl designer toy 浮空头像，大墨镜 + 棚拍高光。UGC / 周边营销一键出片。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2100057090332995927)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -4776,6 +4980,8 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **Seedance × Image 2.5：拳击短片对打广告** — Image 2.5 出视觉 + Seedance 2.5 成片，拳击对打叙事完整。一人团队做产品对打广告的现成动静链路。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2100177103991787826)
 
 - **旅馆 PR：Image 2.5 九宫分镜→Gemini Omni** — GPT Image 2.5 出 9 格品牌分镜，再喂 Gemini Omni 成片+配乐。温泉旅馆「ほどける時間へ。」整条可抄，静帧定调再出视频的标准管线。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2100162861045817624)
   <details>
