@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 466 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 471 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,34 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **ChatGPT Images2.5 vs API gpt-image2：同参考色味差** — 同参考同提示：左边本家 Images 2.5、右边仍供 API 的 gpt-image2，色味差肉眼可见。接客户别混「网页版」和「旧 API 代际」——选型先看并排。 [@MAyamaYA_69_](https://x.com/MAyamaYA_69_) · [原帖](https://x.com/MAyamaYA_69_/status/2100574297488322902)
+
+- **Images 2.5 vs Nano Banana2：同题东京路牌文字** — 同 prompt 东京夜路口纸牌「I'M STILL LEARNING」——谁把字拼对、写清。路牌/手写标是选型硬指标，附完整对照 prompt。 [@flarehorizon275](https://x.com/flarehorizon275) · [原帖](https://x.com/flarehorizon275/status/2100571656531959836)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a photorealistic street photograph of a young man standing at a busy Tokyo intersection at night, holding a small handwritten cardboard sign that says exactly: “I’M STILL LEARNING.” Keep the text perfectly readable and correctly spelled. Natural skin texture, realistic lighting, candid documentary photography, no cinematic or AI-generated look.
+
+Compare: ChatGPT Images 2.5 vs Nano Banana 2 — same prompt; judge who nails the sign text.
+```
+
+  </details>
+
+- **Flare 黑板菜单零重试：四行价格文字全对** — 给 Flare 一块四行黑板菜单+精确标价，禁止重抽——单词和美元金额一次全对。文字曾是 AI 图的破绽；做菜单/价目表广告前，先过这关。 [@modelstoreai](https://x.com/modelstoreai) · [原帖](https://x.com/modelstoreai/status/2100565452774650265)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Stress test (GPT Image 2.5 Flare):
+Give Flare a four-line chalkboard menu with exact prices. No retries.
+Acceptance: every word and every dollar amount must come back correct on the first pass.
+
+Why it matters: text accuracy used to be the tell that gave away an AI image — menu / price boards are a hard gate for ads and storefront mocks.
+```
+
+  </details>
 
 - **品牌恐龙四模同题：Image2 / Flare / Sunburst / ChatGPT** — Fortune 500 品牌捏成机械恐龙 2×2，同一段伪着色器 prompt 压四模。选型别空喊「更强」——直接看谁材质映射和 logo 叠层过关。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100496729627836540)
   <details>
@@ -884,6 +912,16 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **3:4 上下对半编辑海报：上半身份锁+下半手绘** — 竖版严格对半：上半保留原照身份/姿态/衣着光线，下半抽成不超过四色的纸质手绘。种草海报批产模板，附完整英文 prompt。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2100563846054469799)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a separate high-end editorial poster for each uploaded photo, never combining them. Use a strict 3:4 vertical layout split into two equal horizontal halves: keep the top half faithful to the original photo with unchanged identity, pose, proportions, clothing, objects, lighting, colors, and realistic details, enhanced only with subtle premium grading. In the bottom half, create a small centered hand-drawn paper illustration of the key subject and recognizable elements, using imperfect ink lines, flat acrylic shapes, rough paper texture, and handmade brush marks on a warm off-white background with generous negative space. Extract and simplify the original palette to no more than four harmonious colors. Keep the overall look quiet, poetic, refined, minimal, artistic, and premium, with optional subtle editorial typography.
+```
+
+  </details>
 
 - **饮料口味 2×2 栅格广告：只改 flavor 变量** — 等分四格、同杯比例、固定标题区与角标、白缝对齐——结构锁死只换口味色与道具。系列产品海报/FMCG 战役板可直接抄，附完整英文 campaign prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100525164324913662)
   <details>
@@ -5595,6 +5633,22 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 ## 电商改图
 
 商品图、局部编辑、包装与货架感。
+
+- **同包装参考→多套活动产品照：不丢罐面** — 几张 OLIPOP 基础罐照，压出多套电商/广告方向，包装 logo/罐型/标签字死锁。没实拍棚也能批产战役图——包装 must-stay 工作流可抄。 [@zahra4sure](https://x.com/zahra4sure) · [原帖](https://x.com/zahra4sure/status/2100572388031156287)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Product photography workflow (GPT Image 2.5):
+1) Upload a few basic reference photos of the same product packaging (example: OLIPOP Cherry Cola can).
+2) Generate several completely different campaign / e-commerce art directions from those refs.
+3) Hard constraint: never lose the original packaging — logo, can shape, label text, brand colors stay locked.
+4) Deliver multiple polished concepts without a physical reshoot.
+
+Principle: same product, many art directions; packaging identity is must-stay.
+```
+
+  </details>
 
 - **球鞋×旅行袋对位海报：产品别干同一种活** — 一只鞋落地锐利读品，另一只从皮箱斜抽出 sole——产品对位叙事，不是两只鞋摆一起。旅行鞋履电商 KV 可直接改，附完整 prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100485040425832579)
   <details>

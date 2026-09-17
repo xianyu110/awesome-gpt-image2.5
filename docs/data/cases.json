@@ -3961,5 +3961,49 @@
     "url": "https://x.com/hata_AI_master/status/2100536994598465775",
     "category": "UX产品",
     "prompt": "Workflow (Image 2.5 → Claude Code Artifact UI):\n1) First generate a finished UI visual with GPT Image 2.5 to lock direction.\n2) Ask Claude Code Artifact for ~3 UI variants.\n3) Human picks the best; only patch the delta.\n\nWhy: less token churn than coding UI from words alone; fewer misaligned redesign loops; ~1/3 time/tokens in practice."
+  },
+  {
+    "id": "2100565452774650265",
+    "title": "Flare 黑板菜单零重试：四行价格文字全对",
+    "blurb": "给 Flare 一块四行黑板菜单+精确标价，禁止重抽——单词和美元金额一次全对。文字曾是 AI 图的破绽；做菜单/价目表广告前，先过这关。",
+    "author": "modelstoreai",
+    "url": "https://x.com/modelstoreai/status/2100565452774650265",
+    "category": "选型评测",
+    "prompt": "Stress test (GPT Image 2.5 Flare):\nGive Flare a four-line chalkboard menu with exact prices. No retries.\nAcceptance: every word and every dollar amount must come back correct on the first pass.\n\nWhy it matters: text accuracy used to be the tell that gave away an AI image — menu / price boards are a hard gate for ads and storefront mocks."
+  },
+  {
+    "id": "2100563846054469799",
+    "title": "3:4 上下对半编辑海报：上半身份锁+下半手绘",
+    "blurb": "竖版严格对半：上半保留原照身份/姿态/衣着光线，下半抽成不超过四色的纸质手绘。种草海报批产模板，附完整英文 prompt。",
+    "author": "saniaspeaks_",
+    "url": "https://x.com/saniaspeaks_/status/2100563846054469799",
+    "category": "海报排版",
+    "prompt": "Create a separate high-end editorial poster for each uploaded photo, never combining them. Use a strict 3:4 vertical layout split into two equal horizontal halves: keep the top half faithful to the original photo with unchanged identity, pose, proportions, clothing, objects, lighting, colors, and realistic details, enhanced only with subtle premium grading. In the bottom half, create a small centered hand-drawn paper illustration of the key subject and recognizable elements, using imperfect ink lines, flat acrylic shapes, rough paper texture, and handmade brush marks on a warm off-white background with generous negative space. Extract and simplify the original palette to no more than four harmonious colors. Keep the overall look quiet, poetic, refined, minimal, artistic, and premium, with optional subtle editorial typography."
+  },
+  {
+    "id": "2100571656531959836",
+    "title": "Images 2.5 vs Nano Banana2：同题东京路牌文字",
+    "blurb": "同 prompt 东京夜路口纸牌「I'M STILL LEARNING」——谁把字拼对、写清。路牌/手写标是选型硬指标，附完整对照 prompt。",
+    "author": "flarehorizon275",
+    "url": "https://x.com/flarehorizon275/status/2100571656531959836",
+    "category": "选型评测",
+    "prompt": "Create a photorealistic street photograph of a young man standing at a busy Tokyo intersection at night, holding a small handwritten cardboard sign that says exactly: “I’M STILL LEARNING.” Keep the text perfectly readable and correctly spelled. Natural skin texture, realistic lighting, candid documentary photography, no cinematic or AI-generated look.\n\nCompare: ChatGPT Images 2.5 vs Nano Banana 2 — same prompt; judge who nails the sign text."
+  },
+  {
+    "id": "2100572388031156287",
+    "title": "同包装参考→多套活动产品照：不丢罐面",
+    "blurb": "几张 OLIPOP 基础罐照，压出多套电商/广告方向，包装 logo/罐型/标签字死锁。没实拍棚也能批产战役图——包装 must-stay 工作流可抄。",
+    "author": "zahra4sure",
+    "url": "https://x.com/zahra4sure/status/2100572388031156287",
+    "category": "电商改图",
+    "prompt": "Product photography workflow (GPT Image 2.5):\n1) Upload a few basic reference photos of the same product packaging (example: OLIPOP Cherry Cola can).\n2) Generate several completely different campaign / e-commerce art directions from those refs.\n3) Hard constraint: never lose the original packaging — logo, can shape, label text, brand colors stay locked.\n4) Deliver multiple polished concepts without a physical reshoot.\n\nPrinciple: same product, many art directions; packaging identity is must-stay."
+  },
+  {
+    "id": "2100574297488322902",
+    "title": "ChatGPT Images2.5 vs API gpt-image2：同参考色味差",
+    "blurb": "同参考同提示：左边本家 Images 2.5、右边仍供 API 的 gpt-image2，色味差肉眼可见。接客户别混「网页版」和「旧 API 代际」——选型先看并排。",
+    "author": "MAyamaYA_69_",
+    "url": "https://x.com/MAyamaYA_69_/status/2100574297488322902",
+    "category": "选型评测"
   }
 ]
