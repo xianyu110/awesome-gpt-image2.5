@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 452 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 466 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,38 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **品牌恐龙四模同题：Image2 / Flare / Sunburst / ChatGPT** — Fortune 500 品牌捏成机械恐龙 2×2，同一段伪着色器 prompt 压四模。选型别空喊「更强」——直接看谁材质映射和 logo 叠层过关。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100496729627836540)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+GPT Image 2 vs GPT Image 2.5 Flare (Higgsfield) vs. GPT Image 2.5 Sunburst (Higgsfield) vs. ChatGPT :
+
+Brands as dinosaurs. Same prompt.
+
+2x2 grid, do this for 4 dinosaurs inferred from subject and 4 famous Fortune 500 brands: void main() {
+string brand = "[$BRAND]";
+string insect = "[$dinosaurs]";
+// Semantic Material Mapping based on Brand
+vec3 base_mat = infer_brand_primary_material(brand); // e.g., brushed_metal(), white_glass(), or matte_carbon()
+vec3 accent_mat = infer_brand_accent_colors(brand);  // e.g., primary_color_grid(), or neon_green_emissive()
+
+// Geometry Deformation
+mat4 mechanical_chassis = convert_to_robot(load_mesh(insect));
+apply_panel_gaps_and_servos(mechanical_chassis);
+
+// Render 3D Subject
+render_mesh(mechanical_chassis, base_mat, accent_mat);
+apply_lighting(commercial_studio_softbox, macro_lens: true);
+
+// UI Overlay Overlay (No depth, pure 2D)
+draw_2D_overlay(top_left, infer_logo(brand));
+
+}
+```
+
+  </details>
 
 - **Nano Banana 2 Lite vs Image 2.5：移轴微缩硬对照** — 同题 1:1 / 2×2：一边读不懂提示，一边交出 Scheimpflug 移轴微缩拼贴。附完整 INTENT/LAWS/FORBIDDEN 配方，选型话术与光学约束一次齐。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100356053095641424)
   <details>
@@ -877,6 +909,203 @@ Color system: each panel operates as its own controlled flavor universe while th
 Lighting and finish: bright studio-commercial lighting with soft frontal fill, subtle top highlights on each scoop, gentle shadow grounding under the cups, clean white handling inside the panels, and extremely polished product retouching. Show creamy micro-texture, matte paper cup print, fresh mint leaf surfaces, glossy berry freshness, and crisp chocolate edges. The final image should feel like a Cannes-level FMCG campaign: playful yet disciplined, tactile yet clean, youthful yet art-directed.
 
 Output and constraints: one complete four-panel ice cream campaign board, product-first, highly graphic, clean luxury execution, no people, no extra unrelated props, no copied original poster text, no real brand names, no cluttered doodle overload, no broken grid alignment, no unreadable text, no malformed scoops, no duplicated ingredients, no warped cups, no muddy colors, no messy drips, no cheap clip-art feel, no AI text gibberish, and no style drift between panels.
+```
+
+  </details>
+
+- **永恒编辑风地点海报：[COUNTRY/LOCATION] 可替换模板** — 3:4 竖版、22–30% 留白、低饱和编辑色、手绘气泡标题 + 杂志旁注句。换地名/主题就能批产独立杂志风海报，附完整英文模板。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100508937514897577)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create one premium 3:4 vertical editorial art poster for [COUNTRY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE GENERATION ONLY. Generate the complete artwork from [COUNTRY / LOCATION / SUBJECT] alone. No reference image or additional visual input is required.
+
+Automatically interpret the subject and create a visually compelling composition that reflects its character, atmosphere, appearance, setting, colors, and distinctive visual identity.
+
+LOWER SECTION
+
+Use a refined background palette inspired by [COUNTRY / LOCATION / SUBJECT], using limited low-saturation tones such as misty gray, warm beige, light khaki, cream white, dusty rose, or soft gray-pink, selecting only the colors that naturally suit the subject.
+
+Keep approximately 22–30% continuous negative space. Avoid complicated scenery, excessive objects, sticker-like elements, or meaningless decoration.
+
+TYPOGRAPHY
+
+Create a sophisticated editorial typography system based on the subject.
+
+Automatically generate a short main title inspired by the subject's appearance, mood, action, or personality.
+
+Add one natural 8–16 word English sentence written like a subtle editorial note or magazine caption.
+
+Use a carefully designed hand-drawn or retro bubble-style font for the main title. Use smaller refined typography for supporting text, such as an elegant serif, subtle typewriter style, or delicate book-inspired font.
+
+Create clear hierarchy, breathing room, and intentional spacing. Typography should feel integrated into the artwork rather than simply placed on top.
+
+VISUAL STYLE
+
+Keep the overall palette restrained and cohesive, with subtle film grain, tactile paper texture, and a gentle printed-editorial quality.
+
+Allow slight asymmetry and imperfect positioning to create a sophisticated independent-magazine aesthetic without making the composition messy.
+
+IMPORTANT
+
+Keep the main subject recognizable and naturally proportioned. Do not cartoonize the person or subject.
+
+Avoid:
+multiple mascots, existing animated characters, brand logos, QR codes, watermarks, signatures, gibberish text, incorrect hands, extra limbs, excessive decoration, cheap templates, overly cute styling, or cluttered compositions.
+
+FINAL LOOK
+
+The finished artwork should feel like a premium independent fashion magazine, contemporary art publication, or sophisticated editorial ZINE—minimal, tactile, slightly imperfect, modern, and visually intelligent.
+
+STRICT 3:4 VERTICAL | TEXT-ONLY GENERATION | RESTRAINED COLORS | 22–30% NEGATIVE SPACE | PREMIUM EDITORIAL TYPOGRAPHY | SUBTLE FILM GRAIN & PAPER PRINT TEXTURE.
+
+Generate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone.
+```
+
+  </details>
+
+- **焦外抽离双生：上下分屏 85mm F1.2 光学对照海报** — 上半保留原手机抓拍，下半同构图模拟 85mm F1.2 奶油焦外与真实 bokeh。讲景深/光学差异时拿来当对照 demo，附完整中文配方。 [@lovimg_com](https://x.com/lovimg_com) · [原帖](https://x.com/lovimg_com/status/2100498666763030990)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+请基于我上传的照片，制作一张独立的3:4竖版“焦外抽离双生”视觉海报。
+
+画面严格分为上下两个区域，高度1:1，各占50%。
+
+上下必须保持：
+
+同一个主体、同一张脸、同一个动作、同一个姿态、同一个视线方向、同一个主体位置、同一个场景、同一个拍摄角度、同一套构图关系。
+
+不要重新设计人物。
+
+不要更换背景。
+
+不要改变照片内容。
+
+上半部分｜REAL
+
+完整保留上传的原始照片。
+
+保持原始手机摄影、数码相机或生活抓拍质感。
+
+人物、背景、环境信息全部保留。
+
+可以进行轻度曝光和色彩整理，但不要改变景深关系。
+
+让观众能够明确看到照片原本的真实状态。
+
+下半部分｜85MM F/1.2
+
+严格基于上半部分相同画面重新模拟一次专业全画幅大光圈人像摄影。
+
+模拟：
+
+85mm全画幅定焦镜头，f/1.2光圈。
+
+主体眼睛、面部、主要轮廓保持高清锐利。
+
+根据真实空间距离重新计算景深。
+
+主体所在焦平面清晰。
+
+主体前后的环境按照距离逐级进入失焦状态。
+
+近距离背景保持少量结构。
+
+中距离背景开始柔化。
+
+远距离背景完全转化为自然奶油焦外。
+
+背景中的：
+
+路灯、车灯、橱窗、树叶反光、金属反射、阳光高光
+
+自然转化为不同大小、不同虚化程度的真实光学bokeh。
+
+焦外必须具有真实镜头特征：
+
+柔和圆形光斑、边缘轻微猫眼形变、高光渐变、前后景深层次、真实空间压缩感。
+
+人物头发、肩膀、衣服边缘不能出现人工抠图感。
+
+发丝与焦外之间需要自然过渡。
+
+保留轻微镜头呼吸、色散、颗粒、曝光误差和真实摄影缺陷。
+
+最终效果必须像：
+
+同一个摄影师没有移动位置，只把普通手机换成了一支85mm F1.2专业镜头重新拍了一次。
+
+禁止：
+
+整块背景高斯模糊。
+
+禁止背景变成没有空间层级的一团颜色。
+
+禁止把人物抠出来贴在模糊背景上。
+
+禁止换脸。
+
+禁止改变人物动作。
+
+禁止增加不存在的建筑或景物。
+
+禁止插画感。
+
+禁止过度磨皮。
+
+禁止塑料皮肤。
+
+禁止AI棚拍感。
+```
+
+  </details>
+
+- **披萨升空隐喻海报：物理动作扛起品牌故事** — 芝士拉丝当推进尾焰、斜切披萨当火箭——隐喻靠物理成立才不贴皮。创意机构 KV / 食品概念广告直接抄结构，附超长完整 prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100487987762962656)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A hyper-real premium poster advertisement for a fictional creative launch agency called ORBIT FORGE, designed as a single iconic black-and-gold campaign image where a real pizza slice becomes a metaphor for brand lift-off. The composition fuses food photography, strategic brand storytelling, and curator-grade poster design into one high-impact visual. A giant triangular pepperoni pizza slice rises diagonally from an open matte-black pizza box like a rocket leaving its launch cradle, while long molten cheese strands stretch downward in powerful elastic ribbons, transforming the cheese pull into a convincing propulsion trail. The pizza slice remains the absolute visual hero.
+
+Framing and composition: vertical hero poster, strict left-right division, with a bold editorial text system occupying the left third and the product spectacle dominating the right two-thirds. The slice launches from the lower right box area toward the upper center-right, creating strong upward momentum. The pizza box anchors the bottom frame, while the cheese connects slice and box in one continuous vertical energy line. Preserve broad black negative space and high-end luxury breathing room. Behind the slice, integrate a restrained abstract system of sharp orbital linework, launch vectors, geometric arcs, and subtle coordinate-like marks in metallic amber-gold, merging Orbit, Transit, and Port into one unified visual language: strategic, directional, and slightly futuristic without clutter.
+
+Subject design: the slice is extremely appetizing and ultra-real, with blistered crust, bubbling browned mozzarella, crisp pepperoni cups, black olive rings, mushroom slices, green pepper strips, subtle herb flakes, chili oil gloss, and realistic tomato richness. The cheese pull must be long, heavy, layered, and physically believable, with varied strand thickness, translucent gloss, stretching tension, and molten pooling inside the box. The pizza box is premium matte black with clean sharp geometry, soft edge reflections, and refined gold brand printing on the front lip.
+
+Spatial staging and atmosphere: capture one exact frozen instant of launch. The slice tilts like a thrusting spacecraft, slightly rotated toward camera, with toppings fully seated and no visual collapse. The cheese forms the main movement axis. Add only a minimal amount of steam, faint heat haze, a few tiny ember-like particles, and subtle smoke around the base, kept sparse and controlled. The background remains a deep studio black with cinematic depth and no restaurant clutter, tablescape, plates, or extra props.
+
+Lighting and color: intense warm key light from upper right, soft controlled fill from front left, edge highlights across the crust and glossy cheese, and a faint amber glow catching the geometric launch linework. Build stronger light-dark contrast than standard food advertising so the slice feels sculptural and elevated, but avoid dirty shadows and dead black patches. Palette balance: 60% deep black and charred espresso tones, 30% amber-gold launch light and baked crust warmth, 10% red-orange pepperoni and green topping accents. The image should feel hot, premium, precise, and cinematic.
+
+Materials and finish: hyper-real food advertising texture with glossy melted cheese, crisp browned crust bubbles, realistic oil sheen, subtle smoke diffusion, matte-black coated cardboard box, and thin metallic gold print. The final finish should feel like a Cannes-level creative-agency poster where product realism meets conceptual brand design. The abstract orbital graphics should feel integrated into the atmosphere, not pasted over it.
+
+Typography: all copy in English only, art-directed and highly controlled. At the upper left place the brand mark reading exactly: "ORBIT FORGE". Below it set a small descriptor line reading exactly: "Brand strategy / creative systems / launch design". The main headline on the left reads exactly: "Ideas Rise Farther." with "Farther." in rich amber-gold emphasis. Supporting copy below reads exactly: "Strategy. Story. Heat. Momentum." Add a refined call-to-action line with a small circular arrow icon reading exactly: "BUILD THE NEXT LIFT-OFF". On the front lip of the pizza box print exactly: "ORBIT FORGE". At the lower left add a compact service line reading exactly: "BRANDING / CONTENT / SOCIAL / WEB" and beneath it the website line exactly: "ORBITFORGE.STUDIO". Typography should be bold, modern, premium, and spacious, with strict hierarchy and generous safe margins away from the pizza silhouette.
+
+Output and constraints: polished premium brand poster, product-led composition, real pizza photography fused with launch-themed strategic design, no copied slogans, no real brand names, no people, no extra props, no chaotic sparks, no excessive smoke, no random icons. Avoid malformed cheese geometry, duplicated toppings, floating ingredients, broken crust structure, unreadable text, cheap fast-food styling, oversharpened texture, muddy blacks, incorrect box perspective, inconsistent lighting, or any drift away from a high-end commercial advertising finish.
+```
+
+  </details>
+
+- **国家 DNA 双螺旋：[COUNTRY] 可替换纪念碑雕塑** — 把国家建筑/文化嵌进 DNA 双螺旋，国名做成实体金属字。文旅/国家形象 KV 换槽即用，附完整英文模板。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100487806481305998)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a breathtaking surreal architectural masterpiece where [COUNTRY] is transformed into a giant DNA double helix, with the word “[COUNTRY]” prominently integrated into the structure itself.
+
+The DNA helix rises vertically as a monumental futuristic sculpture. The two twisting strands are built from the architecture, culture, landscapes, landmarks, patterns, and visual identity of [COUNTRY]. Intricate miniature buildings, famous landmarks, traditional architecture, roads, bridges, transportation, mountains, rivers, plants, and cultural details naturally grow along the twisting DNA strands.
+
+The country name “[COUNTRY]” should be beautifully incorporated into the architecture, formed from elegant metallic architectural lettering near the center or lower section of the helix. The letters should feel physically built into the structure, with realistic depth, shadows, reflections, and architectural detailing — not like flat digital text.
+
+Make the DNA base pairs connect different cultural elements of the country, creating the feeling that the entire identity of [COUNTRY] is encoded into its DNA.
+
+Use sophisticated materials inspired by the country: stone, bronze, copper, glass, ceramic, and subtle illumination. Add tiny architectural details and floating particles around parts of the helix for a magical transformation effect.
+
+Minimal warm ivory background, soft cinematic studio lighting, elegant shadows, premium museum-installation aesthetic, photorealistic materials, ultra-detailed, surreal yet believable, visually striking and highly shareable.
+
+Composition: centered monumental hero sculpture, vertical 4:5, dramatic perspective, clean negative space, no people, no extra text, no logos, no watermark.
 ```
 
   </details>
@@ -3042,6 +3271,71 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **TARGET主图+REFERENCE身份锁：拼贴全格换脸** — 主图锁发型/服装/撕纸拼贴布局，参考图只迁脸。多格 scrapbook 身份替换公式写死，个人品牌拼贴改脸可抄。 [@warraich_Ai2](https://x.com/warraich_Ai2) · [原帖](https://x.com/warraich_Ai2/status/2100532000042140040)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create an image using the uploaded TARGET IMAGE as the exact master reference and the uploaded REFERENCE PHOTO as the identity reference.
+
+Replace the face identity of the main woman with the woman from the REFERENCE PHOTO.
+
+IMPORTANT — IDENTITY ONLY:
+Use the REFERENCE PHOTO only to transfer the woman's facial identity: face shape, eyes, eyebrows, nose, lips, cheeks, jawline, skin texture and natural facial proportions.
+
+Keep the TARGET IMAGE's hairstyle and messy bun, hair arrangement, body, physique, clothing, brown satin shirt, cream wide-leg trousers, brown belt, necklace, shoulder bag, poses, hand positions, expressions, accessories, and overall styling exactly as shown.
+
+The entire scrapbook collage must remain the same:
+- Same central full-body woman
+- Same surrounding photo cutouts
+- Same realistic and cartoon/chibi versions
+- Same poses and expressions
+- Same torn-paper collage layout
+- Same tape pieces
+- Same handwritten text and notes
+- Same hearts, stars, flowers and decorative elements
+- Same cat
+- Same background, colors, textures and vintage beige/brown aesthetic
+- Same composition, framing and aspect ratio
+
+Apply the new woman's face naturally to EVERY realistic and illustrated appearance of the woman throughout the collage, while maintaining the appropriate style of each individual image.
+
+Do not copy the reference woman's hairstyle, clothes, body, pose, background or accessories.
+
+Make the face replacement seamless and natural in every panel. Match each panel's lighting, angle, expression, skin tone, shadows, perspective and image style.
+
+FINAL RULE:
+TARGET IMAGE = everything.
+REFERENCE IMAGE = face identity only.
+Change nothing else.
+The final result must look like the original TARGET IMAGE, with only the woman's facial identity replaced by the woman from the reference photo.
+```
+
+  </details>
+
+- **日间高光CCD滨水通勤：结构化中文生活照** — 水上巴士站 / 玻璃候船亭 / 蓝绿河面，珊瑚橘上衣 + 清亮 CCD 槽位全写死。liyue 系列又补一张滨水通勤，小红书生活方式直接返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100528879521980501)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+摄影风格：日间清亮高光CCD生活照风
+写真方向：滨水通勤生活写真
+场景方向：城市水上巴士站 / 白色浮动站台 / 玻璃候船亭 / 蓝绿色河面 / 城市桥梁远景
+服装方向：珊瑚橘色方领修身短袖上衣 + 浅灰白包臀超短裙
+气质标签：明亮、都市、松弛、约会感、精致
+五官方向：温柔电影自然脸
+身形方向：轻盈纤细
+线条强调：强
+镜头方向：大腿及上半身
+姿态动作：靠近玻璃候船亭站立，一只手拿手机，另一只手自然垂落，视线从河面转向镜头
+光线氛围：晴天自然光 + 河面反射光 + 白色站台形成清亮补光
+滤镜效果：高亮清晰暖冷平衡CCD色彩 + 干净高光 + 明亮中间调 + 轻颗粒
+画幅比例：9:16
+补充要求：珊瑚橘鲜亮但不荧光，蓝绿水面负责制造清透感；整体更像都市周末出行，不要旅游宣传照，胸部饱满，胸线明显。
+```
+
+  </details>
+
 - **云端女友短标签：梦核 CCD 中文堆风格** — 「云端女友 × 漂浮城市 × 花瓣失重 × CCD彩色柔焦 × 盛夏天空梦核」——短标签堆风格，小红书式文案拆解直接能用。 [@chenlinspark](https://x.com/chenlinspark) · [原帖](https://x.com/chenlinspark/status/2100526173700653477)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -3059,6 +3353,62 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ```
 参照画像を元に、実写の写真を生成する。
 iPhoneで撮影したようなリアルで自然な画像を作成する。
+```
+
+  </details>
+
+- **韩系超市货架UGC：跟拍博主完整英文prompt** — 日系超市货架前、轻度遮挡的狗仔角 + Leica 胶片质感；韩系 Instagram 博主站姿与视线写死。UGC / 货架场景人像可直接改道具，附完整英文短 prompt。 [@BubbleBrain](https://x.com/BubbleBrain) · [原帖](https://x.com/BubbleBrain/status/2100522993277657438)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A Korean Instagram female influencer, fair-skinned beauty with a refined oval face, wearing a black oversized short-sleeve T-shirt on top and shorts on the bottom, standing in front of Japanese supermarket shelves and looking with interest at a vibrator. Slight foreground occlusion, paparazzi angle, 9:16, Leica film look with a slightly realistic texture.
+```
+
+  </details>
+
+- **婚礼棚拍+奢品金冠徽章：上传照锁姿势配方** — 大理石楼梯白礼服西装 + 右下角金冠盾牌字母徽章。婚礼/个人品牌 editorial 一次出样，附完整英文 prompt。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2100497484472836181)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Add a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.
+
+Use the uploaded photo as the visual and pose reference and create a hyper-realistic full-body luxury fashion portrait of an adult man standing confidently on a modern white marble staircase.
+
+Give him a clean low-cut haircut with a sharp natural hairline and make him completely clean-shaven — no beard, no mustache, no facial hair.
+
+Dress him in an elegant white tailored tuxedo jacket with satin lapels, a crisp white pleated dress shirt, a black bow tie, fitted black formal trousers, and polished black leather dress shoes. Add a premium black-and-gold wristwatch and subtle rings. Finish the look with sleek dark rectangular sunglasses.
+
+Recreate the relaxed sophisticated pose: standing midway on the staircase with one leg crossed naturally over the other, both hands lightly adjusting the front of the tuxedo jacket, shoulders relaxed, body facing forward, and a calm confident expression.
+
+Set the scene inside a bright, high-end contemporary home with white marble stairs, black metal railings, tall floor-to-ceiling windows, white walls, a modern wall light, and a green indoor plant in the background. Allow soft natural daylight to enter from the side, creating realistic highlights and gentle shadows across the staircase and clothing.
+
+Keep the composition clean, luxurious, and editorial with realistic skin texture, accurate body proportions, crisp fabric details, natural reflections on the shoes and sunglasses, professional fashion photography, shallow background separation, premium DSLR quality, ultra-detailed, photorealistic, 3:4 vertical aspect ratio.
+```
+
+  </details>
+
+- **山茶花高定全身像：坐标构图中英结构化配方** — 把发顶/眼/腰/裙摆百分比写死，巨型粉白山茶花当光晕；正面高定不翻背影。时装 editorial 控形范本，附完整长 prompt。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2100494084700094611)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a 676:1200 near-9:16 full-length cinematic couture portrait of a clearly adult East Asian woman, age 21, standing front-facing in a gentle three-quarter pose before one colossal fully opened powder-blush Chinese camellia. The composition is a refined studio fashion portrait with one complete standing figure, one gigantic flower halo, long wind-shaped chiffon, and a restrained monochromatic blush palette.
+
+COMPOSITION — ABSOLUTE PRIORITY: show the complete figure from hair top to the entire pooled train. Position her slightly right of center, occupying about 82% of the canvas height. Hair top at 12% of frame height, eyes at 18%, shoulders at 27%, waist at 42%, fingertips at 55%, knees at 68%, train ending at 94%. Her face remains relatively small. Center the colossal camellia directly behind her head and upper torso; it spans roughly 82% of the canvas width and extends from the top edge to below her hips. Long chiffon ribbons sweep from her waist and skirt toward the open left third of the frame.
+
+POSE — NON-NEGOTIABLE: this is not a back view, not an over-the-shoulder pose, and not a profile. Her sternum, the entire front of the pleated bodice, both collarbone lines, and the front waist construction must be clearly visible to camera. Rotate her torso only 20 degrees away from a straight frontal stance, with her left shoulder very slightly closer to camera and her right shoulder slightly farther back. Her weight rests on the rear leg and the opposite hip releases subtly. Her right arm hangs naturally along her right side with relaxed fingers; her left arm remains mostly behind the flowing skirt but must not pull the torso into a back view. Turn only her head toward camera-left in a restrained side glance while keeping the body front-facing.
+
+Preserve a delicate oval face, softly tapered jaw and chin, subtle cheek volume, straight fine nose, natural rose lips, almond-shaped dark eyes, pale warm-neutral skin, dark-brown high bun, and loose tendrils. Preserve believable natural East Asian proportions with a 7.4-head figure, slender shoulders, moderately long torso, natural waist placement, natural hips, and realistically proportioned legs. Do not enlarge the head, stretch the body, lengthen the legs, shrink the waist, or exaggerate curves.
+
+Dress her in a fully opaque pearl-blush silk-chiffon couture gown whose front construction is unmistakable: one narrow knotted strap on the camera-right shoulder, asymmetric diagonal neckline crossing the front chest, densely hand-pleated wrapped front bodice, shaped inner panels, fitted natural waist, and a very long floor-length skirt with a generous pooled train. Keep the back covered and visually secondary. Multiple translucent outer-chiffon streamers fly softly toward camera-left over an opaque lining. Fine vertical pleats run from waist to hem, producing a fluid column without unnatural height.
+
+The flower is unmistakably a powder-blush Chinese camellia: concentric orderly rounded waxy petals with gently curled edges, a compact warm-pink center, and pearly translucency at the thin edges. No peony, rose, lotus, magnolia, red flower, green leaves, branches, garden, water, or landscape. Add only six to ten pale blush petals suspended in the air and a few soft petals on the studio floor.
+
+LIGHT AND COLOR — ABSOLUTE PRIORITY: use only pearl blush, nude pink, shell pink, warm ivory, muted mauve-gray, and pale taupe. A large diffused upper-left key passes through a translucent scrim, softly backlighting the camellia and creating luminous petal edges. Broad frontal beauty fill keeps the face, collarbones, front bodice, waist pleats, and skirt clearly readable. Add a faint warm rim along hair and shoulder. Low contrast, lifted creamy shadows, soft highlight roll-off, subtle rose haze, refined matte editorial color. No golden sunset, orange cast, saturated red, green contamination, or dark dramatic shadows.
+
+Use an 85mm-equivalent lens at waist-to-chest camera height with generous distance, mild long-lens compression and minimal perspective distortion. Neutral seamless warm rose-gray studio background, photoreal skin, hands, chiffon, contact shadows and subtle floor reflection, fine film grain, no text, logo, watermark, signature, QR code, or UI.
 ```
 
   </details>
@@ -5246,6 +5596,28 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **球鞋×旅行袋对位海报：产品别干同一种活** — 一只鞋落地锐利读品，另一只从皮箱斜抽出 sole——产品对位叙事，不是两只鞋摆一起。旅行鞋履电商 KV 可直接改，附完整 prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100485040425832579)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A premium commercial poster for a fictional travel-footwear brand called DUNETRACK, designed as a luxury style-advertising image where a real product object and conceptual travel design are deeply fused into one clean, high-impact composition. The hero scene is built around a large caramel-brown full-grain leather duffel bag resting on a seamless warm sand-beige studio surface, slightly angled toward camera, with the zipper opened wide across the front. A pair of premium travel-trail sneakers emerges naturally from the bag as if mid-packing for a refined journey: one shoe fully grounded in the foreground and clearly dominant, the second shoe partially lifted from the bag opening with its heel and outsole visible, creating a confident diagonal rise. The products must remain the absolute visual focus.
+
+Framing and composition: vertical poster layout, centered and stable, eye-level three-quarter product angle, broad negative space in the upper half for brand and editorial typography, clean studio isolation, no clutter. The bag forms the main visual mass on the left and center, the hero shoe anchors the lower right, and the second shoe breaks the bag silhouette to create elegant motion. Integrate a subtle curator-grade environmental abstraction into the backdrop and floor: faint embossed topographic route lines, soft dune-shadow gradients, and barely visible map-like travel contours pressed into the beige background, so the scene feels like luxury travel branding rather than a plain product cutout. These graphic-terrain elements must stay minimal and never compete with the bag or shoes.
+
+Product design: create high-end trail-lifestyle sneakers in a desert-neutral luxury palette, combining warm ivory engineered mesh, sandstone matte rubber guards, soft taupe structural supports, restrained cool-grey branding marks, precision lacing, breathable woven texture, sculpted geometry, and a high-traction outsole with refined angular cutouts. The shoe should feel like a fusion of performance hiking, elevated airport travel, and modern lifestyle design. The leather duffel bag should be rich, supple, naturally creased full-grain leather with hand-finished seams, elegant handle construction, premium stitching, brushed brass hardware, and a small rectangular metal plaque engraved exactly: "GO FURTHER LIGHT".
+
+Lighting and color: soft directional studio key light from upper left, diffused and premium, with controlled highlights across the leather grain, crisp silhouette separation on the hero shoe, soft grounding shadows beneath the bag and outsole, and subtle reflected warmth from the studio floor. Build stronger tonal contrast than a normal e-commerce shot so the bag volume, rubber sole architecture, and mesh material transitions feel sculptural and editorial. Palette balance: 60% sand, camel, and warm beige neutrals; 30% caramel leather, toasted tan, and mineral taupe; 10% cool grey branding and deep charcoal outsole accents. The image must feel warm, refined, expensive, and tactile, with no muddy beige haze or dead black patches.
+
+Materials and finish: hyper-real product photography quality, leather pores, natural wrinkles, premium seam tension, realistic zipper teeth, softly brushed rubber texture, technical mesh weave, precise lace threading, matte-polished metal hardware, embossed map lines in the background, and elegant fine-grain studio retouching. The finish should feel like a Cannes-level campaign for a premium travel-performance label: luxurious, restrained, and highly physical.
+
+Typography: all copy in English only, integrated as premium editorial design. At the top center place the brand mark reading exactly: "DUNETRACK". Below it set a large refined headline reading exactly: "FIRST STEP, FARTHER". Beneath it place a smaller italic subline reading exactly: "made for the miles ahead". Near the right side of the product area place a small rounded badge reading exactly: "code: DUNE10". At the bottom center add the website line reading exactly: "dunetrack-journeys.com". Typography should combine elegant serif and clean modern sans-serif, with soft tonal contrast against the warm background, spacious kerning, and precise luxury alignment. Keep all text away from the main shoe silhouette and key material details.
+
+Output and constraints: polished luxury footwear advertisement, product-first hierarchy, no people, no extra props beyond the duffel bag and shoes, no random travel clutter, no copied existing slogans, no real brand names, no chaotic background graphics. Keep the shoes anatomically correct as products: accurate outsole structure, believable lace paths, consistent left-right pair logic, correct sole thickness, no duplicate soles, no broken mesh panels, no impossible angles, no floating products, no distorted bag geometry, no unreadable text, no muddy beige color cast, no cheap sportswear styling, no overexposed highlights, and no visual drift away from clean premium travel branding.
+```
+
+  </details>
+
 - **路边实拍车 → Marketplace 级棚拍成片** — input vs output：手机街拍洗成在线卖车超写实。电商/二手最痛「有货没图」，短 prompt 可直接塞进售卖流。 [@Rodrigo_Bubble](https://x.com/Rodrigo_Bubble) · [原帖](https://x.com/Rodrigo_Bubble/status/2100183263843393634)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -5568,6 +5940,43 @@ Diegetic audio: road noise while arriving, cola hiss, gulping, metal latch, volc
 
 [STYLE & QUALITY BOOSTERS]
 Photoreal handheld phone from inside a car, 3:4 vertical. Arriving motion then stop. Digital pinch-zooms only, continuous take. One man enters from the RIGHT on foot — never exits a vehicle. Empty jug fills on camera for a clear multi-second hold. Body launched to the vanishing point. Coherent liquid physics. Identity lock to [ref_image] for both trucks, the hole, and the in-car windshield framing.
+```
+
+  </details>
+
+- **1930s怪兽片制片管线：后投/定格木偶/手绘景片** — 不是「黑白滤镜」——理解后投、定格木偶表面、分层布景与胶片划痕整条制片管线。场景视觉史感配方，附可填槽完整 prompt。 [@xwyAdam](https://x.com/xwyAdam) · [原帖](https://x.com/xwyAdam/status/2100497825717174695)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a black-and-white frame from an imagined early-1930s studio adventure film, using handmade practical-effects miniatures and a stop-motion puppet.
+
+SCENE
+[Describe the setting, the action, and the placement of the subjects.]
+
+Frame the scene from within its story world, at the human characters’ eye level. The puppet represents a creature of immense size. Human characters read as live-action performers, with natural clothing and clearly staged reactions.
+
+CREATURE
+[Describe the creature through its silhouette, head shape, torso, limbs, posture, and tail.]
+
+Give it the physical presence of a hand-built articulated puppet: a clay-sculpted form reproduced in matte painted rubber, irregular raised surface patterns, thick compressed folds around the joints, shallow sculpting marks, and slight asymmetry.
+
+Teeth and claws have a subtly carved, painted finish. Its pose feels heavy, deliberate, and faintly stiff. Its menace comes from its mass, expression, and proximity to the people.
+
+SET
+Build [the environment] as a miniature studio set in distinct depth layers: dark, softly blurred foreground pieces partially obscure the frame; tangible middle-ground scenery surrounds the action; overlapping scenic flats and a softly painted backdrop form the distance.
+
+Use [scene-appropriate handmade props and materials]. Let the distant scenery retain a slightly flat, painted quality, with pale theatrical haze separating the layers.
+
+PHOTOGRAPHY
+Use a restrained, frontal wide composition with the main figures fully readable. Broad studio lighting reveals the puppet’s coarse surface and the solid construction of the scenery.
+
+Keep the action plane legible, with foreground softness and a gently softened background. Unify the performers, puppet, and scenery through matching light, shadows, and monochrome tones.
+
+FINISH
+Soft optical detail, rich charcoal shadows, silvery midtones, modest film grain, sparse fine vertical scratches, and lightly worn frame edges.
+
+Preserve the handmade surface detail beneath the film texture. Fill the frame with the fictional world and maintain its enormous implied scale.
 ```
 
   </details>
@@ -6603,6 +7012,80 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 像素、精灵表与动效向玩法。
 
+- **Image2.5任务精灵表：11格分镜→成片管线** — 先用 Image 2.5 出带 HUD/小地图/倒计时的 11 格任务分镜，再喂视频模型成片。开放世界任务短片流水线可抄，附分镜核心 prompt。 [@Raul_IA_Prod](https://x.com/Raul_IA_Prod) · [原帖](https://x.com/Raul_IA_Prod/status/2100521058331759057)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create ONE professional storyboard sheet containing EXACTLY 11 sequential 16:9 frames for a 30-second fictional open-world video game mission.
+
+CORE CONCEPT:
+This must look like actual gameplay from a fictional next-generation open-world action game, NOT a cinematic movie trailer.
+
+The player is completing a timed delivery mission in a fictional tropical coastal American city.
+
+MISSION:
+“ENTREGA EXPRÉS”
+Objective: deliver a package to the port before the timer reaches zero.
+
+The storyboard must clearly communicate:
+mission received → travel toward objective → obstacle → route change → unexpected NPC event → progress → arrival → delivery → mission completed → reward.
+
+VISUAL STYLE:
+Photorealistic next-generation AAA open-world game graphics.
+Tropical coastal city, palm trees, beaches, neon hotels, traffic, pedestrians, downtown skyline, port and ocean.
+Late golden hour transitioning naturally into early evening.
+
+ORIGINAL GAME HUD:
+Every gameplay frame should use the SAME original interface design.
+
+Include:
+- circular minimap in bottom-left corner
+- orange GPS route
+- destination marker
+- subtle health/energy bar
+- countdown timer
+- distance to objective
+- money/points indicator
+
+The HUD must feel polished and believable but MUST NOT copy the interface of any existing video game.
+
+Use orange as the primary accent color for mission markers, GPS route, progress indicators and important HUD elements.
+
+STRICT CONTINUITY:
+Same adult female protagonist throughout.
+Long dark brown wavy hair, white fitted tank top, blue jeans, white sneakers, gold hoop earrings.
+
+Same bright orange sports car throughout.
+Identical design, paint, wheels and interior in every frame.
+
+Same city, weather and continuous sunset lighting.
+
+STORYBOARD FRAMES 01–11:
+01 Mission start outside convenience store — receive package, “NUEVA MISIÓN / ENTREGA EXPRÉS”, timer 00:30
+02 Run to orange sports car — distance 1.8 km, timer 00:27
+03 Departure onto boulevard — distance 1.5 km, timer 00:24
+04 Progress through tropical city — distance 1.2 km, timer 00:21
+05 Obstacle: delivery truck blocks road — “RUTA BLOQUEADA”, timer 00:18
+06 Route updated into side street — “RUTA ACTUALIZADA”, distance 850 m, timer 00:15
+07 Unexpected NPC on crosswalk — brake safely, timer 00:12, distance 620 m
+08 Final push along coastal road to port — distance 350 m, timer 00:09
+09 Destination zone at port — distance 50 m, timer 00:05
+10 Delivery to waiting NPC — “PAQUETE ENTREGADO ✓”, timer stops ~00:02
+11 Mission complete — “MISIÓN COMPLETADA / +2.500 / REPUTACIÓN +”
+
+CRITICAL:
+Timer and distance must decrease logically across frames.
+Keep HUD design, typography, placement and scale visually consistent.
+Most shots use recognizable third-person gameplay camera, not cinematic trailer angles.
+No existing game logos, no GTA UI, no weapons, no collisions, no violence, no watermark.
+Exactly 11 storyboard panels, numbered 01–11.
+
+(Pipeline note: feed this sheet to a video model as reference for continuous third-person gameplay; keep HUD/minimap/orange GPS locked.)
+```
+
+  </details>
+
 - **精灵表能打，动效会翻车：Image 2.5 诚实对照** — spritesheet 仍是他见过最稳的图像模型，但某些动作类型会惨烈失败；同帖并排自家动画模型 12 帧。做游戏素材/表情包先看这条能力边界。 [@GrilliotTodd](https://x.com/GrilliotTodd) · [原帖](https://x.com/GrilliotTodd/status/2100335015100043300)
 
 - **16 格舞姿分镜→Wan 3.0 连续动画** — 先用 Image 2.5 铺 16-panel 动作表，再 Wan 3.0 整段成片。分镜当运动规划，比瞎生成省后悔。 [@SeeGen_Official](https://x.com/SeeGen_Official) · [原帖](https://x.com/SeeGen_Official/status/2100102904011190648)
@@ -6984,6 +7467,21 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **先锁UI完成图再写代码：Image2.5→Claude Artifact** — 先用 Image 2.5 钉死 UI 方向，再让 Claude Code Artifact 出 3 案、人只改差分。实现/token 体感约 1/3，产品落地页与后台 mock 工作流值得抄。 [@hata_AI_master](https://x.com/hata_AI_master) · [原帖](https://x.com/hata_AI_master/status/2100536994598465775)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Workflow (Image 2.5 → Claude Code Artifact UI):
+1) First generate a finished UI visual with GPT Image 2.5 to lock direction.
+2) Ask Claude Code Artifact for ~3 UI variants.
+3) Human picks the best; only patch the delta.
+
+Why: less token churn than coding UI from words alone; fewer misaligned redesign loops; ~1/3 time/tokens in practice.
+```
+
+  </details>
 
 - **Image 2.5 分层资产 → Astra 视差沉浸站** — 先用 2.5 出场景分层，再 Astra 做滚动视差/遮挡/转场。一人队做「走进画面」落地页的现成链路。 [@happycapyai](https://x.com/happycapyai) · [原帖](https://x.com/happycapyai/status/2100194873529991441)
 
