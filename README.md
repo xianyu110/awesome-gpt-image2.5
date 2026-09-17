@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 439 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 441 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -2912,6 +2912,176 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 - **Flare 超写实相册：空乘 / 夜城角色连拍** — GPT-Image-2.5 Flare × Minicut：同一角色跨机舱、夜雨、便利店连拍成「真人相册」。虚拟 IP 要生活感九宫格，先看这条一致性。 [@minicut_ai](https://x.com/minicut_ai) · [原帖](https://x.com/minicut_ai/status/2100383868138229962)
 
 - **Flare 出人 + PS 生成笔刷贴装饰** — 先用 Flare 出人物底图，再用 Photoshop 生成笔刷沿轨迹贴闪粉装饰。一发生成打不中的局部点缀，混合流省掉 prompt 抽卡。 [@wataco_ai](https://x.com/wataco_ai) · [原帖](https://x.com/wataco_ai/status/2100367756906660269)
+
+- **真人照只把人变成黑白贴纸：局部编辑配方** — 场景保持写实摄影，人物改成黑白手绘 die-cut 贴纸；must-stay 背景写死。UGC/活动传播很好用，附完整分节 prompt。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2100316768795283577)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Transform the provided reference photograph into a mixed-media editorial image while preserving the original photographic scene as faithfully as possible.
+
+1. PHOTOGRAPHIC BACKGROUND — DO NOT CHANGE
+Preserve the original photograph exactly as the visual foundation.
+Keep unchanged:
+original composition and framing
+camera angle and perspective
+focal length and viewing distance
+spatial relationships and proportions
+buildings, streets, architecture and interior
+furniture, objects and environmental details
+background geometry
+materials and surface textures
+natural lighting
+highlights and shadows
+reflections
+depth and perspective
+atmospheric conditions
+photographic color and exposure
+realistic photographic texture
+
+The entire background must remain fully photographic, realistic and highly detailed.
+Do not repaint, redraw, simplify, blur, stylize, cartoonize or replace the background.
+Do not turn the entire image into an illustration.
+The contrast between the real photographic environment and the flat illustrated characters is essential.
+
+2. CHARACTERS — CHANGE ONLY THE PEOPLE
+Transform every person visible in the reference photograph into a minimalist black-and-white hand-drawn sticker.
+Preserve the exact number of people. Never omit, merge, duplicate or replace anyone.
+For every person, preserve:
+exact pose
+body position
+gesture
+action
+direction of movement
+head angle
+gaze direction
+body proportions
+relative scale
+position within the scene
+interaction with other people and objects
+recognizable hairstyle and silhouette
+basic facial structure
+characteristic clothing shapes
+distinctive clothing details
+accessories and important visual features
+
+The illustrated people must remain precisely integrated into their original positions in the photograph.
+Do not invent new poses or change the action.
+Do not make the characters more beautiful, younger, thinner, taller or otherwise alter their natural appearance.
+
+3. CHARACTER ILLUSTRATION STYLE
+Render the characters as minimalist monochrome hand-drawn stickers.
+Style:
+one-line hand-drawn illustration
+loose editorial sketch
+minimalist black ink drawing
+slightly uneven natural linework
+imperfect handmade strokes
+rough but intentional contours
+simple expressive lines
+flat 2D illustration
+contemporary Instagram/editorial collage aesthetic
+subtle graffiti-sketch influence
+handmade paper-sticker feeling
+
+The drawing should look humanly sketched rather than digitally vectorized.
+Lines should be slightly irregular, organic and imperfect.
+Avoid overly polished cartoon outlines.
+
+4. PURE BLACK & WHITE
+Use only pure black and pure white for the illustrated characters.
+No gray. No color. No gradients. No semi-transparent shading. No colored outlines.
+Use clean black lines on white sticker areas.
+Small solid black filled areas are allowed only where visually necessary:
+hair
+deep clothing folds
+eyelashes
+small shadows
+selected facial or clothing details
+
+Keep the illustration predominantly white with economical black linework.
+Do not use realistic skin tones or photographic colors on the characters.
+
+5. STICKER CUTOUT EFFECT
+Surround each individual character with a clean, continuous white sticker border.
+The white border should:
+follow the character silhouette
+have a consistent thickness
+look like a physical die-cut sticker
+clearly separate the illustrated character from the photographic background
+remain visible around the entire character where possible
+
+The border must be white and clean, not gray, beige or translucent.
+Characters should look like physical paper stickers placed directly onto the photograph.
+Do not create rectangular sticker backgrounds.
+Do not place the characters inside white boxes or panels.
+
+6. INTEGRATION WITH THE PHOTOGRAPH
+The characters must appear naturally positioned on top of the original photographic environment.
+Preserve the original spatial logic of the photograph.
+Their scale and placement must correspond exactly to the people in the reference.
+The photographic environment remains three-dimensional and realistic, while the people become flat 2D black-and-white illustrations.
+This intentional visual collision is the core of the style:
+REAL PHOTOGRAPH + HAND-DRAWN BLACK-AND-WHITE STICKER PEOPLE.
+Do not stylize the environment to match the characters.
+Do not add illustrated objects to the background.
+Do not convert surrounding objects into stickers.
+
+7. MIXED-MEDIA AESTHETIC
+Overall visual language:
+documentary photography + minimalist ink sketch + die-cut stickers + editorial paper collage + contemporary Instagram aesthetic + mixed media.
+The result should feel like an artistic editorial photograph where real people have been replaced by handmade monochrome paper illustrations.
+The image should look sophisticated, slightly playful and intentionally imperfect rather than childish or cartoon-like.
+
+8. IMAGE QUALITY
+High-resolution final image.
+Extremely sharp photographic background with:
+realistic textures
+fine environmental details
+natural photographic depth
+crisp architecture
+realistic materials
+high micro-detail
+
+Illustrated characters should have:
+crisp black linework
+clean white sticker borders
+visible handmade imperfections
+strong separation from the photographic background
+
+Do not reduce the photographic quality of the original environment.
+
+9. STRICT PRESERVATION RULE
+CHANGE ONLY THE CHARACTERS.
+Everything else must remain as close as possible to the original photograph.
+No changes to:
+background
+architecture
+objects
+lighting
+shadows
+perspective
+composition
+camera angle
+environment
+photographic textures
+weather
+time of day
+
+Only the people are transformed into black-and-white hand-drawn stickers.
+
+FORMAT
+Vertical composition.
+Aspect ratio: 3:4 or 9:16, depending on the selected output format.
+Do not crop out any important person or essential part of the original scene.
+
+KEY PRINCIPLE:
+Original photograph remains photographic.
+People become black-and-white hand-drawn stickers.
+Nothing else is redesigned.
+```
+
+  </details>
 
 - **唐风宫廊读信：9:16 半身近景配方** — 杏粉襦裙 × 青灰披帛 × 薄绢书信，85mm/f1.8 写死光色。国风人像种草/短剧封面直接返工。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100205250825380199)
   <details>
@@ -6024,6 +6194,8 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **精灵表能打，动效会翻车：Image 2.5 诚实对照** — spritesheet 仍是他见过最稳的图像模型，但某些动作类型会惨烈失败；同帖并排自家动画模型 12 帧。做游戏素材/表情包先看这条能力边界。 [@GrilliotTodd](https://x.com/GrilliotTodd) · [原帖](https://x.com/GrilliotTodd/status/2100335015100043300)
 
 - **16 格舞姿分镜→Wan 3.0 连续动画** — 先用 Image 2.5 铺 16-panel 动作表，再 Wan 3.0 整段成片。分镜当运动规划，比瞎生成省后悔。 [@SeeGen_Official](https://x.com/SeeGen_Official) · [原帖](https://x.com/SeeGen_Official/status/2100102904011190648)
 
