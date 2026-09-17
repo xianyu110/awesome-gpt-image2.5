@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 441 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 444 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -852,6 +852,113 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **东方禅意极简封面：中文结构化海报配方** — 古风女子+低榻珠帘，奶白基底点缀葡萄紫/青柠绿；9:16 留白标题区写死。女性向封面/小红书竖版可直接返图，附完整中文分节 prompt。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100462806281941187)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主题方向：东方禅意极简封面海报
+风格分支：女性审美精致型
+主体内容：一位古风女子坐在低榻上，手边放着一本合起的小册子
+情绪母题：安静、柔美、精致松弛感
+场景与意象：极简珠帘、低榻、葡萄紫软垫、青柠绿小枝叶、女子
+构图与空间：9:16 竖版构图，低榻位于下方，珠帘从上方垂落形成柔和纵向节奏，中上部保留留白
+色彩控制：奶白作为整体基底，葡萄紫用于软垫和局部点缀，青柠绿用于少量枝叶，人物服装建议珍珠白或浅紫白；避免全图泛紫
+光线与质感：明亮室内柔光，轮廓清晰，低灰度，干净平面海报感
+画幅比例：9:16
+补充要求：整体要有精致女性感和封面感，珠帘要简洁，不要宫廷繁复感，画面留白处配上合适的艺术文字 。
+```
+
+  </details>
+
+- **和纸胶带旅行拼贴：可替换地点模板** — 把 [COUNTRY / LOCATION / SUBJECT] 换成任意目的地，10–18 条 washi tape 拼出地标；文旅/文具品牌向 3:4 竖版，附完整可替换模板 prompt。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100452165416374277)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create one premium 3:4 vertical washi-tape collage artwork for [COUNTRY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE GENERATION ONLY. Generate the complete artwork from “[COUNTRY / LOCATION / SUBJECT]” alone. No reference image or additional visual input is required.
+
+MAIN CONCEPT
+
+Automatically interpret [COUNTRY / LOCATION / SUBJECT] and identify its most recognizable subject, silhouette, structure, pose, colors, shapes, and defining visual characteristics.
+
+Reconstruct that subject entirely from approximately 10–18 pieces of Japanese washi tape, using different widths, lengths, directions, cuts, and overlaps to form one instantly recognizable flat collage.
+
+The tape arrangement should feel intentionally handmade while accurately expressing the identity of [COUNTRY / LOCATION / SUBJECT].
+
+WASHI TAPE MATERIAL
+
+Use authentic Japanese washi tape characteristics:
+
+Slight translucency and natural overlapping
+
+Fine paper-fiber texture
+
+Soft paper thickness
+
+Irregular hand-torn edges
+
+Subtle contact shadows
+
+Simple solid colors or understated basic patterns
+
+Natural layering and slight imperfections
+
+Avoid complex patterns and excessive decoration.
+
+COLOR
+
+Automatically select a refined palette based on the visual identity of [COUNTRY / LOCATION / SUBJECT].
+
+Use a limited number of clear, harmonious colors that make the subject recognizable. Allow overlapping translucent tape to naturally create subtle color variations.
+
+COMPOSITION
+
+Place the completed washi-tape subject prominently on a clean warm-white journal-paper background.
+
+Maintain generous negative space around the artwork.
+
+Keep the composition elegant, balanced, minimal, and carefully designed—like a premium Japanese stationery brand, independent design magazine, or gallery-quality handmade collage.
+
+Do not fill the entire canvas.
+
+BACKGROUND
+
+Use warm white, ivory, or natural off-white paper with extremely subtle paper fibers and gentle material variation.
+
+Keep the background clean, smooth, and low-contrast.
+
+No stains, yellowed-paper effect, heavy aging, repetitive textures, or distracting details.
+
+TYPOGRAPHY
+
+Automatically create one short English title of 1–3 words inspired by [COUNTRY / LOCATION / SUBJECT].
+
+Keep it small and secondary to the collage.
+
+Use refined, minimal typography and position it where it naturally balances the composition. Remove the title entirely if it would weaken the design.
+
+FINAL AESTHETIC
+
+Create a sophisticated combination of:
+
+Japanese washi tape × handmade paper craft × minimalist editorial design × tactile collage × premium stationery aesthetic.
+
+The artwork should feel clean, delicate, contemporary, handmade, and highly intentional, while the subject remains immediately recognizable.
+
+AVOID
+
+No stickers, cards, stamps, tickets, envelopes, tape rolls, scissors, hands, desks, craft tools, scrapbook clutter, heavy shadows, 3D plastic, oil painting, cartoon rendering, dirty backgrounds, excessive decoration, or photorealistic objects.
+
+STRICT 3:4 VERTICAL | TEXT-ONLY GENERATION | 10–18 WASHI TAPE PIECES | CLEAN WARM-WHITE BACKGROUND | GENEROUS NEGATIVE SPACE | PREMIUM JAPANESE EDITORIAL DESIGN.
+
+Generate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone. Do not request or require an image.
+```
+
+  </details>
 
 - **经典 Logo 膨胀成 3D 雕塑海报** — Apple / Nike / Adidas / Pepsi：3D 充气雕塑 + 超大字 + 褶皱纸 + 半调 + 套准十字。品牌 KV 想「又潮又脏」直接抄这套图层语法。 [@ShamsAmin56](https://x.com/ShamsAmin56) · [原帖](https://x.com/ShamsAmin56/status/2100322168185974959)
 
@@ -2906,6 +3013,26 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **9:16 街拍时尚：涂鸦墙+粉发猫伴完整 prompt** — 粉发格子衫女孩靠涂鸦墙，脚边围巾猫，黄金时段长影；街拍/种草竖版成片配方一次抄完，附完整英文 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100457864431022513)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create an ultra-realistic vertical 9:16 cinematic street-fashion photograph of a young woman standing casually beside a warm beige concrete wall covered with charming hand-drawn black pencil-style doodles.
+
+The woman has a short pastel pink bob haircut with soft layered ends and natural texture. She wears a loose red and black plaid flannel shirt over a simple white top, relaxed light-wash wide-leg jeans, and clean white sneakers. Her hands are casually tucked into her jeans pockets, her body slightly angled, with a soft confident smile and relaxed natural expression.
+
+Behind her, the wall features a large hand-drawn anime-style girl illustration with a short bob haircut, winking face and both hands making peace signs, surrounded by small hearts, stars, flowers and playful doodles. The illustrated character should feel like a charming handmade wall sketch.
+
+A cute chubby gray-and-white cat sits beside the woman's feet in the foreground, wearing a small red-and-white gingham scarf around its neck, looking directly toward the camera.
+
+Late-afternoon golden sunlight creates long dramatic shadows across the wall and pavement, including the woman's realistic shadow blending naturally with the wall illustration. Warm beige and muted earthy tones, soft golden-hour glow, subtle film grain, realistic skin texture, natural fabric details, authentic street photography, cinematic lighting, shallow depth of field, realistic proportions, highly detailed, photorealistic, editorial fashion photography, candid yet carefully composed.
+
+Full-body composition, woman and cat completely visible, vertical framing, camera at approximately eye level, natural perspective, premium photography quality, 8K detail, no text, no watermark.
+```
+
+  </details>
 
 - **穿搭解析 Skill → 8 组 prompt：字肤未翻车** — 扔一张造型照，Skill 拆出 8 组镜头；2.5 成片文字和皮肤没翻车。种草号要「拆穿搭」流水线，这条比单条 prompt 更像工厂。 [@alanblogsooooo](https://x.com/alanblogsooooo) · [原帖](https://x.com/alanblogsooooo/status/2100390529712193695)
 
