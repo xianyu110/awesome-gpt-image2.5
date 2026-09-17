@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 444 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 448 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -3014,6 +3014,131 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **浮窗云中肖像：身份锁超现实 editorial** — 参考图锁脸妆发衣着，人从悬浮复古窗探入积云；4:5 超现实时尚大片模板。换自拍就能出人设海报，附完整身份锁英文 prompt。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2100479875836706871)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+REFERENCE-BASED IDENTITY LOCK:
+
+Use the uploaded reference image as the primary identity reference.
+Preserve the person's exact facial identity, face shape, hairstyle,
+skin tone, facial features, age appearance, and natural expression.
+
+The subject can be male or female. Do not change the person's gender,
+facial structure, hairstyle, or identity. Preserve the exact clothing
+and outfit visible in the reference image, including colors, materials,
+fit, and details. Do not add a turban, hat, or accessories that are
+not present in the reference.
+
+CREATIVE CONCEPT:
+
+Create an ultra-realistic, surreal cinematic fantasy scene featuring
+the reference person emerging through an old floating architectural
+window suspended in the sky.
+
+The subject is positioned naturally inside an elevated vintage window
+with both weathered teal-blue wooden shutters opened outward.
+The person leans slightly outside the window, extending one arm
+gracefully into the surrounding clouds, creating a sense of freedom,
+wonder, and dreamlike exploration.
+
+ENVIRONMENT & WORLD BUILDING:
+
+The entire window structure floats independently in an endless sky.
+Massive, soft, voluminous white cumulus clouds surround the window,
+partially wrapping around its frame and extending into the background.
+
+The window features realistic aged wood, subtle weathering,
+natural paint texture, detailed hinges, a deep interior opening,
+and a slightly protruding lower window ledge.
+
+The sky is an expansive, vibrant turquoise-blue with soft atmospheric
+depth and scattered clouds at varying distances.
+
+COMPOSITION:
+
+Vertical 4:5 editorial composition.
+The floating window and person are the central focal point.
+Use a slightly low, eye-level cinematic perspective.
+Create a balanced composition with negative space around the subject.
+Clouds naturally frame the architecture without obscuring the face.
+
+LIGHTING:
+
+Bright natural daylight with soft diffused sunlight.
+Realistic sunlight interacting with the clouds, window frame,
+and subject's skin and clothing.
+Natural shadows, subtle atmospheric scattering, and realistic
+light reflections.
+
+VISUAL QUALITY:
+
+Ultra-photorealistic cinematic fantasy photography.
+Extremely detailed skin texture, natural hair strands,
+realistic fabric behavior, physically accurate cloud formations,
+high-fidelity architectural textures, and authentic depth.
+
+The final image should look like a premium surreal fashion editorial
+photograph captured in a real floating environment, not a 3D render,
+cartoon, or artificial composite.
+
+CAMERA & OUTPUT:
+
+Full-frame cinematic photography.
+Natural perspective, realistic depth of field, high dynamic range,
+professional editorial composition, and refined tonal balance.
+
+Ultra-HD detail, 16K-quality visual fidelity, crisp textures,
+realistic atmospheric depth, and clean professional finishing.
+
+ASPECT RATIO: 4:5 vertical.
+
+Do not change the reference person's identity, face, gender,
+hairstyle, skin tone, or clothing.
+
+No extra fingers, deformed hands, duplicated limbs,
+distorted face, artificial skin, plastic appearance,
+cartoon style, CGI look, low-resolution details,
+unrealistic cloud textures, floating body parts,
+incorrect anatomy, excessive blur, oversaturation,
+unwanted accessories, added turban, hat, or jewelry,
+unless present in the reference image.
+```
+
+  </details>
+
+- **清冷古风美妆特写：幽兰花影中文结构化配方** — 兰庭+黑木屏风+一枝兰，墨茶棕眼妆与冷玫瑰豆沙唇；9:16 极简贵女特写。美妆/古风人设竖版可直接返图，附完整中文分节 prompt。 [@AndyLau42](https://x.com/AndyLau42) · [原帖](https://x.com/AndyLau42/status/2100478461395538422)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主题风格： 古风极简高级美妆特写
+身份气质： 名门小姐，端庄、理性、清贵、教养感强
+妆感目标： 素墨兰庭雅致妆
+五官方向： 高级耐看脸，五官比例端正，修长杏眼，面中饱满，鼻型清秀，唇形克制丰润
+发型与发饰方向： 乌发整洁低盘，墨玉兰花簪、白色贝母小梳、单颗珍珠耳饰
+服装方向： 素黑青窄袖上襦，搭配骨白色长裙与兰灰色云肩
+场景方向： 极简兰庭 / 黑木屏风 / 白墙 / 一枝兰花
+镜头方向： 美妆特写，正面端坐，眼神平静直视镜头
+画幅比例： 9:16
+创意自由度： 保守
+补充要求： 眼妆使用墨茶棕、灰粉和极少珠光，腮红位置克制，唇色为冷玫瑰豆沙；妆后呈现端庄、理性、极有教养的贵女感。胸部饱满自然，胸线明显，画面元素尽量少，靠五官、妆容和气质撑住画面。
+```
+
+  </details>
+
+- **复古胶片时尚：麦田奔跑侧影完整 prompt** — 芥末黄衬衫+绯红 A 字裙跑过绿野，手捧红玫瑰；80–90s 胶片颗粒与红黄撞色一次写死。时尚种草/竖版成片可直接返图，附完整英文 prompt。 [@mehvishs25](https://x.com/mehvishs25) · [原帖](https://x.com/mehvishs25/status/2100474309764640921)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a cinematic, photorealistic fashion photograph of a young Asian woman captured in elegant side profile as she runs through a wide, lush green meadow, carrying a beautiful bouquet of long-stemmed red roses. Her outfit combines vintage charm with bold retro styling: a vibrant mustard-yellow button-down shirt with long sleeves, a deep crimson knee-length A-line skirt, matching red knee-high socks, and yellow round-toe pumps with a modest heel. A yellow vintage bandana is tied over her long, flowing dark wavy hair, complemented by striking oversized circular yellow earrings.
+The scene evokes the nostalgic look of 1980s–1990s analog film photography, featuring deep green tones, vivid red and yellow color contrasts, soft diffused daylight, and a subtly moody outdoor atmosphere. Capture her natural movement, flowing hair, and the gentle motion of the roses with an artistic editorial composition. Add authentic fine-grain film texture, soft tonal transitions, slightly muted highlights, and a timeless vintage aesthetic. High detail, realistic skin texture, natural motion, cinematic framing, and professional fashion photography.
+```
+
+  </details>
+
 - **9:16 街拍时尚：涂鸦墙+粉发猫伴完整 prompt** — 粉发格子衫女孩靠涂鸦墙，脚边围巾猫，黄金时段长影；街拍/种草竖版成片配方一次抄完，附完整英文 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100457864431022513)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -5323,6 +5448,39 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **六零年代巨人之地：Image2.5+Seedance 风格锁短片** — STYLE/CHARACTER/SETTING 三锁 + 30 秒分镜秒表，复刻 1968 电视审美的桌面巨人短片。Image 2.5 出静帧再喂 Seedance，广告片/概念片管线可整段抄。 [@oggii_0](https://x.com/oggii_0) · [原帖](https://x.com/oggii_0/status/2100474286599500015)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+16:9 widescreen, 30 seconds, Dola Continuous Engine.
+STYLE LOCK: Inspired by classic late-1960s Irwin Allen television production "Land of the Giants". Authentic 1968 television aesthetic. Practical miniature sets. Optical compositing. Slight matte-line separation between actress and background. Rear-projection feel. Eastmancolor television colors: warm skin, saturated red and yellow, slightly cyan shadows. Soft image sharpness. Mild film grain. Analog broadcast texture. Vintage studio lighting: one hard key from upper left, warm fill from the right, no rim light. Camera: static wide shots and slow television zoom lens only. No handheld. No modern lens flare.
+CHARACTER LOCK: @[Image 1](image_1)  is the only person. She remains identical in every frame:  1960s Korean mini dress  with [sleeve and neckline  classic 1960s makeup with winged liner and pale pink lips, white heels. Dress, hair, makeup and shoes never change .
+SETTING LOCK: an enormous 1960s dining table seen from her scale; she is the size of a salt shaker. White tablecloth hanging from the edge to the floor in long vertical folds. On the tabletop from left to right: a tall glass of milk with condensation beads, a giant slice of chocolate layer cake with thick frosting and a single lit birthday candle, a large silver spoon and fork crossed beside it, a bowl of vanilla ice cream with one huge cherry on top, a folded white napkin. Warm wooden tabletop. Pale yellow wall in the background. Props are practical scale with slightly soft edges.
+0–4 seconds:
+Static wide from floor level. The tiny woman climbs the hanging tablecloth, gripping the folds with both hands, one heel finding a fold below her. The cloth sways slightly under her weight. She looks up toward the table edge.
+4–7 seconds:
+Slow zoom in as she pulls herself over the edge, kneels, then stands upright on the tabletop. Her eyes widen and her mouth opens, gaze drawn toward the flickering candle flame on the cake. Her hands stay half raised.
+7–11 seconds:
+Static wide from behind her at her eye level. The dessert spread stretches across the table like a city skyline: the cake slice looms like a frosted mountain, the candle flame taller than she is, the milk glass glowing like a white tower, the spoon lying across the foreground like a bridge.
+11–15 seconds:
+She walks toward the cake, heels tapping the tabletop. Thick ridges of frosting drip down its side. The lit candle flickers above, casting warm moving light across her face. She touches the frosting edge with one hand and looks up along the flame.
+15–19 seconds:
+She climbs onto the cake's bottom layer, sits, scoops a bit of frosting with both hands, smiles, tastes it, licks her fingers, and looks left and right. Medium shot, slow zoom in to her face, candlelight flickering warmly on her skin.
+19–23 seconds:
+She stands and walks farther across the tabletop, stepping around the giant cherry from the ice cream bowl, passing between the spoon and the napkin. Static wide, then a slow pan following her.
+23–26 seconds:
+She stops beside the milk glass, looks up along the tall glass, and laughs with one hand resting on it. Condensation beads glisten and catch the light on her face.
+26–28 seconds:
+A massive shadow sweeps across the tabletop from the right and covers the milk glass and the cake. Her laugh stops. She lowers her hand and turns to face the right side of frame.
+28–30 seconds:
+HOLD. Camera fully static medium-wide shot. She stands facing screen right, feet together, right hand half raised at chest height, left hand at her side. The milk glass directly at her left, the cake slice behind her, the shadow across the whole tabletop. Her face is turned to the right, not yet tilted upward. Nothing moves for two full seconds.
+Audio
+Cheerful 1960s adventure television music, playful brass and strings. At 26 seconds the music thins to one held string note that continues to the end, with a faint fading birthday-music-box
+```
+
+  </details>
 
 - **Seedance × Image 2.5：拳击短片对打广告** — Image 2.5 出视觉 + Seedance 2.5 成片，拳击对打叙事完整。一人团队做产品对打广告的现成动静链路。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2100177103991787826)
 
