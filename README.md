@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 448 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 452 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -852,6 +852,34 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **饮料口味 2×2 栅格广告：只改 flavor 变量** — 等分四格、同杯比例、固定标题区与角标、白缝对齐——结构锁死只换口味色与道具。系列产品海报/FMCG 战役板可直接抄，附完整英文 campaign prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100525164324913662)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium commercial poster board for a fictional ice cream brand called JOYDRIFT SCOOP, redesigned into a unified four-panel campaign grid that merges Orbit-level commercial punch with Port-level curated restraint. The full composition is a strict 2x2 poster system on a soft sky-blue master background, with four equal rectangular panels, clean white gutters, perfect alignment, and a highly controlled visual rhythm. Each panel behaves like an individual flavor advertisement, but the whole page reads as one collectible brand campaign with stronger hierarchy, cleaner negative space, larger typography, fewer decorative distractions, and a more gallery-like sense of control. The ice cream remains the absolute hero in every panel.
+
+The campaign concept is flavor as mood architecture. Each panel contains one centered or lower-centered hero scoop in a branded paper cup, oversized custom display typography, one concise support line, a few restrained doodle accents, and only the most essential ingredient props. Keep the composition bold, product-led, playful, and premium. Reduce unnecessary splash clutter and busy micro-elements; every graphic mark must support the scoop, not compete with it.
+
+Panel system:
+Top-left panel: cookies-and-cream scoop in a branded paper cup, cool blue-and-cream flavor world, minimal cookie crumb accents, campaign headline exactly: "COLD START CLUB". Support copy exactly: "Crunchy calm, creamy confidence."
+Top-right panel: rich chocolate scoop in a branded cup with a few dark chocolate chunks and restrained cocoa accents, campaign headline exactly: "DARK CHOCO FEVER". Support copy exactly: "Dense melt. Deep mood."
+Bottom-left panel: strawberry scoop in a branded cup with two or three clean fresh strawberry elements and restrained pink ribbon-like graphic curves, campaign headline exactly: "PINK BERRY GLOW". Support copy exactly: "Bright fruit, soft joy."
+Bottom-right panel: mint chocolate scoop in a branded cup with crisp mint leaves and a few precise chocolate chip cues, campaign headline exactly: "MINT WAVE ON". Support copy exactly: "Cool hit, clean finish."
+
+Brand design and typography: every panel includes a small consistent top-corner brand mark reading exactly: "JOYDRIFT SCOOP". Use large rounded custom display lettering with flavor-specific color shifts, thicker mass, tighter hierarchy, and stronger sculptural presence than before. Use a smaller clean sans-serif for support lines and tiny CTA microcopy such as "take the chill", "taste the lift", "find your mood", or "grab the scoop", but keep these sparse and secondary. Typography must behave as a graphic object integrated into the composition, wrapping around the scoop without touching the main product silhouette.
+
+Product styling: ultra-real premium ice cream with believable scoop geometry, creamy micro-texture, gentle edge softness, realistic inclusions, minimal appetizing melt, and crisp branded cups. Cookies-and-cream shows visible cookie chunks in cool white cream; chocolate feels velvety, dense, and dark; strawberry feels airy, fruit-forward, and luminous; mint feels cool, fresh, and slightly sharper in texture with chocolate fragments. The scoops must feel physically convincing and highly edible, with no collapse, over-melt, or messy drips.
+
+Color system: each panel operates as its own controlled flavor universe while the whole board remains harmonized. Use a refined 60/30/10 balance inside each quadrant: dominant flavor hue, white/cream support, and one accent note. Across the full four-panel board, maintain a candy-clean campaign palette built from sky blue, cream white, cocoa brown, berry pink, and mint green, with the overall master background tying the set together. The image should feel brighter, more premium, and more curated than a typical FMCG flavor poster sheet.
+
+Lighting and finish: bright studio-commercial lighting with soft frontal fill, subtle top highlights on each scoop, gentle shadow grounding under the cups, clean white handling inside the panels, and extremely polished product retouching. Show creamy micro-texture, matte paper cup print, fresh mint leaf surfaces, glossy berry freshness, and crisp chocolate edges. The final image should feel like a Cannes-level FMCG campaign: playful yet disciplined, tactile yet clean, youthful yet art-directed.
+
+Output and constraints: one complete four-panel ice cream campaign board, product-first, highly graphic, clean luxury execution, no people, no extra unrelated props, no copied original poster text, no real brand names, no cluttered doodle overload, no broken grid alignment, no unreadable text, no malformed scoops, no duplicated ingredients, no warped cups, no muddy colors, no messy drips, no cheap clip-art feel, no AI text gibberish, and no style drift between panels.
+```
+
+  </details>
 
 - **东方禅意极简封面：中文结构化海报配方** — 古风女子+低榻珠帘，奶白基底点缀葡萄紫/青柠绿；9:16 留白标题区写死。女性向封面/小红书竖版可直接返图，附完整中文分节 prompt。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100462806281941187)
   <details>
@@ -3013,6 +3041,27 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **云端女友短标签：梦核 CCD 中文堆风格** — 「云端女友 × 漂浮城市 × 花瓣失重 × CCD彩色柔焦 × 盛夏天空梦核」——短标签堆风格，小红书式文案拆解直接能用。 [@chenlinspark](https://x.com/chenlinspark) · [原帖](https://x.com/chenlinspark/status/2100526173700653477)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+云端女友 × 漂浮城市 × 花瓣失重 × CCD彩色柔焦 × 盛夏天空梦核
+```
+
+  </details>
+
+- **参照图→iPhone 实写真片感：写实跃迁短指令** — 日文作者用极短指令把参考图拉到「像手机随手拍」的自然写实。讲身份锁/实拍跃迁时拿来当开场 demo，附原帖日文 prompt。 [@sakisuta_](https://x.com/sakisuta_) · [原帖](https://x.com/sakisuta_/status/2100523713619992970)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+参照画像を元に、実写の写真を生成する。
+iPhoneで撮影したようなリアルで自然な画像を作成する。
+```
+
+  </details>
 
 - **浮窗云中肖像：身份锁超现实 editorial** — 参考图锁脸妆发衣着，人从悬浮复古窗探入积云；4:5 超现实时尚大片模板。换自拍就能出人设海报，附完整身份锁英文 prompt。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2100479875836706871)
   <details>
@@ -5448,6 +5497,80 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **行车记录仪首帧锁死：Image 2.5→Seedance 公路短片** — 先用 Image 2.5 把 dashcam 光学真实感钉死（挡风玻璃脏点、A柱、宽角JPEG），再整帧喂 Seedance 2.5；回复含完整 DIRECTIVE + 秒表分镜。谁还在瞎抽视频首帧，先把参照图焊死。 [@techhalla](https://x.com/techhalla) · [原帖](https://x.com/techhalla/status/2100526482212712584)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+First, lock the initial frame to a realistic one. I've used GPT Image 2.5 and the prompt below:
+
+DIRECTIVE:
+Produce one still that reads as a real in-car dashcam frame grabbed from a moving car on a highway. Optical dashcam capture, wide windshield view, windshield glass, A-pillar, a slice of dashboard/hood — lived-in dashcam JPEG, not cinema, not HDR.
+
+BEAT / COMPOSITION:
+Looking forward through the windshield. On the LEFT side of the road (left lane or left shoulder, clearly in frame): TWO branded trucks close together.
+
+COCA-COLA TRUCK (LEFT, CRITICAL):
+A full-size Coca-Cola tanker / delivery truck, official Coca-Cola red livery and logos readable. It has a breakdown: a torn ragged hole in the tank wall. A thick, heavy jet of dark-brown Coca-Cola is blasting out of that hole onto the asphalt — lots of liquid, puddle spreading, foam, spray in the air, wet road shine. The truck is stopped or crawling, hazard situation.
+
+MENTOS TRUCK (BESIDE IT, CRITICAL):
+Right next to the Coca-Cola truck (same left cluster, slightly ahead or alongside): a closed box truck / delivery truck with large, unmistakable MENTOS branding on the side (Mentos logo, candy rolls artwork). Rear and side doors CLOSED. No candy spilling. You can clearly read that it is a Mentos truck.
+
+CAMERA PACK:
+Fixed dashcam behind the windshield, slight barrel wide, dashboard or hood bottom of frame, windshield dirt/reflections, timestamp overlay optional, daytime road, other traffic farther ahead. Real consumer dashcam still.
+
+LIGHT:
+Daylight, overcast or sun, real road color, cola looking like dark soda not black oil.
+
+PHOTOGRAPHIC CHARACTER:
+Unstaged dashcam grab — physically grounded trucks, readable brands, the leak is the event.
+
+Once it's ready, use it as reference for Seedance 2.5 and this prompt:
+
+[STYLE + CAMERA + ATMOSPHERE]
+Vertical 3:4 smartphone video filmed FROM INSIDE a moving car, passenger or driver seat. Phone held handheld (not a bolted dashcam): arms, slight breathing shake, windshield and A-pillar in frame, a slice of dashboard/hood at the bottom, maybe a finger edge. We are ARRIVING — forward motion first, trucks growing larger, then we slow and stop short of the cola lake. CONTINUOUS SINGLE TAKE the entire 30s. Digital pinch-zooms only (no cuts): punch into the Coke jet, the jug fill, the Mentos doors, the launch, then zoom out as he shrinks to the horizon. Daylight, overcast, wet asphalt, rain specks on glass. Consumer phone JPEG, autofocus hunting, rolling shutter. Photoreal live physics: cola viscosity, foam, Mentos cases, one adult body launched like a Mentos rocket.
+
+LOCKED SET / VEHICLES:
+- LEFT ahead through the windshield: red Coca-Cola tanker with a ragged hole, dark-brown Coca-Cola ALREADY blasting onto the lane, spreading cola lake.
+- BESIDE it: Mentos box truck, rear doors CLOSED at arrival, Mentos livery readable ("mentos / The Freshmaker").
+- Highway continuing past them toward a clear vanishing-point horizon.
+- NO other truck for the guy. He does not exit a vehicle.
+
+LOCKED CAST:
+- THE GUY: one very large man alone — sweat-dark tank top, cargo shorts, stained baseball cap, Alabama redneck energy. No second person. He ENTERS FRAME FROM THE RIGHT (shoulder / right edge of the windshield view) already on foot — he does not get out of any truck, van, or car.
+- HERO OBJECT: one giant gas-station plastic jug / Big Gulp–scale cup in his right hand. Starts EMPTY (daylight visible through clear plastic), stays in that hand until the blast.
+
+Diegetic audio: road noise while arriving, cola hiss, gulping, metal latch, volcanic foam roar, Doppler scream as he flies away, phone mic clipping.
+
+[IMAGE REFERENCES]
+[ref_image] = locked opening phone still from inside the car looking through the windshield at the Coke tanker + Mentos truck cluster. Tanker, hole, cola jet, Mentos truck, and in-car foreground are LAW. Clip BEGINS with us still rolling toward that cluster.
+
+[TIMELINE SECOND BY SECOND]
+
+0-3s: [HOOK — ARRIVING + ZOOM] Phone already rolling. Road noise. Through the windshield the Coca-Cola tanker and Mentos truck are already ahead on the left; cola ALREADY jetting from the hole. We close distance — trucks grow. Digital zoom punches into the Coke stream and the hole. By ~2.5s brakes dip. Several events already: motion, the leak, closing in, first zoom.
+
+3-5s: [STOP + HE ENTERS FROM RIGHT] We fully stop. Idle phone shake. Zoom out a notch. THE GUY walks INTO FRAME FROM THE RIGHT — already on foot from the shoulder / right edge, giant EMPTY jug held high, clear plastic with daylight through it. He does not exit any vehicle. He steps straight into the cola lake toward the tanker jet.
+
+5-9s: [FILL — HOLD IT] He shoves the empty jug INTO the Coke stream. ONE CONTACT: jug into the jet. Phone slam-zooms the fill and HOLDS. For a clear ~2 full seconds (through ~7–8s) the jug is STILL filling under the blast — brown liquid climbing the plastic, foam boiling over the rim, overflowing his forearm, stream hammering the mouth of the jug the whole time. Only then does he pull the full heavy jug out and raise it.
+
+9-12s: [CHUG] He tilts and CHUGS — huge gulps, cola down the tank top. Empties most of it, gasps, still holding the jug. Turns to the Mentos rear doors. Phone zooms out enough to keep tanker jet + Mentos bumper + him in frame.
+
+12-16s: [OPEN + DUMP] ONE CONTACT: he yanks both Mentos rear doors open. Cases stacked high. He dumps a case — Mentos rolls cascade into the cola lake. Packs split, white mints into the brown river. Digital zoom on the mint waterfall hitting the puddle. He still stands in the lake with the jug.
+
+16-20s: [IT GOES] Hard fizz, then a WHITE FOAM COLUMN erupts between the trucks. ONE CONTACT: the fountain hits him from below like a human Mentos rocket. Feet leave asphalt. Jug flies. He launches UP and AWAY down the highway axis. Phone slam-zooms his body leaving the ground, then struggles to track him.
+
+20-24s: [HUMAN FOUNTAIN] He is a dark silhouette riding the white column, spinning once, cap gone. The geyser leans him toward the open highway horizon. Foam hits our windshield — phone jerks but stays inside the car, still filming through glass. Digital zoom hunting his shape in the spray.
+
+24-26s: [SHRINKS] Zoom out through foam streaks on the glass. He is airborne over the far lanes, a tiny spinning figure on a white spray trail, Mentos truck hopping, tanker still feeding the column. Phone digital-zooms into the shrinking speck, then out again.
+
+26-30s: [PAYOFF — GONE] He dwindles to a speck and DISAPPEARS into the horizon haze past the vanishing point (~1s earlier than before). Phone holds on empty sky/road where he vanished, foam still climbing between the trucks, Mentos doors still open, Coke still dumping. Final tiny digital zoom into that empty vanishing point. Loop-open: empty horizon, roar still going.
+
+[STYLE & QUALITY BOOSTERS]
+Photoreal handheld phone from inside a car, 3:4 vertical. Arriving motion then stop. Digital pinch-zooms only, continuous take. One man enters from the RIGHT on foot — never exits a vehicle. Empty jug fills on camera for a clear multi-second hold. Body launched to the vanishing point. Coherent liquid physics. Identity lock to [ref_image] for both trucks, the hole, and the in-car windshield framing.
+```
+
+  </details>
 
 - **六零年代巨人之地：Image2.5+Seedance 风格锁短片** — STYLE/CHARACTER/SETTING 三锁 + 30 秒分镜秒表，复刻 1968 电视审美的桌面巨人短片。Image 2.5 出静帧再喂 Seedance，广告片/概念片管线可整段抄。 [@oggii_0](https://x.com/oggii_0) · [原帖](https://x.com/oggii_0/status/2100474286599500015)
   <details>
