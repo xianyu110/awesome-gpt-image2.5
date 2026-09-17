@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 471 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 481 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,6 +237,26 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **同 selfie prompt：Image 2 vs 2.5 Sunburst 广告人像** — 同一自拍广告题左右开：2.0 皮肤过锐/头发僵/天空平，Sunburst 皮肤干净、脸真、装备有磨损。投放人像选型直接甩这组并排。 [@marcobatt](https://x.com/marcobatt) · [原帖](https://x.com/marcobatt/status/2100587174739546617)
+
+- **Grok vs ChatGPT Images 2.5：同题度假夜景人像** — 同长 prompt 并排 Grok 与 Images 2.5——丝缎、时间戳、暖灯 bokeh 谁更像真机。跨厂选型附完整可抄配方。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2100582150131024072)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A cinematic vintage-camcorder snapshot photograph captured on location — an intimate medium-full hero composition of an East Asian woman reclining on a plush resort bed in a moody nighttime suite, the camera positioned at a low bed level in a horizontal framing capturing her relaxed, sleepy gaze and luminous silk texture in an M1 cinematic narrative register.
+
+The woman has long, glossy chestnut-tinted dark brown hair falling softly over her shoulders and pillows, with natural loose strands gently swept back by her right hand resting near her temple. Her fair skin displays a soft, velvety natural texture with fine pores, delicate collarbones, and subtle subsurface scattering under warm indoor illumination. Her dark almond eyes gaze languidly toward the lens with an intimate, unhurried, late-night vulnerability, paired with soft natural pink lips relaxed in a gentle, neutral expression. She wears a luxurious dusty-rose pink silk satin loungewear robe with flowing sleeves draped loosely over a matching lustrous satin cowl-neck camisole, embellished with a sparkling silver crystal rhinestone strap detail resting along her collarbone. She is reclining comfortably on her side across clean white cotton sheets, her left arm extending forward onto the mattress in an effortless, candid posture.
+
+The setting is an intimate tropical resort bungalow bedroom at night — behind her hang gathered off-white sheer linen curtains softly illuminated from within, while to the right in the background stand two slender cylindrical woven rattan standing lamps casting a warm, textured amber glow into the dark space. Printed crisply in the lower-right corner of the frame is a vintage retro orange seven-segment digital camera timestamp reading "2026/09/17 21:21".
+
+The lighting is governed by atmospheric late-night interior physics — a soft, warm frontal fill light illuminates her face, shoulders, and the liquid sheen of the dusty-rose silk fabric with gentle specular glints, while the warm amber lamps in the background provide soft separation against the deep evening shadows, creating a nostalgic early-2000s compact camera flash aesthetic with cozy, lifted shadows and soft highlight bloom.
+
+Captured with a wide-latitude digital cinema look evoking a vintage high-end 35mm compact film camera on a fast 35mm lens at wide aperture T2.0, providing crisp resolution on her facial features, the glittering crystal strap, and silk folds, while smoothly melting the background rattan lamps into warm circular bokeh. Film-negative tungsten color grade with rich amber undertones, authentic skin warmth, and fine 35mm grain across the frame. Real photographic frame captured on a real cinema camera, real prime lens, real silk satin fabric, real woven rattan, real East Asian human subject, real bedroom night environment — no CGI, no rendered look, no digital cleanliness, no plastic surfaces, no AI smoothness, no skin smoothing, no glow, no halation bloom that reads as artificial, no glossy highlights.
+```
+
+  </details>
+
 - **ChatGPT Images2.5 vs API gpt-image2：同参考色味差** — 同参考同提示：左边本家 Images 2.5、右边仍供 API 的 gpt-image2，色味差肉眼可见。接客户别混「网页版」和「旧 API 代际」——选型先看并排。 [@MAyamaYA_69_](https://x.com/MAyamaYA_69_) · [原帖](https://x.com/MAyamaYA_69_/status/2100574297488322902)
 
 - **Images 2.5 vs Nano Banana2：同题东京路牌文字** — 同 prompt 东京夜路口纸牌「I'M STILL LEARNING」——谁把字拼对、写清。路牌/手写标是选型硬指标，附完整对照 prompt。 [@flarehorizon275](https://x.com/flarehorizon275) · [原帖](https://x.com/flarehorizon275/status/2100571656531959836)
@@ -264,6 +284,8 @@ Why it matters: text accuracy used to be the tell that gave away an AI image —
 ```
 
   </details>
+
+- **Sunburst 多轮精确编辑压测：换衫连环到第几轮崩** — 原图→改 T 恤→再拿输出当下轮输入，连压五轮：别的模型第三轮已噩梦，Sunburst 第五轮还能看。Flare 赶量 / Sunburst 精改——编辑保真硬证据。 [@alecwilcock](https://x.com/alecwilcock) · [原帖](https://x.com/alecwilcock/status/2100555617941307601)
 
 - **品牌恐龙四模同题：Image2 / Flare / Sunburst / ChatGPT** — Fortune 500 品牌捏成机械恐龙 2×2，同一段伪着色器 prompt 压四模。选型别空喊「更强」——直接看谁材质映射和 logo 叠层过关。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100496729627836540)
   <details>
@@ -913,12 +935,247 @@ C区域代表【背景建筑或环境】
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
+- **四图标四身份高冲击投放：Nike ORANGE MOTION** — 四联 campaign 各成一套身份/图标语言；评论区给完整「ORANGE MOTION」长海报 prompt（液态鞋底冲击）。快消/运动投放 KV 可直接改品牌色。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2100585834357702696) · [prompt](https://x.com/Diplomeme/status/2100585884802494544)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Prompt : NIKE — “ORANGE MOTION”
+4:5 vertical premium poster, 8K, bold commercial layout × surreal realism
+🧠 CORE IDEA:
+“ENERGY IN EVERY STEP.”
+🎬 LAYOUT:
+BACKGROUND BLOCK:
+Large rounded rectangle in vivid Nike orange with subtle tonal gradients and clean studio shadows
+GIANT TYPOGRAPHY:
+“MOVE”
+bold, oversized, cropped, sitting behind subject
+👤 SUBJECT:
+Young adult athlete walking toward camera wearing orange Nike sneakers
+same foreground-dominant perspective
+one sneaker dramatically close to camera
+calm, confident expression
+👟 PRODUCT + SURREAL TWIST:
+Orange Nike sneaker in foreground →
+A glossy orange liquid wave flows directly from the sole:
+* fluid wrapping naturally around the outsole
+* suspended droplets
+* sharp splash arcs
+* realistic reflections
+* subtle orange reflections across the sneaker
+The impact of the step creates a controlled liquid burst, making the sneaker appear to generate its own motion.
+✨ GRAPHIC ELEMENTS:
+* sparkle icons ✦
+* suspended droplets
+* subtle motion lines
+* soft reflections
+* minimal white accents
+✍️ TEXT SYSTEM:
+Top pill:
+“Nike Performance”
+Small text:
+“Move With Energy”
+BOTTOM FEATURE STRIP:
+* Responsive Cushioning
+* Lightweight Feel
+* Engineered Grip
+* Built For Motion
+```
+
+  </details>
+
+- **2×5 恋爱拍立得 contact-sheet：跨格迁徙连续故事** — 双列五行使男孩从右格逐步走进左格，空格讲故事。身份锁 + 分镜叙事海报模板，附超长完整英文 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2100583390806442370)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create an ultra-photorealistic vertical romantic photo-booth contact-sheet collage, 2 columns × 5 rows, showing ONE continuous visual story involving the exact same young adult couple throughout.
+
+CORE VISUAL IDEA:
+The two columns are not ten unrelated photos. They represent two separate adjacent photo-booth spaces. The young woman begins entirely inside the LEFT column and the young man begins entirely inside the RIGHT column. As the rows move downward, the man gradually leaves his own frame and physically moves into the woman’s frame. His original RIGHT frame therefore becomes progressively emptier. This visual migration is the central concept and MUST remain logically consistent.
+
+CHARACTERS:
+A very cute young adult East Asian couple, approximately 20–23 years old, both clearly adults.
+
+GIRL:
+Naturally adorable Korean-looking young woman, soft youthful facial features, expressive dark-brown eyes, realistic fair skin with visible pores and subtle natural texture, slightly rosy cheeks, dark-brown hair in a loose messy bun with wispy strands around her face. Oversized black knitted sweater. Minimal natural makeup. Sweet, shy, playful personality.
+
+BOY:
+Cute Korean-looking young man, youthful but clearly adult, soft masculine facial features, warm dark eyes, naturally messy fluffy dark hair, realistic skin texture. Light-grey oversized hoodie over a simple white T-shirt. Gentle, slightly shy personality.
+
+STRICT IDENTITY LOCK:
+The SAME woman and SAME man must appear in every row. Identical faces, hairstyle, clothing, skin tone and proportions throughout. No face drift, no hairstyle changes, no outfit changes.
+
+STORYBOARD:
+
+ROW 1 — TWO STRANGERS
+LEFT: girl alone, chest-up portrait, casually looking toward the right edge as though she has noticed someone.
+RIGHT: boy completely visible and centered in his own frame, facing camera naturally.
+They are physically separated by the vertical black divider.
+Small handwritten text:
+LEFT: “just a girl… ♡”
+RIGHT: “just a guy…”
+
+ROW 2 — THEY NOTICE EACH OTHER
+LEFT: girl turns her eyes and face toward him with a tiny restrained smile.
+RIGHT: boy turns toward the girl, leaning slightly toward the LEFT boundary for the first time.
+He is still mostly inside his own frame.
+Text:
+LEFT: “who noticed something”
+RIGHT: “…and looked twice ♡”
+
+ROW 3 — CROSSING THE LINE
+This is the important transition.
+The boy has moved substantially LEFT and is now entering the girl’s frame across the central divider. The couple are close together, looking directly at each other and smiling naturally.
+His RIGHT frame must now contain noticeably more empty background because he has physically moved away from it.
+Do NOT duplicate him.
+Text:
+LEFT: “then we smiled ♡”
+RIGHT empty area: “and suddenly it made sense”
+
+ROW 4 — HE HAS LEFT HIS FRAME
+The boy is now almost COMPLETELY inside the LEFT frame with the girl.
+They share one soft, natural kiss, photographed candidly rather than dramatically.
+Only a tiny portion of his shoulder/body may intersect the central border.
+The RIGHT frame is approximately 85–90% EMPTY — just clean studio background.
+This empty frame is intentional and visually important.
+Text:
+LEFT: “same weird thoughts ♡”
+RIGHT empty frame: “different chaos ♡”
+
+ROW 5 — FINAL PAYOFF
+The boy has now COMPLETELY abandoned his original right-hand frame.
+Both characters are entirely together inside the LEFT frame.
+Instead of another kiss, create an irresistibly cute candid moment: he hugs her tightly from behind while giving her a small forehead/temple kiss; she scrunches her cheeks slightly, closes her eyes and smiles naturally.
+Their body language should feel spontaneous, warm and genuinely affectionate.
+RIGHT frame must be COMPLETELY EMPTY except for:
+“more stories ♡”
+
+Text in left:
+“same people…”
+
+IMPORTANT:
+Never place a second copy of either character in the right frame after the man moves left.
+Never repeat the kissing image across both columns.
+The empty space tells the story.
+
+DESIGN:
+Minimal premium analog contact-sheet aesthetic inspired by an old 35mm film proof sheet, but make the composition completely original.
+
+Warm off-white / soft beige seamless studio background.
+Deep black film borders.
+Thin slightly imperfect frame separators.
+Tiny amber film-number markings and subtle sprocket details along outer edges.
+Very subtle authentic analog grain, dust and microscopic scratches.
+Small pieces of aged masking tape.
+A few torn-paper notes.
+Tiny hand-drawn hearts.
+Small dried flowers near one bottom corner.
+Only a handful of decorations — never clutter the photographs.
+
+Margin notes:
+“Good people, good times ♡”
+“You + Me Always ♡”
+“Collect moments, not things ♡”
+
+BOTTOM HERO MESSAGE:
+Place a torn warm-ivory paper strip across the lower border with handwritten text:
+
+“you + me = a better kind of chaos ♡”
+
+PHOTOGRAPHY:
+100% believable real-human photography.
+Premium editorial photo-booth portraits shot on a full-frame camera with approximately 50–85mm portrait-lens character.
+Soft warm studio key light, subtle fill, realistic shadow falloff.
+Natural skin pores, peach fuzz, individual hair strands, realistic knitted fabric and hoodie texture.
+Slightly imperfect candid expressions.
+Warm cinematic color grade with creamy highlights, rich blacks and subtle analog grain.
+Faces remain sharp while retaining natural photographic softness.
+
+The first row should feel slightly awkward and separated.
+Every subsequent row becomes visually warmer and physically closer.
+The final row should provide the strongest emotional payoff.
+
+NO CGI.
+NO illustration.
+NO anime.
+NO plastic skin.
+NO excessive beauty retouching.
+NO duplicated people.
+NO extra fingers or limbs.
+NO random additional characters.
+NO identity changes.
+NO duplicated poses.
+NO repeated kiss.
+NO decorative overload.
+NO characters appearing inside intentionally empty right-side frames.
+
+FINAL FEEL:
+A photograph someone would instantly stop scrolling to understand — first they notice two separate people, then realize the man is literally disappearing from his own frames because he is moving into hers. Cute, clever, romantic, nostalgic, highly polished and visually understandable even before reading the handwritten text.
+```
+
+  </details>
+
 - **3:4 上下对半编辑海报：上半身份锁+下半手绘** — 竖版严格对半：上半保留原照身份/姿态/衣着光线，下半抽成不超过四色的纸质手绘。种草海报批产模板，附完整英文 prompt。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2100563846054469799)
   <details>
   <summary>查看 / 复制提示词</summary>
 
 ```
 Create a separate high-end editorial poster for each uploaded photo, never combining them. Use a strict 3:4 vertical layout split into two equal horizontal halves: keep the top half faithful to the original photo with unchanged identity, pose, proportions, clothing, objects, lighting, colors, and realistic details, enhanced only with subtle premium grading. In the bottom half, create a small centered hand-drawn paper illustration of the key subject and recognizable elements, using imperfect ink lines, flat acrylic shapes, rough paper texture, and handmade brush marks on a warm off-white background with generous negative space. Extract and simplify the original palette to no more than four harmonious colors. Keep the overall look quiet, poetic, refined, minimal, artistic, and premium, with optional subtle editorial typography.
+```
+
+  </details>
+
+- **零食海报：别写 gooey，写面条拉丝结构** — 咬口露出半透明淀粉丝与弹性拉扯——别用「粘糊馅」写成芝士面包。NOODORI 虚构品牌 KV 完整长 prompt，食品电商海报可抄结构。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100554719274119461)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Don’t write “gooey filling.” That turns this into cheese bread.
+🧊 a naturally torn bite edge revealing translucent noodle strands, layered starch threads, and elastic pull inside the shell
+This makes the center read as a real noodle structure—not a generic soft crumb.
+🍊 thin blistered golden crust with fine fried granularity, light oil sheen, and a sharp material contrast against the pale interior
+The bite becomes instantly legible: crisp outside, stretch inside.
+
+A hyper-real premium poster advertisement for a fictional snack brand called NOODORI, designed in an Orbit-plus-Port direction: a bold product-launch key visual with one monumental macro food hero, highly controlled graphic typography, and a refined lower product strip. The core product is a fried noodle-dough snack ball called "Noodle Puff", presented as an ultra-real edible object with intense tactile realism and a surprising internal structure. One giant bitten snack ball dominates the center of the frame, delicately held between two natural human fingertips entering from the lower left and lower right edges. The bite opening reveals an airy fibrous interior with visible noodle-like stretch, layered starch threads, and a soft elastic pull inside a thin crisp golden shell. The product is the absolute visual hero.
+
+Framing and composition: vertical poster layout, strong central macro composition, oversized hero product cropped large enough to feel immediate and almost architectural. Keep the upper field as a warm chestnut-brown poster plane with large white typographic mass, a cleaner vertical support text column on the left, one sharp promotional badge on the lower right of the hero area, and a highly disciplined product information strip running across the bottom. Preserve the original retail-poster logic, but reduce noise and make the entire page more sculptural, gallery-like, and premium. The fingers act only as scale and human interaction cues, never competing with the food.
+
+Product design: the hero snack is a perfectly round fried noodle puff with a thin blistered golden crust, subtle fried granularity, light oil sheen, and a naturally torn bite edge exposing a mochi-like noodle matrix inside. The interior should feel surprising, soft, and layered rather than bread-like. In the bottom product strip, present two flavor variants in a clean side-by-side system: one pale sugar-dusted version and one deeper warm curry-spiced version. Each flavor sits beside a simple folded kraft takeaway tray with a few neatly arranged full snack balls. The lower strip must feel tidy, retail-ready, and secondary to the hero bite.
+
+Lighting and color: soft but directional premium food lighting from upper front-right, gentle warm fill from the left, crisp readability inside the torn interior, elegant highlights on the crust, and subtle shadows under the bottom flavor presentations. Build stronger light-dark separation than a typical snack poster so the shell volume, interior fibers, and headline typography gain sculptural force. Palette balance: 60% chestnut brown, toasted amber, and warm golden crust; 30% creamy ivory interior and kraft-paper neutrals; 10% saturated red promotion accents and spice-yellow flavor notes. No muddy browns, no dead black patches, no greasy over-darkness.
+
+Materials and finish: hyper-real food photography fused with premium Japanese-style poster design. Show crisp fried crust grain, delicate starch translucency in the inner layers, realistic soft tear fibers, matte paper tray texture, natural fingertip skin texture, and clean print-like typography integration. The final finish should feel like a Cannes-level convenience-food launch poster: tactile, surprising, minimal yet commercially explosive.
+
+Typography: all visible copy in English only, highly art-directed and integrated into the poster. Top brand mark reads exactly: "NOODORI". Main headline at the top reads exactly: "A NEW BITE FROM NOODLES." Left vertical support line reads exactly: "CRISP OUTSIDE. PULL INSIDE." Small excitement line above the bottom strip reads exactly: "CRACK IT. FEEL THE STRETCH." Promotional burst on the lower right of the hero area reads exactly: "JUST ARRIVED!" and beneath it exactly: "5 pcs / 3.00". In the bottom strip, the left flavor label reads exactly: "TOASTED CANE SUGAR" and the right flavor label reads exactly: "MILD SPICED CURRY". Typography should be bold, soft-edged, graphic, and beautifully spaced, with large white forms against the brown field and restrained red accents.
+
+Output and constraints: polished premium snack poster, product-first hierarchy, no copied source text, no real brand names, no extra props, no cluttered background scene, no people beyond the partial fingertips. Keep the hands anatomically correct with natural finger joints and correct finger count. Keep the hero snack spherical and believable, the bite natural, the lower strip orderly, and the overall page clean and high-end. Avoid fused fingers, swollen joints, broken snack geometry, messy crumb explosions, excessive oil, warped trays, duplicated snack balls, unreadable text, plastic-looking crust, oversharpening, AI gibberish text, muddy color cast, or drift away from premium commercial food realism.
+```
+
+  </details>
+
+- **日式朋克街头时尚：极端低机位战斗靴海报** — 4:5 广角贴地，战斗靴占满前景；背景是撕纸/丝网/漫画涂鸦拼贴。复古日系地下杂志封面可直接改色板，附完整英文 prompt。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2100545305200795816)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create an ultra-realistic cinematic street-fashion editorial poster with a strong retro Japanese punk / underground magazine aesthetic.
+
+A young East Asian woman sits on the ground and looks directly into the camera from a dramatic extreme low-angle perspective. Her upper body is positioned near the center-top of the composition while one leg extends aggressively toward the camera, creating powerful forced perspective. Her oversized rugged black combat boot dominates the entire foreground, appearing much larger than her body. The boot has thick textured rubber soles, worn black leather, visible orange-brown laces, scuffed surfaces, and realistic dirt and imperfections.
+
+She has straight, slightly messy shoulder-length black hair with wispy bangs, naturally flying outward as if caught by wind. Her expression is calm, confident, slightly rebellious, with a direct intense gaze. Subtle red-orange eye makeup and vivid red lips. Natural skin texture, realistic pores, delicate facial details.
+
+She wears an oversized black denim jacket, layered over a patterned black-and-white striped high-neck top, with loose styling and visible fabric folds. Add rugged streetwear details and a worn urban fashion aesthetic.
+
+The background is a highly textured mixed-media Japanese street-art collage, combining distressed turquoise blue, vivid burnt orange, mustard yellow and off-white paper textures. Include rough hand-painted geometric shapes, torn paper, photocopied manga-style sketches, faded illustrations, ink marks, scratches, paint splatters, grain, distressed typography and fragmented Japanese-inspired graphic elements. The background should feel like an old underground fashion magazine cover or experimental punk poster.
+
+Use a vertical 4:5 composition, dramatic extreme wide-angle lens, camera positioned almost at ground level directly in front of the boot, strong perspective distortion, boot extremely close to the lens, subject receding into the background.
+
+Lighting: cinematic natural daylight mixed with hard directional highlights, realistic shadows, subtle film grain, slightly faded analog color grading, high micro-detail, tactile textures, authentic photographic imperfections.
+
+Style: photorealistic fashion photography fused with vintage Japanese punk collage design, experimental editorial poster, raw street culture, 1990s underground magazine aesthetic, distressed print texture, analog film look, highly detailed, visually striking, premium fashion campaign, sharp subject, realistic materials, realistic anatomy.
+
+Aspect ratio: 4:5
 ```
 
   </details>
@@ -3308,6 +3565,26 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **女游戏 influencer 2×2：可复用 influencer_frame 模板** — 把 SUBJECT/SETTING/TIME/RIG/PLATFORM/INTENT 写成函数——改 INPUT 其余推导。假装手机摄影（景深伪影、美颜差分）一次写死，UGC 种草网格可抄。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100581539008626771)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+2x2 grid, 16:9, do this for 4 female gaming influencers with poses that steal your heart. // FN: influencer_frame(SUBJECT, SETTING, TIME, RIG, PLATFORM, INTENT)  // Edit INPUT only. Everything below derives.  INPUT   SUBJECT  = " $ subject"    SETTING  = "Ai infers"    TIME     = "Ai infers"   RIG      = SELF            // SELF | FRIEND | TRIPOD | MIRROR | DRONE   PLATFORM = IG_FEED         // IG_FEED | IG_STORY | TIKTOK | PINTEREST   INTENT   = "candid morning"   INFER :: RIG → geometry, gaze, and what the fiction is   SELF    → 23mm front, 45–60cm, face widened ~8%, lens ABOVE eye level,             chin foreshortened, gaze INTO lens, one arm's angle implied by crop   FRIEND  → 26mm rear, 1.5–3m, correct proportion, eye level, gaze into lens,             full body possible, environment legible   TRIPOD  → 26mm, 2–4m, gaze deliberately AWAY (the candid fiction), body             squared to a mark on the ground, static pose held for a burst   MIRROR  → phone IN FRAME, screen glow on face/hands, gaze at reflection NOT             lens, room reversed, fingerprints on the glass   DRONE   → 24mm from above, subject small, the LOCATION is the subject  INFER :: SETTING + TIME → light class → computational behavior   interior_backlit  → HDR stack: window keeps detail, never clips; edge halo   golden_hour       → warm, long shadows, veiling flare, lifted blacks   overcast          → flat, cool, low contrast, no shadow direction   night_artificial  → night mode: multi-second stack ⇒ anything that moved                       ghosts; shadows unnaturally lit; grain scrubbed to plastic   harsh_noon        → HDR fights it: raccoon shadows lifted, skin looks flat  INFER :: PLATFORM → container   IG_FEED  = 4:5,  1080px ceiling, mild re-encode   IG_STORY = 9:16, safe zones top/bottom kept empty   TIKTOK   = 9:16, heavier compression, saturation pushed   PINTEREST= 2:3,  text overlay space reserved  DERIVE :: always, regardless of input   D1 synthetic depth ⇒ mask errors mandatory: one hair-gap filled with blur,      a ~2px halo at the shoulder, blur bucketed by depth not continuous   D2 beauty pass ⇒ cheeks poreless WHILE lashes/brows stay razor sharp   D3 grade ⇒ blacks lifted to ~12/255 with cyan bias, nothing pure black   D4 INTENT ⇒ props staged: labels rotated to camera, food untouched,      "unnoticed" objects squared to the table edge  FORBIDDEN   ✗ true optical bokeh falloff        ✗ clipped white window   ✗ uniform skin sharpness            ✗ pure black   ✗ DSLR micro-detail at 1080         ✗ genuine unawareness of the camera  RENDER  // resolve every {slot}, emit prose only   {PLATFORM.aspect} phone photo. {SUBJECT} at {SETTING}, {TIME}.   {RIG.geometry_prose}. {light_class.prose}. Background blurred the artificial   way phones do it, with {D1}. {D2}. {D3}. {D4}. Slightly soft at 1080px.  AUDIT   window_luma_max < 250 · cheek_highfreq << lash_highfreq   ≥1 segmentation halo · black_point > 8/255 · gaze matches RIG
+```
+
+  </details>
+
+- **自拍→GTA6 开放世界角色：人脸身份锁前后对照** — 上传真人自拍，锁脸/身体/脏衣/疲惫表情，抽成犯罪开放世界插画角色。身份锁换皮一句话公式，附西语短 prompt。 [@gptzone_net](https://x.com/gptzone_net) · [原帖](https://x.com/gptzone_net/status/2100544372714741960)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Convierte a este hombre en un personaje ilustrado de un videojuego criminal de mundo abierto estilo GTA 6. Mantén su cara, cuerpo, ropa sucia y expresión de cansancio.
+```
+
+  </details>
 
 - **TARGET主图+REFERENCE身份锁：拼贴全格换脸** — 主图锁发型/服装/撕纸拼贴布局，参考图只迁脸。多格 scrapbook 身份替换公式写死，个人品牌拼贴改脸可抄。 [@warraich_Ai2](https://x.com/warraich_Ai2) · [原帖](https://x.com/warraich_Ai2/status/2100532000042140040)
   <details>
@@ -7521,6 +7798,8 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **Canva×Images 2.5×Codex：约十分钟夏祭落地页** — Canva 找参考 → Images 2.5 出 LP 视觉 → Codex 落 HTML。深蓝×花火大人味夏祭站，一人队做活动页现成三步链。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2100552230298652694)
 
 - **先锁UI完成图再写代码：Image2.5→Claude Artifact** — 先用 Image 2.5 钉死 UI 方向，再让 Claude Code Artifact 出 3 案、人只改差分。实现/token 体感约 1/3，产品落地页与后台 mock 工作流值得抄。 [@hata_AI_master](https://x.com/hata_AI_master) · [原帖](https://x.com/hata_AI_master/status/2100536994598465775)
   <details>
