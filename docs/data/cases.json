@@ -3678,5 +3678,46 @@
     "url": "https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA",
     "category": "选型评测",
     "playbook": "docs/playbooks/image25-controllability-shift.md"
+  },
+  {
+    "id": "2100356053095641424",
+    "title": "Nano Banana 2 Lite vs Image 2.5：移轴微缩硬对照",
+    "blurb": "同题 1:1 / 2×2：一边读不懂提示，一边交出 Scheimpflug 移轴微缩拼贴。附完整 INTENT/LAWS/FORBIDDEN 配方，选型话术与光学约束一次齐。",
+    "author": "Gdgtify",
+    "url": "https://x.com/Gdgtify/status/2100356053095641424",
+    "category": "选型评测",
+    "prompt": "INTENT     selective attention made geometric; miniaturisation, or a slice of focus cutting across the world\nUNKNOWNS   tilt angle ;  hinge distance J = f / sin(tilt) ;  aperture N ;  focus distance\nLAWS\n  Scheimpflug   subject plane, lens plane and image plane extended meet in ONE common line\n                ⇒ tilting the lens TILTS the plane of sharp focus in the world\n  hinge rule    the focal plane pivots about a hinge line parallel to the lens plane at J below it\n                ⇒ the in-focus volume is a WEDGE: zero thickness at the hinge, widening with distance.\n                  Near sharp band NARROW, far sharp band WIDE — a lawful, monotone flare.\n  the inversion  sharpness is governed by distance FROM THE TILTED PLANE, not by depth.\n                ⇒ objects at very different camera distances can be equally sharp if they lie on the plane\n                ⇒ objects at the SAME camera distance can differ in sharpness if one sits off it\n                (⇒ the \"equal depth ⇒ equal blur\" FORBIDDEN of the thin-lens prompt is here REVERSED —\n                  which is exactly why fake tilt-shift is detectable)\n  vertical objects  a lamppost, tower or figure standing across the plane is sharp only in the BAND where\n                it intersects, blurring above and below — but that band's HEIGHT varies with its distance\n  shift         rise/fall keeps sensor parallel to the façade ⇒ verticals stay PARALLEL while framing high;\n                the horizon sits off-centre. Cropping a tilted-up frame instead leaves converging verticals.\n  aperture      stopping down widens the wedge; the bokeh still obeys one aperture, one blade count\nOVERDETERMINATION   the plane recovered from ≥3 sharp features at differing depths — one plane fits all;\n                    the wedge's widening rate must agree with the recovered tilt and N\nHONEST      one tilted plane; sharpness monotone in distance from it; the sharp band widens with depth\nFORBIDDEN   a blur gradient that is a function of IMAGE HEIGHT rather than of distance from a world plane\n            (the post-filter tell: an even soft band top and bottom, ignoring the scene's geometry) ;\n            a sharp band of constant width from foreground to horizon (no wedge) ;\n            two objects on the same recovered plane, one sharp and one soft ;\n            a tall vertical uniformly sharp along its whole height while the plane clearly crosses it ;\n            \"shifted\" architecture with converging verticals, or unshifted verticals with a centred horizon\n            that the framing contradicts ;\n            miniature-faking by blur and saturation alone with a ground-level viewpoint no model would have."
+  },
+  {
+    "id": "2100322168185974959",
+    "title": "经典 Logo 膨胀成 3D 雕塑海报",
+    "blurb": "Apple / Nike / Adidas / Pepsi：3D 充气雕塑 + 超大字 + 褶皱纸 + 半调 + 套准十字。品牌 KV 想「又潮又脏」直接抄这套图层语法。",
+    "author": "ShamsAmin56",
+    "url": "https://x.com/ShamsAmin56/status/2100322168185974959",
+    "category": "海报排版"
+  },
+  {
+    "id": "2100390529712193695",
+    "title": "穿搭解析 Skill → 8 组 prompt：字肤未翻车",
+    "blurb": "扔一张造型照，Skill 拆出 8 组镜头；2.5 成片文字和皮肤没翻车。种草号要「拆穿搭」流水线，这条比单条 prompt 更像工厂。",
+    "author": "alanblogsooooo",
+    "url": "https://x.com/alanblogsooooo/status/2100390529712193695",
+    "category": "人像角色"
+  },
+  {
+    "id": "2100383868138229962",
+    "title": "Flare 超写实相册：空乘 / 夜城角色连拍",
+    "blurb": "GPT-Image-2.5 Flare × Minicut：同一角色跨机舱、夜雨、便利店连拍成「真人相册」。虚拟 IP 要生活感九宫格，先看这条一致性。",
+    "author": "minicut_ai",
+    "url": "https://x.com/minicut_ai/status/2100383868138229962",
+    "category": "人像角色"
+  },
+  {
+    "id": "2100367756906660269",
+    "title": "Flare 出人 + PS 生成笔刷贴装饰",
+    "blurb": "先用 Flare 出人物底图，再用 Photoshop 生成笔刷沿轨迹贴闪粉装饰。一发生成打不中的局部点缀，混合流省掉 prompt 抽卡。",
+    "author": "wataco_ai",
+    "url": "https://x.com/wataco_ai/status/2100367756906660269",
+    "category": "人像角色"
   }
 ]

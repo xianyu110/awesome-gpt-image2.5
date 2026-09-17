@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-16 · **收录 434 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 439 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,44 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Nano Banana 2 Lite vs Image 2.5：移轴微缩硬对照** — 同题 1:1 / 2×2：一边读不懂提示，一边交出 Scheimpflug 移轴微缩拼贴。附完整 INTENT/LAWS/FORBIDDEN 配方，选型话术与光学约束一次齐。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100356053095641424)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+INTENT     selective attention made geometric; miniaturisation, or a slice of focus cutting across the world
+UNKNOWNS   tilt angle ;  hinge distance J = f / sin(tilt) ;  aperture N ;  focus distance
+LAWS
+  Scheimpflug   subject plane, lens plane and image plane extended meet in ONE common line
+                ⇒ tilting the lens TILTS the plane of sharp focus in the world
+  hinge rule    the focal plane pivots about a hinge line parallel to the lens plane at J below it
+                ⇒ the in-focus volume is a WEDGE: zero thickness at the hinge, widening with distance.
+                  Near sharp band NARROW, far sharp band WIDE — a lawful, monotone flare.
+  the inversion  sharpness is governed by distance FROM THE TILTED PLANE, not by depth.
+                ⇒ objects at very different camera distances can be equally sharp if they lie on the plane
+                ⇒ objects at the SAME camera distance can differ in sharpness if one sits off it
+                (⇒ the "equal depth ⇒ equal blur" FORBIDDEN of the thin-lens prompt is here REVERSED —
+                  which is exactly why fake tilt-shift is detectable)
+  vertical objects  a lamppost, tower or figure standing across the plane is sharp only in the BAND where
+                it intersects, blurring above and below — but that band's HEIGHT varies with its distance
+  shift         rise/fall keeps sensor parallel to the façade ⇒ verticals stay PARALLEL while framing high;
+                the horizon sits off-centre. Cropping a tilted-up frame instead leaves converging verticals.
+  aperture      stopping down widens the wedge; the bokeh still obeys one aperture, one blade count
+OVERDETERMINATION   the plane recovered from ≥3 sharp features at differing depths — one plane fits all;
+                    the wedge's widening rate must agree with the recovered tilt and N
+HONEST      one tilted plane; sharpness monotone in distance from it; the sharp band widens with depth
+FORBIDDEN   a blur gradient that is a function of IMAGE HEIGHT rather than of distance from a world plane
+            (the post-filter tell: an even soft band top and bottom, ignoring the scene's geometry) ;
+            a sharp band of constant width from foreground to horizon (no wedge) ;
+            two objects on the same recovered plane, one sharp and one soft ;
+            a tall vertical uniformly sharp along its whole height while the plane clearly crosses it ;
+            "shifted" architecture with converging verticals, or unshifted verticals with a centred horizon
+            that the framing contradicts ;
+            miniature-faking by blur and saturation alone with a ground-level viewpoint no model would have.
+```
+
+  </details>
 
 - **Row-Bot 上 Flare vs Sunburst：放大镜硬对比** — 同一复杂静物题连跑两档：速度档 Flare vs 精度档 Sunburst，连放大镜/高光/材质差都写清楚。选型话术与 n=1 对照素材一次齐。 [@sydsachar](https://x.com/sydsachar) · [原帖](https://x.com/sydsachar/status/2100216986538029207)
 
@@ -814,6 +852,8 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **经典 Logo 膨胀成 3D 雕塑海报** — Apple / Nike / Adidas / Pepsi：3D 充气雕塑 + 超大字 + 褶皱纸 + 半调 + 套准十字。品牌 KV 想「又潮又脏」直接抄这套图层语法。 [@ShamsAmin56](https://x.com/ShamsAmin56) · [原帖](https://x.com/ShamsAmin56/status/2100322168185974959)
 
 - **一品两出：先锁战役规则再换版式** — 同一瓶沐浴油：电影感广告片 + 3×3卖点海报。瓶型/配色/苹果意象先写死，版式才能换而不散品牌。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2100225374974026080)
   <details>
@@ -2866,6 +2906,12 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **穿搭解析 Skill → 8 组 prompt：字肤未翻车** — 扔一张造型照，Skill 拆出 8 组镜头；2.5 成片文字和皮肤没翻车。种草号要「拆穿搭」流水线，这条比单条 prompt 更像工厂。 [@alanblogsooooo](https://x.com/alanblogsooooo) · [原帖](https://x.com/alanblogsooooo/status/2100390529712193695)
+
+- **Flare 超写实相册：空乘 / 夜城角色连拍** — GPT-Image-2.5 Flare × Minicut：同一角色跨机舱、夜雨、便利店连拍成「真人相册」。虚拟 IP 要生活感九宫格，先看这条一致性。 [@minicut_ai](https://x.com/minicut_ai) · [原帖](https://x.com/minicut_ai/status/2100383868138229962)
+
+- **Flare 出人 + PS 生成笔刷贴装饰** — 先用 Flare 出人物底图，再用 Photoshop 生成笔刷沿轨迹贴闪粉装饰。一发生成打不中的局部点缀，混合流省掉 prompt 抽卡。 [@wataco_ai](https://x.com/wataco_ai) · [原帖](https://x.com/wataco_ai/status/2100367756906660269)
 
 - **唐风宫廊读信：9:16 半身近景配方** — 杏粉襦裙 × 青灰披帛 × 薄绢书信，85mm/f1.8 写死光色。国风人像种草/短剧封面直接返工。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100205250825380199)
   <details>
