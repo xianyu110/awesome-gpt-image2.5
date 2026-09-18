@@ -4547,5 +4547,32 @@
     "url": "https://x.com/094WPdx9ZrfYJnS/status/2100910986391900578",
     "category": "选型评测",
     "prompt": "【阶段1 · Nano Banana 2 · 空白胶卷底】\n35mm版的フィルムロールの断片を、数本伸ばしている状態をアップで。フィルムはコマ割りはされているが何も映っていないブランクの状態で生成。ゲームのローディング画面のような雰囲気。写実的に。\n比率 3:2 · 4K\n\n【阶段2 · GPT Image 2.5 Sunburst · 叠角色回忆】\n35mm版のポジフィルムのロールの断片を伸ばして画面狭しと重ねた状態。フィルムの重なりや背景がうっすらと映り込む。コマごとにキャラクターの楽しい思い出の撮影記録が現像されている。ライバルとの戦闘、武器を振り回してハイになった日、絶望しながら食べたカップ麺。昔の友達、栃木県の名勝。画像の右側にはキャラクターの可愛いポーズのイラストを不透過率80%の上層レイヤーとして生成。下層レイヤーは不透過率100%として、キャラクターの輪郭線がわずかに発光して背景から浮き上がらせている。電子ノイズと画像のノイズを除去したのち、フィルムで撮影したような粒子感を全体的に追加。キャラクターは『メカ七瀬（ななせ）』。超究銀河のメカ娘。機械の手指、先進的な装甲にインナーカラーの白髪ポニーテール、明るいアホの子。キャラクターはシンプルに描く。\n比率 3:2 · 4K · 品质最高 · 背景オート\n注：作者反馈 Flare 更容易把胶卷结构弄崩，优先 Sunburst。"
+  },
+  {
+    "id": "2100943297103778003",
+    "title": "夜窗海报硬刚：2 / Sunburst / Flare 同题十二格",
+    "blurb": "展览海报 NIGHT WINDOWS：同楼同机位 4×3 夜窗格，邻窗切片+四行小字全对。Image 2 缺邻窗、Sunburst 格线不齐、Flare 中列偏宽——100% 放大看差别；方法与单价在回复。",
+    "author": "FlyAIgh",
+    "url": "https://x.com/FlyAIgh/status/2100943297103778003",
+    "category": "选型评测",
+    "prompt": "Exhibition poster NIGHT WINDOWS: flat straight-on view of a printed sheet on warm off-white uncoated paper, one neo-grotesque typeface set small, a 4 by 3 grid with narrow gutters and a wider margin above than below. Every frame is the same old brick building photographed at night from across the street at the same distance, one tall sash window with a white frame and stone sill centred in each. Twelve rooms listed one by one (different lit interiors; nothing legible inside any window); neighbouring window-frame slices visible at the edges. Four lines of text only: title, subtitle, venue and dates, Free entry. Text-to-image, no reference. Compare GPT Image 2 High vs 2.5 Sunburst Max vs 2.5 Flare Max, 4K, 3:4; one run each, no rerolls."
+  },
+  {
+    "id": "2100943841427914827",
+    "title": "写真→水彩墨线涂鸦：构图死锁风格重绘",
+    "blurb": "上传参考锁构图/姿势/叙事，整图改成童趣水彩墨线速写：颤抖线压、克制色块、速写本留白。种草图变插画封面的可抄 must-stay 配方。",
+    "author": "MahnoorAi12",
+    "url": "https://x.com/MahnoorAi12/status/2100943841427914827",
+    "category": "人像角色",
+    "prompt": "Use the uploaded image as the primary reference. Preserve the exact overall composition, subject placement, pose, proportions, camera angle, and visual storytelling of the reference image.\n\nTransform the photograph into a charming minimalist hand-drawn watercolor-ink doodle illustration. Keep the large tree, seated girl, acoustic guitar, flowing skirt, surrounding grass, and natural background recognizable, but simplify them into playful, naive, childlike illustrated forms.\n\nUse loose black/brown brush-pen outlines with subtle wobble, uneven line pressure, spontaneous imperfect strokes, and organic hand-drawn contours. Add delicate watercolor washes in muted earthy greens, warm browns, soft beige, pale blue, and gentle cream tones. Keep colors restrained and slightly transparent, with visible watercolor texture and natural pigment variation.\n\nSimplify facial features into tiny expressive details while retaining the girl's relaxed pose and peaceful mood. Render the guitar with simple charming shapes and minimal details. Turn the tree bark, foliage, grass, and flowers into sparse sketchy marks rather than realistic textures.\n\nCreate a warm handmade sketchbook aesthetic: off-white textured paper, generous clean negative space, whimsical little botanical marks, tiny leaves and subtle decorative doodles, imperfect watercolor edges, occasional ink splatters, and an authentic artist-drawn feeling.\n\nAvoid photorealism, excessive detail, heavy shadows, 3D rendering, glossy digital effects, perfect geometric lines, or polished vector-art edges. The final image should look like a delicate artist's notebook illustration made by hand with ink and soft watercolor, while clearly retaining the composition and character of the uploaded reference image."
+  },
+  {
+    "id": "2100892897638019274",
+    "title": "经典超跑复古工程海报：四车规格全表",
+    "blurb": "F40 / Countach / 959 / F1 同框：米黄老化纸、三视图尺寸线、发动机剖视与规格栏——像 80–90 年代厂方工程单不是现代信息图。汽车/收藏海报完整英文 prompt。",
+    "author": "iamrealsnow",
+    "url": "https://x.com/iamrealsnow/status/2100892897638019274",
+    "category": "海报排版",
+    "prompt": "Create a collectible vintage automotive engineering poster featuring four legendary classic supercars: Ferrari F40 (1989), Lamborghini Countach 5000 QV (1985), Porsche 959 (1986), and McLaren F1 (1994).\n\nUse an aged cream paper background with subtle fibers, faded ink, pencil-and-ink technical illustrations and authentic 1980s–90s factory-document aesthetics. Give each car a prominent realistic 3/4 hero view, surrounded by front, side, rear and top technical drawings with dimensions.\n\nInclude concise specification panels explaining each car’s engine, horsepower, torque, drivetrain, suspension, brakes, aerodynamics, weight, acceleration and top speed. Add detailed mechanical illustrations of the engines, chassis and drivetrain, plus small studies of headlights, wheels, brakes, intakes, spoilers and interiors.\n\nUse numbered callouts, arrows, measurement lines, engineering annotations and period-style typography. Make the information feel like an authentic factory engineering sheet rather than a modern infographic.\n\nHighly detailed, realistic automotive rendering blended with hand-drawn technical artwork, sophisticated archival print texture, 16:9 landscape, ultra-high resolution."
   }
 ]
