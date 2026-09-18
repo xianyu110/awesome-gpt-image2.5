@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 534 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 537 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,16 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **夜窗海报硬刚：2 / Sunburst / Flare 同题十二格** — 展览海报 NIGHT WINDOWS：同楼同机位 4×3 夜窗格，邻窗切片+四行小字全对。Image 2 缺邻窗、Sunburst 格线不齐、Flare 中列偏宽——100% 放大看差别；方法与单价在回复。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2100943297103778003)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Exhibition poster NIGHT WINDOWS: flat straight-on view of a printed sheet on warm off-white uncoated paper, one neo-grotesque typeface set small, a 4 by 3 grid with narrow gutters and a wider margin above than below. Every frame is the same old brick building photographed at night from across the street at the same distance, one tall sash window with a white frame and stone sill centred in each. Twelve rooms listed one by one (different lit interiors; nothing legible inside any window); neighbouring window-frame slices visible at the edges. Four lines of text only: title, subtitle, venue and dates, Free entry. Text-to-image, no reference. Compare GPT Image 2 High vs 2.5 Sunburst Max vs 2.5 Flare Max, 4K, 3:4; one run each, no rerolls.
+```
+
+  </details>
 
 - **胶卷 Film Roll：Banana2 打底 + Sunburst 叠回忆** — 两阶段：Nano Banana 2 先出空白 35mm 胶卷底，再 Sunburst 把角色回忆烤进每一格。作者点名 Flare 更易崩胶卷结构——选型直接听劝。 [@094WPdx9ZrfYJnS](https://x.com/094WPdx9ZrfYJnS) · [原帖](https://x.com/094WPdx9ZrfYJnS/status/2100910986391900578)
   <details>
@@ -1046,6 +1056,24 @@ STACK: GPT Image 2.5 · Sunburst · high · 4K · 3:4
 - **东方制度海报续作：火政 / 凌室 / 市舶 / 合符** — 纸色与空间把制度逻辑嵌进画面：城防火政、跨季藏冰、海贸通关、合符验信。制度史/城市文明展览视觉的第二套配方。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100912078445830529)
 
 - **东方文化海报四联：钱法 / 岁序 / 律吕 / 田亩** — 大色域先画结构关系，再把故事塞进微型人物——货币流通、四季螺旋、音律校准、田亩入册。博物馆/知识系统/东方编辑设计直接对标。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100904687159361574)
+
+- **经典超跑复古工程海报：四车规格全表** — F40 / Countach / 959 / F1 同框：米黄老化纸、三视图尺寸线、发动机剖视与规格栏——像 80–90 年代厂方工程单不是现代信息图。汽车/收藏海报完整英文 prompt。 [@iamrealsnow](https://x.com/iamrealsnow) · [原帖](https://x.com/iamrealsnow/status/2100892897638019274)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a collectible vintage automotive engineering poster featuring four legendary classic supercars: Ferrari F40 (1989), Lamborghini Countach 5000 QV (1985), Porsche 959 (1986), and McLaren F1 (1994).
+
+Use an aged cream paper background with subtle fibers, faded ink, pencil-and-ink technical illustrations and authentic 1980s–90s factory-document aesthetics. Give each car a prominent realistic 3/4 hero view, surrounded by front, side, rear and top technical drawings with dimensions.
+
+Include concise specification panels explaining each car’s engine, horsepower, torque, drivetrain, suspension, brakes, aerodynamics, weight, acceleration and top speed. Add detailed mechanical illustrations of the engines, chassis and drivetrain, plus small studies of headlights, wheels, brakes, intakes, spoilers and interiors.
+
+Use numbered callouts, arrows, measurement lines, engineering annotations and period-style typography. Make the information feel like an authentic factory engineering sheet rather than a modern infographic.
+
+Highly detailed, realistic automotive rendering blended with hand-drawn technical artwork, sophisticated archival print texture, 16:9 landscape, ultra-high resolution.
+```
+
+  </details>
 
 - **多人海报破模板：超大头像 / 不规则裁切 / 视觉权重** — 别再等分九宫格——用 oversized 肖像、不规则裁切、粗体字和不均匀视觉重量把多人海报做出编辑感。活动 / campaign / 杂志多人 KV 可填槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100891321581875438) · [prompt](https://x.com/MrLarus/status/2100891369350877246)
 
@@ -3873,6 +3901,26 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **写真→水彩墨线涂鸦：构图死锁风格重绘** — 上传参考锁构图/姿势/叙事，整图改成童趣水彩墨线速写：颤抖线压、克制色块、速写本留白。种草图变插画封面的可抄 must-stay 配方。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100943841427914827)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded image as the primary reference. Preserve the exact overall composition, subject placement, pose, proportions, camera angle, and visual storytelling of the reference image.
+
+Transform the photograph into a charming minimalist hand-drawn watercolor-ink doodle illustration. Keep the large tree, seated girl, acoustic guitar, flowing skirt, surrounding grass, and natural background recognizable, but simplify them into playful, naive, childlike illustrated forms.
+
+Use loose black/brown brush-pen outlines with subtle wobble, uneven line pressure, spontaneous imperfect strokes, and organic hand-drawn contours. Add delicate watercolor washes in muted earthy greens, warm browns, soft beige, pale blue, and gentle cream tones. Keep colors restrained and slightly transparent, with visible watercolor texture and natural pigment variation.
+
+Simplify facial features into tiny expressive details while retaining the girl's relaxed pose and peaceful mood. Render the guitar with simple charming shapes and minimal details. Turn the tree bark, foliage, grass, and flowers into sparse sketchy marks rather than realistic textures.
+
+Create a warm handmade sketchbook aesthetic: off-white textured paper, generous clean negative space, whimsical little botanical marks, tiny leaves and subtle decorative doodles, imperfect watercolor edges, occasional ink splatters, and an authentic artist-drawn feeling.
+
+Avoid photorealism, excessive detail, heavy shadows, 3D rendering, glossy digital effects, perfect geometric lines, or polished vector-art edges. The final image should look like a delicate artist's notebook illustration made by hand with ink and soft watercolor, while clearly retaining the composition and character of the uploaded reference image.
+```
+
+  </details>
 
 - **Image 2.5 角色表 → Seedance 办公室潜行片** — 迟到上班做成潜行游戏：先用 GPT Image 2.5 定角色表，再 Seedance 多机位运动仍锁脸。角色一致性跨灯位/运镜的成片链路可抄。 [@VeoStudioEg](https://x.com/VeoStudioEg) · [原帖](https://x.com/VeoStudioEg/status/2100930165165478351)
 
