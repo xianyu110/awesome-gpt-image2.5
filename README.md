@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 486 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 491 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -936,6 +936,26 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **地标变巨型手工织物雕塑：可替换 STRUCTURE 公式** — 锁死地标轮廓与比例，外皮换成针织/编织织物，再撕开一角露出微型城市——`[STRUCTURE / LANDMARK]` 槽位直接换景点。建筑×手作反差海报模板，附完整 prompt。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100777758024675557)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A surreal, high-end architectural art photograph of [STRUCTURE / LANDMARK] transformed into a giant handcrafted textile sculpture, while preserving its instantly recognizable silhouette, proportions, architectural details, distinctive features, and original geometry.
+
+The structure is covered in soft knitted or woven fabric, with intricate cable-knit patterns inspired by the architecture. A section of the structure opens, peels back, or unfolds like a fabric vessel, revealing a beautifully detailed miniature world of [CITY / COUNTRY] emerging from inside.
+
+Inside the opening, show miniature elements strongly connected to the location: buildings, streets, rooftops, trees, bridges, landmarks, local transportation, landscapes, and subtle cultural details, all integrated naturally into the structure.
+
+The outer architecture gradually transitions between soft textile fibers and realistic architectural materials, creating a surprising contrast between handmade craftsmanship and structural precision. Keep the original architectural identity clearly recognizable.
+
+Minimal luxury studio setting, warm off-white background, soft directional daylight, subtle natural shadow, photorealistic materials, extremely detailed textile fibers, intricate architectural details, sophisticated muted color palette with carefully selected local colors, tactile handcrafted appearance, surreal but believable, premium editorial art photography, centered composition, generous negative space, collectible contemporary design object, 4:5 vertical composition.
+
+No people, no text, no logos, no watermark, no futuristic elements, no cyberpunk, no distorted architecture, no invented structural features. Preserve the landmark’s identity and proportions above everything else.
+```
+
+  </details>
 
 - **假装 Excel 做的传单：Office 外行感海报公式** — 町内会/公司要传单又怕被看出 AI？写成「Word/Excel 外行认真做的野鸡海报」——WordArt、荧光色、歪对齐全到位。完整日文 prompt 在回复。 [@sacher10610](https://x.com/sacher10610) · [原帖](https://x.com/sacher10610/status/2100754344132149260) · [prompt](https://x.com/sacher10610/status/2100754947948359838)
   <details>
@@ -3681,6 +3701,8 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **Grok bot 手绘形象：贴帖链接 + 接 Codex 用 Image 2.5** — 把示范帖丢给自家 Grok bot，让它手绘 bot 形象；记得先接 Codex 才能走 Image 2.5。宠物试手也行——虚拟助手形象一条龙。 [@KinGao476942](https://x.com/KinGao476942) · [原帖](https://x.com/KinGao476942/status/2100776158329733480)
+
 - **数字人素材链：Image 2.5 出图 + Seedance/MiniMax 出视频** — 图用 GPT Image 2.5，视频用 Seedance 2.5 或 MiniMax X3——礼物触发独舞/捏脸表情可指定。直播数字人从静帧到运镜的现成拼法。 [@yhslgg](https://x.com/yhslgg) · [原帖](https://x.com/yhslgg/status/2100753294025261329)
 
 - **耳环手镯可替换槽：PROTECTED 服饰配件模板** — 服装身份用 PROTECTED WARDROBE RULE 锁死，耳环/手镯当可换槽——加一对银环精致度直接爆。穿搭配件模块化可抄。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100727256129941733)
@@ -6065,6 +6087,10 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **母版图 + Preserve / Change / Delta：小步连改方法论** — 别再指望一段超长 prompt 一次成型；先锁母版、钉住保留元素，再用 Preserve / Change / Delta Edit 连续小改逼近终稿。Image 2.5 时代改图心法长文。 [@cheery9998](https://x.com/cheery9998) · [原帖](https://x.com/cheery9998/status/2100768331263311913)
+
+- **电商皂包装小字不糊：Images 2.5 经 Codex 出商品图** — 正方形商品照，「HERB GARDEN」与「よもぎと緑茶の石けん」腰带小字清晰可读。包装文字保真的电商静物对照。 [@kohaku_2100](https://x.com/kohaku_2100) · [原帖](https://x.com/kohaku_2100/status/2100777491036246402)
+
 - **同包装参考→多套活动产品照：不丢罐面** — 几张 OLIPOP 基础罐照，压出多套电商/广告方向，包装 logo/罐型/标签字死锁。没实拍棚也能批产战役图——包装 must-stay 工作流可抄。 [@zahra4sure](https://x.com/zahra4sure) · [原帖](https://x.com/zahra4sure/status/2100572388031156287)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -6354,6 +6380,8 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **Pinterest 日常照→文字反推→超写实静帧** — 先丢一张松散日常照，用 `/detailed-image-2-text-prompt` 反写出细节再文生图；换参考就能反复出「像拍的、不像提的」静帧。参考图驱动的写实工作流可抄。 [@adithatipalli](https://x.com/adithatipalli) · [原帖](https://x.com/adithatipalli/status/2100777678580461782)
 
 - **宋徽宗工笔 × 离谱主体：古画换主角通用公式** — 审美全锁宋代院体，只换霸王龙/DNA/飞船——越不该出现反差越香。附可抄通用公式，社媒反差图一条龙。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100761021413802212)
   <details>
