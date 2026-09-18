@@ -4245,5 +4245,54 @@
     "author": "MahnoorAi12",
     "url": "https://x.com/MahnoorAi12/status/2100817314837057912",
     "category": "人像角色"
+  },
+  {
+    "id": "2100812069385932848",
+    "title": "Image2 vs Flare vs Sunburst：同 prompt 速度与成片对打",
+    "blurb": "同一套 prompt 跑 GPT Image 2 / 2.5 Flare / 2.5 Sunburst，直接看升级差在哪。Flare 速度约 2.3× 于 Image 2，选型别只看样张。",
+    "author": "BLOCKLORDS",
+    "url": "https://x.com/BLOCKLORDS/status/2100812069385932848",
+    "category": "选型评测"
+  },
+  {
+    "id": "2100806204520034392",
+    "title": "印度漆器木玩旅行立体模型：[LOCATION] 模板",
+    "blurb": "4:5 电影感旅行 diorama，整座城刻进印度漆器木玩手作世界；换地名就能批产文旅 KV。立体模型感比平面海报更抓眼球。",
+    "author": "Goodmanprotocol",
+    "url": "https://x.com/Goodmanprotocol/status/2100806204520034392",
+    "category": "海报排版",
+    "prompt": "[LOCATION] - Premium 4:5 Cinematic Travel Diorama\n\nCreate a premium 4:5 cinematic travel diorama of [LOCATION], designed as a handcrafted Indian lacquered wooden-toy world. Everything should feel physically carved,\n\n(原文见推文；换 [LOCATION] 批产)"
+  },
+  {
+    "id": "2100578136010428777",
+    "title": "橡皮章旅行手账海报：[LOCATION] 可替换模板",
+    "blurb": "4:3 横版，目的地像盖进旅行者日记的印章页；换地名/主题就能出一组「拍过、盖过、留住」的纪念海报。",
+    "author": "Goodmanprotocol",
+    "url": "https://x.com/Goodmanprotocol/status/2100578136010428777",
+    "category": "海报排版"
+  },
+  {
+    "id": "2100823515230531608",
+    "title": "韩系时尚双变体：同一身份两套 editorial",
+    "blurb": "同一东亚女性身份锁死，出两张匹配的韩系高定写真变体；完整 SUBJECT/风格英文 prompt 可抄。系列时尚片别换脸。",
+    "author": "AIwithWania",
+    "url": "https://x.com/AIwithWania/status/2100823515230531608",
+    "category": "人像角色"
+  },
+  {
+    "id": "2100781932413952315",
+    "title": "头像→吉祥物连体衣：身份锁换装 prompt",
+    "blurb": "把 avi 锁成唯一身份权威，再套进受角色设计启发的 mascot suit；脸型/眼色/比例写死。粉丝二创 / OC 周边出图模板。",
+    "author": "NachtNovaAI",
+    "url": "https://x.com/NachtNovaAI/status/2100781932413952315",
+    "category": "人像角色"
+  },
+  {
+    "id": "2100827157471580462",
+    "title": "局部编辑 8 例：构图/人物保留只改痛点",
+    "blurb": "「整体挺好、就差这一处」别整张重跑；Images 2.5 留构图与人物，只修需要的部分。8 个实例 + prompt，改图心法入门。",
+    "author": "asahi_ai_x",
+    "url": "https://x.com/asahi_ai_x/status/2100827157471580462",
+    "category": "电商改图"
   }
 ]
