@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 520 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 524 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Sunburst 连改 20 次仍一致：编辑压测视频** — 一张图 → 改 → 再改编辑结果，连滚 20 轮人物与风格还不崩。选型时别只看首帧——一致性才是 Sunburst 被低估的地方。 [@StratosBase](https://x.com/StratosBase) · [原帖](https://x.com/StratosBase/status/2100896878564934042)
 
 - **n=4 批量自检：2 枚目以降对照 1 枚目修崩** — 一次出多张别指望运气——在 prompt 里写死「第 2 张起对照第 1 张与原文，有矛盾就改」。Work 模式少翻车的小补丁，日文原句可直接粘。 [@magu_ai_h](https://x.com/magu_ai_h) · [原帖](https://x.com/magu_ai_h/status/2100885947584074213)
   <details>
@@ -980,6 +982,8 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **多人海报破模板：超大头像 / 不规则裁切 / 视觉权重** — 别再等分九宫格——用 oversized 肖像、不规则裁切、粗体字和不均匀视觉重量把多人海报做出编辑感。活动 / campaign / 杂志多人 KV 可填槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100891321581875438) · [prompt](https://x.com/MrLarus/status/2100891369350877246)
 
 - **旅行实拍→明信片：上下分屏杂志插页** — 上半精修原片，下半抽最难忘的元素做成极简线稿小人互动小品 + 手写日期地点。Cape Town 实拍变 indie 杂志插页，文旅种草可抄。 [@kaen_sv](https://x.com/kaen_sv) · [原帖](https://x.com/kaen_sv/status/2100886866555986145) · [prompt](https://x.com/kaen_sv/status/2100886870561595456)
   <details>
@@ -3805,6 +3809,32 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **真人 × 动漫壁画：室内生活方式完整 prompt** — 写实女生叠进红墨 anime gunslinger 墙绘，接触阴影与透视写死。真人遇二次元生活方式竖版可直接抄长 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100894615985648037)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create an ultra-realistic cinematic lifestyle photograph of a young woman standing indoors in front of a large hand-drawn anime-style wall mural.
+
+The background features a dramatic red-and-white monochrome illustration of a mischievous anime gunslinger character wearing a large cowboy hat, round spiral goggles, a hooded jacket, utility belt, and boots, pointing a revolver toward the viewer. The illustration is drawn like a giant concept sketch directly on a white wall using deep red ink, with visible pencil construction lines, arrows, stars, geometric boxes, spiral symbols, question marks, and handwritten design notes. Add the handwritten word "VIBIN" in red on the right side.
+
+The real woman stands naturally in front of the mural, partially overlapping the illustrated character, creating a seamless real-life-meets-anime composition. She has shoulder-length dark brown slightly wavy hair, natural facial features, subtle makeup, and a calm confident expression while looking directly toward the camera.
+
+She wears an oversized white cropped sweatshirt with long loose sleeves, high-waisted loose-fit faded charcoal gray jeans, and a black studded belt with silver hardware. Her posture is relaxed and slightly leaning to one side, with one hand hanging naturally beside her body.
+
+Make the woman completely photorealistic with realistic skin texture, natural hair strands, accurate anatomy, realistic fabric folds, subtle shadows, and natural indoor lighting. The illustrated character remains clearly hand-drawn with bold red linework and sketch details.
+
+Use realistic perspective so the woman appears physically standing directly in front of the wall artwork. Add natural contact shadows around her body and feet. The red illustration should visually wrap around the composition without looking digitally pasted on.
+
+Vertical full-body composition, fashion photography aesthetic, slightly low camera angle, realistic indoor gallery lighting, high detail, sharp focus on the woman, detailed wall artwork, cinematic depth, natural colors, photorealistic, 4K, editorial photography.
+
+Aspect ratio: 9:16
+
+Negative prompt: distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, cartoon woman, plastic skin, blurry face, unnatural pose, floating body, incorrect perspective, poorly drawn hands, excessive makeup, text errors, warped clothing, low resolution, oversaturated colors, artificial lighting, messy background.
+```
+
+  </details>
 
 - **真人与铅笔素描同框：墙上 2D 互动肖像** — 粉发真人举手「发生啥了」+ 同姿态石墨线稿画在白墙上、局部叠进真人。反差编导人像可抄，完整英文 prompt 在帖内。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2100881011760619670)
   <details>
@@ -7837,6 +7867,8 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **Image 2.5 做 GIF：中文一句就能玩** — 用 GPT-Image 2.5 出帧再拼 GIF，中文说明 + 示范动图。表情包 / 短动效种草门槛被砍到「会说话就行」。 [@_AIBOZ_](https://x.com/_AIBOZ_) · [原帖](https://x.com/_AIBOZ_/status/2100893023416811712)
 
 - **毡艺静帧→Seedance 短片：Image 2.5 出图链路** — 先用 GPT Image 2.5 锁一张毡艺世界观静帧，再丢进 Seedance 2.0 Mini 动起来。一帧图也能讲出小故事——静转动种草管线。 [@akiwithai](https://x.com/akiwithai) · [原帖](https://x.com/akiwithai/status/2100794645639012728)
 
