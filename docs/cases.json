@@ -1,5 +1,263 @@
 [
   {
+    "id": "2100886866555986145",
+    "title": "旅行实拍→明信片：上下分屏杂志插页",
+    "blurb": "上半精修原片，下半抽最难忘的元素做成极简线稿小人互动小品 + 手写日期地点。Cape Town 实拍变 indie 杂志插页，文旅种草可抄。",
+    "author": "kaen_sv",
+    "url": "https://x.com/kaen_sv/status/2100886866555986145",
+    "category": "海报排版",
+    "prompt": "Turn my uploaded photo into a 3:4 vertical split-screen image, divided evenly into top and bottom halves.\n\nTop half: keep the original subject, composition, lighting, and realistic texture. Apply only a natural, refined, magazine-style color grade.\n\nBottom half: do not simply copy the original. First, identify what is most memorable about the photo — it could be a subject, an action, a relationship, a mood, or a subtle coincidence within the frame. Extract the most representative element and reimagine it as a playful little scene combining the real subject with minimalist black line-drawn figures.\n\nKeep the subject's real materials and colors. Draw the figures with thin black lines, and let them interact naturally with the scene — climbing, carrying, observing, pulling, repairing, and so on. Use an off-white or light background with generous negative space.\n\nBased on the photo's mood, Add a short handwritten English note, like a casual journal entry, with the date and location, e.g. Sept 18, Boo kap, like a casual side note.\nThe overall feel should be light, restrained, and clever, like a small insert page in an indie magazine. Avoid a cartoon sticker look, and don't overcrowd the composition.",
+    "playbook": "https://x.com/kaen_sv/status/2100886870561595456"
+  },
+  {
+    "id": "2100885947584074213",
+    "title": "n=4 批量自检：2 枚目以降对照 1 枚目修崩",
+    "blurb": "一次出多张别指望运气——在 prompt 里写死「第 2 张起对照第 1 张与原文，有矛盾就改」。Work 模式少翻车的小补丁，日文原句可直接粘。",
+    "author": "magu_ai_h",
+    "url": "https://x.com/magu_ai_h/status/2100885947584074213",
+    "category": "选型评测",
+    "prompt": "n=4などで一度に複数枚を生成する時、\n\n\"2枚目以降を生成する際は、完成した1枚目とプロンプトを照らし合わせ、矛盾や破綻があれば修正する\"\n\nって入れとくと、2枚目以降かなり修正してくれました!!"
+  },
+  {
+    "id": "2100881842513850425",
+    "title": "Images 2.5 出设计 → Codex 直接搓 LP",
+    "blurb": "别先开 Figma：ChatGPT Images 2.5 出整页视觉，原图丢给 Codex 转 HTML，只改刺眼处。落地页从「好看」到「能上线」的最短桥。",
+    "author": "revolvtech",
+    "url": "https://x.com/revolvtech/status/2100881842513850425",
+    "category": "UX产品",
+    "playbook": "https://x.com/revolvtech/status/2100872475185963027"
+  },
+  {
+    "id": "2100881011760619670",
+    "title": "真人与铅笔素描同框：墙上 2D 互动肖像",
+    "blurb": "粉发真人举手「发生啥了」+ 同姿态石墨线稿画在白墙上、局部叠进真人。反差编导人像可抄，完整英文 prompt 在帖内。",
+    "author": "Shorelyn_",
+    "url": "https://x.com/Shorelyn_/status/2100881011760619670",
+    "category": "人像角色",
+    "prompt": "Create an ultra-realistic creative portrait of a young woman standing indoors against a clean white wall, seamlessly interacting with a large hand-drawn black-and-white pencil sketch of her standing beside her.\n\nThe real woman stands on the right side, wearing an oversized black distressed sweatshirt, loose dark cargo-style jeans with stitched panel details, and black-and-white canvas sneakers. She has long straight pastel pink hair and a playful, slightly surprised smile, looking directly at the camera. Her arms are raised outward with both palms facing upward in a cute \"what's going on?\" pose.\n\nBehind and slightly to the left of her, create a large expressive hand-drawn pencil sketch version of the same woman. The sketch should closely match her pose, proportions, hairstyle, facial expression, clothing silhouette, and hand positions, drawn with loose rough graphite strokes, visible cross-hatching, imperfect lines, and an authentic notebook-sketch aesthetic.\n\nMake the sketch appear physically drawn directly onto the wall, with parts of the sketch slightly overlapping the real woman to create a surreal 2D-to-3D interaction. Add playful hand-drawn doodles around the sketch, including stars, hearts, motion lines, small circles, and expressive marks.\n\nMinimal white studio background, soft natural lighting, subtle floor shadow, realistic skin and fabric texture, detailed hair strands, authentic photography, strong contrast between the monochrome pencil drawing and the colorful real person, whimsical editorial photography, clever visual storytelling, seamless integration, highly detailed, photorealistic, vertical composition, 4:5 aspect ratio."
+  },
+  {
+    "id": "2100876933236220383",
+    "title": "车内 POV 事故首帧：玉米车×沥青车→爆米花海",
+    "blurb": "Coke×Mentos 变体：玉米散装车 + 高温沥青罐，手机偷拍质感锁第一帧，再丢 Seedance 跑过程。中文长 prompt 写死「只要十几颗刚爆的」，别让整条路先变白。",
+    "author": "DDJCXX",
+    "url": "https://x.com/DDJCXX/status/2100876933236220383",
+    "category": "场景视觉",
+    "prompt": "生成一张完全真实的手机视频首帧，像坐在正在行驶的汽车里偶然拍到的一场高速公路事故。\n\n竖屏 3:4。\n\n镜头从汽车内部透过挡风玻璃向前拍摄，画面中保留挡风玻璃、轻微雨点、玻璃反射、一侧 A 柱，以及底部少量仪表台 / 引擎盖。\n\n整体必须是普通消费级手机偷拍视频质感，不要电影感，不要 HDR，不要商业摄影。\n\n前方高速公路左侧，两辆大型商用车辆紧挨着停在同一个事故区域：\n\n第一辆是一辆大型农业散装运输车，车内装满用于制作爆米花的黄色玉米粒。\n\n车厢后部或下方已经破损，大量金黄色干玉米粒正在持续洒落到柏油路上，在左侧车道形成明显的玉米粒带和浅堆积。\n\n第二辆车紧挨着它，是一辆大型高温沥青罐车。\n\n工业圆柱形罐体，真实、厚重、脏污，有高温警示标识。\n\n罐车后部或下方附近有明显高温区域，可以看到轻微蒸汽、热浪扭曲，以及黑色高温沥青残留。\n\n关键细节：\n\n部分黄色玉米粒已经滚进高温区域。\n\n但此时只有极少量玉米刚刚爆开。\n\n地面上只散落大约 10–30 颗新鲜白色爆米花，其余绝大多数仍然是黄色未爆开的玉米粒。\n\n可以有一两颗玉米正在爆开的瞬间。\n\n不要出现人物。\n\n不要出现爆米花桶。\n\n不要出现爆米花山。\n\n不要大规模爆发。\n\n不要火球。\n\n不要爆炸。\n\n不要让整条路已经变白。\n\n拍摄车辆仍然正在靠近事故现场，两辆卡车位于前方而不是紧贴镜头。\n\n远处保留高速公路消失点和少量正常车辆。\n\n阴天白昼，雨后湿润柏油路，自然反光。\n\n整个画面必须像一个路人突然发现：\n\n玉米运输车 + 高温沥青车 + 地上居然已经出现几颗爆米花。\n\n真实、偶然、未经摆拍。"
+  },
+  {
+    "id": "2100871323719209165",
+    "title": "时尚线稿→超写实：错配鞋四连（loafer/croc/…）",
+    "blurb": "同一 editorial 线稿主题，只换错配鞋型：乐福、洞洞鞋、细高跟、球鞋。Sketch 控形 + Image 2.5 写实，穿搭号「一稿多变」示范。",
+    "author": "zayyadatullah",
+    "url": "https://x.com/zayyadatullah/status/2100871323719209165",
+    "category": "Sketch"
+  },
+  {
+    "id": "2100867925758411176",
+    "title": "Fortune 500 品牌世界微缩 2×2：物理力重塑城市",
+    "blurb": "把品牌名做成巨型建筑字，再让波浪/漩涡/熔流等一种物理力雕塑整座迷你文明。高端概念 KV / 品牌世界观海报可填 $SUBJECT。",
+    "author": "Gdgtify",
+    "url": "https://x.com/Gdgtify/status/2100867925758411176",
+    "category": "海报排版",
+    "prompt": "2x2 grid, 16:9, do this for 4 fortune 500 comapnies: CONCEPT ANCHOR 1: \"City transformed by a physical force — skyline shaped into wave, whirlpool, splash, drip, pressure burst, molten flow, or suspended liquid architecture\"  ::  CONCEPT ANCHOR 2: \"Miniature civilization wordmark — giant subject name acts as infrastructure, with roads, tiny workers, vehicles, parks, ports, and buildings arranged around it\"  ::  CONCEPT ANCHOR 3: \"Luxury object render — dark neutral background, macro clarity, sharp shadows, realistic miniature materials, high-end concept model finish\"  INSTRUCTION: Render $ SUBJECT as if its entire identity has been sculpted by one dramatic elemental force.  STYLE RULES: - Choose one dominant force based on the subject's spirit: wave, vortex, gravity fold, flame, sandstorm, crystal bloom, fog bank, magnetic field, liquid metal, glass splash, moss growth, paper curl, smoke plume, or data stream. - Convert $ SUBJECT into a city-like miniature ecosystem caught inside that force. - Convert the subject's name into large physical architecture integrated into the sculpture. - Make the letters readable but partially shaped by the force: eroded, flowing, folded, dripping, crystalline, melting, stacked, flooded, or levitating. - Build tiny subject-relevant details across the scene: vehicles, people, tools, bridges, signals, signs, interiors, gardens, docks, cranes, screens, tunnels, or monuments. - Use realistic material behavior: wet shine, glass refraction, stone fracture, mist, particles, foam, metallic reflections, glowing lights. - Add one tiny viewer beneath or beside the object to create awe and scale. - Keep the image cinematic, premium, surreal, and highly inspectable.  OUTPUT: A viral miniature world where  $ SUBJECT becomes a physical skyline-wordmark sculpture transformed by a dramatic elemental force."
+  },
+  {
+    "id": "2100858381636624418",
+    "title": "自拍身份锁 + 手里捏黏土自己：渔港双版本",
+    "blurb": "primary identity reference 保脸，本人抱着同脸手工黏土玩偶站在日本渔港。UGC 锁脸又不无聊——「真人 + 纪念品自己」一套公式。",
+    "author": "MrDasCreates",
+    "url": "https://x.com/MrDasCreates/status/2100858381636624418",
+    "category": "人像角色",
+    "prompt": "Use the uploaded portrait photo as the primary identity reference. Preserve the person's recognizable facial identity as accurately as possible, including face shape, apparent age, hairstyle, eyebrows, eyes, nose, mouth, jawline, skin tone, expression, and overall character.\nCreate a cinematic, photorealistic 4:3 portrait scene on a quiet early-morning fishing pier in a small Japanese coastal town. Show the same person from the uploaded photograph standing on weathered wooden planks beside a wooden crate, with calm gray-blue water, moored wooden boats, hanging fishing nets, mist over the harbor, and distant tiled-roof houses fading into fog.\nThe person should be clearly visible and photographed realistically, wearing a simple dark jacket or knit sweater. They hold a handmade clay doll of themselves toward the camera with both hands.\nThe doll is a small, slightly exaggerated artisan clay figurine of the same person, sculpted in the style of a charming Japanese folk toy or tourist souvenir. It should look handmade from matte clay, with visible fingerprints, tool marks, and a slightly imperfect surface. Keep it clearly recognizable as the same person.\nPush the doll's features theatrically: oversized head, big expressive eyes, a comically large nose or grin, simplified body, wild hair or hat shape, and a playful pose. Keep it cute, humorous, and artistic rather than grotesque. The doll can wear a tiny version of similar clothing and stand on a small rustic wooden or clay base.\nImportant: clearly show both versions in a single image: the real, photorealistic person and the clay doll version of the same person in their hands.\nUse soft overcast morning light, high detail, natural skin texture, believable hands holding the figurine, a calm harbor atmosphere, and a vintage Japanese seaside souvenir feel."
+  },
+  {
+    "id": "2100858084629626948",
+    "title": "中文提示词骨架：在哪 / 是谁 / 光怎么走 / 不要什么",
+    "blurb": "四问拆开写，比堆形容词稳。小海豚笔记长文把 Image 2.5 中文写法收成框架——入门少翻车，先问限制再问美。",
+    "author": "gaoren7716",
+    "url": "https://x.com/gaoren7716/status/2100858084629626948",
+    "category": "选型评测",
+    "playbook": "https://x.com/i/article/2100855552205377536"
+  },
+  {
+    "id": "2100857652494692508",
+    "title": "Cosplay 衣装按类可换：PROTECTED 哥特整套模板",
+    "blurb": "外套/胸衣/短裙/腿甲/靴/手套/护颈——每件写成不可变身份，再只改穿法与层叠。MoodLock 换装系列继续发糖，完整长 prompt 在帖内。",
+    "author": "MoodLock_JP",
+    "url": "https://x.com/MoodLock_JP/status/2100857652494692508",
+    "category": "人像角色",
+    "prompt": "PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. If source prose omits or misclassifies a component required by an explicit selection, that selection corrects only that component. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.\n\nWardrobe:\n\nOuterwear / layers: An asymmetric white-and-ash-gray long-pile fur mantle with a high, dramatically flared collar of layered pointed tufts around the neck and shoulders. The wearer's left side expands into a heavy pelt that falls outside the arm and down the flank nearly to the ankle, tapering into long irregular wisps; the right side remains a short shoulder drape ending over the upper arm. The fur has pale tips, smoky gray roots and a coarse, windswept texture. A concealed leather shoulder yoke, dark flexible lining and a small hidden front hook support the sleeveless construction while leaving the center front open.\n\nTop: A black leather longline corset top with rounded sculpted bust cups, a narrow vertical center bridge and curved riveted seams highlighted by worn pewter trim. Its fitted front narrows sharply through the waist, with layered diagonal leather reinforcements and a pointed high-hip hem. Large side cutouts lead into an open back built from broad crossed leather straps, adjustable buckled underarm bands and a narrow reinforced spine panel, leaving generous geometric spaces between the straps. An elongated silver-gray blade ornament with a deep red inset sits on the upper spine, and a smaller matching ornament marks the underbust. Dark-silver chain swags drape beneath the cups and descend in a V toward the front waist. The leather has a restrained satin sheen, fine creasing and dark stitched edges, with lining confined to the solid panels.\n\nBottom:\n\nHigh-cut black armored briefs with a close-fitting, full-seat leather-look base and sharply angled leg openings. Overlapping downward-pointing gunmetal V plates reinforce the upper front above a smooth curved crotch panel, with a fine central seam, worn silver edges and restrained dark-red accents at the plate junctions. A narrow fitted waistband and concealed side zipper complete the separate garment, while flexible black backing continues across the seat.\n\nA gothic utility overskirt suspended from a broad black leather belt reinforced with silver-edged polygonal gunmetal plates, crimson insets and a pointed red shield-shaped center buckle. Three overlapping tiers of paired, shallow box pouches cover the left hip, with silver-bordered flaps, small red fastening tabs and concealed snaps; slimmer pouch-and-tasset strips hang over the right hip. Riveted straps and pointed metal tips extend below the storage panels. Long, narrow crimson and charcoal fabric tails fall from beneath the belt around the sides and back, leaving the center front open, with irregular holes and deeply shredded hems reaching the lower calves and ankles. A broader charcoal rear tabard has a ragged pale-gray underlayer exposed at its pointed lower edge. Two long metal-link chains frame this rear panel, a finer chain drapes between them, and angular ferrules with dark-red pointed ends finish the hanging hardware.\n\nFinal worn state:\nFor the second item description above only:\n- Garter placement: Wear exactly two physical garters or thigh bands, one level around each corresponding thigh at matching height and orientation. Preserve the registered pair identity, closures, straps, and ornaments. Do not add, omit, merge, mirror, duplicate, twist, or move either member to a knee, calf, or ankle.\n\nLegwear: A pair of blackened-metal leg guards with pointed front thigh plates supported by buckled lower-thigh bands and crossed leather straps behind the thighs, leaving large side and rear openings. Faceted red-and-black knee crests project forward between silver-edged lateral pivot plates. Overlapping scale-shaped armor encloses the calves, flowing into long raised shin ridges that narrow toward the ankles. Thin crimson channels, small red fasteners and worn silver outlines trace the articulated geometry. Flexible backing beneath the plates and concealed overlapping rear-calf closures complete the fitted guards.\n\nFootwear: A pair of black armored ankle boots with thick segmented forefoot platforms, broad faceted closed toes and tall tapered block heels separated from the soles by deep arch openings. Overlapping gunmetal plates cover the toes and insteps, outlined by rubbed silver edges and narrow crimson accents. Raised ankle cuffs flare into black-and-red blade fins with triangular silver tips and round red pivot studs. Reinforced heel counters carry small amber rectangular inserts above long crimson heel channels. Concealed inner-side zippers, dark leather backing, soft lining and textured rubber sole pads complete the boots.\n\nGloves: A pair of articulated black leather arm-armor assemblies extending from buckled upper-arm bands to full-finger gloves. Red circular hubs sit in square bicep plates above silver-edged upper-arm segments, flexible elbow joints and long tapered forearm shells. Pointed lateral fins, silver kite-shaped inlays and crimson channels accent the dark metal. The left outer forearm carries an additional slim rectangular housing with a raised red border and a flush dark lid. Overlapping hand and finger plates have small red knuckle nodes, while flexible leather palms, inner adjustment buckles and articulated wrist sections complete the wearable construction.\n\nDetachable collars / neck guards: A close-fitting blackened-metal gorget necklace on a black leather backing, built from articulated angular neck plates with worn pewter edges. Two raised front points flank a shallow central notch, below which a broad openwork heraldic ornament descends into a long spear-shaped chest point. A raised silver-gray central blade and hooked lateral arms frame two small ember-red stones against recessed black sections. The collar continues around the neck in matching segmented plates and closes with a small rear leather buckle."
+  },
+  {
+    "id": "2100854831837782439",
+    "title": "角色当壁纸：16:9 macOS 桌面构图完整公式",
+    "blurb": "上传角色图 → 自适应配色壁纸 + 日文菜单栏/Dock/三图标，主体靠右留白。Image 2.5 静帧再接 Wan 动效；桌面壁纸/虚拟桌面素材一条龙。",
+    "author": "Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2100854831837782439",
+    "category": "UX产品",
+    "prompt": "Using the uploaded image as the subject reference, create a polished 16:9 macOS desktop composition.\n\nSubject:\nIdentify the main subject or characters in the reference and preserve their recognizable appearance, facial features, hairstyle, clothing, accessories, proportions, and original visual style. Keep interacting characters together. If the reference is a character design sheet with multiple views of the same character, use only one main view. Remove the original background, reference-sheet panels, captions, and decorative borders.\n\nComposition:\nPlace the subject on the RIGHT side, occupying approximately 35–45% of the canvas. Leave generous uncluttered space across the left and center. Keep faces and important gestures fully visible. Preserve the full body when the reference provides it; otherwise, use a natural crop without inventing unseen anatomy. Keep the subject clear of the menu bar and Dock.\n\nAdaptive wallpaper:\nDesign a custom background that matches the subject's colors, personality, clothing, and mood. Combine the broad flowing curves and smooth gradients of classic macOS wallpapers with a palette drawn from the reference.\n\nFor soft or gentle subjects, use delicate pastel gradients. For energetic subjects, use restrained vibrant accents. For elegant or mysterious subjects, use rich darker tones with subtle highlights. Make these choices based on the actual reference rather than applying the same palette to every image.\n\nKeep the background simpler and less visually dominant than the subject. Use tonal separation so dark clothing remains visible against dark backgrounds and light hair remains visible against pale backgrounds. Add only a few subtle thematic details when appropriate.\n\nDesktop interface:\nInclude a thin translucent macOS menu bar across the top, with the Apple symbol, Finder, and Japanese menu labels:\nファイル  編集  表示  移動  ウインドウ  ヘルプ\nPlace small system status icons and a clock at the upper right.\n\nOn the upper left, arrange exactly three modestly sized desktop items in one vertical column:\n• A blue folder labeled \"仕事\"\n• A blue folder labeled \"写真\"\n• A screenshot thumbnail labeled \"スクリーンショット\"\n\nUse consistent spacing and small, readable white labels with subtle shadows.\n\nAdd a realistically sized translucent macOS Dock near the bottom center, shifting slightly left if necessary to avoid overlapping the subject. Include Finder, Safari, LINE, Mail, Calendar, Notes, Music, System Settings, followed by a separator, Downloads, and Trash.\n\nFinal appearance:\nThe result should look like a cohesive personalized Mac desktop screenshot, with a character-inspired wallpaper and clean, believable interface elements. Preserve the reference's art style rather than converting every subject to anime or photorealism.\n\nNo physical laptop, monitor frame, open application windows, extra characters, duplicated subjects, large titles, or additional desktop icons. Render the desktop directly edge to edge in a wide 16:9 image.",
+    "playbook": "https://x.com/Mayz1169/status/2100856797246500988"
+  },
+  {
+    "id": "2100848044518592693",
+    "title": "「缺失感」2×2 信息图：负空间讲统计",
+    "blurb": "别画「有什么」——用空椅子、挖空方块、消失的城市街区把 [TOPIC] 的损失做成博物馆级极简 3D。选题可视化 / 公益数据海报现成骨架。",
+    "author": "Gdgtify",
+    "url": "https://x.com/Gdgtify/status/2100848044518592693",
+    "category": "海报排版",
+    "prompt": "2x2 grid, 16:9, AI infers viral topics: Create a haunting, minimalist 3D visualization that represents what is missing, lost, avoided, delayed, or erased because of [TOPIC]. The AI should choose a statistic involving loss: missing sleep, lost time, extinct species, unbuilt homes, unpaid wages, wasted food, lost attention, preventable deaths, disappearing land, delayed care, or unrealized potential.  Instead of showing the object directly, represent it as negative space: empty chairs, ghost outlines, hollow cubes, missing city blocks, erased silhouettes, transparent containers, absent books, unfilled beds, or a carved-out void in a solid mass. The missing quantity should feel physically present through absence.  Style: museum-grade isometric 3D render, matte clay and translucent materials, soft directional lighting, quiet shadows, neutral grey backdrop. Use one oversized numeral as a solemn anchor. Caption: what is missing, time period, metric, and source year. Add a tiny human silhouette for emotional scale.  The spirit: make absence feel heavier than presence."
+  },
+  {
+    "id": "2100827183468237189",
+    "title": "身份锁定时尚棚拍：STYLE / WARDROBE / POSE / LIGHTING",
+    "blurb": "参考图锁脸锁体型，再拆 STYLE / WARDROBE / POSE / LIGHTING / CAMERA 分段写死。高定棚拍可抄完整英文 prompt，别让模特变成路人。",
+    "author": "shushant_l",
+    "url": "https://x.com/shushant_l/status/2100827183468237189",
+    "category": "人像角色",
+    "prompt": "high-end Fashion Portrait of the exact person shown in the attached reference image.\n\nPreserve the person’s facial identity, facial structure, skin tone, hairstyle, hairline, eyes, nose, lips, jawline, body proportions, and recognizable features as accurately as possible. Do not change their identity or make them look like a different person.\n\nSTYLE:\nLuxury editorial fashion photography, contemporary menswear campaign, sophisticated, stylish, confident, premium magazine aesthetic, modern and aspirational.\n\nWARDROBE:\nDress him in an impeccably tailored modern outfit, such as a structured designer jacket over a minimal premium shirt, perfectly fitted trousers, subtle luxury accessories, and refined styling. Keep the clothing elegant, masculine, minimal, and fashion-forward.\n\nPOSE:\nConfident fashion-model pose, relaxed shoulders, strong posture, natural body language, looking directly into the camera with a calm and composed expression. Make the pose feel effortless rather than overly staged.\n\nLIGHTING:\nProfessional fashion studio lighting with a large soft key light, subtle fill light, controlled shadows, beautiful facial definition, soft highlights on the skin and clothing, realistic skin texture, and premium editorial lighting.\n\nBACKGROUND:\nMinimal luxury studio backdrop with clean architectural simplicity, subtle depth, sophisticated neutral tones, and no distracting objects.\n\nCAMERA:\nShot on a professional full-frame camera with an 85mm portrait lens, shallow depth of field, sharp focus on the eyes and face, natural perspective, realistic optical characteristics, high dynamic range, and detailed fabric textures.\n\nCOMPOSITION:\nWaist-up fashion portrait, subject centered or slightly off-center, clean negative space, strong editorial composition, premium magazine campaign framing.\n\nAESTHETIC:\nPhotorealistic, cinematic, sophisticated, masculine, contemporary, elegant, clean, editorial, high-fashion, premium, realistic skin pores and texture, natural facial details, subtle professional color grading.\n\nAvoid plastic-looking skin, excessive retouching, exaggerated muscles, distorted anatomy, artificial facial features, oversaturated colors, excessive accessories, unrealistic lighting, cartoonish details, text, logos, and watermarks.\n\nThe final image should look like a real photograph from a premium international fashion editorial while clearly remaining the same person as the attached reference image."
+  },
+  {
+    "id": "2100827157471580462",
+    "title": "局部编辑 8 例：构图/人物保留只改痛点",
+    "blurb": "「整体挺好、就差这一处」别整张重跑；Images 2.5 留构图与人物，只修需要的部分。8 个实例 + prompt，改图心法入门。",
+    "author": "asahi_ai_x",
+    "url": "https://x.com/asahi_ai_x/status/2100827157471580462",
+    "category": "电商改图"
+  },
+  {
+    "id": "2100827087326076976",
+    "title": "Grok vs ChatGPT Images 2.5：同 prompt 高定浴室过肩镜头",
+    "blurb": "同一段高定浴室过肩 hero prompt，左右对照 Grok 与 ChatGPT Images 2.5。硬刚选型别靠感觉，同题同光位最狠。",
+    "author": "johnAGI168",
+    "url": "https://x.com/johnAGI168/status/2100827087326076976",
+    "category": "选型评测",
+    "prompt": "A cinematic high-fashion editorial photograph captured on location — an intimate waist-up hero composition of an East Asian woman in a luxury marble bathroom suite, the camera positioned at eye level in a three-quarter rear framing capturing her striking over-the-shoulder gaze and the reflective vanity mirror in an M2 luxury interior editorial register.\n\nThe woman has a sleek, glossy jet-black blunt bob haircut that grazes her shoulders with clean-cut ends, complemented by soft, airy wispy fringe framing her brow. Her fair, porcelain-toned skin displays natural fine pore texture, delicate shoulder blades, and subtle subsurface scattering under warm vanity lighting. Her defined almond eyes look back over her right shoulder directly toward the camera with a poised, captivating expression, paired with a sculpted profile, soft blush, and naturally glossy rose lips. She wears an architectural backless black silk halter evening piece: completely open across the spine, secured by delicate geometric crisscross black satin micro-straps intersecting at a miniature black floral buckle fastener at the mid-back and tying low around the waist, paired with matching draped black bottoms. She leans slightly forward over the vanity counter with one arm extended for support, her torso gracefully twisted to showcase both the intricate back strap design and her elegant silhouette.\n\nThe setting is an opulent contemporary hotel bathroom vanity area — in front of her sits a polished black marble countertop with an undermount white porcelain sink and modern chrome swan-neck faucets, with the large vanity mirror reflecting a soft frontal view of her draped silhouette and the surrounding suite. In the softly blurred background, a freestanding white oval soaking tub and polished white-and-gray veined marble walls complete the high-end architectural interior.\n\nThe scene is illuminated by soft, flattering luxury hospitality vanity lighting — diffused warm-white glow radiating from surrounding mirror sconces and recessed ceiling fixtures, evenly enveloping her shoulders, neck, and back with creamy, gentle illumination without harsh cast shadows. Crisp, subtle specular highlights glint off the polished chrome bathroom fixtures, the wet sink basin, and the sleek surface of her black satin straps, enhancing the tactile luxury of the space.\n\nCaptured with a wide-latitude digital cinema look on a fast 50mm portrait prime lens at T2.0, delivering razor-sharp optical detail across her facial profile, eyeliner, individual hair strands, and the satin strap intersections, while the vanity mirror reflection and bathroom background melt into soft, organic circular bokeh. Refined high-end interior color grade balancing cool marble veins with warm, radiant skin tones and deep, uncrushed blacks in the fabric, finished with fine, organic 35mm theatrical film grain across the frame. Real photographic frame captured on a real cinema camera, real prime lens, real silk satin fabric, real marble countertop, real East Asian human subject, real luxury bathroom environment — no CGI, no rendered look, no digital cleanliness, no plastic surfaces, no AI smoothness, no skin smoothing, no glow, no halation bloom that reads as artificial, no glossy highlights."
+  },
+  {
+    "id": "2100823515230531608",
+    "title": "韩系时尚双变体：同一身份两套 editorial",
+    "blurb": "同一东亚女性身份锁死，出两张匹配的韩系高定写真变体；完整 SUBJECT/风格英文 prompt 可抄。系列时尚片别换脸。",
+    "author": "AIwithWania",
+    "url": "https://x.com/AIwithWania/status/2100823515230531608",
+    "category": "人像角色"
+  },
+  {
+    "id": "2100817314837057912",
+    "title": "玻璃肤双机位：低角度特写 + 平视侧脸",
+    "blurb": "同一玻璃肤妆面，低角度特写与平视侧脸两套机位对照。妆造锁定、机位换汤不换药——美妆种草分镜可抄。",
+    "author": "MahnoorAi12",
+    "url": "https://x.com/MahnoorAi12/status/2100817314837057912",
+    "category": "人像角色"
+  },
+  {
+    "id": "2100812069385932848",
+    "title": "Image2 vs Flare vs Sunburst：同 prompt 速度与成片对打",
+    "blurb": "同一套 prompt 跑 GPT Image 2 / 2.5 Flare / 2.5 Sunburst，直接看升级差在哪。Flare 速度约 2.3× 于 Image 2，选型别只看样张。",
+    "author": "BLOCKLORDS",
+    "url": "https://x.com/BLOCKLORDS/status/2100812069385932848",
+    "category": "选型评测"
+  },
+  {
+    "id": "2100806204520034392",
+    "title": "印度漆器木玩旅行立体模型：[LOCATION] 模板",
+    "blurb": "4:5 电影感旅行 diorama，整座城刻进印度漆器木玩手作世界；换地名就能批产文旅 KV。立体模型感比平面海报更抓眼球。",
+    "author": "Goodmanprotocol",
+    "url": "https://x.com/Goodmanprotocol/status/2100806204520034392",
+    "category": "海报排版",
+    "prompt": "[LOCATION] - Premium 4:5 Cinematic Travel Diorama\n\nCreate a premium 4:5 cinematic travel diorama of [LOCATION], designed as a handcrafted Indian lacquered wooden-toy world. Everything should feel physically carved,\n\n(原文见推文；换 [LOCATION] 批产)"
+  },
+  {
+    "id": "2100796248068702688",
+    "title": "Sketch 认真线稿→写实成片：控形对照",
+    "blurb": "线稿画扎实再喂 GPT Images 2.5 Sketch，写实成片直接贴脸对照。控构图别靠嘴炮，先把素描焊死。",
+    "author": "AIPixLab",
+    "url": "https://x.com/AIPixLab/status/2100796248068702688",
+    "category": "Sketch"
+  },
+  {
+    "id": "2100794645639012728",
+    "title": "毡艺静帧→Seedance 短片：Image 2.5 出图链路",
+    "blurb": "先用 GPT Image 2.5 锁一张毡艺世界观静帧，再丢进 Seedance 2.0 Mini 动起来。一帧图也能讲出小故事——静转动种草管线。",
+    "author": "akiwithai",
+    "url": "https://x.com/akiwithai/status/2100794645639012728",
+    "category": "像素动效"
+  },
+  {
+    "id": "2100792989979447646",
+    "title": "中文两套可抄：棚拍人像 / 户外自然光",
+    "blurb": "别再用「好看一点」糊弄人像——棚拍硬光与户外自然光两套中文提示词直接开抄，适合种草人像与虚拟 IP 试妆。",
+    "author": "gaoren7716",
+    "url": "https://x.com/gaoren7716/status/2100792989979447646",
+    "category": "人像角色"
+  },
+  {
+    "id": "2100787007811362831",
+    "title": "自拍→电影海报四步流",
+    "blurb": "上传自拍 → Gemini / Grok / GPT Image 2.5 任选 → 粘贴 prompt → 出电影感海报。自媒体封面与短视频片头速成配方。",
+    "author": "mehwishkiran07",
+    "url": "https://x.com/mehwishkiran07/status/2100787007811362831",
+    "category": "海报排版"
+  },
+  {
+    "id": "2100785778431611137",
+    "title": "金发角色 7 场景身份锁：参考表出片",
+    "blurb": "一张已发布参考表钉死金发角色身份，跨 7 场景重跑仍是同一个人、换一张新照片。站内附完整 prompt，角色一致性教科书。",
+    "author": "alosemhq",
+    "url": "https://x.com/alosemhq/status/2100785778431611137",
+    "category": "人像角色"
+  },
+  {
+    "id": "2100781932413952315",
+    "title": "头像→吉祥物连体衣：身份锁换装 prompt",
+    "blurb": "把 avi 锁成唯一身份权威，再套进受角色设计启发的 mascot suit；脸型/眼色/比例写死。粉丝二创 / OC 周边出图模板。",
+    "author": "NachtNovaAI",
+    "url": "https://x.com/NachtNovaAI/status/2100781932413952315",
+    "category": "人像角色"
+  },
+  {
+    "id": "2100777758024675557",
+    "title": "地标变巨型手工织物雕塑：可替换 STRUCTURE 公式",
+    "blurb": "锁死地标轮廓与比例，外皮换成针织/编织织物，再撕开一角露出微型城市——`[STRUCTURE / LANDMARK]` 槽位直接换景点。建筑×手作反差海报模板，附完整 prompt。",
+    "author": "Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2100777758024675557",
+    "category": "海报排版",
+    "prompt": "A surreal, high-end architectural art photograph of [STRUCTURE / LANDMARK] transformed into a giant handcrafted textile sculpture, while preserving its instantly recognizable silhouette, proportions, architectural details, distinctive features, and original geometry.\n\nThe structure is covered in soft knitted or woven fabric, with intricate cable-knit patterns inspired by the architecture. A section of the structure opens, peels back, or unfolds like a fabric vessel, revealing a beautifully detailed miniature world of [CITY / COUNTRY] emerging from inside.\n\nInside the opening, show miniature elements strongly connected to the location: buildings, streets, rooftops, trees, bridges, landmarks, local transportation, landscapes, and subtle cultural details, all integrated naturally into the structure.\n\nThe outer architecture gradually transitions between soft textile fibers and realistic architectural materials, creating a surprising contrast between handmade craftsmanship and structural precision. Keep the original architectural identity clearly recognizable.\n\nMinimal luxury studio setting, warm off-white background, soft directional daylight, subtle natural shadow, photorealistic materials, extremely detailed textile fibers, intricate architectural details, sophisticated muted color palette with carefully selected local colors, tactile handcrafted appearance, surreal but believable, premium editorial art photography, centered composition, generous negative space, collectible contemporary design object, 4:5 vertical composition.\n\nNo people, no text, no logos, no watermark, no futuristic elements, no cyberpunk, no distorted architecture, no invented structural features. Preserve the landmark’s identity and proportions above everything else.\n\n“What if [LANDMARK] was a handmade object?”\n\nA giant handcrafted knitted version of [LANDMARK], faithfully preserving its recognizable architecture, with part of the structure opening like a soft fabric vessel and a tiny [CITY / COUNTRY] emerging from inside — miniature buildings, streets, landscapes, transportation and local details woven into the architecture. Soft textile fibers transition into realistic stone, metal or glass, creating a magical fusion of craftsmanship + architecture + miniature world. Photorealistic, luxurious, tactile, surreal but believable, warm neutral studio background, soft lighting, dramatic detail, generous negative space, 4:5 vertical."
+  },
+  {
+    "id": "2100777678580461782",
+    "title": "Pinterest 日常照→文字反推→超写实静帧",
+    "blurb": "先丢一张松散日常照，用 `/detailed-image-2-text-prompt` 反写出细节再文生图；换参考就能反复出「像拍的、不像提的」静帧。参考图驱动的写实工作流可抄。",
+    "author": "adithatipalli",
+    "url": "https://x.com/adithatipalli/status/2100777678580461782",
+    "category": "场景视觉",
+    "prompt": "/detailed-image-2-text-prompt\n\n用法：Pinterest 日常照丢进 ChatGPT → 用该指令反写细节 → 再用反写出的文字文生图。换参考图可反复跑，目标是「像拍的，不像提的」。"
+  },
+  {
+    "id": "2100777491036246402",
+    "title": "电商皂包装小字不糊：Images 2.5 经 Codex 出商品图",
+    "blurb": "正方形商品照，「HERB GARDEN」与「よもぎと緑茶の石けん」腰带小字清晰可读。包装文字保真的电商静物对照。",
+    "author": "kohaku_2100",
+    "url": "https://x.com/kohaku_2100/status/2100777491036246402",
+    "category": "电商改图"
+  },
+  {
+    "id": "2100776158329733480",
+    "title": "Grok bot 手绘形象：贴帖链接 + 接 Codex 用 Image 2.5",
+    "blurb": "把示范帖丢给自家 Grok bot，让它手绘 bot 形象；记得先接 Codex 才能走 Image 2.5。宠物试手也行——虚拟助手形象一条龙。",
+    "author": "KinGao476942",
+    "url": "https://x.com/KinGao476942/status/2100776158329733480",
+    "category": "人像角色"
+  },
+  {
+    "id": "2100768331263311913",
+    "title": "母版图 + Preserve / Change / Delta：小步连改方法论",
+    "blurb": "别再指望一段超长 prompt 一次成型；先锁母版、钉住保留元素，再用 Preserve / Change / Delta Edit 连续小改逼近终稿。Image 2.5 时代改图心法长文。",
+    "author": "cheery9998",
+    "url": "https://x.com/cheery9998/status/2100768331263311913",
+    "category": "电商改图"
+  },
+  {
     "id": "2100761021413802212",
     "title": "宋徽宗工笔 × 离谱主体：古画换主角通用公式",
     "blurb": "审美全锁宋代院体，只换霸王龙/DNA/飞船——越不该出现反差越香。附可抄通用公式，社媒反差图一条龙。",
@@ -87,6 +345,14 @@
     "url": "https://x.com/Gdgtify/status/2100581539008626771",
     "category": "人像角色",
     "prompt": "2x2 grid, 16:9, do this for 4 female gaming influencers with poses that steal your heart. // FN: influencer_frame(SUBJECT, SETTING, TIME, RIG, PLATFORM, INTENT)  // Edit INPUT only. Everything below derives.  INPUT   SUBJECT  = \" $ subject\"    SETTING  = \"Ai infers\"    TIME     = \"Ai infers\"   RIG      = SELF            // SELF | FRIEND | TRIPOD | MIRROR | DRONE   PLATFORM = IG_FEED         // IG_FEED | IG_STORY | TIKTOK | PINTEREST   INTENT   = \"candid morning\"   INFER :: RIG → geometry, gaze, and what the fiction is   SELF    → 23mm front, 45–60cm, face widened ~8%, lens ABOVE eye level,             chin foreshortened, gaze INTO lens, one arm's angle implied by crop   FRIEND  → 26mm rear, 1.5–3m, correct proportion, eye level, gaze into lens,             full body possible, environment legible   TRIPOD  → 26mm, 2–4m, gaze deliberately AWAY (the candid fiction), body             squared to a mark on the ground, static pose held for a burst   MIRROR  → phone IN FRAME, screen glow on face/hands, gaze at reflection NOT             lens, room reversed, fingerprints on the glass   DRONE   → 24mm from above, subject small, the LOCATION is the subject  INFER :: SETTING + TIME → light class → computational behavior   interior_backlit  → HDR stack: window keeps detail, never clips; edge halo   golden_hour       → warm, long shadows, veiling flare, lifted blacks   overcast          → flat, cool, low contrast, no shadow direction   night_artificial  → night mode: multi-second stack ⇒ anything that moved                       ghosts; shadows unnaturally lit; grain scrubbed to plastic   harsh_noon        → HDR fights it: raccoon shadows lifted, skin looks flat  INFER :: PLATFORM → container   IG_FEED  = 4:5,  1080px ceiling, mild re-encode   IG_STORY = 9:16, safe zones top/bottom kept empty   TIKTOK   = 9:16, heavier compression, saturation pushed   PINTEREST= 2:3,  text overlay space reserved  DERIVE :: always, regardless of input   D1 synthetic depth ⇒ mask errors mandatory: one hair-gap filled with blur,      a ~2px halo at the shoulder, blur bucketed by depth not continuous   D2 beauty pass ⇒ cheeks poreless WHILE lashes/brows stay razor sharp   D3 grade ⇒ blacks lifted to ~12/255 with cyan bias, nothing pure black   D4 INTENT ⇒ props staged: labels rotated to camera, food untouched,      \"unnoticed\" objects squared to the table edge  FORBIDDEN   ✗ true optical bokeh falloff        ✗ clipped white window   ✗ uniform skin sharpness            ✗ pure black   ✗ DSLR micro-detail at 1080         ✗ genuine unawareness of the camera  RENDER  // resolve every {slot}, emit prose only   {PLATFORM.aspect} phone photo. {SUBJECT} at {SETTING}, {TIME}.   {RIG.geometry_prose}. {light_class.prose}. Background blurred the artificial   way phones do it, with {D1}. {D2}. {D3}. {D4}. Slightly soft at 1080px.  AUDIT   window_luma_max < 250 · cheek_highfreq << lash_highfreq   ≥1 segmentation halo · black_point > 8/255 · gaze matches RIG"
+  },
+  {
+    "id": "2100578136010428777",
+    "title": "橡皮章旅行手账海报：[LOCATION] 可替换模板",
+    "blurb": "4:3 横版，目的地像盖进旅行者日记的印章页；换地名/主题就能出一组「拍过、盖过、留住」的纪念海报。",
+    "author": "Goodmanprotocol",
+    "url": "https://x.com/Goodmanprotocol/status/2100578136010428777",
+    "category": "海报排版"
   },
   {
     "id": "2100574297488322902",
@@ -194,6 +460,14 @@
     "prompt": "Create an image using the uploaded TARGET IMAGE as the exact master reference and the uploaded REFERENCE PHOTO as the identity reference.\n\nReplace the face identity of the main woman with the woman from the REFERENCE PHOTO.\n\nIMPORTANT — IDENTITY ONLY:\nUse the REFERENCE PHOTO only to transfer the woman's facial identity: face shape, eyes, eyebrows, nose, lips, cheeks, jawline, skin texture and natural facial proportions.\n\nKeep the TARGET IMAGE's hairstyle and messy bun, hair arrangement, body, physique, clothing, brown satin shirt, cream wide-leg trousers, brown belt, necklace, shoulder bag, poses, hand positions, expressions, accessories, and overall styling exactly as shown.\n\nThe entire scrapbook collage must remain the same:\n- Same central full-body woman\n- Same surrounding photo cutouts\n- Same realistic and cartoon/chibi versions\n- Same poses and expressions\n- Same torn-paper collage layout\n- Same tape pieces\n- Same handwritten text and notes\n- Same hearts, stars, flowers and decorative elements\n- Same cat\n- Same background, colors, textures and vintage beige/brown aesthetic\n- Same composition, framing and aspect ratio\n\nApply the new woman's face naturally to EVERY realistic and illustrated appearance of the woman throughout the collage, while maintaining the appropriate style of each individual image.\n\nDo not copy the reference woman's hairstyle, clothes, body, pose, background or accessories.\n\nMake the face replacement seamless and natural in every panel. Match each panel's lighting, angle, expression, skin tone, shadows, perspective and image style.\n\nFINAL RULE:\nTARGET IMAGE = everything.\nREFERENCE IMAGE = face identity only.\nChange nothing else.\nThe final result must look like the original TARGET IMAGE, with only the woman's facial identity replaced by the woman from the reference photo."
   },
   {
+    "id": "2100531608465903644",
+    "title": "Arrow 2 + Images 2.5：可编辑 SVG logo 全家桶",
+    "blurb": "logo / wordmark / banner 一次出，而且真是可编辑 SVG——不是位图假矢量。品牌视觉从「能看」到「能改」的演示。",
+    "author": "ulrikberntzen",
+    "url": "https://x.com/ulrikberntzen/status/2100531608465903644",
+    "category": "UX产品"
+  },
+  {
     "id": "2100528879521980501",
     "title": "日间高光CCD滨水通勤：结构化中文生活照",
     "blurb": "水上巴士站 / 玻璃候船亭 / 蓝绿河面，珊瑚橘上衣 + 清亮 CCD 槽位全写死。liyue 系列又补一张滨水通勤，小红书生活方式直接返图。",
@@ -264,6 +538,22 @@
     "url": "https://x.com/Goodmanprotocol/status/2100508937514897577",
     "category": "海报排版",
     "prompt": "Create one premium 3:4 vertical editorial art poster for [COUNTRY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE GENERATION ONLY. Generate the complete artwork from [COUNTRY / LOCATION / SUBJECT] alone. No reference image or additional visual input is required.\n\nAutomatically interpret the subject and create a visually compelling composition that reflects its character, atmosphere, appearance, setting, colors, and distinctive visual identity.\n\nLOWER SECTION\n\nUse a refined background palette inspired by [COUNTRY / LOCATION / SUBJECT], using limited low-saturation tones such as misty gray, warm beige, light khaki, cream white, dusty rose, or soft gray-pink, selecting only the colors that naturally suit the subject.\n\nKeep approximately 22–30% continuous negative space. Avoid complicated scenery, excessive objects, sticker-like elements, or meaningless decoration.\n\nTYPOGRAPHY\n\nCreate a sophisticated editorial typography system based on the subject.\n\nAutomatically generate a short main title inspired by the subject's appearance, mood, action, or personality.\n\nAdd one natural 8–16 word English sentence written like a subtle editorial note or magazine caption.\n\nUse a carefully designed hand-drawn or retro bubble-style font for the main title. Use smaller refined typography for supporting text, such as an elegant serif, subtle typewriter style, or delicate book-inspired font.\n\nCreate clear hierarchy, breathing room, and intentional spacing. Typography should feel integrated into the artwork rather than simply placed on top.\n\nVISUAL STYLE\n\nKeep the overall palette restrained and cohesive, with subtle film grain, tactile paper texture, and a gentle printed-editorial quality.\n\nAllow slight asymmetry and imperfect positioning to create a sophisticated independent-magazine aesthetic without making the composition messy.\n\nIMPORTANT\n\nKeep the main subject recognizable and naturally proportioned. Do not cartoonize the person or subject.\n\nAvoid:\nmultiple mascots, existing animated characters, brand logos, QR codes, watermarks, signatures, gibberish text, incorrect hands, extra limbs, excessive decoration, cheap templates, overly cute styling, or cluttered compositions.\n\nFINAL LOOK\n\nThe finished artwork should feel like a premium independent fashion magazine, contemporary art publication, or sophisticated editorial ZINE—minimal, tactile, slightly imperfect, modern, and visually intelligent.\n\nSTRICT 3:4 VERTICAL | TEXT-ONLY GENERATION | RESTRAINED COLORS | 22–30% NEGATIVE SPACE | PREMIUM EDITORIAL TYPOGRAPHY | SUBTLE FILM GRAIN & PAPER PRINT TEXTURE.\n\nGenerate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone."
+  },
+  {
+    "id": "2100500895091798168",
+    "title": "Flare vs Recraft V4.1 Pro Round 2：四场景对照",
+    "blurb": "动漫格斗、奶奶骑越野、爷爷贴纸大笑、紫光墨镜模特——同 brief 并排看谁吃得下。跨厂选型别只听官号，看评论区 prompt。",
+    "author": "recraftai",
+    "url": "https://x.com/recraftai/status/2100500895091798168",
+    "category": "选型评测"
+  },
+  {
+    "id": "2100500467688366331",
+    "title": "漫画流程砍一刀：跳过下稿、从ネーム大改直出",
+    "blurb": "分镜里先设计视线进出，再直接往完成形推——Image 2.5 把「下稿」这步吃掉了。Hakushi 全自动漫画 SKILL：ネーム→㊙质感→仕上げ。",
+    "author": "FantasistaAI",
+    "url": "https://x.com/FantasistaAI/status/2100500467688366331",
+    "category": "Sketch"
   },
   {
     "id": "2100498666763030990",
@@ -4137,113 +4427,5 @@
     "url": "https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA",
     "category": "选型评测",
     "playbook": "docs/playbooks/image25-controllability-shift.md"
-  },
-  {
-    "id": "2100777678580461782",
-    "title": "Pinterest 日常照→文字反推→超写实静帧",
-    "blurb": "先丢一张松散日常照，用 `/detailed-image-2-text-prompt` 反写出细节再文生图；换参考就能反复出「像拍的、不像提的」静帧。参考图驱动的写实工作流可抄。",
-    "author": "adithatipalli",
-    "url": "https://x.com/adithatipalli/status/2100777678580461782",
-    "category": "场景视觉",
-    "prompt": "/detailed-image-2-text-prompt\n\n用法：Pinterest 日常照丢进 ChatGPT → 用该指令反写细节 → 再用反写出的文字文生图。换参考图可反复跑，目标是「像拍的，不像提的」。"
-  },
-  {
-    "id": "2100768331263311913",
-    "title": "母版图 + Preserve / Change / Delta：小步连改方法论",
-    "blurb": "别再指望一段超长 prompt 一次成型；先锁母版、钉住保留元素，再用 Preserve / Change / Delta Edit 连续小改逼近终稿。Image 2.5 时代改图心法长文。",
-    "author": "cheery9998",
-    "url": "https://x.com/cheery9998/status/2100768331263311913",
-    "category": "电商改图"
-  },
-  {
-    "id": "2100777758024675557",
-    "title": "地标变巨型手工织物雕塑：可替换 STRUCTURE 公式",
-    "blurb": "锁死地标轮廓与比例，外皮换成针织/编织织物，再撕开一角露出微型城市——`[STRUCTURE / LANDMARK]` 槽位直接换景点。建筑×手作反差海报模板，附完整 prompt。",
-    "author": "Naiknelofar788",
-    "url": "https://x.com/Naiknelofar788/status/2100777758024675557",
-    "category": "海报排版",
-    "prompt": "A surreal, high-end architectural art photograph of [STRUCTURE / LANDMARK] transformed into a giant handcrafted textile sculpture, while preserving its instantly recognizable silhouette, proportions, architectural details, distinctive features, and original geometry.\n\nThe structure is covered in soft knitted or woven fabric, with intricate cable-knit patterns inspired by the architecture. A section of the structure opens, peels back, or unfolds like a fabric vessel, revealing a beautifully detailed miniature world of [CITY / COUNTRY] emerging from inside.\n\nInside the opening, show miniature elements strongly connected to the location: buildings, streets, rooftops, trees, bridges, landmarks, local transportation, landscapes, and subtle cultural details, all integrated naturally into the structure.\n\nThe outer architecture gradually transitions between soft textile fibers and realistic architectural materials, creating a surprising contrast between handmade craftsmanship and structural precision. Keep the original architectural identity clearly recognizable.\n\nMinimal luxury studio setting, warm off-white background, soft directional daylight, subtle natural shadow, photorealistic materials, extremely detailed textile fibers, intricate architectural details, sophisticated muted color palette with carefully selected local colors, tactile handcrafted appearance, surreal but believable, premium editorial art photography, centered composition, generous negative space, collectible contemporary design object, 4:5 vertical composition.\n\nNo people, no text, no logos, no watermark, no futuristic elements, no cyberpunk, no distorted architecture, no invented structural features. Preserve the landmark’s identity and proportions above everything else.\n\n“What if [LANDMARK] was a handmade object?”\n\nA giant handcrafted knitted version of [LANDMARK], faithfully preserving its recognizable architecture, with part of the structure opening like a soft fabric vessel and a tiny [CITY / COUNTRY] emerging from inside — miniature buildings, streets, landscapes, transportation and local details woven into the architecture. Soft textile fibers transition into realistic stone, metal or glass, creating a magical fusion of craftsmanship + architecture + miniature world. Photorealistic, luxurious, tactile, surreal but believable, warm neutral studio background, soft lighting, dramatic detail, generous negative space, 4:5 vertical."
-  },
-  {
-    "id": "2100777491036246402",
-    "title": "电商皂包装小字不糊：Images 2.5 经 Codex 出商品图",
-    "blurb": "正方形商品照，「HERB GARDEN」与「よもぎと緑茶の石けん」腰带小字清晰可读。包装文字保真的电商静物对照。",
-    "author": "kohaku_2100",
-    "url": "https://x.com/kohaku_2100/status/2100777491036246402",
-    "category": "电商改图"
-  },
-  {
-    "id": "2100776158329733480",
-    "title": "Grok bot 手绘形象：贴帖链接 + 接 Codex 用 Image 2.5",
-    "blurb": "把示范帖丢给自家 Grok bot，让它手绘 bot 形象；记得先接 Codex 才能走 Image 2.5。宠物试手也行——虚拟助手形象一条龙。",
-    "author": "KinGao476942",
-    "url": "https://x.com/KinGao476942/status/2100776158329733480",
-    "category": "人像角色"
-  },
-  {
-    "id": "2100796248068702688",
-    "title": "Sketch 认真线稿→写实成片：控形对照",
-    "blurb": "线稿画扎实再喂 GPT Images 2.5 Sketch，写实成片直接贴脸对照。控构图别靠嘴炮，先把素描焊死。",
-    "author": "AIPixLab",
-    "url": "https://x.com/AIPixLab/status/2100796248068702688",
-    "category": "Sketch"
-  },
-  {
-    "id": "2100785778431611137",
-    "title": "金发角色 7 场景身份锁：参考表出片",
-    "blurb": "一张已发布参考表钉死金发角色身份，跨 7 场景重跑仍是同一个人、换一张新照片。站内附完整 prompt，角色一致性教科书。",
-    "author": "alosemhq",
-    "url": "https://x.com/alosemhq/status/2100785778431611137",
-    "category": "人像角色"
-  },
-  {
-    "id": "2100792989979447646",
-    "title": "中文两套可抄：棚拍人像 / 户外自然光",
-    "blurb": "别再用「好看一点」糊弄人像——棚拍硬光与户外自然光两套中文提示词直接开抄，适合种草人像与虚拟 IP 试妆。",
-    "author": "gaoren7716",
-    "url": "https://x.com/gaoren7716/status/2100792989979447646",
-    "category": "人像角色"
-  },
-  {
-    "id": "2100787007811362831",
-    "title": "自拍→电影海报四步流",
-    "blurb": "上传自拍 → Gemini / Grok / GPT Image 2.5 任选 → 粘贴 prompt → 出电影感海报。自媒体封面与短视频片头速成配方。",
-    "author": "mehwishkiran07",
-    "url": "https://x.com/mehwishkiran07/status/2100787007811362831",
-    "category": "海报排版"
-  },
-  {
-    "id": "2100794645639012728",
-    "title": "毡艺静帧→Seedance 短片：Image 2.5 出图链路",
-    "blurb": "先用 GPT Image 2.5 锁一张毡艺世界观静帧，再丢进 Seedance 2.0 Mini 动起来。一帧图也能讲出小故事——静转动种草管线。",
-    "author": "akiwithai",
-    "url": "https://x.com/akiwithai/status/2100794645639012728",
-    "category": "像素动效"
-  },
-  {
-    "id": "2100827183468237189",
-    "title": "身份锁定时尚棚拍：STYLE / WARDROBE / POSE / LIGHTING",
-    "blurb": "参考图锁脸锁体型，再拆 STYLE / WARDROBE / POSE / LIGHTING / CAMERA 分段写死。高定棚拍可抄完整英文 prompt，别让模特变成路人。",
-    "author": "shushant_l",
-    "url": "https://x.com/shushant_l/status/2100827183468237189",
-    "category": "人像角色",
-    "prompt": "high-end Fashion Portrait of the exact person shown in the attached reference image.\n\nPreserve the person’s facial identity, facial structure, skin tone, hairstyle, hairline, eyes, nose, lips, jawline, body proportions, and recognizable features as accurately as possible. Do not change their identity or make them look like a different person.\n\nSTYLE:\nLuxury editorial fashion photography, contemporary menswear campaign, sophisticated, stylish, confident, premium magazine aesthetic, modern and aspirational.\n\nWARDROBE:\nDress him in an impeccably tailored modern outfit, such as a structured designer jacket over a minimal premium shirt, perfectly fitted trousers, subtle luxury accessories, and refined styling. Keep the clothing elegant, masculine, minimal, and fashion-forward.\n\nPOSE:\nConfident fashion-model pose, relaxed shoulders, strong posture, natural body language, looking directly into the camera with a calm and composed expression. Make the pose feel effortless rather than overly staged.\n\nLIGHTING:\nProfessional fashion studio lighting with a large soft key light, subtle fill light, controlled shadows, beautiful facial definition, soft highlights on the skin and clothing, realistic skin texture, and premium editorial lighting.\n\nBACKGROUND:\nMinimal luxury studio backdrop with clean architectural simplicity, subtle depth, sophisticated neutral tones, and no distracting objects.\n\nCAMERA:\nShot on a professional full-frame camera with an 85mm portrait lens, shallow depth of field, sharp focus on the eyes and face, natural perspective, realistic optical characteristics, high dynamic range, and detailed fabric textures.\n\nCOMPOSITION:\nWaist-up fashion portrait, subject centered or slightly off-center, clean negative space, strong editorial composition, premium magazine campaign framing.\n\nAESTHETIC:\nPhotorealistic, cinematic, sophisticated, masculine, contemporary, elegant, clean, editorial, high-fashion, premium, realistic skin pores and texture, natural facial details, subtle professional color grading.\n\nAvoid plastic-looking skin, excessive retouching, exaggerated muscles, distorted anatomy, artificial facial features, oversaturated colors, excessive accessories, unrealistic lighting, cartoonish details, text, logos, and watermarks.\n\nThe final image should look like a real photograph from a premium international fashion editorial while clearly remaining the same person as the attached reference image."
-  },
-  {
-    "id": "2100827087326076976",
-    "title": "Grok vs ChatGPT Images 2.5：同 prompt 高定浴室过肩镜头",
-    "blurb": "同一段高定浴室过肩 hero prompt，左右对照 Grok 与 ChatGPT Images 2.5。硬刚选型别靠感觉，同题同光位最狠。",
-    "author": "johnAGI168",
-    "url": "https://x.com/johnAGI168/status/2100827087326076976",
-    "category": "选型评测",
-    "prompt": "A cinematic high-fashion editorial photograph captured on location — an intimate waist-up hero composition of an East Asian woman in a luxury marble bathroom suite, the camera positioned at eye level in a three-quarter rear framing capturing her striking over-the-shoulder gaze and the reflective vanity mirror in an M2 luxury interior editorial register.\n\nThe woman has a sleek, glossy jet-black blunt bob haircut that grazes her shoulders with clean-cut ends, complemented by soft, airy wispy fringe framing her brow. Her fair, porcelain-toned skin displays natural fine pore texture, delicate shoulder blades, and subtle subsurface scattering under warm vanity lighting. Her defined almond eyes look back over her right shoulder directly toward the camera with a poised, captivating expression, paired with a sculpted profile, soft blush, and naturally glossy rose lips. She wears an architectural backless black silk halter evening piece: completely open across the spine, secured by delicate geometric crisscross black satin micro-straps intersecting at a miniature black floral buckle fastener at the mid-back and tying low around the waist, paired with matching draped black bottoms. She leans slightly forward over the vanity counter with one arm extended for support, her torso gracefully twisted to showcase both the intricate back strap design and her elegant silhouette.\n\nThe setting is an opulent contemporary hotel bathroom vanity area — in front of her sits a polished black marble countertop with an undermount white porcelain sink and modern chrome swan-neck faucets, with the large vanity mirror reflecting a soft frontal view of her draped silhouette and the surrounding suite. In the softly blurred background, a freestanding white oval soaking tub and polished white-and-gray veined marble walls complete the high-end architectural interior.\n\nThe scene is illuminated by soft, flattering luxury hospitality vanity lighting — diffused warm-white glow radiating from surrounding mirror sconces and recessed ceiling fixtures, evenly enveloping her shoulders, neck, and back with creamy, gentle illumination without harsh cast shadows. Crisp, subtle specular highlights glint off the polished chrome bathroom fixtures, the wet sink basin, and the sleek surface of her black satin straps, enhancing the tactile luxury of the space.\n\nCaptured with a wide-latitude digital cinema look on a fast 50mm portrait prime lens at T2.0, delivering razor-sharp optical detail across her facial profile, eyeliner, individual hair strands, and the satin strap intersections, while the vanity mirror reflection and bathroom background melt into soft, organic circular bokeh. Refined high-end interior color grade balancing cool marble veins with warm, radiant skin tones and deep, uncrushed blacks in the fabric, finished with fine, organic 35mm theatrical film grain across the frame. Real photographic frame captured on a real cinema camera, real prime lens, real silk satin fabric, real marble countertop, real East Asian human subject, real luxury bathroom environment — no CGI, no rendered look, no digital cleanliness, no plastic surfaces, no AI smoothness, no skin smoothing, no glow, no halation bloom that reads as artificial, no glossy highlights."
-  },
-  {
-    "id": "2100817314837057912",
-    "title": "玻璃肤双机位：低角度特写 + 平视侧脸",
-    "blurb": "同一玻璃肤妆面，低角度特写与平视侧脸两套机位对照。妆造锁定、机位换汤不换药——美妆种草分镜可抄。",
-    "author": "MahnoorAi12",
-    "url": "https://x.com/MahnoorAi12/status/2100817314837057912",
-    "category": "人像角色"
   }
 ]

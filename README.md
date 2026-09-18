@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 505 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 520 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,7 +237,22 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
-- **Image2 vs Flare vs Sunburst：同 prompt 速度与成片对打** — 同一套 prompt 跑 GPT Image 2 / 2.5 Flare / 2.5 Sunburst，直接看升级差在哪。Flare 速度约 2.3× 于 Image 2，选型别只看样张。 [@BLOCKLORDS](https://x.com/BLOCKLORDS) · [原帖](https://x.com/BLOCKLORDS/status/2100812069385932848)
+- **n=4 批量自检：2 枚目以降对照 1 枚目修崩** — 一次出多张别指望运气——在 prompt 里写死「第 2 张起对照第 1 张与原文，有矛盾就改」。Work 模式少翻车的小补丁，日文原句可直接粘。 [@magu_ai_h](https://x.com/magu_ai_h) · [原帖](https://x.com/magu_ai_h/status/2100885947584074213)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+n=4などで一度に複数枚を生成する時、
+
+"2枚目以降を生成する際は、完成した1枚目とプロンプトを照らし合わせ、矛盾や破綻があれば修正する"
+
+って入れとくと、2枚目以降かなり修正してくれました!!
+```
+
+  </details>
+
+- **中文提示词骨架：在哪 / 是谁 / 光怎么走 / 不要什么** — 四问拆开写，比堆形容词稳。小海豚笔记长文把 Image 2.5 中文写法收成框架——入门少翻车，先问限制再问美。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2100858084629626948) · [prompt](https://x.com/i/article/2100855552205377536)
+
 - **Grok vs ChatGPT Images 2.5：同 prompt 高定浴室过肩镜头** — 同一段高定浴室过肩 hero prompt，左右对照 Grok 与 ChatGPT Images 2.5。硬刚选型别靠感觉，同题同光位最狠。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2100827087326076976)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -255,6 +270,8 @@ Captured with a wide-latitude digital cinema look on a fast 50mm portrait prime 
 ```
 
   </details>
+
+- **Image2 vs Flare vs Sunburst：同 prompt 速度与成片对打** — 同一套 prompt 跑 GPT Image 2 / 2.5 Flare / 2.5 Sunburst，直接看升级差在哪。Flare 速度约 2.3× 于 Image 2，选型别只看样张。 [@BLOCKLORDS](https://x.com/BLOCKLORDS) · [原帖](https://x.com/BLOCKLORDS/status/2100812069385932848)
 
 - **同题四厂硬刚：GPT Image 2.5 vs Grok vs MJ vs Krea** — Crystal Dragon Lancer 同题纯 t2i 零修图并排四厂——Image 2.5 / Grok / Midjourney / Krea 谁先驯服龙臂叠影。跨厂选型甩图现场。 [@ellewayAI](https://x.com/ellewayAI) · [原帖](https://x.com/ellewayAI/status/2100701388363976942)
 
@@ -307,6 +324,8 @@ Why it matters: text accuracy used to be the tell that gave away an AI image —
   </details>
 
 - **Sunburst 多轮精确编辑压测：换衫连环到第几轮崩** — 原图→改 T 恤→再拿输出当下轮输入，连压五轮：别的模型第三轮已噩梦，Sunburst 第五轮还能看。Flare 赶量 / Sunburst 精改——编辑保真硬证据。 [@alecwilcock](https://x.com/alecwilcock) · [原帖](https://x.com/alecwilcock/status/2100555617941307601)
+
+- **Flare vs Recraft V4.1 Pro Round 2：四场景对照** — 动漫格斗、奶奶骑越野、爷爷贴纸大笑、紫光墨镜模特——同 brief 并排看谁吃得下。跨厂选型别只听官号，看评论区 prompt。 [@recraftai](https://x.com/recraftai) · [原帖](https://x.com/recraftai/status/2100500895091798168)
 
 - **品牌恐龙四模同题：Image2 / Flare / Sunburst / ChatGPT** — Fortune 500 品牌捏成机械恐龙 2×2，同一段伪着色器 prompt 压四模。选型别空喊「更强」——直接看谁材质映射和 logo 叠层过关。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100496729627836540)
   <details>
@@ -390,7 +409,7 @@ FORBIDDEN   a blur gradient that is a function of IMAGE HEIGHT rather than of di
 
   </details>
 
-- **GPT Image 2.5 使用手册：模型·参数·提示词** — 苏乐长文把型号、参数与提示词一次摊开。接客户或写自家 playbook 当速查表，比刷碎片帖靠谱。 [@ai_suxiaole](https://x.com/ai_suxiaole) · [原帖](https://x.com/ai_suxiaole/status/2100131000055390470) · [playbook](https://x.com/i/article/2100107397507477504)
+- **GPT Image 2.5 使用手册：模型·参数·提示词** — 苏乐长文把型号、参数与提示词一次摊开。接客户或写自家 playbook 当速查表，比刷碎片帖靠谱。 [@ai_suxiaole](https://x.com/ai_suxiaole) · [原帖](https://x.com/ai_suxiaole/status/2100131000055390470) · [prompt](https://x.com/i/article/2100107397507477504)
 
 - **Image2 vs Sunburst：光与发丝并排打脸** — KAWARIMI 同场景：1 张 Image 2、2 张 Sunburst。光更满、头发会「晃」，也更夸张——角色一致性选型别只看干净。 [@eightbeat8b](https://x.com/eightbeat8b) · [原帖](https://x.com/eightbeat8b/status/2100110852984823931)
 
@@ -404,7 +423,7 @@ FORBIDDEN   a blur gradient that is a function of IMAGE HEIGHT rather than of di
 
 - **Flare 4K Max vs Neo Banana Pro：同题硬刚** — 左 Google Neo Banana Pro 4K、右 GPT Image 2.5 Flare 4K Max。跨厂旗舰选型甩图就行。 [@leploutos](https://x.com/leploutos) · [原帖](https://x.com/leploutos/status/2099865822231711948)
 
-- **物体删除烤炉：Sunburst vs Nano Banana 2** — 同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。 [@danywach](https://x.com/danywach) · [原帖](https://x.com/danywach/status/2099845477885714780) · [playbook](https://nanostudiopro.com/blog/nano-banana-2-vs-gpt-image-2-5-object-removal)
+- **物体删除烤炉：Sunburst vs Nano Banana 2** — 同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。 [@danywach](https://x.com/danywach) · [原帖](https://x.com/danywach/status/2099845477885714780) · [prompt](https://nanostudiopro.com/blog/nano-banana-2-vs-gpt-image-2-5-object-removal)
 
 - **Flare 赶量测稿 / Sunburst 出片：同模两档** — 一句话说清选型：Flare 管产品试错与粗视觉，Sunburst 管光影材质与可交货成片。别玄学，按交付阶段切。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766335710654676)
 
@@ -444,7 +463,7 @@ Create a breathtaking, ultra-realistic live-action movie still of a pristine, fl
 
 - **「别把喜欢的地方改坏」：Sunburst 精修 vs Flare 赶量** — 创作者要的往往不是更美，是改背景别毁脸、改字别毁排版。API 里 Sunburst 盯编辑精度、Flare 盯日常量产——选型别混。 [@yu_min_days](https://x.com/yu_min_days) · [原帖](https://x.com/yu_min_days/status/2099392705780756829)
 
-- **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492) · [playbook](https://img.dsxzai.com/)
+- **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492) · [prompt](https://img.dsxzai.com/)
 
 - **2.5 vs 2.0：80 年代跑车真实感硬对比** — 同一题材拉齐看：车漆、人体皮肤、细节密度一眼分代。选型别听口号，把这组并排截图扔进评审会就完事。 [@icreat_ai](https://x.com/icreat_ai) · [原帖](https://x.com/icreat_ai/status/2099374093263106123)
 
@@ -647,11 +666,11 @@ a floating reflection whose base does not meet the object on Π.
 
 - **一句话提分辨率：1152×2048 贴图重渲** — 旧图贴进 Images 2.5，写目标像素就够。4:3 / 9:16 / 16:9 比例另说——高清化不必玄学。 [@oreno_musume](https://x.com/oreno_musume) · [原帖](https://x.com/oreno_musume/status/2098335755496042610)
 
-- **50 条开源 prompt 图谱：短句 + 工程长稿** — 371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。 [@Callirra](https://x.com/Callirra) · [原帖](https://x.com/Callirra/status/2098331457232265323) · [playbook](https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas)
+- **50 条开源 prompt 图谱：短句 + 工程长稿** — 371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。 [@Callirra](https://x.com/Callirra) · [原帖](https://x.com/Callirra/status/2098331457232265323) · [repo](https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas)
 
 - **2.0 vs 2.5：六组高难度同 prompt 硬刚** — ImagineArt 六组压测（时尚大片、极端镜头角、多色多人物）。选型别靠嘴，并排看谁还站得住。 [@FinanceYF5](https://x.com/FinanceYF5) · [原帖](https://x.com/FinanceYF5/status/2098318028006146332)
 
-- **124 例档案库：prompt + 参数 + Flare/Sunburst 对照** — 嫌晒图不给配方？这里 124 例 / 185 输出 / 24 组 Flare vs Sunburst，连参数和出处一起收。营销选型先翻库，别再刷时间线碰运气。 [@iamrayyang](https://x.com/iamrayyang) · [原帖](https://x.com/iamrayyang/status/2098315204509729032) · [playbook](https://github.com/yangbishang/gpt-image-2.5-prompt)
+- **124 例档案库：prompt + 参数 + Flare/Sunburst 对照** — 嫌晒图不给配方？这里 124 例 / 185 输出 / 24 组 Flare vs Sunburst，连参数和出处一起收。营销选型先翻库，别再刷时间线碰运气。 [@iamrayyang](https://x.com/iamrayyang) · [原帖](https://x.com/iamrayyang/status/2098315204509729032) · [repo](https://github.com/yangbishang/gpt-image-2.5-prompt)
 
 - **Flare 量产下稿 → Sunburst 精修** — 速度用 Flare 堆构图，好看的再丢 Sunburst。省钱省时间的分工，别全压贵档。 [@aichan1224news](https://x.com/aichan1224news) · [原帖](https://x.com/aichan1224news/status/2098287192628240410)
 
@@ -824,16 +843,20 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 - **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486)
 
-- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [@OpenAI](https://x.com/OpenAI) · [原帖](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
+- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting)
 
-- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [@卡尔的AI沃茨](https://x.com/卡尔的AI沃茨) · [原帖](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
+- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA)
 
 
 ## Sketch
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **时尚线稿→超写实：错配鞋四连（loafer/croc/…）** — 同一 editorial 线稿主题，只换错配鞋型：乐福、洞洞鞋、细高跟、球鞋。Sketch 控形 + Image 2.5 写实，穿搭号「一稿多变」示范。 [@zayyadatullah](https://x.com/zayyadatullah) · [原帖](https://x.com/zayyadatullah/status/2100871323719209165)
+
 - **Sketch 认真线稿→写实成片：控形对照** — 线稿画扎实再喂 GPT Images 2.5 Sketch，写实成片直接贴脸对照。控构图别靠嘴炮，先把素描焊死。 [@AIPixLab](https://x.com/AIPixLab) · [原帖](https://x.com/AIPixLab/status/2100796248068702688)
+
+- **漫画流程砍一刀：跳过下稿、从ネーム大改直出** — 分镜里先设计视线进出，再直接往完成形推——Image 2.5 把「下稿」这步吃掉了。Hakushi 全自动漫画 SKILL：ネーム→㊙质感→仕上げ。 [@FantasistaAI](https://x.com/FantasistaAI) · [原帖](https://x.com/FantasistaAI/status/2100500467688366331)
 
 - **圆珠笔草图硬刚成片：Image2 vs Flare/Sunburst** — 只丢一张潦草构图（手写 5 ARCHES / KEEP HIM SMALL），同题一跑：2 High + 2.5 Max 4K。符号写进 prompt 的 Sketch→成片对照，n=1 但选型有感觉。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2100205158911361300)
 
@@ -958,8 +981,59 @@ C区域代表【背景建筑或环境】
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
+- **旅行实拍→明信片：上下分屏杂志插页** — 上半精修原片，下半抽最难忘的元素做成极简线稿小人互动小品 + 手写日期地点。Cape Town 实拍变 indie 杂志插页，文旅种草可抄。 [@kaen_sv](https://x.com/kaen_sv) · [原帖](https://x.com/kaen_sv/status/2100886866555986145) · [prompt](https://x.com/kaen_sv/status/2100886870561595456)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Turn my uploaded photo into a 3:4 vertical split-screen image, divided evenly into top and bottom halves.
+
+Top half: keep the original subject, composition, lighting, and realistic texture. Apply only a natural, refined, magazine-style color grade.
+
+Bottom half: do not simply copy the original. First, identify what is most memorable about the photo — it could be a subject, an action, a relationship, a mood, or a subtle coincidence within the frame. Extract the most representative element and reimagine it as a playful little scene combining the real subject with minimalist black line-drawn figures.
+
+Keep the subject's real materials and colors. Draw the figures with thin black lines, and let them interact naturally with the scene — climbing, carrying, observing, pulling, repairing, and so on. Use an off-white or light background with generous negative space.
+
+Based on the photo's mood, Add a short handwritten English note, like a casual journal entry, with the date and location, e.g. Sept 18, Boo kap, like a casual side note.
+The overall feel should be light, restrained, and clever, like a small insert page in an indie magazine. Avoid a cartoon sticker look, and don't overcrowd the composition.
+```
+
+  </details>
+
+- **Fortune 500 品牌世界微缩 2×2：物理力重塑城市** — 把品牌名做成巨型建筑字，再让波浪/漩涡/熔流等一种物理力雕塑整座迷你文明。高端概念 KV / 品牌世界观海报可填 $SUBJECT。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100867925758411176)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+2x2 grid, 16:9, do this for 4 fortune 500 comapnies: CONCEPT ANCHOR 1: "City transformed by a physical force — skyline shaped into wave, whirlpool, splash, drip, pressure burst, molten flow, or suspended liquid architecture"  ::  CONCEPT ANCHOR 2: "Miniature civilization wordmark — giant subject name acts as infrastructure, with roads, tiny workers, vehicles, parks, ports, and buildings arranged around it"  ::  CONCEPT ANCHOR 3: "Luxury object render — dark neutral background, macro clarity, sharp shadows, realistic miniature materials, high-end concept model finish"  INSTRUCTION: Render $ SUBJECT as if its entire identity has been sculpted by one dramatic elemental force.  STYLE RULES: - Choose one dominant force based on the subject's spirit: wave, vortex, gravity fold, flame, sandstorm, crystal bloom, fog bank, magnetic field, liquid metal, glass splash, moss growth, paper curl, smoke plume, or data stream. - Convert $ SUBJECT into a city-like miniature ecosystem caught inside that force. - Convert the subject's name into large physical architecture integrated into the sculpture. - Make the letters readable but partially shaped by the force: eroded, flowing, folded, dripping, crystalline, melting, stacked, flooded, or levitating. - Build tiny subject-relevant details across the scene: vehicles, people, tools, bridges, signals, signs, interiors, gardens, docks, cranes, screens, tunnels, or monuments. - Use realistic material behavior: wet shine, glass refraction, stone fracture, mist, particles, foam, metallic reflections, glowing lights. - Add one tiny viewer beneath or beside the object to create awe and scale. - Keep the image cinematic, premium, surreal, and highly inspectable.  OUTPUT: A viral miniature world where  $ SUBJECT becomes a physical skyline-wordmark sculpture transformed by a dramatic elemental force.
+```
+
+  </details>
+
+- **「缺失感」2×2 信息图：负空间讲统计** — 别画「有什么」——用空椅子、挖空方块、消失的城市街区把 [TOPIC] 的损失做成博物馆级极简 3D。选题可视化 / 公益数据海报现成骨架。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100848044518592693)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+2x2 grid, 16:9, AI infers viral topics: Create a haunting, minimalist 3D visualization that represents what is missing, lost, avoided, delayed, or erased because of [TOPIC]. The AI should choose a statistic involving loss: missing sleep, lost time, extinct species, unbuilt homes, unpaid wages, wasted food, lost attention, preventable deaths, disappearing land, delayed care, or unrealized potential.  Instead of showing the object directly, represent it as negative space: empty chairs, ghost outlines, hollow cubes, missing city blocks, erased silhouettes, transparent containers, absent books, unfilled beds, or a carved-out void in a solid mass. The missing quantity should feel physically present through absence.  Style: museum-grade isometric 3D render, matte clay and translucent materials, soft directional lighting, quiet shadows, neutral grey backdrop. Use one oversized numeral as a solemn anchor. Caption: what is missing, time period, metric, and source year. Add a tiny human silhouette for emotional scale.  The spirit: make absence feel heavier than presence.
+```
+
+  </details>
+
 - **印度漆器木玩旅行立体模型：[LOCATION] 模板** — 4:5 电影感旅行 diorama，整座城刻进印度漆器木玩手作世界；换地名就能批产文旅 KV。立体模型感比平面海报更抓眼球。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100806204520034392)
-- **橡皮章旅行手账海报：[LOCATION] 可替换模板** — 4:3 横版，目的地像盖进旅行者日记的印章页；换地名/主题就能出一组「拍过、盖过、留住」的纪念海报。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100578136010428777)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+[LOCATION] - Premium 4:5 Cinematic Travel Diorama
+
+Create a premium 4:5 cinematic travel diorama of [LOCATION], designed as a handcrafted Indian lacquered wooden-toy world. Everything should feel physically carved,
+
+(原文见推文；换 [LOCATION] 批产)
+```
+
+  </details>
+
 - **自拍→电影海报四步流** — 上传自拍 → Gemini / Grok / GPT Image 2.5 任选 → 粘贴 prompt → 出电影感海报。自媒体封面与短视频片头速成配方。 [@mehwishkiran07](https://x.com/mehwishkiran07) · [原帖](https://x.com/mehwishkiran07/status/2100787007811362831)
 
 - **地标变巨型手工织物雕塑：可替换 STRUCTURE 公式** — 锁死地标轮廓与比例，外皮换成针织/编织织物，再撕开一角露出微型城市——`[STRUCTURE / LANDMARK]` 槽位直接换景点。建筑×手作反差海报模板，附完整 prompt。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100777758024675557)
@@ -986,7 +1060,7 @@ A giant handcrafted knitted version of [LANDMARK], faithfully preserving its rec
 
   </details>
 
-- **假装 Excel 做的传单：Office 外行感海报公式** — 町内会/公司要传单又怕被看出 AI？写成「Word/Excel 外行认真做的野鸡海报」——WordArt、荧光色、歪对齐全到位。完整日文 prompt 在回复。 [@sacher10610](https://x.com/sacher10610) · [原帖](https://x.com/sacher10610/status/2100754344132149260) · [playbook](https://x.com/sacher10610/status/2100754947948359838)
+- **假装 Excel 做的传单：Office 外行感海报公式** — 町内会/公司要传单又怕被看出 AI？写成「Word/Excel 外行认真做的野鸡海报」——WordArt、荧光色、歪对齐全到位。完整日文 prompt 在回复。 [@sacher10610](https://x.com/sacher10610) · [原帖](https://x.com/sacher10610/status/2100754344132149260) · [prompt](https://x.com/sacher10610/status/2100754947948359838)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1099,7 +1173,7 @@ A4印刷前提/余白を設計しない/空白が気になると何か追加す�
 
   </details>
 
-- **四图标四身份高冲击投放：Nike ORANGE MOTION** — 四联 campaign 各成一套身份/图标语言；评论区给完整「ORANGE MOTION」长海报 prompt（液态鞋底冲击）。快消/运动投放 KV 可直接改品牌色。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2100585834357702696) · [playbook](https://x.com/Diplomeme/status/2100585884802494544)
+- **四图标四身份高冲击投放：Nike ORANGE MOTION** — 四联 campaign 各成一套身份/图标语言；评论区给完整「ORANGE MOTION」长海报 prompt（液态鞋底冲击）。快消/运动投放 KV 可直接改品牌色。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2100585834357702696) · [prompt](https://x.com/Diplomeme/status/2100585884802494544)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1279,6 +1353,8 @@ A photograph someone would instantly stop scrolling to understand — first they
 ```
 
   </details>
+
+- **橡皮章旅行手账海报：[LOCATION] 可替换模板** — 4:3 横版，目的地像盖进旅行者日记的印章页；换地名/主题就能出一组「拍过、盖过、留住」的纪念海报。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100578136010428777)
 
 - **3:4 上下对半编辑海报：上半身份锁+下半手绘** — 竖版严格对半：上半保留原照身份/姿态/衣着光线，下半抽成不超过四色的纸质手绘。种草海报批产模板，附完整英文 prompt。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2100563846054469799)
   <details>
@@ -2127,7 +2203,7 @@ Supporting typography should stay minimal and secondary. The final image should 
 
   </details>
 
-- **四大饮料品牌四世界：一条 campaign 多世界观** — PAUSE / SIP / REFRESH / HAVE FUN——四联各成一套视觉语言。一人团队做饮料/快消 SMM 时，「一提示多世界」比单张好看更值钱；评论区有完整 7UP 级长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099851373470945551) · [playbook](https://x.com/Diplomeme/status/2099851680380838194)
+- **四大饮料品牌四世界：一条 campaign 多世界观** — PAUSE / SIP / REFRESH / HAVE FUN——四联各成一套视觉语言。一人团队做饮料/快消 SMM 时，「一提示多世界」比单张好看更值钱；评论区有完整 7UP 级长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099851373470945551) · [prompt](https://x.com/Diplomeme/status/2099851680380838194)
 
 - **字体当建筑：四联空间排版海报** — CAST TYPE / SKY APERTURE / OPEN CORNER / FLOAT LEVEL——字投阴影、绕混凝土、穿景深。编辑海报 / 建筑视觉空间字体教科书。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099849499170492882)
   <details>
@@ -3730,8 +3806,74 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
-- **韩系时尚双变体：同一身份两套 editorial** — 同一东亚女性身份锁死，出两张匹配的韩系高定写真变体；完整 SUBJECT/风格英文 prompt 可抄。系列时尚片别换脸。 [@AIwithWania](https://x.com/AIwithWania) · [原帖](https://x.com/AIwithWania/status/2100823515230531608)
-- **头像→吉祥物连体衣：身份锁换装 prompt** — 把 avi 锁成唯一身份权威，再套进受角色设计启发的 mascot suit；脸型/眼色/比例写死。粉丝二创 / OC 周边出图模板。 [@NachtNovaAI](https://x.com/NachtNovaAI) · [原帖](https://x.com/NachtNovaAI/status/2100781932413952315)
+- **真人与铅笔素描同框：墙上 2D 互动肖像** — 粉发真人举手「发生啥了」+ 同姿态石墨线稿画在白墙上、局部叠进真人。反差编导人像可抄，完整英文 prompt 在帖内。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2100881011760619670)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create an ultra-realistic creative portrait of a young woman standing indoors against a clean white wall, seamlessly interacting with a large hand-drawn black-and-white pencil sketch of her standing beside her.
+
+The real woman stands on the right side, wearing an oversized black distressed sweatshirt, loose dark cargo-style jeans with stitched panel details, and black-and-white canvas sneakers. She has long straight pastel pink hair and a playful, slightly surprised smile, looking directly at the camera. Her arms are raised outward with both palms facing upward in a cute "what's going on?" pose.
+
+Behind and slightly to the left of her, create a large expressive hand-drawn pencil sketch version of the same woman. The sketch should closely match her pose, proportions, hairstyle, facial expression, clothing silhouette, and hand positions, drawn with loose rough graphite strokes, visible cross-hatching, imperfect lines, and an authentic notebook-sketch aesthetic.
+
+Make the sketch appear physically drawn directly onto the wall, with parts of the sketch slightly overlapping the real woman to create a surreal 2D-to-3D interaction. Add playful hand-drawn doodles around the sketch, including stars, hearts, motion lines, small circles, and expressive marks.
+
+Minimal white studio background, soft natural lighting, subtle floor shadow, realistic skin and fabric texture, detailed hair strands, authentic photography, strong contrast between the monochrome pencil drawing and the colorful real person, whimsical editorial photography, clever visual storytelling, seamless integration, highly detailed, photorealistic, vertical composition, 4:5 aspect ratio.
+```
+
+  </details>
+
+- **自拍身份锁 + 手里捏黏土自己：渔港双版本** — primary identity reference 保脸，本人抱着同脸手工黏土玩偶站在日本渔港。UGC 锁脸又不无聊——「真人 + 纪念品自己」一套公式。 [@MrDasCreates](https://x.com/MrDasCreates) · [原帖](https://x.com/MrDasCreates/status/2100858381636624418)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded portrait photo as the primary identity reference. Preserve the person's recognizable facial identity as accurately as possible, including face shape, apparent age, hairstyle, eyebrows, eyes, nose, mouth, jawline, skin tone, expression, and overall character.
+Create a cinematic, photorealistic 4:3 portrait scene on a quiet early-morning fishing pier in a small Japanese coastal town. Show the same person from the uploaded photograph standing on weathered wooden planks beside a wooden crate, with calm gray-blue water, moored wooden boats, hanging fishing nets, mist over the harbor, and distant tiled-roof houses fading into fog.
+The person should be clearly visible and photographed realistically, wearing a simple dark jacket or knit sweater. They hold a handmade clay doll of themselves toward the camera with both hands.
+The doll is a small, slightly exaggerated artisan clay figurine of the same person, sculpted in the style of a charming Japanese folk toy or tourist souvenir. It should look handmade from matte clay, with visible fingerprints, tool marks, and a slightly imperfect surface. Keep it clearly recognizable as the same person.
+Push the doll's features theatrically: oversized head, big expressive eyes, a comically large nose or grin, simplified body, wild hair or hat shape, and a playful pose. Keep it cute, humorous, and artistic rather than grotesque. The doll can wear a tiny version of similar clothing and stand on a small rustic wooden or clay base.
+Important: clearly show both versions in a single image: the real, photorealistic person and the clay doll version of the same person in their hands.
+Use soft overcast morning light, high detail, natural skin texture, believable hands holding the figurine, a calm harbor atmosphere, and a vintage Japanese seaside souvenir feel.
+```
+
+  </details>
+
+- **Cosplay 衣装按类可换：PROTECTED 哥特整套模板** — 外套/胸衣/短裙/腿甲/靴/手套/护颈——每件写成不可变身份，再只改穿法与层叠。MoodLock 换装系列继续发糖，完整长 prompt 在帖内。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100857652494692508)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. If source prose omits or misclassifies a component required by an explicit selection, that selection corrects only that component. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.
+
+Wardrobe:
+
+Outerwear / layers: An asymmetric white-and-ash-gray long-pile fur mantle with a high, dramatically flared collar of layered pointed tufts around the neck and shoulders. The wearer's left side expands into a heavy pelt that falls outside the arm and down the flank nearly to the ankle, tapering into long irregular wisps; the right side remains a short shoulder drape ending over the upper arm. The fur has pale tips, smoky gray roots and a coarse, windswept texture. A concealed leather shoulder yoke, dark flexible lining and a small hidden front hook support the sleeveless construction while leaving the center front open.
+
+Top: A black leather longline corset top with rounded sculpted bust cups, a narrow vertical center bridge and curved riveted seams highlighted by worn pewter trim. Its fitted front narrows sharply through the waist, with layered diagonal leather reinforcements and a pointed high-hip hem. Large side cutouts lead into an open back built from broad crossed leather straps, adjustable buckled underarm bands and a narrow reinforced spine panel, leaving generous geometric spaces between the straps. An elongated silver-gray blade ornament with a deep red inset sits on the upper spine, and a smaller matching ornament marks the underbust. Dark-silver chain swags drape beneath the cups and descend in a V toward the front waist. The leather has a restrained satin sheen, fine creasing and dark stitched edges, with lining confined to the solid panels.
+
+Bottom:
+
+High-cut black armored briefs with a close-fitting, full-seat leather-look base and sharply angled leg openings. Overlapping downward-pointing gunmetal V plates reinforce the upper front above a smooth curved crotch panel, with a fine central seam, worn silver edges and restrained dark-red accents at the plate junctions. A narrow fitted waistband and concealed side zipper complete the separate garment, while flexible black backing continues across the seat.
+
+A gothic utility overskirt suspended from a broad black leather belt reinforced with silver-edged polygonal gunmetal plates, crimson insets and a pointed red shield-shaped center buckle. Three overlapping tiers of paired, shallow box pouches cover the left hip, with silver-bordered flaps, small red fastening tabs and concealed snaps; slimmer pouch-and-tasset strips hang over the right hip. Riveted straps and pointed metal tips extend below the storage panels. Long, narrow crimson and charcoal fabric tails fall from beneath the belt around the sides and back, leaving the center front open, with irregular holes and deeply shredded hems reaching the lower calves and ankles. A broader charcoal rear tabard has a ragged pale-gray underlayer exposed at its pointed lower edge. Two long metal-link chains frame this rear panel, a finer chain drapes between them, and angular ferrules with dark-red pointed ends finish the hanging hardware.
+
+Final worn state:
+For the second item description above only:
+- Garter placement: Wear exactly two physical garters or thigh bands, one level around each corresponding thigh at matching height and orientation. Preserve the registered pair identity, closures, straps, and ornaments. Do not add, omit, merge, mirror, duplicate, twist, or move either member to a knee, calf, or ankle.
+
+Legwear: A pair of blackened-metal leg guards with pointed front thigh plates supported by buckled lower-thigh bands and crossed leather straps behind the thighs, leaving large side and rear openings. Faceted red-and-black knee crests project forward between silver-edged lateral pivot plates. Overlapping scale-shaped armor encloses the calves, flowing into long raised shin ridges that narrow toward the ankles. Thin crimson channels, small red fasteners and worn silver outlines trace the articulated geometry. Flexible backing beneath the plates and concealed overlapping rear-calf closures complete the fitted guards.
+
+Footwear: A pair of black armored ankle boots with thick segmented forefoot platforms, broad faceted closed toes and tall tapered block heels separated from the soles by deep arch openings. Overlapping gunmetal plates cover the toes and insteps, outlined by rubbed silver edges and narrow crimson accents. Raised ankle cuffs flare into black-and-red blade fins with triangular silver tips and round red pivot studs. Reinforced heel counters carry small amber rectangular inserts above long crimson heel channels. Concealed inner-side zippers, dark leather backing, soft lining and textured rubber sole pads complete the boots.
+
+Gloves: A pair of articulated black leather arm-armor assemblies extending from buckled upper-arm bands to full-finger gloves. Red circular hubs sit in square bicep plates above silver-edged upper-arm segments, flexible elbow joints and long tapered forearm shells. Pointed lateral fins, silver kite-shaped inlays and crimson channels accent the dark metal. The left outer forearm carries an additional slim rectangular housing with a raised red border and a flush dark lid. Overlapping hand and finger plates have small red knuckle nodes, while flexible leather palms, inner adjustment buckles and articulated wrist sections complete the wearable construction.
+
+Detachable collars / neck guards: A close-fitting blackened-metal gorget necklace on a black leather backing, built from articulated angular neck plates with worn pewter edges. Two raised front points flank a shallow central notch, below which a broad openwork heraldic ornament descends into a long spear-shaped chest point. A raised silver-gray central blade and hooked lateral arms frame two small ember-red stones against recessed black sections. The collar continues around the neck in matching segmented plates and closes with a small rear leather buckle.
+```
+
+  </details>
+
 - **身份锁定时尚棚拍：STYLE / WARDROBE / POSE / LIGHTING** — 参考图锁脸锁体型，再拆 STYLE / WARDROBE / POSE / LIGHTING / CAMERA 分段写死。高定棚拍可抄完整英文 prompt，别让模特变成路人。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2100827183468237189)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -3772,11 +3914,15 @@ The final image should look like a real photograph from a premium international 
 
   </details>
 
+- **韩系时尚双变体：同一身份两套 editorial** — 同一东亚女性身份锁死，出两张匹配的韩系高定写真变体；完整 SUBJECT/风格英文 prompt 可抄。系列时尚片别换脸。 [@AIwithWania](https://x.com/AIwithWania) · [原帖](https://x.com/AIwithWania/status/2100823515230531608)
+
 - **玻璃肤双机位：低角度特写 + 平视侧脸** — 同一玻璃肤妆面，低角度特写与平视侧脸两套机位对照。妆造锁定、机位换汤不换药——美妆种草分镜可抄。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100817314837057912)
 
 - **中文两套可抄：棚拍人像 / 户外自然光** — 别再用「好看一点」糊弄人像——棚拍硬光与户外自然光两套中文提示词直接开抄，适合种草人像与虚拟 IP 试妆。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2100792989979447646)
 
 - **金发角色 7 场景身份锁：参考表出片** — 一张已发布参考表钉死金发角色身份，跨 7 场景重跑仍是同一个人、换一张新照片。站内附完整 prompt，角色一致性教科书。 [@alosemhq](https://x.com/alosemhq) · [原帖](https://x.com/alosemhq/status/2100785778431611137)
+
+- **头像→吉祥物连体衣：身份锁换装 prompt** — 把 avi 锁成唯一身份权威，再套进受角色设计启发的 mascot suit；脸型/眼色/比例写死。粉丝二创 / OC 周边出图模板。 [@NachtNovaAI](https://x.com/NachtNovaAI) · [原帖](https://x.com/NachtNovaAI/status/2100781932413952315)
 
 - **Grok bot 手绘形象：贴帖链接 + 接 Codex 用 Image 2.5** — 把示范帖丢给自家 Grok bot，让它手绘 bot 形象；记得先接 Codex 才能走 Image 2.5。宠物试手也行——虚拟助手形象一条龙。 [@KinGao476942](https://x.com/KinGao476942) · [原帖](https://x.com/KinGao476942/status/2100776158329733480)
 
@@ -6157,7 +6303,7 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
   </details>
 
-- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [@段老湿](https://x.com/段老湿) · [原帖](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [playbook](docs/playbooks/virtual-ip-assets.md)
+- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ)
 
 
 ## 电商改图
@@ -6165,6 +6311,7 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 商品图、局部编辑、包装与货架感。
 
 - **局部编辑 8 例：构图/人物保留只改痛点** — 「整体挺好、就差这一处」别整张重跑；Images 2.5 留构图与人物，只修需要的部分。8 个实例 + prompt，改图心法入门。 [@asahi_ai_x](https://x.com/asahi_ai_x) · [原帖](https://x.com/asahi_ai_x/status/2100827157471580462)
+
 - **电商皂包装小字不糊：Images 2.5 经 Codex 出商品图** — 正方形商品照，「HERB GARDEN」与「よもぎと緑茶の石けん」腰带小字清晰可读。包装文字保真的电商静物对照。 [@kohaku_2100](https://x.com/kohaku_2100) · [原帖](https://x.com/kohaku_2100/status/2100777491036246402)
 
 - **母版图 + Preserve / Change / Delta：小步连改方法论** — 别再指望一段超长 prompt 一次成型；先锁母版、钉住保留元素，再用 Preserve / Change / Delta Edit 连续小改逼近终稿。Image 2.5 时代改图心法长文。 [@cheery9998](https://x.com/cheery9998) · [原帖](https://x.com/cheery9998/status/2100768331263311913)
@@ -6458,6 +6605,70 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **车内 POV 事故首帧：玉米车×沥青车→爆米花海** — Coke×Mentos 变体：玉米散装车 + 高温沥青罐，手机偷拍质感锁第一帧，再丢 Seedance 跑过程。中文长 prompt 写死「只要十几颗刚爆的」，别让整条路先变白。 [@DDJCXX](https://x.com/DDJCXX) · [原帖](https://x.com/DDJCXX/status/2100876933236220383)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+生成一张完全真实的手机视频首帧，像坐在正在行驶的汽车里偶然拍到的一场高速公路事故。
+
+竖屏 3:4。
+
+镜头从汽车内部透过挡风玻璃向前拍摄，画面中保留挡风玻璃、轻微雨点、玻璃反射、一侧 A 柱，以及底部少量仪表台 / 引擎盖。
+
+整体必须是普通消费级手机偷拍视频质感，不要电影感，不要 HDR，不要商业摄影。
+
+前方高速公路左侧，两辆大型商用车辆紧挨着停在同一个事故区域：
+
+第一辆是一辆大型农业散装运输车，车内装满用于制作爆米花的黄色玉米粒。
+
+车厢后部或下方已经破损，大量金黄色干玉米粒正在持续洒落到柏油路上，在左侧车道形成明显的玉米粒带和浅堆积。
+
+第二辆车紧挨着它，是一辆大型高温沥青罐车。
+
+工业圆柱形罐体，真实、厚重、脏污，有高温警示标识。
+
+罐车后部或下方附近有明显高温区域，可以看到轻微蒸汽、热浪扭曲，以及黑色高温沥青残留。
+
+关键细节：
+
+部分黄色玉米粒已经滚进高温区域。
+
+但此时只有极少量玉米刚刚爆开。
+
+地面上只散落大约 10–30 颗新鲜白色爆米花，其余绝大多数仍然是黄色未爆开的玉米粒。
+
+可以有一两颗玉米正在爆开的瞬间。
+
+不要出现人物。
+
+不要出现爆米花桶。
+
+不要出现爆米花山。
+
+不要大规模爆发。
+
+不要火球。
+
+不要爆炸。
+
+不要让整条路已经变白。
+
+拍摄车辆仍然正在靠近事故现场，两辆卡车位于前方而不是紧贴镜头。
+
+远处保留高速公路消失点和少量正常车辆。
+
+阴天白昼，雨后湿润柏油路，自然反光。
+
+整个画面必须像一个路人突然发现：
+
+玉米运输车 + 高温沥青车 + 地上居然已经出现几颗爆米花。
+
+真实、偶然、未经摆拍。
+```
+
+  </details>
 
 - **Pinterest 日常照→文字反推→超写实静帧** — 先丢一张松散日常照，用 `/detailed-image-2-text-prompt` 反写出细节再文生图；换参考就能反复出「像拍的、不像提的」静帧。参考图驱动的写实工作流可抄。 [@adithatipalli](https://x.com/adithatipalli) · [原帖](https://x.com/adithatipalli/status/2100777678580461782)
   <details>
@@ -7393,7 +7604,7 @@ AUDIO: Generate subtle theater room tone, a synchronized rush of air and nonverb
 
 - **Blender 建模 → Sunburst 精修渲染** — Minimax/Blender 出三维结构，再丢 Sunburst 提质。控形归建模、皮相归 2.5——3D×图像的正经分工。 [@Banyu_Biroeee](https://x.com/Banyu_Biroeee) · [原帖](https://x.com/Banyu_Biroeee/status/2098308242279727175)
 
-- **Flare 车×建筑隐喻海报：路长成了 Camry** — 「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098299916166873371) · [playbook](https://x.com/Diplomeme/status/2098299968260067639)
+- **Flare 车×建筑隐喻海报：路长成了 Camry** — 「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098299916166873371) · [prompt](https://x.com/Diplomeme/status/2098299968260067639)
 
 - **Instant 邪门一句话：诡异不安照片** — 中文短 prompt + Instant：禁止提问、禁止解释文字，专出「暗网硬盘感」。玩恐怖/异质审美的人收藏这句就够。 [@dtzy_88](https://x.com/dtzy_88) · [原帖](https://x.com/dtzy_88/status/2098290580581486858)
   <details>
@@ -7942,7 +8153,7 @@ Each panel must contain only one complete full-body character with enough margin
 
   </details>
 
-- **飞吻 4×4 序列帧：没跑过不出厂** — Line 表情包向 16 格实测入库；「爱你哦」白底 1:1 通挂，飞吻循环连贯性偏弱也写进评测。反营销滤镜的真·合集。 [@zouyanjian](https://x.com/zouyanjian) · [原帖](https://x.com/zouyanjian/status/2099422284666884445) · [playbook](https://github.com/SmartStudio/baize-prompts/blob/main/prompts/image-gen/GPTImage25-Line%E8%A1%A8%E6%83%85%E5%8C%85%E5%BA%8F%E5%88%97%E5%B8%A7.md)
+- **飞吻 4×4 序列帧：没跑过不出厂** — Line 表情包向 16 格实测入库；「爱你哦」白底 1:1 通挂，飞吻循环连贯性偏弱也写进评测。反营销滤镜的真·合集。 [@zouyanjian](https://x.com/zouyanjian) · [原帖](https://x.com/zouyanjian/status/2099422284666884445) · [repo](https://github.com/SmartStudio/baize-prompts/blob/main/prompts/image-gen/GPTImage25-Line%E8%A1%A8%E6%83%85%E5%8C%85%E5%BA%8F%E5%88%97%E5%B8%A7.md)
 
 - **粘土定格 GIF：胖青蛙 DJ 一次出循环** — 24 帧塑料泥质感，金链耳机全入画，再把精灵表转 GIF。短视频贴纸 / 表情包流水线，抄走就能量产。 [@MrDasOnX](https://x.com/MrDasOnX) · [原帖](https://x.com/MrDasOnX/status/2098360111597244532)
   <details>
@@ -8085,6 +8296,50 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
 产品 UI / UX 视觉与落地页 mock。
 
+- **Images 2.5 出设计 → Codex 直接搓 LP** — 别先开 Figma：ChatGPT Images 2.5 出整页视觉，原图丢给 Codex 转 HTML，只改刺眼处。落地页从「好看」到「能上线」的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2100881842513850425) · [prompt](https://x.com/revolvtech/status/2100872475185963027)
+
+- **角色当壁纸：16:9 macOS 桌面构图完整公式** — 上传角色图 → 自适应配色壁纸 + 日文菜单栏/Dock/三图标，主体靠右留白。Image 2.5 静帧再接 Wan 动效；桌面壁纸/虚拟桌面素材一条龙。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2100854831837782439) · [prompt](https://x.com/Mayz1169/status/2100856797246500988)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Using the uploaded image as the subject reference, create a polished 16:9 macOS desktop composition.
+
+Subject:
+Identify the main subject or characters in the reference and preserve their recognizable appearance, facial features, hairstyle, clothing, accessories, proportions, and original visual style. Keep interacting characters together. If the reference is a character design sheet with multiple views of the same character, use only one main view. Remove the original background, reference-sheet panels, captions, and decorative borders.
+
+Composition:
+Place the subject on the RIGHT side, occupying approximately 35–45% of the canvas. Leave generous uncluttered space across the left and center. Keep faces and important gestures fully visible. Preserve the full body when the reference provides it; otherwise, use a natural crop without inventing unseen anatomy. Keep the subject clear of the menu bar and Dock.
+
+Adaptive wallpaper:
+Design a custom background that matches the subject's colors, personality, clothing, and mood. Combine the broad flowing curves and smooth gradients of classic macOS wallpapers with a palette drawn from the reference.
+
+For soft or gentle subjects, use delicate pastel gradients. For energetic subjects, use restrained vibrant accents. For elegant or mysterious subjects, use rich darker tones with subtle highlights. Make these choices based on the actual reference rather than applying the same palette to every image.
+
+Keep the background simpler and less visually dominant than the subject. Use tonal separation so dark clothing remains visible against dark backgrounds and light hair remains visible against pale backgrounds. Add only a few subtle thematic details when appropriate.
+
+Desktop interface:
+Include a thin translucent macOS menu bar across the top, with the Apple symbol, Finder, and Japanese menu labels:
+ファイル  編集  表示  移動  ウインドウ  ヘルプ
+Place small system status icons and a clock at the upper right.
+
+On the upper left, arrange exactly three modestly sized desktop items in one vertical column:
+• A blue folder labeled "仕事"
+• A blue folder labeled "写真"
+• A screenshot thumbnail labeled "スクリーンショット"
+
+Use consistent spacing and small, readable white labels with subtle shadows.
+
+Add a realistically sized translucent macOS Dock near the bottom center, shifting slightly left if necessary to avoid overlapping the subject. Include Finder, Safari, LINE, Mail, Calendar, Notes, Music, System Settings, followed by a separator, Downloads, and Trash.
+
+Final appearance:
+The result should look like a cohesive personalized Mac desktop screenshot, with a character-inspired wallpaper and clean, believable interface elements. Preserve the reference's art style rather than converting every subject to anime or photorealism.
+
+No physical laptop, monitor frame, open application windows, extra characters, duplicated subjects, large titles, or additional desktop icons. Render the desktop directly edge to edge in a wide 16:9 image.
+```
+
+  </details>
+
 - **Canva×Images 2.5×Codex：约十分钟夏祭落地页** — Canva 找参考 → Images 2.5 出 LP 视觉 → Codex 落 HTML。深蓝×花火大人味夏祭站，一人队做活动页现成三步链。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2100552230298652694)
 
 - **先锁UI完成图再写代码：Image2.5→Claude Artifact** — 先用 Image 2.5 钉死 UI 方向，再让 Claude Code Artifact 出 3 案、人只改差分。实现/token 体感约 1/3，产品落地页与后台 mock 工作流值得抄。 [@hata_AI_master](https://x.com/hata_AI_master) · [原帖](https://x.com/hata_AI_master/status/2100536994598465775)
@@ -8101,6 +8356,8 @@ Why: less token churn than coding UI from words alone; fewer misaligned redesign
 ```
 
   </details>
+
+- **Arrow 2 + Images 2.5：可编辑 SVG logo 全家桶** — logo / wordmark / banner 一次出，而且真是可编辑 SVG——不是位图假矢量。品牌视觉从「能看」到「能改」的演示。 [@ulrikberntzen](https://x.com/ulrikberntzen) · [原帖](https://x.com/ulrikberntzen/status/2100531608465903644)
 
 - **Image 2.5 分层资产 → Astra 视差沉浸站** — 先用 2.5 出场景分层，再 Astra 做滚动视差/遮挡/转场。一人队做「走进画面」落地页的现成链路。 [@happycapyai](https://x.com/happycapyai) · [原帖](https://x.com/happycapyai/status/2100194873529991441)
 
