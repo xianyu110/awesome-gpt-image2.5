@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 524 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 534 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,23 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **胶卷 Film Roll：Banana2 打底 + Sunburst 叠回忆** — 两阶段：Nano Banana 2 先出空白 35mm 胶卷底，再 Sunburst 把角色回忆烤进每一格。作者点名 Flare 更易崩胶卷结构——选型直接听劝。 [@094WPdx9ZrfYJnS](https://x.com/094WPdx9ZrfYJnS) · [原帖](https://x.com/094WPdx9ZrfYJnS/status/2100910986391900578)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【阶段1 · Nano Banana 2 · 空白胶卷底】
+35mm版的フィルムロールの断片を、数本伸ばしている状態をアップで。フィルムはコマ割りはされているが何も映っていないブランクの状態で生成。ゲームのローディング画面のような雰囲気。写実的に。
+比率 3:2 · 4K
+
+【阶段2 · GPT Image 2.5 Sunburst · 叠角色回忆】
+35mm版のポジフィルムのロールの断片を伸ばして画面狭しと重ねた状態。フィルムの重なりや背景がうっすらと映り込む。コマごとにキャラクターの楽しい思い出の撮影記録が現像されている。ライバルとの戦闘、武器を振り回してハイになった日、絶望しながら食べたカップ麺。昔の友達、栃木県の名勝。画像の右側にはキャラクターの可愛いポーズのイラストを不透過率80%の上層レイヤーとして生成。下層レイヤーは不透過率100%として、キャラクターの輪郭線がわずかに発光して背景から浮き上がらせている。電子ノイズと画像のノイズを除去したのち、フィルムで撮影したような粒子感を全体的に追加。キャラクターは『メカ七瀬（ななせ）』。超究銀河のメカ娘。機械の手指、先進的な装甲にインナーカラーの白髪ポニーテール、明るいアホの子。キャラクターはシンプルに描く。
+比率 3:2 · 4K · 品质最高 · 背景オート
+注：作者反馈 Flare 更容易把胶卷结构弄崩，优先 Sunburst。
+```
+
+  </details>
 
 - **Sunburst 连改 20 次仍一致：编辑压测视频** — 一张图 → 改 → 再改编辑结果，连滚 20 轮人物与风格还不崩。选型时别只看首帧——一致性才是 Sunburst 被低估的地方。 [@StratosBase](https://x.com/StratosBase) · [原帖](https://x.com/StratosBase/status/2100896878564934042)
 
@@ -982,6 +999,53 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **比萨斜塔测绘四联：可换城市 master prompt** — 上半真景、下半 USGS 式等高线测绘重建，四板密度轴可调。换 {STRUCTURE}/{CITY} 就能给自家城市出一套收藏级建筑海报——Sunburst 4K 模板。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2100914552682450985)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+One poster, 3:4 vertical canvas. Split into two roughly equal zones — a realistic photograph on top, a printed reconstruction below — divided by one clean sharp horizontal line. The structure must not be stretched, warped, tilted or repositioned unnaturally.
+
+TOP HALF — THE REAL SHOT
+{STRUCTURE DESCRIPTION}. {PLATE LIGHT}. Preserve the structure faithfully: same architecture, proportions, perspective, distinctive details, natural light and shadow. Add only a subtle high-end color grade and the faintest film grain. Never redesign or reinterpret the architecture.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+Rebuild the same structure as a mid-century surveyor's topographic map sheet: the building and its site rendered in fine brown contour lines that wrap around the mass and terrain, elevation index numbers printed along the contours, small triangular benchmark markers with elevation tags, a compass rose, a thin scale bar, faint theodolite sight-lines and the blocky vintage lettering of a USGS quadrangle sheet. The photograph dissolves outward into contour lines, survey ticks and a faint grid. The structure must remain immediately recognizable. {PLATE DENSITY}.
+Texture: yellowed map paper with fiber grain, worn fold creases, faint old stains, restrained crop marks, one small red calibration bar. Color: aged-paper ground, warm brown and black survey inks, the structure's original muted colors, a single red accent. Never fully desaturate the structure.
+The structure occupies roughly 60-88% of the frame width. Leave 22-38% of the paper visibly untouched and empty — generous negative space so the poster reads as an archival specimen, not a packed screen.
+
+TYPOGRAPHY — a clean fixed-width architectural title block, pinned top-left at a small fixed inset, black ink, monospaced technical typeface, verbatim, each line in caps:
+"{NAME}"
+"{CITY, COUNTRY}"
+"SURVEY PLATE 0N"
+A thin horizontal rule under the third line, then one short observational caption verbatim:
+"{CAPTION}"
+
+A solid vertical red rectangle — the only red in the poster — is pinned to the bottom-right corner zone about 12% from the bottom and right edges. Four thin black crop marks sit in the four corners of the bottom half at identical insets. Red bar, crop marks and text block keep exactly the same position and size relative to the frame.
+
+MOOD: field survey notebook crossed with modern travel editorial — the landmark as a place the surveyor has measured. Sophisticated, minimal, tactile, intellectual, slightly mysterious, highly collectible.
+
+AVOID: solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive decorative glyphs, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random meaningless symbols, garbled text, extra colors, brand logos, QR codes, watermarks, author credits, tourist-poster clichés.
+
+Priority: preserve the structure's identity and architectural accuracy first. The experimental print treatment enhances the architecture, never hides it.
+
+THE FOUR VARIATIONS (one axis change per plate)
+
+PLATE 01 — DENSE · light: "Golden-hour sunlight with long warm shadows" · density: "The print treatment is at its densest and richest: layered marks, full system detail"
+PLATE 02 — LINEWORK · light: "Soft overcast daylight, muted flat tones" · density: "The print is linework-forward: thin drafting lines and technical geometry dominate the reconstruction"
+PLATE 03 — FRAGMENT · light: "Blue-hour dusk with cool tones and lit windows glowing" · density: "The print is fragment-forward: torn photographic fragments dominate, with fewer system marks around them"
+PLATE 04 — MINIMAL · light: "Bright midday sunlight with crisp shadows" · density: "The print is the minimal plate of the set: sparse marks, maximum untouched paper"
+
+To reuse: replace {STRUCTURE DESCRIPTION}, {NAME}, {CITY, COUNTRY} and {CAPTION}. Keep every other line unchanged.
+STACK: GPT Image 2.5 · Sunburst · high · 4K · 3:4
+```
+
+  </details>
+
+- **东方制度海报续作：火政 / 凌室 / 市舶 / 合符** — 纸色与空间把制度逻辑嵌进画面：城防火政、跨季藏冰、海贸通关、合符验信。制度史/城市文明展览视觉的第二套配方。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100912078445830529)
+
+- **东方文化海报四联：钱法 / 岁序 / 律吕 / 田亩** — 大色域先画结构关系，再把故事塞进微型人物——货币流通、四季螺旋、音律校准、田亩入册。博物馆/知识系统/东方编辑设计直接对标。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100904687159361574)
 
 - **多人海报破模板：超大头像 / 不规则裁切 / 视觉权重** — 别再等分九宫格——用 oversized 肖像、不规则裁切、粗体字和不均匀视觉重量把多人海报做出编辑感。活动 / campaign / 杂志多人 KV 可填槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100891321581875438) · [prompt](https://x.com/MrLarus/status/2100891369350877246)
 
@@ -3810,6 +3874,34 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **Image 2.5 角色表 → Seedance 办公室潜行片** — 迟到上班做成潜行游戏：先用 GPT Image 2.5 定角色表，再 Seedance 多机位运动仍锁脸。角色一致性跨灯位/运镜的成片链路可抄。 [@VeoStudioEg](https://x.com/VeoStudioEg) · [原帖](https://x.com/VeoStudioEg/status/2100930165165478351)
+
+- **身份锁 iPhone 露台 UGC：浴袍晨光完整 prompt** — 参考图 1:1 锁脸发色，iPhone 好友抓拍感 9:16：藤椅、白浴袍、晨雾花园。种草/生活方式竖版直接抄，别再假精修棚拍。 [@mehvishs25](https://x.com/mehvishs25) · [原帖](https://x.com/mehvishs25/status/2100929941147664748)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Preserve appearance and hair color 1:1 according to the reference.
+
+Photorealistic amateur photo taken on iPhone by a friend, 9:16, framed to the hips. The girl sits on the left in a wicker chair on the terrace, legs tucked to the side. She holds a white cup with both hands near her chest and looks to the side, calm and relaxed.
+
+She is wearing a white terry-cloth bathrobe with a loosely tied belt, sleeves rolled up, and cream ribbed socks. Hair is gathered into a messy high bun, with loose strands around the face and neck. Clean-girl makeup: natural skin with pores and a slight glow, cool blush, laminated brows, mascara, and moisturized lips. Thin gold chain, small stud earrings, short natural manicure.
+
+On the wicker side table: a glass teapot, a book, and a phone face-down. To the right, a sharp autumn garden in morning mist is visible, along with wooden railings, decking, and a second chair. Cold diffused morning light, steam from the drink, dew, realistic terry-cloth and wicker texture. RAW, light grain, no retouching or background blur.
+```
+
+  </details>
+
+- **盛唐古典美人：国风超写实中文竖版提示词** — 夜色花亭、唐风广袖、金凤冠与海棠落瓣，冷青夜雾+暖金眼神光。明确成年东亚美人近景，国风人像 KV 中文 prompt 一次抄完。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100928200243363943)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+9:16 竖版国风超写实 CG 肖像，盛唐审美融合东方写意。一位明确成年的东亚古典美人站在夜色花亭中，采用胸上至腰际的近景构图；身体正面略偏右，头部抬向画面左上方，眼神凝望落下的花瓣，不看镜头。她拥有冷白透亮的皮肤、自然精致的凤眼和清秀鼻梁，眼底有淡淡水光，胭脂唇微微张开，神情像欲言又止。服装为珊瑚粉与鎏金相间的唐风广袖襦裙，柔软领口自然衬托锁骨，肩头披着轻薄金纱；头戴珍珠与粉色宝石组成的金凤冠，长流苏随转身轻摆。她一只手伸向空中的海棠花瓣，另一只手压住被风吹起的披帛。背景仅保留虚化花枝、亭柱和冷青夜雾，暖金灯光从左前方照亮眼睛与指尖，冷蓝月光形成侧后轮廓。85mm，f/1.6，浅景深，低饱和珊瑚粉、金色与蓝灰色，柔焦辉光和细颗粒增强宿命般的情绪。
+```
+
+  </details>
+
 - **真人 × 动漫壁画：室内生活方式完整 prompt** — 写实女生叠进红墨 anime gunslinger 墙绘，接触阴影与透视写死。真人遇二次元生活方式竖版可直接抄长 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100894615985648037)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -6636,6 +6728,28 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
 场景、长卷、视频工作流与氛围大图。
 
+- **行车记录仪首帧锁定：公路 dashcam JPEG 感** — 先把首帧锁成「真 dashcam」再进视频链路——挡风玻璃、A 柱、仪表台切片，像抓帧 JPEG 不是电影 HDR。公路短片开场可复用（ALT 含 DIRECTIVE）。 [@YazanHD12](https://x.com/YazanHD12) · [原帖](https://x.com/YazanHD12/status/2100934751716589688)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+DIRECTIVE:
+Produce one still that reads as a real in-car dashcam frame grabbed from a moving car on a highway. Optical dashcam capture, wide windshield view, windshield glass, A-pillar, a slice of dashboard/hood — lived-in dashcam JPEG, not cinema, not HDR.
+```
+
+  </details>
+
+- **雪原红塔构图公式：负空间 / 尺度人 / 长曝光** — 超高窄塔 vs 冻原，偏左构图+右侧留白，小黑人影定尺度，红光光轨长曝光。科技广告纪念碑感中文最终提示语可直接出片。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2100928131880321096)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+单一超高垂直体量对抗广阔雪原；建筑略偏左，天空和右侧山坡形成负空间；红色实体与黑色缝隙产生强烈图底关系；人物极小用于尺度参照；雾遮山脊；红光沿地面延展；长曝光强化雾与光轨。
+最终提示语：竖幅 2:3 的极简未来建筑艺术摄影，冷白冻原上耸立一座极高、极窄的量子观测塔，位置略偏左。塔体不是双刃形，而是由三片错位折叠的深绯红钛金属鳍片构成，中央留出一道深黑垂直负空间，顶部形成不对称切角。塔基只占很小面积，一条细锐红色能量光带沿雪地横向延伸后渐隐。右下远处放置一个极小的黑色人影作为尺度，右侧灰白山坡被低云吞没。天空占据大量留白，画面克制，没有城市与装饰。金属表面微粗糙、边缘精确、红色不饱和偏冷，环境以冰灰、铅白、雾蓝为主。长曝光让山雾如薄纱横移，地面红光拉成平滑光轨，建筑本体保持建筑摄影般清晰。冷峻、神秘、纪念碑尺度、高端科技广告质感。无文字、无 logo、无水印、无飞船、无繁复灯带。
+```
+
+  </details>
+
 - **车内 POV 事故首帧：玉米车×沥青车→爆米花海** — Coke×Mentos 变体：玉米散装车 + 高温沥青罐，手机偷拍质感锁第一帧，再丢 Seedance 跑过程。中文长 prompt 写死「只要十几颗刚爆的」，别让整条路先变白。 [@DDJCXX](https://x.com/DDJCXX) · [原帖](https://x.com/DDJCXX/status/2100876933236220383)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -8327,6 +8441,8 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **Image 2.5 出 logo → Astra SVG 到指南/Banner** — 先用 GPT Image 2.5 出 logo，再丢 Astra 转 SVG，精度够用后一套做指南、Banner、站点替换。品牌视觉从栅格到矢量的最短链路。 [@gaku_oregin](https://x.com/gaku_oregin) · [原帖](https://x.com/gaku_oregin/status/2100913069270687991)
 
 - **Images 2.5 出设计 → Codex 直接搓 LP** — 别先开 Figma：ChatGPT Images 2.5 出整页视觉，原图丢给 Codex 转 HTML，只改刺眼处。落地页从「好看」到「能上线」的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2100881842513850425) · [prompt](https://x.com/revolvtech/status/2100872475185963027)
 
