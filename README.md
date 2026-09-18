@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-17 · **收录 481 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 486 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **同题四厂硬刚：GPT Image 2.5 vs Grok vs MJ vs Krea** — Crystal Dragon Lancer 同题纯 t2i 零修图并排四厂——Image 2.5 / Grok / Midjourney / Krea 谁先驯服龙臂叠影。跨厂选型甩图现场。 [@ellewayAI](https://x.com/ellewayAI) · [原帖](https://x.com/ellewayAI/status/2100701388363976942)
 
 - **同 selfie prompt：Image 2 vs 2.5 Sunburst 广告人像** — 同一自拍广告题左右开：2.0 皮肤过锐/头发僵/天空平，Sunburst 皮肤干净、脸真、装备有磨损。投放人像选型直接甩这组并排。 [@marcobatt](https://x.com/marcobatt) · [原帖](https://x.com/marcobatt/status/2100587174739546617)
 
@@ -934,6 +936,119 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **假装 Excel 做的传单：Office 外行感海报公式** — 町内会/公司要传单又怕被看出 AI？写成「Word/Excel 外行认真做的野鸡海报」——WordArt、荧光色、歪对齐全到位。完整日文 prompt 在回复。 [@sacher10610](https://x.com/sacher10610) · [原帖](https://x.com/sacher10610/status/2100754344132149260) · [prompt](https://x.com/sacher10610/status/2100754947948359838)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+必要であれば画像を添付して、以下のプロンプトをChatGPT Images 2.5で実行してください。
+【入力欄】の【作りたいポスター案】に作りたいポスターのネタをぶち込んでください。
+
+--『まるでExcelで使ったかのような』プロンプト--
+
+以下は画像生成指示です。
+
+入力内容をもとに、Microsoft ExcelまたはMicrosoft Wordだけを使用し、一般人が実際に作成したようなOfficeポスター・チラシ・掲示物を1枚生成してください。
+
+━━━━━━━━━━━━
+【入力欄】
+━━━━━━━━━━━━
+
+【作りたいポスター案】：
+
+【希望アスペクト比】：
+
+※未入力時はA4縦（210×297mm相当）/横長指定時のみA4横/完成画像は紙面データそのものとし、壁・机・画鋲・額縁・紙のシワ・印刷物を撮影した背景などは描写しない
+
+━━━━━━━━━━━━
+【目的】
+━━━━━━━━━━━━
+
+「Office風デザイン」ではなく、「ExcelまたはWordだけで、ポスター制作に慣れていない一般人が本気で作成した掲示物」と信じられることを最優先とする/ダサさを演出せず、Office標準機能を自己流で使った結果として、少し野暮ったく、派手で、ちぐはぐな仕上がりになること
+
+━━━━━━━━━━━━
+【基本方針】
+━━━━━━━━━━━━
+
+入力内容最優先/不足情報は自然補完/事実が必要な内容は捏造しない/創作部分のみ補完/掲示物として読めることを優先
+
+━━━━━━━━━━━━
+【絶対条件】
+━━━━━━━━━━━━
+
+紙面内の全要素はMicrosoft ExcelまたはMicrosoft Word標準機能だけで一般人が再現可能であること/Photoshop・Illustrator・高度な画像編集・AI特有の演出は禁止/迷った場合はより単純なOffice表現を採用する
+
+━━━━━━━━━━━━
+【制作者】
+━━━━━━━━━━━━
+
+会社・学校・自治体・町内会・PTAなどの一般事務担当/普段は文書や表を作る程度/ポスター制作は年数回/Office操作は自己流/デザイン経験なし/最後まで本気で良い作品を作ろうとしており、完成後はかなり満足している
+
+━━━━━━━━━━━━
+【能力】
+━━━━━━━━━━━━
+
+文字入力★★★★★/Office文書★★★★☆/画像挿入★★☆☆☆/図形★★☆☆☆/WordArt★★☆☆☆/表★★☆☆☆/トリミング★★☆☆☆/影・光彩★☆☆☆☆/グラデーション★☆☆☆☆/配置調整★☆☆☆☆/デザイン★☆☆☆☆/配色★☆☆☆☆/余白★☆☆☆☆/タイポグラフィ★☆☆☆☆/情報設計★☆☆☆☆
+
+━━━━━━━━━━━━
+【制作思考】
+━━━━━━━━━━━━
+
+紙面全体は設計しない/タイトルから順番に作る/見えている範囲だけ編集する/縮小表示で全体確認はほぼしない/「ここ寂しい」「ここ目立たない」と思った所だけ後から足す/最後に整理し直さない
+
+━━━━━━━━━━━━
+【Officeあるある】
+━━━━━━━━━━━━
+
+WordArt/図形/吹き出し/星/ハート/旗/爆発形/リボン/アイコン/蛍光ライン/影/グラデーションなど、Office標準機能を「派手・かわいい・目立つ」という理由だけで使いたがる/用途は深く考えない
+
+━━━━━━━━━━━━
+【色・書体】
+━━━━━━━━━━━━
+
+配色設計は行わない/新しい見出しごとに好きな色を選ぶ/以前の色との統一は確認しない/赤・青・緑・黄・紫・ピンク・水色・オレンジなど高彩度色を混在させる/Office標準プリセットの塗りつぶし・グラデーションをそのまま使用する/青→赤・黄→紫・緑→ピンク・水色→オレンジなど異色グラデーションも多用してよい/書体は統一せず、MS Pゴシック・MSゴシック・游ゴシック・明朝・丸ゴシック・ポップ系などを混在させる/一部だけWordArt・太字・縁取り・影付きでもよい/行間・文字サイズ・文字間隔は揃えない/半角カタカナ・半角英数字・全角英数字・♪☆♡‼なども思いつきで混在してよい
+
+━━━━━━━━━━━━
+【操作精度】
+━━━━━━━━━━━━
+
+整列・均等配置・ガイド・グリッド・スナップはほぼ使わない/目測で配置する/写真・図形・文字は数回ドラッグして決める/写真や枠を少し傾ける発想はあるが角度は揃わない/余白・見出し幅・枠線・テキストボックス位置・写真サイズ・図形間隔は微妙に揃わない/少し重なっていても気にしない/ただし読めなくなるほど崩さない
+
+━━━━━━━━━━━━
+【添付画像】
+━━━━━━━━━━━━
+
+添付画像はOfficeへ貼り付ける画像素材として基本そのまま使用する/許可する加工は四隅や端の軽いトリミング・拡大縮小・数度の回転・反転・単純な枠線・簡単な影・明るさやコントラスト程度の補正のみ/人物切り抜き・背景除去・描き直し・構図変更・生成・高度な合成は禁止/背景がある画像は背景ごと長方形画像として貼る
+
+━━━━━━━━━━━━
+【添付画像がない場合】
+━━━━━━━━━━━━
+
+必要素材は一般的な無料写真・Officeクリップアート・自治体配布素材程度の雰囲気で補完する/広告写真やプロ品質素材にはしない
+
+━━━━━━━━━━━━
+【レイアウト】
+━━━━━━━━━━━━
+
+A4印刷前提/余白を設計しない/空白が気になると何か追加する/写真・本文・図形・吹き出し・表は少しズレてもよい/写真サイズや配置は揃えない/中央揃え・左揃え・右揃えが混在してもよい/図形へギリギリ文字を収めてもよい
+
+━━━━━━━━━━━━
+【避けるもの】
+━━━━━━━━━━━━
+
+広告デザイン/洗練されたOfficeテンプレート/統一テーマカラー/均等余白/美しいグリッド/同一フォントだけ/プロが意図的に崩したデザイン/初心者風を演出した作品
+
+━━━━━━━━━━━━
+【品質確認】
+━━━━━━━━━━━━
+
+/Office標準機能だけで再現可能か/自己流Office操作の跡が残っているか/配色・書体・装飾・図形・余白が自然にちぐはぐか/Office標準プリセット色・グラデーションを多用しているか/添付画像を基本そのまま貼り付けているか/本人は100点だと思っていそうか/ダサさを狙ったのではなく能力不足の結果になっているか/掲示物として問題なく読めるか
+
+以上を満たした場合のみ完成とする。
+```
+
+  </details>
 
 - **四图标四身份高冲击投放：Nike ORANGE MOTION** — 四联 campaign 各成一套身份/图标语言；评论区给完整「ORANGE MOTION」长海报 prompt（液态鞋底冲击）。快消/运动投放 KV 可直接改品牌色。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2100585834357702696) · [prompt](https://x.com/Diplomeme/status/2100585884802494544)
   <details>
@@ -3565,6 +3680,45 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **数字人素材链：Image 2.5 出图 + Seedance/MiniMax 出视频** — 图用 GPT Image 2.5，视频用 Seedance 2.5 或 MiniMax X3——礼物触发独舞/捏脸表情可指定。直播数字人从静帧到运镜的现成拼法。 [@yhslgg](https://x.com/yhslgg) · [原帖](https://x.com/yhslgg/status/2100753294025261329)
+
+- **耳环手镯可替换槽：PROTECTED 服饰配件模板** — 服装身份用 PROTECTED WARDROBE RULE 锁死，耳环/手镯当可换槽——加一对银环精致度直接爆。穿搭配件模块化可抄。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100727256129941733)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. If source prose omits or misclassifies a component required by an explicit selection, that selection corrects only that component. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.
+
+Wardrobe:
+
+Outerwear / layers:
+
+An oversized dark chocolate-brown leather flight blouson with a worn semi-gloss finish, fine grain and soft irregular creasing. Its hip-length body has dropped shoulders, a broad pointed fold-down collar and a full silver-tone metal front zipper. A narrow horizontal welt pocket sits on the left chest, diagonal welt pockets open at both lower sides, and a rectangular utility pocket with a vertical zipper is sewn onto the left upper sleeve. Horizontal panel seams divide the lower body and sleeves. The roomy sleeves end in broad leather cuffs with snap adjustment, while a matching leather waistband gathers elastically at the sides and back. The back continues the brown panel construction over a smooth dark lining.
+
+Final worn state:
+- Layering: Final state: keep this garment the complete outer layer over the first selected Top item; open only its original center-front fastening run within existing endpoints. Preserve source neckline, collar, front/rear panels, selected shoulder, sleeve, and body positions, plus fastening inventory, receiver mapping, order, spacing, endpoints, and placket length; add, remove, move, or extend nothing. ZIPPER FINAL STATE — Move the only original slider down to the original bottom stop; separate the original teeth throughout only the existing zipper track. Its complete source span remains exactly between the source-defined top stop and bottom stop. Keep the original zipper tape, teeth, slider, top stop, bottom stop, and narrow front opening at that exact length and anatomical level. Below the original bottom stop, the center-front fabric remains one continuous non-zipper panel; no seam, rib, fold, or edge becomes zipper track. Add, duplicate, remove, or relocate no zipper part. Only layer order, contact, occlusion, and optical transmission change. Every visible garment boundary follows the outer item's source geometry or separately selected fold-return line; inner contours remain optically behind it. Keep panel contact shallow. Relaxed handling within this same operation: Use light stable contact and broader material-correct ease without changing the selected layer order.
+
+Top:
+
+An oversized long crew-neck pullover in thick, loosely knitted mohair-blend yarn with a soft shaggy halo and visible stockinette stitches. The straight relaxed body reaches the upper thighs, with dropped shoulders and roomy long sleeves. Ten broad horizontal bands alternate baby pink and ivory across the torso in approximately equal widths, starting with a baby pink band interrupted by the neckline and ending with ivory at the hem. The same stripe scale continues around the back and along the sleeves, with softly feathered color boundaries. A baby pink ribbed crew neck, ivory ribbed cuffs and a broad ivory ribbed hem finish the knit.
+
+A relaxed brown woven shirt with a soft pointed turn-down collar, a full center-front button placket and long sleeves finished with simple button cuffs. The smooth opaque fabric has a light, softly crisp drape, with a roomy straight body extending below the hips into a gently curved shirttail hem. A back shoulder yoke and small central pleat provide ease, while small matching brown buttons keep the finish understated.
+
+Final worn state:
+For the second item description above only:
+- Layering: Final state: place this garment underneath the first selected Top item across the upper body. the first selected Top item remains the outer garment and retains and owns its exact source neckline aperture and edge, armholes, panel connectivity, closure state, straps, sleeves, and selected final hem or fold-return line. This inner garment contributes appearance only through the outer material's existing optical apertures; no inner contour becomes an outer boundary. Only layer order, contact, occlusion, and optical transmission change. Every visible garment boundary follows the outer item's source geometry or separately selected fold-return line; inner contours remain optically behind it. Keep panel contact shallow. Natural handling within this same operation: Use soft stable contact with limited material-correct ease.
+
+Bottom: Plain ivory mini shorts in smooth compact woven fabric, with a close, clean fit through the hips and very short legs. A flat fixed waistband and concealed side zipper keep the upper section streamlined, while lightly curved, neatly finished leg openings maintain the simple silhouette. The front and back are unembellished.
+
+Footwear: A pair of tall black engineer boots in smooth, softly lustrous leather, with roomy upper-calf shafts, broad rounded toes and a plain closed vamp. Three matching leather straps secure each boot at the upper shaft, midshaft and ankle, fastening with rectangular silver-tone pin buckles on the outer side; the lowest strap crosses the ankle above the shaped heel counter. The shafts have clean bound openings, plain rear seams and lined pull-on interiors. Thick black rubber soles have raised welt-like rims, substantial forefoot platforms, shallow arches and broad low block heels, with a practical tread underneath.
+
+Earrings: A pair of large, slender silver-tone hoop earrings with smooth round-section tubing and completely open centers. The polished circular hoops hang beside the jaw with a light, minimal profile and no pendants or surface ornament. Small hinged posts close discreetly at the earlobes.
+
+用法提示：服饰配件（耳环/手镯等）写成可替换槽位；PROTECTED WARDROBE RULE 锁死其余服装身份，只换配件即可爆改精致度。生成环境：ChatGPT Images 2.5
+```
+
+  </details>
 
 - **女游戏 influencer 2×2：可复用 influencer_frame 模板** — 把 SUBJECT/SETTING/TIME/RIG/PLATFORM/INTENT 写成函数——改 INPUT 其余推导。假装手机摄影（景深伪影、美颜差分）一次写死，UGC 种草网格可抄。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100581539008626771)
   <details>
@@ -6200,6 +6354,20 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **宋徽宗工笔 × 离谱主体：古画换主角通用公式** — 审美全锁宋代院体，只换霸王龙/DNA/飞船——越不该出现反差越香。附可抄通用公式，社媒反差图一条龙。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100761021413802212)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+宋徽宗审美 × 宋代院体工笔 × 【超现实主体】 × 极致工笔细节 × 瘦金体题诗 × 朱文钤印 × 宋式留白 × 古画绢本肌理 × 左下角钤盖「深蓝」在上、「DeepBlue」在下的深蓝色篆刻方印
+
+用法：只换【超现实主体】，古画审美完全不变。越不该出现在宋代，反差越大越好。
+例：霸王龙 / 宇宙飞船 / AI机器人秘书 / 抹香鲸 / DNA / 太阳系
+生成：GPT Image 2.5
+```
+
+  </details>
 
 - **行车记录仪首帧锁死：Image 2.5→Seedance 公路短片** — 先用 Image 2.5 把 dashcam 光学真实感钉死（挡风玻璃脏点、A柱、宽角JPEG），再整帧喂 Seedance 2.5；回复含完整 DIRECTIVE + 秒表分镜。谁还在瞎抽视频首帧，先把参照图焊死。 [@techhalla](https://x.com/techhalla) · [原帖](https://x.com/techhalla/status/2100526482212712584)
   <details>
