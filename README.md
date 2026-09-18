@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 499 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 505 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,6 +237,7 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **Image2 vs Flare vs Sunburst：同 prompt 速度与成片对打** — 同一套 prompt 跑 GPT Image 2 / 2.5 Flare / 2.5 Sunburst，直接看升级差在哪。Flare 速度约 2.3× 于 Image 2，选型别只看样张。 [@BLOCKLORDS](https://x.com/BLOCKLORDS) · [原帖](https://x.com/BLOCKLORDS/status/2100812069385932848)
 - **Grok vs ChatGPT Images 2.5：同 prompt 高定浴室过肩镜头** — 同一段高定浴室过肩 hero prompt，左右对照 Grok 与 ChatGPT Images 2.5。硬刚选型别靠感觉，同题同光位最狠。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2100827087326076976)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -957,6 +958,8 @@ C区域代表【背景建筑或环境】
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
+- **印度漆器木玩旅行立体模型：[LOCATION] 模板** — 4:5 电影感旅行 diorama，整座城刻进印度漆器木玩手作世界；换地名就能批产文旅 KV。立体模型感比平面海报更抓眼球。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100806204520034392)
+- **橡皮章旅行手账海报：[LOCATION] 可替换模板** — 4:3 横版，目的地像盖进旅行者日记的印章页；换地名/主题就能出一组「拍过、盖过、留住」的纪念海报。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100578136010428777)
 - **自拍→电影海报四步流** — 上传自拍 → Gemini / Grok / GPT Image 2.5 任选 → 粘贴 prompt → 出电影感海报。自媒体封面与短视频片头速成配方。 [@mehwishkiran07](https://x.com/mehwishkiran07) · [原帖](https://x.com/mehwishkiran07/status/2100787007811362831)
 
 - **地标变巨型手工织物雕塑：可替换 STRUCTURE 公式** — 锁死地标轮廓与比例，外皮换成针织/编织织物，再撕开一角露出微型城市——`[STRUCTURE / LANDMARK]` 槽位直接换景点。建筑×手作反差海报模板，附完整 prompt。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100777758024675557)
@@ -3727,6 +3730,8 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **韩系时尚双变体：同一身份两套 editorial** — 同一东亚女性身份锁死，出两张匹配的韩系高定写真变体；完整 SUBJECT/风格英文 prompt 可抄。系列时尚片别换脸。 [@AIwithWania](https://x.com/AIwithWania) · [原帖](https://x.com/AIwithWania/status/2100823515230531608)
+- **头像→吉祥物连体衣：身份锁换装 prompt** — 把 avi 锁成唯一身份权威，再套进受角色设计启发的 mascot suit；脸型/眼色/比例写死。粉丝二创 / OC 周边出图模板。 [@NachtNovaAI](https://x.com/NachtNovaAI) · [原帖](https://x.com/NachtNovaAI/status/2100781932413952315)
 - **身份锁定时尚棚拍：STYLE / WARDROBE / POSE / LIGHTING** — 参考图锁脸锁体型，再拆 STYLE / WARDROBE / POSE / LIGHTING / CAMERA 分段写死。高定棚拍可抄完整英文 prompt，别让模特变成路人。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2100827183468237189)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -6159,6 +6164,7 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **局部编辑 8 例：构图/人物保留只改痛点** — 「整体挺好、就差这一处」别整张重跑；Images 2.5 留构图与人物，只修需要的部分。8 个实例 + prompt，改图心法入门。 [@asahi_ai_x](https://x.com/asahi_ai_x) · [原帖](https://x.com/asahi_ai_x/status/2100827157471580462)
 - **电商皂包装小字不糊：Images 2.5 经 Codex 出商品图** — 正方形商品照，「HERB GARDEN」与「よもぎと緑茶の石けん」腰带小字清晰可读。包装文字保真的电商静物对照。 [@kohaku_2100](https://x.com/kohaku_2100) · [原帖](https://x.com/kohaku_2100/status/2100777491036246402)
 
 - **母版图 + Preserve / Change / Delta：小步连改方法论** — 别再指望一段超长 prompt 一次成型；先锁母版、钉住保留元素，再用 Preserve / Change / Delta Edit 连续小改逼近终稿。Image 2.5 时代改图心法长文。 [@cheery9998](https://x.com/cheery9998) · [原帖](https://x.com/cheery9998/status/2100768331263311913)
