@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-18 · **收录 537 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 542 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **同prompt硬刚：Image 2.5 vs Banana vs Qwen 2.1** — 同一提示词三联对照：GPT Image 2.5、Banana、刚开源的 Qwen Image 2.1（7B）。选型别靠嘴炮——并排放大看质感与结构谁先崩。 [@alin_zone](https://x.com/alin_zone) · [原帖](https://x.com/alin_zone/status/2101685588252590123)
 
 - **夜窗海报硬刚：2 / Sunburst / Flare 同题十二格** — 展览海报 NIGHT WINDOWS：同楼同机位 4×3 夜窗格，邻窗切片+四行小字全对。Image 2 缺邻窗、Sunburst 格线不齐、Flare 中列偏宽——100% 放大看差别；方法与单价在回复。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2100943297103778003)
   <details>
@@ -3902,6 +3904,38 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **一张自拍→AAA角色设定表：可填槽母版** — 上传一张自拍，吐出三视图全身 + 两张大特写的 AAA 角色设定表，脸还是你的。母版把 [OBJECT]/材质/色比做成填空槽——人、怪、道具都能套，角色资产流水线直接抄。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2101762733679296944)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Using the uploaded reference as the design source, create ONE original [OBJECT, e.g. ceremonial revolver / antique brass diving helmet] as an ultra-high-end AAA cinematic 3D game prop sheet on a clean neutral off-white studio background. Keep the reference object's exact shape language, proportions and defining details, rebuilt as a production-ready hard-surface asset. Materials: [dark gunmetal, aged bronze, worn oxblood leather, composite]. Palette of 60% [MAIN], 30% [SECONDARY], 10% [ACCENT]. Surfaces carry honest wear — machining grooves, edge polish, scratches, carbon residue, oil staining, fingerprint patina.
+
+COMPOSITION — one single wide 16:9 image. Left 60%: front view, 90-degree side view, and back or three-quarter view of the exact same object, identical in every detail. Right 40%: two large close-up detail studies — upper right the primary mechanism or face of the object, lower right a secondary detail such as grip, hinge, engraving or interior. Clean professional spacing with empty background between studies.
+```
+
+  </details>
+
+- **古风贵女美妆：翠影流金结构化中文提示词** — 主题/身份/妆感/五官/发饰/服装/场景/镜头/画幅一条龙——翡翠绿明制袄对胭脂水光唇，杂志感近景不戏装。美妆种草竖版直接填槽返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2101694894813372638)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主题风格： 古风高对比贵女美妆写真
+身份气质： 高门贵女，华丽、自信、矜贵、张力强
+妆感目标： 翡翠胭脂鎏彩妆
+五官方向： 高级杂志感东方美人脸，修长眼型，眉眼清晰，面中立体，唇形丰润，近景极上镜
+发型与发饰方向： 黑发端庄高髻，翡翠玉簪、鎏金花片、珍珠短流苏
+服装方向： 翡翠绿色明制立领袄，搭配象牙白马面裙与胭脂红窄边云肩
+场景方向： 白玉屏风 / 红梅枝 / 青瓷摆件 / 明亮侧窗光
+镜头方向： 胸像近景，正面端坐，头部轻偏
+画幅比例： 9:16
+创意自由度： 开放
+补充要求： 妆容以胭脂红、暖棕和浅金珠光为主，唇妆使用清透红豆沙水光唇；翡翠绿服装与红色妆容形成明显对比，但肤色保持干净明亮。人物珠圆玉润、气场鲜明，避免戏曲妆感。
+```
+
+  </details>
+
 - **写真→水彩墨线涂鸦：构图死锁风格重绘** — 上传参考锁构图/姿势/叙事，整图改成童趣水彩墨线速写：颤抖线压、克制色块、速写本留白。种草图变插画封面的可抄 must-stay 配方。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100943841427914827)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -6775,6 +6809,18 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **假旅行vlog：Image 2.5 出30镜分镜板全链路** — 没出门、没摄影机、没剪辑师：ChatGPT 企划 → GPT Image 2.5 出 30 镜分镜板 → Gemini Omni 动画 → Lyria 配乐 → Google Vids 成片。把管线封成 skill，「我要这种视频」就能量产。 [@sahilvermaai](https://x.com/sahilvermaai) · [原帖](https://x.com/sahilvermaai/status/2101750259382624549)
+
+- **水袖舞16宫格：莲池晓雾连续分镜** — 4×4 竖版连续分镜：同一舞者、同一湖青水袖，从舟首观莲到雾中静莲十六步全标轨迹。动作片/舞蹈预演/分镜种草的一致性模板。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2101651915407085704)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+请创作一张「莲池晓雾·水袖舟舞」16宫格连续分镜图，9:16竖版、4×4布局，主题改为古代园林水榭与停泊画舫之间的水袖舞，不使用宫廷大殿和傍晚宫灯。场景固定在日出前后的荷塘：木质画舫、临水平台、白墙黛瓦、荷叶、低雾与远处拱桥，画舫保持静止并有明确安全栏杆。主角为同一位成年中国女舞者，统一温婉面容、低髻、玉簪和淡妆；身穿湖青、月白、淡金配色的窄腰长裙与超长水袖，服装纹样、袖长和发饰每格一致。动作依次为：1「舟首观莲」双手垂袖站立；2「提袖试水」右袖轻触水面；3「移步过舷」沿船舷平稳侧行；4「双袖起雾」两袖从下向上升起；5「俯身采露」低身靠近荷叶；6「转腕收珠」袖口承接露珠；7「侧步穿荷」向平台方向连续移位；8「袖桥相接」双袖在头顶相连；9「低坐听水」坐于安全船凳；10「起身送袖」从坐姿平稳起身；11「回环绕柱」围绕画舫立柱半圈；12「长袖掠池」一袖横扫水面；13「踏板登岸」通过踏板走向水榭；14「背舟展袖」背向画舫完全展开；15「望桥收势」看向远处拱桥；16「雾中静莲」双袖下垂如莲瓣定格。每格标注编号、中文标题、水袖轨迹和行进方向，镜头从画舫远景过渡到手部水滴特写，再回到岸边全景；雾量、日光、人物身份和服装连续一致。
+```
+
+  </details>
 
 - **行车记录仪首帧锁定：公路 dashcam JPEG 感** — 先把首帧锁成「真 dashcam」再进视频链路——挡风玻璃、A 柱、仪表台切片，像抓帧 JPEG 不是电影 HDR。公路短片开场可复用（ALT 含 DIRECTIVE）。 [@YazanHD12](https://x.com/YazanHD12) · [原帖](https://x.com/YazanHD12/status/2100934751716589688)
   <details>

@@ -4574,5 +4574,48 @@
     "url": "https://x.com/iamrealsnow/status/2100892897638019274",
     "category": "海报排版",
     "prompt": "Create a collectible vintage automotive engineering poster featuring four legendary classic supercars: Ferrari F40 (1989), Lamborghini Countach 5000 QV (1985), Porsche 959 (1986), and McLaren F1 (1994).\n\nUse an aged cream paper background with subtle fibers, faded ink, pencil-and-ink technical illustrations and authentic 1980s–90s factory-document aesthetics. Give each car a prominent realistic 3/4 hero view, surrounded by front, side, rear and top technical drawings with dimensions.\n\nInclude concise specification panels explaining each car’s engine, horsepower, torque, drivetrain, suspension, brakes, aerodynamics, weight, acceleration and top speed. Add detailed mechanical illustrations of the engines, chassis and drivetrain, plus small studies of headlights, wheels, brakes, intakes, spoilers and interiors.\n\nUse numbered callouts, arrows, measurement lines, engineering annotations and period-style typography. Make the information feel like an authentic factory engineering sheet rather than a modern infographic.\n\nHighly detailed, realistic automotive rendering blended with hand-drawn technical artwork, sophisticated archival print texture, 16:9 landscape, ultra-high resolution."
+  },
+  {
+    "id": "2101762733679296944",
+    "title": "一张自拍→AAA角色设定表：可填槽母版",
+    "blurb": "上传一张自拍，吐出三视图全身 + 两张大特写的 AAA 角色设定表，脸还是你的。母版把 [OBJECT]/材质/色比做成填空槽——人、怪、道具都能套，角色资产流水线直接抄。",
+    "author": "meAsifAi",
+    "url": "https://x.com/meAsifAi/status/2101762733679296944",
+    "category": "人像角色",
+    "prompt": "Using the uploaded reference as the design source, create ONE original [OBJECT, e.g. ceremonial revolver / antique brass diving helmet] as an ultra-high-end AAA cinematic 3D game prop sheet on a clean neutral off-white studio background. Keep the reference object's exact shape language, proportions and defining details, rebuilt as a production-ready hard-surface asset. Materials: [dark gunmetal, aged bronze, worn oxblood leather, composite]. Palette of 60% [MAIN], 30% [SECONDARY], 10% [ACCENT]. Surfaces carry honest wear — machining grooves, edge polish, scratches, carbon residue, oil staining, fingerprint patina.\n\nCOMPOSITION — one single wide 16:9 image. Left 60%: front view, 90-degree side view, and back or three-quarter view of the exact same object, identical in every detail. Right 40%: two large close-up detail studies — upper right the primary mechanism or face of the object, lower right a secondary detail such as grip, hinge, engraving or interior. Clean professional spacing with empty background between studies."
+  },
+  {
+    "id": "2101750259382624549",
+    "title": "假旅行vlog：Image 2.5 出30镜分镜板全链路",
+    "blurb": "没出门、没摄影机、没剪辑师：ChatGPT 企划 → GPT Image 2.5 出 30 镜分镜板 → Gemini Omni 动画 → Lyria 配乐 → Google Vids 成片。把管线封成 skill，「我要这种视频」就能量产。",
+    "author": "sahilvermaai",
+    "url": "https://x.com/sahilvermaai/status/2101750259382624549",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2101694894813372638",
+    "title": "古风贵女美妆：翠影流金结构化中文提示词",
+    "blurb": "主题/身份/妆感/五官/发饰/服装/场景/镜头/画幅一条龙——翡翠绿明制袄对胭脂水光唇，杂志感近景不戏装。美妆种草竖版直接填槽返图。",
+    "author": "liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2101694894813372638",
+    "category": "人像角色",
+    "prompt": "主题风格： 古风高对比贵女美妆写真\n身份气质： 高门贵女，华丽、自信、矜贵、张力强\n妆感目标： 翡翠胭脂鎏彩妆\n五官方向： 高级杂志感东方美人脸，修长眼型，眉眼清晰，面中立体，唇形丰润，近景极上镜\n发型与发饰方向： 黑发端庄高髻，翡翠玉簪、鎏金花片、珍珠短流苏\n服装方向： 翡翠绿色明制立领袄，搭配象牙白马面裙与胭脂红窄边云肩\n场景方向： 白玉屏风 / 红梅枝 / 青瓷摆件 / 明亮侧窗光\n镜头方向： 胸像近景，正面端坐，头部轻偏\n画幅比例： 9:16\n创意自由度： 开放\n补充要求： 妆容以胭脂红、暖棕和浅金珠光为主，唇妆使用清透红豆沙水光唇；翡翠绿服装与红色妆容形成明显对比，但肤色保持干净明亮。人物珠圆玉润、气场鲜明，避免戏曲妆感。"
+  },
+  {
+    "id": "2101651915407085704",
+    "title": "水袖舞16宫格：莲池晓雾连续分镜",
+    "blurb": "4×4 竖版连续分镜：同一舞者、同一湖青水袖，从舟首观莲到雾中静莲十六步全标轨迹。动作片/舞蹈预演/分镜种草的一致性模板。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2101651915407085704",
+    "category": "场景视觉",
+    "prompt": "请创作一张「莲池晓雾·水袖舟舞」16宫格连续分镜图，9:16竖版、4×4布局，主题改为古代园林水榭与停泊画舫之间的水袖舞，不使用宫廷大殿和傍晚宫灯。场景固定在日出前后的荷塘：木质画舫、临水平台、白墙黛瓦、荷叶、低雾与远处拱桥，画舫保持静止并有明确安全栏杆。主角为同一位成年中国女舞者，统一温婉面容、低髻、玉簪和淡妆；身穿湖青、月白、淡金配色的窄腰长裙与超长水袖，服装纹样、袖长和发饰每格一致。动作依次为：1「舟首观莲」双手垂袖站立；2「提袖试水」右袖轻触水面；3「移步过舷」沿船舷平稳侧行；4「双袖起雾」两袖从下向上升起；5「俯身采露」低身靠近荷叶；6「转腕收珠」袖口承接露珠；7「侧步穿荷」向平台方向连续移位；8「袖桥相接」双袖在头顶相连；9「低坐听水」坐于安全船凳；10「起身送袖」从坐姿平稳起身；11「回环绕柱」围绕画舫立柱半圈；12「长袖掠池」一袖横扫水面；13「踏板登岸」通过踏板走向水榭；14「背舟展袖」背向画舫完全展开；15「望桥收势」看向远处拱桥；16「雾中静莲」双袖下垂如莲瓣定格。每格标注编号、中文标题、水袖轨迹和行进方向，镜头从画舫远景过渡到手部水滴特写，再回到岸边全景；雾量、日光、人物身份和服装连续一致。"
+  },
+  {
+    "id": "2101685588252590123",
+    "title": "同prompt硬刚：Image 2.5 vs Banana vs Qwen 2.1",
+    "blurb": "同一提示词三联对照：GPT Image 2.5、Banana、刚开源的 Qwen Image 2.1（7B）。选型别靠嘴炮——并排放大看质感与结构谁先崩。",
+    "author": "alin_zone",
+    "url": "https://x.com/alin_zone/status/2101685588252590123",
+    "category": "选型评测"
   }
 ]
