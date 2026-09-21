@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 548 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 550 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -3950,6 +3950,66 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **高定角色设定表：style bible 可填槽母版** — 上传一张风格参考当 style bible，吐出 16:9 高定角色概念表：竖排姓名元数据、迷你三视图+剪影、中心全身、动态姿势、材质局部放大。换角色名/ROLE/MOOD就能套——IP 资产表母版直接抄。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2101905822888677714)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: hyper-realistic 3D CGI collectible-figurine render, physically-based rendering, octane-render-quality lighting, real material fidelity (fabric weave and drape, metal wear and oxidation, pore-level petrified wood micro-detail), identical overall lighting setup and material palette to the reference (light, clean, white-background studio photography — do NOT flatten or cel-shade it), soft studio lighting with a subtle rim light matching the reference. Every figure must look like it was rendered from the same 3D file, under the same studio lighting, as the reference image.
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no flat 2D cel-shading, no cartoon outlines, no lineart, no anime style, no painterly brushwork, no posterized flat color blocks, no low-poly or game-asset look, no plastic-toy sheen, no fused or malformed fingers. If the reference has photoreal materials, this sheet does too — never flatten them.
+
+[PROPORTIONS]: Match the reference's exact body proportions in every figure — elongated fashion-illustration anatomy (9–10 heads tall, small head, long slender limbs, narrow waist) carried into photoreal rendering. Do not normalize proportions in the smaller studies.
+
+[SUBJECT_DESCRIPTION]: Character named OROCHI. A tall humanoid entity made of petrified pale ash wood with branch-like horns, gold hoop earrings, and a void-slit face. Wearing an oversized draped olive-green techwear kimono jacket, tactical nylon chest harness, and dark indigo wide-leg tech-hakama denim trousers with chunky tactical sandals.
+
+SUPERPOWERS VISIBLE: Hovering ethereal glowing crimson spectral sakura petals and phantom green spirit-fire swirling around his wooden claws and katana blade.
+
+Layout Composition (Organize strictly into these sections):
+1. LEFT PANEL: METADATA & TURNAROUND- Large, bold vertical typography of the character's Name "OROCHI" in a clean, heavy sans-serif condensed font.- Metadata Block: "ROLE: PHANTOM RONIN", "CORE MOOD: ANCIENT DREAD", and "VISUAL SIGNATURE: SPECTRAL WOOD MAGIC" in a clean sans-serif font.- MINI TURNAROUND: 3 small vertical figures — "neutral", "back view", "profile" — rendered in the identical reference style, full material fidelity even at small scale.- SILHOUETTE STUDY: 3 solid-black silhouettes matching the turnaround stances underneath.- EXPRESSION STUDY (Bottom Left): exactly 4 small close-up headshots showing subtle shifts in the spirit-fire glowing from his void-slit face.
+
+2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in a cool, relaxed signature pose, maximum detail, rendered as a perfect style-match to the reference image, but with glowing crimson spectral leaves and green spirit-fire wrapping around his drawn katana.
+
+3. RIGHT PANEL: MULTI-POSE & THEMATIC STUDIES- POSE STUDY: exactly 4 to 5 small-to-medium figures in dynamic combat stances (drawing blade, casting spirit fire, lunging), each with a small handwritten-style label underneath, all in the identical reference style.
+
+4. BOTTOM RIGHT PANEL: DETAIL STUDY- Exactly 5 small square close-up crops highlighting: (1) petrified wood grain and gold hoop earring, (2) olive canvas jacket weave and tactical harness, (3) glowing phantom green spirit-fire on the katana blade, (4) denim tech-hakama pleats, (5) clawed wooden hand holding hovering crimson petals.- Each crop gets a clean handwriting-style label underneath.
+
+【填槽】把 OROCHI / 角色描述 / ROLE·MOOD·SIGNATURE 换成你的 IP；上传一张风格参考当 style bible。
+```
+
+  </details>
+
+- **三视图换人→Minimax：四国换装竖视频管线** — Image 2.5 先出三视图+四国场景参考图换人，再叠黑白深度交给 Minimax H3——开场白棚到巴黎/罗马/开罗/悉尼连转换装。虚拟 IP 换装短片：脸锁死、衣服跟场景一起换，别只换背景。 [@HoodyLiu](https://x.com/HoodyLiu) · [原帖](https://x.com/HoodyLiu/status/2101904919540429295)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【管线 · Image 2.5 → Minimax H3】
+1. 准备模特人物三视图
+2. 用 GPT Image 2.5 换人：生成四个城市场景下的人物参考图（Paris / Rome / Cairo / Sydney）
+3. 按新模特重写特征锁定，微调分镜提示词
+4. 新提示词 + 参考图 + 黑白深度视频 → Minimax H3
+
+【Minimax 身份/换装锁（节选，完整分镜时码见原帖）】
+<Picture 1> defines Rei's opening outfit only: a fitted black satin mini dress with thin spaghetti straps, a lace-trimmed V-neckline, a small front bow with trailing ribbons, off-the-shoulder lace ruffle sleeves, a ruched bodice, a ruffled lace hem, bare legs and black pointed-toe stiletto pumps. Preserve the dress's silhouette, materials and front/back construction as shown. Use this outfit for the white-studio opening only; do not reproduce the character-sheet layout.
+
+<Picture 2–5> define city outfits (Paris / Rome / Cairo / Sydney), front-facing presentation poses, props, city maps and UI.
+
+<Picture 6> is an unmodified slightly turned standard face crop from the original Rei character card. It is the highest-priority facial identity reference for ALL outfits: preserve its eye shape and spacing, eyelids, nose, lips and natural proportions without beautification. Pictures 2–5 supply new city outfits and environments, never a substitute face. This is the same adult woman in different clothes throughout the entire video.
+
+<Video 1> is a black-and-white relative-depth reference for body movement, camera pullback and chronological timing only. Depth brightness represents distance, not skin color or face detail. Render natural full color using the pictures.
+
+Generate ONE continuous 12-second vertical video. Only Rei rotates during transformation; the camera must not orbit her. Change clothing, handheld props, city map and city-name UI together; do not change only the background while leaving the previous outfit.
+
+Keep Rei's facial identity, natural body proportions, hair and bangs throughout. Clothing changes must not alter her face, age, body shape, hair color or hair length. No generated speech or music.
+
+完整 Shot 1–7 时码与城市 UI 标签见原帖长文。
+```
+
+  </details>
 
 - **一张自拍→AAA角色设定表：可填槽母版** — 上传一张自拍，吐出三视图全身 + 两张大特写的 AAA 角色设定表，脸还是你的。母版把 [OBJECT]/材质/色比做成填空槽——人、怪、道具都能套，角色资产流水线直接抄。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2101762733679296944)
   <details>
