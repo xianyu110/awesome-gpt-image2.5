@@ -4688,5 +4688,75 @@
     "url": "https://x.com/itsPixieVerse/status/2101905822888677714",
     "category": "人像角色",
     "prompt": "Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.\n\n[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: hyper-realistic 3D CGI collectible-figurine render, physically-based rendering, octane-render-quality lighting, real material fidelity (fabric weave and drape, metal wear and oxidation, pore-level petrified wood micro-detail), identical overall lighting setup and material palette to the reference (light, clean, white-background studio photography — do NOT flatten or cel-shade it), soft studio lighting with a subtle rim light matching the reference. Every figure must look like it was rendered from the same 3D file, under the same studio lighting, as the reference image.\n\n[STYLE PROHIBITIONS — ABSOLUTE]: no flat 2D cel-shading, no cartoon outlines, no lineart, no anime style, no painterly brushwork, no posterized flat color blocks, no low-poly or game-asset look, no plastic-toy sheen, no fused or malformed fingers. If the reference has photoreal materials, this sheet does too — never flatten them.\n\n[PROPORTIONS]: Match the reference's exact body proportions in every figure — elongated fashion-illustration anatomy (9–10 heads tall, small head, long slender limbs, narrow waist) carried into photoreal rendering. Do not normalize proportions in the smaller studies.\n\n[SUBJECT_DESCRIPTION]: Character named OROCHI. A tall humanoid entity made of petrified pale ash wood with branch-like horns, gold hoop earrings, and a void-slit face. Wearing an oversized draped olive-green techwear kimono jacket, tactical nylon chest harness, and dark indigo wide-leg tech-hakama denim trousers with chunky tactical sandals.\n\nSUPERPOWERS VISIBLE: Hovering ethereal glowing crimson spectral sakura petals and phantom green spirit-fire swirling around his wooden claws and katana blade.\n\nLayout Composition (Organize strictly into these sections):\n1. LEFT PANEL: METADATA & TURNAROUND- Large, bold vertical typography of the character's Name \"OROCHI\" in a clean, heavy sans-serif condensed font.- Metadata Block: \"ROLE: PHANTOM RONIN\", \"CORE MOOD: ANCIENT DREAD\", and \"VISUAL SIGNATURE: SPECTRAL WOOD MAGIC\" in a clean sans-serif font.- MINI TURNAROUND: 3 small vertical figures — \"neutral\", \"back view\", \"profile\" — rendered in the identical reference style, full material fidelity even at small scale.- SILHOUETTE STUDY: 3 solid-black silhouettes matching the turnaround stances underneath.- EXPRESSION STUDY (Bottom Left): exactly 4 small close-up headshots showing subtle shifts in the spirit-fire glowing from his void-slit face.\n\n2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in a cool, relaxed signature pose, maximum detail, rendered as a perfect style-match to the reference image, but with glowing crimson spectral leaves and green spirit-fire wrapping around his drawn katana.\n\n3. RIGHT PANEL: MULTI-POSE & THEMATIC STUDIES- POSE STUDY: exactly 4 to 5 small-to-medium figures in dynamic combat stances (drawing blade, casting spirit fire, lunging), each with a small handwritten-style label underneath, all in the identical reference style.\n\n4. BOTTOM RIGHT PANEL: DETAIL STUDY- Exactly 5 small square close-up crops highlighting: (1) petrified wood grain and gold hoop earring, (2) olive canvas jacket weave and tactical harness, (3) glowing phantom green spirit-fire on the katana blade, (4) denim tech-hakama pleats, (5) clawed wooden hand holding hovering crimson petals.- Each crop gets a clean handwriting-style label underneath.\n\n【填槽】把 OROCHI / 角色描述 / ROLE·MOOD·SIGNATURE 换成你的 IP；上传一张风格参考当 style bible。"
+  },
+  {
+    "id": "2101894576311242772",
+    "title": "同提示词三方硬刚：Image 2.5 vs Mai 2.6 vs Qwen 2.1",
+    "blurb": "macOS 桌面 + 格斗之王题材同 prompt 三联对照。作者更爱 Image 2.5 的风格感，Qwen 八神庵更贴原型——选型别听安利，先并排看谁更「有感觉」。",
+    "author": "aidavid125",
+    "url": "https://x.com/aidavid125/status/2101894576311242772",
+    "category": "选型评测"
+  },
+  {
+    "id": "2101883427524153369",
+    "title": "空间角度听话度：Image 2.5 比 Qwen 2.1 更听绝对转角",
+    "blurb": "让模型把人物转到绝对数学角度——Qwen Image 2.1 不太听话，Image 2.5 更稳。做分镜/预演转角一致性时，这条选型结论比 Benchmark 更接地气。",
+    "author": "MinLiBuilds",
+    "url": "https://x.com/MinLiBuilds/status/2101883427524153369",
+    "category": "选型评测"
+  },
+  {
+    "id": "2101878359282036998",
+    "title": "Sunburst Y2K 街拍：身份锁 + 全新中步姿势",
+    "blurb": "3:4 竖版：Keep identical 死锁发型/报童帽/豹纹星短袖/阔腿牛仔裤，COMPLETELY NEW POSE 只改中步回眸。直闪 + 早期数码颗粒——身份锁系列连更姿势的母版，优先 Sunburst。",
+    "author": "saniaspeaks_",
+    "url": "https://x.com/saniaspeaks_/status/2101878359282036998",
+    "category": "人像角色",
+    "prompt": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid Y2K street-style fashion portrait of the young pretty Japanese woman. <<<FACE_ID>>>, standing against the textured off-white plaster wall background.\n\nKeep identical: her long straight dark-brown hair falling naturally over her shoulders with soft strands framing her face, her structured black newsboy/baker-boy cap, her fitted plain white cropped short-sleeve baby tee with the large leopard-print five-point star graphic on the chest, her low-rise oversized dark-blue baggy jeans with realistic faded denim washes, the leopard-print belt/waistband at her waist, the long decorative metal chain with large circular metal ring and dangling strap details, and the large black shoulder bag.\n\nCOMPLETELY NEW POSE — distinctly different from all previous versions: she is caught mid-stride in a casual walking motion, her body turned approximately three-quarters toward the camera, head turned back over her left shoulder to glance at the camera with a cool, effortless expression — lips slightly parted, eyes relaxed and direct. Her weight is shifting forward onto her right foot, left leg stepping back, creating natural mid-walk movement in her baggy denim. Her right arm swings naturally forward with a relaxed bent elbow, while her left arm trails back slightly with the black shoulder bag shifting naturally with her motion. Her hair falls loosely with subtle movement suggesting the walking stride. The overall stance reads as a candid, unposed street-fashion catch — a completely different body orientation, weight distribution, and head direction than either previous reference pose.\n\nDirect on-camera flash photography creating a distinct realistic shadow of her body and cap on the textured wall behind her. Authentic early-2000s point-and-shoot or compact digital camera feel. RAW smartphone aesthetic, realistic skin texture, individual hair strands, accurate hands and fingers, natural body proportions, detailed denim texture, realistic leather bag, authentic metal reflections, visible wall texture, direct flash, subtle grain, slightly imperfect exposure, nostalgic Y2K fashion photography, no beauty filter, no plastic skin, no CGI appearance, no excessive retouching, vertical 3:4 composition\n\n【填槽】把 <<<FACE_ID>>> 换成你的身份锁标记；Keep identical 段锁衣装，COMPLETELY NEW POSE 段只改姿势。优先 Sunburst。"
+  },
+  {
+    "id": "2101873764002595167",
+    "title": "AI UGC 镜像自拍：JSON 参考重建配方",
+    "blurb": "整段 JSON 锁构图优先级：竖裁→体态→脸→发→手机位→衣装→暖卧室光。专门用于「参考自拍 → 清干净 UI 水印的超写实镜像自拍」——种草/UGC 批产可填槽母版。",
+    "author": "neverfilmed",
+    "url": "https://x.com/neverfilmed/status/2101873764002595167",
+    "category": "人像角色",
+    "prompt": "{\n  \"prompt_type\": \"photorealistic_reference_reconstruction\",\n  \"objective\": \"Recreate the supplied reference image as closely as possible as a clean vertical mirror-selfie photograph. Match the subject's pose, facial proportions, hairstyle, makeup, wardrobe, accessories, phone placement, bedroom environment, warm indoor lighting, crop, camera perspective, body positioning, and overall casual social-media aesthetic. Completely ignore and remove all text, icons, buttons, interface elements, arrows, borders, captions, watermarks, or other screen graphics.\",\n  \"reference_fidelity\": {\n    \"target\": \"extremely high visual similarity\",\n    \"priority_order\": [\n      \"overall composition and vertical crop\",\n      \"subject position and body angle\",\n      \"face shape and neutral expression\",\n      \"hair\",\n      \"mirror-selfie phone placement\",\n      \"wardrobe\",\n      \"jewelry and accessories\",\n      \"warm beige bedroom background\",\n      \"soft warm indoor lighting\",\n      \"smartphone mirror-selfie realism\"\n    ]\n  },\n  \"canvas\": {\"orientation\": \"portrait\", \"framing\": \"tight vertical mirror selfie\"},\n  \"scene\": {\n    \"location\": \"warm neutral bedroom or dressing room\",\n    \"mood\": \"calm, intimate, polished, casual mirror-selfie\",\n    \"visual_style\": \"authentic high-end smartphone social-media photo\"\n  },\n  \"photographic_style\": {\n    \"genre\": \"casual mirror selfie / beauty lifestyle portrait\",\n    \"realism\": \"extreme photorealism\",\n    \"desired_result\": \"looks like a genuine high-quality phone mirror selfie\"\n  },\n  \"negative_prompt\": [\"text\",\"captions\",\"watermarks\",\"UI\",\"buttons\",\"arrows\",\"extra people\",\"plastic skin\",\"CGI\",\"anime\",\"deformed hands\"],\n  \"final_generation_instruction\": \"Generate a single extremely photorealistic vertical mirror selfie matching the reference as closely as possible. Soft warm indoor lighting, natural smartphone HDR, realistic skin texture, authentic mirror-selfie perspective. Completely remove all interface graphics, text, arrows, borders, buttons, watermarks, captions, and other screen overlays.\"\n}\n【用法】上传参考自拍 → 整段 JSON 丢进 Image 2.5；完整超长版字段见原帖。上面是可跑精简母版，保构图/脸/衣装/手机位优先级。"
+  },
+  {
+    "id": "2101884475106021421",
+    "title": "几乎遮脸仍锁身份：帽+墨镜+有线耳机时尚特写",
+    "blurb": "正对特写：罗纹冷帽 + 大反光墨镜 + 白色有线耳机 + 高领羽绒服，五官几乎看不见还要保住参考人。测身份锁下限的好题——换绣标/外套就能出系列。",
+    "author": "weiinberg",
+    "url": "https://x.com/weiinberg/status/2101884475106021421",
+    "category": "人像角色",
+    "prompt": "A straight-on close-up shot features the woman in reference, almost entirely obscured by practical outerwear accessories: a black ribbed knit beanie, large reflective black sunglasses, and white wired apple earphones, paired with a high-collared, white puffer jacket zipped to the top. The jacket bears the Nike logo in black embroidery on the left shoulder. The scene is set in a brightly-lit, industrial indoor environment, with part of a high, cream-colored ceiling visible and some glossy metallic or photographic posters in the background. The lighting is bright with soft, diffuse overhead fill, creating no harsh shadows and only faint highlights on the glossy surfaces. Dominant colors are black, and neutral, with a few muted synthetic colors from the surroundings. The shot is captured with a smartphone camera in normal lens perspective, and there is moderate digital sharpening but no significant noise. The mood is urban, pragmatic, and intentionally obscured, with a modestly futuristic, incognito vibe.\n\n【要点】参考人几乎被帽/墨镜/有线耳机遮脸——测的是「看不见五官还能不能锁身份」。换品牌绣标/外套颜色就能做系列。"
+  },
+  {
+    "id": "2101856621471396270",
+    "title": "若隐若现短公式：逆光剪影×前景透映×主体槽",
+    "blurb": "一行通配：极简逆光剪影 × 暧昧克制 × 前景透映 × 【主体】。看不完整反而让人补全——神话/古风/影视/职业都能往槽里塞，短词出系列。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2101856621471396270",
+    "category": "人像角色",
+    "prompt": "极简逆光剪影 × 暧昧克制 × 前景透映 × 【主体】\n\n逆光留下轮廓，前景制造朦胧，暧昧藏在距离和姿态里。\n\n【玩法】神话/古代/影视角色/现实职业都能往【主体】里塞；同一视觉规则换主体=新故事。"
+  },
+  {
+    "id": "2101854051805851807",
+    "title": "石榴百科全书式信息卡：3:4 标本导览牌",
+    "blurb": "标本摄影顶栏 + 九组营养/产区/食用/储存信息，石榴红×叶绿×琥珀配色。食品/植物科普卡可换主体复用的中文结构化母版。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2101854051805851807",
+    "category": "海报排版",
+    "prompt": "一张 3:4 竖版石榴百科全书式信息卡，呈现植物标本馆档案与现代食品博物馆导览牌的融合设计。顶部使用“一颗完整石榴＋一颗切开的石榴＋少量独立果粒”的标本式摄影，浅灰白背景、柔和侧光和微弱自然投影，真实表现深红果皮、半透明果粒、薄膜与籽粒结构；旁边排列“石榴”、斜体拉丁学名“Punica granatum”、胶囊标签“水果／石榴科”、原产区域地图与地区化成熟季曲线。\n\n中部以非对称黄金分割和细线坐标系统组织九组内容：每100g主要营养构成；糖类、膳食纤维、维生素与矿物质；果实结构剖面图；成熟季与主要产区；鲜食、榨汁、沙拉、甜品等食用方式；不同水果风味与酸甜度对比；挑选成熟石榴的方法；室温、冷藏与剥粒后的储存方式；历史传播、栽培品种及农业可持续性。\n\n重点数据使用石榴红、叶片绿与琥珀色编码，注意事项使用小面积砖红。纸张具有轻微棉纸纤维，标题为超细无衬线体，正文为现代几何字体，数值为等宽体。底部设置馆藏编号式资料来源区，但不出现虚假机构名称；营养与健康描述采用谨慎表述，不虚构医疗功效。\n\n【填槽】把石榴换成别的食材/植物，九宫信息架构可复用。"
+  },
+  {
+    "id": "2101861488189431919",
+    "title": "Claude Code→VOX 科普片六步：Image2.5 同源局部+MiniMax H3",
+    "blurb": "每句旁白必须有可证明的图；图1总控+图2–5同源局部特写（带图1一起生成）；中文烧进图里；MiniMax H3 Ref2VA 四档保留词。15 秒约¥7.5——Agent 出科普短片的可抄流水线。",
+    "author": "AlistairVadkqv",
+    "url": "https://x.com/AlistairVadkqv/status/2101861488189431919",
+    "category": "像素动效",
+    "prompt": "【Claude Code → VOX 科普片 · 六步】\n1. 立规矩：每句旁白都得有一张能证明它的图；否则删掉空美。\n2. 先写旁白，再想画面；一句话一个视觉想法，追问「这句拿什么图能证明」。\n3. GPT Image 2.5 出图：图1=总控图（也是视频最后一帧）；图2–5=局部特写。关键：图2–5必须带着图1一起生成，写死「同一张版面的局部，除取景外别的不许变」。\n4. 中文字印在图里，别让视频模型自己写。\n5. MiniMax H3 参考模式 Ref2VA；提示词六段式，保留程度只认 fully_preserved / partially_preserved / attribute_transfer / weak_reference。\n6. 旁白分句生成，用 ffprobe 量真实时长再排；字幕位置先抽帧避挡信息层。\n\n【账本参考】15s / 约¥7.5（视频为主）；配音可忽略。"
   }
 ]
