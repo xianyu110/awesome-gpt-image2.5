@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 558 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 571 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **同风格指令：Image 2.0 vs Image 2.5 Sunburst** — 同一套风格说明并排——2.0 与 2.5 Sunburst 差异一目了然。选型别只听参数表，看同指令下谁更贴你要的完成度。 [@Project_VLA](https://x.com/Project_VLA) · [原帖](https://x.com/Project_VLA/status/2101915075267150283)
 
 - **同提示词三方硬刚：Image 2.5 vs Mai 2.6 vs Qwen 2.1** — macOS 桌面 + 格斗之王题材同 prompt 三联对照。作者更爱 Image 2.5 的风格感，Qwen 八神庵更贴原型——选型别听安利，先并排看谁更「有感觉」。 [@aidavid125](https://x.com/aidavid125) · [原帖](https://x.com/aidavid125/status/2101894576311242772)
 
@@ -1017,6 +1019,164 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **单人像一键四联海报：SIGNAL/MOTION/ECHO/MINT** — 同一肖像同一视觉系统，一口气出四种版式：竖排叠字、切片错位、镜像回声、巨型字母嵌脸。时装社论/封面连更直接抄，9:16 分开发不要拼成一张。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101971646999363637)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Prompt:
+
+Create four independent portrait poster variations from the uploaded photo, all belonging to the same visual system.
+
+Portrait: [use uploaded portrait]
+Main color: [mint green / red / blue / yellow / custom]
+Typography theme: [SIGNAL / MOTION / ECHO / MINT, or custom words]
+Aspect ratio: 9:16
+
+Keep the same person, facial identity, hairstyle, outfit, photographic realism, color palette, typography family, and editorial art direction across all four posters.
+
+The four posters must feel like one cohesive fashion editorial series, but each must use a clearly different layout concept:
+
+1. Vertical Type Layering
+   Use oversized condensed typography as a strong vertical spine. Let letters move in front of and behind the portrait, creating clear depth and layered interaction.
+
+2. Sliced Portrait
+   Split the portrait into several clean horizontal sections and slightly offset each slice. Keep the face recognizable and beautiful. Avoid RGB glitch, noise, or digital distortion.
+
+3. Echo Portrait
+   Show the same subject twice using contrasting scale or orientation, such as one normal portrait and one enlarged flipped portrait. Use repeated typography or outline type to create a visual “echo.”
+
+4. Portrait Inside Oversized Type
+   Use huge bold typography as the main composition. Let parts of the face, eyes, lips, hair, or shoulders appear through and between the letterforms, so the portrait becomes integrated into the typography.
+
+Use a modern fashion-editorial aesthetic with oversized condensed sans-serif type, strong portrait photography, clean geometric structure, generous negative space, fine rules, small meaningful editorial text, and subtle graphic blocks.
+
+Keep the information hierarchy clear: large typography first, portrait second, small editorial text third.
+
+Use meaningful supporting copy related to the visual concept rather than random placeholder text.
+
+Keep skin realistic with natural texture, realistic hair strands, natural fabric folds, and photographic lighting. Avoid plastic skin, CGI appearance, excessive retouching, random symbols, meaningless text, heavy UI graphics, sparkles, numbering, NO., VOL., and decorative clutter.
+
+Generate all four as separate standalone 9:16 posters, not combined into a single collage.
+```
+
+  </details>
+
+- **手工纸撕口旅行编辑海报：可填国家槽** — 整张桑皮纸纤维底 + 中轴有机撕口露出地标；[COUNTRY/LOCATION] 自动脑补文化符号。3:4 旅行社论/目的地海报填槽即出。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2101958048827027839)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+GPT Image 2.5 
+
+Prompt:
+Create a premium 3:4 vertical handmade-paper editorial artwork for [COUNTRY / LOCATION / SUBJECT].
+
+VISUAL GENERATION
+Build the entire composition creatively from the words [COUNTRY / LOCATION / SUBJECT]. Automatically imagine the most iconic visual identity, environment, architecture, landscape, people, atmosphere, and cultural details associated with the subject.
+
+PAPER
+Fill the entire frame with one thick, warm ivory sheet of authentic handmade paper. Show visible mulberry fibers, tiny fibers, subtle wrinkles, natural speckles, faint stains, uneven handmade texture, and soft physical imperfections.
+
+CENTRAL TORN WINDOW
+Create one tall, organic vertical tear through the center of the paper. The opening should occupy roughly 30–40% of the frame width and 60–70% of the frame height, with an elongated natural shape.
+
+Make the edges irregular and naturally hand-torn, with exposed white fibers, small variations in width, slightly lifted paper edges, and delicate realistic shadows. Never make the tear perfectly straight, geometric, symmetrical, or machine-cut.
+
+SCENE INSIDE THE OPENING
+Reveal a beautifully composed realistic representation of [COUNTRY / LOCATION / SUBJECT] through the torn opening. Automatically select the most recognizable landmark, architecture, landscape, street, cultural element, or environmental feature.
+
+The revealed scene should feel subtly integrated with the handmade paper, with softened colors, gentle atmospheric fading, and visible interaction between the scene and surrounding paper fibers.
+
+BOTANICAL DETAILS
+Place only a few dried natural elements around the tear: several dark green leaves and a small cluster of delicate white dried flowers. Keep them sparse and elegant, with visible veins, dried edges, and subtle physical shadows. Never form a wreath or decorative border.
+
+Add one or two extremely thin, loose pencil-like marks across the empty paper. They should feel like quiet unfinished artistic gestures, not recognizable drawings.
+
+TYPOGRAPHY
+Place a short poetic Korean phrase in the upper-left blank area, elegantly arranged within three lines or fewer. Add one very small atmospheric Korean sentence in the lower-right blank area.
+
+Use refined thin Korean editorial typography in deep charcoal. Keep all lettering inside the empty paper areas. No numbers, dates, years, logos, brands, signatures, watermarks, or decorative typography.
+
+FINAL AESTHETIC
+Quiet contemporary Korean editorial design × tactile handmade paper × organic paper tear × refined travel artwork × minimal dried botanicals × sophisticated negative space.
+
+The result should feel like a real handcrafted art print photographed directly from above, with authentic physical materials, natural shadows, muted colors, delicate imperfections, and premium editorial composition.
+
+AVOID
+Split layouts, multiple tears, geometric openings, smooth machine-cut edges, excessive flowers, wreaths, clutter, glossy surfaces, plastic texture, excessive saturation, artificial gradients, cartoon styling, 3D rendering, random landmarks, excessive text, numbers, logos, signatures, watermarks, or interface elements.
+
+FORMAT: 3:4 vertical, single unified composition.
+```
+
+  </details>
+
+- **巨型字体当遮罩：目的地海报字母即风景** — 双词巨标题做水景蒙版，背影人物手臂冲出字顶——字不是标签，是入口。旅行 KV / 目的地主视觉的字体即场景打法。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101957480620453907)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A destination poster gets stronger when the type becomes the view.
+🌊 use a towering, condensed two-word title as a mask filled with crystalline turquoise water, shoreline, and sunlit ripples
+The destination is visible before anyone reads the name. The letters become a portal instead of a label.
+✨ let one back-facing figure stand inside the title block, with raised arms extending beyond the top edges of the letterforms
+The figure breaks the grid just once, turning the type from a graphic device into a moment of arrival.
+
+GPT- image 2.5 prompt👇
+Create a premium destination advertising poster for a fictional coastal tourism brand named SOLA MAR, designed as a single vertical minimalist campaign image with monumental negative space and one central typographic-body composition. The destination itself is the product. The poster must feel like a Cannes-level travel key visual, a collectible editorial print, and a gallery-grade graphic tourism poster at the same time.
+
+The whole image is built around one exact visual idea: a mature woman seen from behind standing in brilliant tropical water with both arms lifted upward in a liberated V-shape, perfectly fused with a towering stacked word block at the center of the page. The typography acts as an architectural mask: the photographic ocean scene, the woman’s back, wet skin, dark hair, and turquoise water appear inside the giant letters, while her two raised arms extend beyond the top edges of the letterforms and become the main kinetic silhouette against the pale empty background. This body-and-type fusion is the hero composition and must feel exact, elegant, and internationally iconic.
+
+Use a pale sun-bleached warm-grey paper background with very large clean negative space. At the center, build one tall stacked uppercase title in bold condensed letterforms reading "SEA / BEYOND" or another equally strong original two-word construction, arranged as a compact vertical typographic monument. The letters must be thick enough to contain a vivid tropical image within them. The scene inside the letters and around the lower body should show premium coastal material realism: crystalline turquoise shallows, sunlit aquamarine ripples, subtle refraction around the waist and hips, small glittering highlights on the water surface, and bright tropical clarity. The water must feel warm, clean, luxurious, and irresistible.
+
+The woman is a real mature female figure, photographed from behind, with wet dark hair falling naturally down the upper back. She stands waist-deep or high-hip-deep in clear tropical sea, torso centered within the letter block, spine and shoulder blades elegantly aligned with the typography. Her arms stretch upward beyond the text with refined asymmetry in the hands and wrists so the pose feels free and alive rather than mechanical. Anatomy must be correct and natural: realistic head-neck-shoulder relationship, natural mature back and waist structure, believable hips, smooth lower-back-to-glute transition, realistic pelvic structure, naturally full buttocks if visible, soft curvy hips, natural fleshy lower-body volume, subtle skin texture, faint real skin variation, no plastic smoothing. If hands are visible, keep all five fingers anatomically correct, separated, elegant, and undistorted. The pose must communicate freedom, salt air, warmth, and self-possession, never vulgarity.
+
+Lighting is bright coastal daylight, crisp but soft enough to keep the poster premium rather than postcard-cheap. The skin carries luminous wet highlights and fine water droplets. The sea inside the typography should have layered cyan, turquoise, and pale teal depth, with sunlight hitting the wavelets and subtle transparency around the submerged lower body. Keep the water image vivid, but let the surrounding poster field stay quiet and restrained. The composition must feel like the typography has become a portal into the destination.
+
+Below the central typographic monument, place the destination line "Sola Mar" in an elegant hand-script or refined brush-script, cool teal or sea-glass green, centered and much smaller than the main title. Beneath it, add only one very short poetic line in tiny editorial text, something like a restrained thought about salt, warmth, and memory. At the bottom corners, keep only minimal micro-elements: a discreet website on the left and a tiny tourism mark or seal on the right. No extra brochure-style information, no paragraph copy, no cluttered taglines.
+
+Color hierarchy: 55% pale paper-grey and sun-bleached neutral negative space, 25% luminous tropical turquoise and aquamarine water, 15% warm bronze skin and dark wet hair contrast, 5% cool sea-glass green script accent and tiny editorial microtype. The graphic language must feel luxury-print minimal, central, clean, and collectible. The poster should read immediately from far away through its giant text silhouette, but reward close viewing through water detail, skin highlights, and precise typographic framing.
+
+Rendering target: photoreal luxury travel campaign, premium poster layout, product-dominant destination identity, giant type as image container, elegant central composition, airy negative space, and world-class print-finish clarity.
+
+Quality control and structured exclusions: photoreal only inside the image area, correct female anatomy, natural mature softness, realistic shoulders, back, waist, pelvis, hips, hands, and fingers, no extra fingers, no missing fingers, no fused fingers, no broken wrists, no warped spine, no distorted pelvis, no plastic skin, no muddy water, no dirty haze, no unreadable typography, no random letters, no copied destination names, no cluttered brochure layout, no cheap vacation-ad styling, no style drift, no AI slop.
+```
+
+  </details>
+
+- **冷门菜可填槽：食材溯源网汇聚到终盘** — $DISH 槽位塞四国冷门菜；中心终盘写真，四周按比例粗细的溯源辐条（产地→市场→餐桌）。美食科普长图/信息图母版，换菜即新片。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2101941248022249841)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A new food prompt I am testing with GPT Image 2.5. I am going to work on it a bit more 
+
+16:9, $ DISH: [A, B, C, D, each a lesser known under rated dishes from various countries around the world] $ VIEW: "ingredient provenance network converging on final plating" $ MEDIUM: "gastronomic manuscript with supply-chain cartography" Gastronomic manuscript of [$DISH], presented as a convergence diagram where every ingredient's journey is traced from origin to plate. At the center floats the finished dish in exquisite photorealistic detail — steam rising, textures glistening, plated on period-appropriate serveware — rendered as a luminous focal point.   Radiating outward from the dish like spokes of a wheel, each ingredient traces a provenance line back to its source. A tomato's line flows through a market stall, a distribution warehouse, a farm field, to the specific cultivar's genetic origin in the Andes. A spice's line crosses ocean trade routes on a miniature age-of-sail map. Each line is rendered in the ingredient's characteristic color — saffron gold, basil green, chili red — and varies in thickness according to the ingredient's proportional importance in the recipe.
+```
+
+  </details>
+
+- **生活照→手绘社论海报：可填人物/城市槽** — 真照片压成限色复古丝网插画：[PERSON] 锁姿态衣着，环境收成几笔地标，旁注城市坐标。旅行/生活方式收藏级印刷感母版。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2101917074323112015)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+GPT image 2.5
+
+Prompt:
+A sophisticated minimalist lifestyle art poster featuring [PERSON / SUBJECT / MOMENT] as the central focus, transformed from a real-life photograph into a refined hand-drawn editorial illustration. Preserve the subject’s recognizable pose, silhouette, clothing, hairstyle, and key visual details while simplifying the scene into an elegant artistic composition.
+
+Use a limited vintage color palette inspired by the original environment, with warm muted tones printed on an ivory/off-white paper background. Combine delicate ink outlines, loose sketchwork, fine hatching, subtle halftone texture, faded print imperfections, and soft watercolor-like washes.
+
+Reduce the surrounding environment into a few recognizable contextual elements—[CAFÉ / BAR / STREET / LANDMARK / OBJECTS]—using simplified linework and layered shapes rather than detailed realism. Add subtle abstract circles, geometric forms, atmospheric marks, tiny decorative elements, or silhouettes to create visual depth.
+
+Include small minimalist typography on one side: [CITY / LOCATION], [SUBJECT / MOMENT], and optional coordinates, date, or short descriptor, designed like a premium collectible travel/lifestyle print.
+
+Generous negative space, elegant editorial composition, vintage screen-print aesthetic, hand-crafted illustration, sophisticated travel-magazine design, muted heritage colors, subtle paper grain, artistic but recognizable, no photorealistic background, no excessive details, 4:5 vertical composition.
+```
+
+  </details>
 
 - **石榴百科全书式信息卡：3:4 标本导览牌** — 标本摄影顶栏 + 九组营养/产区/食用/储存信息，石榴红×叶绿×琥珀配色。食品/植物科普卡可换主体复用的中文结构化母版。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2101854051805851807)
   <details>
@@ -3971,6 +4131,457 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **极简圆镜立绘：侧身回眸一键返图** — 圆镜当几何锚点，新中式修身裙锁颈肩腰臀线；深皇家紫×淡金。立绘/品牌人设图可直接返图的中文结构化母版。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2101973626853728520)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+想表现人物曲线，还得是极简插画风格。
+
+GPT Image 2.5生成极简人物插画。
+
+提示词（欢迎返图）：
+主体内容：一位明确成年的东方女性站在极简圆镜前，轻轻整理耳饰，身体侧向镜面，脸部微微回眸
+主体气质：精致、知性、贵气、神秘
+画面用途：高级立绘感插画
+主色调：深皇家紫、墨蓝紫、冷白
+点缀色：淡金、电光紫
+几何元素强度：中
+几何元素类型：圆形镜面 + 细线
+画幅比例：9:16 
+补充要求：服装为修身新中式连衣裙，重点突出侧身时的颈肩线、胸线、腰线和臀部转折，镜面只作为极简圆形构图元素，不要复杂妆台
+```
+
+  </details>
+
+- **3D 旋转轴微倾头：Roll/Pitch/Yaw 控姿态** — 「ごく僅か」靠感觉说不清？先定义画面里的 Roll/Pitch/Yaw 正负方向，再给 -5%～-25% 带宽。微倾头、侧脸精度比玄学形容词稳。 [@magu_ai_h](https://x.com/magu_ai_h) · [原帖](https://x.com/magu_ai_h/status/2101968864762630377)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【構図における回転軸の定義】
+このプロンプト内では以下を画面内における回転軸の定義とする。
+・ロールは時計回り方向を「+」とし、反回転は「-」とする。
+・ヨーは画面右への回転を「+」とし、画面左への回転は「-」とする。
+・ピッチは上方回転を「+」とし、下方回転は「-」とする。
+・回転角度は「0°～90°」で表現する。
+
+---ルールプロンプトここまで---
+これをポーズ指定などの項目の最初に差し込む
+
+【使い方例・微傾頭】
+顔のロール角は-15％～-25％とし、頭頂中心は顎中心より画面左側にする。
+顔のピッチ角は-5％～-10％と、僅かに画面下側を向く。
+顔のヨー角は-5％～-10％と、僅かに画面左側を向く。
+---ここまで---
+これらを大まかな姿勢指定のあとに入れる
+
+※角度に幅を持たせるのは、僅かなズレを見たいのと、崩壊を防ぐため。完全再現ではなく構図精度を少し高めるおまじない。
+```
+
+  </details>
+
+- **晴空公路人像：完整中文写实提示词** — 9:16 乡间路侧半身：水手领白背心×低腰牛仔短裤，灰绿瞳+水红唇。日光漫反射与景深写得很满——中文人像直接可跑的长提示。 [@alanblogsooooo](https://x.com/alanblogsooooo) · [原帖](https://x.com/alanblogsooooo/status/2101953434736087476)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+9:16竖画幅。户外自然日光真实感街头人像写实摄影，超高清纯净画质与高信噪比，整体呈现澄澈天空蓝、纯净白与青翠原野交织的明朗日系色调，伴随大光圈柔和景深与真实日光漫反射。正视略带微仰的胸腰半身中近景构图，主体端立于画面正中央偏左，公路路沿石斜向延伸拉开空间纵深，右侧展现辽阔的草坪与田野。一位气质清甜纯净与微冷高级感的22岁短发女性伫立于乡间路侧；身姿端庄挺拔，双肩舒展平直，头部轻微侧倾凝视镜头，展现出随性自然的青春动势张力。她双臂自然垂于身侧，右手腕佩戴精致的金色细手链，手指轻搭在低腰裤腰边缘；腰腹平坦紧致，露出光洁白皙的腹部线条与优美锁骨；双足平稳立于平整的沥青路面边缘。她身穿一件修身纯白色无袖针织短款背心，衣身覆有立体精致的菱形暗纹编织肌理，领口拼接大翻领水手领并饰以立体蝴蝶结与黑色波浪蕾丝滚边，下着一条低腰深灰色牛仔短裤；颈间佩戴纤细的银色蝴蝶吊坠项链；一头乌黑顺直的日系齐耳短发（波波头）内扣修饰着巴掌脸，轻薄齐刘海温顺垂落额前，一双清澈透亮的灰绿色彩瞳灵动深邃，唇上涂抹着明艳水润的水红色唇釉。灰绿色的宝石双眸清亮深情直视镜头，眼波澄澈含光，双颊泛着阳光烘烤出的自然粉晕（表征层），嘴角想要保持平直冷峻却在边缘隐隐漾开一丝若有若无的清甜浅笑🌸✨。晴朗炽烈的斜向日光倾泻而下，在冷白透亮的凝脂肌肤上形成通透温润的粉橘次表面漫反射，肩颈、锁骨与平坦腹部泛着细腻的奶油水光高光，针织菱形织纹与牛仔布料呈现出真实立体的阴影反差；空灵、流萤与微醺幻觉交织出极致纯净明朗的夏日诗意，背景由干净平整的乡间沥青道路、白色道沿石、远处青翠草地与无垠纯净的湛蓝天幕极简铺展，光影雕琢至像素级生动瑰丽。
+```
+
+  </details>
+
+- **AI UGC JSON 超写实自拍复刻母版** — photorealistic_reference_reconstruction：按优先级锁构图→脸→姿势→发色妆造→光环境，顺手抹掉所有界面控件。种草自拍复刻直接丢 JSON。 [@jasonugc](https://x.com/jasonugc) · [原帖](https://x.com/jasonugc/status/2101933444376781043)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+{
+"prompt_type": "photorealistic_reference_reconstruction",
+"objective": "Recreate the supplied reference image as closely as possible as a clean horizontal smartphone selfie photograph. Preserve the subject's face proportions, pose, platinum-blonde hair, makeup, jewelry, body position, bedroom environment, warm ambient lighting, camera angle, crop, depth, colors, and casual social-media aesthetic. Completely ignore and remove all interface elements, text, buttons, icons, borders, overlays, arrows, timestamps, watermarks, or other screen graphics.",
+"reference_fidelity": {
+"target": "extremely high visual similarity",
+"priority_order": [
+"overall horizontal composition and crop",
+"face position and facial proportions",
+"low lying-on-bed pose",
+"long platinum-blonde hair",
+"blue-gray eyes and soft glam makeup",
+"warm golden bedroom lighting",
+"large sculptural metallic earrings",
+"small outlined heart tattoo near collarbone",
+"cream curtains and tufted headboard",
+"foreground arm placement",
+"authentic smartphone-photo rendering"
+]
+},
+"canvas": {
+"orientation": "landscape",
+"aspect_ratio": "approximately 1100:828",
+"framing": "tight horizontal smartphone selfie",
+"crop": "subject shown from upper head through upper torso while lying forward on a bed",
+"subject_alignment": "face slightly left of center",
+"camera_position": "very close to face and upper torso",
+"headroom": "small amount of cream ceiling and molding visible above hair",
+"left_edge": "bedroom curtains and bed linens visible",
+"right_edge": "subject's extended arm and headboard visible",
+"bottom_edge": "soft pale bedding fills foreground",
+"important": "do not include the original white app border or any lower-right UI buttons"
+},
+"scene": {
+"location": "warm upscale bedroom or hotel-style bedroom",
+"time_of_day": "evening or nighttime",
+"mood": "soft, polished, intimate, relaxed",
+"visual_style": "high-end candid smartphone beauty selfie",
+"background_complexity": "moderately simple, softly detailed",
+"environment": {
+"walls": "warm cream / pale beige",
+"ceiling": "matching warm ivory",
+"trim": "decorative white crown molding",
+"curtains": "full-length beige-gold curtains with vertical folds",
+"bed": "cream or warm-white bedding",
+"headboard": "light beige upholstered tufted headboard with nailhead trim",
+"lighting": "warm diffused bedside or room lighting"
+}
+},
+"subject": {
+"description": "adult woman lying forward on a bed and looking directly at the camera",
+"position": "upper-middle foreground, face close to camera",
+"body_visibility": "head, shoulders, upper chest, portions of both arms and upper torso",
+"pose": {
+"torso": "lying prone or leaning forward on the bed",
+"head": "slightly angled downward and subtly toward viewer-left",
+"face": "turned directly toward camera",
+"left_arm": "extended across lower-left foreground toward camera",
+"right_arm": "extends toward viewer-right and partially out of frame",
+"shoulders": "low and relaxed",
+"posture": "casual low-angle leaning pose"
+},
+"expression": {
+"overall": "calm, composed, slightly pouty",
+"gaze": "direct eye contact with camera",
+"mouth": "closed",
+"lips": "softly pursed",
+"brows": "relaxed but polished",
+"emotion": "confident, serene"
+},
+"skin": {
+"tone": "warm light-to-medium tan beige",
+"undertone": "golden-neutral",
+"finish": "smooth luminous satin",
+"texture": "realistic but softly retouched",
+"pores": "subtle",
+"highlights": "pronounced luminous highlight on cheekbones, forehead, nose bridge, shoulders, and upper chest",
+"blush": "soft rosy-peach flush",
+"retouching": "moderate beauty processing without obvious plastic texture"
+},
+"face": {
+"shape": "soft oval with defined cheekbones and tapered jaw",
+"forehead": "medium height",
+"cheeks": "smooth and sculpted",
+"jawline": "soft but defined",
+"chin": "small rounded chin",
+"eyes": {
+"shape": "almond-shaped",
+"color": "pale blue-gray",
+"size": "medium-large",
+"lashes": "long, curled, dark and individually defined",
+"eyeliner": "precise dark winged eyeliner extending outward",
+"eyeshadow": "soft taupe-beige and muted brown",
+"catchlights": "small warm frontal reflections"
+},
+"eyebrows": {
+"shape": "full, softly arched",
+"color": "cool medium brown / dark blonde",
+"density": "medium-full",
+"finish": "clean, softly filled, feathered"
+},
+"nose": {
+"shape": "small straight nose",
+"bridge": "slender and softly highlighted",
+"tip": "rounded and refined"
+},
+"lips": {
+"shape": "very full and softly sculpted",
+"upper_lip": "defined cupid's bow",
+"lower_lip": "full and rounded",
+"color": "muted nude pink / dusty rose",
+"liner": "slightly darker nude-pink outline",
+"finish": "soft matte-satin"
+},
+"makeup": {
+"style": "polished soft glam",
+"foundation": "smooth and radiant",
+"bronzer": "warm subtle bronzing around perimeter",
+"blush": "soft peach-rose",
+"highlighter": "luminous champagne highlight",
+"eyes": "neutral shadow with winged liner",
+"lips": "nude rose"
+}
+}
+},
+"hair": {
+"color": "very light platinum blonde with subtle cool beige-blonde lowlights",
+"length": "long, extending below shoulders and across upper body",
+"texture": "smooth straight to very slightly curved",
+"part": "deep or moderate side part near viewer-left",
+"roots": "slightly darker natural-looking shadow root",
+"volume": "moderate",
+"front_sections": "one broad blonde section drapes diagonally across viewer-left side of face",
+"right_side": "long smooth strands fall behind shoulder toward viewer-right",
+"ends": "softly tapered",
+"surface": "silky and glossy with warm highlights",
+"flyaways": "minimal"
+},
+"jewelry": {
+"earrings": {
+"type": "large sculptural teardrop / chunky hoop earrings",
+"material": "polished warm gold or gold-toned metal",
+"shape": "rounded hollow teardrop shape",
+"size": "medium-large and visually prominent",
+"position": "clearly visible on ear at viewer-right",
+"finish": "highly reflective metallic surface"
+},
+"necklace": {
+"type": "thin delicate chain necklace",
+"material": "warm gold",
+"pendant": "small compact charm",
+"position": "rests across upper chest near collarbone",
+"finish": "subtle polished reflection"
+}
+},
+"tattoo": {
+"type": "tiny outlined heart tattoo",
+"placement": "upper chest near the subject's right collarbone, viewer-right side",
+"color": "dark brown-black ink",
+"size": "small and delicate",
+"style": "simple single-line outline",
+"orientation": "upright",
+"instruction": "keep crisp but understated"
+},
+"wardrobe": {
+"top": {
+"type": "black thin-strap top or black lingerie-style garment",
+"visibility": "only small portions are visible near the lower chest and shoulder areas because of the close crop and lying pose",
+"color": "deep black",
+"straps": "thin black straps",
+"material": "smooth or subtly textured",
+"instruction": "do not invent extra garment structure that is not visible; preserve the reference's minimal visible black clothing"
+}
+},
+"arms_and_hands": {
+"left_arm": {
+"position": "extends diagonally from lower-left toward camera",
+"visibility": "large portion visible",
+"perspective": "slightly enlarged by proximity to smartphone lens",
+"skin": "warm golden tan"
+},
+"right_arm": {
+"position": "extends toward right side of frame",
+"visibility": "partially cropped",
+"perspective": "foreground proximity"
+},
+"right_hand_or_fingers": {
+"visibility": "softly blurred partial finger/hand entering extreme right edge",
+"purpose": "reinforce handheld phone/selfie feeling",
+"focus": "out of focus due to proximity"
+}
+},
+"bedroom_background": {
+"curtains": {
+"position": "left half of background",
+"color": "warm beige / champagne",
+"material": "heavy satin or dense woven fabric",
+"folds": "deep vertical pleats",
+"lighting": "warm highlights along fold ridges"
+},
+"headboard": {
+"position": "right-rear background",
+"color": "light beige / cream",
+"material": "upholstered fabric",
+"style": "tall luxury headboard",
+"details": "button tufting and metallic nailhead trim following curved upper edge"
+},
+"bed": {
+"bedding": "soft white / ivory sheets or duvet",
+"foreground": "large pale cushion or blanket surface beneath subject",
+"left_background": "loosely gathered pink-beige clothing or blanket resting on bed",
+"texture": "soft smooth bedding"
+},
+"walls": {
+"color": "warm ivory",
+"finish": "smooth matte",
+"trim": "white crown molding and decorative panel details"
+}
+},
+"lighting": {
+"type": "warm diffused indoor ambient lighting",
+"primary_source": "soft room or bedside lamp from front-right / side",
+"secondary_source": "warm ambient fill from room",
+"direction": "primarily front and slightly viewer-right",
+"quality": "soft and flattering",
+"contrast": "low-to-moderate",
+"color_temperature": "approximately 2900-3400K",
+"skin_effect": "warm luminous glow with pronounced cheek highlight",
+"hair_effect": "golden reflections along platinum strands",
+"eye_effect": "clear catchlights",
+"background_effect": "soft warm gradients with no harsh shadows",
+"shadow_style": "diffuse and gentle"
+},
+"camera": {
+"device": "modern smartphone front-facing camera",
+"orientation": "landscape",
+"lens": "wide selfie lens",
+"focal_length_equivalent": "approximately 24-28mm",
+"camera_position": "very close to subject and slightly above mattress height",
+"camera_height": "slightly below or around face level due to prone pose",
+"distance": "approximately 40-70 cm from face",
+"perspective": "subtle wide-angle smartphone distortion",
+"focus": "sharpest on eyes and face",
+"depth_of_field": "moderate with background softly recognizable",
+"image_quality": "high-resolution smartphone portrait",
+"processing": "subtle HDR, moderate beauty smoothing, crisp eyes and hair",
+"sharpness": "clean modern-phone sharpening",
+"noise": "very low",
+"compression": "slight social-media image compression"
+},
+"composition_geometry": {
+"face_center": "approximately x=46%, y=30%",
+"head_top": "approximately y=2-4%",
+"eye_line": "approximately y=26%",
+"nose": "approximately image center-left",
+"mouth": "approximately y=44%",
+"shoulder_line": "approximately y=57%",
+"upper_torso": "dominates lower-middle frame",
+"left_arm": "diagonal foreground element running from bottom-left toward subject",
+"right_arm": "diagonal toward lower-right",
+"curtains": "left background",
+"headboard": "right background",
+"visual_balance": "subject face dominates center-left while hair and right shoulder extend toward the headboard"
+},
+"color_palette": {
+"dominant_colors": [
+"platinum blonde",
+"warm golden beige",
+"cream",
+"champagne",
+"dusty rose",
+"black",
+"warm gold"
+],
+"skin": "warm golden tan",
+"hair": "cool platinum with warm ambient highlights",
+"eyes": "pale blue-gray",
+"lips": "dusty nude rose",
+"earrings": "warm reflective gold",
+"background": "cream and champagne",
+"wardrobe": "black",
+"overall_saturation": "moderate",
+"contrast": "soft",
+"white_balance": "warm"
+},
+"beauty_processing": {
+"strength": "moderate",
+"skin_smoothing": "moderate",
+"eye_clarity": "slightly enhanced",
+"iris_brightness": "subtly enhanced",
+"lash_definition": "high",
+"lip_definition": "high",
+"facial_shape_adjustment": "minimal",
+"highlight_enhancement": "moderate",
+"overall_result": "polished social-media beauty portrait while remaining photorealistic"
+},
+"micro_details": {
+"skin": "subtle pores, natural tonal variation, tiny beauty marks",
+"eyes": "detailed pale blue-gray irises and crisp lashes",
+"hair": "individual platinum strands with visible root transition",
+"earrings": "accurate metallic highlights and reflections",
+"necklace": "fine chain detail",
+"tattoo": "thin precise heart outline",
+"curtains": "woven texture and deep folds",
+"headboard": "fine upholstery texture, button indentations, and metallic stud trim",
+"bedding": "soft wrinkles and pressure folds around subject's arms"
+},
+"photographic_style": {
+"genre": "casual bedroom beauty selfie",
+"aesthetic": "warm luxury social-media lifestyle portrait",
+"realism": "extreme photorealism",
+"retouching": "polished but believable",
+"production_value": "personal phone selfie rather than professional studio shoot",
+"desired_result": "looks like a genuine high-quality smartphone selfie captured while lying on a bed in warm bedroom lighting"
+},
+"negative_prompt": [
+"text",
+"captions",
+"watermarks",
+"logos",
+"UI",
+"buttons",
+"expand icon",
+"refresh icon",
+"white application border",
+"rounded screenshot frame",
+"interface graphics",
+"extra people",
+"different camera angle",
+"standing pose",
+"sitting upright",
+"mirror selfie",
+"phone visible",
+"short hair",
+"brunette hair",
+"black hair",
+"red hair",
+"curly hair",
+"tight curls",
+"center part",
+"messy bun",
+"dark eyes",
+"brown eyes",
+"minimal eyelashes",
+"no eyeliner",
+"bright red lipstick",
+"large smile",
+"open mouth",
+"looking away",
+"different earrings",
+"tiny stud earrings",
+"no earrings",
+"missing heart tattoo",
+"large tattoo",
+"different bedroom",
+"bathroom",
+"kitchen",
+"outdoors",
+"cold blue lighting",
+"daylight-only lighting",
+"hard flash",
+"dramatic cinematic shadows",
+"extreme bokeh",
+"DSLR editorial look",
+"fisheye distortion",
+"plastic skin",
+"uncanny face",
+"over-sharpened pores",
+"overexposed skin",
+"CGI",
+"3D render",
+"illustration",
+"anime",
+"cartoon",
+"extra arms",
+"extra hands",
+"deformed fingers",
+"warped shoulders",
+"distorted anatomy",
+"asymmetrical eyes"
+],
+"final_generation_instruction": "Generate one extremely photorealistic horizontal smartphone selfie matching the supplied reference as closely as possible. Show an adult woman lying forward on a cream bed in a warmly lit beige bedroom, photographed very close to the face and upper torso. Give her very long silky platinum-blonde hair with a darker shadow root and side part, pale blue-gray almond eyes, long dark lashes, sharp winged eyeliner, softly sculpted brows, luminous bronzed skin, and full matte-satin dusty nude-pink lips. Her expression is neutral and slightly pouty with direct eye contact. Add large polished gold teardrop earrings, a delicate gold necklace, and a tiny outlined heart tattoo near the viewer-right collarbone. Only small portions of a thin black top or lingerie-style garment should be visible. Position one arm across the lower-left foreground and the other toward the right edge, with a softly blurred fingertip near the extreme right to preserve the handheld selfie feeling. Reproduce the warm champagne curtains on the left, cream tufted nailhead headboard on the right, ivory bedding, pale carpet, decorative crown molding, and loosely gathered pale pink fabric on the bed. Use warm soft ambient lighting, realistic phone-camera perspective, moderate beauty processing, crisp eyes and hair, subtle skin texture, and natural smartphone HDR. Completely remove all interface buttons, arrows, borders, text, watermarks, and other screen graphics."
+}
+```
+
+  </details>
+
 - **高定角色设定表：style bible 可填槽母版** — 上传一张风格参考当 style bible，吐出 16:9 高定角色概念表：竖排姓名元数据、迷你三视图+剪影、中心全身、动态姿势、材质局部放大。换角色名/ROLE/MOOD就能套——IP 资产表母版直接抄。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2101905822888677714)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -6773,6 +7384,65 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **产品先于人：海鲜电商俯拍托盘英雄构图** — 略俯视把超大圆形冰鲜托盘怼到镜头前，工人压到画面下半——新鲜感先打脸，人只负责证明「小心搬运」。食品/生鲜 KV 的产品优先层级教科书。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101964323094745493)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A freshness claim is stronger when the camera puts the product before the person.
+🧊 a slightly overhead view with one oversized circular tray lifted toward the lens, occupying the upper-middle frame
+The seafood arrives first: ice sparkle, steel rim, tuna, shrimp, squid, and fillets are all readable before you notice the worker.
+🪽 place the worker low in frame with a believable upward lift, then embed the brand name as cropped frozen typography beneath their feet
+The person proves careful handling; the floor type anchors the campaign without competing with the tray.
+
+GPT- image 2.5 prompt👇
+Create a premium frozen seafood advertising poster for a fictional international brand named FROSTHARBOR SEAFOODS, designed as a single vertical commercial key visual with a strong top-down camera perspective and a radically clear product-first hierarchy. Preserve the structural strength of the reference as pure composition logic: one delivery worker positioned near the lower-center, lifting an oversized circular tray of frozen seafood high above his head toward the camera, so the tray becomes the absolute dominant visual object. The final image must merge Orbit, Transit, and Port into one refined campaign: emotionally immediate, materially rich, and compositionally reduced to a bold iconic statement.
+
+The product hero is the tray itself. Make it large enough that it feels almost thrust into the viewer’s space, occupying a commanding portion of the upper-middle frame. The tray is a premium stainless-steel round platter filled with a tightly curated arrangement of frozen seafood: thick ruby tuna cuts, translucent squid tubes and tentacles, pale white fish portions, silver-skinned fillets, shrimp with vivid orange-pink shell accents, shellfish, and luminous crushed ice. The arrangement must feel luxurious, clean, abundant, and intentional, not like a busy market heap. Every ingredient should be distinct, appetizing, and premium, with convincing cold-chain realism, subtle frost bloom, clean moisture sheen, and elegant color separation.
+
+The worker is secondary but important. He stands below the tray in a proud, uplifting pose, smiling up toward camera with honest energy and clean commercial warmth. He wears a streamlined branded cap, apron, and workwear uniform in refined marine-blue tones. Anatomy must be correct and natural: realistic shoulders, believable arm lift under weight, proper elbows, wrists, and hands, five fingers, clear finger separation, and grounded stance. He must feel trustworthy and human, but the tray must visually overpower him. His role is to deliver the ocean upward, not become the focus.
+
+The camera is slightly overhead and compressed enough to exaggerate the round tray’s scale while preserving believable perspective on the body. The background is a premium frozen-marine blue floor or studio surface with subtle crystalline frost texture and a deep cobalt-to-ice-blue gradient. Use large integrated floor typography beneath the figure as a graphic anchor, but keep it cleaner and more reduced than the source. Let the letters feel embedded into the surface, almost like frozen shadow typography underfoot, reinforcing the brand without cluttering the frame.
+
+Visible text must be sparse, high-end, and entirely in English. At the upper-right, place a minimal brand lockup: "FROSTHARBOR SEAFOODS". At the upper-left, place one strong campaign line only, such as "The Ocean, Lifted Fresh." or another equally elevated phrase. Across the floor beneath the worker, integrate one giant typographic base in bold condensed uppercase, such as "FROSTHARBOR", partially cropped by the figure and perspective. In the lower area, add only one short commercial line, for example: "Premium frozen seafood, handled with precision." Keep all typography art-directed, crisp, and spacious. No dense body copy, no brochure clutter, no excessive sales lines.
+
+Lighting must be bright, controlled, and appetizing. Use a soft overhead-front key light that makes the seafood tray glow with freshness: wet reflections on tuna, icy sparkle on crushed ice, soft translucency in squid, crisp shell highlights on shrimp, and controlled steel reflections on the tray rim. Add gentle fill on the worker’s face and uniform, and enough edge separation to keep the tray clearly cut out from the blue background. The whole image should feel premium, fresh, cold, and authoritative without becoming sterile.
+
+Color hierarchy: 60% marine cobalt, frozen blue, and icy cyan environment; 30% seafood flesh tones, silver ice neutrals, and steel highlights; 10% white typography and selective warm accents from shrimp, tuna, and skin. Keep the palette clean and commercial, with strong contrast between cool frozen atmosphere and warm living seafood tones.
+
+Material semantics must be explicit and luxurious: crushed ice sparkle, stainless steel rim reflection, tuna marbling, squid skin translucency, shrimp shell gloss, frosted fish surface, matte apron fabric, embroidered cap logo texture, cold studio floor grain, and subtle water condensation. The whole image should feel like a world-class food-retail campaign that turns one tray into a spectacular icon of freshness.
+
+Rendering target: photoreal luxury food advertising, product-dominant hierarchy, clean top-down energy, refined typography integration, cold-chain material realism, controlled negative space, and world-class print finish.
+
+Quality control and structured exclusions: photoreal only, correct human anatomy, realistic shoulders, arms, hands, and five fingers, no hand deformation, no extra fingers, no missing fingers, no fused fingers, no broken wrists, no warped tray shape, no duplicated seafood items, no muddy ice, no dirty fish texture, no blood, no chaotic market clutter, no cheap supermarket flyer look, no unreadable typography, no garbled letters, no random brand plagiarism, no cluttered background, no style drift, no AI slop.
+```
+
+  </details>
+
+- **Target/Anchors：只改颜色也不毁全图** — 蓝杯变橙杯，6/6 一次过。秘诀不是多写「改什么」，而是把「绝对不许动」写成 Anchors。局部编辑先列死守清单，再点名 Target。 [@pfc27254872693](https://x.com/pfc27254872693) · [原帖](https://x.com/pfc27254872693/status/2101962448311857546)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【局部改图公式 · Target / Anchors】
+Target（只改这里）：[对象] → [目标状态]
+例：蓝色马克杯 → 橙色马克杯
+
+Anchors（全部死守）：
+- 构图 / 相机机位
+- 光照方向与色温
+- 背景与桌面材质
+- 其他物体的颜色与位置
+- 人物身份与姿势（如有）
+
+指令模板：
+只把 Target 改成目标状态。Anchors 列出的一切必须保持完全不变。不要重绘全图。
+
+验收：改色/改一物时，其余像素级一致才算 Pass。
+```
+
+  </details>
+
 - **玻璃切片观察窗：时尚美妆产品战役海报** — 上下两人对内凝视 + 中间信息带，只在局部网格叠真实光学玻璃（折射/位移/选择性锐化）。眼罩、手表、耳机、香氛都测过——高定时尚/美妆/产品 KV 可直接换品牌槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101644997460213894)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -7104,6 +7774,41 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **海水物理拼圣诞树：游艇豪华假日 KV** — 树不是装饰贴图——用浅滩、礁石、浪花泡沫按物理堆成树形，游艇当树冠。假日豪华航海广告：远看图标、近看海况。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101959963384193293)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A seasonal icon lands harder when it is built from real physics.
+🌊 shape the tree from turquoise shallows, reef outcrops, curling foam, and white surf lace—symmetrical at a distance, irregular up close
+The form reads instantly, then resolves into believable water and reef behavior instead of holiday decoration.
+✨ place the yacht at the upper center, with its wake beginning the central route and flowing into the wider sea formation below
+The vessel becomes the crown and the cause of the composition, not a small object added afterward.
+
+GPT- image 2.5 prompt👇
+Create a premium luxury-yacht holiday advertising poster for a fictional international marine brand named SOLSTICE CROWN YACHTS, designed as a single vertical high-aerial key visual over an immense open sea at golden sunrise. Preserve the structural brilliance of the reference as pure composition logic: a real ultra-luxury motor yacht near the upper-center, moving forward across calm deep water, while the wake, reef lines, and surf formations below organically assemble into a monumental Christmas-tree silhouette made entirely of ocean physics. The yacht is the true commercial hero, and the sea-formed tree is the poetic extension of its voyage.
+
+The image must merge Orbit, Transit, and Port into one refined main visual: emotionally resonant, materially precise, and curatorially reduced. Orbit: keep the strongest immediate read of the concept, where the tree shape is instantly recognizable from afar and the yacht reads as the luminous crown point of the frame. Transit: make the marine materials, reef geometry, and yacht design feel systemized and premium, with believable water layering, foam logic, and engineered vessel detail. Port: strip away anything unnecessary so the image feels more international, more art-directed, and closer to a collectible visual manifesto than a festive brochure.
+
+The Christmas-tree form must not feel graphic-overlay fake or cartoonishly decorated. It must arise from real ocean movement: curling foam spirals, white surf lace, turquoise currents, transparent mineral shallows, and scattered reef outcrops positioned with elegant symmetry and controlled irregularity. From a distance it reads as a festive icon; up close it resolves into realistic hydrodynamics, reef contours, and tidal pattern. No ornaments, no garlands, no literal star, no kitsch holiday clichés. The sea itself becomes the seasonal gesture.
+
+The yacht must be highly photoreal, product-dominant, and aspirational: polished white hull, clean glazing, layered decks, subtle metallic detailing, realistic marine shadow under the vessel, believable wake behavior, and refined superyacht proportions. It must feel calm, rarefied, exclusive, and precise, never tiny or incidental. Place it near the upper-center so it leads the eye downward into the flowing tree-shaped sea formation.
+
+Camera and framing: premium drone or helicopter top-oblique aerial view, high enough to reveal the full sea-tree silhouette while keeping the vessel clearly legible as the hero object. The frame must feel spacious and quiet, with vast surrounding ocean negative space providing luxury, scale, and breathing room. Let the sea-tree occupy the central vertical axis and taper downward elegantly. The composition should read immediately and memorably from a distance.
+
+Lighting and atmosphere: warm low-angle sunrise light from the upper-right, washing the surface with champagne gold and pale amber while preserving rich cobalt and teal depth below. Build a refined 60/30/10 color hierarchy: 60% deep ocean blue, ultramarine, and teal; 30% white foam, bright turquoise shallows, and mineral aqua channels; 10% champagne sunrise warmth and pale gold reflection. The water must feel premium and layered: transparent cyan depths within the tree-form, white foam edges around the swirls, deep dark sea outside the central motif, and delicate sun-glint falloff. Keep the sky extremely restrained, only a small atmospheric horizon if needed.
+
+Typography must be drastically reduced and more elevated than a standard holiday campaign. Place a minimal brand lockup in the upper-right: "SOLSTICE CROWN YACHTS" with a tiny refined emblem above and one understated line beneath such as "Voyage in Ceremony." In the lower-center, place only one short holiday statement, elegant and restrained, such as "Season at Sea." No large festive paragraph copy, no heavy calligraphy overload, no bottom information clutter beyond a very slim, discreet contact strip if absolutely necessary. The visual must carry the meaning.
+
+Material semantics must be explicit and luxurious: yacht lacquer, marine glass, metallic trim, white foaming breakers, submerged reefs, translucent mineral shallows, deep saline blue, and warm dawn reflection. The whole image should feel both festive and rare, like a global luxury holiday campaign captured at a miraculous but believable moment from the air.
+
+Rendering target: photoreal luxury yacht advertising, premium ocean texture, refined holiday concept, elegant restrained typography, strong product hierarchy, curatorially reduced composition, and world-class print-finish quality.
+
+Structured exclusion constraints: no real yacht brand names, no copied Christmas slogans, no cheesy holiday graphics, no Santa elements, no ornaments, no fake CGI plastic tree look, no unreadable text, no garbled letters, no muddy water, no broken wave physics, no distorted yacht structure, no extra vessels cluttering the frame, no brochure-style promotional overload, no oversaturated tourism aesthetic, no style drift, no AI slop.
+```
+
+  </details>
 
 - **假旅行vlog：Image 2.5 出30镜分镜板全链路** — 没出门、没摄影机、没剪辑师：ChatGPT 企划 → GPT Image 2.5 出 30 镜分镜板 → Gemini Omni 动画 → Lyria 配乐 → Google Vids 成片。把管线封成 skill，「我要这种视频」就能量产。 [@sahilvermaai](https://x.com/sahilvermaai) · [原帖](https://x.com/sahilvermaai/status/2101750259382624549)
 
