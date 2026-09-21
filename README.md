@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 579 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 585 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,10 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **同 prompt 旅行站首页：Flare vs Sunburst 对照** — 同一旅行社首页 brief，Flare/Sunburst 两版愿景并排投票。选型别空谈参数——同指令看谁更贴落地页完成度。 [@alex_bagnuoli89](https://x.com/alex_bagnuoli89) · [原帖](https://x.com/alex_bagnuoli89/status/2101996295141347654)
+
+- **Sunburst 噪点坑：负向提示不能省** — 昨天零噪点觉得稳，今天偷懒跳过负面提示直接翻车。Sunburst 写实也别裸奔——噪点/纹理约束写进负向更稳。 [@Katze_lover](https://x.com/Katze_lover) · [原帖](https://x.com/Katze_lover/status/2101992459303850194)
 
 - **Sunburst 参考图逼真法：TikTok 截帧锁摄影感** — 裸 prompt 易变 AI slop；先从真实视频截氛围参考再喂 Sunburst，姿势不必一样。写实选型的可抄流程，比再堆形容词管用。 [@Mho_23](https://x.com/Mho_23) · [原帖](https://x.com/Mho_23/status/2101982659190653032)
   <details>
@@ -1042,6 +1046,96 @@ C区域代表【背景建筑或环境】
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
+- **东方文化海报四主题：笔毫/青瓷螺旋/金箔/印面留白** — 远看大形、近看材质：毫端成意、一坯旋成、一箔成光、方寸成章。传统工艺/品牌视觉/文化海报的留白结构母版，气质比堆纹样更值钱。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102020479758246280)
+
+- **Nike Blueprint：黑白产品解构广告可复用 prompt** — 羽绒夹克对半拆色 + 技术蓝图叠印 + Design Lab 标注。运动服饰 KV 要「像工程图一样高级」时直接改品牌槽。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2102012943433167168)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium high-concept Nike product advertisement poster, square 4:3 ratio, entirely monochrome black and white. “THE BLUEPRINT” — A designer’s technical deconstruction of the Nike down puffer jacket. The jacket is split perfectly in half vertically, revealing two colorways simultaneously. Technical garment construction blueprints are overlaid directly on the jacket fabric. Everything is desaturated — pure black, white, and gray.
+
+Young male model, approximately early 20s. Short cropped hair, very clean face. Chiseled sharp jaw, high cheekbones. EXPRESSION: intense, direct, unwavering stare straight into camera lens. Zero emotion — stoic, powerful, commanding presence. Lips slightly pressed together, jaw set. Upper body shot — head, shoulders, torso visible down to approximately mid-waist. Face positioned upper-center of frame. Skin tones rendered in rich grayscale — deep contrast, cinematic black and white photography.
+
+Nike oversized down puffer jacket, full zip center, hood attached and up, hood framing the head with interior visible as lighter cream tone. The jacket is divided exactly down the center vertical zip/seam into two perfectly mirrored halves.
+
+Left half: jet black matte panel with white Nike swoosh logo, visible puffer quilting lines, fabric absorbing light.
+
+Right half: off-white or cream panel with black Nike swoosh logo, visible quilting lines, fabric bright and slightly luminous.
+
+The split is razor sharp and precise at the center zip, both halves identical in silhouette and construction.
+
+Technical blueprint overlay printed directly on fabric. On black left half: fine white line drawings including grid overlay, garment pattern cutlines, seam lines, measurement boxes, hood arcs, pocket geometry, zipper sketch lines, quilting layout grid. On white right half: fine black line drawings including sleeve seam lines, panel joins, annotation boxes, measurement brackets, fill distribution zones, cuff detail insets. Thin annotation lines extend outward into the background architectural drawings.
+
+Horizontal lines with small annotation text beside them such as:
+“FILL WEIGHT — 550 DOWN CLUSTER”
+“SHELL MATERIAL — RIPSTOP NYLON”
+“SEAM TYPE — FLAT-LOCK STITCH”
+“HOOD DRAFT — STRUCTURED BAFFLED”
+
+Right-side dark text:
+“INSULATION — DUCK DOWN 90/10”
+“WEIGHT — 680G TOTAL GARMENT”
+“TEMP RATING — -15°C CERTIFIED”
+“POCKET SPEC — INTERNAL DROP-IN”
+
+Vertical lines include top annotation:
+“COLLAR HEIGHT — 8CM”
+and bottom annotation:
+“LENGTH — CROPPED HIP”
+
+All annotation text in small, clean monospace technical font with precise hairline rules.
+
+Around the jacket, faint handwritten notes scattered in gray tones, illegible cursive with arrows and circles, organic and spontaneous, fading toward the edges.
+
+Background is clean neutral mid-gray, slightly darker at corners with subtle vignette. Pure studio environment with no visible distractions.
+
+Top center: small spaced caps white “NIKE DESIGN LAB”
+Above the title, thin serif italic “The Blueprint”
+
+Bottom left: bold condensed sans-serif stacked “BUILT FROM SCRATCH.”
+
+Bottom right: technical monospace block:
+“STYLE NO. NK-DWN-026
+COLORWAY A: ONYX BLACK
+COLORWAY B: SAIL WHITE
+CONSTRUCTION: BAFFLED DOWN
+NIKE SPORTSWEAR — FW2026”
+
+Bottom center: small spaced caps:
+“EVERY GREAT PRODUCT STARTS WITH A LINE ON PAPER”
+
+Infographic callouts include thin outlined rectangles labeled:
+“TECH SPEC 01 — BODY CONSTRUCTION”
+“TECH SPEC 02 — ZIPPER SHELL WIND RESISTANT”
+“TECH SPEC 03 — FLAT-LOCK SEWN NO COLD SPOTS”
+and
+“COLORWAY A/B — ONYX / SAIL”
+
+Color palette strictly monochrome grayscale: jet black, off-white, mid gray.
+
+Style: Nike premium design editorial campaign, technical blueprint aesthetic with high-fashion black and white photography, photorealistic model, cinematic contrast, luxury sportswear campaign, 8K quality, museum-level poster.
+```
+
+  </details>
+
+- **半写实半纸艺：上真图下艺术化编辑海报** — 上半锁身份姿态的电影感写真，下半撕纸/浮雕纸艺叙事——人物与城市/职业槽可换。旅行/人设社论海报一条母版。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2102005089431122308)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium 4:5 editorial poster using the provided photograph of [PERSON]. The top half is a realistic cinematic photograph, preserving the person’s exact identity, face, pose, clothing, hairstyle, and environment.
+
+The bottom half transforms the same scene into a beautiful handcrafted layered paper-cut illustration, recreating the person and their world using textured paper, torn edges, embossed layers, subtle shadows, delicate linework, and miniature environmental details representing [THEIR CITY / PROFESSION / HOBBY / JOURNEY].
+
+Use warm ivory paper, muted sophisticated colors, tactile paper grain, elegant serif typography, minimalist supporting text, generous negative space, and a refined luxury travel-editorial aesthetic.
+
+Photograph above → paper-crafted story below.
+Make the transition seamless, artistic, emotional, and highly recognizable.
+```
+
+  </details>
+
 - **Apple Watch「TIME MOVES WITH YOU」：表盘弧线锁动势** — 瑞士极简 4:5 产品海报：巨字 TIME 垫底，表盘 circuar motion trail 把运动员动作焊进「时间在动」。3C/运动穿戴 KV 可直接改品牌。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2101978790704656819)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -1090,8 +1184,6 @@ BOTTOM FEATURE STRIP:
 ```
 
   </details>
-
-- **旧写真翻新：上下 1:1 双画面海报** — 上半保留原片只做高级感调色，下半用 Image 2.5 重优化——把旧相册变成可发社媒的竖版双联。人像复古翻新可抄结构。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2101951659278848179) · [prompt](https://x.com/sereinworld/status/2101951665058578920)
 
 - **单人像一键四联海报：SIGNAL/MOTION/ECHO/MINT** — 同一肖像同一视觉系统，一口气出四种版式：竖排叠字、切片错位、镜像回声、巨型字母嵌脸。时装社论/封面连更直接抄，9:16 分开发不要拼成一张。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101971646999363637)
   <details>
@@ -1217,6 +1309,8 @@ Quality control and structured exclusions: photoreal only inside the image area,
 ```
 
   </details>
+
+- **旧写真翻新：上下 1:1 双画面海报** — 上半保留原片只做高级感调色，下半用 Image 2.5 重优化——把旧相册变成可发社媒的竖版双联。人像复古翻新可抄结构。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2101951659278848179)
 
 - **冷门菜可填槽：食材溯源网汇聚到终盘** — $DISH 槽位塞四国冷门菜；中心终盘写真，四周按比例粗细的溯源辐条（产地→市场→餐桌）。美食科普长图/信息图母版，换菜即新片。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2101941248022249841)
   <details>
@@ -4204,6 +4298,77 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **蜜杏照春颜：古风富养美妆人像可返图** — 琥珀蜜杏玻璃妆 + 蜜杏襦/奶油裙/湖蓝披帛，春日妆阁窗光。古风美妆封面完整中文提示，欢迎返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102018446624227531)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+9:16 竖版，古风富养系明亮美妆写真，真实摄影质感，年轻成年东方女性坐在明亮古典妆阁内，身体正面自然朝向镜头，肩颈放松，姿态端庄柔和，一只手轻抬至耳侧整理耳饰，另一只手自然搭在腿前与妆台边缘，眼神直接而温柔地看向镜头，带轻微笑意，整体呈现甜贵、温润、明媚、精致的富养大小姐气质。
+
+人物视觉年龄约 20–28 岁，明确成年，柔和精致鹅蛋脸，额头自然饱满，面中丰盈，轮廓柔润流畅。清亮修长杏眼，眼裂自然拉长，眼尾轻微上扬，眼神清澈有光；眉形舒展精致；鼻梁秀气流畅，鼻尖小巧；唇形柔美丰润，唇珠自然清晰。五官精致耐看，不幼态、不网红脸、不欧美化。
+
+妆容为 琥珀蜜杏玻璃妆：清透奶油感底妆，肤色白皙细腻但保留真实皮肤纹理；眼妆使用蜜杏橙、暖桃棕与琥珀细闪渐层晕染，眼中与卧蚕加入细腻珠光；睫毛纤长分明；面中与苹果肌使用明显但柔和的暖桃腮红，鼻尖轻微泛红；鼻梁、鼻尖、面中与唇峰带细腻水光高光；唇妆为清透杏橘玻璃唇，水润有光泽但不过分油亮。
+
+乌黑长发蓬松半挽，顶部发量丰盈，后方长发自然垂落。发饰使用 琥珀珠花、珍珠发梳、浅金蝴蝶小钗、琥珀珠串与细金流苏，发饰精致华美但不夸张。耳饰为琥珀珠与珍珠垂坠耳饰，与妆容形成统一但不过度同色的层次。
+
+服装为 蜜杏橙短襦 / 抹胸式内层 + 奶油白高腰长裙 + 浅湖蓝轻纱披帛。蜜杏橙上衣带精细白金花卉刺绣与珍珠滚边，胸前结构精致，人物上围自然丰润，胸线清晰但不过度夸张；奶油白裙身带浅金刺绣，浅湖蓝披帛轻薄通透，带细密花纹与浅金线绣，形成清爽冷暖对比。腰间配浅金珠饰与琥珀垂坠配件，整体服装华丽精致、有富养感。
+
+场景为 明亮妆阁 / 奶白花墙 / 浅木家具 / 金色妆镜 / 琥珀色玻璃器皿 / 白色花枝 / 浅蓝天空窗景。背景不复杂，暖白、浅木、奶油白与浅湖蓝共同平衡蜜杏橙，避免整图泛黄或泛橙。妆台上可见少量琥珀色香水瓶、珍珠首饰与金色小器皿，细节精致但不喧宾夺主。
+
+光线采用明亮柔和的春日暖白自然窗光，从侧前方进入，面部与肩颈有柔和高光，发丝带轻微金色边缘光。肤色必须保持干净白皙，橙色服装不得反射染黄皮肤。整体画面明亮、清透、鲜活，色彩有饱和度但不过艳。
+
+85mm 人像镜头，浅景深，面部精准对焦，真实摄影感，细腻自然肌肤纹理，真实毛孔与轻微绒毛，避免塑料皮和CG质感，高完成度古风贵女美妆封面。
+```
+
+  </details>
+
+- **便利店 1:13 AM：GINZA×Y2K 直闪 CCD 人像** — 日式生活方式社论 × 消费级数码机直闪 × 偶得构图。夜便利店棚灯+冰箱青光，时尚写真要「像翻到旧相机里的一张」。 [@exabell_](https://x.com/exabell_) · [原帖](https://x.com/exabell_/status/2101988836830244985)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Prompt: CONVENIENCE STORE AT 1:13 AM
+
+GINZA Magazine-inspired Japanese lifestyle fashion editorial × early-2000s Y2K consumer compact digital camera × Korean female idol × raw documentary-fashion hybrid × found photograph aesthetic.
+
+The image must feel like a real photograph discovered inside an old digital camera rather than a deliberately retro-styled AI image.
+
+Japanese urban lifestyle sensibility, understated fashion intelligence, quiet observational storytelling, mundane everyday environment transformed into subtle fashion imagery.
+
+A beautiful young adult Korean female idol standing inside a small Japanese convenience store late at night, casually holding a bottled milk drink while looking directly into the camera.
+
+She wears a faded navy oversized zip hoodie over a white fitted ribbed tank top, low-rise charcoal mini skirt, worn sneakers, tiny silver shoulder bag and thin silver necklace.
+
+Long platinum-blonde hair, slightly messy straight bangs, loose strands around her face.
+
+Soft Korean-Japanese makeup, natural flushed cheeks, subtle taupe eyeshadow, soft pink lips, realistic visible pores.
+
+She stands between narrow convenience-store aisles, refrigerators glowing behind her, shelves of snacks and drinks creating visual clutter.
+
+Photographed extremely close with a late-2000s consumer compact digital camera, 30mm equivalent, ISO 640, f/3.2.
+
+DIRECT ON-CAMERA FLASH, slightly harsh frontal flash, realistic specular highlights on skin and packaging, warm fluorescent ambient light mixing with cooler refrigerator illumination.
+
+Slightly imperfect white balance, clipped highlights on reflective packaging, darker corners, subtle digital noise, mild chromatic aberration, slight edge softness.
+
+The framing feels accidental: part of a shelf enters the foreground, one product is slightly cropped, subject not perfectly centered.
+
+GINZA-inspired quiet Japanese lifestyle sensibility, understated fashion intelligence, raw documentary observation.
+
+LUT: Warm Convenience Digital / muted highlights / fluorescent contamination
+Harmony: navy × white × charcoal × refrigerator cyan
+sRef: [Y2K-COMPACT-SREF]
+Tokens: found photograph, direct flash, consumer digital, mundane location, incidental framing, not retro filter. 
+Real photograph, not AI fashion campaign.
+
+3:4 portrait.
+
+NEGATIVE:
+studio lighting, beauty campaign, luxury advertising, perfect symmetry, HDR, smartphone photography, cinematic teal orange, plastic skin, excessive bokeh, flawless skin, CGI, illustration, anime, overly posed idol photoshoot.
+```
+
+  </details>
+
 - **海滩 AI UGC JSON：9:16 超写实自拍母版** — 伞下紫天幕、晒痕皮肤、铂金寸头、运动墨镜——完整 JSON 锁构图/肤质/纹身/光影。MakeUGC 向种草自拍直接丢。 [@georgesttock](https://x.com/georgesttock) · [原帖](https://x.com/georgesttock/status/2101974959807406501)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -4305,65 +4470,6 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
   "aspect_ratio": "9:16",
   "quality": "high detail, realistic skin, hair, and tattoo texture, natural color grading, no exaggerated anatomy"
 }
-```
-
-  </details>
-
-- **便利店 1:13 AM：GINZA×Y2K 直闪 CCD 人像** — 日式生活方式社论 × 消费级数码机直闪 × 偶得构图。夜便利店棚灯+冰箱青光，时尚写真要「像翻到旧相机里的一张」。 [@exabell_](https://x.com/exabell_) · [原帖](https://x.com/exabell_/status/2101988836830244985)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-Prompt: CONVENIENCE STORE AT 1:13 AM
-
-GINZA Magazine-inspired Japanese lifestyle fashion editorial × early-2000s Y2K consumer compact digital camera × Korean female idol × raw documentary-fashion hybrid × found photograph aesthetic.
-
-The image must feel like a real photograph discovered inside an old digital camera rather than a deliberately retro-styled AI image.
-
-Japanese urban lifestyle sensibility, understated fashion intelligence, quiet observational storytelling, mundane everyday environment transformed into subtle fashion imagery.
-
-A beautiful young adult Korean female idol standing inside a small Japanese convenience store late at night, casually holding a bottled milk drink while looking directly into the camera.
-
-She wears a faded navy oversized zip hoodie over a white fitted ribbed tank top, low-rise charcoal mini skirt, worn sneakers, tiny silver shoulder bag and thin silver necklace.
-
-Long platinum-blonde hair, slightly messy straight bangs, loose strands around her face.
-
-Soft Korean-Japanese makeup, natural flushed cheeks, subtle taupe eyeshadow, soft pink lips, realistic visible pores.
-
-She stands between narrow convenience-store aisles, refrigerators glowing behind her, shelves of snacks and drinks creating visual clutter.
-
-Photographed extremely close with a late-2000s consumer compact digital camera, 30mm equivalent, ISO 640, f/3.2.
-
-DIRECT ON-CAMERA FLASH, slightly harsh frontal flash, realistic specular highlights on skin and packaging, warm fluorescent ambient light mixing with cooler refrigerator illumination.
-
-Slightly imperfect white balance, clipped highlights on reflective packaging, darker corners, subtle digital noise, mild chromatic aberration, slight edge softness.
-
-The framing feels accidental: part of a shelf enters the foreground, one product is slightly cropped, subject not perfectly centered.
-
-GINZA-inspired quiet Japanese lifestyle sensibility, understated fashion intelligence, raw documentary observation.
-
-LUT: Warm Convenience Digital / muted highlights / fluorescent contamination
-Harmony: navy × white × charcoal × refrigerator cyan
-sRef: [Y2K-COMPACT-SREF]
-Tokens: found photograph, direct flash, consumer digital, mundane location, incidental framing, not retro filter. 
-Real photograph, not AI fashion campaign.
-
-3:4 portrait.
-
-NEGATIVE:
-studio lighting, beauty campaign, luxury advertising, perfect symmetry, HDR, smartphone photography, cinematic teal orange, plastic skin, excessive bokeh, flawless skin, CGI, illustration, anime, overly posed idol photoshoot.
-```
-
-  </details>
-
-- **偷拍模糊感：夜间人行道运动模糊公式** — 手持抖动、重影、过曝高光、不完美构图——故意拍坏的 UGC 美学，附负面提示防身份复刻。种草「假偷拍」一条中文公式够用。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2101902908178776196)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-超现实主义偷拍智能手机照片，3:4纵向。原版不可识别的年轻女子在夜间雅加达人行道上，靠着白色瓷砖墙。中途行走，半侧脸，转身带着害羞微笑，手朝相机举起。闪光灯在运动中触发，强烈手持抖动，严重的运动模糊，重影，条纹状瓷砖，深邃阴影，过曝高光，不完美构图，原始意外快照，真实的噪点手机摄影美学。
-
-负面提示：身份匹配，面部复制，真实人物复制，动漫，插图，绘画，CGl，风格化，工作室灯光，美颜灯光，锐利焦点，光滑皮肤，摆拍肖像，时尚编辑，电影感，单反相机，三脚架，专业摄影
 ```
 
   </details>
@@ -4875,6 +4981,18 @@ Generate ONE continuous 12-second vertical video. Only Rei rotates during transf
 Keep Rei's facial identity, natural body proportions, hair and bangs throughout. Clothing changes must not alter her face, age, body shape, hair color or hair length. No generated speech or music.
 
 完整 Shot 1–7 时码与城市 UI 标签见原帖长文。
+```
+
+  </details>
+
+- **偷拍模糊感：夜间人行道运动模糊公式** — 手持抖动、重影、过曝高光、不完美构图——故意拍坏的 UGC 美学，附负面提示防身份复刻。种草「假偷拍」一条中文公式够用。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2101902908178776196)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+超现实主义偷拍智能手机照片，3:4纵向。原版不可识别的年轻女子在夜间雅加达人行道上，靠着白色瓷砖墙。中途行走，半侧脸，转身带着害羞微笑，手朝相机举起。闪光灯在运动中触发，强烈手持抖动，严重的运动模糊，重影，条纹状瓷砖，深邃阴影，过曝高光，不完美构图，原始意外快照，真实的噪点手机摄影美学。
+
+负面提示：身份匹配，面部复制，真实人物复制，动漫，插图，绘画，CGl，风格化，工作室灯光，美颜灯光，锐利焦点，光滑皮肤，摆拍肖像，时尚编辑，电影感，单反相机，三脚架，专业摄影
 ```
 
   </details>

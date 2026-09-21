@@ -4874,5 +4874,126 @@
     "author": "Project_VLA",
     "url": "https://x.com/Project_VLA/status/2101915075267150283",
     "category": "选型评测"
+  },
+  {
+    "id": "2101982659190653032",
+    "title": "Sunburst 参考图逼真法：TikTok 截帧锁摄影感",
+    "blurb": "裸 prompt 易变 AI slop；先从真实视频截氛围参考再喂 Sunburst，姿势不必一样。写实选型的可抄流程，比再堆形容词管用。",
+    "author": "Mho_23",
+    "url": "https://x.com/Mho_23/status/2101982659190653032",
+    "category": "选型评测",
+    "prompt": "模型：GPT Images 2.5 Sunburst（写实首选；裸 prompt 容易变 AI slop）\n\n方法：参考图 prompting，而不是纯文字硬写\n1. 找一张「氛围对」的真实参考（姿势不必一样，要真实摄影感）\n2. 去 TikTok 搜目标场景（如 person walking on street / UGC in room），从真实视频截帧；Pinterest 已被 AI 图淹没\n3. 把该帧作为 reference 丢进 Sunburst\n4. 再写详细 prompt：长相、穿搭、动作、环境全写死\n\n要点：Sunburst 会新建一张图，但保留参考图的真实摄影特征——这是「看不出是 AI」的关键。"
+  },
+  {
+    "id": "2101955771630297443",
+    "title": "Image2 发丝锯齿→2.5 手修前后对照",
+    "blurb": "gpt-image-2 头发ガビガビ，丢进 2.5 用手修直接救回。发丝/细节翻车时别重抽——换型号手修往往更快。",
+    "author": "hogezawa",
+    "url": "https://x.com/hogezawa/status/2101955771630297443",
+    "category": "选型评测"
+  },
+  {
+    "id": "2101929747664003197",
+    "title": "Sketch 锁版 + Comments 只改一处 + Templates 出初稿",
+    "blurb": "改到第三次构图也毁了？用 Sketch 锁版面、Comments 定点改、Templates 先有草稿，再配「保留一切、每轮只改一件事」。10 分钟出宣传图的编辑优先心法。",
+    "author": "udhk_official",
+    "url": "https://x.com/udhk_official/status/2101929747664003197",
+    "category": "Sketch",
+    "playbook": "https://www.ud.hk/zh-Hant/blogs/insight/article/chatgpt-images-25-sketch-guide-2026-09-10"
+  },
+  {
+    "id": "2101978790704656819",
+    "title": "Apple Watch「TIME MOVES WITH YOU」：表盘弧线锁动势",
+    "blurb": "瑞士极简 4:5 产品海报：巨字 TIME 垫底，表盘 circuar motion trail 把运动员动作焊进「时间在动」。3C/运动穿戴 KV 可直接改品牌。",
+    "author": "Diplomeme",
+    "url": "https://x.com/Diplomeme/status/2101978790704656819",
+    "category": "海报排版",
+    "prompt": "APPLE WATCH SERIES 12 — “TIME MOVES WITH YOU”\n4:5 vertical premium poster, 8K, bold commercial layout × Swiss minimalism × photorealistic product advertising\n🧠 CORE IDEA:\n“TIME, IN MOTION.”\n🎬 LAYOUT:\nBACKGROUND BLOCK:\nLarge rounded rectangle in clean Apple white with a subtle silver gradient and soft architectural shadows\nGIANT TYPOGRAPHY:\n“TIME”\nbold, oversized, cropped, sitting behind subject and product\n👤 SUBJECT:\nAthletic young adult in motion on a professional tennis court\nApple Watch Series 12 clearly visible on wrist\nnatural movement, realistic skin and fabric\npremium commercial sports photography\n⌚ PRODUCT + CONCEPTUAL TWIST:\nApple Watch Series 12 becomes the visual center of the action →\nA precise circular motion trail extends from the watch face around the athlete:\n* thin metallic arc\n* subtle translucent rings\n* perfectly controlled geometry\n* realistic reflections\n* no fantasy effects\nThe circular form visually connects time, movement, and the athlete’s motion while keeping the watch completely photorealistic.\n✨ GRAPHIC ELEMENTS:\n* minimal geometric ticks\n* thin measurement lines\n* subtle metallic reflections\n* small typographic annotations\n* generous negative space\n✍️ TEXT SYSTEM:\nTop pill:\n“Apple Watch Series 12”\nSmall text:\n“Designed for movement.”\nBOTTOM FEATURE STRIP:\n* Advanced Fitness Tracking\n* Heart Rate Monitoring\n* Workout Insights\n* All-Day Wear"
+  },
+  {
+    "id": "2101951659278848179",
+    "title": "旧写真翻新：上下 1:1 双画面海报",
+    "blurb": "上半保留原片只做高级感调色，下半用 Image 2.5 重优化——把旧相册变成可发社媒的竖版双联。人像复古翻新可抄结构。",
+    "author": "sereinworld",
+    "url": "https://x.com/sereinworld/status/2101951659278848179",
+    "category": "海报排版"
+  },
+  {
+    "id": "2101974959807406501",
+    "title": "海滩 AI UGC JSON：9:16 超写实自拍母版",
+    "blurb": "伞下紫天幕、晒痕皮肤、铂金寸头、运动墨镜——完整 JSON 锁构图/肤质/纹身/光影。MakeUGC 向种草自拍直接丢。",
+    "author": "georgesttock",
+    "url": "https://x.com/georgesttock/status/2101974959807406501",
+    "category": "人像角色",
+    "prompt": "{\n  \"shot_type\": \"Vertical smartphone selfie-style portrait, casual beach lifestyle aesthetic\",\n  \"canvas\": {\n    \"orientation\": \"portrait\",\n    \"aspect_ratio\": \"9:16\",\n    \"framing\": \"Close medium portrait crop from top of head to mid-chest\",\n    \"subject_alignment\": \"Centered, angled three-quarter profile\",\n    \"perspective\": \"Natural wide-angle smartphone front-camera perspective, taken from a slightly low angle looking up\"\n  },\n  \"scene\": {\n    \"location\": \"Outdoor beachside café or boardwalk seating area\",\n    \"time_of_day\": \"Midday, bright direct sunlight\",\n    \"mood\": \"Casual, relaxed, sun-drenched beach atmosphere\",\n    \"environment\": {\n      \"canopy\": \"Large purple canvas umbrella with dark metal ribs directly overhead, partially cropping the top of frame\",\n      \"background_left\": \"A second striped umbrella and a wooden café table where another person sits, blurred and out of focus\",\n      \"background_right\": \"Palm trees, a wooden trash receptacle, distant beach chairs, and a paved stone walkway leading toward the shoreline\",\n      \"sky\": \"Bright hazy blue sky visible in small gaps between the umbrella and buildings\",\n      \"ocean\": \"A thin strip of turquoise ocean and pale sand visible far in the background on the left side\"\n    }\n  },\n  \"subject\": {\n    \"description\": \"Young man in his late 20s, angled in profile with his face turned to the right, looking off toward the middle distance\",\n    \"position\": \"Positioned lower-center in frame, shoulders and upper chest filling the lower half\",\n    \"pose\": {\n      \"head\": \"Turned in three-quarter profile, chin slightly lifted\",\n      \"shoulders\": \"One shoulder raised slightly closer to the camera due to the selfie angle\",\n      \"posture\": \"Relaxed, seated\"\n    },\n    \"expression\": {\n      \"overall\": \"Calm, composed, slightly focused\",\n      \"mouth\": \"Lips slightly parted as if mid-breath or mid-sentence\",\n      \"gaze\": \"Directed off to the side, not toward the camera\",\n      \"emotion\": \"Relaxed confidence\"\n    },\n    \"skin\": {\n      \"tone\": \"Deeply tanned olive-bronze skin\",\n      \"finish\": \"Natural matte-to-slight sheen typical of sun exposure and light perspiration\",\n      \"texture\": \"Realistic visible pores, natural fine lines, light natural sheen across the forehead and nose bridge\",\n      \"highlights\": \"Bright sunlit highlight along the cheekbone, nose, and shoulder\"\n    },\n    \"face\": {\n      \"shape\": \"Angular with a strong defined jawline\",\n      \"cheekbones\": \"High and prominent\",\n      \"jaw\": \"Sharp, squared\",\n      \"brow\": \"Slightly furrowed, faint natural forehead lines visible from the angle\",\n      \"facial_hair\": \"Short, dense, well-groomed dark stubble covering the jaw, chin, and upper lip, slightly thicker along the mustache and chin\",\n      \"nose\": \"Straight, moderately defined bridge\",\n      \"lips\": \"Medium fullness, natural warm pink-brown tone, slightly parted\",\n      \"ear\": \"Visible in profile, small silver hoop-style hardware not present, ear otherwise bare aside from the earbud\"\n    }\n  },\n  \"hair\": {\n    \"color\": \"Bleached platinum-blonde with a slightly warm ashy undertone\",\n    \"length\": \"Very short buzzed crop\",\n    \"texture\": \"Densely textured, slightly spiky natural texture typical of short bleached hair\",\n    \"part\": \"No visible part, uniform short length across the scalp\",\n    \"roots\": \"Faint natural darker regrowth shadow near the scalp\",\n    \"styling\": \"Natural, unstyled, slightly tousled from wind and heat\"\n  },\n  \"eyewear\": {\n    \"type\": \"Wraparound sport sunglasses\",\n    \"frame_color\": \"White frame with black temple arms\",\n    \"lens_color\": \"Dark mirrored silver-grey lenses\",\n    \"fit\": \"Wrapped closely around the temples, resting on the bridge of the nose\",\n    \"reflection\": \"Faint reflection of the surrounding beach environment visible in the lens surface\",\n    \"branding\": \"No visible brand text or logo\"\n  },\n  \"accessories\": {\n    \"earbuds\": \"Single white wireless earbud with a visible stem, worn in the ear closest to the camera\",\n    \"necklace\": \"Thin silver chain necklace resting against the collarbone, mostly obscured by the tattoo\",\n    \"drink\": \"A white drinking straw visible at the very bottom edge of frame, held near chest height\"\n  },\n  \"tattoos\": {\n    \"chest_and_shoulder\": \"Large detailed black ink tattoo covering the chest and shoulder, featuring botanical vine and leaf linework, a stylized flower design lower on the chest, and additional abstract linework extending toward the shoulder\",\n    \"neck\": \"A short vertical script-style tattoo visible on the side of the neck near the collarbone\",\n    \"style\": \"Fine linework, moderate density, natural fading suggesting the tattoo has some age\"\n  },\n  \"body\": {\n    \"build\": \"Lean and muscular\",\n    \"visible_area\": \"Bare shoulders, chest, and upper torso\",\n    \"skin_detail\": \"Fine natural sheen from heat and light perspiration, visible muscle definition across the shoulder and chest\"\n  },\n  \"lighting\": {\n    \"type\": \"Bright natural harsh midday sunlight\",\n    \"primary_source\": \"Direct overhead sun, partially filtered by the umbrella canopy\",\n    \"direction\": \"From above and slightly behind, casting a defined shadow line across part of the face and neck\",\n    \"quality\": \"High contrast between sunlit and shaded areas\",\n    \"highlights\": \"Strong specular highlight on the cheekbone, nose bridge, and shoulder\",\n    \"shadow_style\": \"Hard-edged natural shadow along the jaw and neck from the umbrella's edge\",\n    \"color_temperature\": \"Warm daylight with slightly cool ambient fill from the surrounding sky and umbrella shade\"\n  },\n  \"style\": \"Ultra-realistic, photorealistic, authentic candid smartphone selfie aesthetic, natural skin texture with visible pores and sheen, no digital smoothing, no plastic-looking skin\",\n  \"aspect_ratio\": \"9:16\",\n  \"quality\": \"high detail, realistic skin, hair, and tattoo texture, natural color grading, no exaggerated anatomy\"\n}"
+  },
+  {
+    "id": "2101988836830244985",
+    "title": "便利店 1:13 AM：GINZA×Y2K 直闪 CCD 人像",
+    "blurb": "日式生活方式社论 × 消费级数码机直闪 × 偶得构图。夜便利店棚灯+冰箱青光，时尚写真要「像翻到旧相机里的一张」。",
+    "author": "exabell_",
+    "url": "https://x.com/exabell_/status/2101988836830244985",
+    "category": "人像角色",
+    "prompt": "Prompt: CONVENIENCE STORE AT 1:13 AM\n\nGINZA Magazine-inspired Japanese lifestyle fashion editorial × early-2000s Y2K consumer compact digital camera × Korean female idol × raw documentary-fashion hybrid × found photograph aesthetic.\n\nThe image must feel like a real photograph discovered inside an old digital camera rather than a deliberately retro-styled AI image.\n\nJapanese urban lifestyle sensibility, understated fashion intelligence, quiet observational storytelling, mundane everyday environment transformed into subtle fashion imagery.\n\nA beautiful young adult Korean female idol standing inside a small Japanese convenience store late at night, casually holding a bottled milk drink while looking directly into the camera.\n\nShe wears a faded navy oversized zip hoodie over a white fitted ribbed tank top, low-rise charcoal mini skirt, worn sneakers, tiny silver shoulder bag and thin silver necklace.\n\nLong platinum-blonde hair, slightly messy straight bangs, loose strands around her face.\n\nSoft Korean-Japanese makeup, natural flushed cheeks, subtle taupe eyeshadow, soft pink lips, realistic visible pores.\n\nShe stands between narrow convenience-store aisles, refrigerators glowing behind her, shelves of snacks and drinks creating visual clutter.\n\nPhotographed extremely close with a late-2000s consumer compact digital camera, 30mm equivalent, ISO 640, f/3.2.\n\nDIRECT ON-CAMERA FLASH, slightly harsh frontal flash, realistic specular highlights on skin and packaging, warm fluorescent ambient light mixing with cooler refrigerator illumination.\n\nSlightly imperfect white balance, clipped highlights on reflective packaging, darker corners, subtle digital noise, mild chromatic aberration, slight edge softness.\n\nThe framing feels accidental: part of a shelf enters the foreground, one product is slightly cropped, subject not perfectly centered.\n\nGINZA-inspired quiet Japanese lifestyle sensibility, understated fashion intelligence, raw documentary observation.\n\nLUT: Warm Convenience Digital / muted highlights / fluorescent contamination\nHarmony: navy × white × charcoal × refrigerator cyan\nsRef: [Y2K-COMPACT-SREF]\nTokens: found photograph, direct flash, consumer digital, mundane location, incidental framing, not retro filter. \nReal photograph, not AI fashion campaign.\n\n3:4 portrait.\n\nNEGATIVE:\nstudio lighting, beauty campaign, luxury advertising, perfect symmetry, HDR, smartphone photography, cinematic teal orange, plastic skin, excessive bokeh, flawless skin, CGI, illustration, anime, overly posed idol photoshoot."
+  },
+  {
+    "id": "2101902908178776196",
+    "title": "偷拍模糊感：夜间人行道运动模糊公式",
+    "blurb": "手持抖动、重影、过曝高光、不完美构图——故意拍坏的 UGC 美学，附负面提示防身份复刻。种草「假偷拍」一条中文公式够用。",
+    "author": "sereinworld",
+    "url": "https://x.com/sereinworld/status/2101902908178776196",
+    "category": "人像角色",
+    "prompt": "超现实主义偷拍智能手机照片，3:4纵向。原版不可识别的年轻女子在夜间雅加达人行道上，靠着白色瓷砖墙。中途行走，半侧脸，转身带着害羞微笑，手朝相机举起。闪光灯在运动中触发，强烈手持抖动，严重的运动模糊，重影，条纹状瓷砖，深邃阴影，过曝高光，不完美构图，原始意外快照，真实的噪点手机摄影美学。\n\n负面提示：身份匹配，面部复制，真实人物复制，动漫，插图，绘画，CGl，风格化，工作室灯光，美颜灯光，锐利焦点，光滑皮肤，摆拍肖像，时尚编辑，电影感，单反相机，三脚架，专业摄影"
+  },
+  {
+    "id": "2102020479758246280",
+    "title": "东方文化海报四主题：笔毫/青瓷螺旋/金箔/印面留白",
+    "blurb": "远看大形、近看材质：毫端成意、一坯旋成、一箔成光、方寸成章。传统工艺/品牌视觉/文化海报的留白结构母版，气质比堆纹样更值钱。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2102020479758246280",
+    "category": "海报排版"
+  },
+  {
+    "id": "2102012943433167168",
+    "title": "Nike Blueprint：黑白产品解构广告可复用 prompt",
+    "blurb": "羽绒夹克对半拆色 + 技术蓝图叠印 + Design Lab 标注。运动服饰 KV 要「像工程图一样高级」时直接改品牌槽。",
+    "author": "harboriis",
+    "url": "https://x.com/harboriis/status/2102012943433167168",
+    "category": "海报排版",
+    "prompt": "Create a premium high-concept Nike product advertisement poster, square 4:3 ratio, entirely monochrome black and white. “THE BLUEPRINT” — A designer’s technical deconstruction of the Nike down puffer jacket. The jacket is split perfectly in half vertically, revealing two colorways simultaneously. Technical garment construction blueprints are overlaid directly on the jacket fabric. Everything is desaturated — pure black, white, and gray.\n\nYoung male model, approximately early 20s. Short cropped hair, very clean face. Chiseled sharp jaw, high cheekbones. EXPRESSION: intense, direct, unwavering stare straight into camera lens. Zero emotion — stoic, powerful, commanding presence. Lips slightly pressed together, jaw set. Upper body shot — head, shoulders, torso visible down to approximately mid-waist. Face positioned upper-center of frame. Skin tones rendered in rich grayscale — deep contrast, cinematic black and white photography.\n\nNike oversized down puffer jacket, full zip center, hood attached and up, hood framing the head with interior visible as lighter cream tone. The jacket is divided exactly down the center vertical zip/seam into two perfectly mirrored halves.\n\nLeft half: jet black matte panel with white Nike swoosh logo, visible puffer quilting lines, fabric absorbing light.\n\nRight half: off-white or cream panel with black Nike swoosh logo, visible quilting lines, fabric bright and slightly luminous.\n\nThe split is razor sharp and precise at the center zip, both halves identical in silhouette and construction.\n\nTechnical blueprint overlay printed directly on fabric. On black left half: fine white line drawings including grid overlay, garment pattern cutlines, seam lines, measurement boxes, hood arcs, pocket geometry, zipper sketch lines, quilting layout grid. On white right half: fine black line drawings including sleeve seam lines, panel joins, annotation boxes, measurement brackets, fill distribution zones, cuff detail insets. Thin annotation lines extend outward into the background architectural drawings.\n\nHorizontal lines with small annotation text beside them such as:\n“FILL WEIGHT — 550 DOWN CLUSTER”\n“SHELL MATERIAL — RIPSTOP NYLON”\n“SEAM TYPE — FLAT-LOCK STITCH”\n“HOOD DRAFT — STRUCTURED BAFFLED”\n\nRight-side dark text:\n“INSULATION — DUCK DOWN 90/10”\n“WEIGHT — 680G TOTAL GARMENT”\n“TEMP RATING — -15°C CERTIFIED”\n“POCKET SPEC — INTERNAL DROP-IN”\n\nVertical lines include top annotation:\n“COLLAR HEIGHT — 8CM”\nand bottom annotation:\n“LENGTH — CROPPED HIP”\n\nAll annotation text in small, clean monospace technical font with precise hairline rules.\n\nAround the jacket, faint handwritten notes scattered in gray tones, illegible cursive with arrows and circles, organic and spontaneous, fading toward the edges.\n\nBackground is clean neutral mid-gray, slightly darker at corners with subtle vignette. Pure studio environment with no visible distractions.\n\nTop center: small spaced caps white “NIKE DESIGN LAB”\nAbove the title, thin serif italic “The Blueprint”\n\nBottom left: bold condensed sans-serif stacked “BUILT FROM SCRATCH.”\n\nBottom right: technical monospace block:\n“STYLE NO. NK-DWN-026\nCOLORWAY A: ONYX BLACK\nCOLORWAY B: SAIL WHITE\nCONSTRUCTION: BAFFLED DOWN\nNIKE SPORTSWEAR — FW2026”\n\nBottom center: small spaced caps:\n“EVERY GREAT PRODUCT STARTS WITH A LINE ON PAPER”\n\nInfographic callouts include thin outlined rectangles labeled:\n“TECH SPEC 01 — BODY CONSTRUCTION”\n“TECH SPEC 02 — ZIPPER SHELL WIND RESISTANT”\n“TECH SPEC 03 — FLAT-LOCK SEWN NO COLD SPOTS”\nand\n“COLORWAY A/B — ONYX / SAIL”\n\nColor palette strictly monochrome grayscale: jet black, off-white, mid gray.\n\nStyle: Nike premium design editorial campaign, technical blueprint aesthetic with high-fashion black and white photography, photorealistic model, cinematic contrast, luxury sportswear campaign, 8K quality, museum-level poster."
+  },
+  {
+    "id": "2102018446624227531",
+    "title": "蜜杏照春颜：古风富养美妆人像可返图",
+    "blurb": "琥珀蜜杏玻璃妆 + 蜜杏襦/奶油裙/湖蓝披帛，春日妆阁窗光。古风美妆封面完整中文提示，欢迎返图。",
+    "author": "liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2102018446624227531",
+    "category": "人像角色",
+    "prompt": "9:16 竖版，古风富养系明亮美妆写真，真实摄影质感，年轻成年东方女性坐在明亮古典妆阁内，身体正面自然朝向镜头，肩颈放松，姿态端庄柔和，一只手轻抬至耳侧整理耳饰，另一只手自然搭在腿前与妆台边缘，眼神直接而温柔地看向镜头，带轻微笑意，整体呈现甜贵、温润、明媚、精致的富养大小姐气质。\n\n人物视觉年龄约 20–28 岁，明确成年，柔和精致鹅蛋脸，额头自然饱满，面中丰盈，轮廓柔润流畅。清亮修长杏眼，眼裂自然拉长，眼尾轻微上扬，眼神清澈有光；眉形舒展精致；鼻梁秀气流畅，鼻尖小巧；唇形柔美丰润，唇珠自然清晰。五官精致耐看，不幼态、不网红脸、不欧美化。\n\n妆容为 琥珀蜜杏玻璃妆：清透奶油感底妆，肤色白皙细腻但保留真实皮肤纹理；眼妆使用蜜杏橙、暖桃棕与琥珀细闪渐层晕染，眼中与卧蚕加入细腻珠光；睫毛纤长分明；面中与苹果肌使用明显但柔和的暖桃腮红，鼻尖轻微泛红；鼻梁、鼻尖、面中与唇峰带细腻水光高光；唇妆为清透杏橘玻璃唇，水润有光泽但不过分油亮。\n\n乌黑长发蓬松半挽，顶部发量丰盈，后方长发自然垂落。发饰使用 琥珀珠花、珍珠发梳、浅金蝴蝶小钗、琥珀珠串与细金流苏，发饰精致华美但不夸张。耳饰为琥珀珠与珍珠垂坠耳饰，与妆容形成统一但不过度同色的层次。\n\n服装为 蜜杏橙短襦 / 抹胸式内层 + 奶油白高腰长裙 + 浅湖蓝轻纱披帛。蜜杏橙上衣带精细白金花卉刺绣与珍珠滚边，胸前结构精致，人物上围自然丰润，胸线清晰但不过度夸张；奶油白裙身带浅金刺绣，浅湖蓝披帛轻薄通透，带细密花纹与浅金线绣，形成清爽冷暖对比。腰间配浅金珠饰与琥珀垂坠配件，整体服装华丽精致、有富养感。\n\n场景为 明亮妆阁 / 奶白花墙 / 浅木家具 / 金色妆镜 / 琥珀色玻璃器皿 / 白色花枝 / 浅蓝天空窗景。背景不复杂，暖白、浅木、奶油白与浅湖蓝共同平衡蜜杏橙，避免整图泛黄或泛橙。妆台上可见少量琥珀色香水瓶、珍珠首饰与金色小器皿，细节精致但不喧宾夺主。\n\n光线采用明亮柔和的春日暖白自然窗光，从侧前方进入，面部与肩颈有柔和高光，发丝带轻微金色边缘光。肤色必须保持干净白皙，橙色服装不得反射染黄皮肤。整体画面明亮、清透、鲜活，色彩有饱和度但不过艳。\n\n85mm 人像镜头，浅景深，面部精准对焦，真实摄影感，细腻自然肌肤纹理，真实毛孔与轻微绒毛，避免塑料皮和CG质感，高完成度古风贵女美妆封面。"
+  },
+  {
+    "id": "2102005089431122308",
+    "title": "半写实半纸艺：上真图下艺术化编辑海报",
+    "blurb": "上半锁身份姿态的电影感写真，下半撕纸/浮雕纸艺叙事——人物与城市/职业槽可换。旅行/人设社论海报一条母版。",
+    "author": "Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2102005089431122308",
+    "category": "海报排版",
+    "prompt": "Create a premium 4:5 editorial poster using the provided photograph of [PERSON]. The top half is a realistic cinematic photograph, preserving the person’s exact identity, face, pose, clothing, hairstyle, and environment.\n\nThe bottom half transforms the same scene into a beautiful handcrafted layered paper-cut illustration, recreating the person and their world using textured paper, torn edges, embossed layers, subtle shadows, delicate linework, and miniature environmental details representing [THEIR CITY / PROFESSION / HOBBY / JOURNEY].\n\nUse warm ivory paper, muted sophisticated colors, tactile paper grain, elegant serif typography, minimalist supporting text, generous negative space, and a refined luxury travel-editorial aesthetic.\n\nPhotograph above → paper-crafted story below.\nMake the transition seamless, artistic, emotional, and highly recognizable."
+  },
+  {
+    "id": "2101996295141347654",
+    "title": "同 prompt 旅行站首页：Flare vs Sunburst 对照",
+    "blurb": "同一旅行社首页 brief，Flare/Sunburst 两版愿景并排投票。选型别空谈参数——同指令看谁更贴落地页完成度。",
+    "author": "alex_bagnuoli89",
+    "url": "https://x.com/alex_bagnuoli89/status/2101996295141347654",
+    "category": "选型评测"
+  },
+  {
+    "id": "2101992459303850194",
+    "title": "Sunburst 噪点坑：负向提示不能省",
+    "blurb": "昨天零噪点觉得稳，今天偷懒跳过负面提示直接翻车。Sunburst 写实也别裸奔——噪点/纹理约束写进负向更稳。",
+    "author": "Katze_lover",
+    "url": "https://x.com/Katze_lover/status/2101992459303850194",
+    "category": "选型评测"
   }
 ]
