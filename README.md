@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 585 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 588 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -237,13 +237,38 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
+- **同 prompt 四格漫画：Image 2.5 vs Qwen 2.1 排版对比** — 同一套 PAGE/分镜/对白锁压两模：标题带、竖排气泡、页脚水印全写死。漫画选型别空谈画风——先看谁保住分镜几何与文字层级。 [@FURUYAN123456](https://x.com/FURUYAN123456) · [原帖](https://x.com/FURUYAN123456/status/2102015541921878078)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+OUTPUT: Single image. Draw manga directly.
+
+ABSOLUTE TASK: new 4-panel manga page; refs only for identity.
+
+FORMAT:
+PAGE:2:3; title6.5%/font5.5%; panels+gutters91.3%, variable heights; footer2.2%, inset0.6%, no clipping.
+- Top title band: plain white, unframed; EXTRA-BOLD condensed Japanese Gothic.
+- Bubbles: vertical tategaki in regular manga Mincho; never bold Gothic/sans.
+- Watermarks only in footer outside panels.
+
+PROMPT PRIORITY: protect cast/count/identity, exact script, Camera geometry, layout/style/medium.
+CAMERA FIRST: project actors/props from fixed Camera; never relocate for legibility.
+SERIOUS INTENT: preserve emotional causality; no gag/chibi release.
+REFERENCE ROLE: appearance only; no sheet labels/layout/poses.
+
+(同提示词压 GPT Image 2.5 vs Qwen Image 2.1；完整剧本锁与分镜对白见原帖。)
+```
+
+  </details>
+
 - **同 prompt 旅行站首页：Flare vs Sunburst 对照** — 同一旅行社首页 brief，Flare/Sunburst 两版愿景并排投票。选型别空谈参数——同指令看谁更贴落地页完成度。 [@alex_bagnuoli89](https://x.com/alex_bagnuoli89) · [原帖](https://x.com/alex_bagnuoli89/status/2101996295141347654)
 
 - **Sunburst 噪点坑：负向提示不能省** — 昨天零噪点觉得稳，今天偷懒跳过负面提示直接翻车。Sunburst 写实也别裸奔——噪点/纹理约束写进负向更稳。 [@Katze_lover](https://x.com/Katze_lover) · [原帖](https://x.com/Katze_lover/status/2101992459303850194)
 
 - **Sunburst 参考图逼真法：TikTok 截帧锁摄影感** — 裸 prompt 易变 AI slop；先从真实视频截氛围参考再喂 Sunburst，姿势不必一样。写实选型的可抄流程，比再堆形容词管用。 [@Mho_23](https://x.com/Mho_23) · [原帖](https://x.com/Mho_23/status/2101982659190653032)
   <details>
-  <summary>查看 / 复制工作流</summary>
+  <summary>查看 / 复制提示词</summary>
 
 ```
 模型：GPT Images 2.5 Sunburst（写实首选；裸 prompt 容易变 AI slop）
@@ -7738,6 +7763,144 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 ## 电商改图
 
 商品图、局部编辑、包装与货架感。
+
+- **改图十式：先写 keep-list 再点名改什么** — 「make it better」会把你改成路人。十条可复制编辑句：只改背景/锁脸/换光/去路人/只换外套/选区修手/头像裁切/去油光/移产品保标/下一轮只改景深。Images 2.5 更听话，前提是 keep-list 写死。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2102033775752560738)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+upload a photo, paste one prompt per turn:
+
+1. One change
+"Change only the background to a plain warm-gray wall. Keep my face, hair, skin tone, clothes, pose, and camera angle exactly as they are."
+
+2. Face lock
+"Use this upload as the identity reference. Keep the same face, hairline, and age. Put me standing in a quiet office with window light from the left."
+
+3. Left window light
+"Relight this portrait with soft natural light from a window on the left. Keep my face, expression, clothes, and background geometry the same. Do not add a filter look."
+
+4. Remove the extra person
+"Remove the person standing behind my left shoulder. Rebuild the wall and the light as if they were never there. Keep my face, pose, and the rest of the room the same."
+
+5. Wardrobe only
+"Change only the jacket to a navy wool blazer. Keep my face, hair, body shape, pose, background, and lighting the same."
+
+6. Select and fix
+"In the selected area only, remove the object in my hand. Rebuild the hidden fingers and sleeve so they match the rest of the photo. Leave everything outside the selection untouched."
+
+7. Headshot crop
+"Recrop this to a chest-up LinkedIn headshot. Keep my face, expression, and clothing unchanged. Do not restyle my hair or smooth my skin."
+
+8. Shine only
+"Reduce only shine on the forehead and nose. Keep pores, flyaway hair, and skin texture. Do not change my facial features."
+
+9. Product, keep the label
+"Move this product onto a kitchen counter in daylight. Keep the label text, logo, bottle shape, and color exactly as they are."
+
+10. Next turn
+"Keep the last edit. Change only the background blur, as if this was shot on a 50mm lens at f/2. Do not retouch my face or clothes."
+
+OpenAI's image guide: 1-3 clear sentences, and say what stays the same. the keep-list is what makes the edit look like your photo.
+```
+
+  </details>
+
+- **写真级产品 UGC：厨房补剂瓶 JSON 母版** — 整段 JSON 锁「像真的 Instagram 故事」：厨房晨间自拍 + 瓶标朝镜头 + 真实肤质优先于美颜。补剂/美妆种草广告可换瓶换人——别再写「好看的产品图」。 [@Hamzaaadzn](https://x.com/Hamzaaadzn) · [原帖](https://x.com/Hamzaaadzn/status/2102012174239494461)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+{
+  "prompt_type": "photorealistic_ugc_product_shot",
+  "model_behavior": "Generate a single photograph that is indistinguishable from a real smartphone photo posted by an influencer. Prioritize realism over beauty. Every detail should feel captured, not constructed.",
+  "objective": "Casual selfie style photo of a glam, confident woman showing a supplement bottle she genuinely uses, taken in her own kitchen on an ordinary morning. The image must feel like authentic user generated content that could appear in a brand's Instagram stories or a paid social ad without looking like an ad.",
+  "belief_to_prove": "This product is part of the daily routine of someone who clearly takes care of herself, so it is worth trusting",
+  "emotional_tone": "Effortless, confident, a little playful, unbothered, like she is recommending it to a close friend",
+  "subject": {
+    "age": "Mid 20s",
+    "look": "Striking, naturally beautiful woman with a warm olive skin tone and a healthy sun kissed glow",
+    "hair": "Very long dark chocolate brown hair, voluminous, loose tousled waves, slightly messy at the crown, a few strands falling across the shoulders and chest, natural flyaways catching the light",
+    "eyes": "Light green hazel eyes, clear and bright, slightly narrowed in a relaxed way",
+    "brows": "Full, thick, brushed up and groomed, natural shape",
+    "makeup": "Soft full glam: bronzed skin, subtle contour, long fluttery lashes, light brown eyeshadow, glossy nude pink lips, no heavy foundation look",
+    "skin": "Real skin texture visible under the makeup, fine pores on nose and cheeks, faint freckles, slight natural shine on the nose and cheekbones",
+    "nails": "Medium length almond shaped nails in a milky nude pink gloss",
+    "outfit": "Fitted heather grey ribbed cotton tank top with a scoop neckline and thick straps",
+    "jewelry": "Thin gold chain necklace with a small round pendant, small gold hoop earrings, three stacked bracelets on the left wrist: a thin gold chain with a tiny charm, a gold tennis bracelet, and a gold and crystal bangle"
+  },
+  "pose": {
+    "body": "Leaning forward onto a kitchen island, left forearm resting flat on the countertop, shoulders slightly angled toward the camera",
+    "product_hand": "Right hand raised beside her face, holding the bottle between thumb and fingers at cheek height, label facing the camera, fingers relaxed and naturally wrapped around the bottle",
+    "head": "Very slight tilt, chin a touch down, face turned almost straight to the lens",
+    "expression": "Direct eye contact with the camera, lips gently pressed together in a soft pout, calm confident half smile in the eyes"
+  },
+  "product": {
+    "type": "A women's daily supplement bottle",
+    "appearance": "Matte black plastic bottle with a black screw cap, deep navy blue label with a clean serif brand name in white and a short product name underneath",
+    "placement": "Held in the upper right third of the frame next to her face",
+    "details": "Label sharp, legible and facing forward, realistic scale relative to her hand, subtle reflection on the cap from window light, fingers partly overlapping the side of the label"
+  },
+  "setting": {
+    "location": "Real lived in modern apartment kitchen",
+    "left_background": "Tall fridge covered in personal printed photos of beach trips and friends, a few colorful magnets and stickers, a pink kettle or small appliance sitting on top of the fridge",
+    "right_background": "Built in stainless steel oven with a small digital display, flat white handleless cabinets",
+    "foreground": "Grey granite countertop with visible speckles, a few faint smudges, nothing arranged or styled",
+    "walls": "Soft warm white walls and ceiling, a slightly curved ceiling edge"
+  },
+  "camera": {
+    "device": "iPhone rear camera, main lens",
+    "position": "Held by someone standing across the counter at chest height, slightly above her eye line",
+    "angle": "Straight on, subtle downward angle",
+    "framing": "Square 1:1 crop, subject centered, face in the upper middle of the frame, cropped at the waist",
+    "focus": "Sharp focus on the eyes and the product label, background softly out of focus but still readable",
+    "lens_feel": "Slight wide angle perspective typical of a phone camera"
+  },
+  "lighting": {
+    "source": "Bright natural daylight from a large window out of frame to the left",
+    "quality": "Soft and diffused, warm late morning tone",
+    "shadows": "Gentle shadows under the jaw, on the neck and on the right side of the face",
+    "highlights": "Natural highlights on the cheekbones, nose bridge, lips and the jewelry",
+    "no": "No ring light, no flash, no studio strobes, no dramatic rim lighting"
+  },
+  "color_grading": {
+    "palette": "Warm neutrals: cream, soft beige, grey, gold, with the navy product label as the one strong color",
+    "processing": "Standard iPhone processing, slight warmth, mild contrast, true to life skin tones",
+    "saturation": "Natural, slightly muted, not filtered"
+  },
+  "realism_details": {
+    "imperfections": "Visible pores, tiny flyaway hairs, faint creases in the tank top, a small smudge on the countertop, slightly uneven lighting across the frame",
+    "background_life": "Cluttered fridge, magnets not perfectly aligned, photos slightly curled at the corners",
+    "grain": "Light natural sensor noise in the shadows",
+    "motion": "Almost none, a very slight softness in the hair ends"
+  },
+  "text_handling": {
+    "product_label": "Keep brand and product name crisp and readable",
+    "background_text": "Keep any text on stickers and magnets blurred or illegible rather than misspelled"
+  },
+  "output_format": {
+    "aspect_ratio": "1:1",
+    "style": "Photorealistic smartphone photo",
+    "count": 1
+  },
+  "avoid": [
+    "Studio backdrop",
+    "Plastic or airbrushed skin",
+    "Over smoothing and beauty filters",
+    "Perfect facial symmetry",
+    "Extra or fused fingers",
+    "Warped or unreadable product label",
+    "Misspelled text in the background",
+    "Text overlays, captions or logos added on top",
+    "Watermarks",
+    "Cartoon, CGI or illustration look",
+    "Overly posed model energy",
+    "Harsh flash or ring light reflections in the eyes"
+  ]
+}
+```
+
+  </details>
 
 - **产品先于人：海鲜电商俯拍托盘英雄构图** — 略俯视把超大圆形冰鲜托盘怼到镜头前，工人压到画面下半——新鲜感先打脸，人只负责证明「小心搬运」。食品/生鲜 KV 的产品优先层级教科书。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101964323094745493)
   <details>
