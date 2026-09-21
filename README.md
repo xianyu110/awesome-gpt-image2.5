@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 542 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 548 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -238,6 +238,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
 - **同prompt硬刚：Image 2.5 vs Banana vs Qwen 2.1** — 同一提示词三联对照：GPT Image 2.5、Banana、刚开源的 Qwen Image 2.1（7B）。选型别靠嘴炮——并排放大看质感与结构谁先崩。 [@alin_zone](https://x.com/alin_zone) · [原帖](https://x.com/alin_zone/status/2101685588252590123)
+
+- **同图猜谜：Image 2.0 vs Flare Max vs Sunburst Max** — 同一题材四联对照：猜哪个是 2.0、哪个是 Flare Max、哪个是 Sunburst Max。作者观感是 2.0 掉智明显——选型别听安利，先并排放大看结构谁先崩。 [@l200892013](https://x.com/l200892013) · [原帖](https://x.com/l200892013/status/2101655549167468554)
 
 - **夜窗海报硬刚：2 / Sunburst / Flare 同题十二格** — 展览海报 NIGHT WINDOWS：同楼同机位 4×3 夜窗格，邻窗切片+四行小字全对。Image 2 缺邻窗、Sunburst 格线不齐、Flare 中列偏宽——100% 放大看差别；方法与单价在回复。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2100943297103778003)
   <details>
@@ -1011,6 +1013,51 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **自然文化海报四联：书法×色块×风景窗×立体物** — 风迹 / 汲泉 / 苔庭 / 松间：巨幅书法锚点 + 低饱和撕纸色块 + 摄影窗口 + 前景立体实物分层。展览/文化品牌/东方生活方式海报可填槽母版，完整中文模板在回复。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101607866478031056)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【主题】：填写，例如「风迹 / 汲泉 / 苔庭 / 松间」
+【中文主标题】：填写 2–4 个字
+【英文标题】：填写
+【自然主题元素】：填写，例如风、水、苔藓、松木、山石、草穗
+【前景立体实物】：填写，例如石钵、苔石、枯木、薄纸、植物
+【摄影窗口场景】：填写，例如雾中山林、山涧、草坡、松林
+【主色调】：填写低饱和自然色
+【画幅比例】：默认 9:16
+
+生成一张东方自然文化主题的 Editorial Design 艺术海报。
+
+整体采用暖象牙米白艺术纸背景，保留轻微天然纸纤维与克制的印刷颗粒，大面积留白，画面安静、自然、松弛、有文化感。
+
+画面上方或偏右放置巨大的中文手写书法标题【中文主标题】，使用自由、真实、有毛笔提按变化与墨迹浓淡的现代东方书写方式，让中文大字本身成为主要视觉锚点。
+
+搭配纤细优雅的英文 Serif 字体呈现【英文标题】，再加入少量有实际意义的中文短句、英文说明和日期信息，形成“大书法 + 英文标题 + 小字号编辑文字”的信息层级。
+
+画面中部加入一个大型低饱和自然色块，颜色使用【主色调】。色块边缘具有自然撕纸、山体、地形或有机形态感，保持完整清晰的大形，不要拆成大量碎片。
+
+在色块内部开出一个圆形、椭圆形、竖向或不规则自然窗口，窗口中呈现【摄影窗口场景】的真实摄影画面。摄影区域低对比、低饱和、有薄雾和空气透视感，像透过纸张开孔看见另一个真实自然空间。
+
+画面下部加入真实立体的【前景立体实物】，具有真实材质、体积、接触阴影和自然空间关系。
+
+让真实立体物局部遮挡二维色块或摄影窗口，形成明显的前后层次：
+
+艺术纸背景 → 平面色块 → 自然摄影窗口 → 真实立体实物。
+
+主题围绕【自然主题元素】展开，让所有视觉元素共同表达一个清楚的自然概念，而不是简单堆砌装饰。
+
+整体版式采用不对称 Editorial Design，文字散落在留白区域，可以加入少量纵向排版、边缘排版和超小字号信息，但所有文字都应具有真实意义。
+
+配色控制在暖米白、低饱和自然主题色、石灰灰、灰褐、墨褐等范围，整体哑光、柔和、稳定，不使用高饱和颜色。
+
+保留轻微 Offset Print、艺术纸、手工印刷与纸本出版物质感，但不要过度做旧。
+
+最终效果应像真正完成的自然文化展览海报：远看首先看到巨大书法标题、完整色块和清楚的立体自然物，近看才发现摄影窗口、小型文字与材质细节。
+```
+
+  </details>
 
 - **比萨斜塔测绘四联：可换城市 master prompt** — 上半真景、下半 USGS 式等高线测绘重建，四板密度轴可调。换 {STRUCTURE}/{CITY} 就能给自家城市出一套收藏级建筑海报——Sunburst 4K 模板。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2100914552682450985)
   <details>
@@ -3936,6 +3983,52 @@ COMPOSITION — one single wide 16:9 image. Left 60%: front view, 90-degree side
 
   </details>
 
+- **GTA VI 双人角色圣经表→Seedance 短片** — Image 2.5 先出 Lucia & Jason 对半分屏角色圣经表（水彩色块 + 中置 Logo + 枪械英雄构图），再整表喂 Seedance 2.5 出动作短片。开放世界角色资产→成片一条链。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2101678764358762621)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium cinematic character bible sheet for LUCIA & JASON. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance.
+
+LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center.
+
+LEFT SIDE — LUCIA: Coral pink and turquoise watercolor splash behind her fading into center. Large bold brushstroke text LUCIA top left in coral pink. Below small text: THE RISK / VICE CITY. One massive dramatic cropped hero image of Lucia from mid-thigh up — tight white crop top, very short denim shorts, gold hoop earrings, gold chain necklace, black duffel bag over shoulder with cash spilling out, gun raised, fearless confident expression locked toward the center.
+
+CENTER: Bold dramatic GTA VI logo in deep black, slightly worn and cinematic. Below it small text: VICE CITY. ONE JOB. NO MERCY.
+
+RIGHT SIDE — JASON: Golden yellow and hot orange watercolor splash behind him fading into center. Large bold brushstroke text JASON top right in golden yellow. Below small text: THE MUSCLE / VICE CITY. One massive dramatic cropped hero image of Jason from mid-thigh up — dark olive tropical shirt open at chest, dark shorts, silver watch, black duffel bag over shoulder with cash spilling out, gun raised, calm dangerous expression locked toward the center.
+
+BOTTOM CENTER: Color palette — coral pink, turquoise, golden yellow, hot orange, white. Tagline centered: WELCOME TO VICE CITY.
+
+OVERALL: Clean white background, watercolor splashes per side, bold dramatic GTA VI center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+
+【成片】再把角色表喂 Seedance 2.5 出动作短片（原帖同串）。
+```
+
+  </details>
+
+- **身份锁潜行喜剧：Image2.5+Seedance on Higgsfield** — 一张上传照死锁主角脸与衣装，再喂 Seedance 2.5 跑 30s 办公室潜行物理喜剧（HUD + 韩语对白）。CHARACTER LOCK 优先于剧情——短片管线里「别换脸」怎么写死，看这一帖。 [@oggii_0](https://x.com/oggii_0) · [原帖](https://x.com/oggii_0/status/2101592948148502928)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Made with Seedance 2.5 + GPT Image 2.5 on Higgsfield
+
+Use exactly 1 uploaded image: @Image1.
+
+CHARACTER LOCK HIGHEST PRIORITY
+@Image1 is the ONLY reference for the lead. Preserve exact visible face, identity, facial proportions, skin tone, body proportions, hair color/style/length/bangs/accessories, clothing, shoes, and visible accessories. She must look like the same real adult woman filmed again.
+No face swap, duplicate, plastic/AI skin, anime, CGI, or 3D appearance. Do not change hairstyle, hair color, outfit, or accessories.
+
+30 seconds | 16:9 | native 4K | 24fps | hyper-realistic live-action third-person gameplay with GTA-style English HUD and natural Korean dialogue only.
+
+Keep supporting characters completely distinct (faces, ages, bodies, outfits). One continuous office floor route. Exactly one hard cut near the end. No BGM / subtitles / narration / watermark.
+
+完整 30s 办公室潜行喜剧分镜、HUD 与物理约束见原帖长文。
+```
+
+  </details>
+
 - **写真→水彩墨线涂鸦：构图死锁风格重绘** — 上传参考锁构图/姿势/叙事，整图改成童趣水彩墨线速写：颤抖线压、克制色块、速写本留白。种草图变插画封面的可抄 must-stay 配方。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100943841427914827)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -6514,6 +6607,42 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **玻璃切片观察窗：时尚美妆产品战役海报** — 上下两人对内凝视 + 中间信息带，只在局部网格叠真实光学玻璃（折射/位移/选择性锐化）。眼罩、手表、耳机、香氛都测过——高定时尚/美妆/产品 KV 可直接换品牌槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101644997460213894)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Brand: [BRAND NAME]
+Product: [PRODUCT]
+Theme: [CAMPAIGN THEME]
+Accent palette: [COLOR PALETTE]
+Product details: [MATERIAL / FEATURES]
+
+Create a premium 9:16 editorial campaign poster with two adult fashion models arranged vertically, one in the upper section and one in the lower section.
+
+Both subjects must face inward toward the center: the upper portrait looks diagonally down toward the middle, while the lower portrait looks diagonally upward toward the middle. Keep them asymmetrically positioned rather than vertically centered.
+
+Leave a clean editorial information band between the two portraits for the brand name, product name, short campaign line and minimal technical copy.
+
+Use extreme close-up fashion photography with natural skin texture, shallow depth of field, soft motion blur and intentionally out-of-focus areas.
+
+Overlay only a few selected grid sections with real optical glass panels. Mix clear glass, lightly tinted glass, smoked glass and subtle magnification. The glass should physically affect the image behind it through refraction, slight displacement, selective sharpening, soft distortion and restrained edge reflections.
+
+Some areas behind the glass become noticeably sharper while the surrounding photography stays blurred, creating a strong contrast between soft imagery and precise observation windows.
+
+Add an extremely fine modular grid across the entire composition. Keep the lines subtle and low-contrast.
+
+Use refined high-contrast serif typography for the brand and very small spaced sans-serif typography for product details. Keep the layout minimal, airy and editorial rather than UI-heavy.
+
+Match the glass tint, product materials and accent colors to the chosen theme. Keep most of the poster light and restrained, using darker tones only as controlled visual weight.
+
+The final image should feel like a high-end independent fashion, beauty or product campaign: cinematic, tactile, photographic and contemporary.
+
+Avoid generic luxury ads, centered portraits, subjects facing outward, excessive glass panels, heavy UI graphics, thick grid lines, cyberpunk styling, excessive lens flare, plastic skin, CGI faces and overly sharp photography.
+```
+
+  </details>
+
 - **局部编辑 8 例：构图/人物保留只改痛点** — 「整体挺好、就差这一处」别整张重跑；Images 2.5 留构图与人物，只修需要的部分。8 个实例 + prompt，改图心法入门。 [@asahi_ai_x](https://x.com/asahi_ai_x) · [原帖](https://x.com/asahi_ai_x/status/2100827157471580462)
 
 - **电商皂包装小字不糊：Images 2.5 经 Codex 出商品图** — 正方形商品照，「HERB GARDEN」与「よもぎと緑茶の石けん」腰带小字清晰可读。包装文字保真的电商静物对照。 [@kohaku_2100](https://x.com/kohaku_2100) · [原帖](https://x.com/kohaku_2100/status/2100777491036246402)
@@ -8075,6 +8204,52 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **八格分镜 contact sheet→竖屏爆米花车祸** — 先用 Image 2.5 出 4×2 八格连续 contact sheet（车内 POV、热风机→玉米→爆米花链式反应），再整图喂 Seedance 2.5 成 25s 竖屏伪实拍。分镜控连续 + 视频模型收口的病毒片母版。 [@Raul_IA_Prod](https://x.com/Raul_IA_Prod) · [原帖](https://x.com/Raul_IA_Prod/status/2101592798180814900)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【Image 2.5 · 八格 contact sheet】
+Create a highly realistic 8-panel cinematic storyboard contact sheet for an AI-generated vertical social-media video.
+
+IMPORTANT:
+This is a STORYBOARD REFERENCE IMAGE, not the final video.
+
+Arrange exactly 8 sequential panels in a clean 4x2 grid, read LEFT TO RIGHT, TOP TO BOTTOM.
+
+Every panel represents the SAME continuous scene filmed from inside the SAME slowly moving car.
+
+Maintain PERFECT VISUAL CONTINUITY across all 8 panels:
+- same overturned semi-trailer
+- same truck design and damage
+- same highway / worker / clothing / hot-air blower / weather / lighting
+
+VISUAL STYLE:
+Ultra-photorealistic live-action. Authentic smartphone footage. Passenger filming through the windshield of a moving car. Wet highway after rain. Gray overcast daylight. No commercial or movie aesthetic.
+
+CORE SCENE:
+A large semi-trailer carrying dry yellow corn has overturned onto its RIGHT SIDE beside a highway. Corn kernels spill onto wet asphalt. One road worker with a large industrial HOT-AIR BLOWER (NOT a flamethrower — only subtle heat distortion) accidentally triggers a progressive popcorn chain reaction.
+
+PANEL PROGRESSION:
+1 APPROACH — normal highway accident
+2 CLOSER VIEW — worker approaches corn
+3 BLOWER ACTIVATED — hot air, no flames
+4 FIRST POPS — first yellow kernels → white popcorn (critical)
+5 CHAIN REACTION — ~half pile popcorn, worker steps back
+6 OUT OF CONTROL — trailer fills with popcorn
+7 MASSIVE POPCORN AVALANCHE — popcorn hits windshield
+8 AFTERMATH — highway covered like snow; same truck/worker/vehicles
+
+Do NOT show lots of popcorn in panels 1–3. Panel 4 must clearly show the FIRST transformation. Amount of popcorn must progressively increase. Camera always inside the same moving car.
+
+NEGATIVE: cartoon, CGI look, flamethrower, explosion, inconsistent truck/worker, captions, logos.
+
+【Seedance 2.5 · 竖屏成片】
+Image1 is an 8-panel storyboard. Read left to right, top to bottom. Use as reference for story progression. DO NOT reproduce the grid — transform into ONE continuous 25s vertical 9:16 photoreal found-footage video from inside the moving car. Progressive: yellow corn → first pops → chain reaction → avalanche. Full Seedance prompt in original reply thread.
+```
+
+  </details>
 
 - **Image 2.5 做 GIF：中文一句就能玩** — 用 GPT-Image 2.5 出帧再拼 GIF，中文说明 + 示范动图。表情包 / 短动效种草门槛被砍到「会说话就行」。 [@_AIBOZ_](https://x.com/_AIBOZ_) · [原帖](https://x.com/_AIBOZ_/status/2100893023416811712)
 
