@@ -4617,5 +4617,58 @@
     "author": "alin_zone",
     "url": "https://x.com/alin_zone/status/2101685588252590123",
     "category": "选型评测"
+  },
+  {
+    "id": "2101655549167468554",
+    "title": "同图猜谜：Image 2.0 vs Flare Max vs Sunburst Max",
+    "blurb": "同一题材四联对照：猜哪个是 2.0、哪个是 Flare Max、哪个是 Sunburst Max。作者观感是 2.0 掉智明显——选型别听安利，先并排放大看结构谁先崩。",
+    "author": "l200892013",
+    "url": "https://x.com/l200892013/status/2101655549167468554",
+    "category": "选型评测"
+  },
+  {
+    "id": "2101607866478031056",
+    "title": "自然文化海报四联：书法×色块×风景窗×立体物",
+    "blurb": "风迹 / 汲泉 / 苔庭 / 松间：巨幅书法锚点 + 低饱和撕纸色块 + 摄影窗口 + 前景立体实物分层。展览/文化品牌/东方生活方式海报可填槽母版，完整中文模板在回复。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2101607866478031056",
+    "category": "海报排版",
+    "prompt": "【主题】：填写，例如「风迹 / 汲泉 / 苔庭 / 松间」\n【中文主标题】：填写 2–4 个字\n【英文标题】：填写\n【自然主题元素】：填写，例如风、水、苔藓、松木、山石、草穗\n【前景立体实物】：填写，例如石钵、苔石、枯木、薄纸、植物\n【摄影窗口场景】：填写，例如雾中山林、山涧、草坡、松林\n【主色调】：填写低饱和自然色\n【画幅比例】：默认 9:16\n\n生成一张东方自然文化主题的 Editorial Design 艺术海报。\n\n整体采用暖象牙米白艺术纸背景，保留轻微天然纸纤维与克制的印刷颗粒，大面积留白，画面安静、自然、松弛、有文化感。\n\n画面上方或偏右放置巨大的中文手写书法标题【中文主标题】，使用自由、真实、有毛笔提按变化与墨迹浓淡的现代东方书写方式，让中文大字本身成为主要视觉锚点。\n\n搭配纤细优雅的英文 Serif 字体呈现【英文标题】，再加入少量有实际意义的中文短句、英文说明和日期信息，形成“大书法 + 英文标题 + 小字号编辑文字”的信息层级。\n\n画面中部加入一个大型低饱和自然色块，颜色使用【主色调】。色块边缘具有自然撕纸、山体、地形或有机形态感，保持完整清晰的大形，不要拆成大量碎片。\n\n在色块内部开出一个圆形、椭圆形、竖向或不规则自然窗口，窗口中呈现【摄影窗口场景】的真实摄影画面。摄影区域低对比、低饱和、有薄雾和空气透视感，像透过纸张开孔看见另一个真实自然空间。\n\n画面下部加入真实立体的【前景立体实物】，具有真实材质、体积、接触阴影和自然空间关系。\n\n让真实立体物局部遮挡二维色块或摄影窗口，形成明显的前后层次：\n\n艺术纸背景 → 平面色块 → 自然摄影窗口 → 真实立体实物。\n\n主题围绕【自然主题元素】展开，让所有视觉元素共同表达一个清楚的自然概念，而不是简单堆砌装饰。\n\n整体版式采用不对称 Editorial Design，文字散落在留白区域，可以加入少量纵向排版、边缘排版和超小字号信息，但所有文字都应具有真实意义。\n\n配色控制在暖米白、低饱和自然主题色、石灰灰、灰褐、墨褐等范围，整体哑光、柔和、稳定，不使用高饱和颜色。\n\n保留轻微 Offset Print、艺术纸、手工印刷与纸本出版物质感，但不要过度做旧。\n\n最终效果应像真正完成的自然文化展览海报：远看首先看到巨大书法标题、完整色块和清楚的立体自然物，近看才发现摄影窗口、小型文字与材质细节。"
+  },
+  {
+    "id": "2101644997460213894",
+    "title": "玻璃切片观察窗：时尚美妆产品战役海报",
+    "blurb": "上下两人对内凝视 + 中间信息带，只在局部网格叠真实光学玻璃（折射/位移/选择性锐化）。眼罩、手表、耳机、香氛都测过——高定时尚/美妆/产品 KV 可直接换品牌槽。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2101644997460213894",
+    "category": "电商改图",
+    "prompt": "Brand: [BRAND NAME]\nProduct: [PRODUCT]\nTheme: [CAMPAIGN THEME]\nAccent palette: [COLOR PALETTE]\nProduct details: [MATERIAL / FEATURES]\n\nCreate a premium 9:16 editorial campaign poster with two adult fashion models arranged vertically, one in the upper section and one in the lower section.\n\nBoth subjects must face inward toward the center: the upper portrait looks diagonally down toward the middle, while the lower portrait looks diagonally upward toward the middle. Keep them asymmetrically positioned rather than vertically centered.\n\nLeave a clean editorial information band between the two portraits for the brand name, product name, short campaign line and minimal technical copy.\n\nUse extreme close-up fashion photography with natural skin texture, shallow depth of field, soft motion blur and intentionally out-of-focus areas.\n\nOverlay only a few selected grid sections with real optical glass panels. Mix clear glass, lightly tinted glass, smoked glass and subtle magnification. The glass should physically affect the image behind it through refraction, slight displacement, selective sharpening, soft distortion and restrained edge reflections.\n\nSome areas behind the glass become noticeably sharper while the surrounding photography stays blurred, creating a strong contrast between soft imagery and precise observation windows.\n\nAdd an extremely fine modular grid across the entire composition. Keep the lines subtle and low-contrast.\n\nUse refined high-contrast serif typography for the brand and very small spaced sans-serif typography for product details. Keep the layout minimal, airy and editorial rather than UI-heavy.\n\nMatch the glass tint, product materials and accent colors to the chosen theme. Keep most of the poster light and restrained, using darker tones only as controlled visual weight.\n\nThe final image should feel like a high-end independent fashion, beauty or product campaign: cinematic, tactile, photographic and contemporary.\n\nAvoid generic luxury ads, centered portraits, subjects facing outward, excessive glass panels, heavy UI graphics, thick grid lines, cyberpunk styling, excessive lens flare, plastic skin, CGI faces and overly sharp photography."
+  },
+  {
+    "id": "2101592948148502928",
+    "title": "身份锁潜行喜剧：Image2.5+Seedance on Higgsfield",
+    "blurb": "一张上传照死锁主角脸与衣装，再喂 Seedance 2.5 跑 30s 办公室潜行物理喜剧（HUD + 韩语对白）。CHARACTER LOCK 优先于剧情——短片管线里「别换脸」怎么写死，看这一帖。",
+    "author": "oggii_0",
+    "url": "https://x.com/oggii_0/status/2101592948148502928",
+    "category": "人像角色",
+    "prompt": "Made with Seedance 2.5 + GPT Image 2.5 on Higgsfield\n\nUse exactly 1 uploaded image: @Image1.\n\nCHARACTER LOCK HIGHEST PRIORITY\n@Image1 is the ONLY reference for the lead. Preserve exact visible face, identity, facial proportions, skin tone, body proportions, hair color/style/length/bangs/accessories, clothing, shoes, and visible accessories. She must look like the same real adult woman filmed again.\nNo face swap, duplicate, plastic/AI skin, anime, CGI, or 3D appearance. Do not change hairstyle, hair color, outfit, or accessories.\n\n30 seconds | 16:9 | native 4K | 24fps | hyper-realistic live-action third-person gameplay with GTA-style English HUD and natural Korean dialogue only.\n\nKeep supporting characters completely distinct (faces, ages, bodies, outfits). One continuous office floor route. Exactly one hard cut near the end. No BGM / subtitles / narration / watermark.\n\n完整 30s 办公室潜行喜剧分镜、HUD 与物理约束见原帖长文。"
+  },
+  {
+    "id": "2101592798180814900",
+    "title": "八格分镜 contact sheet→竖屏爆米花车祸",
+    "blurb": "先用 Image 2.5 出 4×2 八格连续 contact sheet（车内 POV、热风机→玉米→爆米花链式反应），再整图喂 Seedance 2.5 成 25s 竖屏伪实拍。分镜控连续 + 视频模型收口的病毒片母版。",
+    "author": "Raul_IA_Prod",
+    "url": "https://x.com/Raul_IA_Prod/status/2101592798180814900",
+    "category": "像素动效",
+    "prompt": "【Image 2.5 · 八格 contact sheet】\nCreate a highly realistic 8-panel cinematic storyboard contact sheet for an AI-generated vertical social-media video.\n\nIMPORTANT:\nThis is a STORYBOARD REFERENCE IMAGE, not the final video.\n\nArrange exactly 8 sequential panels in a clean 4x2 grid, read LEFT TO RIGHT, TOP TO BOTTOM.\n\nEvery panel represents the SAME continuous scene filmed from inside the SAME slowly moving car.\n\nMaintain PERFECT VISUAL CONTINUITY across all 8 panels:\n- same overturned semi-trailer\n- same truck design and damage\n- same highway / worker / clothing / hot-air blower / weather / lighting\n\nVISUAL STYLE:\nUltra-photorealistic live-action. Authentic smartphone footage. Passenger filming through the windshield of a moving car. Wet highway after rain. Gray overcast daylight. No commercial or movie aesthetic.\n\nCORE SCENE:\nA large semi-trailer carrying dry yellow corn has overturned onto its RIGHT SIDE beside a highway. Corn kernels spill onto wet asphalt. One road worker with a large industrial HOT-AIR BLOWER (NOT a flamethrower — only subtle heat distortion) accidentally triggers a progressive popcorn chain reaction.\n\nPANEL PROGRESSION:\n1 APPROACH — normal highway accident\n2 CLOSER VIEW — worker approaches corn\n3 BLOWER ACTIVATED — hot air, no flames\n4 FIRST POPS — first yellow kernels → white popcorn (critical)\n5 CHAIN REACTION — ~half pile popcorn, worker steps back\n6 OUT OF CONTROL — trailer fills with popcorn\n7 MASSIVE POPCORN AVALANCHE — popcorn hits windshield\n8 AFTERMATH — highway covered like snow; same truck/worker/vehicles\n\nDo NOT show lots of popcorn in panels 1–3. Panel 4 must clearly show the FIRST transformation. Amount of popcorn must progressively increase. Camera always inside the same moving car.\n\nNEGATIVE: cartoon, CGI look, flamethrower, explosion, inconsistent truck/worker, captions, logos.\n\n【Seedance 2.5 · 竖屏成片】\nImage1 is an 8-panel storyboard. Read left to right, top to bottom. Use as reference for story progression. DO NOT reproduce the grid — transform into ONE continuous 25s vertical 9:16 photoreal found-footage video from inside the moving car. Progressive: yellow corn → first pops → chain reaction → avalanche. Full Seedance prompt in original reply thread."
+  },
+  {
+    "id": "2101678764358762621",
+    "title": "GTA VI 双人角色圣经表→Seedance 短片",
+    "blurb": "Image 2.5 先出 Lucia & Jason 对半分屏角色圣经表（水彩色块 + 中置 Logo + 枪械英雄构图），再整表喂 Seedance 2.5 出动作短片。开放世界角色资产→成片一条链。",
+    "author": "TechieBySA",
+    "url": "https://x.com/TechieBySA/status/2101678764358762621",
+    "category": "人像角色",
+    "prompt": "Create a premium cinematic character bible sheet for LUCIA & JASON. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance.\n\nLAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center.\n\nLEFT SIDE — LUCIA: Coral pink and turquoise watercolor splash behind her fading into center. Large bold brushstroke text LUCIA top left in coral pink. Below small text: THE RISK / VICE CITY. One massive dramatic cropped hero image of Lucia from mid-thigh up — tight white crop top, very short denim shorts, gold hoop earrings, gold chain necklace, black duffel bag over shoulder with cash spilling out, gun raised, fearless confident expression locked toward the center.\n\nCENTER: Bold dramatic GTA VI logo in deep black, slightly worn and cinematic. Below it small text: VICE CITY. ONE JOB. NO MERCY.\n\nRIGHT SIDE — JASON: Golden yellow and hot orange watercolor splash behind him fading into center. Large bold brushstroke text JASON top right in golden yellow. Below small text: THE MUSCLE / VICE CITY. One massive dramatic cropped hero image of Jason from mid-thigh up — dark olive tropical shirt open at chest, dark shorts, silver watch, black duffel bag over shoulder with cash spilling out, gun raised, calm dangerous expression locked toward the center.\n\nBOTTOM CENTER: Color palette — coral pink, turquoise, golden yellow, hot orange, white. Tagline centered: WELCOME TO VICE CITY.\n\nOVERALL: Clean white background, watercolor splashes per side, bold dramatic GTA VI center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.\n\n【成片】再把角色表喂 Seedance 2.5 出动作短片（原帖同串）。"
   }
 ]
