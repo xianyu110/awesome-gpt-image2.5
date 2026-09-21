@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 571 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 579 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,26 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Sunburst 参考图逼真法：TikTok 截帧锁摄影感** — 裸 prompt 易变 AI slop；先从真实视频截氛围参考再喂 Sunburst，姿势不必一样。写实选型的可抄流程，比再堆形容词管用。 [@Mho_23](https://x.com/Mho_23) · [原帖](https://x.com/Mho_23/status/2101982659190653032)
+  <details>
+  <summary>查看 / 复制工作流</summary>
+
+```
+模型：GPT Images 2.5 Sunburst（写实首选；裸 prompt 容易变 AI slop）
+
+方法：参考图 prompting，而不是纯文字硬写
+1. 找一张「氛围对」的真实参考（姿势不必一样，要真实摄影感）
+2. 去 TikTok 搜目标场景（如 person walking on street / UGC in room），从真实视频截帧；Pinterest 已被 AI 图淹没
+3. 把该帧作为 reference 丢进 Sunburst
+4. 再写详细 prompt：长相、穿搭、动作、环境全写死
+
+要点：Sunburst 会新建一张图，但保留参考图的真实摄影特征——这是「看不出是 AI」的关键。
+```
+
+  </details>
+
+- **Image2 发丝锯齿→2.5 手修前后对照** — gpt-image-2 头发ガビガビ，丢进 2.5 用手修直接救回。发丝/细节翻车时别重抽——换型号手修往往更快。 [@hogezawa](https://x.com/hogezawa) · [原帖](https://x.com/hogezawa/status/2101955771630297443)
 
 - **同风格指令：Image 2.0 vs Image 2.5 Sunburst** — 同一套风格说明并排——2.0 与 2.5 Sunburst 差异一目了然。选型别只听参数表，看同指令下谁更贴你要的完成度。 [@Project_VLA](https://x.com/Project_VLA) · [原帖](https://x.com/Project_VLA/status/2101915075267150283)
 
@@ -891,6 +911,8 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **Sketch 锁版 + Comments 只改一处 + Templates 出初稿** — 改到第三次构图也毁了？用 Sketch 锁版面、Comments 定点改、Templates 先有草稿，再配「保留一切、每轮只改一件事」。10 分钟出宣传图的编辑优先心法。 [@udhk_official](https://x.com/udhk_official) · [原帖](https://x.com/udhk_official/status/2101929747664003197) · [prompt](https://www.ud.hk/zh-Hant/blogs/insight/article/chatgpt-images-25-sketch-guide-2026-09-10)
+
 - **时尚线稿→超写实：错配鞋四连（loafer/croc/…）** — 同一 editorial 线稿主题，只换错配鞋型：乐福、洞洞鞋、细高跟、球鞋。Sketch 控形 + Image 2.5 写实，穿搭号「一稿多变」示范。 [@zayyadatullah](https://x.com/zayyadatullah) · [原帖](https://x.com/zayyadatullah/status/2100871323719209165)
 
 - **Sketch 认真线稿→写实成片：控形对照** — 线稿画扎实再喂 GPT Images 2.5 Sketch，写实成片直接贴脸对照。控构图别靠嘴炮，先把素描焊死。 [@AIPixLab](https://x.com/AIPixLab) · [原帖](https://x.com/AIPixLab/status/2100796248068702688)
@@ -1019,6 +1041,57 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **Apple Watch「TIME MOVES WITH YOU」：表盘弧线锁动势** — 瑞士极简 4:5 产品海报：巨字 TIME 垫底，表盘 circuar motion trail 把运动员动作焊进「时间在动」。3C/运动穿戴 KV 可直接改品牌。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2101978790704656819)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+APPLE WATCH SERIES 12 — “TIME MOVES WITH YOU”
+4:5 vertical premium poster, 8K, bold commercial layout × Swiss minimalism × photorealistic product advertising
+🧠 CORE IDEA:
+“TIME, IN MOTION.”
+🎬 LAYOUT:
+BACKGROUND BLOCK:
+Large rounded rectangle in clean Apple white with a subtle silver gradient and soft architectural shadows
+GIANT TYPOGRAPHY:
+“TIME”
+bold, oversized, cropped, sitting behind subject and product
+👤 SUBJECT:
+Athletic young adult in motion on a professional tennis court
+Apple Watch Series 12 clearly visible on wrist
+natural movement, realistic skin and fabric
+premium commercial sports photography
+⌚ PRODUCT + CONCEPTUAL TWIST:
+Apple Watch Series 12 becomes the visual center of the action →
+A precise circular motion trail extends from the watch face around the athlete:
+* thin metallic arc
+* subtle translucent rings
+* perfectly controlled geometry
+* realistic reflections
+* no fantasy effects
+The circular form visually connects time, movement, and the athlete’s motion while keeping the watch completely photorealistic.
+✨ GRAPHIC ELEMENTS:
+* minimal geometric ticks
+* thin measurement lines
+* subtle metallic reflections
+* small typographic annotations
+* generous negative space
+✍️ TEXT SYSTEM:
+Top pill:
+“Apple Watch Series 12”
+Small text:
+“Designed for movement.”
+BOTTOM FEATURE STRIP:
+* Advanced Fitness Tracking
+* Heart Rate Monitoring
+* Workout Insights
+* All-Day Wear
+```
+
+  </details>
+
+- **旧写真翻新：上下 1:1 双画面海报** — 上半保留原片只做高级感调色，下半用 Image 2.5 重优化——把旧相册变成可发社媒的竖版双联。人像复古翻新可抄结构。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2101951659278848179) · [prompt](https://x.com/sereinworld/status/2101951665058578920)
 
 - **单人像一键四联海报：SIGNAL/MOTION/ECHO/MINT** — 同一肖像同一视觉系统，一口气出四种版式：竖排叠字、切片错位、镜像回声、巨型字母嵌脸。时装社论/封面连更直接抄，9:16 分开发不要拼成一张。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101971646999363637)
   <details>
@@ -4130,6 +4203,170 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **海滩 AI UGC JSON：9:16 超写实自拍母版** — 伞下紫天幕、晒痕皮肤、铂金寸头、运动墨镜——完整 JSON 锁构图/肤质/纹身/光影。MakeUGC 向种草自拍直接丢。 [@georgesttock](https://x.com/georgesttock) · [原帖](https://x.com/georgesttock/status/2101974959807406501)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+{
+  "shot_type": "Vertical smartphone selfie-style portrait, casual beach lifestyle aesthetic",
+  "canvas": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "framing": "Close medium portrait crop from top of head to mid-chest",
+    "subject_alignment": "Centered, angled three-quarter profile",
+    "perspective": "Natural wide-angle smartphone front-camera perspective, taken from a slightly low angle looking up"
+  },
+  "scene": {
+    "location": "Outdoor beachside café or boardwalk seating area",
+    "time_of_day": "Midday, bright direct sunlight",
+    "mood": "Casual, relaxed, sun-drenched beach atmosphere",
+    "environment": {
+      "canopy": "Large purple canvas umbrella with dark metal ribs directly overhead, partially cropping the top of frame",
+      "background_left": "A second striped umbrella and a wooden café table where another person sits, blurred and out of focus",
+      "background_right": "Palm trees, a wooden trash receptacle, distant beach chairs, and a paved stone walkway leading toward the shoreline",
+      "sky": "Bright hazy blue sky visible in small gaps between the umbrella and buildings",
+      "ocean": "A thin strip of turquoise ocean and pale sand visible far in the background on the left side"
+    }
+  },
+  "subject": {
+    "description": "Young man in his late 20s, angled in profile with his face turned to the right, looking off toward the middle distance",
+    "position": "Positioned lower-center in frame, shoulders and upper chest filling the lower half",
+    "pose": {
+      "head": "Turned in three-quarter profile, chin slightly lifted",
+      "shoulders": "One shoulder raised slightly closer to the camera due to the selfie angle",
+      "posture": "Relaxed, seated"
+    },
+    "expression": {
+      "overall": "Calm, composed, slightly focused",
+      "mouth": "Lips slightly parted as if mid-breath or mid-sentence",
+      "gaze": "Directed off to the side, not toward the camera",
+      "emotion": "Relaxed confidence"
+    },
+    "skin": {
+      "tone": "Deeply tanned olive-bronze skin",
+      "finish": "Natural matte-to-slight sheen typical of sun exposure and light perspiration",
+      "texture": "Realistic visible pores, natural fine lines, light natural sheen across the forehead and nose bridge",
+      "highlights": "Bright sunlit highlight along the cheekbone, nose, and shoulder"
+    },
+    "face": {
+      "shape": "Angular with a strong defined jawline",
+      "cheekbones": "High and prominent",
+      "jaw": "Sharp, squared",
+      "brow": "Slightly furrowed, faint natural forehead lines visible from the angle",
+      "facial_hair": "Short, dense, well-groomed dark stubble covering the jaw, chin, and upper lip, slightly thicker along the mustache and chin",
+      "nose": "Straight, moderately defined bridge",
+      "lips": "Medium fullness, natural warm pink-brown tone, slightly parted",
+      "ear": "Visible in profile, small silver hoop-style hardware not present, ear otherwise bare aside from the earbud"
+    }
+  },
+  "hair": {
+    "color": "Bleached platinum-blonde with a slightly warm ashy undertone",
+    "length": "Very short buzzed crop",
+    "texture": "Densely textured, slightly spiky natural texture typical of short bleached hair",
+    "part": "No visible part, uniform short length across the scalp",
+    "roots": "Faint natural darker regrowth shadow near the scalp",
+    "styling": "Natural, unstyled, slightly tousled from wind and heat"
+  },
+  "eyewear": {
+    "type": "Wraparound sport sunglasses",
+    "frame_color": "White frame with black temple arms",
+    "lens_color": "Dark mirrored silver-grey lenses",
+    "fit": "Wrapped closely around the temples, resting on the bridge of the nose",
+    "reflection": "Faint reflection of the surrounding beach environment visible in the lens surface",
+    "branding": "No visible brand text or logo"
+  },
+  "accessories": {
+    "earbuds": "Single white wireless earbud with a visible stem, worn in the ear closest to the camera",
+    "necklace": "Thin silver chain necklace resting against the collarbone, mostly obscured by the tattoo",
+    "drink": "A white drinking straw visible at the very bottom edge of frame, held near chest height"
+  },
+  "tattoos": {
+    "chest_and_shoulder": "Large detailed black ink tattoo covering the chest and shoulder, featuring botanical vine and leaf linework, a stylized flower design lower on the chest, and additional abstract linework extending toward the shoulder",
+    "neck": "A short vertical script-style tattoo visible on the side of the neck near the collarbone",
+    "style": "Fine linework, moderate density, natural fading suggesting the tattoo has some age"
+  },
+  "body": {
+    "build": "Lean and muscular",
+    "visible_area": "Bare shoulders, chest, and upper torso",
+    "skin_detail": "Fine natural sheen from heat and light perspiration, visible muscle definition across the shoulder and chest"
+  },
+  "lighting": {
+    "type": "Bright natural harsh midday sunlight",
+    "primary_source": "Direct overhead sun, partially filtered by the umbrella canopy",
+    "direction": "From above and slightly behind, casting a defined shadow line across part of the face and neck",
+    "quality": "High contrast between sunlit and shaded areas",
+    "highlights": "Strong specular highlight on the cheekbone, nose bridge, and shoulder",
+    "shadow_style": "Hard-edged natural shadow along the jaw and neck from the umbrella's edge",
+    "color_temperature": "Warm daylight with slightly cool ambient fill from the surrounding sky and umbrella shade"
+  },
+  "style": "Ultra-realistic, photorealistic, authentic candid smartphone selfie aesthetic, natural skin texture with visible pores and sheen, no digital smoothing, no plastic-looking skin",
+  "aspect_ratio": "9:16",
+  "quality": "high detail, realistic skin, hair, and tattoo texture, natural color grading, no exaggerated anatomy"
+}
+```
+
+  </details>
+
+- **便利店 1:13 AM：GINZA×Y2K 直闪 CCD 人像** — 日式生活方式社论 × 消费级数码机直闪 × 偶得构图。夜便利店棚灯+冰箱青光，时尚写真要「像翻到旧相机里的一张」。 [@exabell_](https://x.com/exabell_) · [原帖](https://x.com/exabell_/status/2101988836830244985)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Prompt: CONVENIENCE STORE AT 1:13 AM
+
+GINZA Magazine-inspired Japanese lifestyle fashion editorial × early-2000s Y2K consumer compact digital camera × Korean female idol × raw documentary-fashion hybrid × found photograph aesthetic.
+
+The image must feel like a real photograph discovered inside an old digital camera rather than a deliberately retro-styled AI image.
+
+Japanese urban lifestyle sensibility, understated fashion intelligence, quiet observational storytelling, mundane everyday environment transformed into subtle fashion imagery.
+
+A beautiful young adult Korean female idol standing inside a small Japanese convenience store late at night, casually holding a bottled milk drink while looking directly into the camera.
+
+She wears a faded navy oversized zip hoodie over a white fitted ribbed tank top, low-rise charcoal mini skirt, worn sneakers, tiny silver shoulder bag and thin silver necklace.
+
+Long platinum-blonde hair, slightly messy straight bangs, loose strands around her face.
+
+Soft Korean-Japanese makeup, natural flushed cheeks, subtle taupe eyeshadow, soft pink lips, realistic visible pores.
+
+She stands between narrow convenience-store aisles, refrigerators glowing behind her, shelves of snacks and drinks creating visual clutter.
+
+Photographed extremely close with a late-2000s consumer compact digital camera, 30mm equivalent, ISO 640, f/3.2.
+
+DIRECT ON-CAMERA FLASH, slightly harsh frontal flash, realistic specular highlights on skin and packaging, warm fluorescent ambient light mixing with cooler refrigerator illumination.
+
+Slightly imperfect white balance, clipped highlights on reflective packaging, darker corners, subtle digital noise, mild chromatic aberration, slight edge softness.
+
+The framing feels accidental: part of a shelf enters the foreground, one product is slightly cropped, subject not perfectly centered.
+
+GINZA-inspired quiet Japanese lifestyle sensibility, understated fashion intelligence, raw documentary observation.
+
+LUT: Warm Convenience Digital / muted highlights / fluorescent contamination
+Harmony: navy × white × charcoal × refrigerator cyan
+sRef: [Y2K-COMPACT-SREF]
+Tokens: found photograph, direct flash, consumer digital, mundane location, incidental framing, not retro filter. 
+Real photograph, not AI fashion campaign.
+
+3:4 portrait.
+
+NEGATIVE:
+studio lighting, beauty campaign, luxury advertising, perfect symmetry, HDR, smartphone photography, cinematic teal orange, plastic skin, excessive bokeh, flawless skin, CGI, illustration, anime, overly posed idol photoshoot.
+```
+
+  </details>
+
+- **偷拍模糊感：夜间人行道运动模糊公式** — 手持抖动、重影、过曝高光、不完美构图——故意拍坏的 UGC 美学，附负面提示防身份复刻。种草「假偷拍」一条中文公式够用。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2101902908178776196)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+超现实主义偷拍智能手机照片，3:4纵向。原版不可识别的年轻女子在夜间雅加达人行道上，靠着白色瓷砖墙。中途行走，半侧脸，转身带着害羞微笑，手朝相机举起。闪光灯在运动中触发，强烈手持抖动，严重的运动模糊，重影，条纹状瓷砖，深邃阴影，过曝高光，不完美构图，原始意外快照，真实的噪点手机摄影美学。
+
+负面提示：身份匹配，面部复制，真实人物复制，动漫，插图，绘画，CGl，风格化，工作室灯光，美颜灯光，锐利焦点，光滑皮肤，摆拍肖像，时尚编辑，电影感，单反相机，三脚架，专业摄影
+```
+
+  </details>
 
 - **极简圆镜立绘：侧身回眸一键返图** — 圆镜当几何锚点，新中式修身裙锁颈肩腰臀线；深皇家紫×淡金。立绘/品牌人设图可直接返图的中文结构化母版。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2101973626853728520)
   <details>
