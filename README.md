@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 550 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 558 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,10 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **同提示词三方硬刚：Image 2.5 vs Mai 2.6 vs Qwen 2.1** — macOS 桌面 + 格斗之王题材同 prompt 三联对照。作者更爱 Image 2.5 的风格感，Qwen 八神庵更贴原型——选型别听安利，先并排看谁更「有感觉」。 [@aidavid125](https://x.com/aidavid125) · [原帖](https://x.com/aidavid125/status/2101894576311242772)
+
+- **空间角度听话度：Image 2.5 比 Qwen 2.1 更听绝对转角** — 让模型把人物转到绝对数学角度——Qwen Image 2.1 不太听话，Image 2.5 更稳。做分镜/预演转角一致性时，这条选型结论比 Benchmark 更接地气。 [@MinLiBuilds](https://x.com/MinLiBuilds) · [原帖](https://x.com/MinLiBuilds/status/2101883427524153369)
 
 - **同prompt硬刚：Image 2.5 vs Banana vs Qwen 2.1** — 同一提示词三联对照：GPT Image 2.5、Banana、刚开源的 Qwen Image 2.1（7B）。选型别靠嘴炮——并排放大看质感与结构谁先崩。 [@alin_zone](https://x.com/alin_zone) · [原帖](https://x.com/alin_zone/status/2101685588252590123)
 
@@ -1013,6 +1017,22 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **石榴百科全书式信息卡：3:4 标本导览牌** — 标本摄影顶栏 + 九组营养/产区/食用/储存信息，石榴红×叶绿×琥珀配色。食品/植物科普卡可换主体复用的中文结构化母版。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2101854051805851807)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+一张 3:4 竖版石榴百科全书式信息卡，呈现植物标本馆档案与现代食品博物馆导览牌的融合设计。顶部使用“一颗完整石榴＋一颗切开的石榴＋少量独立果粒”的标本式摄影，浅灰白背景、柔和侧光和微弱自然投影，真实表现深红果皮、半透明果粒、薄膜与籽粒结构；旁边排列“石榴”、斜体拉丁学名“Punica granatum”、胶囊标签“水果／石榴科”、原产区域地图与地区化成熟季曲线。
+
+中部以非对称黄金分割和细线坐标系统组织九组内容：每100g主要营养构成；糖类、膳食纤维、维生素与矿物质；果实结构剖面图；成熟季与主要产区；鲜食、榨汁、沙拉、甜品等食用方式；不同水果风味与酸甜度对比；挑选成熟石榴的方法；室温、冷藏与剥粒后的储存方式；历史传播、栽培品种及农业可持续性。
+
+重点数据使用石榴红、叶片绿与琥珀色编码，注意事项使用小面积砖红。纸张具有轻微棉纸纤维，标题为超细无衬线体，正文为现代几何字体，数值为等宽体。底部设置馆藏编号式资料来源区，但不出现虚假机构名称；营养与健康描述采用谨慎表述，不虚构医疗功效。
+
+【填槽】把石榴换成别的食材/植物，九宫信息架构可复用。
+```
+
+  </details>
 
 - **自然文化海报四联：书法×色块×风景窗×立体物** — 风迹 / 汲泉 / 苔庭 / 松间：巨幅书法锚点 + 低饱和撕纸色块 + 摄影窗口 + 前景立体实物分层。展览/文化品牌/东方生活方式海报可填槽母版，完整中文模板在回复。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101607866478031056)
   <details>
@@ -4007,6 +4027,92 @@ Generate ONE continuous 12-second vertical video. Only Rei rotates during transf
 Keep Rei's facial identity, natural body proportions, hair and bangs throughout. Clothing changes must not alter her face, age, body shape, hair color or hair length. No generated speech or music.
 
 完整 Shot 1–7 时码与城市 UI 标签见原帖长文。
+```
+
+  </details>
+
+- **几乎遮脸仍锁身份：帽+墨镜+有线耳机时尚特写** — 正对特写：罗纹冷帽 + 大反光墨镜 + 白色有线耳机 + 高领羽绒服，五官几乎看不见还要保住参考人。测身份锁下限的好题——换绣标/外套就能出系列。 [@weiinberg](https://x.com/weiinberg) · [原帖](https://x.com/weiinberg/status/2101884475106021421)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A straight-on close-up shot features the woman in reference, almost entirely obscured by practical outerwear accessories: a black ribbed knit beanie, large reflective black sunglasses, and white wired apple earphones, paired with a high-collared, white puffer jacket zipped to the top. The jacket bears the Nike logo in black embroidery on the left shoulder. The scene is set in a brightly-lit, industrial indoor environment, with part of a high, cream-colored ceiling visible and some glossy metallic or photographic posters in the background. The lighting is bright with soft, diffuse overhead fill, creating no harsh shadows and only faint highlights on the glossy surfaces. Dominant colors are black, and neutral, with a few muted synthetic colors from the surroundings. The shot is captured with a smartphone camera in normal lens perspective, and there is moderate digital sharpening but no significant noise. The mood is urban, pragmatic, and intentionally obscured, with a modestly futuristic, incognito vibe.
+
+【要点】参考人几乎被帽/墨镜/有线耳机遮脸——测的是「看不见五官还能不能锁身份」。换品牌绣标/外套颜色就能做系列。
+```
+
+  </details>
+
+- **Sunburst Y2K 街拍：身份锁 + 全新中步姿势** — 3:4 竖版：Keep identical 死锁发型/报童帽/豹纹星短袖/阔腿牛仔裤，COMPLETELY NEW POSE 只改中步回眸。直闪 + 早期数码颗粒——身份锁系列连更姿势的母版，优先 Sunburst。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2101878359282036998)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid Y2K street-style fashion portrait of the young pretty Japanese woman. <<<FACE_ID>>>, standing against the textured off-white plaster wall background.
+
+Keep identical: her long straight dark-brown hair falling naturally over her shoulders with soft strands framing her face, her structured black newsboy/baker-boy cap, her fitted plain white cropped short-sleeve baby tee with the large leopard-print five-point star graphic on the chest, her low-rise oversized dark-blue baggy jeans with realistic faded denim washes, the leopard-print belt/waistband at her waist, the long decorative metal chain with large circular metal ring and dangling strap details, and the large black shoulder bag.
+
+COMPLETELY NEW POSE — distinctly different from all previous versions: she is caught mid-stride in a casual walking motion, her body turned approximately three-quarters toward the camera, head turned back over her left shoulder to glance at the camera with a cool, effortless expression — lips slightly parted, eyes relaxed and direct. Her weight is shifting forward onto her right foot, left leg stepping back, creating natural mid-walk movement in her baggy denim. Her right arm swings naturally forward with a relaxed bent elbow, while her left arm trails back slightly with the black shoulder bag shifting naturally with her motion. Her hair falls loosely with subtle movement suggesting the walking stride. The overall stance reads as a candid, unposed street-fashion catch — a completely different body orientation, weight distribution, and head direction than either previous reference pose.
+
+Direct on-camera flash photography creating a distinct realistic shadow of her body and cap on the textured wall behind her. Authentic early-2000s point-and-shoot or compact digital camera feel. RAW smartphone aesthetic, realistic skin texture, individual hair strands, accurate hands and fingers, natural body proportions, detailed denim texture, realistic leather bag, authentic metal reflections, visible wall texture, direct flash, subtle grain, slightly imperfect exposure, nostalgic Y2K fashion photography, no beauty filter, no plastic skin, no CGI appearance, no excessive retouching, vertical 3:4 composition
+
+【填槽】把 <<<FACE_ID>>> 换成你的身份锁标记；Keep identical 段锁衣装，COMPLETELY NEW POSE 段只改姿势。优先 Sunburst。
+```
+
+  </details>
+
+- **AI UGC 镜像自拍：JSON 参考重建配方** — 整段 JSON 锁构图优先级：竖裁→体态→脸→发→手机位→衣装→暖卧室光。专门用于「参考自拍 → 清干净 UI 水印的超写实镜像自拍」——种草/UGC 批产可填槽母版。 [@neverfilmed](https://x.com/neverfilmed) · [原帖](https://x.com/neverfilmed/status/2101873764002595167)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+{
+  "prompt_type": "photorealistic_reference_reconstruction",
+  "objective": "Recreate the supplied reference image as closely as possible as a clean vertical mirror-selfie photograph. Match the subject's pose, facial proportions, hairstyle, makeup, wardrobe, accessories, phone placement, bedroom environment, warm indoor lighting, crop, camera perspective, body positioning, and overall casual social-media aesthetic. Completely ignore and remove all text, icons, buttons, interface elements, arrows, borders, captions, watermarks, or other screen graphics.",
+  "reference_fidelity": {
+    "target": "extremely high visual similarity",
+    "priority_order": [
+      "overall composition and vertical crop",
+      "subject position and body angle",
+      "face shape and neutral expression",
+      "hair",
+      "mirror-selfie phone placement",
+      "wardrobe",
+      "jewelry and accessories",
+      "warm beige bedroom background",
+      "soft warm indoor lighting",
+      "smartphone mirror-selfie realism"
+    ]
+  },
+  "canvas": {"orientation": "portrait", "framing": "tight vertical mirror selfie"},
+  "scene": {
+    "location": "warm neutral bedroom or dressing room",
+    "mood": "calm, intimate, polished, casual mirror-selfie",
+    "visual_style": "authentic high-end smartphone social-media photo"
+  },
+  "photographic_style": {
+    "genre": "casual mirror selfie / beauty lifestyle portrait",
+    "realism": "extreme photorealism",
+    "desired_result": "looks like a genuine high-quality phone mirror selfie"
+  },
+  "negative_prompt": ["text","captions","watermarks","UI","buttons","arrows","extra people","plastic skin","CGI","anime","deformed hands"],
+  "final_generation_instruction": "Generate a single extremely photorealistic vertical mirror selfie matching the reference as closely as possible. Soft warm indoor lighting, natural smartphone HDR, realistic skin texture, authentic mirror-selfie perspective. Completely remove all interface graphics, text, arrows, borders, buttons, watermarks, captions, and other screen overlays."
+}
+【用法】上传参考自拍 → 整段 JSON 丢进 Image 2.5；完整超长版字段见原帖。上面是可跑精简母版，保构图/脸/衣装/手机位优先级。
+```
+
+  </details>
+
+- **若隐若现短公式：逆光剪影×前景透映×主体槽** — 一行通配：极简逆光剪影 × 暧昧克制 × 前景透映 × 【主体】。看不完整反而让人补全——神话/古风/影视/职业都能往槽里塞，短词出系列。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2101856621471396270)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+极简逆光剪影 × 暧昧克制 × 前景透映 × 【主体】
+
+逆光留下轮廓，前景制造朦胧，暧昧藏在距离和姿态里。
+
+【玩法】神话/古代/影视角色/现实职业都能往【主体】里塞；同一视觉规则换主体=新故事。
 ```
 
   </details>
@@ -8264,6 +8370,24 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **Claude Code→VOX 科普片六步：Image2.5 同源局部+MiniMax H3** — 每句旁白必须有可证明的图；图1总控+图2–5同源局部特写（带图1一起生成）；中文烧进图里；MiniMax H3 Ref2VA 四档保留词。15 秒约¥7.5——Agent 出科普短片的可抄流水线。 [@AlistairVadkqv](https://x.com/AlistairVadkqv) · [原帖](https://x.com/AlistairVadkqv/status/2101861488189431919)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【Claude Code → VOX 科普片 · 六步】
+1. 立规矩：每句旁白都得有一张能证明它的图；否则删掉空美。
+2. 先写旁白，再想画面；一句话一个视觉想法，追问「这句拿什么图能证明」。
+3. GPT Image 2.5 出图：图1=总控图（也是视频最后一帧）；图2–5=局部特写。关键：图2–5必须带着图1一起生成，写死「同一张版面的局部，除取景外别的不许变」。
+4. 中文字印在图里，别让视频模型自己写。
+5. MiniMax H3 参考模式 Ref2VA；提示词六段式，保留程度只认 fully_preserved / partially_preserved / attribute_transfer / weak_reference。
+6. 旁白分句生成，用 ffprobe 量真实时长再排；字幕位置先抽帧避挡信息层。
+
+【账本参考】15s / 约¥7.5（视频为主）；配音可忽略。
+```
+
+  </details>
 
 - **八格分镜 contact sheet→竖屏爆米花车祸** — 先用 Image 2.5 出 4×2 八格连续 contact sheet（车内 POV、热风机→玉米→爆米花链式反应），再整图喂 Seedance 2.5 成 25s 竖屏伪实拍。分镜控连续 + 视频模型收口的病毒片母版。 [@Raul_IA_Prod](https://x.com/Raul_IA_Prod) · [原帖](https://x.com/Raul_IA_Prod/status/2101592798180814900)
   <details>
