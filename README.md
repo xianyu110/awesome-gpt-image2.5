@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 631 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 634 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -1104,6 +1104,8 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **病毒话题→FIT 打分模块拼信息图** — Astra/ChatGPT 先挖热点，再按 FIT 打分拼模块，Image 2.5 直出 4 张 4:5。选题可视化别从空白画布起——先打分再出图。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2102383160185208960)
 
 - **Quechua 户外广告：4:5 数字拼贴完整 campaign** — Behance 级户外 key visual，竖版 4:5 社媒主视觉。PLAY OUTSIDE 叙事写死，反 AI 糊/反库存图；户外品牌 campaign 直接抄长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2102341408208400884)
   <details>
@@ -9732,6 +9734,10 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **Image 2.5 木雕熊参照→Tripo HD 3D** — 用 GPT Image 2.5 生成木雕参照，再喂 Tripo 出 HD 模型（UV 另说）。概念雕塑进 3D 别从零建模——参照图先焊死。 [@cg_ftLab](https://x.com/cg_ftLab) · [原帖](https://x.com/cg_ftLab/status/2102363276944568574)
+
+- **Image 2.5 分镜帧→H3 Max 动作迁移** — gpt-image-2.5 + storyboard 先出帧，再喂 H3 Max 做 motion control（本例未超分）。角色动作迁移别空抽视频——静帧分镜先锁。 [@azerkoculu](https://x.com/azerkoculu) · [原帖](https://x.com/azerkoculu/status/2102358192063656240)
 
 - **建设业 PR：Image 2.5 分镜 → Gemini Omni 成片** — ChatGPT 策划 → Image 2.5 出 3×3 分镜 → Gemini Omni 一键成片/配乐/旁白。B2B 企业宣传片别从剪辑台起步——先锁分镜再喂视频模型。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2102337226311180568)
   <details>
