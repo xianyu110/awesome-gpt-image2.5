@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 597 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 607 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,22 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **同题对照：Qwen-Image-2.1 vs GPT Image 2.5** — 左 Qwen、右 Image 2.5——字能写明白了但仍「丑」，本地 M2 Max 一张 ~18 分钟。选型别只看能出字，还要看成片审美与算力账。 [@lukfan](https://x.com/lukfan) · [原帖](https://x.com/lukfan/status/2102240402887897186)
+
+- **Sunburst 参考→chibi 三视图：先认失败再量产** — 不是吹一致性神话：侧视仍露前襟、辫子前后不一致——当设计草稿可以，上动画前先修视角与部件归属。一任务一表，别当压测片。 [@scenepond](https://x.com/scenepond) · [原帖](https://x.com/scenepond/status/2102237608025706801)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Task: convert the supplied character to a 2D chibi front/side/back sheet, preserving clothing and part relationships.
+Settings: 1 reference image · 16:9 · 2K · high quality · 1 output.
+One task, one sheet—not three independent tests or a consistency benchmark.
+
+Known failure modes to watch: true 90° side view may still expose front bodice; rear view may redraw braids that hang over shoulders in front view. Fix view angles and part placement before animation use.
+```
+
+  </details>
 
 - **Sunburst vs 2.0 三视图握剑：手部解剖硬对照** — 同角色三视图：Sunburst 把剑柄握姿与特效一起稳住，2.0 特效一弱手就歪。选型别只看脸——道具接触点才是翻车重灾区。 [@shiropapa4622](https://x.com/shiropapa4622) · [原帖](https://x.com/shiropapa4622/status/2102148692514115902)
 
@@ -1072,6 +1088,20 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **雪豹百科信息卡：瑞士国际主义网格模板** — 2:3 竖版图鉴卡：顶 30% 去背主体 + 中 60% 九模块网格 + 底 10% 来源栏。换物种改模块就能出博物馆级信息图——内容号/科普账号直接填槽。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102220678976204987)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+一张 2:3 竖版的极简艺术风雪豹百科信息卡，博物馆展品级视觉品质，采用瑞士国际主义与高级自然历史图鉴语言。顶部约 30%：纯白背景上的成年雪豹去背景工作室式全身侧面特写，真实保留灰白毛发、黑色环状斑纹、粗长尾巴、宽大脚掌与面部细节，不拟人化；配超大细线标题“雪豹”、小号斜体“Panthera uncia”、胶囊标签“哺乳纲／猫科／豹属”、亚洲分布小地图与海拔活动范围轴。
+
+中部约 60%：基于 12 列与 8pt 网格，清晰排列九大模块——体长、体重、尾长与寿命基础参数；身体结构与高海拔适应特征；食物组成与典型猎物；昼夜活动规律；繁殖周期与幼崽成长；栖息地类型与海拔分布；雪豹与其他大型猫科动物对比；种群威胁因素；保护等级、保护行动与生态价值。图表采用轮廓比例图、足迹尺寸图、海拔分布图、猎物网络图和简洁时间轴。
+
+底部约 10% 标注保护等级、数据年份、资料来源与更新时间。主色取冰川灰、雪白、岩石褐与石墨黑，少量冷蓝强调；思源黑体 Light、DIN 与 Roboto Mono，2pt 线性图标，0.5pt 淡分割线，大面积留白。所有生物数据必须准确可核验，不虚构种群数字，不使用夸张描述，中文清晰可读，无乱码。
+```
+
+  </details>
 
 - **红楼群芳夜宴 × 最后的晚餐：13人横向群像槽** — 只借达芬奇「中1+左右各6+长桌」结构，人物全换成《红楼梦》清代工笔语境——左黛玉侧、右宝钗侧，不增减不乱序。国风群像海报/长卷 KV 直接填槽。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2102218694873248214)
   <details>
@@ -4337,6 +4367,40 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **极端仰拍时尚 Hero：填 [subject] 轮播出片** — 地板机位仰拍 + 白棚 beauty-dish + Portra 颗粒——芭蕾/快递/糕点师/图书管理员换词即出。时装战役、角色海报统一视觉语言。 [@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [原帖](https://x.com/Alyssa4aicreate/status/2102231985301463502)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A [subject] photographed from an extreme low-angle ground-level view, camera positioned near the floor and tilted upward, standing alone in an off-white studio void, confident pose, dominant elongated silhouette, stylised proportions, sleek fashion styling, reflective textures, bold accessories, soft studio light, single beauty-dish flash casting crisp shadows, subtle Kodak Portra-inspired grain, candid editorial energy, minimalist composition, sharp detail, premium studio photography
+```
+
+  </details>
+
+- **探头头像 Flare：圆头海豹钉死构图比例** — Q 版探头头像写死：头顶只留 ~5% 黑边、下巴切出画框、歪头 8°、无嘴无睫毛。换角色改配饰就能批量出头像资产——回复含海豹完整中文 prompt。 [@achuanmemo](https://x.com/achuanmemo) · [原帖](https://x.com/achuanmemo/status/2102224315340968148)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+方形头像插画，Q 版极简小动物：一只圆滚滚的白色小海豹，不是写实风格。它从画面下边缘探出头来：头顶朝上，画框上沿到头顶最高处之间只留一条很窄的黑色背景，约占画面高度的 5%；头顶的浅蓝色小蝴蝶结完整露在画面里，不被画框切到。头要够大：头部放大到几乎撑满画框，左右两侧顶出画框边缘、被边缘切掉一部分。下巴从画面下边缘出去，画框底部不留黑边。
+
+造型上是歪头：整颗头连同小蝴蝶结一起朝画面右侧倾斜大约 8 度。按画面来看：右眼比左眼低，头顶和蝴蝶结向右偏，像可爱地歪着头看镜头。
+
+它是海豹：头是圆的、没有外耳，只在两侧各有一个很小的耳孔，口鼻部分短而圆。画面里只看得见头顶、眼睛和鼻子，不画嘴巴，不画睫毛，也不加白色高光；眼睛是干净的黑色纯色椭圆；鼻头是一个很小的深灰色圆鼻；眼睛下方是脸颊和粉色腮红，腮红贴着下边缘、只露一半，腮红是纯粉色块、不画斜线。整体为极简扁平色块，几乎没有渐变和阴影，粉彩配色，线条干净利落，矢量插画质感。背景纯黑。可爱、萌系、简洁。整张图就是这一张单幅方形头像，不要分格、不要拼贴、不要同一只海豹的多视角重复。画面里不要出现嘴巴、人的五官、身体、写实或 3D 质感、复杂背景、文字、logo、水印。
+```
+
+  </details>
+
+- **古典美人 9:16：唐风 CG 半身特写可抄** — 冷白肌理 + 暖金主光/冷蓝辅光 + 鎏金凤冠珠帘——竖版国风人物 KV 直接套。写死 85mm / f1.4 / 胶片颗粒，别再靠「仙气」玄学。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102221542465880158)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+9:16 竖版高完成度国风 CG 插画，唐代宫廷美学与电影人物特写。主体是一位明确成年的东亚古典美人，半身正面构图，冷白肌肤保留细腻纹理和自然微光；五官精致但不夸张，凤眼微微眯起，眼尾泛着淡红，目光越过镜头看向远处，胭脂唇微启，像刚从微醺情绪中恢复清醒。她身穿玫瑰粉织金唐风礼服，适度低领，领缘加入细密金线花纹，薄纱披帛从肩头斜向画面外延伸；头戴高耸但结构轻盈的鎏金凤冠，珍珠帘垂在脸侧。人物颈部延展，一只手抬至耳侧轻触摇晃的珠链，另一只手隐于披帛下方。背景虚化为唐宫朱门与冷青色远廊，暖金主光从左前方照亮脸颊，右侧冷蓝辅光塑造轮廓，逆光描绘凤冠和发丝。85mm portrait lens，f/1.4，浅景深，高光克制、暗部有细节，轻微胶片颗粒与柔润辉光，宏丽而不艳俗。
+```
+
+  </details>
 
 - **自拍变约鲁巴高定：脸锁时装战役完整 prompt** — 一张自拍当面部身份锁，整段 agbada + fila + 串珠 + 手杖写死成高端时装工作室战役。右下角可换个人 crest——文化高定种草别再只写「传统服装好看」。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2102201212049203309)
   <details>
@@ -7863,6 +7927,33 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **豪华抓娃娃机爪抓 [PRODUCT]：可填槽电商图** — 4:5 竖版：金爪从顶吊起一件真品，下方堆满同款。换掉 [PRODUCT] 就能出辣酱/护肤/周边——玩味钩子 + 奢侈广告感，电商主图直接用。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2102257393216463021)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a hyper-realistic premium editorial product photograph for [PRODUCT], inspired by a luxury claw/crane arcade machine, in a vertical 4:5 composition.
+
+A polished gold/brass metallic claw descends from the top of the frame, gripping and lifting one [PRODUCT] in the upper-center. Accurately visualize the product’s real-world shape, materials, packaging, colors, branding, and distinctive design.
+
+Below the claw, create a massive overflowing pile of identical [PRODUCT] items, naturally scattered and stacked across the lower two-thirds of the frame. Make every object physically believable with realistic scale, perspective, contact shadows, reflections, and depth.
+
+The claw mechanism features detailed articulated joints, gears, bolts, mechanical components, and a visible coiled cable extending upward, constructed from polished gold/brass metal with realistic reflections.
+
+Use a seamless warm studio background with a muted tone that naturally complements the product’s colors. Apply soft cinematic studio lighting, subtle warm highlights, realistic shadows, controlled reflections, and premium commercial photography aesthetics.
+
+The composition should instantly communicate a playful claw-machine concept while maintaining a sophisticated luxury advertising look. Sharp details, photorealistic materials, vibrant yet cohesive colors, realistic depth, clean framing, high-end editorial quality.
+
+Preserve the recognizable identity of [PRODUCT]. Do not invent unrelated packaging, alter its core design, add unnecessary text, or introduce extra branding.
+
+No text overlays, no watermark, no distorted objects, no malformed products.
+
+Aspect Ratio: 4:5
+Style: Hyper-realistic premium commercial product photography
+```
+
+  </details>
+
 - **可填槽午餐盒收藏品：换名字就能出周边** — 把自己的照片塞进复古午餐盒收藏品包装——把 [YOUR NAME OR @HANDLE] 换成真名再跑 Sunburst（Firefly 也可）。个人品牌周边、社群打卡周边，槽位写死比「帮我做个周边」靠谱一百倍。 [@D_the_Designer](https://x.com/D_the_Designer) · [原帖](https://x.com/D_the_Designer/status/2102151791836316129)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -8414,6 +8505,28 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **参考图气质→单间玩偶屋 + 桌上迷你人偶** — 把角色参考图喂给 Image 2.5：按人物气质搭一间玩偶屋房间，再在桌上摆同款迷你人偶。角色 IP / 周边视觉一键出「家」——回复里有完整英文底座 prompt。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2102270895196885495)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A masterpiece. Top quality. An illustration of a single room in a dollhouse. Based on reference images, depict a room that matches the character’s traits and atmosphere. Place the dollhouse on a desk and draw a miniature version of the character next to it.
+```
+
+  </details>
+
+- **儿童绘本彩铅蜡笔：极简留白可抄风** — 当代独立绘本审美写死：彩铅+蜡笔手绘感、暖白底、大量留白、稚拙比例。禁止写实/3D/高光——品牌童书、亲子内容、温暖插画直接套。 [@MahiraEhan](https://x.com/MahiraEhan) · [原帖](https://x.com/MahiraEhan/status/2102263940549845033)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a delicate minimalist illustration in the style of contemporary children’s book art. Hand-drawn with colored pencils and wax crayons on a slightly warm white background. Simple, lively, imperfect lines with a subtle handmade quality, soft muted natural colors, and a touch of watercolor texture. The characters should be cute, kind, and expressive, with simple facial features and slightly naive, childlike proportions.
+
+The composition should be very clean, airy, and spacious, with plenty of white space around the characters. No realism, no 3D, no glossy effects, and no complex background. The atmosphere should feel warm, intimate, tender, cozy, and family-oriented, evoking childhood and love. Contemporary independent children’s book aesthetic, handmade illustration, sketchbook feel, visible pencil texture.
+```
+
+  </details>
 
 - **海水物理拼圣诞树：游艇豪华假日 KV** — 树不是装饰贴图——用浅滩、礁石、浪花泡沫按物理堆成树形，游艇当树冠。假日豪华航海广告：远看图标、近看海况。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101959963384193293)
   <details>
@@ -9715,6 +9828,30 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **角色图→5×5 像素精灵表→循环 reaction GIF** — 先出一致性精灵表再拼动效：25 帧哭戏循环、脚钉死基线、纯白无格线。表情包 / 社区互动素材流水线，prompt 在楼中。 [@MedioConxx](https://x.com/MedioConxx) · [原帖](https://x.com/MedioConxx/status/2102247966786375740)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded character image as the ONLY identity reference.
+
+Create a clean 5×5 pixel-art sprite sheet containing 25 consecutive animation frames of the same chibi girl crying dramatically.
+
+Preserve her blonde hair, straight bangs, purple eyes, white beret with blue trim, blue hair clips, white-and-navy outfit, striped stockings and small chibi body proportions consistently in every frame.
+
+The animation should form one smooth seamless loop. She begins with watery eyes and a trembling mouth. Her eyebrows lift, her cheeks turn pink and tears gradually gather beneath both eyes. The tears then burst outward into two exaggerated blue streams while she raises both hands beside her face and cries dramatically.
+
+Across the following frames, her body bounces slightly, her shoulders shake, her mouth opens and closes, and the tear streams move naturally in curved arcs. End by reducing the tears and returning smoothly to the opening pose so the animation can loop without a visible jump.
+
+Use crisp retro pixel art, limited colors, sharp pixel edges and consistent pixel density. Keep the character centered at the same scale and position in every cell. Her feet must remain fixed to the same baseline.
+
+Pure white background, five equal columns and five equal rows. No grid lines, no borders, no numbers, no labels and no text.
+
+No character duplication within an individual frame, no missing legs, no changing outfit, no changing hairstyle, no inconsistent face, no blurred pixels, no anti-aliasing, no deformed hands, no cropped tears and no watermark.
+```
+
+  </details>
 
 - **Astra×Sunburst 定格恶搞广告：全流程约 $3.97** — 嫌官方 TV 广告没把吉祥物做成定格？用 Image 2.5 Sunburst 出帧 + Astra 串成 stop-motion 恶搞广告，成本约 $3.97。短视频投放测创意，先算清楚帧成本再卷特效。 [@pritopian](https://x.com/pritopian) · [原帖](https://x.com/pritopian/status/2102175407277801806)
 
