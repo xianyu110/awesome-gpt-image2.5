@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-21 · **收录 588 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 593 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Sunburst vs 2.0 三视图握剑：手部解剖硬对照** — 同角色三视图：Sunburst 把剑柄握姿与特效一起稳住，2.0 特效一弱手就歪。选型别只看脸——道具接触点才是翻车重灾区。 [@shiropapa4622](https://x.com/shiropapa4622) · [原帖](https://x.com/shiropapa4622/status/2102148692514115902)
 
 - **同 prompt 四格漫画：Image 2.5 vs Qwen 2.1 排版对比** — 同一套 PAGE/分镜/对白锁压两模：标题带、竖排气泡、页脚水印全写死。漫画选型别空谈画风——先看谁保住分镜几何与文字层级。 [@FURUYAN123456](https://x.com/FURUYAN123456) · [原帖](https://x.com/FURUYAN123456/status/2102015541921878078)
   <details>
@@ -4323,6 +4325,70 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **自拍变约鲁巴高定：脸锁时装战役完整 prompt** — 一张自拍当面部身份锁，整段 agbada + fila + 串珠 + 手杖写死成高端时装工作室战役。右下角可换个人 crest——文化高定种草别再只写「传统服装好看」。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2102201212049203309)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded photo as the facial identity reference
+
+Add a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.
+
+Create a premium full-body studio portrait of an elegant adult African man wearing luxurious traditional Yoruba-inspired attire, closely matching the reference image.
+
+Dress him in a richly tailored agbada-style outfit made from vertically striped deep green, navy blue, and muted beige fabric. Add intricate cream-and-gold floral embroidery across the chest and lower front, with refined decorative stitching around the neckline. Underneath, include a matching traditional inner top.
+
+Complete the look with a matching striped Yoruba fila cap, neatly structured and slightly folded to one side. Add layered black traditional bead necklaces, black beaded bracelets, a sophisticated silver wristwatch, and a subtle ring.
+
+Pose him standing confidently and facing the camera with a composed, dignified expression. One hand should rest naturally around his midsection while the other holds a slim black traditional walking cane vertically beside him.
+
+Style the lower outfit with tailored light-brown/tan trousers and polished black leather lace-up shoes.
+
+Background & Environment
+Create a sophisticated minimalist indoor studio with:
+Warm beige/tan walls
+A polished wooden floor
+A large rectangular architectural wall feature behind him
+Four evenly spaced vertical recessed niches
+Soft golden lighting glowing from inside each niche
+Clean, symmetrical composition
+No distracting furniture or props
+
+Lighting
+Use warm luxury studio lighting with soft highlights on the face and clothing, realistic skin texture, subtle shadows beneath the agbada, and gentle separation from the background.
+
+Photography Style
+High-end African fashion editorial photography, ultra-realistic textile detail, natural skin tones, sharp facial features, accurate fabric folds, premium cultural portraiture, sophisticated color grading, shallow but controlled depth of field, 85mm portrait-lens aesthetic, crisp professional finish.
+
+Composition: full-body portrait, centered subject, straight-on camera angle, symmetrical framing, vertical 3:4 aspect ratio, photorealistic, premium magazine-quality finish.
+```
+
+  </details>
+
+- **参考图抽衣装：可换装模块 Wardrobe 母版** — 一张参考图 → 插件抽衣装提示词，按 Dress/袜裤/鞋/发饰/袖套分模块互换。PROTECTED WARDROBE RULE 锁死剪裁与纹样，只动你点名的那一件——狐巫女黑红金整套可当角色换装库母版。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2102186680728031515)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. If source prose omits or misclassifies a component required by an explicit selection, that selection corrects only that component. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.
+
+Workflow (ChatGPT Images 2.5):
+1) Upload a reference character photo.
+2) Extract a modular wardrobe prompt (Dress / Legwear / Footwear / Hair accessories / Arm sleeves) with PROTECTED WARDROBE RULE on top.
+3) Swap only one category at a time; keep face/body identity locked.
+
+Example wardrobe modules (fox shrine maiden / black-base classic):
+- Hair: super-long straight layers to natural waist; fringe preserved; optional fox-ear clips + red-gold cord flower comb.
+- Dress: ornate black/ivory/crimson halter corset minidress with high black jacquard collar, gold bells, crimson tassels, rear bow, ankle-level side panels with floral embroidery.
+- Legwear: sheer black thigh-highs with scalloped lace tops + crimson ribbon.
+- Footwear: glossy black patent platform pumps with crimson/gold bows and ankle bells.
+- Arm sleeves: detached furisode-inspired organza sleeves with floral vines.
+
+Replace any single module (e.g. Dress only) while freezing identity and other modules.
+```
+
+  </details>
+
 - **蜜杏照春颜：古风富养美妆人像可返图** — 琥珀蜜杏玻璃妆 + 蜜杏襦/奶油裙/湖蓝披帛，春日妆阁窗光。古风美妆封面完整中文提示，欢迎返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102018446624227531)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -7764,6 +7830,29 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **可填槽午餐盒收藏品：换名字就能出周边** — 把自己的照片塞进复古午餐盒收藏品包装——把 [YOUR NAME OR @HANDLE] 换成真名再跑 Sunburst（Firefly 也可）。个人品牌周边、社群打卡周边，槽位写死比「帮我做个周边」靠谱一百倍。 [@D_the_Designer](https://x.com/D_the_Designer) · [原帖](https://x.com/D_the_Designer/status/2102151791836316129)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+The Daily D 011 — personal lunch box collectible (GPT Image 2.5 Sunburst / Adobe Firefly)
+
+Use your photo with GPT Image 2.5 Sunburst to make an over-the-top retro collectible lunch box.
+
+Replace [YOUR NAME OR @HANDLE] with your exact name or handle before generating.
+
+Recipe intent:
+- Upload a clear face/reference photo
+- Generate a retro tin lunch-box product shot as a collectible object
+- Brand the lid/side panel with [YOUR NAME OR @HANDLE]
+- Keep identity readable on the printed artwork; exaggerate 70s–90s collectible packaging vibes
+- Experiment with colorways and share variants
+
+Tip: run on Sunburst for print-like type and package edges; swap only the name slot between gens.
+```
+
+  </details>
+
 - **改图十式：先写 keep-list 再点名改什么** — 「make it better」会把你改成路人。十条可复制编辑句：只改背景/锁脸/换光/去路人/只换外套/选区修手/头像裁切/去油光/移产品保标/下一轮只改景深。Images 2.5 更听话，前提是 keep-list 写死。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2102033775752560738)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -9593,6 +9682,8 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **Astra×Sunburst 定格恶搞广告：全流程约 $3.97** — 嫌官方 TV 广告没把吉祥物做成定格？用 Image 2.5 Sunburst 出帧 + Astra 串成 stop-motion 恶搞广告，成本约 $3.97。短视频投放测创意，先算清楚帧成本再卷特效。 [@pritopian](https://x.com/pritopian) · [原帖](https://x.com/pritopian/status/2102175407277801806)
 
 - **Claude Code→VOX 科普片六步：Image2.5 同源局部+MiniMax H3** — 每句旁白必须有可证明的图；图1总控+图2–5同源局部特写（带图1一起生成）；中文烧进图里；MiniMax H3 Ref2VA 四档保留词。15 秒约¥7.5——Agent 出科普短片的可抄流水线。 [@AlistairVadkqv](https://x.com/AlistairVadkqv) · [原帖](https://x.com/AlistairVadkqv/status/2101861488189431919)
   <details>
