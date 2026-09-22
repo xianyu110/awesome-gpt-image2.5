@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 609 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 618 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,10 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **同图连改 5 次压测：色/表情/小物稳，姿态崩** — 换色、表情、加小物 OK；加背景植物会漂移项链；「上半身微倾」几乎无效。局部编辑选型别听安利——看它敢不敢动不该动的结构。 [@kozuchi_ai](https://x.com/kozuchi_ai) · [原帖](https://x.com/kozuchi_ai/status/2102324472334479536)
+
+- **同提示词硬刚：Qwen-Image-2.1 vs Image 2.5** — 左本地 Qwen、右 GPT Image 2.5——细节丰但偏碎，Qwen 涂抹感重。消费级显卡本地模型能打到哪，并排看比听安利管用。 [@akokoi1](https://x.com/akokoi1) · [原帖](https://x.com/akokoi1/status/2102319136307363873)
 
 - **同题对照：Qwen-Image-2.1 vs GPT Image 2.5** — 左 Qwen、右 Image 2.5——字能写明白了但仍「丑」，本地 M2 Max 一张 ~18 分钟。选型别只看能出字，还要看成片审美与算力账。 [@lukfan](https://x.com/lukfan) · [原帖](https://x.com/lukfan/status/2102240402887897186)
 
@@ -4368,7 +4372,368 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **UGC 脸锁健身房自拍：JSON 重构换装换耳机** — 参考图锁姿势/机位/环境，只换耳机商品色与运动装，脸轻微虚构化。种草 UGC + 商品植入一条 JSON 抄走就能改。 [@jasonugc](https://x.com/jasonugc) · [原帖](https://x.com/jasonugc/status/2102329429875724480)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+{
+  "prompt_type": "photorealistic_reference_reconstruction_with_targeted_modifications",
+  "objective": "Recreate the supplied gym selfie as closely as possible while preserving the same overall pose, camera angle, framing, hairstyle, jewelry, body positioning, gym environment, lighting, and candid smartphone aesthetic. Apply three deliberate changes: replace the dark over-ear headphones with the silver headphones from the attached product reference, change the gray athletic top to white, change the gray athletic bottoms to white, and subtly alter the woman's facial features so she appears to be a different fictional person rather than an exact facial duplicate. Ignore and remove all text, logos, buttons, watermarks, captions, UI graphics, and screen overlays.",
+  "reference_fidelity": {
+    "target": "very high similarity to the primary gym reference except for requested changes",
+    "preserve": [
+      "same vertical selfie framing",
+      "same arm's-length smartphone perspective",
+      "same torso angle",
+      "same gym equipment placement",
+      "same long low ponytail",
+      "same face-framing strands",
+      "same jewelry style",
+      "same warm skin tone",
+      "same dramatic freckles",
+      "same natural gym lighting",
+      "same overall sporty social-media aesthetic"
+    ],
+    "modify": [
+      "black headphones to silver headphones",
+      "gray sports top to white",
+      "gray bottoms to white",
+      "facial identity subtly changed"
+    ]
+  },
+  "canvas": {
+    "orientation": "portrait",
+    "aspect_ratio": "approximately 9:16",
+    "framing": "vertical smartphone selfie",
+    "crop": "from just above the head to approximately upper hips",
+    "subject_scale": "large, filling most of the frame",
+    "camera_distance": "arm's-length",
+    "camera_height": "roughly face level",
+    "perspective": "natural wide-angle front-camera perspective"
+  },
+  "scene": {
+    "location": "modern indoor gym",
+    "mood": "confident, polished, sporty, casual",
+    "background": {
+      "ceiling": "dark industrial ceiling with exposed beams and ducts",
+      "lighting": "long warm-white linear LED fixtures",
+      "walls": "neutral dark gray and medium gray",
+      "equipment": [
+        "large cardio or strength machine on viewer-left",
+        "exercise machines behind subject on viewer-right",
+        "dark metal frames and matte black equipment"
+      ],
+      "floor": "warm brown wood or wood-look gym flooring",
+      "depth": "background remains recognizable but slightly softer than the subject"
+    }
+  },
+  "subject": {
+    "identity": "original fictional adult woman",
+    "age_appearance": "early-to-mid 20s",
+    "physique": "slim, athletic, toned, natural proportions",
+    "pose": {
+      "torso": "slightly angled toward viewer-left",
+      "head": "turned subtly toward viewer-right",
+      "gaze": "looking directly into the phone camera",
+      "right_arm": "extended outward holding the phone",
+      "left_hand": "holding the end of the long ponytail near the lower-left foreground",
+      "shoulders": "relaxed",
+      "expression": "neutral with a slight pout"
+    },
+    "skin": {
+      "tone": "warm medium tan",
+      "undertone": "golden-neutral",
+      "finish": "natural satin glow",
+      "texture": "realistic pores and small imperfections",
+      "freckles": "numerous visible freckles across nose, cheeks, forehead, shoulders, and upper chest",
+      "retouching": "minimal"
+    },
+    "face_identity_change": {
+      "instruction": "Alter the facial identity subtly while preserving the same overall beauty style and age range.",
+      "face_shape": "slightly narrower oval face",
+      "jawline": "more tapered and refined",
+      "chin": "softly pointed",
+      "eyes": {
+        "shape": "slightly more elongated almond eyes",
+        "size": "medium",
+        "spacing": "slightly wider-set",
+        "color": "warm dark brown",
+        "outer_corners": "subtly lifted"
+      },
+      "eyebrows": {
+        "shape": "full with a softer arch",
+        "color": "dark brown",
+        "density": "medium-full"
+      },
+      "nose": {
+        "bridge": "narrow and straight",
+        "tip": "softly refined",
+        "overall": "slightly smaller than the original reference"
+      },
+      "cheeks": {
+        "cheekbones": "slightly higher",
+        "midface": "softly sculpted"
+      },
+      "lips": {
+        "shape": "full with a pronounced cupid's bow",
+        "upper_lip": "slightly narrower",
+        "lower_lip": "slightly fuller",
+        "color": "natural glossy nude-pink"
+      },
+      "piercing": {
+        "type": "small silver lip piercing",
+        "position": "lower lip area",
+        "appearance": "subtle metallic bead"
+      }
+    }
+  },
+  "hair": {
+    "color": "deep medium brown",
+    "length": "very long",
+    "style": "low ponytail",
+    "part": "center part",
+    "front_sections": "two long straight face-framing strands",
+    "ponytail": "thick, straight, extending down the viewer-left side of the torso",
+    "texture": "sleek and smooth",
+    "shine": "natural glossy highlights",
+    "hair_tie": "small dark elastic"
+  },
+  "headphones": {
+    "change_instruction": "Replace the original dark headphones with the silver headphones shown in the attached product reference.",
+    "type": "premium over-ear headphones",
+    "earcups": "large smooth oval metallic silver shells",
+    "cushions": "light gray or silver woven fabric",
+    "headband": "white to pale silver dual-canopy style",
+    "connectors": "small polished silver metal joints",
+    "finish": "soft satin aluminum",
+    "position": "worn naturally over both ears",
+    "scale": "large enough to visually frame the face",
+    "important": "match the attached silver headphone silhouette and material treatment"
+  },
+  "wardrobe": {
+    "top": {
+      "change_instruction": "Change the original gray athletic top to white while preserving the exact same silhouette.",
+      "type": "fitted wrap-style halter sports bra",
+      "color": "clean bright white",
+      "neckline": "deep V neckline",
+      "straps": "wide halter-style straps",
+      "construction": "cross-over wrap front",
+      "fit": "tight supportive athletic fit",
+      "material": "ribbed or fine athletic jersey",
+      "finish": "matte with slight stretch-fabric sheen"
+    },
+    "bottom": {
+      "change_instruction": "Change the original gray bottoms to matching white.",
+      "type": "high-waisted fitted workout leggings or shorts",
+      "color": "clean bright white",
+      "waist": "high rise",
+      "fit": "body-contouring",
+      "material": "matching athletic stretch knit",
+      "visibility": "upper waistband and top portion visible near the bottom of the frame"
+    }
+  },
+  "jewelry_and_accessories": {
+    "necklace": {
+      "type": "delicate short silver necklace",
+      "style": "small sparkling links or tiny stones",
+      "placement": "around the base of the neck"
+    },
+    "rings": {
+      "quantity": "multiple",
+      "material": "silver",
+      "style": "small delicate fashion rings",
+      "placement": "on fingers of the hand holding the ponytail"
+    },
+    "tattoo": {
+      "type": "tiny outlined heart",
+      "placement": "upper chest near viewer-left collarbone",
+      "color": "dark brown-black",
+      "style": "minimal linework"
+    }
+  },
+  "hands": {
+    "left_hand": {
+      "pose": "lightly gripping ponytail",
+      "fingers": "relaxed and anatomically correct",
+      "nails": {
+        "length": "medium-long",
+        "shape": "almond",
+        "color": "soft pale pink / nude",
+        "finish": "glossy"
+      }
+    }
+  },
+  "lighting": {
+    "type": "mixed gym ambient light and natural frontal fill",
+    "direction": "front and slightly above",
+    "quality": "soft, bright, realistic",
+    "contrast": "moderate",
+    "skin_effect": "warm glow with visible freckles",
+    "hair_effect": "soft highlights along straight strands",
+    "headphone_effect": "clean metallic silver reflections",
+    "white_outfit_effect": "retain fabric detail without blowing out highlights"
+  },
+  "camera": {
+    "device": "modern smartphone front-facing camera",
+    "orientation": "vertical",
+    "lens": "wide selfie lens",
+    "focal_length_equivalent": "approximately 24-28mm",
+    "distance": "arm's-length",
+    "perspective": "slightly wide but natural",
+    "focus": "sharpest on face and headphones",
+    "depth_of_field": "moderately deep",
+    "processing": "subtle HDR, natural phone sharpening, minimal beauty processing",
+    "image_quality": "high-resolution"
+  },
+  "composition_geometry": {
+    "face": "upper-center",
+    "headphones": "frame both sides of the head",
+    "ponytail": "runs vertically down viewer-left side",
+    "raised_camera_arm": "extends toward viewer-right",
+    "sports_top": "dominates center and lower-middle portion",
+    "gym_machine": "large dark equipment structure on viewer-left",
+    "background_equipment": "visible behind viewer-right shoulder",
+    "ceiling_lights": "strong horizontal and diagonal lines across upper background"
+  },
+  "color_palette": {
+    "dominant_colors": [
+      "white",
+      "silver",
+      "warm tan",
+      "dark brown",
+      "charcoal",
+      "black",
+      "warm wood"
+    ],
+    "overall_mood": "clean, luxe, sporty, modern"
+  },
+  "photographic_style": {
+    "genre": "fitness lifestyle selfie",
+    "aesthetic": "premium social-media gym portrait",
+    "realism": "extreme photorealism",
+    "retouching": "minimal and believable",
+    "desired_result": "looks like an authentic high-quality smartphone selfie taken casually at the gym"
+  },
+  "negative_prompt": [
+    "black headphones",
+    "gray headphones",
+    "gray top",
+    "gray bottoms",
+    "colored workout clothing",
+    "different hairstyle",
+    "short hair",
+    "curly hair",
+    "blonde hair",
+    "missing ponytail",
+    "missing face-framing strands",
+    "missing freckles",
+    "heavy glam makeup",
+    "studio lighting",
+    "outdoor background",
+    "bedroom",
+    "bathroom",
+    "extra people",
+    "text",
+    "logos",
+    "watermarks",
+    "buttons",
+    "UI overlays",
+    "screen graphics",
+    "extra arms",
+    "extra fingers",
+    "warped hands",
+    "deformed headphones",
+    "plastic skin",
+    "CGI",
+    "3D render",
+    "illustration",
+    "anime",
+    "fisheye distortion"
+  ],
+  "final_generation_instruction": "Generate one extremely photorealistic vertical smartphone gym selfie matching the supplied reference composition as closely as possible. Preserve the same long dark-brown low ponytail with two face-framing strands, same hand holding the ponytail, same gym environment, same high-angle/front-camera framing, same jewelry, visible freckles, subtle pout, and athletic silhouette. Replace the original dark headphones with the attached premium silver over-ear headphones featuring metallic oval earcups, pale woven cushions, and a white-silver canopy headband. Change the gray wrap-style sports bra to bright white and change the visible gray bottoms to matching white. Subtly redesign the facial identity so she appears to be a different fictional woman: slightly narrower oval face, tapered jaw, elongated dark-brown almond eyes, softer arched brows, a slimmer nose, higher cheekbones, fuller lower lip, and a small subtle silver lower-lip piercing. Use natural realistic skin texture, warm gym lighting, detailed white athletic fabric, metallic headphone reflections, and authentic smartphone HDR. Remove all text, logos, watermarks, buttons, and interface elements."
+}
+```
+
+  </details>
+
+- **Y2K 日杂时尚 9:16：完整美妆发型 prompt** — early-2000s 日杂 editorial + 双丸子头 + 玻璃唇——竖版种草封面直接套。美妆/穿搭博主别再堆「氛围感」三个字。 [@BubbleBrain](https://x.com/BubbleBrain) · [原帖](https://x.com/BubbleBrain/status/2102322774090133548)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+9:16 vertical, ultra-realistic fashion beauty portrait, early 2000s Japanese fashion magazine editorial, Y2K Asian beauty photobook aesthetic, clearly adult East Asian woman in her mid-20s, delicate small oval face, warm ivory skin, realistic pores and natural skin texture, dewy glossy skin with subtle wet highlights on the forehead, nose bridge, cheeks, shoulders and collarbones, slender cat-like eyes with soft gray-green contact lenses.
+
+Makeup inspired by early-2000s Japanese beauty editorials: translucent luminous base, soft lavender and icy lilac shimmer eyeshadow, subtle pearlescent highlight at the inner corners of the eyes, elongated thin black winged eyeliner, softly defined lower lash line, delicate separated lashes, cool pink blush concentrated lightly across the upper cheeks, subtle highlight on the nose bridge and cheekbones, glossy translucent rose-pink lips with a glassy finish. Overall makeup feels fresh, cool-toned, slightly dreamy, and unmistakably Y2K without looking theatrical.
+
+Glossy black hair styled into symmetrical loose double side buns / Y2K space buns with small outward pigtail ends, thick wispy blunt bangs, long thin face-framing strands resting naturally beside the cheeks. Add several tiny translucent lavender and pale blue hair clips, plus one silver hollow star-shaped metal hair clip. A few loose strands spread softly across the white surface beneath her head.
+
+Wearing a fitted icy powder-blue off-shoulder top in soft stretch fabric, slightly cool-toned and subtly glossy, with straps resting naturally on the upper arms, exposing the shoulders and collarbones. Layered delicate silver necklaces with tiny crystal and translucent acrylic pendants, subtle Y2K jewelry styling, clean and feminine.
+
+The woman is lying relaxed on a clean white studio floor or softly wrinkled white fabric, photographed from directly above. Her body is angled slightly diagonally across the frame, one arm bent loosely near the side of her head, the other resting naturally across her waist or beside her torso. Shoulders relaxed, head tilted only slightly, eyes looking directly up toward the camera. Her space buns and loose hair spread naturally around her head, creating a soft graphic silhouette.
+
+Top-down overhead composition, chest-up to half-body framing, 50mm to 85mm portrait lens, clean editorial composition with generous negative space. Pure white seamless background, high-key studio lighting, large softbox from above and slightly to one side, soft reflector fill, extremely gentle shadows, subtle highlight bloom, bright airy exposure, slight early-2000s magazine softness while keeping the eyes sharply focused.
+
+Realistic fabric folds, individual hair strands, glossy skin highlights, delicate pearlescent makeup reflections, soft nostalgic Y2K Japanese magazine mood, intimate but polished photobook aesthetic, icy blue and lavender color palette, realistic editorial photography, no text, no watermark.
+```
+
+  </details>
+
+- **极简东方人物插画：纸伞清微结构化提示** — 主体/气质/主色/点缀/几何强度/9:16 全写死——清冷东方 KV 可复用骨架。别靠「仙气」两个字碰运气。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102313613881159693)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主体内容：一位明确成年的东方女性单手持一把极简纸伞，身体轻微侧身站立，另一只手自然垂落在裙侧
+主体气质：清冷、含蓄、东方、柔美
+画面用途：极简人物插画
+主色调：深紫罗兰、墨蓝紫、冷白
+点缀色：电光紫
+几何元素强度：弱
+几何元素类型：伞面圆形构图 + 细线
+画幅比例：9:16 
+补充要求：服装为收腰长裙，重点突出伞下站姿带出的肩颈线、胸部轮廓、胸腰曲线、腰臀比例与腿部轮廓，纸伞简化为大圆形视觉元素，背景保持留白
+```
+
+  </details>
+
+- **参考图脸锁：水下梦境写真可抄** — 锁脸五官不动，只换水下白纱+鱼群+丁达尔光柱。写真/旅拍广告换场景不换人，参考图 prompting 教科书。 [@Techbyhani](https://x.com/Techbyhani) · [原帖](https://x.com/Techbyhani/status/2102313364026454076)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a cinematic, ultra-realistic underwater dream portrait using the reference image. Preserve the woman’s facial identity, natural facial proportions, eyes, eyebrows, lips, and recognizable features.
+
+She is floating gracefully underwater, looking softly toward the camera with a calm, dreamy expression. Her long dark-brown hair flows naturally through the water, with individual strands drifting around her face.
+
+She wears an elegant ethereal white sheer gown decorated with delicate pearl-like details. The translucent fabric floats beautifully around her body, creating graceful flowing shapes. One arm extends gently toward the camera, creating depth and an immersive perspective.
+
+Surround her with crystal-clear turquoise water, tiny bubbles, colorful tropical fish, soft coral, and ancient submerged stone columns/ruins in the background. Bright sunlight filters down from the water surface, creating beautiful volumetric light rays, shimmering caustic reflections, and soft golden highlights on her face and dress.
+
+Style: photorealistic, cinematic fantasy, ethereal underwater photography, dreamy atmosphere, realistic skin texture, detailed wet hair, natural facial features, soft depth of field, volumetric lighting, floating particles, subtle glow, premium editorial photography, highly detailed, realistic water physics, 9:16 vertical composition, 8K quality.
+```
+
+  </details>
+
 - **2×2 身份锁四宫格：同一人同一车只换姿势** — 写死同一张脸/发型/黑卫衣/墨镜/耳环/Mercedes 内饰/迪拜天际线，四格只换姿势（眨眼托腮/看镜头/自拍/望窗外）。身份一致性压测模板——UGC 生活方式拼贴直接套。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2102283043696165107)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a 2x2 four-panel cinematic photo collage featuring the EXACT SAME Korean-looking young woman in all four panels. Strong identity consistency: same face, same hairstyle, same black oversized sweatshirt, same sunglasses, same earrings, same makeup, same Mercedes car, same beige leather interior, same lighting, same time of day, and the same Dubai skyline with the Burj Khalifa visible through the windows.
+
+She is sitting comfortably inside the car taking stylish photos/selfies. Each panel must show a DIFFERENT natural pose while everything else remains identical.
+
+Panel 1: She rests her cheek on her hand and gives a playful wink toward the camera.
+Panel 2: She turns slightly toward the camera with a soft confident expression, one hand near the steering wheel.
+Panel 3: She holds her smartphone in front of her face while taking a selfie.
+Panel 4: She looks toward the window with her hand gently touching her cheek.
+
+Photorealistic luxury lifestyle photography, elegant Korean fashion aesthetic, realistic skin texture, natural facial expressions, cinematic sunset lighting, Dubai city lights beginning to glow, Burj Khalifa clearly visible in the background, premium social-media aesthetic, highly detailed, realistic camera photography, seamless 2x2 collage, perfect visual consistency across all four panels, no face changes, no outfit changes, no car changes, no background changes.
+```
+
+  </details>
+
 - **极端仰拍时尚 Hero：填 [subject] 轮播出片** — 地板机位仰拍 + 白棚 beauty-dish + Portra 颗粒——芭蕾/快递/糕点师/图书管理员换词即出。时装战役、角色海报统一视觉语言。 [@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [原帖](https://x.com/Alyssa4aicreate/status/2102231985301463502)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -8507,6 +8872,143 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
 场景、长卷、视频工作流与氛围大图。
 
+- **建设业 PR：Image 2.5 分镜 → Gemini Omni 成片** — ChatGPT 策划 → Image 2.5 出 3×3 分镜 → Gemini Omni 一键成片/配乐/旁白。B2B 企业宣传片别从剪辑台起步——先锁分镜再喂视频模型。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2102337226311180568)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【① GPT Image 2.5 出 3×3 分镜】
+Create one premium photorealistic 3×3 storyboard for a 10-second Japanese construction-company corporate commercial.
+
+Brand: “NEXARC CONSTRUCTION”
+Audience: commercial-property owners, developers, business leaders and engineering recruits.
+Central message: disciplined design and construction create the places where tomorrow’s work and life begin.
+
+LAYOUT
+One overall landscape 16:9 image. Exactly nine equal 16:9 panels arranged in three columns and three rows. Thin ivory gutters. Small white panel numbers 01–09 in the upper-left corner of each panel. Read left to right, top row to bottom row.
+
+No captions, arrows, watermarks or production notes. Only panel numbers and the final brand typography in panel 09.
+
+CONTINUITY
+Recurring lead architect: the same 36-year-old Japanese man, lean build, calm intelligent face, short neatly parted black hair and natural skin texture. He wears a crisp white shirt, dark navy work jacket and charcoal trousers. At the active construction site, add the same white safety helmet, reflective charcoal vest, gloves and safety boots.
+
+The recurring development contains one central 18-story rectangular office tower with blue-gray glass, vertical silver fins and a transparent entrance canopy, plus two six-story side buildings, a pedestrian plaza, warm timber accents and young street trees.
+
+Keep this building geometry consistent through every construction phase.
+
+A thin cobalt-blue line is the visual motif. It appears first on tracing paper and then as a physical survey line at the construction site. It never magically transforms into a building.
+
+NINE PANELS
+01 — Overhead macro in a dawn architecture studio. The architect draws one precise cobalt-blue line across translucent tracing paper using a ruler and technical pencil.
+
+02 — Low close-up at an empty prepared construction site. A surveyor wearing correct PPE marks one straight cobalt-blue line on the ground. Survey tripod behind.
+
+03 — Wide active foundation stage with excavation, rebar, formwork and concrete pumping. Workers remain in organized safe zones.
+
+04 — Low-angle steel erection. A crane lifts one steel beam into position while properly equipped riggers guide it from safe positions. No worker beneath the load.
+
+05 — Detailed façade installation. Workers using approved lifting equipment and fall protection install one blue-gray glass panel and silver vertical fins.
+
+06 — Elevated wide of the nearly finished development. Crews install pale stone paving, timber benches and young trees around the coherent completed buildings.
+
+07 — Finished office lobby. The same architect, without his helmet but wearing the navy jacket, opens the glass entrance as the first office workers enter.
+
+08 — Grand golden-hour wide of the completed district. Office workers, pedestrians, parked bicycles and a café terrace bring the architecture to life.
+
+09 — Symmetrical blue-hour hero shot of the completed district. Illuminated offices and plaza. Stable centered white text: “NEXARC CONSTRUCTION”. Beneath it: “まだない景色を、つくる。”
+
+PHOTOGRAPHY
+High-end live-action Japanese corporate commercial. Natural full-frame cinema-camera perspective, realistic concrete, structural steel, glass, timber, cables, asphalt and foliage. Cool dawn progressing through clear daylight, golden hour and blue hour. Key light consistently from frame left. Architectural white, graphite, silver, blue-gray glass, warm timber and restrained cobalt blue. Smooth highlight roll-off, moderate depth of field and subtle film grain.
+
+SAFETY
+All construction activity must be physically believable. Correct PPE, fall protection, crane rigging, exclusion zones and stable scaffolding. No workers beneath suspended loads.
+
+AVOID
+Magical construction, object morphing, teleporting materials, instant trees, collapsing structures, demolition, unsafe workers, missing helmets, floating beams, bent cranes, impossible machinery, inconsistent architecture, changing façade colors, duplicate people, malformed hands, CGI-plastic surfaces, miniature-diorama appearance, cartoon styling, futuristic fantasy cities, extra logos, unreadable text or panels other than 01–09.
+
+---
+
+【② Gemini Omni 成片】完整视频 prompt 见原帖回复： https://x.com/husky__create/status/2102337252340994249
+```
+
+  </details>
+
+- **动漫静帧填槽：ERA×TIER 控时代质感** — 2×2 科幻片静帧模板，ERA/TIER 调度赛璐璐→数码质感。图生视频前置关键帧配方，换电影名就能批量出。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2102302629661647182)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+2x2 grid, 16:9, do this for 4 underrated international scifi movies: // FN: anime_still(CHARACTER, SETTING, TIME, ERA, TIER, MOOD)
+
+INPUT
+  CHARACTER = $ infer
+  SETTING   =  $ infer
+  TIME      = $ infer
+  ERA       = $ infer
+  TIER      = $ infer
+  MOOD      = $ infer
+
+DISPATCH :: ERA → production reality
+  1980-92 cel : hand-painted, RICH saturated paint, visible cel dust and fine
+                scratches, slight registration wobble, 1 shadow step, dark
+                brown-black line, painted BG with heavy brush texture
+  1993-99 cel→digital : transitional, cleaner paint, 1–2 steps, first digital
+                compositing, BG still painted, slight color banding
+  2000-10 digital : flat digital paint, 2 steps common, rim light appears,
+                BG digitally painted but still soft-edged and detailed
+  2011+ digital : 2 steps + gradient allowed ONLY in the photography pass,
+                heavy bloom and diffusion, BG photo-referenced, thin lines
+
+DISPATCH :: TIER → detail budget (this is the realism lever)
+  tv_weekly : minimal line count, simple shadow shapes, BG reused-looking,
+              character held on 3s, no complex effects
+  tv_premium: more line detail in key frames, 2-step shadow on the face
+  film      : dense linework, complex shadow shapes following real anatomy,
+              highly detailed BG, subtle effects layer, held poses are rare
+  ova       : film detail, darker palette, more mature proportions
+
+DISPATCH :: TIME → palette swatch set + shadow direction + photography grade
+  morning        : cool blues and pale yellow, long shadows, clean bloom
+  midday         : high-key, minimal shadow, saturated greens outside
+  late_afternoon : warm ochre/rose BG, LONG horizontal shadows, heavy bloom
+                   through windows, dust motes, orange gradient map over all
+  dusk           : magenta-to-indigo BG, silhouettes, warm rim on one edge
+  night          : deep blue-violet, cool shadow swatch, practicals as bloom
+                   sources, character lit only where a light source justifies
+
+INVARIANT LAWS  // do not vary with any input
+  L_BG        : painted, NO outlines, MORE detail than the character
+  L_LINE      : constant weight, tapered ends, dark brown not black for skin
+  L_FILL      : flat, no gradient, no texture, no noise
+  L_SHADOW    : hard-edged, {ERA.steps} step(s), a SEPARATE cooler swatch —
+                not the base color multiplied. The boundary is a drawn line.
+  L_HIGHLIGHT : flat, hard, sparse. Hair gets ONE band. Eye catchlight is a
+                fixed shape that does NOT track the light source.
+  L_FX        : drawn discrete elements, never particle simulation
+  L_PHOTO     : the ONLY layer permitted soft gradients — bloom, diffusion,
+                grade, grain, applied to the flattened stack
+
+FORBIDDEN
+  ✗ gradient shading on the character   ✗ soft shadow edges
+  ✗ outlines on background elements     ✗ character out-detailing the BG
+  ✗ line weight varying with light      ✗ per-pixel specular on skin
+  ✗ photographic DOF on the BG (painted soft ≠ lens blur)
+
+RENDER
+  Anime still, {ERA.medium}, {TIER} production. {CHARACTER} in {SETTING},
+  {TIME}. {TIME.palette}. Background painted with {L_BG}. Character in
+  {L_LINE}, {L_FILL}, shadows as {ERA.steps} hard-edged step(s) in a cooler
+  swatch with no soft falloff anywhere. {L_HIGHLIGHT}. {TIME.fx}.
+  Over everything: {L_PHOTO}. {MOOD.pose_hold}.
+
+AUDIT
+  shadow_boundary_gradient ≈ 0px · shadow_steps == ERA.steps
+  detail(BG) > detail(character) · line_weight_variance ≈ 0
+  every soft gradient originates in L_PHOTO
+```
+
+  </details>
+
 - **参考图气质→单间玩偶屋 + 桌上迷你人偶** — 把角色参考图喂给 Image 2.5：按人物气质搭一间玩偶屋房间，再在桌上摆同款迷你人偶。角色 IP / 周边视觉一键出「家」——回复里有完整英文底座 prompt。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2102270895196885495)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -9830,6 +10332,41 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 像素、精灵表与动效向玩法。
 
+- **Perler Bead 可填槽：[COUNTRY] 4:5 编辑图** — 填国家/地标自动抽主体 → 拼豆质感 + 白描边 + 大留白。旅游/城市系列海报流水线，换词即出下一城。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2102318473997426892)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium 4:5 vertical Perler Bead editorial artwork for [COUNTRY / LOCATION / SUBJECT].
+
+VISUAL GENERATION
+Build the entire composition creatively from [COUNTRY / LOCATION / SUBJECT]. Automatically identify the most recognizable subject, landmark, character, animal, architecture, landscape, or cultural element associated with it.
+
+PERLER BEAD ART
+Transform the main subject into a miniature Perler Bead artwork made from precisely arranged rounded plastic beads. Every bead should have a clearly visible central hole, authentic matte plastic texture, subtle dimensionality, and realistic heat-fused construction.
+
+Preserve the subject's most recognizable silhouette, proportions, pose, and signature colors while simplifying unnecessary details. Build highlights, shadows, and depth entirely through neighboring solid-color beads. No gradients, watercolor effects, soft brushwork, or painterly transitions.
+
+Add a clean white Perler Bead outline around the entire artwork, following the subject with a naturally stepped pixel-like edge.
+
+COMPOSITION
+Place the finished Perler Bead artwork small and refined in the upper-center of the frame, surrounded by generous negative space. Divide the composition into two balanced horizontal zones, creating a clean 50/50 editorial structure.
+
+Use a soft, low-saturation background palette inspired by [COUNTRY / LOCATION / SUBJECT], with subtle paper grain and tactile printed texture. Add only a very soft natural shadow beneath the bead artwork so it feels physically placed on the surface.
+
+TYPOGRAPHY
+Keep typography minimal and restrained. If text is used, include only a short elegant English title related to [COUNTRY / LOCATION / SUBJECT]. No excessive labels, captions, logos, or decorative text.
+
+FINAL AESTHETIC
+Perler Bead craftsmanship × minimalist travel editorial × lifestyle photography book × tactile paper texture × refined negative space. The result should feel like a premium physical art piece photographed from above, combining playful bead craftsmanship with sophisticated editorial design.
+
+Avoid photorealistic subjects, CGI plastic, smooth gradients, watercolor, painterly effects, oversized bead art, clutter, excessive text, logos, watermarks, or distorted bead patterns.
+
+FORMAT: 4:5 vertical, 50/50 balanced composition, small centered Perler Bead artwork, generous negative space.
+```
+
+  </details>
+
 - **角色图→5×5 像素精灵表→循环 reaction GIF** — 先出一致性精灵表再拼动效：25 帧哭戏循环、脚钉死基线、纯白无格线。表情包 / 社区互动素材流水线，prompt 在楼中。 [@MedioConxx](https://x.com/MedioConxx) · [原帖](https://x.com/MedioConxx/status/2102247966786375740)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -10381,6 +10918,7 @@ This is a sticker slideshow, not a continuous character-motion animation.
 产品 UI / UX 视觉与落地页 mock。
 
 - **GPT 出横幅 → Canva 动画：五分钟静转动** — Images 2.5 出横幅 → GPT 写动画指令 → Canva 直接做成动效。别停在静图——社媒投放素材从静到动的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2102231420387086632)
+
 - **先 Image 2.5 出站视觉 mock，再让 Codex 写站** — 别先甩代码：把受众/文案/品牌色/参考图丢给 Codex，明确「先出 imagegen 网页 mock 再写前端」。审完布局与 CTA 再落实现、对照截图修差分——Images 2→2.5 一路变稳的一人队建站法。 [@shannholmberg](https://x.com/shannholmberg) · [原帖](https://x.com/shannholmberg/status/2102163474709389562)
   <details>
   <summary>查看 / 复制提示词</summary>
