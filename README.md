@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 622 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 631 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,14 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **懒提示词 vs 魂提示词：同题差一个档位** — 同一美女题，糊弄 prompt 与写满细节，2.5 观感差到像两个模型。原帖可复制对照——别怪模型，先怪自己偷懒。 [@nezukichii](https://x.com/nezukichii) · [原帖](https://x.com/nezukichii/status/2102374351370952809)
+
+- **100 画风 STYLE ATLAS：全 Image 2.5 可复制** — 别再说 ChatGPT 动漫脸千篇一律——100 种画风对照站，站内全文公开 prompt。选型、找风格、抄作业一条龙；高级玩家也能挖冷门笔触。 [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [原帖](https://x.com/SSSS_CRYPTOMAN/status/2102346384531972197) · [prompt](https://style-atlas-100.sssscryptoman.chatgpt.site/)
+
+- **参考图当硬 harness：别啥都塞进参照** — 2.5 对参考图追从变强——旧图会连画风癖一起拽。文字说不清的结构（如服装剪裁）才上参考；要引擎力就敢把参照拿掉。 [@ramdls](https://x.com/ramdls) · [原帖](https://x.com/ramdls/status/2102341813340352832)
+
+- **Flare 写实实测：肤质毛孔与光影不崩** — 自测打脸：皮肤纹理、自然光、手机噪点、景深、长 prompt 跟指令、 candid 姿态都站住。今年最写实档位之一——别只吹「跟 prompt」，先看光影与质感。 [@rewind02](https://x.com/rewind02) · [原帖](https://x.com/rewind02/status/2102341125235224691)
 
 - **同图连改 5 次压测：色/表情/小物稳，姿态崩** — 换色、表情、加小物 OK；加背景植物会漂移项链；「上半身微倾」几乎无效。局部编辑选型别听安利——看它敢不敢动不该动的结构。 [@kozuchi_ai](https://x.com/kozuchi_ai) · [原帖](https://x.com/kozuchi_ai/status/2102324472334479536)
 
@@ -964,6 +972,8 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **照片→写实素描：四步流程可复用** — 收藏照变专业素描：开 Gemini/Grok/Image 2.5 → 丢参考图 → 贴 prompt → 出片。Sketch/线稿向种草素材流水线，原帖附图。 [@Alina_with_Ai](https://x.com/Alina_with_Ai) · [原帖](https://x.com/Alina_with_Ai/status/2102358953489481762)
+
 - **Sketch 锁版 + Comments 只改一处 + Templates 出初稿** — 改到第三次构图也毁了？用 Sketch 锁版面、Comments 定点改、Templates 先有草稿，再配「保留一切、每轮只改一件事」。10 分钟出宣传图的编辑优先心法。 [@udhk_official](https://x.com/udhk_official) · [原帖](https://x.com/udhk_official/status/2101929747664003197) · [prompt](https://www.ud.hk/zh-Hant/blogs/insight/article/chatgpt-images-25-sketch-guide-2026-09-10)
 
 - **时尚线稿→超写实：错配鞋四连（loafer/croc/…）** — 同一 editorial 线稿主题，只换错配鞋型：乐福、洞洞鞋、细高跟、球鞋。Sketch 控形 + Image 2.5 写实，穿搭号「一稿多变」示范。 [@zayyadatullah](https://x.com/zayyadatullah) · [原帖](https://x.com/zayyadatullah/status/2100871323719209165)
@@ -1094,6 +1104,587 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **Quechua 户外广告：4:5 数字拼贴完整 campaign** — Behance 级户外 key visual，竖版 4:5 社媒主视觉。PLAY OUTSIDE 叙事写死，反 AI 糊/反库存图；户外品牌 campaign 直接抄长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2102341408208400884)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+QUECHUA — “PLAY OUTSIDE.”
+BEHANCE-LEVEL DIGITAL COLLAGE CAMPAIGN
+FORMAT
+Ultra-Premium QUECHUA Outdoor Campaign Key Visual
+Vertical 4:5 Instagram Hero Creative
+Behance Front Page Quality
+Global Outdoor & Hiking Campaign
+Senior Social Media Art Direction
+Contemporary Outdoor Photography × Handcrafted Digital Collage × Editorial Graphic Design
+8K UHD
+Hyper-Realistic Outdoor Photography
+High-End Editorial Art Direction
+Print-Quality Graphic Execution
+Premium Commercial Adventure Campaign
+Strong Visual Storytelling
+Tactile Mixed-Media Aesthetic
+Zero AI Slop
+Zero Generic Hiking Advertisement
+Zero Stock-Photo Feeling
+Zero Influencer Travel Aesthetic
+Zero Corporate Catalogue Layout
+Zero Luxury-Adventure Copycat
+Zero Random Graphic Decoration
+The final artwork must feel deliberately designed by a senior art director and assembled by a professional digital collage artist — not generated as a collection of unrelated elements.
+CREATIVE CONCEPT
+CAMPAIGN:
+“PLAY OUTSIDE.”
+CORE MESSAGE:
+THE OUTDOORS BELONGS TO EVERYONE.
+The campaign celebrates the instinct to leave the ordinary behind.
+A trail after work.
+A mountain on the weekend.
+A cold morning hike.
+A sudden change in weather.
+A long walk with friends.
+A place you have never explored before.
+Quechua becomes the equipment that makes everyday exploration possible.
+The visual should communicate:
+EXPLORATION
+FREEDOM
+DISCOVERY
+ADVENTURE
+MOVEMENT
+RESILIENCE
+COMMUNITY
+OUTDOOR LIFE
+The campaign should feel:
+AUTHENTIC
+ADVENTUROUS
+YOUTHFUL
+RAW
+OPTIMISTIC
+HUMAN
+ENERGETIC
+ACCESSIBLE
+ART DIRECTION
+Think:
+QUECHUA × OUTDOOR EDITORIAL × MOUNTAIN JOURNAL × HANDCRAFTED POSTER × TOPOGRAPHIC MAP × CONTEMPORARY DIGITAL COLLAGE
+The artwork should combine highly realistic outdoor photography with visibly handmade graphic interventions.
+The contrast is essential:
+REAL HUMAN
++
+REAL OUTDOOR ENVIRONMENT
++
+REAL QUECHUA PRODUCT
++
+HANDMADE GRAPHICS
++
+TOPOGRAPHIC INFORMATION
++
+EDITORIAL TYPOGRAPHY
+Do not make the environment look like an artificial fantasy landscape.
+The mountain must feel physically real.
+The weather must feel real.
+The clothing must look genuinely functional.
+The person must look like someone who actually hikes.
+Introduce controlled imperfections:
+rough paper edges
+hand-painted marks
+topographic contour lines
+slightly misregistered ink
+screen-print texture
+cut-paper shapes
+field-note markings
+visible paper fibers
+analog grain
+subtle photocopy texture
+These imperfections should feel intentionally art-directed.
+Never messy.
+Never amateur.
+PHASE 1 — HERO PHOTOGRAPHY
+SUBJECT:
+One energetic everyday outdoor explorer.
+Age:
+20–30.
+Gender:
+Auto select based on strongest visual composition.
+Casting:
+Contemporary global and diverse.
+The person must look like a genuine Quechua customer rather than a fashion model.
+Natural facial structure.
+Natural skin texture.
+Realistic body proportions.
+Practical outdoor appearance.
+No influencer aesthetic.
+No luxury travel aesthetic.
+No expedition-superhero styling.
+EXPRESSION:
+Focused.
+Curious.
+Confident.
+Natural.
+A subtle authentic smile or concentrated expression.
+The emotion should communicate:
+“I WANT TO SEE WHAT IS AROUND THE NEXT CORNER.”
+ACTION
+Capture the subject at the absolute peak of outdoor movement.
+Preferred actions:
+HIKING UPHILL
+TRAIL RUNNING
+CROSSING A ROCKY RIDGE
+CLIMBING A STEEP TRAIL
+WALKING THROUGH A FOREST
+JUMPING ACROSS A SMALL STREAM
+DESCENDING A MOUNTAIN PATH
+TREKKING THROUGH LIGHT RAIN
+Choose ONE action with the strongest silhouette.
+The action must create a powerful diagonal.
+The body should naturally travel from:
+TOP LEFT
+toward
+BOTTOM RIGHT.
+The terrain should reinforce the movement direction.
+Capture authentic physical effort.
+Boots should interact naturally with rocks, soil or trail surface.
+Clothing should react naturally to wind and movement.
+No impossible body positioning.
+No floating feet.
+No fantasy climbing.
+HERO PRODUCT
+ONE CLEARLY VISIBLE QUECHUA PRODUCT ONLY.
+Choose the product that best supports the selected adventure.
+Examples:
+QUECHUA HIKING JACKET
+QUECHUA BACKPACK
+QUECHUA HIKING BOOTS
+QUECHUA FLEECE
+QUECHUA RAIN JACKET
+QUECHUA TREKKING TROUSERS
+QUECHUA TENT
+The product must be unmistakably visible.
+Product placement should feel naturally integrated into the adventure.
+No floating product.
+No duplicate product.
+No product lineup.
+The hero product receives secondary visual emphasis after the explorer.
+Preserve accurate product construction:
+fabric
+stitching
+zippers
+buckles
+straps
+pockets
+waterproof details
+sole construction
+technical materials
+brand markings
+PHOTOGRAPHIC STYLE
+Premium editorial outdoor campaign photography.
+Authentic natural lighting.
+Documentary adventure energy.
+Real mountain atmosphere.
+Natural skin.
+High-resolution textile detail.
+Realistic terrain.
+Camera:
+SONY A1 II
+Lens:
+85mm
+Aperture:
+f/2.8
+Camera position:
+Slight low-angle hero perspective.
+Crop:
+3/4 body or full body depending on action.
+The explorer must be isolated with an exceptionally clean professional cutout when required for the collage.
+Preserve:
+hair detail
+fabric edges
+hands
+boots
+backpack straps
+equipment
+natural movement
+No artificial cutout halo.
+No white outline.
+No excessive sharpening.
+PHASE 2 — COLOR FOUNDATION
+PRIMARY QUECHUA OUTDOOR BLUE
+Use a strong outdoor-inspired Quechua blue as the principal graphic accent.
+SUPPORTING COLORS:
+Off-white
+Warm stone grey
+Deep forest green
+The palette should feel connected to:
+mountain sky
+rock
+forest
+trail
+technical outdoor equipment
+Keep the graphic system controlled.
+Avoid excessive colors.
+PRIMARY PAINT FORM
+Create ONE enormous irregular outdoor-blue paint form.
+Occupy approximately:
+45–55% of the composition.
+The shape should function as the visual foundation of the collage.
+Appearance:
+hand-painted
+thick brush texture
+organic edges
+dry-brush imperfections
+visible bristle marks
+slight transparency variations
+screen-print character
+paper interaction
+The paint should feel physically applied to recycled expedition paper.
+Not a smooth digital blob.
+Not a generic vector shape.
+The explorer should overlap the paint form.
+The product must remain completely visible.
+PHASE 3 — COLLAGE SYSTEM
+Introduce exactly five major handcrafted graphic elements.
+Select from:
+TOPOGRAPHIC CONTOUR LINES
+TRAIL ROUTE LINES
+HAND-DRAWN CIRCLES
+COMPASS SYMBOLS
+ALTITUDE MARKERS
+MOUNTAIN SILHOUETTES
+GPS COORDINATE MARKINGS
+ELEVATION GRAPHICS
+HAND-DRAWN ARROWS
+WEATHER SYMBOLS
+TERRAIN MAP FRAGMENTS
+HALFTONE DOTS
+FIELD-NOTE MARKINGS
+Each element must have a visual purpose.
+Do not scatter graphics randomly.
+Graphics should reinforce:
+direction
+altitude
+location
+distance
+terrain
+exploration
+Use asymmetric placement.
+Create a strong diagonal rhythm.
+Some elements may pass behind the explorer.
+Some may partially disappear beneath typography.
+One or two graphic elements may overlap the subject subtly to create physical depth.
+MATERIAL LANGUAGE
+Build the collage as though physically assembled from an explorer’s field notebook.
+Include subtle:
+torn-paper edges
+folded map fragments
+screen-print texture
+photocopy artifacts
+ink bleed
+dry-brush marks
+recycled paper fibers
+topographic printing
+handwritten route markings
+subtle registration offsets
+analog grain
+The artwork should feel tactile.
+It should resemble:
+A MOUNTAIN MAP
+AN OUTDOOR MAGAZINE
+A HANDMADE ADVENTURE POSTER.
+Do not overdo the texture.
+PHASE 4 — TYPOGRAPHY
+PRIMARY HEADLINE:
+PLAY OUTSIDE.
+Make this the second-largest visual element after the explorer.
+Large bold uppercase geometric sans-serif.
+Extremely strong weight.
+Tight leading.
+Compact composition.
+Minimal tracking.
+Allow a slight 2–4° rotation.
+The typography should feel physically printed onto the artwork.
+Not floating.
+Not glossy.
+Not 3D.
+Not futuristic.
+Typography should interact with the collage.
+Allow:
+partial cropping
+layer overlap
+masking
+paint interruption
+map-line interruption
+edge cropping
+PRIMARY COPY:
+PLAY OUTSIDE.
+SUPPORTING COPY:
+Built for whatever the trail brings.
+Keep supporting copy small and highly readable.
+TYPOGRAPHIC HIERARCHY
+01
+QUECHUA BRANDING
+02
+PLAY OUTSIDE.
+03
+Built for whatever the trail brings.
+04
+TRAIL / ALTITUDE / ADVENTURE INFORMATION
+05
+DISCOVER MORE
+The headline must remain instantly readable even at Instagram thumbnail size.
+PHASE 5 — QUECHUA BRANDING
+Place the official QUECHUA branding in the upper-left.
+Preserve:
+correct proportions
+clear space
+accurate wordmark
+brand integrity
+Do not distort.
+Do not stretch.
+Do not place the logo inside unnecessary effects.
+Small supporting line:
+OUTDOOR EQUIPMENT
+The branding should remain visible but should not compete with:
+PLAY OUTSIDE.
+PHASE 6 — BACKGROUND
+BACKGROUND COLOR:
+Warm Light Stone Grey
+The background should resemble premium recycled expedition paper.
+Add extremely subtle:
+paper grain
+recycled fiber
+analogue noise
+soft printing imperfections
+faint topographic texture
+Texture opacity:
+Below 15%.
+The background must remain visually quiet.
+The energy comes from:
+THE EXPLORER
+THE TERRAIN
+THE PAINT FORM
+THE TOPOGRAPHIC GRAPHICS.
+PHASE 7 — COMPOSITION
+MODEL POSITION:
+Off-center.
+Never dead center.
+Place the explorer slightly toward the visual intersection of the composition.
+NEGATIVE SPACE:
+Approximately 18%.
+Allow breathing room around the major elements.
+LAYER ORDER:
+01 BACKGROUND
+02 PAPER TEXTURE
+03 TOPOGRAPHIC MAP FRAGMENTS
+04 PAINT FORM
+05 HANDMADE GRAPHIC ELEMENTS
+06 EXPLORER PHOTOGRAPH
+07 PRODUCT
+08 TYPOGRAPHY
+09 MICRO INFORMATION
+10 BRANDING
+11 FOOTER
+The explorer should appear to physically exist inside the collage.
+MOVEMENT DIRECTION
+TOP LEFT
+↓
+MOUNTAIN RIDGE
+↓
+EXPLORER
+↓
+BOTTOM RIGHT
+The entire composition should feel as if it is moving toward an unseen destination.
+The eye should travel naturally:
+BRANDING
+↓
+HEADLINE
+↓
+FACE
+↓
+PRODUCT
+↓
+TRAIL
+↓
+CTA
+PHASE 8 — VISUAL DEPTH
+Create three distinct depth planes.
+BACKGROUND:
+Recycled paper, faint mountain forms and subtle map texture.
+MIDGROUND:
+Paint forms, contour lines, trail maps, compass graphics and altitude information.
+FOREGROUND:
+Explorer, product and typography.
+Some contour lines should disappear behind the explorer.
+Some typography should overlap the paint.
+One small map element should overlap the subject subtly.
+This creates the feeling of a physically assembled outdoor editorial collage rather than a flat AI composition.
+PHASE 9 — BRAND DNA
+The artwork must communicate Quechua’s core outdoor identity:
+ACCESSIBLE ADVENTURE
+EVERYDAY EXPLORATION
+HIKING
+OUTDOOR DISCOVERY
+PRACTICAL INNOVATION
+WEATHER READINESS
+COMFORT
+COMMUNITY
+NATURE
+MOVEMENT
+The explorer should never look like an untouchable professional expedition athlete.
+The campaign should make the viewer think:
+“I could go there.”
+That feeling is more important than displaying extreme athletic performance.
+PHASE 10 — INFORMATION DESIGN
+Introduce a small editorial information block.
+Example:
+01 / MOUNTAIN TRAIL
+ALT. 2,480 M
+HIKING / TREKKING
+ALL-WEATHER EQUIPMENT
+DISTANCE / 08.4 KM
+Use tiny but perfectly legible typography.
+Create visual hierarchy through:
+scale
+weight
+spacing
+alignment
+Not through excessive colors.
+PHASE 11 — SECONDARY COLLAGE FRAME
+Introduce ONE small secondary photographic frame.
+Place it asymmetrically.
+Inside:
+A secondary outdoor adventure moment.
+For example:
+a small group of hikers crossing a mountain trail.
+Frame it with a thin outdoor-blue border.
+Add:
+02 / 04
+MOUNTAIN COLLECTION
+The secondary image must feel like part of a printed outdoor field journal.
+It should support the campaign narrative without competing with the hero explorer.
+PHASE 12 — FOOTER
+Create a minimal bottom strip.
+Include:
+QUECHUA
+DISCOVER MORE →
+https://t.co/rvyX2uzLvo
+OUTDOOR EQUIPMENT
+Use very small clean typography.
+Keep the footer extremely restrained.
+No sale banner.
+No clutter.
+PHASE 13 — GRAPHIC IMPERFECTION
+Introduce controlled imperfections characteristic of high-end physical outdoor collage:
+slightly uneven paint edges
+tiny ink inconsistencies
+subtle map displacement
+minor registration shift
+hand-drawn contour variation
+faint photocopy noise
+slight paper edge wear
+These details should make the artwork feel human-made.
+The composition must still feel extremely polished.
+Think:
+ART-DIRECTED IMPERFECTION.
+Not RANDOM IMPERFECTION.
+PHASE 14 — LIGHTING & IMAGE QUALITY
+The original outdoor photograph must retain premium commercial photography quality.
+Natural mountain sunlight.
+Strong directional light.
+Realistic atmospheric depth.
+Crisp highlights.
+Controlled shadows.
+Natural skin exposure.
+Detailed technical fabric.
+Realistic rock and vegetation texture.
+Sharp hero product.
+Natural environmental reflections.
+No artificial HDR.
+No plastic skin.
+No beauty retouching.
+No excessive clarity.
+No fake cinematic glow.
+No neon.
+No fantasy lighting. over-saturated landscape.
+PHASE 15 — FINAL ART DIRECTION
+The final visual should look like a real campaign artwork created by:
+A SENIOR SOCIAL MEDIA ART DIRECTOR
+A PROFESSIONAL OUTDOOR PHOTOGRAPHER
+A DIGITAL COLLAGE ARTIST
+A TYPOGRAPHER
+A MAP / EDITORIAL DESIGNER
+Every element should appear intentional.
+Every layer should have a purpose.
+The explorer should provide realism.
+The Quechua product should provide commercial relevance.
+The typography should provide communication.
+The mountain environment should provide emotion.
+The map graphics should provide exploration.
+The paint form should provide brand energy.
+The paper texture should provide physicality.
+The composition should provide movement.
+FINAL FEEL
+If:
+QUECHUA
+×
+A CONTEMPORARY OUTDOOR MAGAZINE
+×
+A HAND-PAINTED MOUNTAIN POSTER
+×
+A TOPOGRAPHIC FIELD JOURNAL
+×
+A MODERN GRAPHIC DESIGN STUDIO
+created one campaign together.
+The final result should feel:
+RAW.
+HUMAN.
+OUTDOOR.
+TACTILE.
+ADVENTUROUS.
+ACCESSIBLE.
+YOUTHFUL.
+EXPLORATIVE.
+REAL.
+Not a catalogue.
+Not a generic hiking advertisement.
+Not a luxury outdoor campaign.
+Not a travel-influencer post.
+Not a corporate retail graphic.
+Not an AI-generated mountain collage.
+A genuine Quechua campaign where:
+PHOTOGRAPHY + TERRAIN + PRODUCT + TYPOGRAPHY + TOPOGRAPHIC GRAPHICS + HANDCRAFTED COLLAGE
+become one visual system.
+FINAL GENERATION SPECIFICATION
+Vertical 4:5
+8K UHD
+Hyper-realistic outdoor photography
+Sony A1 II
+85mm
+f/2.8
+Authentic human anatomy
+Natural skin texture
+Detailed technical outdoor apparel
+Accurate Quechua product construction
+Clean professional cutout
+Outdoor blue / off-white / stone grey / forest green
+Controlled graphic palette
+Hand-painted collage elements
+Topographic map graphics
+Recycled paper texture
+Editorial typography
+Asymmetrical composition
+Strong diagonal movement
+18% negative space
+Premium commercial photography
+Contemporary digital collage
+Behance front-page art direction
+Instagram hero creative
+Print-ready finish
+High visual hierarchy
+High brand recognition
+ZERO AI SLOP
+```
+
+  </details>
 
 - **雪豹百科信息卡：瑞士国际主义网格模板** — 2:3 竖版图鉴卡：顶 30% 去背主体 + 中 60% 九模块网格 + 底 10% 来源栏。换物种改模块就能出博物馆级信息图——内容号/科普账号直接填槽。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102220678976204987)
   <details>
@@ -4373,6 +4964,260 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **UGC 锁构图姿态衣装：身份微变 JSON** — 参考图死守构图/姿态/耳机/草坪，只微变五官身份——AI UGC 批量换人套装。JSON 写清 preserve vs modify，种草素材工厂直接抄。 [@noneugc](https://x.com/noneugc) · [原帖](https://x.com/noneugc/status/2102372927123407043)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+{
+  "prompt_type": "photorealistic_reference_reconstruction_with_identity_variation",
+  "objective": "Recreate the supplied image as closely as possible in composition, pose, outfit, lighting, headphones, artificial-grass background, workout mat, hairstyle, jewelry, and overall smartphone-selfie realism, but subtly change the woman's facial features so she appears to be a different fictional person rather than an exact facial duplicate. Keep the new face attractive, natural, realistic, and consistent with the same overall age range and aesthetic.",
+  "reference_fidelity": {
+    "target": "very high visual similarity for everything except facial identity",
+    "preserve_exactly": [
+      "camera angle",
+      "reclined selfie pose",
+      "pink long-sleeve crop top",
+      "white inner halter layer",
+      "lavender-purple over-ear headphones",
+      "high ponytail",
+      "gold hoop earrings",
+      "gold necklace",
+      "gray ribbed exercise mat",
+      "green artificial turf",
+      "bright natural sunlight",
+      "portrait framing"
+    ],
+    "intentionally_modify": [
+      "facial identity",
+      "eye shape",
+      "brow shape",
+      "nose proportions",
+      "lip shape",
+      "jawline",
+      "cheek structure"
+    ]
+  },
+  "canvas": {
+    "orientation": "portrait",
+    "aspect_ratio": "approximately 9:16",
+    "framing": "high-angle vertical smartphone selfie",
+    "crop": "from ponytail and artificial grass at top to upper abdomen at bottom",
+    "subject_position": "centered slightly left",
+    "camera_distance": "arm's-length",
+    "camera_angle": "steep overhead selfie angle looking down toward the reclining subject"
+  },
+  "scene": {
+    "setting": "outdoor or semi-outdoor fitness area",
+    "ground": {
+      "type": "artificial grass",
+      "color": "natural medium green",
+      "texture": "dense short synthetic turf blades",
+      "lighting": "bright direct daylight with soft shadow patches"
+    },
+    "exercise_surface": {
+      "type": "gray ribbed padded workout bench or mat",
+      "color": "charcoal gray",
+      "texture": "horizontal ribbing",
+      "details": "two round black anchor or hardware circles visible near either side of the head and upper torso"
+    }
+  },
+  "subject": {
+    "identity": "original fictional adult woman",
+    "age_appearance": "early-to-mid 20s",
+    "pose": {
+      "body": "reclining flat or slightly angled on the mat",
+      "head": "resting back while looking toward the phone",
+      "arms": "both arms extended upward toward the camera",
+      "expression": "subtle relaxed pout",
+      "gaze": "directly toward the camera"
+    },
+    "skin": {
+      "tone": "warm light-to-medium tan",
+      "finish": "natural satin glow",
+      "texture": "realistic pores and subtle freckles",
+      "retouching": "minimal"
+    },
+    "face_change": {
+      "instruction": "Keep the face broadly compatible with the same overall look, but alter the facial identity noticeably enough that it reads as a different fictional woman.",
+      "changes": {
+        "face_shape": "slightly narrower oval face with a softer tapered jaw",
+        "forehead": "slightly shorter forehead",
+        "eyes": {
+          "shape": "slightly more elongated almond shape",
+          "size": "a little smaller than the reference",
+          "spacing": "very slightly wider-set",
+          "color": "warm hazel-brown",
+          "outer_corners": "subtly lifted"
+        },
+        "eyebrows": {
+          "shape": "softer and slightly straighter",
+          "arch": "less pronounced",
+          "thickness": "medium"
+        },
+        "nose": {
+          "bridge": "slightly narrower",
+          "tip": "more delicate and softly upturned",
+          "overall": "subtly smaller than the reference"
+        },
+        "cheeks": {
+          "structure": "slightly higher cheekbones",
+          "fullness": "a little softer through the mid-face"
+        },
+        "lips": {
+          "shape": "slightly narrower upper lip and fuller lower lip",
+          "cupid_bow": "more defined",
+          "color": "soft nude-pink"
+        },
+        "chin": "slightly more pointed but still soft",
+        "jawline": "gently tapered rather than broad"
+      },
+      "important": "Do not drastically transform the overall aesthetic; the change should be subtle but enough to create a distinct fictional identity."
+    }
+  },
+  "hair": {
+    "color": "light brown to dark blonde",
+    "style": "sleek high ponytail",
+    "root_style": "smoothly pulled back",
+    "pony_length": "long",
+    "placement": "extends diagonally toward the upper-left corner",
+    "texture": "mostly straight with a few natural flyaways",
+    "shine": "sunlit golden highlights"
+  },
+  "headphones": {
+    "type": "large premium over-ear headphones",
+    "color": "soft lavender-purple",
+    "earcups": "smooth metallic lavender oval shells",
+    "ear_cushions": "light lavender fabric",
+    "headband": "matching pale lavender canopy-style band",
+    "hardware": "small silver connectors",
+    "position": "worn normally over both ears",
+    "finish": "soft satin metallic"
+  },
+  "wardrobe": {
+    "outer_top": {
+      "type": "fitted long-sleeve cropped athletic top",
+      "color": "soft bubblegum pink",
+      "neckline": "wide scoop",
+      "fit": "tight body-contouring stretch fit",
+      "material": "smooth matte athletic fabric",
+      "sleeves": "full length",
+      "hem": "cropped below the bust"
+    },
+    "inner_layer": {
+      "type": "white halter-style sports top",
+      "visibility": "white straps and center neckline visible beneath the pink crop top"
+    }
+  },
+  "jewelry": {
+    "earrings": {
+      "type": "large thin gold hoops",
+      "finish": "polished gold"
+    },
+    "necklace": {
+      "type": "short gold chain",
+      "style": "slightly curved snake-chain or herringbone style",
+      "placement": "resting close to the collarbone"
+    }
+  },
+  "makeup": {
+    "style": "minimal sporty soft glam",
+    "eyes": "defined lashes and a very subtle eyeliner wing",
+    "brows": "natural groomed brows",
+    "skin": "fresh and luminous",
+    "lips": "soft nude pink satin",
+    "blush": "very subtle warm peach"
+  },
+  "lighting": {
+    "type": "bright natural daylight",
+    "direction": "from upper-right",
+    "quality": "clear and slightly directional",
+    "skin_highlights": "soft highlights on forehead, nose, cheeks, and collarbones",
+    "grass_highlights": "sunlit blades with darker shadow zones",
+    "contrast": "moderate"
+  },
+  "camera": {
+    "device": "modern smartphone front-facing camera",
+    "lens": "approximately 24-28mm equivalent",
+    "orientation": "vertical",
+    "perspective": "mild wide-angle selfie perspective",
+    "focus": "sharpest on face and headphones",
+    "depth_of_field": "moderately deep",
+    "processing": "subtle HDR and realistic smartphone sharpening",
+    "image_quality": "high resolution"
+  },
+  "composition_geometry": {
+    "ponytail": "extends across upper-left quadrant",
+    "face": "slightly left of center",
+    "headphones": "symmetrically framing the head",
+    "pink_sleeves": "form strong diagonal foreground shapes from bottom corners",
+    "gray_mat": "runs beneath the head and torso",
+    "artificial_grass": "fills the entire background outside the gray mat"
+  },
+  "photographic_style": {
+    "genre": "fitness lifestyle selfie",
+    "aesthetic": "clean feminine sporty social-media portrait",
+    "realism": "extreme photorealism",
+    "retouching": "light and believable",
+    "desired_result": "looks like a genuine candid smartphone selfie taken outdoors after or during a workout"
+  },
+  "negative_prompt": [
+    "exact duplicate of the reference face",
+    "same facial identity",
+    "text",
+    "captions",
+    "logos",
+    "watermarks",
+    "buttons",
+    "UI overlays",
+    "silver headphones",
+    "blue top",
+    "dark gym flooring",
+    "natural lawn",
+    "short hair",
+    "loose hair",
+    "curly hair",
+    "missing ponytail",
+    "missing hoop earrings",
+    "missing necklace",
+    "extra people",
+    "extra arms",
+    "extra fingers",
+    "warped hands",
+    "deformed headphones",
+    "plastic skin",
+    "heavy beauty filter",
+    "CGI",
+    "3D render",
+    "illustration",
+    "anime",
+    "extreme fisheye",
+    "dramatic studio lighting"
+  ],
+  "final_generation_instruction": "Generate one highly photorealistic vertical smartphone selfie matching the supplied reference's composition, reclined high-angle pose, artificial-grass setting, gray ribbed workout mat, soft pink long-sleeve crop top, visible white halter layer, lavender-purple over-ear headphones, high ponytail, gold hoop earrings, and gold necklace. Keep the same sporty feminine mood and natural sunlight. However, subtly redesign the woman's facial identity: give her a slightly narrower oval face, softer tapered jaw, slightly smaller and more elongated hazel-brown almond eyes, slightly straighter brows, a narrower nose with a delicate softly upturned tip, higher cheekbones, and a different lip shape with a more defined cupid's bow and fuller lower lip. The resulting woman should clearly be a different fictional person while still fitting naturally into the same photo. Remove all text, logos, watermarks, and interface elements."
+}
+```
+
+  </details>
+
+- **Sunburst 狗仔远距机位：码头香槟整活** — 先用 Sunburst 锁远距狗仔构图（人小、码头与水面多），再叠参考脸/Logo。成帧后可接视频，但本条可抄的是起帧 prompt。 [@techhalla](https://x.com/techhalla) · [原帖](https://x.com/techhalla/status/2102357636725321734)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Candid paparazzi phone photo from a FARTHER distance on a marina dock — wider framing, subjects smaller in frame, more dock boards and water visible. Mid quality — readable faces and logo, mild phone softness, ordinary daylight. Not magazine-clean, not muddy grain.
+
+LEFT: a very tall man (~198 cm) matching exact face from [ref_pic] — bald under a black snapback, neat dense beard a bit long, olive skin. White crew-neck t-shirt, medium-loose blue jeans, classic red-black-white Air Jordan 1 High. He stands on the left, looking at the grandma on his right — not at the camera — handing her a champagne bottle mid-pass.
+
+BESIDE HIM: elderly grandma, slightly overweight, floral bathrobe, fuzzy house slippers. She looks back at him during the bottle handoff.
+
+RIGHT: luxury yacht moored TIGHT against the dock / pier — hull almost touching the quay, very little gap between boat and dock. Party people clearly visible on the deck with drinks. Exact Magnific logo from [ref_logo] large on the yacht hull side.
+
+Composition left to right: man → grandma → yacht tight to the dock with clear party crowd. Camera far back. Photoreal paparazzi phone snap.
+```
+
+  </details>
 
 - **UGC 脸锁健身房自拍：JSON 重构换装换耳机** — 参考图锁姿势/机位/环境，只换耳机商品色与运动装，脸轻微虚构化。种草 UGC + 商品植入一条 JSON 抄走就能改。 [@jasonugc](https://x.com/jasonugc) · [原帖](https://x.com/jasonugc/status/2102329429875724480)
   <details>
@@ -10932,6 +11777,16 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **任意图→JSON 提示词：只改要改的部分** — 上传任意图，让它「转成含尺寸与细节的 JSON 提示词」，再局部改字段重出。可编辑配方，改图一次一事的标准操作。 [@wad0427](https://x.com/wad0427) · [原帖](https://x.com/wad0427/status/2102382659880296846)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+画像を JSON プロンプトに変換し、サイズと詳細を含めてください
+```
+
+  </details>
 
 - **指定 px 直出：免 Canva/PS 再裁** — Images 2.5 按指定像素出图，比例与 px 一并守住。社媒/投放素材少一道二次裁切——尺寸写进指令就够。 [@kawai_design](https://x.com/kawai_design) · [原帖](https://x.com/kawai_design/status/2102328384424735036)
 
