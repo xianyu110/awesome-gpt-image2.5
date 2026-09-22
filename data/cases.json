@@ -5065,5 +5065,41 @@
     "author": "shiropapa4622",
     "url": "https://x.com/shiropapa4622/status/2102148692514115902",
     "category": "选型评测"
+  },
+  {
+    "id": "2102163474709389562",
+    "title": "先 Image 2.5 出站视觉 mock，再让 Codex 写站",
+    "blurb": "别先甩代码：把受众/文案/品牌色/参考图丢给 Codex，明确「先出 imagegen 网页 mock 再写前端」。审完布局与 CTA 再落实现、对照截图修差分——Images 2→2.5 一路变稳的一人队建站法。",
+    "author": "shannholmberg",
+    "url": "https://x.com/shannholmberg/status/2102163474709389562",
+    "category": "UX产品",
+    "prompt": "use imagegen to create a website mockup from this brief and the attached references\nuse the supplied copy, brand assets and product information\nshow the page layout, typography, imagery and calls to action, and wait for my feedback before writing code\n\n---\n\nbuild the approved mockup as a responsive page\npreserve its layout, spacing, typography and visual hierarchy, use the approved copy and implement the interactions we agreed\nflag anything that needs a design decision before changing it"
+  },
+  {
+    "id": "2102218694873248214",
+    "title": "红楼群芳夜宴 × 最后的晚餐：13人横向群像槽",
+    "blurb": "只借达芬奇「中1+左右各6+长桌」结构，人物全换成《红楼梦》清代工笔语境——左黛玉侧、右宝钗侧，不增减不乱序。国风群像海报/长卷 KV 直接填槽。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2102218694873248214",
+    "category": "海报排版",
+    "prompt": "《红楼梦·群芳夜宴》 × 《最后的晚餐》13人经典群像构图 × 仅借用横向群像结构 × 约1.9:1宽幅 × 画面左侧6人：妙玉、王熙凤、史湘云、探春、李纨、林黛玉 × 中央：贾宝玉 × 画面右侧6人：薛宝钗、迎春、惜春、平儿、袭人、晴雯 × 横向长桌宴席 × 清代宫廷工笔人物画\n\n说明：\n“《最后的晚餐》13人经典群像构图”仅借用其中央人物＋左右各6人＋横向长桌＋左右人物分组的构图关系。画面严格保持左6人、中央1人、右6人，共13人。贾宝玉位于画面正中央，林黛玉与薛宝钗分别紧邻贾宝玉两侧，其余人物按照提示词规定的顺序向画面两侧展开。13人全部清晰可见，不增减人物，不打乱左右顺序，不将人物分散到其他区域。人物沿长桌两侧形成完整横向群像。仅借用《最后的晚餐》的构图结构，故事、人物、服饰、场景与绘画语言均采用《红楼梦》的中国古典语境，不出现西方宗教人物或宗教元素。"
+  },
+  {
+    "id": "2102096417388937684",
+    "title": "TikTok 真帧锁颗粒：参考只管光色，prompt 管叙事",
+    "blurb": "裸写 prompt 容易 AI 塑料感——先从 TikTok 抠真实街拍/UGC 帧当参考，只借用灯光/色调/颗粒/相机感，再用详细 prompt 重画新场景。参考负责「真」，文案负责「演什么」。",
+    "author": "spect3ral",
+    "url": "https://x.com/spect3ral/status/2102096417388937684",
+    "category": "人像角色",
+    "prompt": "Use the reference only for lighting, color, grain and camera feel. New scene: a woman in her late 20s, stopped mid-stride on a busy sidewalk for a street interview. An interviewer's mic pokes in from frame left. She's laughing, caught off guard. Curly dark hair, freckles, visible skin texture, beige trench coat. Shot on a phone, natural daylight, unretouched."
+  },
+  {
+    "id": "2102132613095833773",
+    "title": "里斯本蛋挞店 Sunburst：相机卷随手拍 UGC",
+    "blurb": "Sunburst 写死「相册偷拍不是棚拍」：葡语价目表、azulejo 瓷砖、烤箱油光额头、面粉手与冷荧光下巴光。本地生活种草竖版可换城市换柜台。",
+    "author": "BorderleSint",
+    "url": "https://x.com/BorderleSint/status/2102132613095833773",
+    "category": "人像角色",
+    "prompt": "A real snapshot pulled from someone's camera roll, not a photoshoot. Vertical phone photo taken inside a small neighbourhood pastelaria in Lisbon, Portugal, mid-morning. A grown woman stands behind the counter, centered, framed head to the top of the display case, looking into the lens with a flat unposed expression, mouth closed. Dark hair pulled back into a flat working ponytail with loose strands stuck at the temples. Brown eyes, bare face, real skin with pores, shine on the forehead from the ovens, a faint old burn mark on one forearm, flour dust on her hands. She wears a plain navy work apron over a washed-out polo shirt with the sleeves pushed up and a pen clipped at the chest. The room is Portuguese and not English: blue and white azulejo tiles up the lower wall, a wide stainless display case with trays of pastéis de nata and bolas de berlim, a chrome espresso machine with small white cups stacked on top, a paper price list taped to the glass written in European Portuguese with prices in euros, paper napkins in a metal holder, and through the open door behind her the black and white calçada portuguesa pavement and a narrow street with a yellow building opposite. Warm daylight coming in through the shop door from the street, plus a cold strip of fluorescent light under the counter edge lighting her chin from below, so the tiles behind her glare and the ceiling goes dull and flat. Faint sensor noise in the shadows, mild lens distortion at the frame edges, a hair of motion softness, light JPEG compression. Shot on a phone at arm's length, 26mm, eye level. No studio look, no retouching, no glow."
   }
 ]

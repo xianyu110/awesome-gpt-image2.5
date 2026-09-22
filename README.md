@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 593 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 597 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -1072,6 +1072,19 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **红楼群芳夜宴 × 最后的晚餐：13人横向群像槽** — 只借达芬奇「中1+左右各6+长桌」结构，人物全换成《红楼梦》清代工笔语境——左黛玉侧、右宝钗侧，不增减不乱序。国风群像海报/长卷 KV 直接填槽。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2102218694873248214)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+《红楼梦·群芳夜宴》 × 《最后的晚餐》13人经典群像构图 × 仅借用横向群像结构 × 约1.9:1宽幅 × 画面左侧6人：妙玉、王熙凤、史湘云、探春、李纨、林黛玉 × 中央：贾宝玉 × 画面右侧6人：薛宝钗、迎春、惜春、平儿、袭人、晴雯 × 横向长桌宴席 × 清代宫廷工笔人物画
+
+说明：
+“《最后的晚餐》13人经典群像构图”仅借用其中央人物＋左右各6人＋横向长桌＋左右人物分组的构图关系。画面严格保持左6人、中央1人、右6人，共13人。贾宝玉位于画面正中央，林黛玉与薛宝钗分别紧邻贾宝玉两侧，其余人物按照提示词规定的顺序向画面两侧展开。13人全部清晰可见，不增减人物，不打乱左右顺序，不将人物分散到其他区域。人物沿长桌两侧形成完整横向群像。仅借用《最后的晚餐》的构图结构，故事、人物、服饰、场景与绘画语言均采用《红楼梦》的中国古典语境，不出现西方宗教人物或宗教元素。
+```
+
+  </details>
 
 - **东方文化海报四主题：笔毫/青瓷螺旋/金箔/印面留白** — 远看大形、近看材质：毫端成意、一坯旋成、一箔成光、方寸成章。传统工艺/品牌视觉/文化海报的留白结构母版，气质比堆纹样更值钱。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102020479758246280)
 
@@ -4385,6 +4398,26 @@ Example wardrobe modules (fox shrine maiden / black-base classic):
 - Arm sleeves: detached furisode-inspired organza sleeves with floral vines.
 
 Replace any single module (e.g. Dress only) while freezing identity and other modules.
+```
+
+  </details>
+
+- **里斯本蛋挞店 Sunburst：相机卷随手拍 UGC** — Sunburst 写死「相册偷拍不是棚拍」：葡语价目表、azulejo 瓷砖、烤箱油光额头、面粉手与冷荧光下巴光。本地生活种草竖版可换城市换柜台。 [@BorderleSint](https://x.com/BorderleSint) · [原帖](https://x.com/BorderleSint/status/2102132613095833773)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A real snapshot pulled from someone's camera roll, not a photoshoot. Vertical phone photo taken inside a small neighbourhood pastelaria in Lisbon, Portugal, mid-morning. A grown woman stands behind the counter, centered, framed head to the top of the display case, looking into the lens with a flat unposed expression, mouth closed. Dark hair pulled back into a flat working ponytail with loose strands stuck at the temples. Brown eyes, bare face, real skin with pores, shine on the forehead from the ovens, a faint old burn mark on one forearm, flour dust on her hands. She wears a plain navy work apron over a washed-out polo shirt with the sleeves pushed up and a pen clipped at the chest. The room is Portuguese and not English: blue and white azulejo tiles up the lower wall, a wide stainless display case with trays of pastéis de nata and bolas de berlim, a chrome espresso machine with small white cups stacked on top, a paper price list taped to the glass written in European Portuguese with prices in euros, paper napkins in a metal holder, and through the open door behind her the black and white calçada portuguesa pavement and a narrow street with a yellow building opposite. Warm daylight coming in through the shop door from the street, plus a cold strip of fluorescent light under the counter edge lighting her chin from below, so the tiles behind her glare and the ceiling goes dull and flat. Faint sensor noise in the shadows, mild lens distortion at the frame edges, a hair of motion softness, light JPEG compression. Shot on a phone at arm's length, 26mm, eye level. No studio look, no retouching, no glow.
+```
+
+  </details>
+
+- **TikTok 真帧锁颗粒：参考只管光色，prompt 管叙事** — 裸写 prompt 容易 AI 塑料感——先从 TikTok 抠真实街拍/UGC 帧当参考，只借用灯光/色调/颗粒/相机感，再用详细 prompt 重画新场景。参考负责「真」，文案负责「演什么」。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2102096417388937684)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the reference only for lighting, color, grain and camera feel. New scene: a woman in her late 20s, stopped mid-stride on a busy sidewalk for a street interview. An interviewer's mic pokes in from frame left. She's laughing, caught off guard. Curly dark hair, freckles, visible skin texture, beige trench coat. Shot on a phone, natural daylight, unretouched.
 ```
 
   </details>
@@ -10208,6 +10241,24 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **先 Image 2.5 出站视觉 mock，再让 Codex 写站** — 别先甩代码：把受众/文案/品牌色/参考图丢给 Codex，明确「先出 imagegen 网页 mock 再写前端」。审完布局与 CTA 再落实现、对照截图修差分——Images 2→2.5 一路变稳的一人队建站法。 [@shannholmberg](https://x.com/shannholmberg) · [原帖](https://x.com/shannholmberg/status/2102163474709389562)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+use imagegen to create a website mockup from this brief and the attached references
+use the supplied copy, brand assets and product information
+show the page layout, typography, imagery and calls to action, and wait for my feedback before writing code
+
+---
+
+build the approved mockup as a responsive page
+preserve its layout, spacing, typography and visual hierarchy, use the approved copy and implement the interactions we agreed
+flag anything that needs a design decision before changing it
+```
+
+  </details>
 
 - **Image 2.5 出 logo → Astra SVG 到指南/Banner** — 先用 GPT Image 2.5 出 logo，再丢 Astra 转 SVG，精度够用后一套做指南、Banner、站点替换。品牌视觉从栅格到矢量的最短链路。 [@gaku_oregin](https://x.com/gaku_oregin) · [原帖](https://x.com/gaku_oregin/status/2100913069270687991)
 
