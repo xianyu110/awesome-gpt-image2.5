@@ -5286,5 +5286,39 @@
     "author": "revolvtech",
     "url": "https://x.com/revolvtech/status/2102231420387086632",
     "category": "UX产品"
+  },
+  {
+    "id": "2102328384424735036",
+    "title": "指定 px 直出：免 Canva/PS 再裁",
+    "blurb": "Images 2.5 按指定像素出图，比例与 px 一并守住。社媒/投放素材少一道二次裁切——尺寸写进指令就够。",
+    "author": "kawai_design",
+    "url": "https://x.com/kawai_design/status/2102328384424735036",
+    "category": "UX产品"
+  },
+  {
+    "id": "2102319962757148910",
+    "title": "直出可读 QR：须写「按规格生成」",
+    "blurb": "不经程序也能出可扫 QR；关键一句「QRコードの規格に沿って」。海报/落地页二维码别只写「做个二维码」——不写规格常出废码。",
+    "author": "hideki_climax",
+    "url": "https://x.com/hideki_climax/status/2102319962757148910",
+    "category": "UX产品",
+    "prompt": "**任意のURL**\nこのURLに対応するQRコードを、QRコードの規格に沿って作って。"
+  },
+  {
+    "id": "2102308750367576121",
+    "title": "画材+笔触细指定：拓宽风格带宽",
+    "blurb": "别只骂「ChatGPT 画风不对」——写清画材与笔触（水彩/钢笔淡彩/厚涂等）再出。风格槽位近乎无限，先找到自己的写法。",
+    "author": "_3912657840",
+    "url": "https://x.com/_3912657840/status/2102308750367576121",
+    "category": "选型评测"
+  },
+  {
+    "id": "2102226465475658179",
+    "title": "酒红单色穿搭：tone-on-tone 完整 prompt",
+    "blurb": "皮衣+黑丝+长围巾+高跟靴，酒红门同色对撞；百合花束与小包点缀。秋冬单色种草竖版直接抄，附完整英文 prompt。",
+    "author": "mehvishs25",
+    "url": "https://x.com/mehvishs25/status/2102226465475658179",
+    "category": "人像角色",
+    "prompt": "Create a woman in a monochromatic deep burgundy outfit, including a leather jacket, black tights, a long scarf, and high black boots. She is posing against a matching burgundy door.\n\nShe has long straight black hair with bangs, prominent eyebrows, brown eyes, and subtle makeup. She is standing and holding a bouquet of dark magenta lilies and a small glossy burgundy shoulder bag.\n\nHigh-fashion editorial, full-body shot, dramatic shadow and light, tone-on-tone aesthetic, cinematic portrait. Close portrait. Keep the face same as reference"
   }
 ]

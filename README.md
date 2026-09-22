@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 618 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 622 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -240,6 +240,8 @@ Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K �
 - **同图连改 5 次压测：色/表情/小物稳，姿态崩** — 换色、表情、加小物 OK；加背景植物会漂移项链；「上半身微倾」几乎无效。局部编辑选型别听安利——看它敢不敢动不该动的结构。 [@kozuchi_ai](https://x.com/kozuchi_ai) · [原帖](https://x.com/kozuchi_ai/status/2102324472334479536)
 
 - **同提示词硬刚：Qwen-Image-2.1 vs Image 2.5** — 左本地 Qwen、右 GPT Image 2.5——细节丰但偏碎，Qwen 涂抹感重。消费级显卡本地模型能打到哪，并排看比听安利管用。 [@akokoi1](https://x.com/akokoi1) · [原帖](https://x.com/akokoi1/status/2102319136307363873)
+
+- **画材+笔触细指定：拓宽风格带宽** — 别只骂「ChatGPT 画风不对」——写清画材与笔触（水彩/钢笔淡彩/厚涂等）再出。风格槽位近乎无限，先找到自己的写法。 [@_3912657840](https://x.com/_3912657840) · [原帖](https://x.com/_3912657840/status/2102308750367576121)
 
 - **同题对照：Qwen-Image-2.1 vs GPT Image 2.5** — 左 Qwen、右 Image 2.5——字能写明白了但仍「丑」，本地 M2 Max 一张 ~18 分钟。选型别只看能出字，还要看成片审美与算力账。 [@lukfan](https://x.com/lukfan) · [原帖](https://x.com/lukfan/status/2102240402887897186)
 
@@ -4740,6 +4742,20 @@ Photorealistic luxury lifestyle photography, elegant Korean fashion aesthetic, r
 
 ```
 A [subject] photographed from an extreme low-angle ground-level view, camera positioned near the floor and tilted upward, standing alone in an off-white studio void, confident pose, dominant elongated silhouette, stylised proportions, sleek fashion styling, reflective textures, bold accessories, soft studio light, single beauty-dish flash casting crisp shadows, subtle Kodak Portra-inspired grain, candid editorial energy, minimalist composition, sharp detail, premium studio photography
+```
+
+  </details>
+
+- **酒红单色穿搭：tone-on-tone 完整 prompt** — 皮衣+黑丝+长围巾+高跟靴，酒红门同色对撞；百合花束与小包点缀。秋冬单色种草竖版直接抄，附完整英文 prompt。 [@mehvishs25](https://x.com/mehvishs25) · [原帖](https://x.com/mehvishs25/status/2102226465475658179)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a woman in a monochromatic deep burgundy outfit, including a leather jacket, black tights, a long scarf, and high black boots. She is posing against a matching burgundy door.
+
+She has long straight black hair with bangs, prominent eyebrows, brown eyes, and subtle makeup. She is standing and holding a bouquet of dark magenta lilies and a small glossy burgundy shoulder bag.
+
+High-fashion editorial, full-body shot, dramatic shadow and light, tone-on-tone aesthetic, cinematic portrait. Close portrait. Keep the face same as reference
 ```
 
   </details>
@@ -10916,6 +10932,19 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **指定 px 直出：免 Canva/PS 再裁** — Images 2.5 按指定像素出图，比例与 px 一并守住。社媒/投放素材少一道二次裁切——尺寸写进指令就够。 [@kawai_design](https://x.com/kawai_design) · [原帖](https://x.com/kawai_design/status/2102328384424735036)
+
+- **直出可读 QR：须写「按规格生成」** — 不经程序也能出可扫 QR；关键一句「QRコードの規格に沿って」。海报/落地页二维码别只写「做个二维码」——不写规格常出废码。 [@hideki_climax](https://x.com/hideki_climax) · [原帖](https://x.com/hideki_climax/status/2102319962757148910)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+**任意のURL**
+このURLに対応するQRコードを、QRコードの規格に沿って作って。
+```
+
+  </details>
 
 - **GPT 出横幅 → Canva 动画：五分钟静转动** — Images 2.5 出横幅 → GPT 写动画指令 → Canva 直接做成动效。别停在静图——社媒投放素材从静到动的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2102231420387086632)
 
