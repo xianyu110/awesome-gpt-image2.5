@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 607 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 609 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -4368,6 +4368,7 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **2×2 身份锁四宫格：同一人同一车只换姿势** — 写死同一张脸/发型/黑卫衣/墨镜/耳环/Mercedes 内饰/迪拜天际线，四格只换姿势（眨眼托腮/看镜头/自拍/望窗外）。身份一致性压测模板——UGC 生活方式拼贴直接套。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2102283043696165107)
 - **极端仰拍时尚 Hero：填 [subject] 轮播出片** — 地板机位仰拍 + 白棚 beauty-dish + Portra 颗粒——芭蕾/快递/糕点师/图书管理员换词即出。时装战役、角色海报统一视觉语言。 [@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [原帖](https://x.com/Alyssa4aicreate/status/2102231985301463502)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -10379,6 +10380,7 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
 产品 UI / UX 视觉与落地页 mock。
 
+- **GPT 出横幅 → Canva 动画：五分钟静转动** — Images 2.5 出横幅 → GPT 写动画指令 → Canva 直接做成动效。别停在静图——社媒投放素材从静到动的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2102231420387086632)
 - **先 Image 2.5 出站视觉 mock，再让 Codex 写站** — 别先甩代码：把受众/文案/品牌色/参考图丢给 Codex，明确「先出 imagegen 网页 mock 再写前端」。审完布局与 CTA 再落实现、对照截图修差分——Images 2→2.5 一路变稳的一人队建站法。 [@shannholmberg](https://x.com/shannholmberg) · [原帖](https://x.com/shannholmberg/status/2102163474709389562)
   <details>
   <summary>查看 / 复制提示词</summary>
