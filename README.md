@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-23 · **收录 647 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-23 · **收录 648 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -1106,6 +1106,8 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **字内灌图故障字体四联：BEAT / RUSH / WAVE / VOID** — Images 2.5 把连续画面灌进字母，边沿各玩一套：回声描边、速度切片、波形位移、碎边。音乐/活动/街头文化海报别只会叠噪点——先让字本身变成画面容器。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102712596151296379)
 
 - **中秋海报「月下清梦」：禅意极简女性向** — 古风女子+小玉兔坐白高台，巨大金月轮压孔雀黑夜空。9:16 竖版、珍珠白/香槟金/孔雀蓝控色，标题区留白写死。节日封面别只会堆月饼——先锁情绪母题再谈排字。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102677759038496809)
   <details>
