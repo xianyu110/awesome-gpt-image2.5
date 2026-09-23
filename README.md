@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-23 · **收录 640 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-23 · **收录 641 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -5010,6 +5010,22 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ```
 服装・装備品シートを作成して。
 アスペクト比は縦長（4:5）で描画
+```
+
+  </details>
+
+- **人物×衣装×发型三表换装：参考 sheet 流水线** — 先各自出人物/衣装/发型 reference sheet，再三图合参换装——2.5 部分固定一次用满。系列角色别靠嘴写「马尾」，先把表摊平再改。附可抄步骤与防政策撞车写法。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2102560525087568283)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【人物リファレンスシート】
+画像1の人物のリファレンスシートを画像2を参考に作って
+
+【三表合参・换装】
+画像1の成人女性を使って画像2を参考に衣装を変更。画像3を参考に髪型を変更。髪型を姫カットの衣装はチャイナドレスで、自撮り風スナップ写真にして
+
+（政策撞车时加：性的な表現は避けて／露出を抑えて；コスプレ・成人女性を明示）
 ```
 
   </details>
