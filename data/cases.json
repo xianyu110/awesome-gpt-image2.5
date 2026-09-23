@@ -5520,5 +5520,13 @@
     "url": "https://x.com/weiinberg/status/2102623939323400467",
     "category": "人像角色",
     "prompt": "Maintain the exact facial features and identity of the person in the uploaded reference photo. A three-quarter fashion lookbook portrait of the subject leaning casually against a light beige stucco wall. Styled in an buttoned rich chocolate brown linen shirt, pleated beige linen trousers, small gold hoop earrings, a thin gold necklace, and retro tortoise-shell sunglasses. Messy textured hair blowing gently. High-contrast golden-hour sunbeams cutting across the background, crisp details, natural linen fabric weave, 85mm f/1.8"
+  },
+  {
+    "id": "2102554528579232004",
+    "title": "Sunburst vs Qwen-Image-2.1：七类日文商用图硬对照",
+    "blurb": "构成图/比较表/ポンチ絵/信息图/决策树/店头POP/セミナーチラシ同题对比。日文原指令易崩字——改英语指令+引号逐字锁文立刻好转；竖线噪来自 VAE tiling 接缝；API 17–31s vs 本地 37–39s。商用资料图选型先看文字与结构，别只刷棚拍美女。",
+    "author": "daigomiyoshi_ai",
+    "url": "https://x.com/daigomiyoshi_ai/status/2102554528579232004",
+    "category": "选型评测"
   }
 ]

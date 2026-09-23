@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-23 · **收录 645 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-23 · **收录 646 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Sunburst vs Qwen-Image-2.1：七类日文商用图硬对照** — 构成图/比较表/ポンチ絵/信息图/决策树/店头POP/セミナーチラシ同题对比。日文原指令易崩字——改英语指令+引号逐字锁文立刻好转；竖线噪来自 VAE tiling 接缝；API 17–31s vs 本地 37–39s。商用资料图选型先看文字与结构，别只刷棚拍美女。 [@daigomiyoshi_ai](https://x.com/daigomiyoshi_ai) · [原帖](https://x.com/daigomiyoshi_ai/status/2102554528579232004)
 
 - **懒提示词 vs 魂提示词：同题差一个档位** — 同一美女题，糊弄 prompt 与写满细节，2.5 观感差到像两个模型。原帖可复制对照——别怪模型，先怪自己偷懒。 [@nezukichii](https://x.com/nezukichii) · [原帖](https://x.com/nezukichii/status/2102374351370952809)
 
