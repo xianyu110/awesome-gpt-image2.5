@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-23 · **收录 648 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-23 · **收录 651 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -1106,6 +1106,18 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **城市夜跑运动海报：荧光杂志风+中文锁字** — 深紫底配荧光黄与冷白，跑者与城市灯压在下半部；标题锁死「今晚，跑向风里」。运动海报别只会堆 exif——先锁色域与字，再谈剪影颗粒。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102742993946226914)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+设计“城市夜跑”运动海报。深紫背景配荧光黄与冷白，音乐杂志式剪影和粗颗粒纹理；跑者与城市灯光位于下半部。上方超大标题准确写“今晚，跑向风里”，下方写“用脚步重新认识城市”。保持手机端可读，只渲染指定中文，不添加其他文字、Logo、水印或乱码。
+```
+
+  </details>
+
+- **东方诗意巨物海报四联：超尺度主视觉+微人** — 西湖雨巨伞、白露初凝露滴、上元灯笼、云上春茶——一个超尺度主视觉+大色域+微型人物，节气/文旅/品牌 KV 立刻有完整作品感。巨物别只会放大道具，先让尺度差替你讲故事。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102738823931118067)
 
 - **字内灌图故障字体四联：BEAT / RUSH / WAVE / VOID** — Images 2.5 把连续画面灌进字母，边沿各玩一套：回声描边、速度切片、波形位移、碎边。音乐/活动/街头文化海报别只会叠噪点——先让字本身变成画面容器。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102712596151296379)
 
@@ -12056,6 +12068,16 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **恋爱纪念日相册：iOS Liquid Glass 截图配方** — iPhone 原生照片 App 全屏胶卷，每行 4 格混照片/短视频/实况；半透明控件透暖色环境光。假 UI 种草别只会磨皮棚拍——先做出不对外公开的亲密相册感。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102743607258087610)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+生成一张以「恋爱纪念日碎片」为主题的 iPhone 18 Pro Max 原生照片 App 截图，使用最新版 iOS Liquid Glass 风格，温暖环境色透过半透明顶部与底部控件，界面克制而真实；全屏展示相机胶卷，每行严格排列 4 张缩略图，混合普通照片、短视频和实况照片。内容包括两位成年人的餐厅合照、贴近镜头的面部自拍、牵手与肩颈局部、试衣镜合影、甜点、夜景散步、酒店窗边剪影，以及闭眼瞬间、被裁掉的脸、焦点落在背景、闪光灯反射和重复连拍，保留自然肤质、手机镜头畸变与不对外公开的亲密相册感。画面比例 1:2.17。
+```
+
+  </details>
 
 - **Codex + Image 2.5：角色替换 LoRA 数据集流水线** — Codex 调 imagegen 直接出场景、角色参考、再把人塞进画面——Character Swap LoRA 数据集开刷。一人团队训 LoRA：别手搓九宫格，让 agent 先把图堆齐。 [@akatz_ai](https://x.com/akatz_ai) · [原帖](https://x.com/akatz_ai/status/2102639049366495425)
 
