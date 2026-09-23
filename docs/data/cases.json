@@ -5485,5 +5485,40 @@
     "url": "https://x.com/1banana2546/status/2102560525087568283",
     "category": "人像角色",
     "prompt": "【人物リファレンスシート】\n画像1の人物のリファレンスシートを画像2を参考に作って\n\n【三表合参・换装】\n画像1の成人女性を使って画像2を参考に衣装を変更。画像3を参考に髪型を変更。髪型を姫カットの衣装はチャイナドレスで、自撮り風スナップ写真にして\n\n（政策撞车时加：性的な表現は避けて／露出を抑えて；コスプレ・成人女性を明示）"
+  },
+  {
+    "id": "2102639049366495425",
+    "title": "Codex + Image 2.5：角色替换 LoRA 数据集流水线",
+    "blurb": "Codex 调 imagegen 直接出场景、角色参考、再把人塞进画面——Character Swap LoRA 数据集开刷。一人团队训 LoRA：别手搓九宫格，让 agent 先把图堆齐。",
+    "author": "akatz_ai",
+    "url": "https://x.com/akatz_ai/status/2102639049366495425",
+    "category": "UX产品"
+  },
+  {
+    "id": "2102635863893307394",
+    "title": "9:16 列车窗边电影感：COMPOSITION 分层配方",
+    "blurb": "过道斜拍+前景座椅虚化+窗玻璃倒影，COMPOSITION/SUBJECT/LIGHTING 分栏写死。竖屏种草肖像——先锁构图深度，再谈「氛围感」。",
+    "author": "harboriis",
+    "url": "https://x.com/harboriis/status/2102635863893307394",
+    "category": "人像角色",
+    "prompt": "Create a photorealistic cinematic portrait photograph of a young adult woman sitting alone by the window of a modern intercity train.\n\nCOMPOSITION:\nVertical 9:16 portrait frame. Camera positioned from the aisle, slightly behind the seat in front of her, looking diagonally toward the window seat. A large blurred train seat dominates the lower-left foreground, creating strong depth and framing the subject. The woman is positioned in the center-right of the frame, partially hidden behind the foreground seat. Her reflection is clearly visible in the train window on the right.\n\nSUBJECT:\nYoung adult woman with fair skin, natural freckles, soft facial features, medium-length copper-red hair with messy natural bangs falling across her forehead. Her hair is slightly tousled and imperfect, with individual strands visible. She has light blue-gray eyes, natural eyebrows, subtle eyelashes, soft pink natural lips and a completely natural face with no heavy makeup.\n\nShe is wearing a loose beige/taupe hoodie with the hood resting around the back of her head and shoulders. The hoodie has realistic soft fabric texture and natural folds.\n\nPOSE AND EXPRESSION:\nShe is sitting beside the window, leaning slightly toward the aisle and looking directly toward the camera with a quiet, tired, introspective expression. Her head is tilted slightly downward and toward the foreground seat. Relaxed posture, lips gently closed, subtle melancholy mood. Natural candid moment, not posing for the camera.\n\nTRAIN INTERIOR:\nRealistic modern European-style train interior. Dark charcoal-gray fabric seats with small scattered red geometric patterns. Multiple rows of seats extend into the background. The foreground seat is very close to the camera and heavily out of focus. Another passenger is barely visible far in the background, also heavily blurred.\n\nWINDOW:\nLarge train window immediately beside the woman. The glass has subtle reflections and slight smudges. Her face and upper body appear as a soft but recognizable reflection in the window. Outside the window is an indistinct muted urban/rural landscape, completely blurred because of the moving train.\n\nLIGHTING:\nSoft natural daylight entering through the train window from the right side. Warm, slightly golden daylight illuminates her face and copper hair while the train interior remains darker and subdued. Gentle cinematic contrast, soft shadows, realistic skin highlights, subtle reflected light from the window.\n\nCAMERA:\nProfessional cinematic photography, 50mm lens, approximately f/1.8, shallow depth of field. Focus precisely on the woman's eyes and face. Foreground seat and background passenger strongly blurred. Natural perspective, realistic optical depth, subtle lens compression.\n\nCOLOR AND MOOD:\nMuted cinematic color grading with warm copper/orange tones in the hair and beige hoodie contrasted against cool dark blue-gray train seats and window tones. Soft filmic contrast, slightly desaturated colors, natural skin tones, subtle grain, atmospheric and intimate feeling.\n\nREALISM:\nUltra-photorealistic, authentic candid photography, realistic skin pores and freckles, individual hair strands, realistic fabric texture, physically accurate reflections in glass, natural imperfections, realistic train materials, true photographic depth of field, no artificial beauty retouching.\n\nNEGATIVE PROMPT:\ncartoon, anime, illustration, CGI, 3D render, plastic skin, excessive makeup, perfect skin, beauty filter, oversharpening, unrealistic eyes, distorted face, extra fingers, deformed hands, duplicate person, duplicated reflection, incorrect reflection, artificial hair, glossy skin, studio lighting, fantasy train, text, watermark, logo, low resolution, excessive HDR, oversaturated colors"
+  },
+  {
+    "id": "2102590414570348924",
+    "title": "Sunburst 脸锁皮衣特写：叶影窗光 editorial",
+    "blurb": "上传脸参 + 黑皮衣高领，窗光叶影扫过面部。男装情绪片别只会棚拍——低 key 窗影比滤镜更像杂志。",
+    "author": "iamsofiaijaz",
+    "url": "https://x.com/iamsofiaijaz/status/2102590414570348924",
+    "category": "人像角色",
+    "prompt": "Ultra-realistic cinematic close-up portrait of a young man use image for face reference . He is wearing a dark black leather jacket with a high collar. His face is resting naturally against his folded arms, creating an intimate, relaxed pose. Moody dark environment, dramatic soft window light casting irregular leaf-like shadows across his face and jacket, deep blue-black background, natural skin pores and fine facial hair, realistic eyes, detailed leather texture, subtle imperfections, shallow depth of field, strong cinematic contrast, muted cool tones, photorealistic editorial photography, 85mm lens, f/1.8, soft bokeh, low-key lighting, extremely detailed, 8K, realistic color grading, vertical portrait composition, no text, no watermark."
+  },
+  {
+    "id": "2102623939323400467",
+    "title": "脸锁时尚 lookbook：金光亚麻墙边全身",
+    "blurb": "严格保脸，巧克力亚麻衬衫+褶裤墨镜靠墙，金色小时光束切开背景。穿搭种草一句话：身份锁死，布料纹理自己说话。",
+    "author": "weiinberg",
+    "url": "https://x.com/weiinberg/status/2102623939323400467",
+    "category": "人像角色",
+    "prompt": "Maintain the exact facial features and identity of the person in the uploaded reference photo. A three-quarter fashion lookbook portrait of the subject leaning casually against a light beige stucco wall. Styled in an buttoned rich chocolate brown linen shirt, pleated beige linen trousers, small gold hoop earrings, a thin gold necklace, and retro tortoise-shell sunglasses. Messy textured hair blowing gently. High-contrast golden-hour sunbeams cutting across the background, crisp details, natural linen fabric weave, 85mm f/1.8"
   }
 ]
