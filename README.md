@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-22 · **收录 634 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-23 · **收录 640 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -1105,7 +1105,43 @@ C区域代表【背景建筑或环境】
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
+- **机械键盘 3:4 百科海报：包豪斯模块配方** — 竖版信息海报：配列/轴体/行程/压力/键帽/连接/结构九模块一次排完，中文标题控字稳。硬核产品百科别堆图标——网格+克制三色就够。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102417129022898550)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+一张 3:4 竖版机械键盘百科信息海报，融合包豪斯功能主义、工业设计档案与现代数码实验室视觉。顶部以斜切构图展示一把紧凑型机械键盘，并在旁边拆解展示键帽、机械轴体、定位板、PCB 和卫星轴，工作室硬柔结合光形成清晰微阴影；标题“机械键盘”沿左侧网格排列，英文副标题“Mechanical Keyboard”，搭配“输入设备／机械开关”圆形分类标签、结构爆炸图与键盘尺寸比例尺。
+
+中部采用红、黄、蓝三种克制强调色和模块化几何卡片，完整呈现九类信息：60%、65%、75%、80%、96%、100%常见配列；线性轴、段落轴、点击轴触感曲线；触发行程与总行程；触发压力；键帽常见材质与高度；有线、2.4GHz、蓝牙连接方式；热插拔与焊接 PCB 区别；定位板、夹心结构与 Gasket 等常见内部结构；延迟、轮询率、全键无冲与使用场景。
+
+每个模块只保留一种主要图形，避免视觉堆叠。采用12列网格、48pt边距、8pt基线、统一2pt线性图标。背景为接近纯白的浅灰，文字为深灰，数据使用等宽字体。底部设置术语解释与参数来源栏，明确“不同品牌与型号存在差异”，禁止虚构具体型号性能或不存在的技术标准。
+```
+
+  </details>
+
+- **观星之夜：中文活动海报控字配方** — 午夜蓝+望远镜剪影，大标题「今晚抬头看星星」指定中文不乱码。活动海报控字——只渲染你写的那两句，别让模型自由发挥星座 logo。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102412386204557689)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+设计“观星之夜”活动海报。午夜蓝背景，银白星点与柔和蓝紫光晕，下半部是一座小山上的望远镜剪影。上方大标题准确写“今晚抬头看星星”，下方写“留一点时间给遥远的光”。星空层次细腻，文字醒目；只渲染指定中文，不添加星座名称、Logo、水印或乱码。
+```
+
+  </details>
+
 - **病毒话题→FIT 打分模块拼信息图** — Astra/ChatGPT 先挖热点，再按 FIT 打分拼模块，Image 2.5 直出 4 张 4:5。选题可视化别从空白画布起——先打分再出图。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2102383160185208960)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+4 images, 4:5. Do research, pick viral topics (including an AI treadmill). For TOPIC, choose modules by maximizing:
+FIT(module) = 0.30 * explanatory_power + 0.22 * topic_relevance + 0.18 * visual_clarity + 0.14 * comparison_value + 0.10 * editorial_readability + 0.06 * aesthetic_cohesion
+Possible modules: map, timeline, ranked table, category cards, methodology box, anatomy callout, process diagram, matrix chart, flow pipeline, network diagram, scatter/radar comparison, case-study cards, source footer.
+Only include modules whose FIT score exceeds threshold.
+Then order the chosen modules by narrative logic: HOOK → EXPLAINER → METHOD → METRICS → RESULTS → NOTES
+```
+
+  </details>
 
 - **Quechua 户外广告：4:5 数字拼贴完整 campaign** — Behance 级户外 key visual，竖版 4:5 社媒主视觉。PLAY OUTSIDE 叙事写死，反 AI 糊/反库存图；户外品牌 campaign 直接抄长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2102341408208400884)
   <details>
@@ -4966,6 +5002,142 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **参考图→服装装备清单 sheet（可复制）** — 上传角色图，一句日文 prompt 直接出竖版 4:5 服装/装备拆解表。做角色资产库别手抄——先让 2.5 把衣柜摊平。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2102576374473220577)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+服装・装備品シートを作成して。
+アスペクト比は縦長（4:5）で描画
+```
+
+  </details>
+
+- **Sunburst 加州街潮广告：棕榈人行道全身片** — Sunburst 街拍广告配方：南洛杉矶棕榈+壁画+滑板背景，法兰绒宽腿靴全套写死。品牌种草别只会海滩——街巷质感更敢卖。 [@PrometheanAIX](https://x.com/PrometheanAIX) · [原帖](https://x.com/PrometheanAIX/status/2102550317405536266)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Photography / Cinematography
+Hyper-realistic full-body streetwear fashion portrait of a ruggedly handsome Latino male in his late 20s, with a lean athletic build, closely buzzed dark hair, defined jawline, warm olive skin, and striking model-like facial features. He stands in a relaxed three-quarter pose, weight shifted onto one leg, one hand casually tucked into his pants pocket, and the other hanging naturally at his side. He looks toward the camera with a calm, confident expression. Natural winter afternoon sunlight, realistic skin texture, authentic fabric details, and subtle background depth of field. Vertical 2:3 composition, photographed at eye level with his entire body visible from head to toe.
+
+Environment
+A lively urban neighborhood in South Los Angeles on a sunny, cool winter afternoon. A spacious concrete sidewalk and small skate plaza are surrounded by low-rise buildings, palm trees, streetlights, and a few leafless seasonal trees. A large, professionally painted street-art mural featuring a woman's portrait and expressive graphic elements covers a wall in the background. Modest artistic graffiti accents the surrounding concrete surfaces without making the area look messy. Pedestrians walk along the sidewalk, chatting and going about their day. Farther in the background, exactly three skateboarders perform tricks over a metal railing and concrete obstacles. Authentic Southern California street culture, natural pedestrian activity, and believable urban atmosphere.
+
+Pose
+The man stands confidently in the foreground, slightly angled toward the camera, with his shoulders relaxed, one hand in his front pants pocket, and the other resting naturally beside his thigh. His feet are positioned apart, with one leg slightly forward. Natural posture, believable anatomy, and an effortless street-fashion editorial presence.
+
+Outfit
+Oversized blue, navy, and warm beige plaid flannel overshirt, worn open over a muted slate-blue crewneck T-shirt. Loose-fitting, wide-leg washed charcoal-black jeans with natural fading and a relaxed drape. Classic black leather Dr. Martens lace-up boots with yellow welt stitching. A subtle silver chain necklace and silver ring complete the look. Realistic fabric textures, natural folds, and authentic streetwear styling.
+```
+
+  </details>
+
+- **竖屏自拍角色 JSON：锁脸可复用 UGC 双** — 9:16 手机自拍 JSON：脸比例/雀斑/发色优先级写死，高领全覆盖，厨房暖光。AI 双胞胎种草素材——先焊身份再换场景。 [@demonugc](https://x.com/demonugc) · [原帖](https://x.com/demonugc/status/2102527540879376433)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+{
+  "prompt_type": "photorealistic_character_generation",
+  "objective": "Generate a clean vertical smartphone selfie of an original, fully invented character. Fully covered casual outfit, high neckline, long sleeves. Cozy kitchen background, warm indoor light, relaxed natural expression. Remove all text, UI, logos, watermarks.",
+  "character_consistency": {
+    "target": "usable as a repeatable AI twin across future generations",
+    "priority_order": [
+      "facial proportions and warm hazel eyes",
+      "light freckling across nose bridge",
+      "wavy auburn hair, loose low ponytail",
+      "oversized cream turtleneck sweater, full coverage",
+      "warm golden indoor light from camera-right",
+      "cozy kitchen background",
+      "raw phone selfie texture"
+    ]
+  },
+  "canvas": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "framing": "close head-and-shoulders smartphone selfie",
+    "crop": "top of hair to mid chest",
+    "subject_alignment": "centered, slight forward lean",
+    "perspective": "arm-length front camera, mild wide"
+  },
+  "scene": {
+    "location": "small apartment kitchen",
+    "time_of_day": "late afternoon",
+    "mood": "relaxed, candid, unposed",
+    "environment": {
+      "left": "open shelf with a few mugs and a plant",
+      "behind": "kitchen counter, soft blur",
+      "walls": "warm off-white"
+    }
+  },
+  "subject": {
+    "description": "invented young adult woman, mid 20s, original character not based on any real person",
+    "expression": "soft, relaxed half-smile",
+    "gaze": "directly into camera",
+    "skin": {
+      "tone": "light olive",
+      "detail": "light freckling across nose and upper cheeks",
+      "finish": "matte-natural, visible pores, no beauty filter"
+    },
+    "eyes": {"color": "hazel", "look": "warm, relaxed"},
+    "hair": {
+      "color": "auburn",
+      "style": "loose wavy low ponytail",
+      "detail": "a few soft flyaways framing the face"
+    },
+    "clothing": {
+      "top": "oversized cream turtleneck sweater, fully covers neckline, shoulders, and chest",
+      "coverage": "full coverage, no visible skin below the jaw except hands",
+      "extra": "sleeves extended toward camera, fabric bunched at wrist"
+    },
+    "pose": {
+      "arm": "right arm extended toward camera (selfie)",
+      "shoulder": "casual, relaxed"
+    }
+  },
+  "lighting": {
+    "type": "soft warm indoor light",
+    "direction": "from camera-right",
+    "face": "gentle highlight right, soft shadow left",
+    "quality": "warm, low contrast, golden hour indoors"
+  },
+  "camera": {
+    "device": "modern smartphone front camera",
+    "look": "raw UGC: mild noise, slight compression, shallow background blur",
+    "focus": "sharp on face and hair strands"
+  },
+  "negative_prompt": [
+    "low neckline", "cleavage", "exposed shoulders", "exposed skin below collarbone",
+    "beauty filter glaze", "plastic skin", "studio lighting", "text", "UI", "logos",
+    "watermarks", "extra people", "anime", "CGI", "based on a real identifiable person"
+  ],
+  "final_generation_instruction": "One highly photorealistic vertical phone selfie of a fully original character, not based on any real person. Auburn wavy ponytail, light freckles, oversized cream turtleneck with full coverage, cozy kitchen, warm right-side light, relaxed half-smile. Authentic phone-selfie texture. No text or interface."
+}
+```
+
+  </details>
+
+- **古风月照群青：美妆特写结构化提示词** — 主题/妆感/五官/发饰/服装/场景/镜头分栏写死，群青只当主色不染全脸。古风种草妆面——结构字段比「仙气」两个字管用。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102413682563244332)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主题风格： 古风清冷高级美妆特写
+身份气质： 高门贵女，清冷、矜贵、安静、女主感
+妆感目标： 群青映月清冷水光妆
+五官方向： 清冷淡颜，东方电影脸，修长杏眼，面中自然饱满，鼻型秀气，唇形柔润克制
+发型与发饰方向： 乌发低挽，群青琉璃发钗、银白细链、白玉耳饰
+服装方向： 群青色交领长衫，搭配月白内衫与浅银灰披帛
+场景方向： 月窗闺阁 / 深木屏风 / 一枝白梅 / 冷白柔光
+镜头方向： 美妆特写，正面轻侧身
+画幅比例： 9:16
+创意自由度： 标准
+补充要求： 群青只作为主视觉服装色与局部发饰色，妆容以冷粉、豆沙、银白高光为主，不做蓝色全脸妆，胸线明显；背景保持月白、木色、冷白层次，不要整张图偏蓝，人物脸部与妆容必须通透清晰，整体呈现清冷矜贵感。
+```
+
+  </details>
 
 - **UGC 锁构图姿态衣装：身份微变 JSON** — 参考图死守构图/姿态/耳机/草坪，只微变五官身份——AI UGC 批量换人套装。JSON 写清 preserve vs modify，种草素材工厂直接抄。 [@noneugc](https://x.com/noneugc) · [原帖](https://x.com/noneugc/status/2102372927123407043)
   <details>

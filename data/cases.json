@@ -5397,5 +5397,84 @@
     "author": "nezukichii",
     "url": "https://x.com/nezukichii/status/2102374351370952809",
     "category": "选型评测"
+  },
+  {
+    "id": "2102383160185208960",
+    "title": "病毒话题→FIT 打分模块拼信息图",
+    "blurb": "Astra/ChatGPT 先挖热点，再按 FIT 打分拼模块，Image 2.5 直出 4 张 4:5。选题可视化别从空白画布起——先打分再出图。",
+    "author": "Gdgtify",
+    "url": "https://x.com/Gdgtify/status/2102383160185208960",
+    "category": "海报排版",
+    "prompt": "4 images, 4:5. Do research, pick viral topics (including an AI treadmill). For TOPIC, choose modules by maximizing:\nFIT(module) = 0.30 * explanatory_power + 0.22 * topic_relevance + 0.18 * visual_clarity + 0.14 * comparison_value + 0.10 * editorial_readability + 0.06 * aesthetic_cohesion\nPossible modules: map, timeline, ranked table, category cards, methodology box, anatomy callout, process diagram, matrix chart, flow pipeline, network diagram, scatter/radar comparison, case-study cards, source footer.\nOnly include modules whose FIT score exceeds threshold.\nThen order the chosen modules by narrative logic: HOOK → EXPLAINER → METHOD → METRICS → RESULTS → NOTES"
+  },
+  {
+    "id": "2102363276944568574",
+    "title": "Image 2.5 木雕熊参照→Tripo HD 3D",
+    "blurb": "用 GPT Image 2.5 生成木雕参照，再喂 Tripo 出 HD 模型（UV 另说）。概念雕塑进 3D 别从零建模——参照图先焊死。",
+    "author": "cg_ftLab",
+    "url": "https://x.com/cg_ftLab/status/2102363276944568574",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2102358192063656240",
+    "title": "Image 2.5 分镜帧→H3 Max 动作迁移",
+    "blurb": "gpt-image-2.5 + storyboard 先出帧，再喂 H3 Max 做 motion control（本例未超分）。角色动作迁移别空抽视频——静帧分镜先锁。",
+    "author": "azerkoculu",
+    "url": "https://x.com/azerkoculu/status/2102358192063656240",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2102576374473220577",
+    "title": "参考图→服装装备清单 sheet（可复制）",
+    "blurb": "上传角色图，一句日文 prompt 直接出竖版 4:5 服装/装备拆解表。做角色资产库别手抄——先让 2.5 把衣柜摊平。",
+    "author": "kabumira862571",
+    "url": "https://x.com/kabumira862571/status/2102576374473220577",
+    "category": "人像角色",
+    "prompt": "服装・装備品シートを作成して。\nアスペクト比は縦長（4:5）で描画"
+  },
+  {
+    "id": "2102527540879376433",
+    "title": "竖屏自拍角色 JSON：锁脸可复用 UGC 双",
+    "blurb": "9:16 手机自拍 JSON：脸比例/雀斑/发色优先级写死，高领全覆盖，厨房暖光。AI 双胞胎种草素材——先焊身份再换场景。",
+    "author": "demonugc",
+    "url": "https://x.com/demonugc/status/2102527540879376433",
+    "category": "人像角色",
+    "prompt": "{\n  \"prompt_type\": \"photorealistic_character_generation\",\n  \"objective\": \"Generate a clean vertical smartphone selfie of an original, fully invented character. Fully covered casual outfit, high neckline, long sleeves. Cozy kitchen background, warm indoor light, relaxed natural expression. Remove all text, UI, logos, watermarks.\",\n  \"character_consistency\": {\n    \"target\": \"usable as a repeatable AI twin across future generations\",\n    \"priority_order\": [\n      \"facial proportions and warm hazel eyes\",\n      \"light freckling across nose bridge\",\n      \"wavy auburn hair, loose low ponytail\",\n      \"oversized cream turtleneck sweater, full coverage\",\n      \"warm golden indoor light from camera-right\",\n      \"cozy kitchen background\",\n      \"raw phone selfie texture\"\n    ]\n  },\n  \"canvas\": {\n    \"orientation\": \"portrait\",\n    \"aspect_ratio\": \"9:16\",\n    \"framing\": \"close head-and-shoulders smartphone selfie\",\n    \"crop\": \"top of hair to mid chest\",\n    \"subject_alignment\": \"centered, slight forward lean\",\n    \"perspective\": \"arm-length front camera, mild wide\"\n  },\n  \"scene\": {\n    \"location\": \"small apartment kitchen\",\n    \"time_of_day\": \"late afternoon\",\n    \"mood\": \"relaxed, candid, unposed\",\n    \"environment\": {\n      \"left\": \"open shelf with a few mugs and a plant\",\n      \"behind\": \"kitchen counter, soft blur\",\n      \"walls\": \"warm off-white\"\n    }\n  },\n  \"subject\": {\n    \"description\": \"invented young adult woman, mid 20s, original character not based on any real person\",\n    \"expression\": \"soft, relaxed half-smile\",\n    \"gaze\": \"directly into camera\",\n    \"skin\": {\n      \"tone\": \"light olive\",\n      \"detail\": \"light freckling across nose and upper cheeks\",\n      \"finish\": \"matte-natural, visible pores, no beauty filter\"\n    },\n    \"eyes\": {\"color\": \"hazel\", \"look\": \"warm, relaxed\"},\n    \"hair\": {\n      \"color\": \"auburn\",\n      \"style\": \"loose wavy low ponytail\",\n      \"detail\": \"a few soft flyaways framing the face\"\n    },\n    \"clothing\": {\n      \"top\": \"oversized cream turtleneck sweater, fully covers neckline, shoulders, and chest\",\n      \"coverage\": \"full coverage, no visible skin below the jaw except hands\",\n      \"extra\": \"sleeves extended toward camera, fabric bunched at wrist\"\n    },\n    \"pose\": {\n      \"arm\": \"right arm extended toward camera (selfie)\",\n      \"shoulder\": \"casual, relaxed\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"soft warm indoor light\",\n    \"direction\": \"from camera-right\",\n    \"face\": \"gentle highlight right, soft shadow left\",\n    \"quality\": \"warm, low contrast, golden hour indoors\"\n  },\n  \"camera\": {\n    \"device\": \"modern smartphone front camera\",\n    \"look\": \"raw UGC: mild noise, slight compression, shallow background blur\",\n    \"focus\": \"sharp on face and hair strands\"\n  },\n  \"negative_prompt\": [\n    \"low neckline\", \"cleavage\", \"exposed shoulders\", \"exposed skin below collarbone\",\n    \"beauty filter glaze\", \"plastic skin\", \"studio lighting\", \"text\", \"UI\", \"logos\",\n    \"watermarks\", \"extra people\", \"anime\", \"CGI\", \"based on a real identifiable person\"\n  ],\n  \"final_generation_instruction\": \"One highly photorealistic vertical phone selfie of a fully original character, not based on any real person. Auburn wavy ponytail, light freckles, oversized cream turtleneck with full coverage, cozy kitchen, warm right-side light, relaxed half-smile. Authentic phone-selfie texture. No text or interface.\"\n}"
+  },
+  {
+    "id": "2102550317405536266",
+    "title": "Sunburst 加州街潮广告：棕榈人行道全身片",
+    "blurb": "Sunburst 街拍广告配方：南洛杉矶棕榈+壁画+滑板背景，法兰绒宽腿靴全套写死。品牌种草别只会海滩——街巷质感更敢卖。",
+    "author": "PrometheanAIX",
+    "url": "https://x.com/PrometheanAIX/status/2102550317405536266",
+    "category": "人像角色",
+    "prompt": "Photography / Cinematography\nHyper-realistic full-body streetwear fashion portrait of a ruggedly handsome Latino male in his late 20s, with a lean athletic build, closely buzzed dark hair, defined jawline, warm olive skin, and striking model-like facial features. He stands in a relaxed three-quarter pose, weight shifted onto one leg, one hand casually tucked into his pants pocket, and the other hanging naturally at his side. He looks toward the camera with a calm, confident expression. Natural winter afternoon sunlight, realistic skin texture, authentic fabric details, and subtle background depth of field. Vertical 2:3 composition, photographed at eye level with his entire body visible from head to toe.\n\nEnvironment\nA lively urban neighborhood in South Los Angeles on a sunny, cool winter afternoon. A spacious concrete sidewalk and small skate plaza are surrounded by low-rise buildings, palm trees, streetlights, and a few leafless seasonal trees. A large, professionally painted street-art mural featuring a woman's portrait and expressive graphic elements covers a wall in the background. Modest artistic graffiti accents the surrounding concrete surfaces without making the area look messy. Pedestrians walk along the sidewalk, chatting and going about their day. Farther in the background, exactly three skateboarders perform tricks over a metal railing and concrete obstacles. Authentic Southern California street culture, natural pedestrian activity, and believable urban atmosphere.\n\nPose\nThe man stands confidently in the foreground, slightly angled toward the camera, with his shoulders relaxed, one hand in his front pants pocket, and the other resting naturally beside his thigh. His feet are positioned apart, with one leg slightly forward. Natural posture, believable anatomy, and an effortless street-fashion editorial presence.\n\nOutfit\nOversized blue, navy, and warm beige plaid flannel overshirt, worn open over a muted slate-blue crewneck T-shirt. Loose-fitting, wide-leg washed charcoal-black jeans with natural fading and a relaxed drape. Classic black leather Dr. Martens lace-up boots with yellow welt stitching. A subtle silver chain necklace and silver ring complete the look. Realistic fabric textures, natural folds, and authentic streetwear styling."
+  },
+  {
+    "id": "2102417129022898550",
+    "title": "机械键盘 3:4 百科海报：包豪斯模块配方",
+    "blurb": "竖版信息海报：配列/轴体/行程/压力/键帽/连接/结构九模块一次排完，中文标题控字稳。硬核产品百科别堆图标——网格+克制三色就够。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2102417129022898550",
+    "category": "海报排版",
+    "prompt": "一张 3:4 竖版机械键盘百科信息海报，融合包豪斯功能主义、工业设计档案与现代数码实验室视觉。顶部以斜切构图展示一把紧凑型机械键盘，并在旁边拆解展示键帽、机械轴体、定位板、PCB 和卫星轴，工作室硬柔结合光形成清晰微阴影；标题“机械键盘”沿左侧网格排列，英文副标题“Mechanical Keyboard”，搭配“输入设备／机械开关”圆形分类标签、结构爆炸图与键盘尺寸比例尺。\n\n中部采用红、黄、蓝三种克制强调色和模块化几何卡片，完整呈现九类信息：60%、65%、75%、80%、96%、100%常见配列；线性轴、段落轴、点击轴触感曲线；触发行程与总行程；触发压力；键帽常见材质与高度；有线、2.4GHz、蓝牙连接方式；热插拔与焊接 PCB 区别；定位板、夹心结构与 Gasket 等常见内部结构；延迟、轮询率、全键无冲与使用场景。\n\n每个模块只保留一种主要图形，避免视觉堆叠。采用12列网格、48pt边距、8pt基线、统一2pt线性图标。背景为接近纯白的浅灰，文字为深灰，数据使用等宽字体。底部设置术语解释与参数来源栏，明确“不同品牌与型号存在差异”，禁止虚构具体型号性能或不存在的技术标准。"
+  },
+  {
+    "id": "2102413682563244332",
+    "title": "古风月照群青：美妆特写结构化提示词",
+    "blurb": "主题/妆感/五官/发饰/服装/场景/镜头分栏写死，群青只当主色不染全脸。古风种草妆面——结构字段比「仙气」两个字管用。",
+    "author": "liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2102413682563244332",
+    "category": "人像角色",
+    "prompt": "主题风格： 古风清冷高级美妆特写\n身份气质： 高门贵女，清冷、矜贵、安静、女主感\n妆感目标： 群青映月清冷水光妆\n五官方向： 清冷淡颜，东方电影脸，修长杏眼，面中自然饱满，鼻型秀气，唇形柔润克制\n发型与发饰方向： 乌发低挽，群青琉璃发钗、银白细链、白玉耳饰\n服装方向： 群青色交领长衫，搭配月白内衫与浅银灰披帛\n场景方向： 月窗闺阁 / 深木屏风 / 一枝白梅 / 冷白柔光\n镜头方向： 美妆特写，正面轻侧身\n画幅比例： 9:16\n创意自由度： 标准\n补充要求： 群青只作为主视觉服装色与局部发饰色，妆容以冷粉、豆沙、银白高光为主，不做蓝色全脸妆，胸线明显；背景保持月白、木色、冷白层次，不要整张图偏蓝，人物脸部与妆容必须通透清晰，整体呈现清冷矜贵感。"
+  },
+  {
+    "id": "2102412386204557689",
+    "title": "观星之夜：中文活动海报控字配方",
+    "blurb": "午夜蓝+望远镜剪影，大标题「今晚抬头看星星」指定中文不乱码。活动海报控字——只渲染你写的那两句，别让模型自由发挥星座 logo。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2102412386204557689",
+    "category": "海报排版",
+    "prompt": "设计“观星之夜”活动海报。午夜蓝背景，银白星点与柔和蓝紫光晕，下半部是一座小山上的望远镜剪影。上方大标题准确写“今晚抬头看星星”，下方写“留一点时间给遥远的光”。星空层次细腻，文字醒目；只渲染指定中文，不添加星座名称、Logo、水印或乱码。"
   }
 ]
