@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-23 · **收录 651 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-24 · **收录 657 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -1106,6 +1106,10 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **东方人文海报四主题：树纪/雨序/器语/纸间** — 同一套版式骨架，四个「时间与痕迹」主题——年轮、雨水刻度、陶土手温、纸上触痕。展览视觉/文化品牌/杂志封面别只会堆水墨滤镜，先让骨架替你讲时间。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102782889318330399)
+
+- **时尚大片字画同框四招：折射/破框/粗体叠图/走进巨型字体** — 光学折射、破框穿出、粗体叠图、走进巨型字体——人像与排版抢同一画面。时尚海报/杂志封面别只会把字贴边上，先让字和人抢空间。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102756484475990402)
 
 - **城市夜跑运动海报：荧光杂志风+中文锁字** — 深紫底配荧光黄与冷白，跑者与城市灯压在下半部；标题锁死「今晚，跑向风里」。运动海报别只会堆 exif——先锁色域与字，再谈剪影颗粒。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102742993946226914)
   <details>
@@ -5038,6 +5042,8 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **Flare角色表多角度→Higgsfield/Astra MV流水线** — Jake Paul 团队同款思路：Flare 先出正侧背多角度角色表（别只丢一张烂光参考），再进 Genjutsu 贴片换人；先 480p 试采样再冲 1080p。角色一致性别指望单帧玄学。 [@mikelauofficial](https://x.com/mikelauofficial) · [原帖](https://x.com/mikelauofficial/status/2102867687332630998)
+
 - **9:16 列车窗边电影感：COMPOSITION 分层配方** — 过道斜拍+前景座椅虚化+窗玻璃倒影，COMPOSITION/SUBJECT/LIGHTING 分栏写死。竖屏种草肖像——先锁构图深度，再谈「氛围感」。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2102635863893307394)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -5076,6 +5082,37 @@ Ultra-photorealistic, authentic candid photography, realistic skin pores and fre
 
 NEGATIVE PROMPT:
 cartoon, anime, illustration, CGI, 3D render, plastic skin, excessive makeup, perfect skin, beauty filter, oversharpening, unrealistic eyes, distorted face, extra fingers, deformed hands, duplicate person, duplicated reflection, incorrect reflection, artificial hair, glossy skin, studio lighting, fantasy train, text, watermark, logo, low resolution, excessive HDR, oversaturated colors
+```
+
+  </details>
+
+- **眼鏡っ子第二弾：可换装衣装模块+PROTECTED WARDROBE RULE** — 帽/上衣/裙/腿套/鞋/眼镜拆成不可变成品身份，FINAL WORN STATE 只改穿法不改形。虚拟 IP 换装别靠「差不多就行」——先把每件衣服锁死再谈姿势。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2102630253135118590)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. If source prose omits or misclassifies a component required by an explicit selection, that selection corrects only that component. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.
+
+Wardrobe:
+
+Headwear: A lightweight slouch beanie in softly marled light greige fine-gauge knit. The smooth, unturned opening follows the forehead and slopes low over the sides, while the generous enclosed crown relaxes toward the back in soft diagonal folds. A discreet rear shaping seam completes the brimless form, with no cuff, pompom or applied decoration.
+
+Top: A fitted heather-gray long-sleeved top in smooth fine stretch knit, with subtle vertical contour seams shaping the torso and a straight hip-length hem. Slim sleeves extend to the wrists with narrow plain hems. The neckline opens into a deep, narrow, round-bottomed front slit edged in matching gray binding. A slender gray cord crosses through paired small eyelets along both sides, tying into a soft bow at the upper chest with long loose ends. An off-white modesty backing sits behind the lower laced opening, and the back continues in plain matching knit.
+
+Bottom: A voluminous tan plaid tiered mini skirt with a softly gathered elastic waistband and three overlapping, increasingly full ruffled flounces. The lightweight woven fabric carries a medium-large check of broad beige fields, grouped narrow black stripes separated by ivory lanes in both directions, and fine muted-red overcheck lines crossing the tan spaces. The same plaid scale continues across all tiers, breaking naturally at the gathered joins. A gathered sheer black organza ruffle is interleaved between the middle and lower plaid tiers, partly covered by the wavy middle flounce and visible above the plaid lower hem. An opaque tan underskirt supports the short, rounded silhouette.
+
+Legwear: A pair of mocha woven cargo leg covers extending from just below the knees to the ankles, with roomy tubular bodies, softly bagged volume and lightly gathered open lower hems. Slightly frayed upper rims rise above adjustable straps fitted with silver-tone rectangular buckles and round metal eyelets. A second strap encircles each upper calf, and long loose strap ends descend along the outer sides. Each front-outer shin carries a large gusseted rectangular cargo pocket with a broad shaped snap flap, two vertically aligned metal eyelets on its lower face and a silver-tone D-ring suspended beneath on a short fabric tab. Plain matching backs and concealed inner-side openings complete the separate covers.
+
+Footwear: Chocolate-brown padded high-top sneakers with softly lustrous satin-finish textile uppers, rounded stitched toe caps and tonal paneled sides. Oversized cushioned tongues rise above wide lace-up fronts, surrounded by thick padded ankle collars. Broad brown woven laces cross through tonal round eyelets and finish with small metal tips. Thick, flat brown rubber soles wrap upward around the toes, with layered horizontal foxing ridges and a finely textured front bumper; matching padded heel counters and textile linings complete the pair.
+
+Eyewear:
+
+A pair of delicate silver-tone eyeglasses with clear rounded-oval lenses, very fine full rims, a narrow arched bridge and transparent adjustable nose pads. Slim metal temples carry a short line of closely set clear faceted stones at each outer hinge, with a slightly larger rounded flower-like cluster interrupting the smaller stones. The temples taper into discreet curved clear tips.
+
+Final worn state:
+- Eyewear placement: Center the registered eyewear bridge on the nose, align the two lenses at equal height directly in front of the corresponding eyes, and place each temple over its corresponding ear. Do not move the eyewear to the top of the head, forehead, nose tip, or neckline, and do not disengage only one temple.
+
+Necklace: A delicate silver-tone butterfly tassel necklace on a fine chain attached to the outer upper wings. The butterfly has two broad, pointed openwork upper wings with sparkling clear-crystal borders, smaller tapered lower wings and a slender central body. Two closely spaced fine chains descend freely beneath the butterfly to slightly different lengths, each ending in a slim polished metal tip. A small lobster clasp closes the necklace at the back.
 ```
 
   </details>
@@ -9440,6 +9477,18 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 ## 电商改图
 
 商品图、局部编辑、包装与货架感。
+
+- **电商实战：同一只帆布包，小红书一个字都不要** — 同一只帆布包连发多张零文案种草图——靠构图、材质光泽和场景差讲卖点。小红书别只会堆文案清单，先让图自己把「想带出门」做出来。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2102943070522319003)
+
+- **蜜桃粉真丝睡裙：9:16电商详情页完整中文提示词** — 首屏卧室场景+中段平铺微距+底部包装尺码，一整页生活方式详情页配方。敏感品类也能端庄出片——先锁覆盖与姿态，再谈真丝光泽。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102924564787544273)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+生成一张9:16竖版蜜桃粉真丝睡裙电商详情页，整体像高级生活方式品牌的移动端页面。产品为短款轻薄吊带睡裙与同色配套内裤，主体采用柔粉真丝、细窄蕾丝领缘和可调节肩带，使用成年模特穿着端庄展示，胸部与敏感区域完整覆盖。首屏设在安静的私人酒店卧室，模特侧身坐在床沿，姿态放松自然，背景为米白寝具、浅木床头和柔和窗光；标题“蜜桃晨光真丝睡裙”，卖点“亲肤顺滑·自然垂坠·轻盈无束缚”。中段转为纯色商品区，展示正背面平铺、领口蕾丝、肩带滑扣、侧缝、下摆弧线和真丝光泽微距。加入布料悬垂测试、透气示意、色卡、长度数据、尺码表与不同身高穿着参考。底部展示折叠收纳、丝质洗护袋和礼盒包装。画面温柔清晰，避免过度磨皮、诱惑姿势、透视走光和杂乱文案。
+```
+
+  </details>
 
 - **豪华抓娃娃机爪抓 [PRODUCT]：可填槽电商图** — 4:5 竖版：金爪从顶吊起一件真品，下方堆满同款。换掉 [PRODUCT] 就能出辣酱/护肤/周边——玩味钩子 + 奢侈广告感，电商主图直接用。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2102257393216463021)
   <details>
