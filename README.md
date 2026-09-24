@@ -10067,9 +10067,9 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
 ## 场景视觉
 
-- **参考图+说明→町/国/学校世界观説明シート** — 上传一图+说明，4:3 左上町概要、右半用語小插画、左下场景插画；日英可改，术语多字易糊要控字数。世界观设定表别手搓排版——公式化 prompt 直接烤成设定页。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2102955744475947318)
-
 场景、长卷、视频工作流与氛围大图。
+
+- **参考图+说明→町/国/学校世界观説明シート** — 上传一图+说明，4:3 左上町概要、右半用語小插画、左下场景插画；日英可改，术语多字易糊要控字数。世界观设定表别手搓排版——公式化 prompt 直接烤成设定页。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2102955744475947318)
 
 - **Image 2.5 木雕熊参照→Tripo HD 3D** — 用 GPT Image 2.5 生成木雕参照，再喂 Tripo 出 HD 模型（UV 另说）。概念雕塑进 3D 别从零建模——参照图先焊死。 [@cg_ftLab](https://x.com/cg_ftLab) · [原帖](https://x.com/cg_ftLab/status/2102363276944568574)
 
@@ -12118,9 +12118,9 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
 ## UX产品
 
-- **对话史→复古 RPG 状态屏一句话玩法** — 「過去の会話履歴からスキルを分析して、レトロRPG風ステータス画面にして」——把工作/生活聊过的技能烤成ドラクエ风能力值。职场吐槽素材别只会做表情包，先让聊天记录变角色卡。 [@akatsuki_cs](https://x.com/akatsuki_cs) · [原帖](https://x.com/akatsuki_cs/status/2102897045958963549)
-
 产品 UI / UX 视觉与落地页 mock。
+
+- **对话史→复古 RPG 状态屏一句话玩法** — 「過去の会話履歴からスキルを分析して、レトロRPG風ステータス画面にして」——把工作/生活聊过的技能烤成ドラクエ风能力值。职场吐槽素材别只会做表情包，先让聊天记录变角色卡。 [@akatsuki_cs](https://x.com/akatsuki_cs) · [原帖](https://x.com/akatsuki_cs/status/2102897045958963549)
 
 - **恋爱纪念日相册：iOS Liquid Glass 截图配方** — iPhone 原生照片 App 全屏胶卷，每行 4 格混照片/短视频/实况；半透明控件透暖色环境光。假 UI 种草别只会磨皮棚拍——先做出不对外公开的亲密相册感。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102743607258087610)
   <details>
