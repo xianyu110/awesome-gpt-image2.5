@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-24 · **收录 664 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-24 · **收录 665 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -5069,6 +5069,42 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **真人照→精细油画：锁身份完整提示词** — 上传真人照一键变当代油画/水粉，脸/发型/姿势/衣服/背景全锁死——不是另起炉灶的「AI 重绘」。写真转艺术封面别只会加滤镜，先把身份约束写进 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2103015777360392379)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded real photograph as the absolute source image. Transform the entire photograph into a sophisticated, highly detailed full fine-art painting while preserving the exact identity and visual structure of the original image.
+
+The result must clearly remain the same person, same face, same facial features, same facial proportions, same hairstyle, same pose, same body proportions, same clothing, same hand position, same expression, same camera angle, same framing, same background composition, and same overall scene. Do not redesign or reinterpret the subject's identity, anatomy, pose, or composition.
+
+IMPORTANT: This is a transformation of the uploaded real photograph into a painting, NOT a new image generation. Every visible element from the original photograph should be retained and converted into painted form.
+
+Transform the entire image into a bold contemporary expressive oil-and-gouache fine-art painting with an authentic handcrafted appearance. Replace the photographic surface completely with rich physical paint. Use thick visible brushstrokes, expressive impasto, palette-knife marks, layered pigments, dry-brush textures, painterly edges, subtle paint buildup, and visible canvas texture.
+
+Preserve the person's face with high accuracy. Facial identity must remain recognizable and consistent with the source photograph. Carefully retain the exact eyes, eye spacing, eyebrows, nose shape, lips, jawline, cheek structure, skin tone, facial proportions, hairstyle and expression. Render the face with refined painterly detail while allowing visible brushwork and natural paint texture.
+
+Transform the hair completely into expressive painted strokes while maintaining the original hairstyle, volume, direction, length, and shape. Use a mixture of fine individual brush marks and larger energetic strokes to create realistic yet artistic hair texture.
+
+Transform the clothing completely into painted fabric while preserving its exact design, colors, folds, seams, logos or symbols, proportions, and position from the original photograph. Use thick layered paint and expressive strokes to describe the fabric and folds without changing the clothing itself.
+
+Transform the hands and fingers into anatomically accurate painted forms while preserving their exact position, gesture, proportions, skin tone, and relationship to the face.
+
+Transform the entire background into the same scene rendered as physical artwork. Preserve the original objects, colors, shapes, perspective, lighting direction, and composition, but reinterpret their surfaces through expressive paint. Do not replace the background with a different environment.
+
+Use a rich contemporary palette with deep cobalt blue, vivid golden yellow, warm orange, red, turquoise, cream, earthy brown, and natural skin tones, matching the colors already present in the source image. Allow colors to overlap naturally through visible brushwork.
+
+The painting should feel like a hand-painted gallery artwork created with oil paint, gouache, and palette knives on textured canvas, combining realistic figurative painting with energetic modern expressionism.
+
+Surface and brushwork: thick impasto, tactile paint, visible bristle marks, palette-knife strokes, dry-brush details, layered translucent washes, broken color, rough painted edges, natural pigment variation, canvas grain, subtle imperfections, handcrafted physical artwork.
+
+Lighting: preserve the original photograph's lighting and shadows, translating them into painted highlights, midtones, and shadows rather than changing the lighting setup.
+
+Composition: preserve the exact original composition, framing, camera perspective, subject placement, proportions, and aspect ratio. Do not crop, zoom, rotate, extend, or rearrange the image.
+```
+
+  </details>
 
 - **日间高光CCD生活照：都市咖啡区完整提示词** — 清亮高光CCD风，露天咖啡烘焙区+蓝莓紫短上衣/奶白短裤。都市周末生活写真别只会开美颜——先锁摄影风格和场景道具再谈人。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102997708965634220)
   <details>
