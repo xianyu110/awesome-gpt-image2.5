@@ -5646,5 +5646,39 @@
     "url": "https://x.com/liyue_ai/status/2102997708965634220",
     "category": "人像角色",
     "prompt": "摄影风格：日间清亮高光CCD生活照风\n写真方向：都市周末生活写真\n场景方向：现代露天咖啡烘焙区 / 白色遮阳棚 / 不锈钢咖啡设备 / 浅木吧台 / 城市街景\n服装方向：蓝莓紫色修身U领短袖短上衣 + 奶白色低腰修身超短裤"
+  },
+  {
+    "id": "2102984812713918522",
+    "title": "Adobe Firefly 可指定 GPT Image 2.5 Sunburst",
+    "blurb": "有 Adobe CC 就能在 Firefly 里点名 Sunburst 出图——不必另开 ChatGPT Plus。旁路通道别浪费：已经付 CC 的人，先把 Firefly 当 Image 2.5 机房用。",
+    "author": "gibkun1",
+    "url": "https://x.com/gibkun1/status/2102984812713918522",
+    "category": "选型评测"
+  },
+  {
+    "id": "2102957947001159903",
+    "title": "人物四方向朝向实验：右前最难控",
+    "blurb": "前斜/后斜 × 左右体朝四格对照——GPT Image 2.5 偏偏不爱朝画面右前。角色朝向翻车别急着怪 prompt，先按四格测一遍再写死朝向约束。",
+    "author": "X_nanamaru",
+    "url": "https://x.com/X_nanamaru/status/2102957947001159903",
+    "category": "选型评测"
+  },
+  {
+    "id": "2102972265541304823",
+    "title": "上传照→高端编辑海报：3:4 上下 50/50",
+    "blurb": "上半保真原图，下半抽成不超过四色的纸质手绘小插画，留大量暖米白负空间。种草/艺术书封面批产模板，附完整英文 prompt。",
+    "author": "saniaspeaks_",
+    "url": "https://x.com/saniaspeaks_/status/2102972265541304823",
+    "category": "海报排版",
+    "prompt": "Create a high-end editorial poster using the uploaded photo as the exact reference, in a strict 3:4 vertical format divided horizontally into two equal 50/50 sections. Preserve the original photo faithfully in the top half, including subjects, identity, pose, clothing, objects, lighting, colors, and realistic texture, with only subtle premium editorial color grading. In the bottom half, reinterpret the most recognizable elements as a small, centered, minimalist handmade paper illustration using delicate imperfect lines, bold flat acrylic-like color shapes, subtle paper grain, organic edges, and no more than 4 colors extracted from the original photo. Keep the illustration only 10–20% of the bottom section with lots of warm off-white negative space and optional minimal editorial typography. The overall result should feel quiet, poetic, refined, artistic, premium, and like an independent art-book cover, avoiding cartoon, watercolor, colored-pencil, 3D, glossy, busy, or commercial aesthetics."
+  },
+  {
+    "id": "2102970523466797329",
+    "title": "中秋海报「月满欢喜」：禅意极简可返图",
+    "blurb": "古风女子坐浅色台阶，手边月饼礼盒；桂花+珊瑚橙圆月锁情绪母题。节日封面别只会堆月饼——主题/风格/主体/情绪/意象槽位填完再出图。",
+    "author": "liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2102970523466797329",
+    "category": "海报排版",
+    "prompt": "主题方向：东方禅意极简中秋封面海报\n风格分支：中秋女性审美明快型\n主体内容：一位古风女子坐在浅色台阶上，手边放着一个小小月饼礼盒\n情绪母题：团圆、喜悦、温暖节日感\n场景与意象：浅色台阶、桂花、珊瑚橙圆月、月饼礼盒、女子"
   }
 ]

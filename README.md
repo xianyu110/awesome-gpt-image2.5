@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-24 · **收录 660 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-24 · **收录 664 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,10 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Adobe Firefly 可指定 GPT Image 2.5 Sunburst** — 有 Adobe CC 就能在 Firefly 里点名 Sunburst 出图——不必另开 ChatGPT Plus。旁路通道别浪费：已经付 CC 的人，先把 Firefly 当 Image 2.5 机房用。 [@gibkun1](https://x.com/gibkun1) · [原帖](https://x.com/gibkun1/status/2102984812713918522)
+
+- **人物四方向朝向实验：右前最难控** — 前斜/后斜 × 左右体朝四格对照——GPT Image 2.5 偏偏不爱朝画面右前。角色朝向翻车别急着怪 prompt，先按四格测一遍再写死朝向约束。 [@X_nanamaru](https://x.com/X_nanamaru) · [原帖](https://x.com/X_nanamaru/status/2102957947001159903)
 
 - **Sunburst vs Qwen-Image-2.1：七类日文商用图硬对照** — 构成图/比较表/ポンチ絵/信息图/决策树/店头POP/セミナーチラシ同题对比。日文原指令易崩字——改英语指令+引号逐字锁文立刻好转；竖线噪来自 VAE tiling 接缝；API 17–31s vs 本地 37–39s。商用资料图选型先看文字与结构，别只刷棚拍美女。 [@daigomiyoshi_ai](https://x.com/daigomiyoshi_ai) · [原帖](https://x.com/daigomiyoshi_ai/status/2102554528579232004)
 
@@ -1106,6 +1110,30 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **上传照→高端编辑海报：3:4 上下 50/50** — 上半保真原图，下半抽成不超过四色的纸质手绘小插画，留大量暖米白负空间。种草/艺术书封面批产模板，附完整英文 prompt。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2102972265541304823)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a high-end editorial poster using the uploaded photo as the exact reference, in a strict 3:4 vertical format divided horizontally into two equal 50/50 sections. Preserve the original photo faithfully in the top half, including subjects, identity, pose, clothing, objects, lighting, colors, and realistic texture, with only subtle premium editorial color grading. In the bottom half, reinterpret the most recognizable elements as a small, centered, minimalist handmade paper illustration using delicate imperfect lines, bold flat acrylic-like color shapes, subtle paper grain, organic edges, and no more than 4 colors extracted from the original photo. Keep the illustration only 10–20% of the bottom section with lots of warm off-white negative space and optional minimal editorial typography. The overall result should feel quiet, poetic, refined, artistic, premium, and like an independent art-book cover, avoiding cartoon, watercolor, colored-pencil, 3D, glossy, busy, or commercial aesthetics.
+```
+
+  </details>
+
+- **中秋海报「月满欢喜」：禅意极简可返图** — 古风女子坐浅色台阶，手边月饼礼盒；桂花+珊瑚橙圆月锁情绪母题。节日封面别只会堆月饼——主题/风格/主体/情绪/意象槽位填完再出图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102970523466797329)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主题方向：东方禅意极简中秋封面海报
+风格分支：中秋女性审美明快型
+主体内容：一位古风女子坐在浅色台阶上，手边放着一个小小月饼礼盒
+情绪母题：团圆、喜悦、温暖节日感
+场景与意象：浅色台阶、桂花、珊瑚橙圆月、月饼礼盒、女子
+```
+
+  </details>
 
 - **东方人文海报四主题：树纪/雨序/器语/纸间** — 同一套版式骨架，四个「时间与痕迹」主题——年轮、雨水刻度、陶土手温、纸上触痕。展览视觉/文化品牌/杂志封面别只会堆水墨滤镜，先让骨架替你讲时间。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102782889318330399)
 
