@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-24 · **收录 665 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-24 · **收录 666 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -12196,6 +12196,25 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **自然形态→跨域工程重构：生物仿生槽位公式** — 荷花变高跟鞋、细胞壁变交通枢纽、海螺变耳机——固定中间「跨域工程设计重构」，只换两端槽。产品概念图别从零找灵感，先抄自然当结构母题。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103113405532127629)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【源对象】 → 跨域工程设计重构 → 【目标对象】
+
+用法：只换两端槽位，中间「跨域工程设计重构」固定。自然形态当结构母题，产品/建筑当落点。
+例：
+- 荷花 → 跨域工程设计重构 → 高跟鞋
+- 细胞壁 → 跨域工程设计重构 → 交通枢纽
+- 海螺 → 跨域工程设计重构 → 耳机
+- 噬菌体 → 跨域工程设计重构 → 【目标产品】
+
+生成：GPT Image 2.5
+```
+
+  </details>
 
 - **对话史→复古 RPG 状态屏一句话玩法** — 「過去の会話履歴からスキルを分析して、レトロRPG風ステータス画面にして」——把工作/生活聊过的技能烤成ドラクエ风能力值。职场吐槽素材别只会做表情包，先让聊天记录变角色卡。 [@akatsuki_cs](https://x.com/akatsuki_cs) · [原帖](https://x.com/akatsuki_cs/status/2102897045958963549)
 
