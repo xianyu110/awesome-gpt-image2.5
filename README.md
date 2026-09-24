@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-24 · **收录 659 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-24 · **收录 660 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -5041,6 +5041,19 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **日间高光CCD生活照：都市咖啡区完整提示词** — 清亮高光CCD风，露天咖啡烘焙区+蓝莓紫短上衣/奶白短裤。都市周末生活写真别只会开美颜——先锁摄影风格和场景道具再谈人。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102997708965634220)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市周末生活写真
+场景方向：现代露天咖啡烘焙区 / 白色遮阳棚 / 不锈钢咖啡设备 / 浅木吧台 / 城市街景
+服装方向：蓝莓紫色修身U领短袖短上衣 + 奶白色低腰修身超短裤
+```
+
+  </details>
 
 - **Flare角色表多角度→Higgsfield/Astra MV流水线** — Jake Paul 团队同款思路：Flare 先出正侧背多角度角色表（别只丢一张烂光参考），再进 Genjutsu 贴片换人；先 480p 试采样再冲 1080p。角色一致性别指望单帧玄学。 [@mikelauofficial](https://x.com/mikelauofficial) · [原帖](https://x.com/mikelauofficial/status/2102867687332630998)
 

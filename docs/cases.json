@@ -5621,5 +5621,30 @@
     "url": "https://x.com/MoodLock_JP/status/2102630253135118590",
     "category": "人像角色",
     "prompt": "PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. If source prose omits or misclassifies a component required by an explicit selection, that selection corrects only that component. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.\n\nWardrobe:\n\nHeadwear: A lightweight slouch beanie in softly marled light greige fine-gauge knit. The smooth, unturned opening follows the forehead and slopes low over the sides, while the generous enclosed crown relaxes toward the back in soft diagonal folds. A discreet rear shaping seam completes the brimless form, with no cuff, pompom or applied decoration.\n\nTop: A fitted heather-gray long-sleeved top in smooth fine stretch knit, with subtle vertical contour seams shaping the torso and a straight hip-length hem. Slim sleeves extend to the wrists with narrow plain hems. The neckline opens into a deep, narrow, round-bottomed front slit edged in matching gray binding. A slender gray cord crosses through paired small eyelets along both sides, tying into a soft bow at the upper chest with long loose ends. An off-white modesty backing sits behind the lower laced opening, and the back continues in plain matching knit.\n\nBottom: A voluminous tan plaid tiered mini skirt with a softly gathered elastic waistband and three overlapping, increasingly full ruffled flounces. The lightweight woven fabric carries a medium-large check of broad beige fields, grouped narrow black stripes separated by ivory lanes in both directions, and fine muted-red overcheck lines crossing the tan spaces. The same plaid scale continues across all tiers, breaking naturally at the gathered joins. A gathered sheer black organza ruffle is interleaved between the middle and lower plaid tiers, partly covered by the wavy middle flounce and visible above the plaid lower hem. An opaque tan underskirt supports the short, rounded silhouette.\n\nLegwear: A pair of mocha woven cargo leg covers extending from just below the knees to the ankles, with roomy tubular bodies, softly bagged volume and lightly gathered open lower hems. Slightly frayed upper rims rise above adjustable straps fitted with silver-tone rectangular buckles and round metal eyelets. A second strap encircles each upper calf, and long loose strap ends descend along the outer sides. Each front-outer shin carries a large gusseted rectangular cargo pocket with a broad shaped snap flap, two vertically aligned metal eyelets on its lower face and a silver-tone D-ring suspended beneath on a short fabric tab. Plain matching backs and concealed inner-side openings complete the separate covers.\n\nFootwear: Chocolate-brown padded high-top sneakers with softly lustrous satin-finish textile uppers, rounded stitched toe caps and tonal paneled sides. Oversized cushioned tongues rise above wide lace-up fronts, surrounded by thick padded ankle collars. Broad brown woven laces cross through tonal round eyelets and finish with small metal tips. Thick, flat brown rubber soles wrap upward around the toes, with layered horizontal foxing ridges and a finely textured front bumper; matching padded heel counters and textile linings complete the pair.\n\nEyewear:\n\nA pair of delicate silver-tone eyeglasses with clear rounded-oval lenses, very fine full rims, a narrow arched bridge and transparent adjustable nose pads. Slim metal temples carry a short line of closely set clear faceted stones at each outer hinge, with a slightly larger rounded flower-like cluster interrupting the smaller stones. The temples taper into discreet curved clear tips.\n\nFinal worn state:\n- Eyewear placement: Center the registered eyewear bridge on the nose, align the two lenses at equal height directly in front of the corresponding eyes, and place each temple over its corresponding ear. Do not move the eyewear to the top of the head, forehead, nose tip, or neckline, and do not disengage only one temple.\n\nNecklace: A delicate silver-tone butterfly tassel necklace on a fine chain attached to the outer upper wings. The butterfly has two broad, pointed openwork upper wings with sparkling clear-crystal borders, smaller tapered lower wings and a slender central body. Two closely spaced fine chains descend freely beneath the butterfly to slightly different lengths, each ending in a slim polished metal tip. A small lobster clasp closes the necklace at the back."
+  },
+  {
+    "id": "2102955744475947318",
+    "title": "参考图+说明→町/国/学校世界观説明シート",
+    "blurb": "上传一图+说明，4:3 左上町概要、右半用語小插画、左下场景插画；日英可改，术语多字易糊要控字数。世界观设定表别手搓排版——公式化 prompt 直接烤成设定页。",
+    "author": "Kurohachi05",
+    "url": "https://x.com/Kurohachi05/status/2102955744475947318",
+    "category": "场景视觉"
+  },
+  {
+    "id": "2102897045958963549",
+    "title": "对话史→复古 RPG 状态屏一句话玩法",
+    "blurb": "「過去の会話履歴からスキルを分析して、レトロRPG風ステータス画面にして」——把工作/生活聊过的技能烤成ドラクエ风能力值。职场吐槽素材别只会做表情包，先让聊天记录变角色卡。",
+    "author": "akatsuki_cs",
+    "url": "https://x.com/akatsuki_cs/status/2102897045958963549",
+    "category": "UX产品"
+  },
+  {
+    "id": "2102997708965634220",
+    "title": "日间高光CCD生活照：都市咖啡区完整提示词",
+    "blurb": "清亮高光CCD风，露天咖啡烘焙区+蓝莓紫短上衣/奶白短裤。都市周末生活写真别只会开美颜——先锁摄影风格和场景道具再谈人。",
+    "author": "liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2102997708965634220",
+    "category": "人像角色",
+    "prompt": "摄影风格：日间清亮高光CCD生活照风\n写真方向：都市周末生活写真\n场景方向：现代露天咖啡烘焙区 / 白色遮阳棚 / 不锈钢咖啡设备 / 浅木吧台 / 城市街景\n服装方向：蓝莓紫色修身U领短袖短上衣 + 奶白色低腰修身超短裤"
   }
 ]
