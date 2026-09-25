@@ -5780,5 +5780,22 @@
     "url": "https://x.com/Gdgtify/status/2103316308414869908",
     "category": "海报排版",
     "prompt": "4 images, 4:5, pick 4 popular gadgets of different decades. Concept: Turn objects into a landmark building that could exist.\n\n1. ANALYZE INPUT (Massing & Structure):\nMass: (Monolithic/Fragmented/Stacked/Spindly)\nSurface: (Reflective/Porous/Layered/Patterned)\nMechanism: (Static/Kinetic/Modular)\n\n2. AUTO-SELECT BUILDING TYPE:\nIF Monolithic + Stone-like → Museum\nIF Reflective + Aerodynamic → Skyscraper\nIF Modular + Stacked → Housing complex\nIF Porous + Organic → Botanical conservatory\nIF Kinetic + Mechanical → Transit hub\n\n3. EXECUTE:\nGolden-hour exterior render, people for scale, plausible materials, cinematic wide lens."
+  },
+  {
+    "id": "2103418718936342664",
+    "title": "巨型瓷片拼接画：【主题】×空间融合×随机摄影视角",
+    "blurb": "通用槽位公式——主题定瓷片类型/釉面/肌理/拼接，画作焊进地面墙面建筑，机位带摄影偶然性。场景大图别只会贴一张贴图，先让瓷片真的「长」在空间里。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2103418718936342664",
+    "category": "场景视觉",
+    "prompt": "【主题】 × 巨型陶瓷拼接画 × 空间融合 × 随机摄影视角\n\n根据主题中的空间环境、主体特征及两者关系，自然选择最适合的陶瓷片类型、釉面效果、色彩、肌理与拼接方式；允许现实、历史、未来、幻想或跨时空元素形成有趣组合。巨型陶瓷拼接画真实存在于空间的地面、墙面、建筑表面或其他合理位置，与周围环境的结构、尺度、材质和光线自然融合。主体由大量独立陶瓷片真实拼接而成，远看形成完整的大型画面，近看清晰呈现瓷片之间明确的拼接关系、真实边缘、厚度与自然釉面变化。根据空间与主体自然选择具有摄影偶然性的视角、机位与构图，保持真实镜头成像逻辑，让画面具有真实现场摄影的偶然性与自然感。保持材质清晰、光影自然、空间关系真实，避免AI生成特有的脏颗粒、数字噪点、异常细碎纹理、表面伪影和不自然的高频细节。\n\n用法：只换「【主题】」；例：地铁站大厅 / 泳池底 / 古寺回廊 / 未来都市广场。\n生成：GPT Image 2.5"
+  },
+  {
+    "id": "2103414026667729242",
+    "title": "一张图→平铺24帧精灵图→位移播放成动画",
+    "blurb": "小工具管线：gpt-image-2.5 把单图烤成一张 24 帧平铺精灵表，再靠移动视口播成动画；作者强调 2.5 指令遵循更稳、结果越来越可控。表情包/短动效别先上视频模型——精灵表位移往往更便宜。",
+    "author": "bavoch1217",
+    "url": "https://x.com/bavoch1217/status/2103414026667729242",
+    "category": "像素动效"
   }
 ]

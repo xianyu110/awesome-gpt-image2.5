@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 674 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 676 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -249,11 +249,7 @@ Create a black and white Shonen Jump-style manga panel of ONE samurai, full body
 
   </details>
 
-- **Adobe Firefly 可指定 GPT Image 2.5 Sunburst** — 有 Adobe CC 就能在 Firefly 里点名 Sunburst 出图——不必另开 ChatGPT Plus。旁路通道别浪费：已经付 CC 的人，先把 Firefly 当 Image 2.5 机房用。 [@gibkun1](https://x.com/gibkun1) · [原帖](https://x.com/gibkun1/status/2102984812713918522)
-
-- **人物四方向朝向实验：右前最难控** — 前斜/后斜 × 左右体朝四格对照——GPT Image 2.5 偏偏不爱朝画面右前。角色朝向翻车别急着怪 prompt，先按四格测一遍再写死朝向约束。 [@X_nanamaru](https://x.com/X_nanamaru) · [原帖](https://x.com/X_nanamaru/status/2102957947001159903)
-
-- **只改机型名：iPhone / Pixel / Galaxy / Xiaomi 写真画风对照** — 同一套 persona/构图/光位 prompt，只换 `camera/device` 四格并排——机种名 alone 就会拖走整体「手机味」。氛围微调别先堆 ISO/焦段，先把机型当廉价风格槽试一遍。 [@X_nanamaru](https://x.com/X_nanamaru) · [原帖](https://x.com/X_nanamaru/status/2103320334845816898)
+- **只改机型名：iPhone / Pixel / Galaxy / Xiaomi 写真画风对照** — 同一套 persona/构图/光位 prompt，只换 camera/device 四格并排——机种名 alone 就会拖走整体「手机味」。氛围微调别先堆 ISO/焦段，先把机型当廉价风格槽试一遍。 [@X_nanamaru](https://x.com/X_nanamaru) · [原帖](https://x.com/X_nanamaru/status/2103320334845816898)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -266,6 +262,10 @@ camera/device: iPhone
 ```
 
   </details>
+
+- **Adobe Firefly 可指定 GPT Image 2.5 Sunburst** — 有 Adobe CC 就能在 Firefly 里点名 Sunburst 出图——不必另开 ChatGPT Plus。旁路通道别浪费：已经付 CC 的人，先把 Firefly 当 Image 2.5 机房用。 [@gibkun1](https://x.com/gibkun1) · [原帖](https://x.com/gibkun1/status/2102984812713918522)
+
+- **人物四方向朝向实验：右前最难控** — 前斜/后斜 × 左右体朝四格对照——GPT Image 2.5 偏偏不爱朝画面右前。角色朝向翻车别急着怪 prompt，先按四格测一遍再写死朝向约束。 [@X_nanamaru](https://x.com/X_nanamaru) · [原帖](https://x.com/X_nanamaru/status/2102957947001159903)
 
 - **Sunburst vs Qwen-Image-2.1：七类日文商用图硬对照** — 构成图/比较表/ポンチ絵/信息图/决策树/店头POP/セミナーチラシ同题对比。日文原指令易崩字——改英语指令+引号逐字锁文立刻好转；竖线噪来自 VAE tiling 接缝；API 17–31s vs 本地 37–39s。商用资料图选型先看文字与结构，别只刷棚拍美女。 [@daigomiyoshi_ai](https://x.com/daigomiyoshi_ai) · [原帖](https://x.com/daigomiyoshi_ai/status/2102554528579232004)
 
@@ -1139,17 +1139,6 @@ C区域代表【背景建筑或环境】
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
-- **经典跑车侧剖信息图：letterpress 语义切面公式** — 2×2 / 16:9，把车身拆成机械词/材质词/气动词贴在真实结构位；`$ car_scene` 变量可换四台冷门经典跑车。汽车科普海报别只会摆一张侧拍——先让术语长在骨架上。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2103281580085035495)
-  <details>
-  <summary>查看 / 复制提示词</summary>
-
-```
-2x2 grid, 16:9, do this for 4 unusual but real classic cars: Create one image of a world famous classic sports car in side cutaway view.  Variable: $ car_scene = A technical automotive cutaway where the entire vehicle is reconstructed from mechanical terminology, material vocabulary, aerodynamic language, and performance descriptors placed in true structural position.  Function Draw($ car_scene){ <composition> Single centered vehicle, side profile with slight cutaway exposure. No background clutter, precise negative space, poster-like authority. The silhouette must be iconic and readable at first glance. </composition>  <semantic_inference> Infer chassis, frame, suspension, drivetrain, engine block, pistons, valves, intake, exhaust, wheel hub, steering column, brake assembly, upholstery, windshield, body panel. Use aerodynamic and driving terms where relevant: torque, grip, drag, speed, acceleration, cornering. </semantic_inference>  <letterpress_spec> MEDIUM: Precision lead type on smooth archival vellum. INK: Graphite black, gunmetal gray, soft steel undertones. IMPRESSION: Deep controlled embossing with strongest bite in chassis and engine, lighter in glass and airflow zones. STYLE: Mid-century automotive blueprint transformed into letterpress. </letterpress_spec>  <transformation> Chassis and engine use crankshaft, piston, axle, block, manifold, gearbox, differential in heavy industrial slab-serif. Body panels and interior use fender, hood, leather, dash, seat, trim, coupe in refined serif. Glass, airflow, and motion zones use windshield, glare, slipstream, drag, velocity in airy technical sans-serif. Wheel and suspension regions use hub, spoke, caliper, spring, traction, alignment in circular micro-type. The result should feel engineered, fast, and luxurious. </transformation>  Output: one image }
-```
-
-  </details>
-
-
 - **日常 gadget→地标建筑：Massing 分析×自动选建筑类型公式** — 4 图 4:5，先 ANALYZE Mass/Surface/Mechanism，再按规则自动选博物馆/摩天楼/住宅群/植物园/枢纽，最后金时外景渲染。物件概念海报别从零找形——先让结构语言长成可建的地标。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2103316308414869908)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -1171,6 +1160,16 @@ IF Kinetic + Mechanical → Transit hub
 
 3. EXECUTE:
 Golden-hour exterior render, people for scale, plausible materials, cinematic wide lens.
+```
+
+  </details>
+
+- **经典跑车侧剖信息图：letterpress 语义切面公式** — 2×2 / 16:9，把车身拆成机械词/材质词/气动词贴在真实结构位；`$ car_scene` 变量可换四台冷门经典跑车。汽车科普海报别只会摆一张侧拍——先让术语长在骨架上。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2103281580085035495)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+2x2 grid, 16:9, do this for 4 unusual but real classic cars: Create one image of a world famous classic sports car in side cutaway view.  Variable: $ car_scene = A technical automotive cutaway where the entire vehicle is reconstructed from mechanical terminology, material vocabulary, aerodynamic language, and performance descriptors placed in true structural position.  Function Draw($ car_scene){ <composition> Single centered vehicle, side profile with slight cutaway exposure. No background clutter, precise negative space, poster-like authority. The silhouette must be iconic and readable at first glance. </composition>  <semantic_inference> Infer chassis, frame, suspension, drivetrain, engine block, pistons, valves, intake, exhaust, wheel hub, steering column, brake assembly, upholstery, windshield, body panel. Use aerodynamic and driving terms where relevant: torque, grip, drag, speed, acceleration, cornering. </semantic_inference>  <letterpress_spec> MEDIUM: Precision lead type on smooth archival vellum. INK: Graphite black, gunmetal gray, soft steel undertones. IMPRESSION: Deep controlled embossing with strongest bite in chassis and engine, lighter in glass and airflow zones. STYLE: Mid-century automotive blueprint transformed into letterpress. </letterpress_spec>  <transformation> Chassis and engine use crankshaft, piston, axle, block, manifold, gearbox, differential in heavy industrial slab-serif. Body panels and interior use fender, hood, leather, dash, seat, trim, coupe in refined serif. Glass, airflow, and motion zones use windshield, glare, slipstream, drag, velocity in airy technical sans-serif. Wheel and suspension regions use hub, spoke, caliper, spring, traction, alignment in circular micro-type. The result should feel engineered, fast, and luxurious. </transformation>  Output: one image }
 ```
 
   </details>
@@ -10230,6 +10229,21 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
 场景、长卷、视频工作流与氛围大图。
 
+- **巨型瓷片拼接画：【主题】×空间融合×随机摄影视角** — 通用槽位公式——主题定瓷片类型/釉面/肌理/拼接，画作焊进地面墙面建筑，机位带摄影偶然性。场景大图别只会贴一张贴图，先让瓷片真的「长」在空间里。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103418718936342664)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【主题】 × 巨型陶瓷拼接画 × 空间融合 × 随机摄影视角
+
+根据主题中的空间环境、主体特征及两者关系，自然选择最适合的陶瓷片类型、釉面效果、色彩、肌理与拼接方式；允许现实、历史、未来、幻想或跨时空元素形成有趣组合。巨型陶瓷拼接画真实存在于空间的地面、墙面、建筑表面或其他合理位置，与周围环境的结构、尺度、材质和光线自然融合。主体由大量独立陶瓷片真实拼接而成，远看形成完整的大型画面，近看清晰呈现瓷片之间明确的拼接关系、真实边缘、厚度与自然釉面变化。根据空间与主体自然选择具有摄影偶然性的视角、机位与构图，保持真实镜头成像逻辑，让画面具有真实现场摄影的偶然性与自然感。保持材质清晰、光影自然、空间关系真实，避免AI生成特有的脏颗粒、数字噪点、异常细碎纹理、表面伪影和不自然的高频细节。
+
+用法：只换「【主题】」；例：地铁站大厅 / 泳池底 / 古寺回廊 / 未来都市广场。
+生成：GPT Image 2.5
+```
+
+  </details>
+
 - **参考图+说明→町/国/学校世界观説明シート** — 上传一图+说明，4:3 左上町概要、右半用語小插画、左下场景插画；日英可改，术语多字易糊要控字数。世界观设定表别手搓排版——公式化 prompt 直接烤成设定页。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2102955744475947318)
 
 - **Image 2.5 木雕熊参照→Tripo HD 3D** — 用 GPT Image 2.5 生成木雕参照，再喂 Tripo 出 HD 模型（UV 另说）。概念雕塑进 3D 别从零建模——参照图先焊死。 [@cg_ftLab](https://x.com/cg_ftLab) · [原帖](https://x.com/cg_ftLab/status/2102363276944568574)
@@ -11695,6 +11709,8 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **一张图→平铺24帧精灵图→位移播放成动画** — 小工具管线：gpt-image-2.5 把单图烤成一张 24 帧平铺精灵表，再靠移动视口播成动画；作者强调 2.5 指令遵循更稳、结果越来越可控。表情包/短动效别先上视频模型——精灵表位移往往更便宜。 [@bavoch1217](https://x.com/bavoch1217) · [原帖](https://x.com/bavoch1217/status/2103414026667729242)
 
 - **Perler Bead 可填槽：[COUNTRY] 4:5 编辑图** — 填国家/地标自动抽主体 → 拼豆质感 + 白描边 + 大留白。旅游/城市系列海报流水线，换词即出下一城。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2102318473997426892)
   <details>
