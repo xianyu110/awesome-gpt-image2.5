@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 676 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 678 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **多图叠加才是 Image 2.5 真正打开方式** — 在参考图短提示词理论之上迭代写真 skill：别只塞一张参考，多图叠加才把 2.5 的可控性喂满。锁脸/锁风格的人像流水线，先叠图再写短句。 [@nanyuan0412](https://x.com/nanyuan0412) · [原帖](https://x.com/nanyuan0412/status/2103385779368288760) · [参考图短提示词长文](https://x.com/nanyuan0412/status/2102609724868862095)
 
 - **TASTE BENCH：Sunburst 广告质量 7.38，首稿可投放仅 54.2%** — Omneky 用同一套 59 条 brief×四品牌×五语言盲测八模型：GPT Image 2.5 Sunburst 均分最高 7.38/10，但首稿可直接投放只有 54.2%。选型别只看分——广告可跑通才是终审。 [@omneky](https://x.com/omneky) · [原帖](https://x.com/omneky/status/2103352139838071038) · [Taste Bench](https://www.omneky.com/tastebench)
 
@@ -1138,6 +1140,40 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **FLORA SIGNAL：chrome 人形×CRT 花冠文化海报长提示词** — Orbit／Transit／Port 三合一旗舰文化海报——黑铬人形 + CRT 花冠 + 粉像素标题，60/30/10 色板与材质语义写死。高端文化/艺术节海报别堆赛博杂物，先让花从屏幕头长出来。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2103388889675149767)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a flagship cultural-poster campaign image for a fictional international future-art house named FLORA SIGNAL STUDIO, designed as a single vertically composed master visual that fully merges Orbit, Transit, and Port into one best solution: emotionally haunting, structurally expandable, and curatorially distilled. The image must feel like a Cannes-level festival poster, a collectible gallery print, and a fashion-tech editorial advertisement at once.
+
+The absolute hero is one elegant female-coded humanoid android standing in the central vertical axis, shown from upper thigh to head, occupying most of the poster height with statuesque stillness. The body is refined, sensual, and engineered, built from glossy black chrome, polished graphite metal, and selectively exposed rose-gold inner mechanisms. The silhouette must feel sculptural and premium: elongated neck, elegant shoulder slope, believable torso taper, refined chest contour shaped by armor-like plating, precise waist compression, smooth pelvis logic, and long articulated arms with delicate mechanical fingers. The figure must never become bulky, militarized, or industrially crude. It should read as luxury machine anatomy, not hard sci-fi machinery.
+
+The head is the conceptual centerpiece. Replace the conventional face with a compact retro-futurist CRT monitor head, angled slightly toward the viewer. The screen glows with one tiny soft-pink digital glyph or abstract signal icon, crisp but restrained. Around and behind the CRT housing, build an abundant but controlled floral crown of pale pink daisies, white cosmos, cream petals, and delicate stems interwoven with discreet wires, vents, tiny ports, and subtle mechanical sockets. The flowers must feel fresh, fragile, and species-accurate, as if tenderness has naturally overtaken the machine. The relation between chrome and petals must feel poetic, melancholic, and intimate rather than decorative.
+
+The background is a deep atmospheric near-black field with layered charcoal texture, faint vertical banding, soft analog grain, and extremely subtle tonal variation. It must feel like a printed poster on premium matte stock rather than an empty digital void. Keep the negative space broad and intentional so the hero figure, floral crown, and title dominate with maximum clarity. No extra scenery, no cityscape, no environment clutter.
+
+Typography is a structural pillar and must be entirely newly invented in English only. Do not copy any words from the source image. In the upper-left corner, place one small stacked poetic line in pale pink, set in monospaced or retro-digital type, such as "the archive / of soft signals" or another equally strong phrase. Along the far right edge, place one narrow column of tiny vertical editorial information in restrained pale grey or soft white sans-serif, functioning like exhibition notes. Across the lower-middle zone, place one monumental pixel-formed title such as "aftersignal" or "bloomframe" in large custom soft-pink digital lettering, spanning across the android torso without fully destroying the body read. This title must behave like a graphic bar through the composition, locking the page together. Near the lower right, add two minimal capsule-like tags containing date or access information, quiet and elegant. All typography must feel precise, integrated, and collectible, never busy.
+
+The composition must read instantly. The floral CRT head forms the emotional apex in the upper-middle field. The chrome torso creates the main vertical body mass. The oversized pink pixel title stabilizes the lower half and creates a disruptive but controlled graphic interruption. Upper-left poetic text and right-edge vertical microcopy balance the page. Large negative space around the figure is essential so the poster feels gallery-grade, cold, and rare. The final read must be immediate: one chrome muse, one flowering signal-head, one digital title, one black field.
+
+Orbit: the poster must seduce at first glance through melancholy, beauty, softness invading machinery, and the uncanny dignity of the android. Transit: the structure must feel expandable into a full cultural-poster series where different robotic muses, flower species, screen glyphs, and title colors could generate a wider campaign language. Port: every nonessential element must be stripped away so the composition remains exact, cold, and highly collectible, with no random cyberpunk props and no visual noise.
+
+Lighting must be cinematic and materially exact. Use a controlled top-front key with gentle directional bias so the chrome torso carries long liquid specular bands and soft rolling reflections. Add a faint rose-gold inner glow in selected joints and recesses, while the CRT emits a delicate pink spill onto the nearest petals and metal housing. Flowers must catch soft diffused highlights that preserve petal texture and fragility. Shadows must remain rich, velvety, and dimensional without crushing into dead black. The overall lighting mood should be intimate, nocturnal, and museum-like.
+
+Use a disciplined 60/30/10 palette hierarchy: 60% black, charcoal, graphite, and near-black atmospheric field; 30% chrome silver, gunmetal, pale petals, and soft cream florals; 10% luminous pink typography and screen glow with trace rose-gold accents in the machine interior. The palette must feel restrained, premium, and emotionally charged.
+
+Material semantics are essential. Chrome plating must feel real, heavy, and mirror-smooth with believable reflectance and curved distortion. Darker gunmetal sections should feel dense and precise. Rose-gold internal mechanisms must feel machined and luxurious. Flowers must look fresh, petal-soft, and slightly translucent at the edges. The CRT head must show glass thickness, housing weight, and subtle glow bloom. Typography must feel like a hybrid of printed poster ink and retro-display language. The full image must hold fine-grain texture without becoming dirty.
+
+The final poster should read like a future-culture icon where synthetic elegance, botanical tenderness, and retro information design are fused into one singular hero object. It must be photoreal, fashion-forward, globally premium, and unforgettable in one glance.
+
+Quality target and structured exclusions: photoreal only, correct humanoid mechanical anatomy, elegant finger structure, no broken joints, no warped torso, no cheap robot parts, no cluttered sci-fi background, no plastic flowers, no muddy blacks, no dead black blocks, no unreadable text, no random letters, no childish cyberpunk styling, no overfilled layout, no style drift, no AI artifacts, no watermark, no real person names, no real brand names.
+
+Craft tip: keep the chrome figure precise and stripped back; confine soft flowers to the screen-head and cable cluster so floral growth has one clear origin. Use one pixel-like pink display treatment for title and screen symbol against near-black paper texture.
+```
+
+  </details>
 
 - **日常 gadget→地标建筑：Massing 分析×自动选建筑类型公式** — 4 图 4:5，先 ANALYZE Mass/Surface/Mechanism，再按规则自动选博物馆/摩天楼/住宅群/植物园/枢纽，最后金时外景渲染。物件概念海报别从零找形——先让结构语言长成可建的地标。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2103316308414869908)
   <details>
