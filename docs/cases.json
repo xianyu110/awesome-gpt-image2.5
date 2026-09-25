@@ -5698,5 +5698,69 @@
     "url": "https://x.com/DeepBlueX0/status/2103113405532127629",
     "category": "UX产品",
     "prompt": "【源对象】 → 跨域工程设计重构 → 【目标对象】\n\n用法：只换两端槽位，中间「跨域工程设计重构」固定。自然形态当结构母题，产品/建筑当落点。\n例：\n- 荷花 → 跨域工程设计重构 → 高跟鞋\n- 细胞壁 → 跨域工程设计重构 → 交通枢纽\n- 海螺 → 跨域工程设计重构 → 耳机\n- 噬菌体 → 跨域工程设计重构 → 【目标产品】\n\n生成：GPT Image 2.5"
+  },
+  {
+    "id": "2103158696826331632",
+    "title": "古风贵女「石榴花影」：结构化美妆人像提示词",
+    "blurb": "主题风格/身份气质/妆感/五官/发饰/服装/场景/镜头/画幅写死——石榴珍珠水光妆 × 石榴红云肩 × 珍珠白交领。古风种草竖版别只会堆「仙气」，先把槽位填满再返图。",
+    "author": "liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2103158696826331632",
+    "category": "人像角色",
+    "prompt": "主题风格： 古风贵女高饱和美妆封面\n身份气质： 高门小姐，鲜艳、华贵、端庄、娇艳\n妆感目标： 石榴珍珠水光妆\n五官方向： 珠圆玉润贵女脸，面部轮廓柔美，眼睛清亮有神，面中丰满，鼻唇端正精致\n发型与发饰方向： 乌发圆润高髻，石榴红珠簪、层叠珍珠发链、浅金叶片小冠\n服装方向： 石榴红云肩搭配珍珠白交领长裙，腰间加入墨青色织锦宽腰封\n场景方向： 白玉栏杆 / 绿植庭院 / 石榴花枝 / 明亮日光\n镜头方向： 大半身近景，人物微微侧身，手中持白玉团扇\n画幅比例： 9:16\n创意自由度： 标准\n补充要求： 使用石榴红、玫瑰粉和珍珠白高光完成妆面，腮红鲜活但边缘柔和，唇妆呈透明石榴果汁感；人物要华贵漂亮但不过分成熟。红、白、墨青形成鲜明层次，不允许背景继续大量使用红色。"
+  },
+  {
+    "id": "2103281580085035495",
+    "title": "经典跑车侧剖信息图：letterpress 语义切面公式",
+    "blurb": "2×2 / 16:9，把车身拆成机械词/材质词/气动词贴在真实结构位；`$ car_scene` 变量可换四台冷门经典跑车。汽车科普海报别只会摆一张侧拍——先让术语长在骨架上。",
+    "author": "Gdgtify",
+    "url": "https://x.com/Gdgtify/status/2103281580085035495",
+    "category": "海报排版",
+    "prompt": "2x2 grid, 16:9, do this for 4 unusual but real classic cars: Create one image of a world famous classic sports car in side cutaway view.  Variable: $ car_scene = A technical automotive cutaway where the entire vehicle is reconstructed from mechanical terminology, material vocabulary, aerodynamic language, and performance descriptors placed in true structural position.  Function Draw($ car_scene){ <composition> Single centered vehicle, side profile with slight cutaway exposure. No background clutter, precise negative space, poster-like authority. The silhouette must be iconic and readable at first glance. </composition>  <semantic_inference> Infer chassis, frame, suspension, drivetrain, engine block, pistons, valves, intake, exhaust, wheel hub, steering column, brake assembly, upholstery, windshield, body panel. Use aerodynamic and driving terms where relevant: torque, grip, drag, speed, acceleration, cornering. </semantic_inference>  <letterpress_spec> MEDIUM: Precision lead type on smooth archival vellum. INK: Graphite black, gunmetal gray, soft steel undertones. IMPRESSION: Deep controlled embossing with strongest bite in chassis and engine, lighter in glass and airflow zones. STYLE: Mid-century automotive blueprint transformed into letterpress. </letterpress_spec>  <transformation> Chassis and engine use crankshaft, piston, axle, block, manifold, gearbox, differential in heavy industrial slab-serif. Body panels and interior use fender, hood, leather, dash, seat, trim, coupe in refined serif. Glass, airflow, and motion zones use windshield, glare, slipstream, drag, velocity in airy technical sans-serif. Wheel and suspension regions use hub, spoke, caliper, spring, traction, alignment in circular micro-type. The result should feel engineered, fast, and luxurious. </transformation>  Output: one image }"
+  },
+  {
+    "id": "2103138227351679091",
+    "title": "连环漫画完整 Chat 分享：过程比单条 prompt 更值钱",
+    "blurb": "作者直接甩 Images 2.5 整段对话，看模型局限怎么用上下文和 steering 顶回去——角色参考页先钉死能少改半帖。漫画连载别再伸手要「魔法一句」；先偷师整条修图轨迹。",
+    "author": "bajolacurva",
+    "url": "https://x.com/bajolacurva/status/2103138227351679091",
+    "category": "Sketch",
+    "extra_links": [
+      {
+        "label": "ChatGPT 分享",
+        "url": "https://chatgpt.com/share/6ab53ae0-cd78-83e9-b827-221d8adc7dec"
+      }
+    ]
+  },
+  {
+    "id": "2103350277298430135",
+    "title": "黑白少年JUMP武士：硬提示词压力测试 vs Grok Imagine 2.0",
+    "blurb": "同一条解剖级武士 manga prompt 甩给 Images 2.5 与 Grok Imagine 2.0——十指/刀线/网点/透视全锁死。硬对比别再比「好看」，先拿这种压力测试当选型尺子。",
+    "author": "Oxebube",
+    "url": "https://x.com/Oxebube/status/2103350277298430135",
+    "category": "选型评测",
+    "prompt": "Create a black and white Shonen Jump-style manga panel of ONE samurai, full body head-to-toe in a dynamic lunging mid-strike pose at the exact millisecond of katana impact, low-angle cinematic perspective with extreme foreground-to-background depth, single perfectly straight katana fully drawn with both hands gripping the tsuka with 10 anatomically correct distinct fingers, dramatic speed lines converging precisely to the kissaki tip, heavy cross-hatching for shadows and authentic screentone dot textures on ground, clothing and background, hair and kimono fabric reacting naturally to forward momentum, intense contorted kiai battle shout expression, detailed armor plates with visible hamon line and realistic fabric folds, ultra high-contrast inkwork with clean variable line weight in Takehiko Inoue Vagabond style, keep anatomy, sword geometry, perspective, motion and lighting fully consistent with no extra limbs, duplicated fingers, bent blade, distorted face or random artifacts."
+  },
+  {
+    "id": "2103352139838071038",
+    "title": "TASTE BENCH：Sunburst 广告质量 7.38，首稿可投放仅 54.2%",
+    "blurb": "Omneky 用同一套 59 条 brief×四品牌×五语言盲测八模型：GPT Image 2.5 Sunburst 均分最高 7.38/10，但首稿可直接投放只有 54.2%。选型别只看分——广告可跑通才是终审。",
+    "author": "omneky",
+    "url": "https://x.com/omneky/status/2103352139838071038",
+    "category": "选型评测",
+    "extra_links": [
+      {
+        "label": "Taste Bench",
+        "url": "https://www.omneky.com/tastebench"
+      }
+    ]
+  },
+  {
+    "id": "2103335668391031035",
+    "title": "物体→时装：核心特征提取×时装设计重构公式",
+    "blurb": "月饼礼盒、胶带、化肥袋、烟盒——只换主体，中间「核心特征提取 × 时装设计重构」固定，材质纹理色彩形态转成可穿时装摄影。电商/IP 联名服装概念别从零瞎画，先让物件长出剪裁语言。",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2103335668391031035",
+    "category": "UX产品",
+    "prompt": "主体：XX × 核心特征提取 × 时装设计重构\n\n提取主体最具辨识度的材质、纹理、色彩、形态与结构特征，将其重新转化为完整的时装设计语言。通过合理的面料组织、服装结构与细节设计完成自然转译，使最终服装能够清晰体现主体特征，同时保持真实、合理、可穿着的服装形态。整体采用真实时装摄影质感，材质自然，纹理清晰，结构明确，光影真实，避免直接复制主体形态、简单拼贴、复杂堆叠、过度装饰与人为制造的视觉效果。\n\n用法：只换「主体：XX」；例：月饼礼盒 / DeepBlue牌黄色胶带 / 尿素化肥袋 / 烟盒。\n生成：GPT Image 2.5"
   }
 ]

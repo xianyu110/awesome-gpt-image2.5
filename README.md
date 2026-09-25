@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 669 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 672 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,18 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **TASTE BENCH：Sunburst 广告质量 7.38，首稿可投放仅 54.2%** — Omneky 用同一套 59 条 brief×四品牌×五语言盲测八模型：GPT Image 2.5 Sunburst 均分最高 7.38/10，但首稿可直接投放只有 54.2%。选型别只看分——广告可跑通才是终审。 [@omneky](https://x.com/omneky) · [原帖](https://x.com/omneky/status/2103352139838071038) · [Taste Bench](https://www.omneky.com/tastebench)
+
+- **黑白少年JUMP武士：硬提示词压力测试 vs Grok Imagine 2.0** — 同一条解剖级武士 manga prompt 甩给 Images 2.5 与 Grok Imagine 2.0——十指/刀线/网点/透视全锁死。硬对比别再比「好看」，先拿这种压力测试当选型尺子。 [@Oxebube](https://x.com/Oxebube) · [原帖](https://x.com/Oxebube/status/2103350277298430135)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a black and white Shonen Jump-style manga panel of ONE samurai, full body head-to-toe in a dynamic lunging mid-strike pose at the exact millisecond of katana impact, low-angle cinematic perspective with extreme foreground-to-background depth, single perfectly straight katana fully drawn with both hands gripping the tsuka with 10 anatomically correct distinct fingers, dramatic speed lines converging precisely to the kissaki tip, heavy cross-hatching for shadows and authentic screentone dot textures on ground, clothing and background, hair and kimono fabric reacting naturally to forward momentum, intense contorted kiai battle shout expression, detailed armor plates with visible hamon line and realistic fabric folds, ultra high-contrast inkwork with clean variable line weight in Takehiko Inoue Vagabond style, keep anatomy, sword geometry, perspective, motion and lighting fully consistent with no extra limbs, duplicated fingers, bent blade, distorted face or random artifacts.
+```
+
+  </details>
 
 - **Adobe Firefly 可指定 GPT Image 2.5 Sunburst** — 有 Adobe CC 就能在 Firefly 里点名 Sunburst 出图——不必另开 ChatGPT Plus。旁路通道别浪费：已经付 CC 的人，先把 Firefly 当 Image 2.5 机房用。 [@gibkun1](https://x.com/gibkun1) · [原帖](https://x.com/gibkun1/status/2102984812713918522)
 
@@ -12228,6 +12240,21 @@ This is a sticker slideshow, not a continuous character-motion animation.
 ## UX产品
 
 产品 UI / UX 视觉与落地页 mock。
+
+- **物体→时装：核心特征提取×时装设计重构公式** — 月饼礼盒、胶带、化肥袋、烟盒——只换主体，中间「核心特征提取 × 时装设计重构」固定，材质纹理色彩形态转成可穿时装摄影。电商/IP 联名服装概念别从零瞎画，先让物件长出剪裁语言。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103335668391031035)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主体：XX × 核心特征提取 × 时装设计重构
+
+提取主体最具辨识度的材质、纹理、色彩、形态与结构特征，将其重新转化为完整的时装设计语言。通过合理的面料组织、服装结构与细节设计完成自然转译，使最终服装能够清晰体现主体特征，同时保持真实、合理、可穿着的服装形态。整体采用真实时装摄影质感，材质自然，纹理清晰，结构明确，光影真实，避免直接复制主体形态、简单拼贴、复杂堆叠、过度装饰与人为制造的视觉效果。
+
+用法：只换「主体：XX」；例：月饼礼盒 / DeepBlue牌黄色胶带 / 尿素化肥袋 / 烟盒。
+生成：GPT Image 2.5
+```
+
+  </details>
 
 - **自然形态→跨域工程重构：生物仿生槽位公式** — 荷花变高跟鞋、细胞壁变交通枢纽、海螺变耳机——固定中间「跨域工程设计重构」，只换两端槽。产品概念图别从零找灵感，先抄自然当结构母题。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103113405532127629)
   <details>
