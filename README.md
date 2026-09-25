@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 680 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 682 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -5171,6 +5171,29 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **日间高光CCD：风力装置广场都市生活照** — 蜜桃橘吊带针织 + 冷白超短裙，低角度仰拍压发尾；风力互动装置当几何背景。liyue CCD 槽位又补一张设计感都市场景，小红书生活方式直接返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2103383385662263799)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市创意生活写真
+场景方向：现代风力互动装置广场 / 白色旋转叶片装置 / 银灰平台 / 极简建筑背景
+服装方向：蜜桃橘色修身吊带针织短上衣 + 冷白色超短裙
+气质标签：俏皮、明亮、时尚、轻松、有设计感
+五官方向：元气精致自然脸
+身形方向：轻盈纤细
+线条强调：强
+镜头方向：低角度仰拍大腿及上半身
+姿态动作：站在风力装置旁，一只手压住被风吹动的发尾，另一只手自然放在腰侧，侧前方看镜头
+光线氛围：晴天明亮自然光 + 白色装置与银灰平台形成清晰中性补光
+滤镜效果：高亮清晰橙白CCD色彩 + 白净高光 + 鲜明中间调 + 轻颗粒 + 极轻锐度
+画幅比例：9:16
+补充要求：蜜桃橘鲜亮但不要偏黄；人物皮肤白皙，吊带短上衣自然表现肩颈、锁骨、胸线和腰腹；整体高饱和但不俗艳
+```
+
+  </details>
+
 - **古风贵女「石榴花影」：结构化美妆人像提示词** — 主题风格/身份气质/妆感/五官/发饰/服装/场景/镜头/画幅写死——石榴珍珠水光妆 × 石榴红云肩 × 珍珠白交领。古风种草竖版别只会堆「仙气」，先把槽位填满再返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2103158696826331632)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -10266,6 +10289,199 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **农业 PR：Image 2.5 番茄分镜 → Gemini Omni 成片** — ChatGPT 策划 → GPT Image 2.5 出 3×3「一皿の向こう側」番茄供应链分镜 → Gemini Omni 1.1 Flash 成片/配乐/旁白。B2B 食品农业宣传别从剪辑台起步——先锁分镜再喂视频模型。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2103422112312541342) · [分镜 prompt 原帖](https://x.com/husky__create/status/2103422116876222566)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【① GPT Image 2.5 出 3×3 分镜】
+Create a production-ready photo storyboard for a 10-second corporate commercial for the fictional Japanese food and agriculture company “MINORI FOODS.”
+
+CONCEPT
+
+The central message is “Beyond Every Plate.”
+
+Follow one perfectly ripe red tomato as a visual baton connecting a farmer’s harvest, refrigerated transportation, quality inspection, professional cooking and a family dinner table.
+
+The commercial should communicate that one meal is made possible by the care and craftsmanship of many people, from the producer to the consumer.
+
+STORYBOARD FORMAT
+
+Create one landscape 16:9 image containing exactly nine storyboard panels.
+
+Arrange the panels in a perfectly even 3-column × 3-row grid. Each individual panel must be composed as a cinematic horizontal 16:9 frame.
+
+Use thin ivory-colored gutters between the panels.
+
+Place small white panel numbers “01” through “09” in the upper-left corner of each panel, ordered from left to right, top row to bottom row.
+
+Do not include captions, arrows, production notes, watermarks or additional logos.
+
+Every panel must look like a high-quality photographic frame extracted from the same finished live-action commercial—not nine unrelated stock photographs.
+
+VISUAL WORLD
+
+The commercial begins at a quiet tomato farm in rural Japan, moves through a clean food quality-control facility and a professional restaurant kitchen, and ends at a warm contemporary family dining table.
+
+Time progresses naturally from cool early-morning light to warm evening light.
+
+The same ripe red tomato serves as the visual thread throughout the sequence.
+
+Use a restrained color palette of natural leaf green, rich tomato red, earthy brown, stainless-steel silver, warm wood and clean off-white.
+
+CHARACTER CONTINUITY
+
+Farmer:
+
+A Japanese man approximately 58 years old. He has a naturally sun-weathered face, short salt-and-pepper hair and a calm, sincere expression.
+
+He wears the same dark indigo work shirt, beige work trousers and olive-green rubber boots in every relevant panel.
+
+His face, hairstyle, body proportions, hands and clothing must remain consistent. He should look like a real working farmer rather than a fashion model.
+
+Chef:
+
+A Japanese woman approximately 34 years old. She has a natural, approachable face, minimal makeup and straight black hair tied in a neat low ponytail.
+
+She wears the same clean white chef jacket in every kitchen scene. Preserve her face, hairstyle, physique and wardrobe.
+
+Family:
+
+A Japanese couple in their 30s and their elementary-school-age daughter. They live in a contemporary but warm and realistic home.
+
+Their expressions should be subtle and natural, without exaggerated advertising smiles.
+
+NINE STORYBOARD PANELS
+
+01 — DAWN AT THE FARM
+
+A wide environmental shot of a Japanese tomato farm at dawn.
+
+Long rows of tomato plants extend toward distant low mountains. The low morning sun shines through the leaves, and a light mist remains between the rows.
+
+The farmer walks toward the camera carrying an empty wooden harvest crate.
+
+Use a cinematic wide composition that establishes the location and atmosphere.
+
+02 — HARVEST
+
+A medium close-up of the same farmer gently twisting one ripe red tomato from the vine.
+
+Show his calm, focused expression, realistic leaves and warm backlight outlining his hands and face.
+
+The image should capture one simple, precise harvesting action.
+
+03 — THE TOMATO
+
+An extreme macro photograph of the freshly harvested tomato resting in the farmer’s open palm.
+
+Render tiny dew droplets, natural skin texture, subtle imperfections, the green calyx and the authentic texture of his working hands.
+
+The tomato must look fresh, moist and completely photorealistic—not glossy plastic.
+
+04 — REFRIGERATED DELIVERY
+
+A low-angle close shot beside a small white refrigerated delivery van.
+
+The farmer places a wooden crate filled with matching ripe tomatoes into the clean cargo area.
+
+Show one controlled lifting-and-placing action. Do not display any existing company logos or vehicle branding.
+
+05 — QUALITY CONTROL
+
+Inside a modern and hygienic food quality-control facility.
+
+White-gloved hands carefully inspect and weigh one tomato on a stainless-steel workstation. Include a realistic digital scale, a small lot-label scanner and clean food-processing equipment.
+
+The scene should feel credible, practical and sanitary—not futuristic or science-fictional.
+
+06 — PREPARATION
+
+A close-up inside a professional restaurant kitchen.
+
+The same female chef slices the tomato on a wooden cutting board using a stainless-steel chef’s knife.
+
+Render the tomato flesh, seeds, moisture, juice and metal reflections precisely.
+
+Her hands and fingers must be anatomically correct and positioned safely.
+
+07 — PLATING
+
+A top-down overhead food composition.
+
+The chef finishes a simple, elegant tomato pasta dish with fresh basil and pours one thin stream of olive oil over the plate.
+
+Show gentle steam, moist tomato pieces, the sheen of olive oil and refined but realistic restaurant presentation.
+
+08 — THE DINNER TABLE
+
+An intimate medium shot at a warm family dinner table.
+
+The young daughter takes her first bite of the tomato pasta while her parents watch and smile naturally.
+
+The plated tomato dish should remain clearly visible.
+
+Capture a genuine moment of quiet happiness rather than an exaggerated commercial performance.
+
+09 — FINAL BRAND FRAME
+
+A premium food-advertising hero shot on a textured stone tabletop.
+
+Place the finished tomato pasta, one whole ripe tomato and a few fresh green leaves on the right side of the frame.
+
+Use a softly blurred evening farm landscape in the background.
+
+Reserve generous clean negative space on the left side.
+
+In the left-side negative space, display only the following exact text:
+
+“一皿の向こう側。”
+
+Below it:
+
+“MINORI FOODS”
+
+Use refined dark-brown Japanese Mincho-style typography for the Japanese copy and an elegant serif typeface for the company name.
+
+Do not add any other words, claims or logos.
+
+PHOTOGRAPHY AND LIGHTING
+
+Ultra-photorealistic premium Japanese food advertising with warm documentary realism.
+
+Use realistic 35mm and 50mm lens perspectives for people and locations, and a 90mm macro-lens look for the tomato, food and hands.
+
+Use shallow depth of field where appropriate, smooth highlight roll-off and deep but readable shadows.
+
+Lighting should progress naturally from fresh golden morning light at the farm to clean neutral light in the quality-control facility and warm evening light in the kitchen and home.
+
+Preserve natural skin texture, fine food moisture, leaf veins, soil, wood grain, stainless steel and fabric detail.
+
+Add subtle cinematic film grain.
+
+Keep the color grading restrained and sophisticated.
+
+CONTINUITY REQUIREMENTS
+
+All nine panels must belong to the same visual story.
+
+Maintain consistent character identities, clothing, tomato appearance, locations, lighting direction and photographic style.
+
+Create visual rhythm by alternating wide shots, medium shots, macro details, process shots, overhead food photography, an emotional reaction and a final product hero frame.
+
+Each panel should contain only one clearly readable action.
+
+AVOID
+
+Malformed hands or fingers, extra limbs, duplicated or fused tomatoes, inconsistent faces, changing wardrobe, plastic-looking food, excessive saturation, heavy orange color grading, artificial CGI glow, fantasy effects, unhygienic food handling, unsafe knife positions, futuristic holograms, object morphing, split screens inside individual panels, unwanted text, extra logos and watermarks.
+
+---
+
+【② Gemini Omni 成片】完整视频管线见原帖： https://x.com/husky__create/status/2103422112312541342 · 分镜 prompt 原帖： https://x.com/husky__create/status/2103422116876222566
+```
+
+  </details>
 
 - **巨型瓷片拼接画：【主题】×空间融合×随机摄影视角** — 通用槽位公式——主题定瓷片类型/釉面/肌理/拼接，画作焊进地面墙面建筑，机位带摄影偶然性。场景大图别只会贴一张贴图，先让瓷片真的「长」在空间里。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103418718936342664)
   <details>
