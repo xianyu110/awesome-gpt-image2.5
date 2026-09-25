@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-24 · **收录 666 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 669 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -978,6 +978,8 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **连环漫画完整 Chat 分享：过程比单条 prompt 更值钱** — 作者直接甩 Images 2.5 整段对话，看模型局限怎么用上下文和 steering 顶回去——角色参考页先钉死能少改半帖。漫画连载别再伸手要「魔法一句」；先偷师整条修图轨迹。 [@bajolacurva](https://x.com/bajolacurva) · [原帖](https://x.com/bajolacurva/status/2103138227351679091) · [ChatGPT 分享](https://chatgpt.com/share/6ab53ae0-cd78-83e9-b827-221d8adc7dec)
+
 - **照片→写实素描：四步流程可复用** — 收藏照变专业素描：开 Gemini/Grok/Image 2.5 → 丢参考图 → 贴 prompt → 出片。Sketch/线稿向种草素材流水线，原帖附图。 [@Alina_with_Ai](https://x.com/Alina_with_Ai) · [原帖](https://x.com/Alina_with_Ai/status/2102358953489481762)
 
 - **Sketch 锁版 + Comments 只改一处 + Templates 出初稿** — 改到第三次构图也毁了？用 Sketch 锁版面、Comments 定点改、Templates 先有草稿，再配「保留一切、每轮只改一件事」。10 分钟出宣传图的编辑优先心法。 [@udhk_official](https://x.com/udhk_official) · [原帖](https://x.com/udhk_official/status/2101929747664003197)
@@ -1110,6 +1112,16 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **经典跑车侧剖信息图：letterpress 语义切面公式** — 2×2 / 16:9，把车身拆成机械词/材质词/气动词贴在真实结构位；`$ car_scene` 变量可换四台冷门经典跑车。汽车科普海报别只会摆一张侧拍——先让术语长在骨架上。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2103281580085035495)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+2x2 grid, 16:9, do this for 4 unusual but real classic cars: Create one image of a world famous classic sports car in side cutaway view.  Variable: $ car_scene = A technical automotive cutaway where the entire vehicle is reconstructed from mechanical terminology, material vocabulary, aerodynamic language, and performance descriptors placed in true structural position.  Function Draw($ car_scene){ <composition> Single centered vehicle, side profile with slight cutaway exposure. No background clutter, precise negative space, poster-like authority. The silhouette must be iconic and readable at first glance. </composition>  <semantic_inference> Infer chassis, frame, suspension, drivetrain, engine block, pistons, valves, intake, exhaust, wheel hub, steering column, brake assembly, upholstery, windshield, body panel. Use aerodynamic and driving terms where relevant: torque, grip, drag, speed, acceleration, cornering. </semantic_inference>  <letterpress_spec> MEDIUM: Precision lead type on smooth archival vellum. INK: Graphite black, gunmetal gray, soft steel undertones. IMPRESSION: Deep controlled embossing with strongest bite in chassis and engine, lighter in glass and airflow zones. STYLE: Mid-century automotive blueprint transformed into letterpress. </letterpress_spec>  <transformation> Chassis and engine use crankshaft, piston, axle, block, manifold, gearbox, differential in heavy industrial slab-serif. Body panels and interior use fender, hood, leather, dash, seat, trim, coupe in refined serif. Glass, airflow, and motion zones use windshield, glare, slipstream, drag, velocity in airy technical sans-serif. Wheel and suspension regions use hub, spoke, caliper, spring, traction, alignment in circular micro-type. The result should feel engineered, fast, and luxurious. </transformation>  Output: one image }
+```
+
+  </details>
 
 - **上传照→高端编辑海报：3:4 上下 50/50** — 上半保真原图，下半抽成不超过四色的纸质手绘小插画，留大量暖米白负空间。种草/艺术书封面批产模板，附完整英文 prompt。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2102972265541304823)
   <details>
@@ -5069,6 +5081,26 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **古风贵女「石榴花影」：结构化美妆人像提示词** — 主题风格/身份气质/妆感/五官/发饰/服装/场景/镜头/画幅写死——石榴珍珠水光妆 × 石榴红云肩 × 珍珠白交领。古风种草竖版别只会堆「仙气」，先把槽位填满再返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2103158696826331632)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主题风格： 古风贵女高饱和美妆封面
+身份气质： 高门小姐，鲜艳、华贵、端庄、娇艳
+妆感目标： 石榴珍珠水光妆
+五官方向： 珠圆玉润贵女脸，面部轮廓柔美，眼睛清亮有神，面中丰满，鼻唇端正精致
+发型与发饰方向： 乌发圆润高髻，石榴红珠簪、层叠珍珠发链、浅金叶片小冠
+服装方向： 石榴红云肩搭配珍珠白交领长裙，腰间加入墨青色织锦宽腰封
+场景方向： 白玉栏杆 / 绿植庭院 / 石榴花枝 / 明亮日光
+镜头方向： 大半身近景，人物微微侧身，手中持白玉团扇
+画幅比例： 9:16
+创意自由度： 标准
+补充要求： 使用石榴红、玫瑰粉和珍珠白高光完成妆面，腮红鲜活但边缘柔和，唇妆呈透明石榴果汁感；人物要华贵漂亮但不过分成熟。红、白、墨青形成鲜明层次，不允许背景继续大量使用红色。
+```
+
+  </details>
 
 - **真人照→精细油画：锁身份完整提示词** — 上传真人照一键变当代油画/水粉，脸/发型/姿势/衣服/背景全锁死——不是另起炉灶的「AI 重绘」。写真转艺术封面别只会加滤镜，先把身份约束写进 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2103015777360392379)
   <details>
