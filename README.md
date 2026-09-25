@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 678 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 680 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -1005,6 +1005,8 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 ## Sketch
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
+
+- **Images 2.5 Sketch 中秋兔 × Canva 动画：捣麻糬社媒动效链** — 十五夜主题：先用 ChatGPT Images 2.5 新功能 Sketch 画出兔子，再丢进 Canva 上动画——月上捣麻糬成片。节气/社媒短动效别一口吃视频模型，Sketch 控形 + 设计工具动效往往更快出片。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2103468404414054755)
 
 - **连环漫画完整 Chat 分享：过程比单条 prompt 更值钱** — 作者直接甩 Images 2.5 整段对话，看模型局限怎么用上下文和 steering 顶回去——角色参考页先钉死能少改半帖。漫画连载别再伸手要「魔法一句」；先偷师整条修图轨迹。 [@bajolacurva](https://x.com/bajolacurva) · [原帖](https://x.com/bajolacurva/status/2103138227351679091) · [ChatGPT 分享](https://chatgpt.com/share/6ab53ae0-cd78-83e9-b827-221d8adc7dec)
 
@@ -11745,6 +11747,8 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **Opus 自训像素引擎：Flare low 约 $0.02/次 + art_director.md 原地改精灵** — 用 gpt-image-2.5-flare low 把像素精灵迭代压到约两美分一枪，再靠 art_director.md 自评后直接改真精灵——细修别整张重抽。Agent 管像素资产时，先把成本档和原地编辑焊进流水线。 [@jefdiesel](https://x.com/jefdiesel) · [原帖](https://x.com/jefdiesel/status/2103466733134610843)
 
 - **一张图→平铺24帧精灵图→位移播放成动画** — 小工具管线：gpt-image-2.5 把单图烤成一张 24 帧平铺精灵表，再靠移动视口播成动画；作者强调 2.5 指令遵循更稳、结果越来越可控。表情包/短动效别先上视频模型——精灵表位移往往更便宜。 [@bavoch1217](https://x.com/bavoch1217) · [原帖](https://x.com/bavoch1217/status/2103414026667729242)
 
