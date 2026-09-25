@@ -5762,5 +5762,23 @@
     "url": "https://x.com/DeepBlueX0/status/2103335668391031035",
     "category": "UX产品",
     "prompt": "主体：XX × 核心特征提取 × 时装设计重构\n\n提取主体最具辨识度的材质、纹理、色彩、形态与结构特征，将其重新转化为完整的时装设计语言。通过合理的面料组织、服装结构与细节设计完成自然转译，使最终服装能够清晰体现主体特征，同时保持真实、合理、可穿着的服装形态。整体采用真实时装摄影质感，材质自然，纹理清晰，结构明确，光影真实，避免直接复制主体形态、简单拼贴、复杂堆叠、过度装饰与人为制造的视觉效果。\n\n用法：只换「主体：XX」；例：月饼礼盒 / DeepBlue牌黄色胶带 / 尿素化肥袋 / 烟盒。\n生成：GPT Image 2.5"
+  },
+  {
+    "id": "2103320334845816898",
+    "title": "只改机型名：iPhone / Pixel / Galaxy / Xiaomi 写真画风对照",
+    "blurb": "同一套 persona/构图/光位 prompt，只换 camera/device 四格并排——机种名 alone 就会拖走整体「手机味」。氛围微调别先堆 ISO/焦段，先把机型当廉价风格槽试一遍。",
+    "author": "X_nanamaru",
+    "url": "https://x.com/X_nanamaru/status/2103320334845816898",
+    "category": "选型评测",
+    "prompt": "# 其余 persona / body / outfit / framing / lighting 槽位固定，只改下一行做四格对照：\ncamera/device: iPhone\n# 对照组：Pixel / Galaxy / Xiaomi\n\n# 提示：机型名会连带改变噪点、色科、景深与「手机写真」气质；细相机参数可后补。"
+  },
+  {
+    "id": "2103316308414869908",
+    "title": "日常 gadget→地标建筑：Massing 分析×自动选建筑类型公式",
+    "blurb": "4 图 4:5，先 ANALYZE Mass/Surface/Mechanism，再按规则自动选博物馆/摩天楼/住宅群/植物园/枢纽，最后金时外景渲染。物件概念海报别从零找形——先让结构语言长成可建的地标。",
+    "author": "Gdgtify",
+    "url": "https://x.com/Gdgtify/status/2103316308414869908",
+    "category": "海报排版",
+    "prompt": "4 images, 4:5, pick 4 popular gadgets of different decades. Concept: Turn objects into a landmark building that could exist.\n\n1. ANALYZE INPUT (Massing & Structure):\nMass: (Monolithic/Fragmented/Stacked/Spindly)\nSurface: (Reflective/Porous/Layered/Patterned)\nMechanism: (Static/Kinetic/Modular)\n\n2. AUTO-SELECT BUILDING TYPE:\nIF Monolithic + Stone-like → Museum\nIF Reflective + Aerodynamic → Skyscraper\nIF Modular + Stacked → Housing complex\nIF Porous + Organic → Botanical conservatory\nIF Kinetic + Mechanical → Transit hub\n\n3. EXECUTE:\nGolden-hour exterior render, people for scale, plausible materials, cinematic wide lens."
   }
 ]
