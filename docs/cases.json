@@ -5860,5 +5860,38 @@
         "url": "https://x.com/husky__create/status/2103422116876222566"
       }
     ]
+  },
+  {
+    "id": "2104388925712420968",
+    "title": "API 关透明底：background=\"opaque\" 一行收工",
+    "blurb": "GPT Image 2.5 API 还在默认爱出透明 PNG？别再事后抠底——`background=\"opaque\"` 直接焊死不透明。接电商主图/落地页素材先把这参数写进 SDK，少一轮返工。",
+    "author": "xiaoxiaodong",
+    "url": "https://x.com/xiaoxiaodong/status/2104388925712420968",
+    "category": "选型评测",
+    "prompt": "from openai import OpenAI\n\nclient = OpenAI()\n\nresult = client.images.generate(\n    model=\"gpt-image-2.5-sunburst\",\n    prompt=\"一只坐在草地上的猫\",\n    size=\"1024x1024\",\n    quality=\"medium\",\n    background=\"opaque\",   # 强制非透明背景\n    output_format=\"png\"\n)"
+  },
+  {
+    "id": "2104385560563576925",
+    "title": "Chat 记忆一键人设信息图：动漫肖像+属性技能板",
+    "blurb": "一句「基于你对我所有的了解」甩给 Image 2.5——卡通动漫风角色肖像、关键属性、技能、性格与兴趣自动排成信息图。个人品牌/社媒人设别手绘九宫格，先让模型吃透聊天记忆再出板。",
+    "author": "lukfan",
+    "url": "https://x.com/lukfan/status/2104385560563576925",
+    "category": "人像角色",
+    "prompt": "基于你对我所有的了解，为我创建一张信息图。制作一张卡通动漫风格的图像。包含风格化的角色肖像、关键属性、技能、性格特征和兴趣爱好，将它们组织在美观的信息图布局中，并加入受动漫启发的视觉元素、图标和装饰边框。"
+  },
+  {
+    "id": "2104071903111790795",
+    "title": "参考字图→全套原创字体：大写小写再到文字组",
+    "blurb": "几笔参考字丢进 Image 2.5，先出全大写、再补小写、翻车字母定点修，最后直接文字组——日文 note 把流程摊开了。品牌定制字/Logo 字重别只会掏钱买字库，先抄这套「参考→全字表→排字」。",
+    "author": "jinkomuno",
+    "url": "https://x.com/jinkomuno/status/2104071903111790795",
+    "category": "海报排版",
+    "prompt": "【参考字图 → 全套原创字体】\n1. 上传参考字图（少量字母即可）\n2. アルファベット（大文字）を全部デザインして。\n3. 小文字もデザインして\n4. 翻车字母定点修（例）：「t」が「f」みたいになっているので修正して\n5. 文字組み：「Chat GPTで」文字組みして\n\nTips：26 字同屏会有个别崩字，先修再排；汉字/假名也能硬顶，商用前务必做相似图检索。",
+    "extra_links": [
+      {
+        "label": "note 教程",
+        "url": "https://note.com/jinko_muno/n/n4ff941397eaf"
+      }
+    ]
   }
 ]

@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-25 · **收录 682 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-28 · **收录 685 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,27 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **API 关透明底：background="opaque" 一行收工** — GPT Image 2.5 API 还在默认爱出透明 PNG？别再事后抠底——`background="opaque"` 直接焊死不透明。接电商主图/落地页素材先把这参数写进 SDK，少一轮返工。 [@xiaoxiaodong](https://x.com/xiaoxiaodong) · [原帖](https://x.com/xiaoxiaodong/status/2104388925712420968)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+from openai import OpenAI
+
+client = OpenAI()
+
+result = client.images.generate(
+    model="gpt-image-2.5-sunburst",
+    prompt="一只坐在草地上的猫",
+    size="1024x1024",
+    quality="medium",
+    background="opaque",   # 强制非透明背景
+    output_format="png"
+)
+```
+
+  </details>
 
 - **多图叠加才是 Image 2.5 真正打开方式** — 在参考图短提示词理论之上迭代写真 skill：别只塞一张参考，多图叠加才把 2.5 的可控性喂满。锁脸/锁风格的人像流水线，先叠图再写短句。 [@nanyuan0412](https://x.com/nanyuan0412) · [原帖](https://x.com/nanyuan0412/status/2103385779368288760) · [参考图短提示词长文](https://x.com/nanyuan0412/status/2102609724868862095)
 
@@ -1142,6 +1163,23 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **参考字图→全套原创字体：大写小写再到文字组** — 几笔参考字丢进 Image 2.5，先出全大写、再补小写、翻车字母定点修，最后直接文字组——日文 note 把流程摊开了。品牌定制字/Logo 字重别只会掏钱买字库，先抄这套「参考→全字表→排字」。 [@jinkomuno](https://x.com/jinkomuno) · [原帖](https://x.com/jinkomuno/status/2104071903111790795) · [note 教程](https://note.com/jinko_muno/n/n4ff941397eaf)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【参考字图 → 全套原创字体】
+1. 上传参考字图（少量字母即可）
+2. アルファベット（大文字）を全部デザインして。
+3. 小文字もデザインして
+4. 翻车字母定点修（例）：「t」が「f」みたいになっているので修正して
+5. 文字組み：「Chat GPTで」文字組みして
+
+Tips：26 字同屏会有个别崩字，先修再排；汉字/假名也能硬顶，商用前务必做相似图检索。
+```
+
+  </details>
 
 - **FLORA SIGNAL：chrome 人形×CRT 花冠文化海报长提示词** — Orbit／Transit／Port 三合一旗舰文化海报——黑铬人形 + CRT 花冠 + 粉像素标题，60/30/10 色板与材质语义写死。高端文化/艺术节海报别堆赛博杂物，先让花从屏幕头长出来。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2103388889675149767)
   <details>
@@ -5170,6 +5208,16 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **Chat 记忆一键人设信息图：动漫肖像+属性技能板** — 一句「基于你对我所有的了解」甩给 Image 2.5——卡通动漫风角色肖像、关键属性、技能、性格与兴趣自动排成信息图。个人品牌/社媒人设别手绘九宫格，先让模型吃透聊天记忆再出板。 [@lukfan](https://x.com/lukfan) · [原帖](https://x.com/lukfan/status/2104385560563576925)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+基于你对我所有的了解，为我创建一张信息图。制作一张卡通动漫风格的图像。包含风格化的角色肖像、关键属性、技能、性格特征和兴趣爱好，将它们组织在美观的信息图布局中，并加入受动漫启发的视觉元素、图标和装饰边框。
+```
+
+  </details>
 
 - **日间高光CCD：风力装置广场都市生活照** — 蜜桃橘吊带针织 + 冷白超短裙，低角度仰拍压发尾；风力互动装置当几何背景。liyue CCD 槽位又补一张设计感都市场景，小红书生活方式直接返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2103383385662263799)
   <details>
