@@ -5993,5 +5993,77 @@
     "url": "https://x.com/Shorelyn_/status/2104421880363118667",
     "category": "电商改图",
     "prompt": "Use the uploaded image as the primary reference and transform it into a vertical 3:4 surreal editorial artwork that seamlessly combines photorealistic food/object photography with a whimsical hand-drawn storybook illustration.\n\nPreserve the main subject, composition, colors, textures, and recognizable details of the original photograph. Keep the upper portion highly photorealistic and naturally lit, with realistic materials, shadows, reflections, depth of field, and authentic photographic detail.\n\nCreate a seamless visual transition from the photographed subject into an imaginative illustrated world below. Identify the most visually meaningful element in the photograph—such as a liquid, food ingredient, object, pattern, trail, shadow, or texture—and organically extend it downward into the illustration, transforming it into a river, pathway, landscape, trail, or other creative scene.\n\nThe illustrated section should appear on a warm off-white textured paper background, using delicate black ink/pencil linework, subtle watercolor and gouache textures, imperfect handmade details, soft muted colors, and a charming vintage storybook aesthetic. Add small environmental details appropriate to the subject, such as tiny people, plants, rocks, objects, or landscape elements.\n\nInclude a short handwritten phrase that naturally relates to the concept and the transformation, positioned subtly within the illustrated area. The typography should look genuinely handwritten, imperfect, minimal, and artistic.\n\nThe photograph and illustration must feel like one continuous visual story, not two separate images. Avoid a hard horizontal split, borders, frames, arrows, labels, or obvious digital compositing. The photographed element should physically appear to flow, fall, extend, or transform into the illustrated world.\n\nAesthetic: poetic, whimsical, clever, minimalist, premium editorial magazine art, surreal but believable, tactile paper texture, natural imperfections, sophisticated visual storytelling.\n\nComposition: vertical 3:4, balanced negative space, strong focal point, seamless transition, high detail, realistic photography + delicate hand-drawn illustration, no unnecessary elements."
+  },
+  {
+    "id": "2104455859447501166",
+    "title": "照片×极简插画记忆卡：竖版3:4完整配方",
+    "blurb": "Harboris 把上半写实照片焊死，下半抽色板做成稚拙 editorial 插画——构图/主体/负向全写死，换一张生活照就能出记忆卡。旅行/婚礼/品牌纪念册别只会九宫格，先抄这套对半分卡。",
+    "author": "harboriis",
+    "url": "https://x.com/harboriis/status/2104455859447501166",
+    "category": "海报排版",
+    "prompt": "Use the uploaded photo as the only content source. Create a vertical 3:4 “real photo + minimal illustration” memory card based entirely on that image. Preserve the main subjects, subject count, pose, viewpoint, spatial relationships, and overall scene logic. Do not redesign the source or add unrelated content.\nLayout\nSplit the card into two horizontal sections, about 50% top and 50% bottom. The top half keeps the uploaded photo with photographic texture. Crop naturally to fit, but do not stretch, mirror, rearrange, or alter the main subjects. Keep natural lighting, real materials, and the original color mood, with subtle editorial grading. The lower half uses a warm ivory handmade-paper background and shows a centered horizontal illustration of the same scene. The illustration occupies about 63-67% of the lower width, with generous blank space around it.\nScene Translation\nIn the lower illustration, preserve the most recognizable subjects, major structures, important objects, viewpoint, depth, relative scale, and key positions from the source. Remove tiny clutter, fine photographic texture, reflections, and complex shadows. Simplify the scene into slightly awkward geometric color blocks and thin hand-drawn lines. People and animals, when present, remain identifiable through silhouette, pose, hair or fur shape, clothing color, and placement, but facial detail may be reduced. Outlines may wobble, break, shift, or misalign slightly while the scene stays recognizable.\nIllustration Style\nUse restrained naive editorial drawing with soft geometric simplification and handmade quality. Combine thin sketchy linework with flat shapes. The lower scene should feel calm, clean, slightly imperfect, and visually reduced rather than technically precise. Avoid realistic rendering.\nColor\nExtract 4-6 representative colors from the uploaded photo and reinterpret them as a soft low-saturation palette. Use muted tones derived from the source, with flat fills and enough contrast to separate major subjects and scene layers. No complex gradients, glossy highlights, or heavy 3D modeling.\nTexture\nBlend crayon, pastel, screen-print, and old-book illustration qualities. Keep paper show-through, fine grain, slight pigment unevenness, worn edges, and subtle off-register shifts. The result should feel like an independent editorial illustration printed on aged paper: warm, quiet, nostalgic, and collectible.\nTypography\nBelow the illustration, you may include exactly two short English lines related to the scene, mood, place, or moment. Use a small vintage serif font, left-aligned. If clean readable text cannot be rendered, leave the area blank. No other readable text.\nCleanup\nRemove phone UI, subtitles, screenshot traces, and interface elements when present. Do not invent missing scenery or decorative props.\nNegative\nNo major layout change, no added or missing primary subjects, no photoreal painting, no polished watercolor, no anime, no manga, no vector clip-art, no oil paint, no impasto, no 3D, no logo, no watermark, no black border, no UI, no unrelated decoration.\nVertical 3:4 split card · photo top / naive illustration bottom · aged paper texture"
+  },
+  {
+    "id": "2104462248072843409",
+    "title": "仙侠服装工业设计图：爆炸拆解+面料样本+PBR",
+    "blurb": "松果直接出 16:9 仙侠古装工业设计图——正面全身 + 右侧爆炸拆解箭头穿着顺序 + 下方刺绣/搭扣/面料样本。游戏时装/汉服电商别只会画效果图，先让 2.5 把结构板和 PBR 一起焊出来。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2104462248072843409",
+    "category": "人像角色",
+    "prompt": "16:9横版仙侠服装工业设计图，成年东方女性角色，黑色长发束成高髻，佩戴简洁银冠，正面全身自然站姿，头部轻微转向右侧，表情雅致平静。服装为青黛与烟紫配色的仙侠风古装，由窄袖织锦内衬、深色束腰、半透明长外袍、双层披肩、侧开式长裙片、轻纱披帛和金属流苏组成。裙摆开合仅用于清晰展示下层结构，内搭完整安全；腿部搭配哑光黑色连裤袜，细腻编织纹理、低光泽、真实张力和自然褶皱，配黑色软底长靴。右侧安排服装爆炸拆解图，以箭头标明穿着顺序；下方展示袖口刺绣、腰封搭扣、披帛固定方式、丝袜织物样本、鞋底结构与配饰尺寸。写实3D CG、游戏级建模质感、影棚级渲染、PBR丝绸和金属，高分辨率，清晰留白，非情色、非恋物、无塑料皮肤、无结构错误。"
+  },
+  {
+    "id": "2104463222548099112",
+    "title": "复古拼贴练琴手账：脸锁+角贴+五线谱生活页",
+    "blurb": "同一张脸锁进四格练琴瞬间，角贴、便签、节拍器、标签机文字叠在旧乐谱纸上——9:16 俯拍扫描感。生活方式 UGC / 兴趣人设拼贴，先锁脸再堆手账层，别让模型自己换脸。",
+    "author": "Mrpinecone888",
+    "url": "https://x.com/Mrpinecone888/status/2104463222548099112",
+    "category": "人像角色",
+    "prompt": "生成一张9:16竖版真人练琴生活手账，以“练习一首虚构旋律”为创意主题，参考图1为唯一成年主体，锁定其脸型、发型、肤色和体型；4张人物照片沿手绘五线谱上下错落排列，分别表现坐在立式钢琴前准备、专注弹奏、停下来铅笔标记、合上琴盖轻笑，第二张最大，人物照片占页面约七成，统一穿炭灰针织上衣。以黑色照片角贴固定微黄白框，插入虚构练习便签、节拍器小快照、标签机文字“TAKE 04”和一小段原创装饰性音符；象牙白、墨黑与暗红配色，旧乐谱纸叠贴半透明描图纸，留白写“今天比昨天顺了一点”，日期“20XX.XX.XX”。高清俯拍扫描，展示铅笔擦痕、纸边翘曲、胶痕与自然层次；禁止复制完整真实乐谱、手指数量错误、键盘结构扭曲、不同照片换脸、误切身体、乱码、私人编号和悬浮纸片。"
+  },
+  {
+    "id": "2104471660216902104",
+    "title": "针毡柴犬咖啡师：4×4精灵表→GIF完整流水线",
+    "blurb": "Skye 先用 Image 2.5 出角色场景，再上传生成锁机位 4×4 拉花序列表，最后丢 Astra/Pillow 拼循环 GIF——帧序、时长、连续性全写死。虚拟 IP 动效别只会单帧卖萌，先抄这套「出图→精灵表→动效」。",
+    "author": "skyevale_",
+    "url": "https://x.com/skyevale_/status/2104471660216902104",
+    "category": "像素动效",
+    "prompt": "【工作流】Image 2.5 出角色场景 → 再上传生成 4×4 精灵表 →（可选）丢给 GPT-6 Astra / Pillow 拼成循环 GIF。\n\n【Step 2 · Image 2.5 精灵表】\nUsing my uploaded image as a strict visual reference, create a 4×4 grid of 16 consecutive animation frames of the same cat barista making heart-shaped latte art, then offering the coffee toward the camera with a wink.\n\nSTYLE & CONSISTENCY\nPreserve the reference character, costume, fuzzy needle-felted texture, miniature coffee shop, lighting, and composition. Handmade plush stop-motion aesthetic, not clay or smooth plastic CGI.\n\nGRID\nExactly 4 rows × 4 columns, equal-sized cells, chronological order from left to right, top to bottom. One locked frontal, slightly elevated camera angle so the coffee surface is visible. No text, numbers, borders, gutters, or watermarks.\n\nFRAME SEQUENCE\n1. Cat looks down at the coffee. Pitcher rests on the counter at screen left; one paw holds its handle.\n2. Lift the pitcher toward the cup.\n3. Position the spout above the coffee and tilt slightly; no milk yet.\n4. Begin pouring a thin stream.\n5. Lower the spout slightly; a small white dot appears.\n6. Continue the low pour; the white dot expands.\n7. Shape the milk foam into the rounded top of a heart.\n8. Lift the spout slightly and draw a thin finishing line through the center, completing the heart.\n9. Turn the pitcher upright, stop pouring, and move it away.\n10. Lower the pitcher to its original place at screen left.\n11. Release the pitcher and move the free paw toward the cup.\n12. Hold the cup with both paws, still resting on the counter.\n13. Lift the cup slightly and look toward the viewer.\n14. Extend the cup a little closer to the camera.\n15. Reach the final offering pose: cup in the lower foreground, heart visible, face unobstructed, both eyes open.\n16. Hold the same offering pose and wink: screen-right eye closed, screen-left eye open, with a small happy smile.\n\nCONTINUITY\nUse small, progressive movements. Keep the background and camera fixed.\nThe cup handle always faces screen right.\nThe pitcher remains visible on the counter after it is set down.\nMilk flows only in frames 4–8. The completed heart remains unchanged afterward.\nThe cup stays on the counter until frame 13, then grows slightly in apparent size only because it moves closer to the camera.\nNo disappearing or duplicated props, extra paws, distorted cups, or stretched arms.\n\nEnd on the offering pose and wink. Do not return to the starting pose or remove the latte art to fake a seamless loop.\n\nDeliver the finished 4×4 grid image.\n\n用法：把「cat barista / latte art」换成你的角色动作序列，锁住参考图材质与机位即可连更。",
+    "extra_links": [
+      {
+        "label": "精灵表教程参考",
+        "url": "https://x.com/NFT_Chen/status/2097882646198235424"
+      }
+    ]
+  },
+  {
+    "id": "2104487587021041696",
+    "title": "一行提示词风格阶梯：90年代动画→现代/3DCG/写实",
+    "blurb": "Suzuka 用同一画角跑四档：先做 90 年代动画劣化元绘，再超分现代动画、3DCG、照片级——一行换档位。选型评测别只会嘴炮「哪个更强」，先把画角焊死再比风格阶梯。",
+    "author": "SuzukaBike",
+    "url": "https://x.com/SuzukaBike/status/2104487587021041696",
+    "category": "选型评测",
+    "prompt": "【一行提示词风格阶梯 · ChatGPT Image 2.5】\n最重要的是先有一张能站住的元绘（示例：先做成 90 年代动画劣化风）。\n\n1) ９０年代アニメ風に劣化させた元絵\n以下はそれからの変換（画角そのまま）：\n2) 画角そのまま、超解像、現代アニメ化\n3) 画角そのまま、超解像、3DCG化\n4) 画角そのまま、超解像、フォトリアル\n\n用法：固定同一画角，只换「现代动画 / 3DCG / 写实」档位——选型对比和风格迁移都先抄这四行。",
+    "extra_links": [
+      {
+        "label": "相关前帖",
+        "url": "https://x.com/SuzukaBike/status/2098019922848907581"
+      }
+    ]
+  },
+  {
+    "id": "2104487991397802220",
+    "title": "跟练Khazix「拍立得3D破框」+「排版涂鸦」前后对比",
+    "blurb": "0xKyne 拿私藏素材二创假期朋友圈两招：拍立得立体破框和排版涂鸦，脸与光影锁得住、塑料感洗得掉。教程再长也怕翻车——先看这组前后对比再决定要不要整套跟练。",
+    "author": "0xkyne",
+    "url": "https://x.com/0xkyne/status/2104487991397802220",
+    "category": "人像角色",
+    "prompt": "【跟练 Khazix 假期朋友圈玩法 · 实测要点】\n重点试「拍立得 3D 破框」和「排版涂鸦」两招：\n- 上传私藏写真 / 素材\n- 要求保留原图光影与五官辨识度\n- 再叠加拍立得立体破框或排版涂鸦层\n\n实测：Image 2.5 精准编辑 + 指令遵循够稳，质感过渡自然，能洗掉廉价 AI 塑料感。完整槽位与十二种假期出片见原教程帖。",
+    "extra_links": [
+      {
+        "label": "Khazix 原教程",
+        "url": "https://x.com/Khazix0918/status/2104401048324743646"
+      }
+    ]
   }
 ]

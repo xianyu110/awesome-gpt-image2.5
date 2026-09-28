@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-28 · **收录 694 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-28 · **收录 700 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,25 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **一行提示词风格阶梯：90年代动画→现代/3DCG/写实** — Suzuka 用同一画角跑四档：先做 90 年代动画劣化元绘，再超分现代动画、3DCG、照片级——一行换档位。选型评测别只会嘴炮「哪个更强」，先把画角焊死再比风格阶梯。 [@SuzukaBike](https://x.com/SuzukaBike) · [原帖](https://x.com/SuzukaBike/status/2104487587021041696) · [相关前帖](https://x.com/SuzukaBike/status/2098019922848907581)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【一行提示词风格阶梯 · ChatGPT Image 2.5】
+最重要的是先有一张能站住的元绘（示例：先做成 90 年代动画劣化风）。
+
+1) ９０年代アニメ風に劣化させた元絵
+以下はそれからの変換（画角そのまま）：
+2) 画角そのまま、超解像、現代アニメ化
+3) 画角そのまま、超解像、3DCG化
+4) 画角そのまま、超解像、フォトリアル
+
+用法：固定同一画角，只换「现代动画 / 3DCG / 写实」档位——选型对比和风格迁移都先抄这四行。
+```
+
+  </details>
 
 - **VRoid自作3DCG→Image 2.5：高品质3DCG风前后对比** — 牛帝把改过的 VRoid 素体 + 教室资产先渲一帧，再丢 GPT-Images 2.5 拉成「高品质 3DCG 风」——同一机位前后对照，角色管线别只会死磕渲染器，先让 2.5 焊材质光影。 [@gyutei_4koma](https://x.com/gyutei_4koma) · [原帖](https://x.com/gyutei_4koma/status/2104398304432054583)
 
@@ -1167,6 +1186,33 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **照片×极简插画记忆卡：竖版3:4完整配方** — Harboris 把上半写实照片焊死，下半抽色板做成稚拙 editorial 插画——构图/主体/负向全写死，换一张生活照就能出记忆卡。旅行/婚礼/品牌纪念册别只会九宫格，先抄这套对半分卡。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2104455859447501166)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded photo as the only content source. Create a vertical 3:4 “real photo + minimal illustration” memory card based entirely on that image. Preserve the main subjects, subject count, pose, viewpoint, spatial relationships, and overall scene logic. Do not redesign the source or add unrelated content.
+Layout
+Split the card into two horizontal sections, about 50% top and 50% bottom. The top half keeps the uploaded photo with photographic texture. Crop naturally to fit, but do not stretch, mirror, rearrange, or alter the main subjects. Keep natural lighting, real materials, and the original color mood, with subtle editorial grading. The lower half uses a warm ivory handmade-paper background and shows a centered horizontal illustration of the same scene. The illustration occupies about 63-67% of the lower width, with generous blank space around it.
+Scene Translation
+In the lower illustration, preserve the most recognizable subjects, major structures, important objects, viewpoint, depth, relative scale, and key positions from the source. Remove tiny clutter, fine photographic texture, reflections, and complex shadows. Simplify the scene into slightly awkward geometric color blocks and thin hand-drawn lines. People and animals, when present, remain identifiable through silhouette, pose, hair or fur shape, clothing color, and placement, but facial detail may be reduced. Outlines may wobble, break, shift, or misalign slightly while the scene stays recognizable.
+Illustration Style
+Use restrained naive editorial drawing with soft geometric simplification and handmade quality. Combine thin sketchy linework with flat shapes. The lower scene should feel calm, clean, slightly imperfect, and visually reduced rather than technically precise. Avoid realistic rendering.
+Color
+Extract 4-6 representative colors from the uploaded photo and reinterpret them as a soft low-saturation palette. Use muted tones derived from the source, with flat fills and enough contrast to separate major subjects and scene layers. No complex gradients, glossy highlights, or heavy 3D modeling.
+Texture
+Blend crayon, pastel, screen-print, and old-book illustration qualities. Keep paper show-through, fine grain, slight pigment unevenness, worn edges, and subtle off-register shifts. The result should feel like an independent editorial illustration printed on aged paper: warm, quiet, nostalgic, and collectible.
+Typography
+Below the illustration, you may include exactly two short English lines related to the scene, mood, place, or moment. Use a small vintage serif font, left-aligned. If clean readable text cannot be rendered, leave the area blank. No other readable text.
+Cleanup
+Remove phone UI, subtitles, screenshot traces, and interface elements when present. Do not invent missing scenery or decorative props.
+Negative
+No major layout change, no added or missing primary subjects, no photoreal painting, no polished watercolor, no anime, no manga, no vector clip-art, no oil paint, no impasto, no 3D, no logo, no watermark, no black border, no UI, no unrelated decoration.
+Vertical 3:4 split card · photo top / naive illustration bottom · aged paper texture
+```
+
+  </details>
 
 - **电影经典台词日签：片名×台词×视觉记忆×Editorial** — 深蓝一条槽位公式：【电影名】×经典台词×电影视觉记忆×Editorial摄影×极简艺术日签——双语排版一换片名就能连更朋友圈。日签工厂别手绘每张，先焊这串再批量。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104426540310409481)
   <details>
@@ -5271,6 +5317,42 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **跟练Khazix「拍立得3D破框」+「排版涂鸦」前后对比** — 0xKyne 拿私藏素材二创假期朋友圈两招：拍立得立体破框和排版涂鸦，脸与光影锁得住、塑料感洗得掉。教程再长也怕翻车——先看这组前后对比再决定要不要整套跟练。 [@0xkyne](https://x.com/0xkyne) · [原帖](https://x.com/0xkyne/status/2104487991397802220) · [Khazix 原教程](https://x.com/Khazix0918/status/2104401048324743646)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【跟练 Khazix 假期朋友圈玩法 · 实测要点】
+重点试「拍立得 3D 破框」和「排版涂鸦」两招：
+- 上传私藏写真 / 素材
+- 要求保留原图光影与五官辨识度
+- 再叠加拍立得立体破框或排版涂鸦层
+
+实测：Image 2.5 精准编辑 + 指令遵循够稳，质感过渡自然，能洗掉廉价 AI 塑料感。完整槽位与十二种假期出片见原教程帖。
+```
+
+  </details>
+
+- **复古拼贴练琴手账：脸锁+角贴+五线谱生活页** — 同一张脸锁进四格练琴瞬间，角贴、便签、节拍器、标签机文字叠在旧乐谱纸上——9:16 俯拍扫描感。生活方式 UGC / 兴趣人设拼贴，先锁脸再堆手账层，别让模型自己换脸。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2104463222548099112)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+生成一张9:16竖版真人练琴生活手账，以“练习一首虚构旋律”为创意主题，参考图1为唯一成年主体，锁定其脸型、发型、肤色和体型；4张人物照片沿手绘五线谱上下错落排列，分别表现坐在立式钢琴前准备、专注弹奏、停下来铅笔标记、合上琴盖轻笑，第二张最大，人物照片占页面约七成，统一穿炭灰针织上衣。以黑色照片角贴固定微黄白框，插入虚构练习便签、节拍器小快照、标签机文字“TAKE 04”和一小段原创装饰性音符；象牙白、墨黑与暗红配色，旧乐谱纸叠贴半透明描图纸，留白写“今天比昨天顺了一点”，日期“20XX.XX.XX”。高清俯拍扫描，展示铅笔擦痕、纸边翘曲、胶痕与自然层次；禁止复制完整真实乐谱、手指数量错误、键盘结构扭曲、不同照片换脸、误切身体、乱码、私人编号和悬浮纸片。
+```
+
+  </details>
+
+- **仙侠服装工业设计图：爆炸拆解+面料样本+PBR** — 松果直接出 16:9 仙侠古装工业设计图——正面全身 + 右侧爆炸拆解箭头穿着顺序 + 下方刺绣/搭扣/面料样本。游戏时装/汉服电商别只会画效果图，先让 2.5 把结构板和 PBR 一起焊出来。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2104462248072843409)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+16:9横版仙侠服装工业设计图，成年东方女性角色，黑色长发束成高髻，佩戴简洁银冠，正面全身自然站姿，头部轻微转向右侧，表情雅致平静。服装为青黛与烟紫配色的仙侠风古装，由窄袖织锦内衬、深色束腰、半透明长外袍、双层披肩、侧开式长裙片、轻纱披帛和金属流苏组成。裙摆开合仅用于清晰展示下层结构，内搭完整安全；腿部搭配哑光黑色连裤袜，细腻编织纹理、低光泽、真实张力和自然褶皱，配黑色软底长靴。右侧安排服装爆炸拆解图，以箭头标明穿着顺序；下方展示袖口刺绣、腰封搭扣、披帛固定方式、丝袜织物样本、鞋底结构与配饰尺寸。写实3D CG、游戏级建模质感、影棚级渲染、PBR丝绸和金属，高分辨率，清晰留白，非情色、非恋物、无塑料皮肤、无结构错误。
+```
+
+  </details>
 
 - **国庆出片：GPT Image 2.5 发型美容顾问提示词** — 逸尘把「美学顾问」焊进 Image 2.5——分析脸型给发型/眉形/妆面建议，再出前后对比带标注。国庆给自己或对象出片，别再走出理发店后悔，先让模型当顾问再动剪。 [@gengdaJ](https://x.com/gengdaJ) · [原帖](https://x.com/gengdaJ/status/2104414578239267314)
   <details>
@@ -12201,6 +12283,57 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 ## 像素动效
 
 像素、精灵表与动效向玩法。
+
+- **针毡柴犬咖啡师：4×4精灵表→GIF完整流水线** — Skye 先用 Image 2.5 出角色场景，再上传生成锁机位 4×4 拉花序列表，最后丢 Astra/Pillow 拼循环 GIF——帧序、时长、连续性全写死。虚拟 IP 动效别只会单帧卖萌，先抄这套「出图→精灵表→动效」。 [@skyevale_](https://x.com/skyevale_) · [原帖](https://x.com/skyevale_/status/2104471660216902104) · [精灵表教程参考](https://x.com/NFT_Chen/status/2097882646198235424)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【工作流】Image 2.5 出角色场景 → 再上传生成 4×4 精灵表 →（可选）丢给 GPT-6 Astra / Pillow 拼成循环 GIF。
+
+【Step 2 · Image 2.5 精灵表】
+Using my uploaded image as a strict visual reference, create a 4×4 grid of 16 consecutive animation frames of the same cat barista making heart-shaped latte art, then offering the coffee toward the camera with a wink.
+
+STYLE & CONSISTENCY
+Preserve the reference character, costume, fuzzy needle-felted texture, miniature coffee shop, lighting, and composition. Handmade plush stop-motion aesthetic, not clay or smooth plastic CGI.
+
+GRID
+Exactly 4 rows × 4 columns, equal-sized cells, chronological order from left to right, top to bottom. One locked frontal, slightly elevated camera angle so the coffee surface is visible. No text, numbers, borders, gutters, or watermarks.
+
+FRAME SEQUENCE
+1. Cat looks down at the coffee. Pitcher rests on the counter at screen left; one paw holds its handle.
+2. Lift the pitcher toward the cup.
+3. Position the spout above the coffee and tilt slightly; no milk yet.
+4. Begin pouring a thin stream.
+5. Lower the spout slightly; a small white dot appears.
+6. Continue the low pour; the white dot expands.
+7. Shape the milk foam into the rounded top of a heart.
+8. Lift the spout slightly and draw a thin finishing line through the center, completing the heart.
+9. Turn the pitcher upright, stop pouring, and move it away.
+10. Lower the pitcher to its original place at screen left.
+11. Release the pitcher and move the free paw toward the cup.
+12. Hold the cup with both paws, still resting on the counter.
+13. Lift the cup slightly and look toward the viewer.
+14. Extend the cup a little closer to the camera.
+15. Reach the final offering pose: cup in the lower foreground, heart visible, face unobstructed, both eyes open.
+16. Hold the same offering pose and wink: screen-right eye closed, screen-left eye open, with a small happy smile.
+
+CONTINUITY
+Use small, progressive movements. Keep the background and camera fixed.
+The cup handle always faces screen right.
+The pitcher remains visible on the counter after it is set down.
+Milk flows only in frames 4–8. The completed heart remains unchanged afterward.
+The cup stays on the counter until frame 13, then grows slightly in apparent size only because it moves closer to the camera.
+No disappearing or duplicated props, extra paws, distorted cups, or stretched arms.
+
+End on the offering pose and wink. Do not return to the starting pose or remove the latte art to fake a seamless loop.
+
+Deliver the finished 4×4 grid image.
+
+用法：把「cat barista / latte art」换成你的角色动作序列，锁住参考图材质与机位即可连更。
+```
+
+  </details>
 
 - **Opus 自训像素引擎：Flare low 约 $0.02/次 + art_director.md 原地改精灵** — 用 gpt-image-2.5-flare low 把像素精灵迭代压到约两美分一枪，再靠 art_director.md 自评后直接改真精灵——细修别整张重抽。Agent 管像素资产时，先把成本档和原地编辑焊进流水线。 [@jefdiesel](https://x.com/jefdiesel) · [原帖](https://x.com/jefdiesel/status/2103466733134610843)
 
