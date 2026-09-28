@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-28 · **收录 685 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-28 · **收录 687 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -5219,6 +5219,66 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
   </details>
 
+- **通用角色卡提示词：上传人像即可过 Seedance 人脸** — 槽位填角色/服装/髮型，挂参考图锁脸骨与肤质，一次出头细节+五视图转面+俯仰补充+材质特写。虚拟 IP / 数字人先焊角色卡再喂 Seedance，别拿单帧玄学锁脸。 [@GeekCatX](https://x.com/GeekCatX) · [原帖](https://x.com/GeekCatX/status/2104135719140937766) · [提示词回复](https://x.com/GeekCatX/status/2104135797280752081)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+请生成一张高品质、真实拍摄质感的人物角色设定图（character sheet / character reference sheet）。
+
+角色：{{角色名称}}
+角色身份：{{角色基础身份}}
+角色描述：{{角色描述}}
+服装设定：{{服装描述}}
+配饰设定：{{配饰描述}}
+鞋靴设定：{{鞋靴描述}}
+髮型设定：{{髮型描述}}
+
+如有参考图：
+- 仅使用参考图作为该角色脸部、骨骼结构、肤质与髮型的主要依据
+- 保持年龄、种族、性别特征一致
+- 脸部特征高度匹配参考图
+
+输出要求：
+- 纯白背景
+- 16:9 横版
+- 4K 解析度
+- 布局清晰规范
+- 各模块无重叠、无裁切
+- 高精度细节，专业影视级角色卡风格
+
+必须包含以下模块：
+
+1. 头部细节组：
+- 无配饰正视图
+- 无配饰正侧视图
+- 完整造型正视图
+- 完整造型正侧视图
+
+2. 全身正交转面组：
+- 正面
+- 左45度
+- 正侧面
+- 右45度
+- 背面
+
+3. 补充视角组：
+- 半侧身视图
+- 俯视顶视图
+- 仰视底视图
+
+4. 材质细节特写组：
+- 服装面料特写
+- 袖口 / 领口 / 腰部细节
+- 鞋靴细节
+- 配饰细节
+
+一致性要求：
+所有模块中的角色必须为同一人物，五官、髮型、肤色、身材、服装、鞋靴、配饰、光影、材质完全一致，不得出现角色漂移或视图差异。
+```
+
+  </details>
+
 - **日间高光CCD：风力装置广场都市生活照** — 蜜桃橘吊带针织 + 冷白超短裙，低角度仰拍压发尾；风力互动装置当几何背景。liyue CCD 槽位又补一张设计感都市场景，小红书生活方式直接返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2103383385662263799)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -10337,6 +10397,8 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **细胞3D教学片：Image 2.5→Opus 5.5 资产→中学视频** — 先让 GPT Image 2.5 出细胞 3D 模型静帧，再丢 Opus 5.5 生成 3D 资产与适合中学生的讲解视频。AI 教育别从成片剪辑起步——先用 2.5 把教具视觉钉死。 [@akokoi1](https://x.com/akokoi1) · [原帖](https://x.com/akokoi1/status/2104105016235860050)
 
 - **农业 PR：Image 2.5 番茄分镜 → Gemini Omni 成片** — ChatGPT 策划 → GPT Image 2.5 出 3×3「一皿の向こう側」番茄供应链分镜 → Gemini Omni 1.1 Flash 成片/配乐/旁白。B2B 食品农业宣传别从剪辑台起步——先锁分镜再喂视频模型。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2103422112312541342) · [分镜 prompt 原帖](https://x.com/husky__create/status/2103422116876222566)
   <details>
