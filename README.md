@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-28 · **收录 687 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-28 · **收录 694 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **VRoid自作3DCG→Image 2.5：高品质3DCG风前后对比** — 牛帝把改过的 VRoid 素体 + 教室资产先渲一帧，再丢 GPT-Images 2.5 拉成「高品质 3DCG 风」——同一机位前后对照，角色管线别只会死磕渲染器，先让 2.5 焊材质光影。 [@gyutei_4koma](https://x.com/gyutei_4koma) · [原帖](https://x.com/gyutei_4koma/status/2104398304432054583)
 
 - **API 关透明底：background="opaque" 一行收工** — GPT Image 2.5 API 还在默认爱出透明 PNG？别再事后抠底——`background="opaque"` 直接焊死不透明。接电商主图/落地页素材先把这参数写进 SDK，少一轮返工。 [@xiaoxiaodong](https://x.com/xiaoxiaodong) · [原帖](https://x.com/xiaoxiaodong/status/2104388925712420968)
   <details>
@@ -1027,6 +1029,8 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
+- **てんねん画像変換パック：線画/鉛筆/马克笔/点绘（2.5加餐）** — Image 2.5 版在線画・鉛筆之外又塞进ガッシュ、アルコールマーカー、モノクロ漫画風、ドット絵——马克笔与点绘尤其香。画风转换别靠玄学滤镜，先抄这套转换包再叠自己的线。 [@munou_ac](https://x.com/munou_ac) · [原帖](https://x.com/munou_ac/status/2104392771369087290) · [画風変換プロンプト长文](https://x.com/munou_ac/status/2104096605867831358) · [专用 article](https://x.com/i/article/2104076132333334528)
+
 - **Images 2.5 Sketch 中秋兔 × Canva 动画：捣麻糬社媒动效链** — 十五夜主题：先用 ChatGPT Images 2.5 新功能 Sketch 画出兔子，再丢进 Canva 上动画——月上捣麻糬成片。节气/社媒短动效别一口吃视频模型，Sketch 控形 + 设计工具动效往往更快出片。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2103468404414054755)
 
 - **连环漫画完整 Chat 分享：过程比单条 prompt 更值钱** — 作者直接甩 Images 2.5 整段对话，看模型局限怎么用上下文和 steering 顶回去——角色参考页先钉死能少改半帖。漫画连载别再伸手要「魔法一句」；先偷师整条修图轨迹。 [@bajolacurva](https://x.com/bajolacurva) · [原帖](https://x.com/bajolacurva/status/2103138227351679091) · [ChatGPT 分享](https://chatgpt.com/share/6ab53ae0-cd78-83e9-b827-221d8adc7dec)
@@ -1163,6 +1167,65 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **电影经典台词日签：片名×台词×视觉记忆×Editorial** — 深蓝一条槽位公式：【电影名】×经典台词×电影视觉记忆×Editorial摄影×极简艺术日签——双语排版一换片名就能连更朋友圈。日签工厂别手绘每张，先焊这串再批量。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104426540310409481)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【电影名称】× 经典台词 × 电影视觉记忆 × Editorial摄影 × 极简艺术日签
+
+用法：只换【电影名称】与对应经典台词；视觉记忆锁该片标志性光影/道具/色调，整体走 Editorial 极简艺术日签。
+生成：GPT Image 2.5
+```
+
+  </details>
+
+- **国庆朋友圈承包：GPT-Image 2.5 十二种假期出片玩法** — 卡兹克把去游客、调光、美颜、拍立得公仔、景点明信片、贴纸、行李箱碎片、旅行拼贴、演唱会氛围、美食炸弹、文字涂鸦到 ins 注释一次摊齐——假期废片别只会加滤镜，直接抄这十二段提示词。 [@Khazix0918](https://x.com/Khazix0918) · [原帖](https://x.com/Khazix0918/status/2104401048324743646) · [长文原文](https://x.com/i/article/2104399548479369216)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【GPT-Image 2.5 · 十二种假期朋友圈玩法】上传原图后按需复制：
+
+1. 消除背景游客
+保持图片画面完全不变，仅将背景中的其他人和杂物去掉。
+
+2. 自动调光
+这张照片背景曝光太严重了，请以一个专业摄影师的身份，为这张图调一下光线、色彩和清晰度
+
+3. 专业美颜（保辨识度）
+根据照片中人物的实际脸型、五官与气质，进行有针对性的美容美学优化，并直接呈现自然修饰后的效果：调整适合本人的发型、分缝与蓬松度，整理眉形，适度提亮眼下、均匀肤色、淡化痘印，改善唇部状态，必要时加入轻淡自然的妆容，让整体更协调、有精神。除此之外的一切全部不变
+
+4. 拍立得3D公仔打卡
+根据图一，将照片中的人物转化为整体约1:4身高比例的3DQ版黏土风格角色公仔，公仔呈现全身，整体放置于一张拍立得照片中，并由一只手持握着拍立得相纸。画面呈现出人物从拍立得照片中突破边框、延伸进入现实世界的效果。并且背景与原图一致，延续拍立得中的背景，以Q版风格绘制，不需再有人物出现，仅作为角色背景的延伸，与照片原始场景一致
+
+5. 景点明信片
+将照片设计成复古旅行手账风明信片：保留原图主体与视角，转绘为清透的水彩插画，带自然晕染、纸张颗粒和不规则笔触边缘，柔和融入暖米白纸面。采用横版布局，右侧约60%区域放插画，插画略微收小，四周留出更宽的纸面，上下边缘保持呼吸感，笔触不要延伸至画布边缘。左侧疏朗排版：小编号、简短英文主题标题、LOCATION与DATE标签及空白横线，底部放三枚从照片提取的手绘色块。标题用复古衬线字体，整体清新、舒展、有旅行收藏感。只输出明信片设计平面图，去除原图水印与界面元素。
+
+6. 画面主体转贴纸
+将照片中间「最具辨识度的一座核心建筑」，重绘成手绘旅行贴纸。只处理这一处，保留其轮廓、比例与标志性细节，使用粗黑手绘线条、明快平涂色块和少量复古印刷纹理，沿外轮廓添加连续的宽白色模切边。贴纸原位覆盖建筑，略微放大，避免原边缘外露。周围的一切则保持原照片效果，不添加文字，不将整张图插画化。
+
+7. 旅游碎片行李箱
+以图一空行李箱为底图，提取图2至图12这11张照片中的代表性建筑、风景、美食等主体，保留辨识度，转绘成带白边水彩旅行贴纸，最后将这11张贴纸大小错落地贴在行李箱上下两面的内衬上，重点主体放大，其余元素自然穿插，排列紧凑但保留适当间隙。贴纸不越出内衬或跨过铰链。呈现真实纸质贴纸的平面拼贴效果，不直接粘贴矩形照片，不变成立体模型。
+
+8. 人物旅游海报（改城市名）
+以参考照片中的人物为主角，创作「广州」主题的复古旅行拼贴海报，保留五官辨识度与自然神态。用醒目的「GUANGZHOU」复古粗体标题，搭配城市地标、街景、美食、地图、票据和邮戳，结合撕纸边缘、印刷颗粒与少量手写短句，构图丰富、层次清晰。以中性米白纸底搭配自然蓝绿与砖红，略微减少黄调，保留复古质感，避免整体泛黄，肤色自然。
+
+9. 演唱会氛围感
+在图一场景下，图一中的人物背对广角镜头，人物的位置偏向画面左边，右手拿着爱心形状的应援棒怼在镜头前并放大，低视角拍摄，人物不留侧脸。画面中的人物长发飘逸，要有风吹动的感觉，发丝间微发光，稍微仰视的拍摄角度，注意整体姿态有美感且协调，并且背景中要有图二的演出会彩带飘落，营造氛围感场景，让整体的光影结构和谐。
+
+10. 美食炸弹
+保持图片完全不变，仅以人物手持怼在镜头前的食物或饮品为中心，制造超写实的腾空飞溅瞬间。根据原有内容自然表现：固体翻腾散开，液体形成舒展的飞溅弧面与细小液滴，配料随之悬浮。动势从容器内部向上、向外并朝镜头展开，突出近大远小的透视与扑面而来的冲击感。保持容器完整，不添加无关食材，不遮挡人物面部。材质、光线与阴影融入原照片，呈现高速摄影定格般的清晰细节与广告质感，避免卡通感。
+
+11. 指定物体转文字涂鸦（改对象/单词/颜色）
+只修改图中「第一把椅子及其放在椅子上的玩偶」，将这个「椅子」变成由「Chair」这个英文单词构成的彩色（用一种颜色：白色）手绘文字涂鸦，将「椅子上的玩偶」变成由「Cat」这个英文单词构成的彩色（用一种颜色：棕色）手绘文字涂鸦，并且这些文字涂鸦要有质感一些。文字自上而下排列，笔画大胆拉伸、弯曲、嵌合。采用圆润粗笔画、略带抖动的白色描线对整体以及一些空缺的地方进行勾勒补充，文字与描线之间保持透明镂空，除了文字以外，不得出现其他带颜色的色块笔画。让文字本身配合白色手绘描线构成「椅子和玩偶」，而不是在椅子和玩偶上贴字，整体呈现ins风。
+
+12. ins风画面注释
+为照片添加ins风手绘涂鸦排版，保留原照片内容、构图与真实质感。根据画面内容，在空白处添加醒目的白色手写标题和一句简短俏皮的文案，笔画圆润、略带不规则感。搭配少量手绘箭头、星星、闪光、弧线与呼应主题的小图案，以白色为主、其他颜色做点缀。文字与涂鸦自然穿插，活泼随性、疏朗有留白，像亲手记录的生活照片。避开人物面部与重要主体，不堆满装饰，不将照片转成插画，不添加水印。
+```
+
+  </details>
 
 - **参考字图→全套原创字体：大写小写再到文字组** — 几笔参考字丢进 Image 2.5，先出全大写、再补小写、翻车字母定点修，最后直接文字组——日文 note 把流程摊开了。品牌定制字/Logo 字重别只会掏钱买字库，先抄这套「参考→全字表→排字」。 [@jinkomuno](https://x.com/jinkomuno) · [原帖](https://x.com/jinkomuno/status/2104071903111790795) · [note 教程](https://note.com/jinko_muno/n/n4ff941397eaf)
   <details>
@@ -5208,6 +5271,28 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **国庆出片：GPT Image 2.5 发型美容顾问提示词** — 逸尘把「美学顾问」焊进 Image 2.5——分析脸型给发型/眉形/妆面建议，再出前后对比带标注。国庆给自己或对象出片，别再走出理发店后悔，先让模型当顾问再动剪。 [@gengdaJ](https://x.com/gengdaJ) · [原帖](https://x.com/gengdaJ/status/2104414578239267314)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+请像一位美学/美容顾问一样，从我附带的照片中分析我的外貌。
+
+识别出能让我看起来更精致和谐的最高影响力的变化，包括发型/发式/发色、眉毛、眼妆、皮肤/妆容位置、嘴唇，以及整体面部平衡。
+
+请针对我的实际特征给出具体建议，而不是泛泛而谈。  然后，生成这张确切照片的现实“之后”版本，展示你推荐的焕然一新效果。保持我可辨识为同一个人，并保留我的面部解剖结构，除非你特别推荐细微的结构调整。
+
+尽可能保持相同的姿势、相机角度、表情、光线、服装和背景。  让这些变化精致且现实，而不是夸张的美颜滤镜。优先考虑高影响力、低风险的造型调整。
+
+不要自动让我脸变瘦、鼻子变小、嘴唇变大、眼睛变大，或皮肤不切实际地完美。  对于头发，选择最能衬托我个人比例的发型、发色、分线、蓬松度和面部框架。
+
+对于妆容，优化眉形、眼线/睫毛、腮红/轮廓位置、唇部定义和肤色，同时保持自然。  
+
+生成一张前后对比照片，带有照片标注，解释每项变化，类似于专业美容咨询。
+```
+
+  </details>
 
 - **Chat 记忆一键人设信息图：动漫肖像+属性技能板** — 一句「基于你对我所有的了解」甩给 Image 2.5——卡通动漫风角色肖像、关键属性、技能、性格与兴趣自动排成信息图。个人品牌/社媒人设别手绘九宫格，先让模型吃透聊天记忆再出板。 [@lukfan](https://x.com/lukfan) · [原帖](https://x.com/lukfan/status/2104385560563576925)
   <details>
@@ -9807,6 +9892,30 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **写实食物/产品×手绘故事书：无缝混合 editorial** — Shorelyn 把法式吐司和巧克力包装「流」进手绘小人国——上半写实产品、下半插画世界，完整英文 prompt 可复用。餐饮/快消故事广告别只会摆静物，先让主体往下长出叙事。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2104421880363118667)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Use the uploaded image as the primary reference and transform it into a vertical 3:4 surreal editorial artwork that seamlessly combines photorealistic food/object photography with a whimsical hand-drawn storybook illustration.
+
+Preserve the main subject, composition, colors, textures, and recognizable details of the original photograph. Keep the upper portion highly photorealistic and naturally lit, with realistic materials, shadows, reflections, depth of field, and authentic photographic detail.
+
+Create a seamless visual transition from the photographed subject into an imaginative illustrated world below. Identify the most visually meaningful element in the photograph—such as a liquid, food ingredient, object, pattern, trail, shadow, or texture—and organically extend it downward into the illustration, transforming it into a river, pathway, landscape, trail, or other creative scene.
+
+The illustrated section should appear on a warm off-white textured paper background, using delicate black ink/pencil linework, subtle watercolor and gouache textures, imperfect handmade details, soft muted colors, and a charming vintage storybook aesthetic. Add small environmental details appropriate to the subject, such as tiny people, plants, rocks, objects, or landscape elements.
+
+Include a short handwritten phrase that naturally relates to the concept and the transformation, positioned subtly within the illustrated area. The typography should look genuinely handwritten, imperfect, minimal, and artistic.
+
+The photograph and illustration must feel like one continuous visual story, not two separate images. Avoid a hard horizontal split, borders, frames, arrows, labels, or obvious digital compositing. The photographed element should physically appear to flow, fall, extend, or transform into the illustrated world.
+
+Aesthetic: poetic, whimsical, clever, minimalist, premium editorial magazine art, surreal but believable, tactile paper texture, natural imperfections, sophisticated visual storytelling.
+
+Composition: vertical 3:4, balanced negative space, strong focal point, seamless transition, high detail, realistic photography + delicate hand-drawn illustration, no unnecessary elements.
+```
+
+  </details>
+
 - **电商实战：同一只帆布包，小红书一个字都不要** — 同一只帆布包连发多张零文案种草图——靠构图、材质光泽和场景差讲卖点。小红书别只会堆文案清单，先让图自己把「想带出门」做出来。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2102943070522319003)
 
 - **蜜桃粉真丝睡裙：9:16电商详情页完整中文提示词** — 首屏卧室场景+中段平铺微距+底部包装尺码，一整页生活方式详情页配方。敏感品类也能端庄出片——先锁覆盖与姿态，再谈真丝光泽。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102924564787544273)
@@ -10397,6 +10506,25 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **东方禅意极简壁纸「帘卷新晴」：结构化提示词** — 竹帘一卷，宝石蓝天空开窗，柠檬黄阳光几何投影——9:16 高明度低灰度，标题区留白写死。东方封面别只会堆「仙气」，先把主题/情绪/色彩/构图槽位焊牢再返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2104417507801199089)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主题方向：东方禅意极简高传播封面
+风格分支：女性审美清亮型
+主体内容：一位女子站在极简竹帘旁，一只手轻轻将竹帘向上卷起
+情绪母题：打开、明朗、清晨新意
+场景与意象：大片白墙、竹帘、宝石蓝外部天空、柠檬黄色阳光色块、女子
+构图与空间：9:16竖版，竹帘形成一条纵向结构，女子位于下方三分之一，帘外宝石蓝色块形成视觉窗口，上方保留标题区
+色彩控制：珍珠白为主要背景，宝石蓝只用于帘外天空，柠檬黄用于阳光投影和极少局部点睛，竹帘保持浅竹木本色；避免蓝黄覆盖人物和墙面
+光线与质感：明亮上午硬柔结合自然光，竹帘投下清晰而简洁的几何光影
+画幅比例：9:16
+补充要求：画面一定要高明度、低灰度，蓝黄对比鲜明，结构极简，不做传统室内复杂陈设，画面留白处配上合适的文字
+```
+
+  </details>
 
 - **细胞3D教学片：Image 2.5→Opus 5.5 资产→中学视频** — 先让 GPT Image 2.5 出细胞 3D 模型静帧，再丢 Opus 5.5 生成 3D 资产与适合中学生的讲解视频。AI 教育别从成片剪辑起步——先用 2.5 把教具视觉钉死。 [@akokoi1](https://x.com/akokoi1) · [原帖](https://x.com/akokoi1/status/2104105016235860050)
 
