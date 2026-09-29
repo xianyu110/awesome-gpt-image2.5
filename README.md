@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-28 · **收录 703 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-29 · **收录 706 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -1186,6 +1186,63 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **夹缝构图商业四槽：Scent/Form/Motion/Hydration** — 自然夹缝不够用？商业版把产品塞进光隙：丝绸香水、建筑时装、材质跑鞋、水凝膜精华。两侧巨材夹负空间，缩略图先看见通道，再看见货——品牌 KV / Campaign 别再主体居中堆满。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104571563614069038) · [评论区完整提示词](https://x.com/MrLarus/status/2104572006121505074) · [自然主题夹缝四槽](https://x.com/MrLarus/status/2104555888657027393)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【主题】：如 Scent / Form / Motion / Hydration
+【英文标题】：如 SCENT INTERVAL
+【核心主体】：如香水 / 时装人物 / 运动鞋 / 精华瓶
+【左侧巨大材质】：
+【右侧巨大材质】：
+【中央负空间氛围】：
+【主体位置与状态】：
+【品牌名】：
+【产品名 / 系列名】：
+【主色调】：
+【辅助文案】：
+【画幅比例】：9:16
+
+生成一张高端商业 Editorial Design 海报，采用「夹缝构图 / Interval Composition」。
+
+画面左右分别由两个尺度巨大的商业材质实体进入画幅，并被画面边缘裁切。两侧主体向中央挤压，在中间形成一条从顶部贯穿到底部的狭窄纵向负空间。中央负空间是整张海报真正的视觉主角。
+
+裂隙不要完全笔直，可以呈缓慢自然的 S 型收放关系：顶部略宽，中部收紧，下部再次打开。内部保持干净、明亮、有空气感，不填入复杂背景。左右巨大材质使用【左侧巨大材质】与【右侧巨大材质】，重点表现真实的大尺度结构、连续纹理和高级商业材质感，不要让微小纹理压过整体构图。
+
+始终遵循：先看到巨大材质关系，再看到主体细节。
+
+两侧主体可以形成轻微差异，例如一侧更深、更重、更硬朗，另一侧更浅、更柔和、更透光，避免完全镜像。在中央负空间中下部加入【核心主体】，主体状态使用【主体位置与状态】。主体可以是产品，也可以是人物，但不要把中央空间完全塞满，主体上方必须保留足够空气，让“夹缝构图”依然清楚成立。
+
+主体可以轻微越过中央负空间边界，与左右材质产生局部重叠或遮挡关系，让主体真正参与构图，而不是简单贴在中间。
+
+使用大型英文 Serif Typography：【英文标题】标题横跨左右材质与中央负空间。
+
+文字根据背景明暗自然切换深浅颜色：深色材质区域使用暖白或浅色文字，亮色裂隙区域使用深灰或深墨色文字。允许材质边缘或主体轻微遮挡部分字母，形成清楚的二维编辑层级，但保持整体可读。
+
+中央负空间内部加入较小的纵向中文标题【主题】或对应中文概念词。中文使用纤细、克制、具有东方骨架的现代宋体或高级出版字体，不使用巨大毛笔书法。
+
+加入品牌信息【品牌名】与产品名 / 系列名【产品名 / 系列名】，再搭配极少量辅助文案【辅助文案】。所有小字使用小字号散布在材质边缘或留白区域，不形成普通信息框，不加入无意义英文。
+
+整体配色使用【主色调】，保持低饱和、克制、真实、高级。画面应具有品牌 Campaign、时尚杂志、商业海报、产品视觉与 Editorial Design 气质。
+
+整体视觉公式：
+
+- 左右巨大材质
+- 中央纵向负空间
+- 中下部核心主体
+- 跨层大型 Typography
+- 大面积低信息区域
+
+最终效果必须让人在缩略图状态下依然首先看到“两侧巨大材质夹出一道明亮通道”，近看后才发现主体、材质细节、品牌信息与小型文字。
+
+避免：普通电商主图、主体居中塞满、复杂背景、满屏纹理、过多道具、强特效、水花火焰烟雾、促销信息、价格、二维码、复杂参数表、鲜艳配色、强 HDR、CGI 塑料感、3D Typography、无意义英文和过度装饰。
+
+四槽示例：Scent（丝绸与香水）/ Form（建筑与人物）/ Motion（材质与运动鞋）/ Hydration（水凝膜与精华）
+```
+
+  </details>
 
 - **夹缝构图海报四槽：石隙/冰隙/林隙/土隙** — 两侧巨材挤压、中间只留一道光隙——石隙/冰隙/林隙/土隙四槽把视线焊死中心。自然主题海报、文化展览、书封别只会堆满中央主体，先抄这套 Interval Composition 填空模板。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104555888657027393) · [评论区完整提示词](https://x.com/MrLarus/status/2104556440019190115)
   <details>
@@ -5359,6 +5416,29 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **角色设定四视图+大头 inset 参考表** — 一行四全身：FRONT / ¾ / SIDE / BACK，再单独放大头肩 inset、互不重叠。白棚 lookbook 转面一镜齐——锁脸锁比例锁服装，后面接视频或连镜更稳。完整女主/男主服装圣经见原帖。 [@Promptwhat](https://x.com/Promptwhat) · [原帖](https://x.com/Promptwhat/status/2104688571974316498) · [线程·whip-pan 视频附赠](https://x.com/Promptwhat/status/2104688558200271235)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Character reference sheet: FOUR full-body views in one row on a clean white studio background — FRONT, 3/4, SIDE PROFILE, BACK — plus a large, separate head-and-shoulders face inset. No inset overlapping the figures. Photograph as a high-end costume lookbook turnaround.
+
+【角色】：身份 / 年龄气质 / 身材比例（如八到九头身）
+【服装与材质】：主色、辅色、金属/织物/皮革细节与真实磨损
+【发型妆造】：与参考脸一致；各视图发辫结构可读
+【姿态】：冷中性站姿，双手空，体重均匀，下巴水平
+【一致性】：同一人、同一比例、同一服装与左右不对称配件，所有视图统一
+【打光】：洁净均匀约 5500K 棚光，白背景无投影
+【CLOSE-UP INSET】：大头肩特写；脸正对镜头；妆造与皮肤真实感（毛孔/细绒毛）可读；不复制参考图表情与机位
+
+Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark.
+
+生成：GPT Image 2.5
+说明：原帖含可直接复制的完整女主 / 男主服装长 prompt；此处为可复用结构槽。
+```
+
+  </details>
 
 - **娇嗔×事件×宋式美学×iPhone抓拍通用槽** — 微蹙眉、轻抿唇、带一点恼意的撒娇——焊死神态槽，只换【事件】就能连更：捏脸无法反驳、够不到对方、鸡腿被抢、东西被举高。宋式美学×iPhone抓拍，短剧感人像别再只写「可爱生气」。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104555242872545356)
   <details>
@@ -10648,6 +10728,20 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **丰子恺水墨漫画通用公式：主题×题诗落款×宣纸×深蓝印** — 把主题焊进丰子恺水墨漫画槽：题诗落款、宣纸肌理、左下深蓝篆印一套齐。换主题就能连更——平行世界里丰子恺先生画的，未必不是你的选题。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104746353473847659) · [同作者·宋徽宗审美超现实槽](https://x.com/DeepBlueX0/status/2100761021413802212)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+豐子愷水墨漫畫 × 【主題】 × 題詩落款 × 宣紙肌理 × 左下深藍色篆刻方印：「深藍」上、「DeepBlue」下
+
+生成：GPT Image 2.5
+
+填槽提示：只换【主題】即可连更；保持漫画线描疏密、留白与题跋气质，不要做成工笔重彩或现代插画风。
+```
+
+  </details>
 
 - **东方禅意极简壁纸「帘卷新晴」：结构化提示词** — 竹帘一卷，宝石蓝天空开窗，柠檬黄阳光几何投影——9:16 高明度低灰度，标题区留白写死。东方封面别只会堆「仙气」，先把主题/情绪/色彩/构图槽位焊牢再返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2104417507801199089)
   <details>
