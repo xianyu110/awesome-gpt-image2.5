@@ -6219,5 +6219,83 @@
         "url": "https://github.com/oakplank/gpt-image-bridge"
       }
     ]
+  },
+  {
+    "id": "2104913993869779322",
+    "title": "复古数码编辑海报：单主物体+单强调色+字体当主角",
+    "blurb": "CCD / MiniDisc / 磁带机 / 掌机——暖白底只放一个真实复古数码物件，再让超大标题和机身产生遮挡穿插。海报别堆霓虹赛博，先焊「一物一色一标题」再加技术微排版。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2104913993869779322",
+    "category": "海报排版",
+    "prompt": "Create a 9:16 retro-tech editorial poster.\n\nSubject: [DEVICE OR MEDIA]\nHeadline: [MAIN TITLE]\nSecondary copy: [SHORT TAGLINE]\nAccent color: [ONE COLOR]\n\nUse a clean warm off-white background with one realistic retro digital object as the main visual anchor. Combine 1990s–2000s technology-magazine aesthetics, Neo-Swiss editorial grids, industrial product manuals, and early-digital culture.\n\nMake the headline oversized and structural rather than simply placed above the product. Let the device, media, cable, tape, disc, cartridge, or flash interact physically with the typography through overlap, transparency, cropping, or foreground/background relationships.\n\nKeep the palette restrained: warm white, black, transparent gray or metallic tones, plus one strong accent color. Add meaningful technical information related to the subject, such as storage data, playback controls, exposure settings, save progress, audio tracks, timestamps, diagrams, small labels, grids, barcodes, and micro typography.\n\nBuild clear hierarchy: hero object first, bold typography second, graphic interaction third, technical details last. Keep the layout information-rich but organized, with intentional negative space and a precise editorial grid.\n\nUse realistic plastic, glass, metal, circuitry, screens, buttons, and mechanical details. Add only subtle print and scan texture. The technology can feel retro, but the poster itself should remain clean and contemporary.\n\nAvoid real brand logos, random filler text, heavy grunge, distressed typography, neon cyberpunk, excessive colors, futuristic HUD graphics, sparkle symbols, and generic ecommerce composition.\n\n四槽示例：FLASH MEMORY（CCD）/ MEMORY LOOP（MiniDisc）/ REWIND（磁带机）/ CONTINUE?（掌机）",
+    "extra_links": [
+      {
+        "label": "回复·完整填空 prompt",
+        "url": "https://x.com/MrLarus/status/2104914024039395627"
+      }
+    ]
+  },
+  {
+    "id": "2104908088168100180",
+    "title": "行车记录仪开场锁帧：可乐×曼妥思 DIRECTIVE",
+    "blurb": "国庆整活第一步：用 Image 2.5 焊死「用过的行车记录仪 JPEG」开场——广角挡风/A 柱/仪表盘边，再把静帧丢 Seedance。短视频爆点别从视频模型硬抠首帧，先让 2.5 锁透视和品牌可读。",
+    "author": "laobaishare",
+    "url": "https://x.com/laobaishare/status/2104908088168100180",
+    "category": "场景视觉",
+    "prompt": "DIRECTIVE:\n生成一帧真实的行车记录仪画面。广角挡风玻璃视角，能看到 A 柱和仪表板边缘——就是那种被用过的行车记录仪 JPEG，不是电影级，不是 HDR。\n\n构图：\n从挡风玻璃向前看。左侧道路（左车道或左肩）清晰入镜：两辆相靠的品牌货车。\n\n可口可乐货车（左侧，关键）：\n标准的可口可乐油罐车，官方红色车身和标志清晰可读。油罐有一个破损：箱壁有个破口，深褐色可乐从洞里猛烈喷射到沥青路面——液体很多，水坑扩散，泡沫飞溅，路面湿润闪亮。货车停着或缓慢爬行，应急状态。\n\n曼妥思货车（紧靠可乐车，关键）：\n就在可乐车旁边（同一个左侧群，略靠前或并排）：密闭厢式货车，车侧有大的、清晰的曼妥思品牌标识（曼妥思 logo 和糖果卷艺术）。后门和侧门已关闭。没有糖果溅出。你能清楚读出这是曼妥思车。\n\n摄像机角度：\n固定在挡风玻璃后的行车记录仪，略微广角，画面底部有仪表板或引擎盖，挡风玻璃有尘埃和反光，可选时间戳，白天道路，远处有其他车流。就是消费级行车记录仪的画面。\n\n光线：\n日光，阴天或晴天，真实的路面色调，可乐看起来是深色汽水而不是黑油。\n\n摄影质感：\n未经演员化的行车记录仪截图——物理上真实的货车，可读的品牌，泄漏是主要事件。\n\n用法：先用 GPT Image 2.5 按本 DIRECTIVE 锁开场静帧，再把该帧当参考丢进 Seedance 做后续动作长镜头。"
+  },
+  {
+    "id": "2104902227559108613",
+    "title": "纪念碑字母海报：WIND·TIDE·GROW·LIGHT 字意改物理",
+    "blurb": "把单词铸成数十米建筑级 3D 字体，再让字义真正改写场景——风吹织物、潮水破字、树穿字母、光穿开口投长影。排版实验别只会「字里贴风景」，先让 Typography 参与物理。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2104902227559108613",
+    "category": "海报排版",
+    "prompt": "Create a 9:16 vertical conceptual poster built around monumental architectural typography.\n\nWORD: [WIND / TIDE / GROW / LIGHT / your word]\nPHYSICAL EFFECT: [wind / water / plants / sunlight / other]\nMATERIAL: [stone / concrete / plaster / metal]\nENVIRONMENT: [coast / salt flat / forest / mountains / open landscape]\nACCENT COLOR: [optional]\n\nTurn the chosen word into a massive three-dimensional architectural structure, tens of meters tall, using bold modern sans-serif letterforms with realistic depth, inner walls, side surfaces, shadows, and physical scale.\n\nThe key idea is that the meaning of the word must physically affect the scene.\n\nDo not simply place a landscape inside the letters. Create a real interaction between typography and environment:\n\n• WIND: fabric or dust moves through the letters\n• TIDE: ocean water breaks through the type\n• GROW: trees and plants emerge through the letterforms\n• LIGHT: sunlight passes through the openings and casts long shadows\n\nThe physical element should move naturally through, around, behind, and in front of the typography with clear spatial relationships, realistic occlusion, believable lighting, shadows, reflections, and material interaction.\n\nUse a cinematic architectural-photography composition with strong depth and scale. Add one very small human figure for scale, integrated naturally into the scene.\n\nKeep the environment minimal and spacious so the typography remains the main visual anchor.\n\nUse realistic natural light, physically believable materials, restrained high-end color grading, and a surreal but photorealistic art direction.\n\nAdd a minimal editorial information system with:\n• a small title block\n• one short concept sentence\n• one vertical metadata line\n• one short signature phrase\n\nKeep all typography sparse and secondary to the main visual.\n\nNo numbering, no Vol., no logo, no watermark, no decorative UI, no star symbols, no excessive text.\n\nThe final image should feel like a finished contemporary art-direction poster, where the word itself changes the physics of the world.",
+    "extra_links": [
+      {
+        "label": "回复·完整参数化 prompt",
+        "url": "https://x.com/MrLarus/status/2104902276322394296"
+      }
+    ]
+  },
+  {
+    "id": "2104892466206052521",
+    "title": "商业 KV 巨物构图：产品变空间/景观填空模板",
+    "blurb": "手机屏幕走进去、钻戒变建筑、香水立云海、表盘成广场——先保证产品可信，再放大到建筑级并让结构自然转化成空间。新品发布/奢侈品 KV/户外大屏，别只会棚拍放大。",
+    "author": "MrLarus",
+    "url": "https://x.com/MrLarus/status/2104892466206052521",
+    "category": "海报排版",
+    "prompt": "【品牌】：{填写}\n【产品】：{填写}\n【英文标题】：{填写}\n【中文标题】：{填写}\n【产品核心结构】：{填写}\n【空间转化方式】：{填写}\n【场景】：{填写}\n【微型人物】：{填写}\n【主色】：{填写}\n【强调色】：{填写}\n【比例】：{默认 9:16}\n\n生成一张高端商业 Editorial Campaign 海报。\n\n先确保【产品】具有真实、可信、可上市的产品设计，再将其放大到建筑级尺度，并让【产品核心结构】自然转化为【空间转化方式】，使产品自身真正成为建筑、景观或空间的一部分，而不是简单悬浮的大型物体。\n\n在【场景】中加入极小的【微型人物】强化尺度，通过道路、倒影、云雾、玻璃、建筑、地形或人物互动，让产品与环境产生真实空间关系。\n\n顶部使用超大英文【英文标题】，左下加入大型中文【中文标题】，让 Typography 与产品和环境产生遮挡、穿插和前后关系。\n\n加入一个第二层视觉发现，例如产品内部藏着世界、产品结构变成建筑、材质产生空间折射、倒影补全形态、人物穿过产品或产品部件延伸进入现实空间。\n\n整体采用【主色】作为环境大色域，【强调色】集中在产品或关键视觉结构，保持高级品牌 Campaign、杂志 Editorial、户外 KV 和商业提案质感。\n\n避免普通产品棚拍、电商广告、单纯巨大化、赛博朋克、复杂 UI、假参数、假 Logo、乱码、编号和廉价 CG 光效。\n\n四槽示例：越界而见（手机屏幕→可走进的世界）/ 恒久之环（钻戒→通往山水的建筑）/ 雾境留香（香水立于云海，瓶中藏湖）/ 时间入境（巨大表盘成广场，秒针延伸成桥）",
+    "extra_links": [
+      {
+        "label": "回复·完整填空 prompt",
+        "url": "https://x.com/MrLarus/status/2104893070563332543"
+      }
+    ]
+  },
+  {
+    "id": "2104882223187218503",
+    "title": "角色参照→双格「笔记本屏幕伸手牵你」完整 prompt",
+    "blurb": "任意角色参考图焊进双格 3:4：上惊下笑，角色从笔记本屏幕伸出手牵住第一人称的手。破第四面墙别靠玄学姿势，先锁角色细节再统一桌面世界观。",
+    "author": "Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2104882223187218503",
+    "category": "人像角色",
+    "prompt": "Use my uploaded image as the sole character reference. Create a two-panel image of the character reaching out of a laptop screen and gently holding my hand in the real world.\n\nCHARACTER ACCURACY\nFaithfully preserve the character’s hairstyle, hair color, eyes, facial features, accessories, outfit, and signature details. Pay particular attention to which eye is covered by the bangs and the placement of accessories. Maintain the character’s original art style and personality, with a complete outfit and natural proportions.\n\nCOMPOSITION\nCreate a portrait image with a 3:4 aspect ratio, divided into two equally sized horizontal panels stacked vertically.\nUse a first-person perspective from someone seated at a desk. An open laptop sits in the center, with its keyboard and the desktop clearly visible.\nThe character’s head, shoulders, and one arm emerge through the laptop screen, while the rest of their body remains inside the screen, creating a convincing “breaking the fourth wall” illusion.\nOne realistic human hand enters from the lower-right foreground and gently holds the character’s extended hand. The character’s other hand rests naturally on the lower edge of the screen.\nMake the character’s face the main focal point, with the joined hands creating natural foreground depth and foreshortening.\n\nTWO-PANEL EXPRESSION CHANGE\nTop panel: The character looks toward the viewer with a slightly surprised or curious expression. Add a small hand-drawn exclamation mark beside their head.\nBottom panel: Keep the same camera angle and hand-holding pose, but change the expression to a happy smile that suits the character’s personality. Add a small hand-drawn heart.\nKeep the character design, background, object placement, and lighting consistent across both panels. The main change should be the facial expression.\n\nCHARACTER-MATCHED ENVIRONMENT\nDesign the room, furniture, desktop, and decorations to suit the character’s fictional world, identity, outfit, and signature colors.\nGive the setting a clear connection to the character. Do not reuse a generic room or a fixed set of props for every character. Do not add ceramic jars, vases, or tea sets by default.\nPlace a small figurine of the same character on the left side of the laptop, matching their current appearance.\nKeep other props minimal, relevant, and secondary to the character.\nRetain the laptop as the visual bridge between the real world and the character’s world.\n\nVISUAL STYLE\nPreserve the character’s illustrated style, while rendering the room, laptop, desk, and viewer’s hand with realistic photographic textures.\nUnify the two styles through consistent lighting, contact shadows, and perspective.\nUse refined detail, soft lighting, subtle background blur, and a warm atmosphere with natural, gentle interaction.\n\nQUALITY REQUIREMENTS\nAnatomically coherent hands, correct finger counts, and clearly readable hand contact.\nNo extra limbs, unintended duplicate characters, misplaced accessories, text, captions, brand logos, or watermarks.",
+    "extra_links": [
+      {
+        "label": "线程·完整 prompt 回复",
+        "url": "https://x.com/Mayz1169/status/2104882325133959363"
+      }
+    ]
+  },
+  {
+    "id": "2104879575096537148",
+    "title": "极简汽车 editorial 海报：3:4 红底巨字侧影",
+    "blurb": "竖版 3:4、血红棚景、车身挡住超大白字品牌名——干净侧影 + 赛车涂装细节一次焊死。汽车 Campaign 别堆公路风景，先让负空间和 Typography 分层。",
+    "author": "harboriis",
+    "url": "https://x.com/harboriis/status/2104879575096537148",
+    "category": "海报排版",
+    "prompt": "Create a premium minimalist automotive editorial poster in a vertical 3:4 composition.\n\nA classic boxy red rally racing sedan is shown in a clean full side profile, centered horizontally across the lower-middle portion of the frame. The car has a low, wide racing stance, box-shaped vintage body, glossy deep red paint, black wide fender extensions, black multi-spoke racing wheels, low-profile tires, front racing bumper, auxiliary round headlights, side exhaust details, roll cage visible through the windows, racing bucket seats, and a large black rear racing spoiler.\n\nThe car should look like a professionally prepared vintage touring or rally race car, with realistic mechanical details, sharp body lines, subtle reflections, realistic rubber and metal textures, and high-end studio lighting.\n\nThe car features a white and black geometric racing livery across the doors and lower body. Include a bold black racing number/logo style graphic on the door, with small technical racing text and decals. Keep the graphics clean, symmetrical, and authentic to motorsport design.\n\nBackground: a completely flat, intense crimson-red studio backdrop with a subtle tonal gradient and very soft floor transition. Behind the car, place enormous bold condensed uppercase white typography reading “RENAULT”, positioned vertically centered in the upper and middle background. The typography should be partially hidden by the car, creating a strong layered poster composition. Use a heavy condensed sans-serif racing/editorial font.\n\nComposition:\n• Vertical 3:4 poster\n• Large empty red negative space above the car\n• Huge “RENAULT” text occupying most of the background width\n• Car centered around the lower-middle section\n• Full vehicle visible from front bumper to rear spoiler\n• Perfect clean side profile\n• Minimal visual clutter\n• Strong horizontal balance\n• Premium automotive advertising aesthetic\n\nLighting: soft controlled studio lighting from above and slightly from the front, producing realistic highlights along the red bodywork and subtle shadows underneath the vehicle. Add a soft contact shadow beneath the tires without making the scene dramatic.\n\nStyle: high-end automotive campaign photography, minimalist Swiss-inspired editorial poster design, vintage motorsport aesthetic, modern luxury advertising, photorealistic vehicle rendering, extremely clean composition, sharp details, realistic materials, subtle film grain.\n\nColor palette: intense crimson red background, bright white typography and livery, deep black wheels and aerodynamic parts, small neutral gray mechanical details.\n\nNo people, no road, no city, no scenery, no extra vehicles, no unnecessary objects, no excessive reflections, no distorted wheels, no perspective distortion, no cropped car, no messy typography.\n\nUltra-realistic, crisp, professional automotive photography, high detail, 8K quality."
   }
 ]
