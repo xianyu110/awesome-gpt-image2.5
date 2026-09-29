@@ -6147,5 +6147,77 @@
         "url": "https://x.com/MrLarus/status/2104555888657027393"
       }
     ]
+  },
+  {
+    "id": "2104799948072161492",
+    "title": "照片/水墨上下对开：Split-Frame Ink Wash 完整配方",
+    "blurb": "3:4 严格对半分：上半保留写真身份与材质，下半用极简水墨重构同景——只留轮廓气韵，大面积留白像展览页印章。东方审美对照海报，直接抄长 prompt。",
+    "author": "harboriis",
+    "url": "https://x.com/harboriis/status/2104799948072161492",
+    "category": "场景视觉",
+    "prompt": "Split-Frame Ink Wash Reconstruction\n3:4 vertical composition · photo / ink wash split · contemporary Eastern aesthetic\nThe image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.\nUpper Region — Original Photo Shoot Area\nPreserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.\nLower Region — Minimalist Ink Wash Reconstruction Area\nFirst, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.\nThe overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.\nThe most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.\nThe main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%–45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.\nText Treatment\nText is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.\nOverall Presentation\nContemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition.\n\n生成：GPT Image 2.5 / ChatGPT Images 2.5"
+  },
+  {
+    "id": "2104812309973807536",
+    "title": "便利贴 Rough Sketch→Image 2.5→Seedance",
+    "blurb": "便利贴草图钉站位，Image 2.5 补角色细节出静帧，再直送 Seedance 2.5。Sketch 控形→成片→短视频一条链，别一口吃视频模型。",
+    "author": "creo14",
+    "url": "https://x.com/creo14/status/2104812309973807536",
+    "category": "Sketch",
+    "prompt": "【Rough Sketch → GPT Image 2.5 → Seedance 2.5】\n1. 便利贴 / 纸面 Rough Sketch：画清人物站位、轮廓与道具关系（不必精美）\n2. GPT Image 2.5：上传草图 + 补充角色细节 prompt，出成片静帧\n3. Seedance 2.5：把成片推进短视频\n\n定位：Sketch 控形先于文生；视频是后半段，别跳过静帧验收。\n生成：GPT Image 2.5（成片）→ Seedance 2.5（动效）"
+  },
+  {
+    "id": "2104809890086891806",
+    "title": "咖啡吧三态：草图+渲染+爆炸图→Seedance",
+    "blurb": "同题三连：sketch / 写实渲染 / 爆炸拆解，再交给 Seedance 串动画。产品/空间概念演示别只会甩一张效果图——三态同题才像真 wireflow。",
+    "author": "AndyAI_",
+    "url": "https://x.com/AndyAI_/status/2104809890086891806",
+    "category": "Sketch",
+    "prompt": "【咖啡吧：草图 → 渲染 → 爆炸图 → Seedance】\n1. GPT Image 2.5 同题三连：sketch / photoreal render / exploded diagram\n2. Seedance 2.5 把草图→渲染→爆炸图串成一段动画\n3. 一条 wireflow 跑通端到端（出图与成片同会话或同资产管线）\n\n定位：产品/空间概念演示别只会单帧效果图——草图、成片、拆解三态同题，再交给视频模型做转场。\n生成：GPT Image 2.5 × Seedance 2.5"
+  },
+  {
+    "id": "2104770441156137177",
+    "title": "六人集合缩略图：百分比分区构图配方",
+    "blurb": "先出单人参考，再按百分比焊死四区（例：左上侧脸 60%高×55%宽）。多人缩略图/海报别靠玄学站位——用区域百分比把重叠与主次写死。",
+    "author": "Kurohachi05",
+    "url": "https://x.com/Kurohachi05/status/2104770441156137177",
+    "category": "海报排版",
+    "prompt": "A masterpiece. Top quality. A group portrait of six people. Set in the world of a fictional medieval court drama. The background features red and yellow as the primary colors. Blur the boundaries or disguise them with lines and patterns. Do not include text, but frame the image with a thin border to give it a poster-like look. Composition: Top left: A close-up of the woman’s profile from Reference Image 1. It occupies approximately 60% of the total height and 55% of the total width of the frame. Bottom left: The two men standing side by side from Reference Image 2. They occupy approximately 40% of the total height and 45% of the total width of the frame. Bottom right: The woman holding a book from Reference Image 4. She occupies approximately 55% of the total height and 55% of the total width of the frame. Top right: Reference Image 3 shows two people standing side by side. They are depicted slightly closer to the viewer than the two men in the bottom left. They occupy approximately 45% of the total height and 45% of the total width of the frame.\n\n生成：GPT Image 2.5\n用法：先分别生成各人参考图，再按百分比分区合成缩略图/集合海报；区域百分比可按人数改槽。",
+    "extra_links": [
+      {
+        "label": "前帖·六人分镜参考",
+        "url": "https://x.com/Kurohachi05/status/2104498629763637411"
+      }
+    ]
+  },
+  {
+    "id": "2104780966288068988",
+    "title": "脸锁棚拍时尚：黄墨镜×黑西装完整 prompt",
+    "blurb": "严格 identity lock：脸骨/不对称/肤色一条都不能美颜。芥末黄无缝棚景 + 透明黄墨镜 + 85mm，UGC/时尚写真锁脸可直接抄。",
+    "author": "TheVirtualMuse",
+    "url": "https://x.com/TheVirtualMuse/status/2104780966288068988",
+    "category": "人像角色",
+    "prompt": "Create a high-fashion professional studio portrait of the woman from my reference image. Strict identity lock: preserve her exact face, facial structure, eyes, nose, lips, skin tone, natural asymmetry, and overall identity. Do not beautify, reshape, or change her facial features.\n\nFrame her in a tight chest-up portrait, facing the camera with her head slightly tilted back and chin subtly raised. Expression calm, serious, confident and effortlessly stylish. Give her long, straight, glossy dark hair, naturally flowing around her shoulders with a gentle studio-fan effect.\n\nShe is wearing oversized transparent yellow rectangular sunglasses with warm amber/yellow lenses, with her eyes naturally visible through the lenses. Keep the glasses clean with minimal reflections. Outfit should be modest and sophisticated: a premium structured black blazer over a fully covering black top with a normal neckline — no cleavage, no revealing clothing. Add a very delicate gold necklace with a tiny pendant and minimal stud earrings.\n\nMakeup should remain elegant and realistic: naturally defined brows, subtle black eyeliner, long lashes, soft warm blush, realistic skin texture and muted terracotta/nude lips. No excessive makeup, no plastic skin, no beauty-filter effect.\n\nBackground: completely seamless vibrant mustard-yellow / golden-orange studio backdrop, smooth and evenly saturated. Use professional beauty-editorial lighting with a large softbox/beauty dish slightly above and in front of her, producing soft dimensional shadows, natural catchlights and beautiful separation between her dark hair and the yellow background.\n\nCamera: professional full-frame camera, 85mm portrait lens, f/2.0–f/2.8, ISO 100, 1/200s. Focus locked precisely on the eyes and glasses, flattering natural lens compression, shallow depth of field, no wide-angle distortion.\n\nIMAGE QUALITY: ultra-photorealistic 8K editorial photography, true human skin pores and micro-texture, individual hair strands, realistic fabric texture, natural optical softness, subtle organic film grain, high dynamic range, premium fashion-magazine color grading. 100% real human appearance — absolutely no AI look, CGI, illustration, excessive sharpening, waxy skin or artificial facial perfection.\n\n生成：GPT Image 2.5 / ChatGPT Images 2.5\n用法：上传参考脸；可换墨镜色/西装色/背景色，脸锁条款别删。",
+    "extra_links": [
+      {
+        "label": "同作者·完整 prompt 原帖",
+        "url": "https://x.com/TheVirtualMuse/status/2104436331413995857"
+      }
+    ]
+  },
+  {
+    "id": "2104773586930319383",
+    "title": "gpt-image-bridge：Claude/Cursor→Codex→Image 2.5",
+    "blurb": "Claude Code 不会原生出图？经 Codex CLI 走 ChatGPT 订阅打 Image 2.5，免单独 API 按张费。把 repo 丢给 Agent 自装——写代码和出营销图焊同一会话。",
+    "author": "jacobbranch_",
+    "url": "https://x.com/jacobbranch_/status/2104773586930319383",
+    "category": "UX产品",
+    "prompt": "【Claude Code / Cursor → Codex CLI → GPT Image 2.5】\n- 仓库：https://github.com/oakplank/gpt-image-bridge\n- 走 ChatGPT 订阅，不需单独 Image API Key / 按张计费\n- 把 repo 丢给 Agent，按 README 自装 skill 后即可在 Claude Code 里出 Image 2.5\n\n定位：Claude 不会原生出图时的桥接层；一人团队把写代码和出营销图焊在同一会话。",
+    "extra_links": [
+      {
+        "label": "GitHub·oakplank/gpt-image-bridge",
+        "url": "https://github.com/oakplank/gpt-image-bridge"
+      }
+    ]
   }
 ]
