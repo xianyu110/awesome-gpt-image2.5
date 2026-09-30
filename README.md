@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-30 · **收录 721 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-30 · **收录 727 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,37 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Images 2.5 去 AI 味 5 步：LP/缩略图/商品图通用** — 白平衡 5500K → 50mm F1.8 景深 → 右三分之一留白 → 白底插画 → 柔影降饱和。AI 味不是玄学，是色偏+塑料皮+居中构图——LP/缩略图/商品图直接抄这五句。 [@wad0427](https://x.com/wad0427) · [原帖](https://x.com/wad0427/status/2105131771226415239) · [线程·①色かぶり](https://x.com/wad0427/status/2105131771557744965) · [线程·⑤仕上げ](https://x.com/wad0427/status/2105131772543439356)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【ChatGPT Images 2.5 去 AI 味 · 5 步配方】
+适用：LP・缩略图・幻灯片・商品图
+
+① 色かぶりを消す
+「ホワイトバランスを5500Kに合わせて、色かぶりを取った自然な色で仕上げて」
+→ 黄ばみや青っぽさが抜けて、目で見た色に戻る
+
+② のっぺり感を消す
+「50mmレンズ・F1.8で撮った写真として、背景をやわらかくぼかして高解像度で出して」
+→ 質感と奥行きが出て、一眼で撮ったような1枚になる
+
+③ サムネ用の構図にする
+「主役は画面の右3分の1に寄せて、左側に文字を置ける余白を広く空けて」
+→ タイトルを乗せてもごちゃつかないアイキャッチに化ける
+
+④ スライドの挿絵にする
+「背景は白1色、小物と文字はナシで、主役だけをシンプルに描いて」
+→ どのスライドに貼っても浮かない挿絵になる
+
+⑤ 最後の仕上げ
+「いらない物は消して、影はふんわり、彩度は少しだけ控えめにして」
+→ AI特有のギラギラ感が抜けて、落ち着いた仕上がりになる
+```
+
+  </details>
 
 - **一行提示词风格阶梯：90年代动画→现代/3DCG/写实** — Suzuka 用同一画角跑四档：先做 90 年代动画劣化元绘，再超分现代动画、3DCG、照片级——一行换档位。选型评测别只会嘴炮「哪个更强」，先把画角焊死再比风格阶梯。 [@SuzukaBike](https://x.com/SuzukaBike) · [原帖](https://x.com/SuzukaBike/status/2104487587021041696) · [相关前帖](https://x.com/SuzukaBike/status/2098019922848907581)
   <details>
@@ -1218,6 +1249,70 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **东方禅意秋日封面「接住秋天」：主题到光线全槽位** — 古风女子接银杏叶——主题/风格/主体/情绪/场景/构图/色彩/光线一次写死，9:16 大留白封面位。秋日种草封面别只会堆落叶，先抄这套东方禅意结构化配方。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2105172484677091829)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+主题方向： 东方禅意极简秋日封面海报
+风格分支： 女性审美明亮秋日型
+主体内容： 一位古风女子缓慢经过一面明亮白墙，抬起一只手轻轻接住从树梢飘落的一片银杏叶
+情绪母题： 清朗、从容、治愈、秋日明媚感
+场景与意象： 奶油白墙面、金黄色银杏枝叶、少量橙红秋柿、飘落银杏叶、女子、清晰树影
+构图与空间： 9:16 竖版，白墙占画面约三分之二作为主要负空间，人物位于下方偏左，秋枝从右上方斜向进入，巨大树影铺展在右侧墙面，左上方保留完整标题区
+色彩控制： 奶油白作为高明度墙面与空间基底，银杏金黄用于主要秋叶，少量柿子橙红作为第二视觉点，人物服装保持浅米白与珍珠白，树影使用自然中性灰；避免整图土黄化、橙化或套暖色滤镜
+光线与质感： 晴朗秋日下午侧光，明亮通透，树影轮廓清晰，墙面保留细腻浅纸感与自然纹理，边缘干净，不使用雾化和旧纸颗粒
+画幅比例： 9:16
+补充要求： 秋叶数量克制，枝头柿子只保留少量点睛；人物比例自然纤细、姿态轻盈，手掌向上自然接叶；整体高明度、鲜活而不俗，保留大面积呼吸感与女性向高传播封面感；留白处可配置东方书法标题与少量现代宋体小字
+```
+
+  </details>
+
+- **Noble-beige 秋日 editorial：国家/地点/主题可替换槽** — 4:5 暖象牙负空间 × gouache quiet-luxury，槽位填 [COUNTRY/LOCATION/SUBJECT] 就能出一整页艺术书级秋日 editorial。秋日营销别只会砸橙红滤镜，先锁米色贵气。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2105170431577870682)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Create a premium 4:5 vertical noble-beige autumn editorial artwork for [COUNTRY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / LOCATION / SUBJECT] alone. No reference image required.
+
+CORE CONCEPT
+Create a small, intimate autumn moment surrounded by generous warm ivory negative space, as if a precious fragment of an autumn memory has been painted onto a luxury art-book page. Automatically determine the most fitting human figure, setting, foliage, atmosphere, and seasonal details associated with [COUNTRY / LOCATION / SUBJECT].
+
+SUBJECT & WARDROBE
+Place one elegant human figure within the scene, wearing understated Italian quiet-luxury autumn clothing: soft cashmere, fine wool, brushed suede, or refined natural fabrics with relaxed tailoring.
+
+Use a sophisticated tonal wardrobe of ivory, cream, oatmeal, sand, camel, cappuccino, taupe, and soft greige. Keep the styling effortless, timeless, minimal, and free of visible branding or logos.
+
+ARTISTIC STYLE
+Render the scene as delicate soft gouache and sophisticated dry-brush painting with subtle handmade texture, translucent tonal transitions, softly unfinished edges, and gentle color fading into the surrounding ivory paper.
+
+Keep the human figure more refined and visually defined than the surrounding painterly environment, while maintaining a natural, understated appearance.
+
+COLOR PALETTE
+Build the entire artwork around noble beige and warm neutral tones: warm ivory, ecru, parchment, cashmere beige, oatmeal, sand, biscuit, light camel, mushroom, greige, and warm taupe.
+
+Use only restrained accents of muted chocolate, dusty olive, or softly browned foliage. Avoid strong orange, red, yellow, or rustic autumn colors.
+
+AUTUMN DETAILS
+Add only a few delicate autumn leaves and understated foliage. Let several pale beige or muted ochre leaves subtly extend beyond the painted scene into the surrounding negative space.
+
+LIGHTING
+Use soft diffused creamy light with a slightly luminous quality, gentle contrast, and no harsh shadows. Emphasize tactile natural fabrics, quiet atmosphere, and sophisticated tonal harmony.
+
+FINAL AESTHETIC
+Luxury art-book page × noble beige autumn painting × soft gouache × Italian quiet luxury × cashmere-like tonal harmony × minimalist editorial composition.
+
+The result should feel serene, intimate, expensive, tactile, collectible, and timeless.
+
+Avoid photorealism, saturated autumn colors, rustic styling, excessive foliage, harsh contrast, heavy shadows, excessive accessories, busy backgrounds, collage layouts, hard frames, logos, text, watermarks, or artificial 3D rendering.
+
+FORMAT: 4:5 vertical, generous warm-ivory negative space, refined minimalist composition.
+```
+
+  </details>
 
 - **复古数码编辑海报：单主物体+单强调色+字体当主角** — CCD / MiniDisc / 磁带机 / 掌机——暖白底只放一个真实复古数码物件，再让超大标题和机身产生遮挡穿插。海报别堆霓虹赛博，先焊「一物一色一标题」再加技术微排版。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104913993869779322) · [回复·完整填空 prompt](https://x.com/MrLarus/status/2104914024039395627)
   <details>
@@ -5612,6 +5707,111 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 ## 人像角色
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
+
+- **拍立得立体贴纸 + Copic 乱涂：上传照片一秒平成风** — 上传真人照片→4:5 拍立得框 + Copic/荧光笔乱涂 + 树脂立体动物/气泡贴纸。UGC 回忆杀别只加滤镜，先把「手账本乱涂」焊进 prompt。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2105116111515865191) · [线程·ChatGPT share prompt](https://x.com/kabumira862571/status/2105116119241744424) · [ChatGPT share](https://chatgpt.com/s/p_6abc6c2200648191bf5b411416c80568)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+ユーザーが提供した写真をベースに編集してください。
+
+【基本方針】
+・元写真の人物、顔立ち、髪型、体型、ポーズ、背景、構図はできるだけ維持する
+・人物の顔や髪を不自然に変形させない
+・手足や身体のつながりを自然に保ち、解剖学的に違和感のない姿勢にする
+・写真そのものはリアルな質感を維持する
+・全体を「昔の思い出写真をあとから可愛くデコレーションした」ような雰囲気にする
+・仕上がりは縦長4:5
+
+【写真表現】
+写真全体を、少し使い込まれたポラロイド写真風にする。
+白い太めのポラロイドフレームを付け、紙のわずかな擦れ、角の傷み、淡い経年感を加える。
+ただし人物の顔は鮮明で、自然な写真らしさを残す。
+
+【イタズラ書き】
+写真の上から、コピック・油性カラーマーカー・蛍光ペンで自由にイタズラ書きされた表現を加える。
+デザインや配置はお任せ。
+
+落書きは単色ではなく、以下のような明るくカラフルな色を混ぜる：
+・ピンク
+・マゼンタ
+・水色
+・ブルー
+・ミントグリーン
+・黄色
+・オレンジ
+・紫
+
+服の部分には、元の服がかなり見えにくくなる程度まで、複数色のマーカー線を重ねて大胆に塗りつぶす。
+完全なベタ塗りではなく、手描き感のあるラフな往復線、色の重なり、線の濃淡を残す。
+顔、目、口、髪は塗りつぶさない。
+
+写真の余白や背景には自由に、
+・ハート
+・星
+・キラキラ
+・リボン
+・王冠
+・波線
+・スマイル
+・小さな花
+・矢印
+などの手描き落書きを散らす。
+
+【立体シール】
+吹き出しや動物モチーフは、平面的なイラストではなく、
+「ぷっくりした透明樹脂・エポキシ・ジェル・ビニール製の立体シール」
+として表現する。
+
+シールには、
+・強いツヤ
+・丸み
+・厚み
+・透明感
+・表面のハイライト
+・縁のわずかな影
+・写真表面から少し浮いて見える立体感
+を与える。
+
+動物シールは、かわいいデフォルメ調で、
+・うさぎ
+・くま
+・ねこ
+・ひよこ
+などから適宜選んで配置する。
+動物の種類や位置はお任せ。
+
+【吹き出し】
+吹き出しも立体的なぷっくりシールにする。
+文字は可愛い日本語の短い言葉を自然に選んでよい。
+
+例：
+「かわいい♡」
+「だいすき！」
+「キラキラ☆」
+「るんるん♪」
+「LOVE♡」
+「最高！」
+
+文字は手書き風で、ピンク、紫、水色などを中心にする。
+文字化け、不自然な日本語、崩れた文字は避ける。
+吹き出しは人物の顔を隠さない位置に配置する。
+
+【全体の雰囲気】
+・平成〜2000年代のプリクラ帳
+・スクラップブック
+・手作りアルバム
+・友達が写真に落書きしたような思い出感
+・ポップで可愛い
+・カラフル
+・少しレトロ
+・でも写真本体はリアル
+
+装飾は多めでもよいが、人物の顔が主役としてしっかり見えるようにする。
+最終的には「実物のポラロイド写真に、本物のカラーマーカーで落書きし、立体シールを貼り付けた」ように見える完成度にしてください。
+```
+
+  </details>
 
 - **棚拍宣材写真：上传本人→3:4 写真馆级（可延伸证明写真）** — 把本人照片喂给 Image 2.5，按写真馆棚拍配方出竖版 3:4 宣材——软光、妆发、姿态、商业级修图一次写死。风险自负，但同原理也能做证明写真；别再拿日常自拍硬充主页头图。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2105055019984662874) · [线程·完整 prompt 回复](https://x.com/1banana2546/status/2105055021029036329)
   <details>
@@ -11099,6 +11299,31 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **国庆黄金周 Emoji 人海：地点槽位×立体表情脸** — 身体真人、脸焊立体 Emoji，超高密度人潮 × iPhone 抓拍 × 9:16——把【地点】换进槽位就能云体验黄金周。禁贴纸贴图；bug 多？多开几次盲盒就对了。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2105169318598365366)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+国庆黄金周 × 【地点】 × 😆😂😱😵‍💫🥵😩😎🤩😴🤪🥳😤🤔😭😮‍💨 × 超高密度立体 Emoji 式人脸人海 × iPhone抓拍
+
+说明：
+国庆黄金周真实现场，超高密度人潮，前中远景均被人群填满。人群身体、四肢、手部、服装、发型与动作保持真实人类形态，只有脸部呈立体 Emoji 式表情，与真人头部自然融合；表情随机重复、密集分布，人物自然遮挡、出框，近大远小。禁止 Emoji 贴纸、平面贴图、悬浮 Emoji、独立黄色圆脸、普通真人脸大量混入，9:16竖版。
+```
+
+  </details>
+
+- **Tiny Planet 地标通用配方：360°全景焊成小行星** — 360°全景 × 真实地球环绕 × 行星尺度放大——把【城市地标】塞进槽位就能出 Tiny Planet；人、动物、植物同理。地标种草别只会平视明信片，先抄这条「焊成小行星」。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2105120341731520891)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Tiny Planet 360°全景× 唯一真实地球实景环绕 × 行星尺度放大真实【城市地标】
+
+（把【城市地标】换成埃菲尔铁塔 / 上海外滩 / 富士山等；人也、动物、植物同样能焊成小行星。）
+```
+
+  </details>
 
 - **Image 2.5→Blender 超跑管线：一句话改图到可玩 3D drop** — Image 2.5 五变体概念车（$0.34/25s）→ 一句话改图定方向 → Opus 蓝图测轮廓写 Blender Python，两小时五车上浏览器拆除赛。可玩 demo + 免费 3D；概念到资产别只停在美图，先抄这条「出图→建模→随机掉落」。 [@drcollect](https://x.com/drcollect) · [原帖](https://x.com/drcollect/status/2104941866487525859) · [可玩 demo / 3D](https://drcollect.github.io/collect-cars)
   <details>
