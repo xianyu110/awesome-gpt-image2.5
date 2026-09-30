@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-30 · **收录 727 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-30 · **收录 729 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -346,7 +346,7 @@ camera/device: iPhone
 
 - **懒提示词 vs 魂提示词：同题差一个档位** — 同一美女题，糊弄 prompt 与写满细节，2.5 观感差到像两个模型。原帖可复制对照——别怪模型，先怪自己偷懒。 [@nezukichii](https://x.com/nezukichii) · [原帖](https://x.com/nezukichii/status/2102374351370952809)
 
-- **100 画风 STYLE ATLAS：全 Image 2.5 可复制** — 别再说 ChatGPT 动漫脸千篇一律——100 种画风对照站，站内全文公开 prompt。选型、找风格、抄作业一条龙；高级玩家也能挖冷门笔触。 [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [原帖](https://x.com/SSSS_CRYPTOMAN/status/2102346384531972197)
+- **100 画风 STYLE ATLAS：全 Image 2.5 可复制** — 别再说 ChatGPT 动漫脸千篇一律——100 种画风对照站，站内全文公开 prompt。选型、找风格、抄作业一条龙；高级玩家也能挖冷门笔触。 [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [原帖](https://x.com/SSSS_CRYPTOMAN/status/2102346384531972197) · [prompt](https://style-atlas-100.sssscryptoman.chatgpt.site/)
 
 - **参考图当硬 harness：别啥都塞进参照** — 2.5 对参考图追从变强——旧图会连画风癖一起拽。文字说不清的结构（如服装剪裁）才上参考；要引擎力就敢把参照拿掉。 [@ramdls](https://x.com/ramdls) · [原帖](https://x.com/ramdls/status/2102341813340352832)
 
@@ -478,7 +478,7 @@ n=4などで一度に複数枚を生成する時、
 
   </details>
 
-- **中文提示词骨架：在哪 / 是谁 / 光怎么走 / 不要什么** — 四问拆开写，比堆形容词稳。小海豚笔记长文把 Image 2.5 中文写法收成框架——入门少翻车，先问限制再问美。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2100858084629626948)
+- **中文提示词骨架：在哪 / 是谁 / 光怎么走 / 不要什么** — 四问拆开写，比堆形容词稳。小海豚笔记长文把 Image 2.5 中文写法收成框架——入门少翻车，先问限制再问美。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2100858084629626948) · [prompt](https://x.com/i/article/2100855552205377536)
 
 - **Grok vs ChatGPT Images 2.5：同 prompt 高定浴室过肩镜头** — 同一段高定浴室过肩 hero prompt，左右对照 Grok 与 ChatGPT Images 2.5。硬刚选型别靠感觉，同题同光位最狠。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2100827087326076976)
   <details>
@@ -636,7 +636,7 @@ FORBIDDEN   a blur gradient that is a function of IMAGE HEIGHT rather than of di
 
   </details>
 
-- **GPT Image 2.5 使用手册：模型·参数·提示词** — 苏乐长文把型号、参数与提示词一次摊开。接客户或写自家 playbook 当速查表，比刷碎片帖靠谱。 [@ai_suxiaole](https://x.com/ai_suxiaole) · [原帖](https://x.com/ai_suxiaole/status/2100131000055390470)
+- **GPT Image 2.5 使用手册：模型·参数·提示词** — 苏乐长文把型号、参数与提示词一次摊开。接客户或写自家 playbook 当速查表，比刷碎片帖靠谱。 [@ai_suxiaole](https://x.com/ai_suxiaole) · [原帖](https://x.com/ai_suxiaole/status/2100131000055390470) · [prompt](https://x.com/i/article/2100107397507477504)
 
 - **Image2 vs Sunburst：光与发丝并排打脸** — KAWARIMI 同场景：1 张 Image 2、2 张 Sunburst。光更满、头发会「晃」，也更夸张——角色一致性选型别只看干净。 [@eightbeat8b](https://x.com/eightbeat8b) · [原帖](https://x.com/eightbeat8b/status/2100110852984823931)
 
@@ -650,7 +650,7 @@ FORBIDDEN   a blur gradient that is a function of IMAGE HEIGHT rather than of di
 
 - **Flare 4K Max vs Neo Banana Pro：同题硬刚** — 左 Google Neo Banana Pro 4K、右 GPT Image 2.5 Flare 4K Max。跨厂旗舰选型甩图就行。 [@leploutos](https://x.com/leploutos) · [原帖](https://x.com/leploutos/status/2099865822231711948)
 
-- **物体删除烤炉：Sunburst vs Nano Banana 2** — 同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。 [@danywach](https://x.com/danywach) · [原帖](https://x.com/danywach/status/2099845477885714780)
+- **物体删除烤炉：Sunburst vs Nano Banana 2** — 同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。 [@danywach](https://x.com/danywach) · [原帖](https://x.com/danywach/status/2099845477885714780) · [prompt](https://nanostudiopro.com/blog/nano-banana-2-vs-gpt-image-2-5-object-removal)
 
 - **Flare 赶量测稿 / Sunburst 出片：同模两档** — 一句话说清选型：Flare 管产品试错与粗视觉，Sunburst 管光影材质与可交货成片。别玄学，按交付阶段切。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766335710654676)
 
@@ -690,7 +690,7 @@ Create a breathtaking, ultra-realistic live-action movie still of a pristine, fl
 
 - **「别把喜欢的地方改坏」：Sunburst 精修 vs Flare 赶量** — 创作者要的往往不是更美，是改背景别毁脸、改字别毁排版。API 里 Sunburst 盯编辑精度、Flare 盯日常量产——选型别混。 [@yu_min_days](https://x.com/yu_min_days) · [原帖](https://x.com/yu_min_days/status/2099392705780756829)
 
-- **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492)
+- **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492) · [prompt](https://img.dsxzai.com/)
 
 - **2.5 vs 2.0：80 年代跑车真实感硬对比** — 同一题材拉齐看：车漆、人体皮肤、细节密度一眼分代。选型别听口号，把这组并排截图扔进评审会就完事。 [@icreat_ai](https://x.com/icreat_ai) · [原帖](https://x.com/icreat_ai/status/2099374093263106123)
 
@@ -893,11 +893,11 @@ a floating reflection whose base does not meet the object on Π.
 
 - **一句话提分辨率：1152×2048 贴图重渲** — 旧图贴进 Images 2.5，写目标像素就够。4:3 / 9:16 / 16:9 比例另说——高清化不必玄学。 [@oreno_musume](https://x.com/oreno_musume) · [原帖](https://x.com/oreno_musume/status/2098335755496042610)
 
-- **50 条开源 prompt 图谱：短句 + 工程长稿** — 371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。 [@Callirra](https://x.com/Callirra) · [原帖](https://x.com/Callirra/status/2098331457232265323)
+- **50 条开源 prompt 图谱：短句 + 工程长稿** — 371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。 [@Callirra](https://x.com/Callirra) · [原帖](https://x.com/Callirra/status/2098331457232265323) · [repo](https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas)
 
 - **2.0 vs 2.5：六组高难度同 prompt 硬刚** — ImagineArt 六组压测（时尚大片、极端镜头角、多色多人物）。选型别靠嘴，并排看谁还站得住。 [@FinanceYF5](https://x.com/FinanceYF5) · [原帖](https://x.com/FinanceYF5/status/2098318028006146332)
 
-- **124 例档案库：prompt + 参数 + Flare/Sunburst 对照** — 嫌晒图不给配方？这里 124 例 / 185 输出 / 24 组 Flare vs Sunburst，连参数和出处一起收。营销选型先翻库，别再刷时间线碰运气。 [@iamrayyang](https://x.com/iamrayyang) · [原帖](https://x.com/iamrayyang/status/2098315204509729032)
+- **124 例档案库：prompt + 参数 + Flare/Sunburst 对照** — 嫌晒图不给配方？这里 124 例 / 185 输出 / 24 组 Flare vs Sunburst，连参数和出处一起收。营销选型先翻库，别再刷时间线碰运气。 [@iamrayyang](https://x.com/iamrayyang) · [原帖](https://x.com/iamrayyang/status/2098315204509729032) · [repo](https://github.com/yangbishang/gpt-image-2.5-prompt)
 
 - **Flare 量产下稿 → Sunburst 精修** — 速度用 Flare 堆构图，好看的再丢 Sunburst。省钱省时间的分工，别全压贵档。 [@aichan1224news](https://x.com/aichan1224news) · [原帖](https://x.com/aichan1224news/status/2098287192628240410)
 
@@ -1070,9 +1070,9 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 - **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486)
 
-- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [playbook](docs/playbooks/official-image-prompting.md)
+- **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting)
 
-- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA) · [playbook](docs/playbooks/image25-controllability-shift.md)
+- **可控性从提示语迁到交互：2.5 综述与对比** — Sketch/模版/标注精修 + Flare/Sunburst；2 vs 2.5 在 logo/角色/定格/建筑/风格/画幅上的实测结论；透明底自测提示词。 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/-_pJRujQA4xHC2H8B6XWtA)
 
 
 ## Sketch
@@ -1119,7 +1119,7 @@ Sketch 工作流演示：控形、打光、画框布局与容错。
 
 - **照片→写实素描：四步流程可复用** — 收藏照变专业素描：开 Gemini/Grok/Image 2.5 → 丢参考图 → 贴 prompt → 出片。Sketch/线稿向种草素材流水线，原帖附图。 [@Alina_with_Ai](https://x.com/Alina_with_Ai) · [原帖](https://x.com/Alina_with_Ai/status/2102358953489481762)
 
-- **Sketch 锁版 + Comments 只改一处 + Templates 出初稿** — 改到第三次构图也毁了？用 Sketch 锁版面、Comments 定点改、Templates 先有草稿，再配「保留一切、每轮只改一件事」。10 分钟出宣传图的编辑优先心法。 [@udhk_official](https://x.com/udhk_official) · [原帖](https://x.com/udhk_official/status/2101929747664003197)
+- **Sketch 锁版 + Comments 只改一处 + Templates 出初稿** — 改到第三次构图也毁了？用 Sketch 锁版面、Comments 定点改、Templates 先有草稿，再配「保留一切、每轮只改一件事」。10 分钟出宣传图的编辑优先心法。 [@udhk_official](https://x.com/udhk_official) · [原帖](https://x.com/udhk_official/status/2101929747664003197) · [prompt](https://www.ud.hk/zh-Hant/blogs/insight/article/chatgpt-images-25-sketch-guide-2026-09-10)
 
 - **时尚线稿→超写实：错配鞋四连（loafer/croc/…）** — 同一 editorial 线稿主题，只换错配鞋型：乐福、洞洞鞋、细高跟、球鞋。Sketch 控形 + Image 2.5 写实，穿搭号「一稿多变」示范。 [@zayyadatullah](https://x.com/zayyadatullah) · [原帖](https://x.com/zayyadatullah/status/2100871323719209165)
 
@@ -1249,6 +1249,67 @@ C区域代表【背景建筑或环境】
 ## 海报排版
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
+
+- **东方文博海报：漆器/青铜/砚台/古琴 × 巨字留白×档案** — 器物当版式语言——漆器巨字、青铜圆弧、砚石块面、古琴斜轴，再叠古画/拓片/琴谱微型档案。博物馆展览 KV / 文创封面别再贴祥云金边，先抄这套克制留白槽位。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105228005320839496) · [prompt](https://x.com/MrLarus/status/2105228256089612671) · [续帖·青瓷/衣冠/宣纸/砚墨](https://x.com/MrLarus/status/2105234648347668527) · [续帖提示词](https://x.com/MrLarus/status/2105234749136482350)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【主题】：{例如：漆器 / 青铜 / 砚台 / 古琴 / 玉器 / 陶瓷}
+【中文标题】：{4–6 字主题名称}
+【英文标题】：{对应英文展览标题}
+【核心器物】：{具体器物}
+【辅助档案元素】：{古画 / 拓片 / 琴谱 / 线稿 / 铭文 / 材质研究等}
+【主色调】：{例如：朱砂红+墨黑 / 青铜灰绿 / 黑灰 / 深木褐}
+【构图机制】：{巨字穿插 / 巨大圆弧 / 黑白块面 / 斜向长轴等}
+【画幅比例】：9:16
+
+设计一张高级东方文博编辑海报，将传统东方器物重新组织进当代博物馆展览与艺术出版物的视觉系统中。
+
+整体使用温润干净的暖象牙白艺术纸背景，保留极轻微真实纸纤维，不做旧、不脏、不泛黄。采用低饱和东方材质色系、大面积留白、非对称编辑网格，以及现代宋体 / 明朝体与高对比 Serif 英文字体混排。
+
+核心器物使用真实、具有材质重量的博物馆级摄影表现，不做普通产品展示。根据【构图机制】将器物进行大胆裁切、放大、斜向穿插或局部超出画面，使器物本身成为版式结构的一部分。
+
+中文标题使用大尺度 Typography，形成强视觉锚点；英文标题作为第二层级；边缘与留白区域加入极小字号的展览说明、材质研究、年代、工艺、档案信息，形成“巨大标题 × 微型信息”的强烈尺度反差。
+
+加入与【核心器物】真实相关的【辅助档案元素】，例如古画局部、铭文拓片、器物线稿、琴谱、材料研究图等。所有档案元素应低对比、半透明、局部裁切，只作为第二层信息，不抢主体。
+
+画面必须具有明确的三级阅读层级：
+
+远看：器物大形 + 大标题首先成立；
+中距离：看到器物、文字和档案图层之间的穿插关系；
+近距离：才能阅读微型说明、材质信息与研究细节。
+
+所有文字都应具有真实文化展览和博物馆出版物语气，不使用 Lorem Ipsum 或随机无意义英文。
+
+信息丰富但不拥挤，主体高密度、背景低密度，保留约 40%–55% 的有效留白。
+
+最终效果像亚洲顶级美术馆、文化研究机构或独立设计工作室制作的东方文博展览主视觉：传统内容，当代排版，安静、克制、高级，同时具有明显的视觉冲击和完整作品感。
+
+避免：普通中国风海报、器物居中产品照、电商广告、传统边框、祥云堆叠、金色特效、满屏书法、过度做旧、脏污纹理、高饱和配色、随机装饰、信息过少、模板化极简、编号、No.、Vol.、四角星芒。
+```
+
+  </details>
+
+- **CAPYVOYAGE 巴西旅行海报：分区构图 hero/headline/CTA** — 右前景锁英雄水豚、左半留给大标题、地标压进远景下沿，CTA 底部安静区——分区不抢戏才是旅行海报的真本事。目的地 campaign / 品牌大使竖版直接抄。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2105221406929953154)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+A premium vertical travel poster for fictional business-travel brand CAPYVOYAGE, promoting Brazil through a bold destination campaign led by a charismatic Brazilian capybara ambassador. Preserve the exact commercial layout: small brand block with minimal airplane trail in the upper left, one large concise headline dominating the left half, dramatic Brazil skyline in back, a large capybara in the right foreground as the main anchor, layered Brazil landmarks in the lower landscape, and one strong bottom CTA button.
+
+Use a medium-wide promotional composition with strong hierarchy, deep foreground-background separation, and generous negative space. The hero capybara is photoreal, polished, and non-cartoonish, wearing aviator sunglasses, a dark travel jacket with a small CAPYVOYAGE patch, and a travel backpack, giving a confident thumbs-up to the viewer. It must feel warm, intelligent, trustworthy, and aspirational, with realistic dense fur, subtle whiskers, glossy nose, believable paws, and correct anatomy. The character dominates the right side.
+
+Celebrate Brazil in the background: golden sunrise or sunset over Rio de Janeiro, Christ the Redeemer in the distance, Sugarloaf Mountain, a refined modern skyline with Sao Paulo energy, and one or two macaws or toucans crossing the upper sky as discreet accents. In the lower landscape, integrate warm tropical foliage, stone pathways, and lush Brazilian terrain. The world should feel expansive, prosperous, emotionally magnetic, and clean enough for poster design.
+
+Typography is reduced, sharp, and international. Upper-left brand line: “CAPYVOYAGE” with one short support line such as “Business Travel, Reframed.” Main headline on the left: “Brazil, Open.” with “Brazil” larger and more expressive, “Open.” clean and modern. Remove long copy blocks. Keep only three small icon labels beneath: “TRADE”, “PARTNERS”, “ACCESS”. Add one concise golden promo strip above the CTA, such as “New routes, real reach”. Place a large rounded red CTA button at the bottom center reading “capyvoyage.com”. If needed, add one very small lower-right side line: “Ideas move here.” All text must be elegant, globally legible, minimal, integrated into the visual flow, and never cover the capybara face or key landmarks.
+
+Lighting is cinematic and commercial: warm golden key light from the horizon, soft frontal fill on the capybara face and jacket, reflective highlights on the sunglasses, subtle rim light on fur edges, glowing skyline atmosphere, and rich contrast without muddy blacks. Color hierarchy: 60% golden sunrise and warm tropical neutrals, 30% deep reds and terracotta brand accents, 10% cool reflective blues in skyline glass and sunglass reflections. Materials must feel hyperreal and premium: glossy lenses, textured travel fabric, dense fur, humid glowing atmosphere, crisp architectural silhouettes, polished button surfaces, and clean brand graphics.
+
+The final image should feel like a Cannes-level global destination campaign: bold, optimistic, premium, persuasive, internationally styled, visually clean, and commercially precise, presenting Brazil as both emotional adventure and strategic opportunity. No copied source wording, no real company names, no broken text, no malformed animal anatomy, no distorted sunglasses, no chaotic landmarks, no muddy skyline, no cluttered layout, no weak CTA, no generic stock-travel look.
+```
+
+  </details>
 
 - **东方禅意秋日封面「接住秋天」：主题到光线全槽位** — 古风女子接银杏叶——主题/风格/主体/情绪/场景/构图/色彩/光线一次写死，9:16 大留白封面位。秋日种草封面别只会堆落叶，先抄这套东方禅意结构化配方。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2105172484677091829)
   <details>
@@ -2881,9 +2942,9 @@ Highly detailed, realistic automotive rendering blended with hand-drawn technica
 
   </details>
 
-- **多人海报破模板：超大头像 / 不规则裁切 / 视觉权重** — 别再等分九宫格——用 oversized 肖像、不规则裁切、粗体字和不均匀视觉重量把多人海报做出编辑感。活动 / campaign / 杂志多人 KV 可填槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100891321581875438)
+- **多人海报破模板：超大头像 / 不规则裁切 / 视觉权重** — 别再等分九宫格——用 oversized 肖像、不规则裁切、粗体字和不均匀视觉重量把多人海报做出编辑感。活动 / campaign / 杂志多人 KV 可填槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100891321581875438) · [prompt](https://x.com/MrLarus/status/2100891369350877246)
 
-- **旅行实拍→明信片：上下分屏杂志插页** — 上半精修原片，下半抽最难忘的元素做成极简线稿小人互动小品 + 手写日期地点。Cape Town 实拍变 indie 杂志插页，文旅种草可抄。 [@kaen_sv](https://x.com/kaen_sv) · [原帖](https://x.com/kaen_sv/status/2100886866555986145)
+- **旅行实拍→明信片：上下分屏杂志插页** — 上半精修原片，下半抽最难忘的元素做成极简线稿小人互动小品 + 手写日期地点。Cape Town 实拍变 indie 杂志插页，文旅种草可抄。 [@kaen_sv](https://x.com/kaen_sv) · [原帖](https://x.com/kaen_sv/status/2100886866555986145) · [prompt](https://x.com/kaen_sv/status/2100886870561595456)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2962,7 +3023,7 @@ A giant handcrafted knitted version of [LANDMARK], faithfully preserving its rec
 
   </details>
 
-- **假装 Excel 做的传单：Office 外行感海报公式** — 町内会/公司要传单又怕被看出 AI？写成「Word/Excel 外行认真做的野鸡海报」——WordArt、荧光色、歪对齐全到位。完整日文 prompt 在回复。 [@sacher10610](https://x.com/sacher10610) · [原帖](https://x.com/sacher10610/status/2100754344132149260)
+- **假装 Excel 做的传单：Office 外行感海报公式** — 町内会/公司要传单又怕被看出 AI？写成「Word/Excel 外行认真做的野鸡海报」——WordArt、荧光色、歪对齐全到位。完整日文 prompt 在回复。 [@sacher10610](https://x.com/sacher10610) · [原帖](https://x.com/sacher10610/status/2100754344132149260) · [prompt](https://x.com/sacher10610/status/2100754947948359838)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3075,7 +3136,7 @@ A4印刷前提/余白を設計しない/空白が気になると何か追加す�
 
   </details>
 
-- **四图标四身份高冲击投放：Nike ORANGE MOTION** — 四联 campaign 各成一套身份/图标语言；评论区给完整「ORANGE MOTION」长海报 prompt（液态鞋底冲击）。快消/运动投放 KV 可直接改品牌色。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2100585834357702696)
+- **四图标四身份高冲击投放：Nike ORANGE MOTION** — 四联 campaign 各成一套身份/图标语言；评论区给完整「ORANGE MOTION」长海报 prompt（液态鞋底冲击）。快消/运动投放 KV 可直接改品牌色。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2100585834357702696) · [prompt](https://x.com/Diplomeme/status/2100585884802494544)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4105,7 +4166,7 @@ Supporting typography should stay minimal and secondary. The final image should 
 
   </details>
 
-- **四大饮料品牌四世界：一条 campaign 多世界观** — PAUSE / SIP / REFRESH / HAVE FUN——四联各成一套视觉语言。一人团队做饮料/快消 SMM 时，「一提示多世界」比单张好看更值钱；评论区有完整 7UP 级长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099851373470945551)
+- **四大饮料品牌四世界：一条 campaign 多世界观** — PAUSE / SIP / REFRESH / HAVE FUN——四联各成一套视觉语言。一人团队做饮料/快消 SMM 时，「一提示多世界」比单张好看更值钱；评论区有完整 7UP 级长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099851373470945551) · [prompt](https://x.com/Diplomeme/status/2099851680380838194)
 
 - **字体当建筑：四联空间排版海报** — CAST TYPE / SKY APERTURE / OPEN CORNER / FLOAT LEVEL——字投阴影、绕混凝土、穿景深。编辑海报 / 建筑视觉空间字体教科书。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099849499170492882)
   <details>
@@ -10678,7 +10739,7 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
   </details>
 
-- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ) · [playbook](docs/playbooks/virtual-ip-assets.md)
+- **从 0 到 1 虚拟 IP 资产全流程** — 人物母版→五视图→表情/头像/封面/配图→换装街拍→PV，完整中文提示词可抄。自媒体品牌资产流水线。 [段老湿](https://mp.weixin.qq.com/s/UFjbirNe-R4tKwEFXllUuQ)
 
 
 ## 电商改图
@@ -12881,7 +12942,7 @@ AUDIO: Generate subtle theater room tone, a synchronized rush of air and nonverb
 
 - **Blender 建模 → Sunburst 精修渲染** — Minimax/Blender 出三维结构，再丢 Sunburst 提质。控形归建模、皮相归 2.5——3D×图像的正经分工。 [@Banyu_Biroeee](https://x.com/Banyu_Biroeee) · [原帖](https://x.com/Banyu_Biroeee/status/2098308242279727175)
 
-- **Flare 车×建筑隐喻海报：路长成了 Camry** — 「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098299916166873371)
+- **Flare 车×建筑隐喻海报：路长成了 Camry** — 「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098299916166873371) · [prompt](https://x.com/Diplomeme/status/2098299968260067639)
 
 - **Instant 邪门一句话：诡异不安照片** — 中文短 prompt + Instant：禁止提问、禁止解释文字，专出「暗网硬盘感」。玩恐怖/异质审美的人收藏这句就够。 [@dtzy_88](https://x.com/dtzy_88) · [原帖](https://x.com/dtzy_88/status/2098290580581486858)
   <details>
@@ -13612,7 +13673,7 @@ Each panel must contain only one complete full-body character with enough margin
 
   </details>
 
-- **飞吻 4×4 序列帧：没跑过不出厂** — Line 表情包向 16 格实测入库；「爱你哦」白底 1:1 通挂，飞吻循环连贯性偏弱也写进评测。反营销滤镜的真·合集。 [@zouyanjian](https://x.com/zouyanjian) · [原帖](https://x.com/zouyanjian/status/2099422284666884445)
+- **飞吻 4×4 序列帧：没跑过不出厂** — Line 表情包向 16 格实测入库；「爱你哦」白底 1:1 通挂，飞吻循环连贯性偏弱也写进评测。反营销滤镜的真·合集。 [@zouyanjian](https://x.com/zouyanjian) · [原帖](https://x.com/zouyanjian/status/2099422284666884445) · [repo](https://github.com/SmartStudio/baize-prompts/blob/main/prompts/image-gen/GPTImage25-Line%E8%A1%A8%E6%83%85%E5%8C%85%E5%BA%8F%E5%88%97%E5%B8%A7.md)
 
 - **粘土定格 GIF：胖青蛙 DJ 一次出循环** — 24 帧塑料泥质感，金链耳机全入画，再把精灵表转 GIF。短视频贴纸 / 表情包流水线，抄走就能量产。 [@MrDasOnX](https://x.com/MrDasOnX) · [原帖](https://x.com/MrDasOnX/status/2098360111597244532)
   <details>
@@ -13879,9 +13940,9 @@ flag anything that needs a design decision before changing it
 
 - **Image 2.5 出 logo → Astra SVG 到指南/Banner** — 先用 GPT Image 2.5 出 logo，再丢 Astra 转 SVG，精度够用后一套做指南、Banner、站点替换。品牌视觉从栅格到矢量的最短链路。 [@gaku_oregin](https://x.com/gaku_oregin) · [原帖](https://x.com/gaku_oregin/status/2100913069270687991)
 
-- **Images 2.5 出设计 → Codex 直接搓 LP** — 别先开 Figma：ChatGPT Images 2.5 出整页视觉，原图丢给 Codex 转 HTML，只改刺眼处。落地页从「好看」到「能上线」的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2100881842513850425)
+- **Images 2.5 出设计 → Codex 直接搓 LP** — 别先开 Figma：ChatGPT Images 2.5 出整页视觉，原图丢给 Codex 转 HTML，只改刺眼处。落地页从「好看」到「能上线」的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2100881842513850425) · [prompt](https://x.com/revolvtech/status/2100872475185963027)
 
-- **角色当壁纸：16:9 macOS 桌面构图完整公式** — 上传角色图 → 自适应配色壁纸 + 日文菜单栏/Dock/三图标，主体靠右留白。Image 2.5 静帧再接 Wan 动效；桌面壁纸/虚拟桌面素材一条龙。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2100854831837782439)
+- **角色当壁纸：16:9 macOS 桌面构图完整公式** — 上传角色图 → 自适应配色壁纸 + 日文菜单栏/Dock/三图标，主体靠右留白。Image 2.5 静帧再接 Wan 动效；桌面壁纸/虚拟桌面素材一条龙。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2100854831837782439) · [prompt](https://x.com/Mayz1169/status/2100856797246500988)
   <details>
   <summary>查看 / 复制提示词</summary>
 
