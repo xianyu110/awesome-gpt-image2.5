@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-29 · **收录 718 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-09-30 · **收录 721 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -5613,6 +5613,115 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **棚拍宣材写真：上传本人→3:4 写真馆级（可延伸证明写真）** — 把本人照片喂给 Image 2.5，按写真馆棚拍配方出竖版 3:4 宣材——软光、妆发、姿态、商业级修图一次写死。风险自负，但同原理也能做证明写真；别再拿日常自拍硬充主页头图。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2105055019984662874) · [线程·完整 prompt 回复](https://x.com/1banana2546/status/2105055021029036329)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+プロのフォトグラファーがスタジオで撮影した、高品質な宣材写真。縦長3:4。
+
+人物：
+23歳の日本人成人女性1人。
+整った清潔感のある顔立ち。
+プロのヘアメイクによる上品で完成度の高いメイク。
+黒髪の肩までの長さ。髪はきれいに整え、浮き毛や乱れはほとんどない。
+眉、まつ毛、リップ、肌の質感まで丁寧に仕上げられている。
+服装とポーズ：
+無地の白いTシャツと青いデニム。
+シンプルな服装だが、衣服のシワや形をきれいに整える。
+椅子に腰掛け、背筋を自然に伸ばしたモデルらしい姿勢。
+両手は膝の上に美しく配置する。
+カメラに自然な微笑みを向ける。
+手、肩、首の角度まで計算された、宣材写真らしいポージング。
+場所と構図：
+プロ用撮影スタジオ。
+背景は明るい無地または淡いグレーのシンプルな背景。
+カメラは目線と同じ高さ。
+腰から上を中心に写す。
+人物を画面の中央付近に配置し、余白やバランスも整った構図。
+85mm前後のポートレートレンズで撮影したような自然な圧縮感。
+高性能なフルサイズカメラで撮影したような高精細な写真。
+照明：
+大型ソフトボックスを使った柔らかく均一なスタジオ照明。
+正面斜め上からメインライト。
+反対側から弱い補助光を当て、顔の影をきれいに整える。
+必要に応じて背後から弱いリムライトを当て、髪と背景を分離する。
+顔全体にムラの少ない、明るく清潔感のある光。
+目には自然で美しいキャッチライトを入れる。
+白飛びや強すぎる影は避ける。
+肌とレタッチ：
+広告写真や芸能人の宣材写真のような、美しく整えられた肌。
+肌の赤み、色ムラ、ニキビ跡、細かなシミ、目立つ毛穴を自然に補正する。
+目の下のクマや細かな肌荒れも軽く補正する。
+ただし完全なプラスチック肌にはせず、ごく薄く自然な肌理は残す。
+肌全体を明るく均一に整える。
+ハイライトとシャドウを丁寧に調整し、顔の立体感を強調する。
+目元、眉、唇、髪には部分的なシャープ処理を加える。
+美容広告や人物宣材写真で使われるような丁寧なレタッチ。
+画質と仕上げ：
+非常に高精細。
+ピントは両目と顔に正確に合っている。
+ノイズが少なく、クリアでシャープ。
+自然な範囲でコントラストと彩度を調整する。
+ホワイトバランスは正確。
+肌色は明るく健康的。
+商業写真としてそのまま使用できる完成度。
+広告、企業プロフィール、芸能事務所の宣材写真のような洗練された仕上がり。
+
+最優先：
+日常のスナップ写真らしさは出さない。
+素人撮影感、手ブレ、構図のズレ、光のムラ、髪の乱れ、肌の強い色ムラは避ける。
+プロが照明、構図、ポーズ、ヘアメイク、レタッチまで管理して制作した、高品質な商業用ポートレートとして仕上げる。
+```
+
+  </details>
+
+- **3×3 身份锁定棚拍网格 + 金冠盾牌个人品牌 crest** — 同一人九格表情/姿势焊死身份，右下角再叠金冠盾牌 ABS 风格奢牌 crest——上传构图参考就能出个人品牌棚拍墙。锁脸别只出单张，先把九宫格一致性当验收尺子。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2104946492305756454)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+Add a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.
+
+Use the uploaded image as the visual composition, posing, lighting, and styling reference.
+
+Create an ultra-realistic 3×3 professional studio portrait grid featuring the same stylish adult man across all nine frames. Maintain consistent facial identity, skin tone, hairstyle, outfit, lighting, and background throughout the entire grid.
+
+The man has a clean short low-cut haircut with a neat natural hairline. He is completely clean-shaven — absolutely no beard, no mustache, no stubble, and no visible facial hair.
+
+Dress him in a sophisticated all-black formal outfit: a perfectly tailored black suit jacket over a clean black button-up shirt, paired with black trousers. Add a refined silver or black luxury wristwatch and a subtle white pocket square. No necklace, no earrings, and no unnecessary accessories.
+
+Show nine different natural expressions and poses:
+
+1. Warm close-up portrait with a confident genuine smile.
+
+2. Formal waist-up portrait with arms folded across the chest.
+
+3. Playful confident pose pointing toward the camera with one eye slightly closed.
+
+4. Thoughtful portrait with one hand resting gently beneath the chin.
+
+5. Candid laughing pose with an energetic, natural smile and relaxed hands.
+
+6. Relaxed seated pose in an armchair, body slightly turned while looking off-camera.
+
+7. Conversational seated pose with both hands gesturing naturally as if speaking.
+
+8. Elegant side-profile portrait showing the clean haircut and sharp jawline.
+
+9. Friendly seated portrait leaning slightly forward with hands clasped and a soft confident smile.
+
+Use a smooth neutral charcoal-gray studio background in every frame, soft diffused key lighting, subtle fill light, natural skin texture, realistic facial details, soft shadows, crisp suit fabric, and professional corporate-editorial photography.
+
+Keep the framing balanced and sophisticated with thin clean white dividers separating all nine portraits.
+
+Photography style: premium executive headshot, luxury personal branding campaign, editorial studio photography, 85mm portrait lens look, shallow depth of field, photorealistic skin, natural proportions, sharp facial focus, high dynamic range, cinematic but professional lighting, 8K detail.
+
+Important: same person in every frame, consistent hairstyle and wardrobe, completely clean-shaven face with zero beard or mustache, no distorted hands, no duplicated fingers, no facial inconsistencies, no warped clothing, no text, no logos.
+```
+
+  </details>
+
 - **角色参照→双格「笔记本屏幕伸手牵你」完整 prompt** — 任意角色参考图焊进双格 3:4：上惊下笑，角色从笔记本屏幕伸出手牵住第一人称的手。破第四面墙别靠玄学姿势，先锁角色细节再统一桌面世界观。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2104882223187218503) · [线程·完整 prompt 回复](https://x.com/Mayz1169/status/2104882325133959363)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -10990,6 +11099,31 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 ## 场景视觉
 
 场景、长卷、视频工作流与氛围大图。
+
+- **Image 2.5→Blender 超跑管线：一句话改图到可玩 3D drop** — Image 2.5 五变体概念车（$0.34/25s）→ 一句话改图定方向 → Opus 蓝图测轮廓写 Blender Python，两小时五车上浏览器拆除赛。可玩 demo + 免费 3D；概念到资产别只停在美图，先抄这条「出图→建模→随机掉落」。 [@drcollect](https://x.com/drcollect) · [原帖](https://x.com/drcollect/status/2104941866487525859) · [可玩 demo / 3D](https://drcollect.github.io/collect-cars)
+  <details>
+  <summary>查看 / 复制提示词</summary>
+
+```
+【Image 2.5 → Blender 超跑管线 · Collect Car】
+
+1) GPT Image 2.5 首屏概念（约 5 变体 / 25s / $0.34）：
+Design a futuristic two-seat electric hypercar… a dark tinted glass canopy pushed far forward… a slim floating rear wing…
+
+2) 一句话改图定方向（例）：
+v2 with v5's glowing wheel rings
+
+3) 再各下一句出系列车：80s wedge / desert rally-raid / 24-hour endurance racer / liquid-metal streamliner
+
+4) 交给 Claude Opus：build all those as blender models
+→ Image 出蓝图测轮廓 → 写 Python 在 Blender 建车并对齐蓝图
+→ 多 agent 并行五车；图片花费约 $1.77；首 prompt 到五车约 2h
+
+5) 浏览器拆除赛 + 五维随机外观（paint/pattern/finish/lights/wheels）；demo 与 3D 免费：
+https://drcollect.github.io/collect-cars
+```
+
+  </details>
 
 - **行车记录仪开场锁帧：可乐×曼妥思 DIRECTIVE** — 国庆整活第一步：用 Image 2.5 焊死「用过的行车记录仪 JPEG」开场——广角挡风/A 柱/仪表盘边，再把静帧丢 Seedance。短视频爆点别从视频模型硬抠首帧，先让 2.5 锁透视和品牌可读。 [@laobaishare](https://x.com/laobaishare) · [原帖](https://x.com/laobaishare/status/2104908088168100180)
   <details>
