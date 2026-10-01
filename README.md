@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-10-01 · **收录 734 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-10-01 · **收录 735 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -5890,6 +5890,7 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **无参考姿势图×16宫格 Editorial：【XXX】主体槽** — 不喂姿势参考也能榨出 4×4 十六种身体结构差异；【XXX】换主体，背景藏跨格侧脸轮廓。角色设定表/姿势一致性验收，直接抄评论区通用模板。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2105558855522676883) · [通用 Prompt 模板](https://x.com/DeepBlueX0/status/2105563464903356751)
 - **拍立得立体贴纸 + Copic 乱涂：上传照片一秒平成风** — 上传真人照片→4:5 拍立得框 + Copic/荧光笔乱涂 + 树脂立体动物/气泡贴纸。UGC 回忆杀别只加滤镜，先把「手账本乱涂」焊进 prompt。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2105116111515865191) · [线程·ChatGPT share prompt](https://x.com/kabumira862571/status/2105116119241744424) · [ChatGPT share](https://chatgpt.com/s/p_6abc6c2200648191bf5b411416c80568)
   <details>
   <summary>查看 / 复制提示词</summary>
