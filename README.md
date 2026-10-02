@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-10-02 · **收录 736 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-10-02 · **收录 737 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -1271,6 +1271,7 @@ C区域代表【背景建筑或环境】
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
+- **东方海报同一主题四风格：彩墨巨字/黑底解构/水墨拼贴/现代展陈** — 主题焊死只换构图版式与视觉系统，气质立刻四套——青绿山水×超尺度书法、东方器物×几何巨字、古画碎片×自由书法、网格系统×图像切片。展览/品牌系列 KV 别只会换题材，先抄「一题四貌」槽位。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105968262404010131) · [prompt](https://x.com/MrLarus/status/2105968950412554251)
 - **强主体+野字破框动势：乘风/震势/破风/断墨** — 纸鸢破框、大鼓冲击、折扇放射、长刃斜切——动势线写死，画面一下就「动」起来。工艺/展览海报要张力，先抄这套破框四槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105311560063140159) · [prompt](https://x.com/MrLarus/status/2105311813336183064)
   <details>
   <summary>查看 / 复制提示词</summary>
