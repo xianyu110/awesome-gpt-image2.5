@@ -5,7 +5,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-10-01 · **收录 735 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-10-02 · **收录 736 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -236,6 +236,8 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 ## 选型评测
 
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
+
+- **Sunburst vs Ideogram 4.5：must-stay 局部重绘硬对比** — 同图并排看谁守住肩线/纹身/构图骨架：Sunburst 像真正 mask+inpaint（灌木沿肩慢慢收成线），Ideogram 4.5 会砍半边头。局部改选型别再听口嗨——必须-stay 区域谁敢动，并排视频一眼露馅。 [@alecwilcock](https://x.com/alecwilcock) · [原帖](https://x.com/alecwilcock/status/2105670536206426449)
 
 - **Images 2.5 去 AI 味 5 步：LP/缩略图/商品图通用** — 白平衡 5500K → 50mm F1.8 景深 → 右三分之一留白 → 白底插画 → 柔影降饱和。AI 味不是玄学，是色偏+塑料皮+居中构图——LP/缩略图/商品图直接抄这五句。 [@wad0427](https://x.com/wad0427) · [原帖](https://x.com/wad0427/status/2105131771226415239) · [线程·①色かぶり](https://x.com/wad0427/status/2105131771557744965) · [线程·⑤仕上げ](https://x.com/wad0427/status/2105131772543439356)
   <details>
