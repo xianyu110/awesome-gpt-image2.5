@@ -1,13 +1,26 @@
 # Awesome GPT Image 2.5
 
+> **[🚀 Try GPT Image 2.5 online — no API key, free trial](https://gptimage2.asia/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=banner)** · [中文在线版](https://gptimage2.asia/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=banner-zh) · Flare 默认 / Sunburst 高精度
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-brightgreen)](https://xianyu110.github.io/awesome-gpt-image2.5/)
+[![Try online](https://img.shields.io/badge/Try%20online-gptimage2.asia-34d399)](https://gptimage2.asia/?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=badge)
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
 维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-10-02 · **收录 737 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
+
+---
+
+## 在线试用这些提示词
+
+不想配 API Key？下面每条带提示词的案例都有 **「▶ 一键试用」**，点开即在 [gptimage2.asia](https://gptimage2.asia/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=try-section) 生成器里自动填好提示词：
+
+- **[在线生成器](https://gptimage2.asia/zh/generate?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=try-section)** — Flare 默认快速出图；要抠字/细节切 **Sunburst 高精度**
+- **[免费试用](https://gptimage2.asia/zh/free-gpt-image-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=try-section)** — 免费试用入口，先跑一张再决定
+- **[在线提示词库](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=try-section)** — 本清单案例的可搜索版本（[English](https://gptimage2.asia/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=try-section-en)）
 
 ---
 
@@ -25,6 +38,7 @@
 
 ## Contents
 
+- [在线试用这些提示词](#在线试用这些提示词)
 - [可复用工作流 Skill](#可复用工作流-skill)
 - [选型评测](#选型评测)
 - [Sketch](#sketch)
@@ -235,11 +249,13 @@ Must-stay：脸 / logo / 已改标题 / 构图骨架
 
 ## 选型评测
 
+> 💡 本分类带提示词的条目可点「▶ 一键试用」直接在线生成；或打开 [GPT Image 2.5 在线生成器 →](https://gptimage2.asia/zh/generate?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=section-compare)
+
 Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K 踩坑。
 
 - **Sunburst vs Ideogram 4.5：must-stay 局部重绘硬对比** — 同图并排看谁守住肩线/纹身/构图骨架：Sunburst 像真正 mask+inpaint（灌木沿肩慢慢收成线），Ideogram 4.5 会砍半边头。局部改选型别再听口嗨——must-stay 区域谁敢动，并排视频一眼露馅。 [@alecwilcock](https://x.com/alecwilcock) · [原帖](https://x.com/alecwilcock/status/2105670536206426449)
 
-- **Images 2.5 去 AI 味 5 步：LP/缩略图/商品图通用** — 白平衡 5500K → 50mm F1.8 景深 → 右三分之一留白 → 白底插画 → 柔影降饱和。AI 味不是玄学，是色偏+塑料皮+居中构图——LP/缩略图/商品图直接抄这五句。 [@wad0427](https://x.com/wad0427) · [原帖](https://x.com/wad0427/status/2105131771226415239) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105131771226415239) · [线程·①色かぶり](https://x.com/wad0427/status/2105131771557744965) · [线程·⑤仕上げ](https://x.com/wad0427/status/2105131772543439356)
+- **Images 2.5 去 AI 味 5 步：LP/缩略图/商品图通用** — 白平衡 5500K → 50mm F1.8 景深 → 右三分之一留白 → 白底插画 → 柔影降饱和。AI 味不是玄学，是色偏+塑料皮+居中构图——LP/缩略图/商品图直接抄这五句。 [@wad0427](https://x.com/wad0427) · [原帖](https://x.com/wad0427/status/2105131771226415239) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105131771226415239&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [线程·①色かぶり](https://x.com/wad0427/status/2105131771557744965) · [线程·⑤仕上げ](https://x.com/wad0427/status/2105131772543439356)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -270,7 +286,7 @@ Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K �
 
   </details>
 
-- **一行提示词风格阶梯：90年代动画→现代/3DCG/写实** — Suzuka 用同一画角跑四档：先做 90 年代动画劣化元绘，再超分现代动画、3DCG、照片级——一行换档位。选型评测别只会嘴炮「哪个更强」，先把画角焊死再比风格阶梯。 [@SuzukaBike](https://x.com/SuzukaBike) · [原帖](https://x.com/SuzukaBike/status/2104487587021041696) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104487587021041696) · [相关前帖](https://x.com/SuzukaBike/status/2098019922848907581)
+- **一行提示词风格阶梯：90年代动画→现代/3DCG/写实** — Suzuka 用同一画角跑四档：先做 90 年代动画劣化元绘，再超分现代动画、3DCG、照片级——一行换档位。选型评测别只会嘴炮「哪个更强」，先把画角焊死再比风格阶梯。 [@SuzukaBike](https://x.com/SuzukaBike) · [原帖](https://x.com/SuzukaBike/status/2104487587021041696) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104487587021041696&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [相关前帖](https://x.com/SuzukaBike/status/2098019922848907581)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -289,9 +305,9 @@ Flare / Sunburst / 2.0 阶梯、速度成本、质量档位、硬对比与 4K �
 
   </details>
 
-- **VRoid自作3DCG→Image 2.5：高品质3DCG风前后对比** — 牛帝把改过的 VRoid 素体 + 教室资产先渲一帧，再丢 GPT-Images 2.5 拉成「高品质 3DCG 风」——同一机位前后对照，角色管线别只会死磕渲染器，先让 2.5 焊材质光影。 [@gyutei_4koma](https://x.com/gyutei_4koma) · [原帖](https://x.com/gyutei_4koma/status/2104398304432054583) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104398304432054583)
+- **VRoid自作3DCG→Image 2.5：高品质3DCG风前后对比** — 牛帝把改过的 VRoid 素体 + 教室资产先渲一帧，再丢 GPT-Images 2.5 拉成「高品质 3DCG 风」——同一机位前后对照，角色管线别只会死磕渲染器，先让 2.5 焊材质光影。 [@gyutei_4koma](https://x.com/gyutei_4koma) · [原帖](https://x.com/gyutei_4koma/status/2104398304432054583) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2104398304432054583)
 
-- **API 关透明底：background="opaque" 一行收工** — GPT Image 2.5 API 还在默认爱出透明 PNG？别再事后抠底——`background="opaque"` 直接焊死不透明。接电商主图/落地页素材先把这参数写进 SDK，少一轮返工。 [@xiaoxiaodong](https://x.com/xiaoxiaodong) · [原帖](https://x.com/xiaoxiaodong/status/2104388925712420968) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104388925712420968)
+- **API 关透明底：background="opaque" 一行收工** — GPT Image 2.5 API 还在默认爱出透明 PNG？别再事后抠底——`background="opaque"` 直接焊死不透明。接电商主图/落地页素材先把这参数写进 SDK，少一轮返工。 [@xiaoxiaodong](https://x.com/xiaoxiaodong) · [原帖](https://x.com/xiaoxiaodong/status/2104388925712420968) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104388925712420968&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -312,11 +328,11 @@ result = client.images.generate(
 
   </details>
 
-- **多图叠加才是 Image 2.5 真正打开方式** — 在参考图短提示词理论之上迭代写真 skill：别只塞一张参考，多图叠加才把 2.5 的可控性喂满。锁脸/锁风格的人像流水线，先叠图再写短句。 [@nanyuan0412](https://x.com/nanyuan0412) · [原帖](https://x.com/nanyuan0412/status/2103385779368288760) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103385779368288760) · [参考图短提示词长文](https://x.com/nanyuan0412/status/2102609724868862095)
+- **多图叠加才是 Image 2.5 真正打开方式** — 在参考图短提示词理论之上迭代写真 skill：别只塞一张参考，多图叠加才把 2.5 的可控性喂满。锁脸/锁风格的人像流水线，先叠图再写短句。 [@nanyuan0412](https://x.com/nanyuan0412) · [原帖](https://x.com/nanyuan0412/status/2103385779368288760) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2103385779368288760) · [参考图短提示词长文](https://x.com/nanyuan0412/status/2102609724868862095)
 
-- **TASTE BENCH：Sunburst 广告质量 7.38，首稿可投放仅 54.2%** — Omneky 用同一套 59 条 brief×四品牌×五语言盲测八模型：GPT Image 2.5 Sunburst 均分最高 7.38/10，但首稿可直接投放只有 54.2%。选型别只看分——广告可跑通才是终审。 [@omneky](https://x.com/omneky) · [原帖](https://x.com/omneky/status/2103352139838071038) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103352139838071038) · [Taste Bench](https://www.omneky.com/tastebench)
+- **TASTE BENCH：Sunburst 广告质量 7.38，首稿可投放仅 54.2%** — Omneky 用同一套 59 条 brief×四品牌×五语言盲测八模型：GPT Image 2.5 Sunburst 均分最高 7.38/10，但首稿可直接投放只有 54.2%。选型别只看分——广告可跑通才是终审。 [@omneky](https://x.com/omneky) · [原帖](https://x.com/omneky/status/2103352139838071038) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2103352139838071038) · [Taste Bench](https://www.omneky.com/tastebench)
 
-- **黑白少年JUMP武士：硬提示词压力测试 vs Grok Imagine 2.0** — 同一条解剖级武士 manga prompt 甩给 Images 2.5 与 Grok Imagine 2.0——十指/刀线/网点/透视全锁死。硬对比别再比「好看」，先拿这种压力测试当选型尺子。 [@Oxebube](https://x.com/Oxebube) · [原帖](https://x.com/Oxebube/status/2103350277298430135) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103350277298430135)
+- **黑白少年JUMP武士：硬提示词压力测试 vs Grok Imagine 2.0** — 同一条解剖级武士 manga prompt 甩给 Images 2.5 与 Grok Imagine 2.0——十指/刀线/网点/透视全锁死。硬对比别再比「好看」，先拿这种压力测试当选型尺子。 [@Oxebube](https://x.com/Oxebube) · [原帖](https://x.com/Oxebube/status/2103350277298430135) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103350277298430135&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -326,7 +342,7 @@ Create a black and white Shonen Jump-style manga panel of ONE samurai, full body
 
   </details>
 
-- **只改机型名：iPhone / Pixel / Galaxy / Xiaomi 写真画风对照** — 同一套 persona/构图/光位 prompt，只换 camera/device 四格并排——机种名 alone 就会拖走整体「手机味」。氛围微调别先堆 ISO/焦段，先把机型当廉价风格槽试一遍。 [@X_nanamaru](https://x.com/X_nanamaru) · [原帖](https://x.com/X_nanamaru/status/2103320334845816898) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103320334845816898)
+- **只改机型名：iPhone / Pixel / Galaxy / Xiaomi 写真画风对照** — 同一套 persona/构图/光位 prompt，只换 camera/device 四格并排——机种名 alone 就会拖走整体「手机味」。氛围微调别先堆 ISO/焦段，先把机型当廉价风格槽试一遍。 [@X_nanamaru](https://x.com/X_nanamaru) · [原帖](https://x.com/X_nanamaru/status/2103320334845816898) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103320334845816898&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -340,29 +356,29 @@ camera/device: iPhone
 
   </details>
 
-- **Adobe Firefly 可指定 GPT Image 2.5 Sunburst** — 有 Adobe CC 就能在 Firefly 里点名 Sunburst 出图——不必另开 ChatGPT Plus。旁路通道别浪费：已经付 CC 的人，先把 Firefly 当 Image 2.5 机房用。 [@gibkun1](https://x.com/gibkun1) · [原帖](https://x.com/gibkun1/status/2102984812713918522) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102984812713918522)
+- **Adobe Firefly 可指定 GPT Image 2.5 Sunburst** — 有 Adobe CC 就能在 Firefly 里点名 Sunburst 出图——不必另开 ChatGPT Plus。旁路通道别浪费：已经付 CC 的人，先把 Firefly 当 Image 2.5 机房用。 [@gibkun1](https://x.com/gibkun1) · [原帖](https://x.com/gibkun1/status/2102984812713918522) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102984812713918522)
 
-- **人物四方向朝向实验：右前最难控** — 前斜/后斜 × 左右体朝四格对照——GPT Image 2.5 偏偏不爱朝画面右前。角色朝向翻车别急着怪 prompt，先按四格测一遍再写死朝向约束。 [@X_nanamaru](https://x.com/X_nanamaru) · [原帖](https://x.com/X_nanamaru/status/2102957947001159903) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102957947001159903)
+- **人物四方向朝向实验：右前最难控** — 前斜/后斜 × 左右体朝四格对照——GPT Image 2.5 偏偏不爱朝画面右前。角色朝向翻车别急着怪 prompt，先按四格测一遍再写死朝向约束。 [@X_nanamaru](https://x.com/X_nanamaru) · [原帖](https://x.com/X_nanamaru/status/2102957947001159903) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102957947001159903)
 
-- **Sunburst vs Qwen-Image-2.1：七类日文商用图硬对照** — 构成图/比较表/ポンチ絵/信息图/决策树/店头POP/セミナーチラシ同题对比。日文原指令易崩字——改英语指令+引号逐字锁文立刻好转；竖线噪来自 VAE tiling 接缝；API 17–31s vs 本地 37–39s。商用资料图选型先看文字与结构，别只刷棚拍美女。 [@daigomiyoshi_ai](https://x.com/daigomiyoshi_ai) · [原帖](https://x.com/daigomiyoshi_ai/status/2102554528579232004) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102554528579232004)
+- **Sunburst vs Qwen-Image-2.1：七类日文商用图硬对照** — 构成图/比较表/ポンチ絵/信息图/决策树/店头POP/セミナーチラシ同题对比。日文原指令易崩字——改英语指令+引号逐字锁文立刻好转；竖线噪来自 VAE tiling 接缝；API 17–31s vs 本地 37–39s。商用资料图选型先看文字与结构，别只刷棚拍美女。 [@daigomiyoshi_ai](https://x.com/daigomiyoshi_ai) · [原帖](https://x.com/daigomiyoshi_ai/status/2102554528579232004) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102554528579232004)
 
-- **懒提示词 vs 魂提示词：同题差一个档位** — 同一美女题，糊弄 prompt 与写满细节，2.5 观感差到像两个模型。原帖可复制对照——别怪模型，先怪自己偷懒。 [@nezukichii](https://x.com/nezukichii) · [原帖](https://x.com/nezukichii/status/2102374351370952809) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102374351370952809)
+- **懒提示词 vs 魂提示词：同题差一个档位** — 同一美女题，糊弄 prompt 与写满细节，2.5 观感差到像两个模型。原帖可复制对照——别怪模型，先怪自己偷懒。 [@nezukichii](https://x.com/nezukichii) · [原帖](https://x.com/nezukichii/status/2102374351370952809) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102374351370952809)
 
-- **100 画风 STYLE ATLAS：全 Image 2.5 可复制** — 别再说 ChatGPT 动漫脸千篇一律——100 种画风对照站，站内全文公开 prompt。选型、找风格、抄作业一条龙；高级玩家也能挖冷门笔触。 [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [原帖](https://x.com/SSSS_CRYPTOMAN/status/2102346384531972197) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102346384531972197) · [prompt](https://style-atlas-100.sssscryptoman.chatgpt.site/)
+- **100 画风 STYLE ATLAS：全 Image 2.5 可复制** — 别再说 ChatGPT 动漫脸千篇一律——100 种画风对照站，站内全文公开 prompt。选型、找风格、抄作业一条龙；高级玩家也能挖冷门笔触。 [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [原帖](https://x.com/SSSS_CRYPTOMAN/status/2102346384531972197) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102346384531972197) · [prompt](https://style-atlas-100.sssscryptoman.chatgpt.site/)
 
-- **参考图当硬 harness：别啥都塞进参照** — 2.5 对参考图追从变强——旧图会连画风癖一起拽。文字说不清的结构（如服装剪裁）才上参考；要引擎力就敢把参照拿掉。 [@ramdls](https://x.com/ramdls) · [原帖](https://x.com/ramdls/status/2102341813340352832) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102341813340352832)
+- **参考图当硬 harness：别啥都塞进参照** — 2.5 对参考图追从变强——旧图会连画风癖一起拽。文字说不清的结构（如服装剪裁）才上参考；要引擎力就敢把参照拿掉。 [@ramdls](https://x.com/ramdls) · [原帖](https://x.com/ramdls/status/2102341813340352832) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102341813340352832)
 
-- **Flare 写实实测：肤质毛孔与光影不崩** — 自测打脸：皮肤纹理、自然光、手机噪点、景深、长 prompt 跟指令、 candid 姿态都站住。今年最写实档位之一——别只吹「跟 prompt」，先看光影与质感。 [@rewind02](https://x.com/rewind02) · [原帖](https://x.com/rewind02/status/2102341125235224691) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102341125235224691)
+- **Flare 写实实测：肤质毛孔与光影不崩** — 自测打脸：皮肤纹理、自然光、手机噪点、景深、长 prompt 跟指令、 candid 姿态都站住。今年最写实档位之一——别只吹「跟 prompt」，先看光影与质感。 [@rewind02](https://x.com/rewind02) · [原帖](https://x.com/rewind02/status/2102341125235224691) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102341125235224691)
 
-- **同图连改 5 次压测：色/表情/小物稳，姿态崩** — 换色、表情、加小物 OK；加背景植物会漂移项链；「上半身微倾」几乎无效。局部编辑选型别听安利——看它敢不敢动不该动的结构。 [@kozuchi_ai](https://x.com/kozuchi_ai) · [原帖](https://x.com/kozuchi_ai/status/2102324472334479536) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102324472334479536)
+- **同图连改 5 次压测：色/表情/小物稳，姿态崩** — 换色、表情、加小物 OK；加背景植物会漂移项链；「上半身微倾」几乎无效。局部编辑选型别听安利——看它敢不敢动不该动的结构。 [@kozuchi_ai](https://x.com/kozuchi_ai) · [原帖](https://x.com/kozuchi_ai/status/2102324472334479536) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102324472334479536)
 
-- **同提示词硬刚：Qwen-Image-2.1 vs Image 2.5** — 左本地 Qwen、右 GPT Image 2.5——细节丰但偏碎，Qwen 涂抹感重。消费级显卡本地模型能打到哪，并排看比听安利管用。 [@akokoi1](https://x.com/akokoi1) · [原帖](https://x.com/akokoi1/status/2102319136307363873) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102319136307363873)
+- **同提示词硬刚：Qwen-Image-2.1 vs Image 2.5** — 左本地 Qwen、右 GPT Image 2.5——细节丰但偏碎，Qwen 涂抹感重。消费级显卡本地模型能打到哪，并排看比听安利管用。 [@akokoi1](https://x.com/akokoi1) · [原帖](https://x.com/akokoi1/status/2102319136307363873) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102319136307363873)
 
-- **画材+笔触细指定：拓宽风格带宽** — 别只骂「ChatGPT 画风不对」——写清画材与笔触（水彩/钢笔淡彩/厚涂等）再出。风格槽位近乎无限，先找到自己的写法。 [@_3912657840](https://x.com/_3912657840) · [原帖](https://x.com/_3912657840/status/2102308750367576121) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102308750367576121)
+- **画材+笔触细指定：拓宽风格带宽** — 别只骂「ChatGPT 画风不对」——写清画材与笔触（水彩/钢笔淡彩/厚涂等）再出。风格槽位近乎无限，先找到自己的写法。 [@_3912657840](https://x.com/_3912657840) · [原帖](https://x.com/_3912657840/status/2102308750367576121) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102308750367576121)
 
-- **同题对照：Qwen-Image-2.1 vs GPT Image 2.5** — 左 Qwen、右 Image 2.5——字能写明白了但仍「丑」，本地 M2 Max 一张 ~18 分钟。选型别只看能出字，还要看成片审美与算力账。 [@lukfan](https://x.com/lukfan) · [原帖](https://x.com/lukfan/status/2102240402887897186) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102240402887897186)
+- **同题对照：Qwen-Image-2.1 vs GPT Image 2.5** — 左 Qwen、右 Image 2.5——字能写明白了但仍「丑」，本地 M2 Max 一张 ~18 分钟。选型别只看能出字，还要看成片审美与算力账。 [@lukfan](https://x.com/lukfan) · [原帖](https://x.com/lukfan/status/2102240402887897186) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102240402887897186)
 
-- **Sunburst 参考→chibi 三视图：先认失败再量产** — 不是吹一致性神话：侧视仍露前襟、辫子前后不一致——当设计草稿可以，上动画前先修视角与部件归属。一任务一表，别当压测片。 [@scenepond](https://x.com/scenepond) · [原帖](https://x.com/scenepond/status/2102237608025706801) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102237608025706801)
+- **Sunburst 参考→chibi 三视图：先认失败再量产** — 不是吹一致性神话：侧视仍露前襟、辫子前后不一致——当设计草稿可以，上动画前先修视角与部件归属。一任务一表，别当压测片。 [@scenepond](https://x.com/scenepond) · [原帖](https://x.com/scenepond/status/2102237608025706801) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102237608025706801&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -376,9 +392,9 @@ Known failure modes to watch: true 90° side view may still expose front bodice;
 
   </details>
 
-- **Sunburst vs 2.0 三视图握剑：手部解剖硬对照** — 同角色三视图：Sunburst 把剑柄握姿与特效一起稳住，2.0 特效一弱手就歪。选型别只看脸——道具接触点才是翻车重灾区。 [@shiropapa4622](https://x.com/shiropapa4622) · [原帖](https://x.com/shiropapa4622/status/2102148692514115902) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102148692514115902)
+- **Sunburst vs 2.0 三视图握剑：手部解剖硬对照** — 同角色三视图：Sunburst 把剑柄握姿与特效一起稳住，2.0 特效一弱手就歪。选型别只看脸——道具接触点才是翻车重灾区。 [@shiropapa4622](https://x.com/shiropapa4622) · [原帖](https://x.com/shiropapa4622/status/2102148692514115902) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102148692514115902)
 
-- **同 prompt 四格漫画：Image 2.5 vs Qwen 2.1 排版对比** — 同一套 PAGE/分镜/对白锁压两模：标题带、竖排气泡、页脚水印全写死。漫画选型别空谈画风——先看谁保住分镜几何与文字层级。 [@FURUYAN123456](https://x.com/FURUYAN123456) · [原帖](https://x.com/FURUYAN123456/status/2102015541921878078) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102015541921878078)
+- **同 prompt 四格漫画：Image 2.5 vs Qwen 2.1 排版对比** — 同一套 PAGE/分镜/对白锁压两模：标题带、竖排气泡、页脚水印全写死。漫画选型别空谈画风——先看谁保住分镜几何与文字层级。 [@FURUYAN123456](https://x.com/FURUYAN123456) · [原帖](https://x.com/FURUYAN123456/status/2102015541921878078) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102015541921878078&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -403,11 +419,11 @@ REFERENCE ROLE: appearance only; no sheet labels/layout/poses.
 
   </details>
 
-- **同 prompt 旅行站首页：Flare vs Sunburst 对照** — 同一旅行社首页 brief，Flare/Sunburst 两版愿景并排投票。选型别空谈参数——同指令看谁更贴落地页完成度。 [@alex_bagnuoli89](https://x.com/alex_bagnuoli89) · [原帖](https://x.com/alex_bagnuoli89/status/2101996295141347654) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101996295141347654)
+- **同 prompt 旅行站首页：Flare vs Sunburst 对照** — 同一旅行社首页 brief，Flare/Sunburst 两版愿景并排投票。选型别空谈参数——同指令看谁更贴落地页完成度。 [@alex_bagnuoli89](https://x.com/alex_bagnuoli89) · [原帖](https://x.com/alex_bagnuoli89/status/2101996295141347654) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101996295141347654)
 
-- **Sunburst 噪点坑：负向提示不能省** — 昨天零噪点觉得稳，今天偷懒跳过负面提示直接翻车。Sunburst 写实也别裸奔——噪点/纹理约束写进负向更稳。 [@Katze_lover](https://x.com/Katze_lover) · [原帖](https://x.com/Katze_lover/status/2101992459303850194) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101992459303850194)
+- **Sunburst 噪点坑：负向提示不能省** — 昨天零噪点觉得稳，今天偷懒跳过负面提示直接翻车。Sunburst 写实也别裸奔——噪点/纹理约束写进负向更稳。 [@Katze_lover](https://x.com/Katze_lover) · [原帖](https://x.com/Katze_lover/status/2101992459303850194) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101992459303850194)
 
-- **Sunburst 参考图逼真法：TikTok 截帧锁摄影感** — 裸 prompt 易变 AI slop；先从真实视频截氛围参考再喂 Sunburst，姿势不必一样。写实选型的可抄流程，比再堆形容词管用。 [@Mho_23](https://x.com/Mho_23) · [原帖](https://x.com/Mho_23/status/2101982659190653032) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101982659190653032)
+- **Sunburst 参考图逼真法：TikTok 截帧锁摄影感** — 裸 prompt 易变 AI slop；先从真实视频截氛围参考再喂 Sunburst，姿势不必一样。写实选型的可抄流程，比再堆形容词管用。 [@Mho_23](https://x.com/Mho_23) · [原帖](https://x.com/Mho_23/status/2101982659190653032) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101982659190653032&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -425,19 +441,19 @@ REFERENCE ROLE: appearance only; no sheet labels/layout/poses.
 
   </details>
 
-- **Image2 发丝锯齿→2.5 手修前后对照** — gpt-image-2 头发ガビガビ，丢进 2.5 用手修直接救回。发丝/细节翻车时别重抽——换型号手修往往更快。 [@hogezawa](https://x.com/hogezawa) · [原帖](https://x.com/hogezawa/status/2101955771630297443) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101955771630297443)
+- **Image2 发丝锯齿→2.5 手修前后对照** — gpt-image-2 头发ガビガビ，丢进 2.5 用手修直接救回。发丝/细节翻车时别重抽——换型号手修往往更快。 [@hogezawa](https://x.com/hogezawa) · [原帖](https://x.com/hogezawa/status/2101955771630297443) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101955771630297443)
 
-- **同风格指令：Image 2.0 vs Image 2.5 Sunburst** — 同一套风格说明并排——2.0 与 2.5 Sunburst 差异一目了然。选型别只听参数表，看同指令下谁更贴你要的完成度。 [@Project_VLA](https://x.com/Project_VLA) · [原帖](https://x.com/Project_VLA/status/2101915075267150283) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101915075267150283)
+- **同风格指令：Image 2.0 vs Image 2.5 Sunburst** — 同一套风格说明并排——2.0 与 2.5 Sunburst 差异一目了然。选型别只听参数表，看同指令下谁更贴你要的完成度。 [@Project_VLA](https://x.com/Project_VLA) · [原帖](https://x.com/Project_VLA/status/2101915075267150283) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101915075267150283)
 
-- **同提示词三方硬刚：Image 2.5 vs Mai 2.6 vs Qwen 2.1** — macOS 桌面 + 格斗之王题材同 prompt 三联对照。作者更爱 Image 2.5 的风格感，Qwen 八神庵更贴原型——选型别听安利，先并排看谁更「有感觉」。 [@aidavid125](https://x.com/aidavid125) · [原帖](https://x.com/aidavid125/status/2101894576311242772) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101894576311242772)
+- **同提示词三方硬刚：Image 2.5 vs Mai 2.6 vs Qwen 2.1** — macOS 桌面 + 格斗之王题材同 prompt 三联对照。作者更爱 Image 2.5 的风格感，Qwen 八神庵更贴原型——选型别听安利，先并排看谁更「有感觉」。 [@aidavid125](https://x.com/aidavid125) · [原帖](https://x.com/aidavid125/status/2101894576311242772) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101894576311242772)
 
-- **空间角度听话度：Image 2.5 比 Qwen 2.1 更听绝对转角** — 让模型把人物转到绝对数学角度——Qwen Image 2.1 不太听话，Image 2.5 更稳。做分镜/预演转角一致性时，这条选型结论比 Benchmark 更接地气。 [@MinLiBuilds](https://x.com/MinLiBuilds) · [原帖](https://x.com/MinLiBuilds/status/2101883427524153369) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101883427524153369)
+- **空间角度听话度：Image 2.5 比 Qwen 2.1 更听绝对转角** — 让模型把人物转到绝对数学角度——Qwen Image 2.1 不太听话，Image 2.5 更稳。做分镜/预演转角一致性时，这条选型结论比 Benchmark 更接地气。 [@MinLiBuilds](https://x.com/MinLiBuilds) · [原帖](https://x.com/MinLiBuilds/status/2101883427524153369) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101883427524153369)
 
-- **同prompt硬刚：Image 2.5 vs Banana vs Qwen 2.1** — 同一提示词三联对照：GPT Image 2.5、Banana、刚开源的 Qwen Image 2.1（7B）。选型别靠嘴炮——并排放大看质感与结构谁先崩。 [@alin_zone](https://x.com/alin_zone) · [原帖](https://x.com/alin_zone/status/2101685588252590123) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101685588252590123)
+- **同prompt硬刚：Image 2.5 vs Banana vs Qwen 2.1** — 同一提示词三联对照：GPT Image 2.5、Banana、刚开源的 Qwen Image 2.1（7B）。选型别靠嘴炮——并排放大看质感与结构谁先崩。 [@alin_zone](https://x.com/alin_zone) · [原帖](https://x.com/alin_zone/status/2101685588252590123) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101685588252590123)
 
-- **同图猜谜：Image 2.0 vs Flare Max vs Sunburst Max** — 同一题材四联对照：猜哪个是 2.0、哪个是 Flare Max、哪个是 Sunburst Max。作者观感是 2.0 掉智明显——选型别听安利，先并排放大看结构谁先崩。 [@l200892013](https://x.com/l200892013) · [原帖](https://x.com/l200892013/status/2101655549167468554) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101655549167468554)
+- **同图猜谜：Image 2.0 vs Flare Max vs Sunburst Max** — 同一题材四联对照：猜哪个是 2.0、哪个是 Flare Max、哪个是 Sunburst Max。作者观感是 2.0 掉智明显——选型别听安利，先并排放大看结构谁先崩。 [@l200892013](https://x.com/l200892013) · [原帖](https://x.com/l200892013/status/2101655549167468554) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101655549167468554)
 
-- **夜窗海报硬刚：2 / Sunburst / Flare 同题十二格** — 展览海报 NIGHT WINDOWS：同楼同机位 4×3 夜窗格，邻窗切片+四行小字全对。Image 2 缺邻窗、Sunburst 格线不齐、Flare 中列偏宽——100% 放大看差别；方法与单价在回复。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2100943297103778003) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100943297103778003)
+- **夜窗海报硬刚：2 / Sunburst / Flare 同题十二格** — 展览海报 NIGHT WINDOWS：同楼同机位 4×3 夜窗格，邻窗切片+四行小字全对。Image 2 缺邻窗、Sunburst 格线不齐、Flare 中列偏宽——100% 放大看差别；方法与单价在回复。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2100943297103778003) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100943297103778003&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -447,7 +463,7 @@ Exhibition poster NIGHT WINDOWS: flat straight-on view of a printed sheet on war
 
   </details>
 
-- **胶卷 Film Roll：Banana2 打底 + Sunburst 叠回忆** — 两阶段：Nano Banana 2 先出空白 35mm 胶卷底，再 Sunburst 把角色回忆烤进每一格。作者点名 Flare 更易崩胶卷结构——选型直接听劝。 [@094WPdx9ZrfYJnS](https://x.com/094WPdx9ZrfYJnS) · [原帖](https://x.com/094WPdx9ZrfYJnS/status/2100910986391900578) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100910986391900578)
+- **胶卷 Film Roll：Banana2 打底 + Sunburst 叠回忆** — 两阶段：Nano Banana 2 先出空白 35mm 胶卷底，再 Sunburst 把角色回忆烤进每一格。作者点名 Flare 更易崩胶卷结构——选型直接听劝。 [@094WPdx9ZrfYJnS](https://x.com/094WPdx9ZrfYJnS) · [原帖](https://x.com/094WPdx9ZrfYJnS/status/2100910986391900578) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100910986391900578&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -464,9 +480,9 @@ Exhibition poster NIGHT WINDOWS: flat straight-on view of a printed sheet on war
 
   </details>
 
-- **Sunburst 连改 20 次仍一致：编辑压测视频** — 一张图 → 改 → 再改编辑结果，连滚 20 轮人物与风格还不崩。选型时别只看首帧——一致性才是 Sunburst 被低估的地方。 [@StratosBase](https://x.com/StratosBase) · [原帖](https://x.com/StratosBase/status/2100896878564934042) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100896878564934042)
+- **Sunburst 连改 20 次仍一致：编辑压测视频** — 一张图 → 改 → 再改编辑结果，连滚 20 轮人物与风格还不崩。选型时别只看首帧——一致性才是 Sunburst 被低估的地方。 [@StratosBase](https://x.com/StratosBase) · [原帖](https://x.com/StratosBase/status/2100896878564934042) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100896878564934042)
 
-- **n=4 批量自检：2 枚目以降对照 1 枚目修崩** — 一次出多张别指望运气——在 prompt 里写死「第 2 张起对照第 1 张与原文，有矛盾就改」。Work 模式少翻车的小补丁，日文原句可直接粘。 [@magu_ai_h](https://x.com/magu_ai_h) · [原帖](https://x.com/magu_ai_h/status/2100885947584074213) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100885947584074213)
+- **n=4 批量自检：2 枚目以降对照 1 枚目修崩** — 一次出多张别指望运气——在 prompt 里写死「第 2 张起对照第 1 张与原文，有矛盾就改」。Work 模式少翻车的小补丁，日文原句可直接粘。 [@magu_ai_h](https://x.com/magu_ai_h) · [原帖](https://x.com/magu_ai_h/status/2100885947584074213) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100885947584074213&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -480,9 +496,9 @@ n=4などで一度に複数枚を生成する時、
 
   </details>
 
-- **中文提示词骨架：在哪 / 是谁 / 光怎么走 / 不要什么** — 四问拆开写，比堆形容词稳。小海豚笔记长文把 Image 2.5 中文写法收成框架——入门少翻车，先问限制再问美。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2100858084629626948) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100858084629626948) · [prompt](https://x.com/i/article/2100855552205377536)
+- **中文提示词骨架：在哪 / 是谁 / 光怎么走 / 不要什么** — 四问拆开写，比堆形容词稳。小海豚笔记长文把 Image 2.5 中文写法收成框架——入门少翻车，先问限制再问美。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2100858084629626948) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100858084629626948) · [prompt](https://x.com/i/article/2100855552205377536)
 
-- **Grok vs ChatGPT Images 2.5：同 prompt 高定浴室过肩镜头** — 同一段高定浴室过肩 hero prompt，左右对照 Grok 与 ChatGPT Images 2.5。硬刚选型别靠感觉，同题同光位最狠。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2100827087326076976) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100827087326076976)
+- **Grok vs ChatGPT Images 2.5：同 prompt 高定浴室过肩镜头** — 同一段高定浴室过肩 hero prompt，左右对照 Grok 与 ChatGPT Images 2.5。硬刚选型别靠感觉，同题同光位最狠。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2100827087326076976) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100827087326076976&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -500,13 +516,13 @@ Captured with a wide-latitude digital cinema look on a fast 50mm portrait prime 
 
   </details>
 
-- **Image2 vs Flare vs Sunburst：同 prompt 速度与成片对打** — 同一套 prompt 跑 GPT Image 2 / 2.5 Flare / 2.5 Sunburst，直接看升级差在哪。Flare 速度约 2.3× 于 Image 2，选型别只看样张。 [@BLOCKLORDS](https://x.com/BLOCKLORDS) · [原帖](https://x.com/BLOCKLORDS/status/2100812069385932848) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100812069385932848)
+- **Image2 vs Flare vs Sunburst：同 prompt 速度与成片对打** — 同一套 prompt 跑 GPT Image 2 / 2.5 Flare / 2.5 Sunburst，直接看升级差在哪。Flare 速度约 2.3× 于 Image 2，选型别只看样张。 [@BLOCKLORDS](https://x.com/BLOCKLORDS) · [原帖](https://x.com/BLOCKLORDS/status/2100812069385932848) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100812069385932848)
 
-- **同题四厂硬刚：GPT Image 2.5 vs Grok vs MJ vs Krea** — Crystal Dragon Lancer 同题纯 t2i 零修图并排四厂——Image 2.5 / Grok / Midjourney / Krea 谁先驯服龙臂叠影。跨厂选型甩图现场。 [@ellewayAI](https://x.com/ellewayAI) · [原帖](https://x.com/ellewayAI/status/2100701388363976942) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100701388363976942)
+- **同题四厂硬刚：GPT Image 2.5 vs Grok vs MJ vs Krea** — Crystal Dragon Lancer 同题纯 t2i 零修图并排四厂——Image 2.5 / Grok / Midjourney / Krea 谁先驯服龙臂叠影。跨厂选型甩图现场。 [@ellewayAI](https://x.com/ellewayAI) · [原帖](https://x.com/ellewayAI/status/2100701388363976942) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100701388363976942)
 
-- **同 selfie prompt：Image 2 vs 2.5 Sunburst 广告人像** — 同一自拍广告题左右开：2.0 皮肤过锐/头发僵/天空平，Sunburst 皮肤干净、脸真、装备有磨损。投放人像选型直接甩这组并排。 [@marcobatt](https://x.com/marcobatt) · [原帖](https://x.com/marcobatt/status/2100587174739546617) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100587174739546617)
+- **同 selfie prompt：Image 2 vs 2.5 Sunburst 广告人像** — 同一自拍广告题左右开：2.0 皮肤过锐/头发僵/天空平，Sunburst 皮肤干净、脸真、装备有磨损。投放人像选型直接甩这组并排。 [@marcobatt](https://x.com/marcobatt) · [原帖](https://x.com/marcobatt/status/2100587174739546617) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100587174739546617)
 
-- **Grok vs ChatGPT Images 2.5：同题度假夜景人像** — 同长 prompt 并排 Grok 与 Images 2.5——丝缎、时间戳、暖灯 bokeh 谁更像真机。跨厂选型附完整可抄配方。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2100582150131024072) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100582150131024072)
+- **Grok vs ChatGPT Images 2.5：同题度假夜景人像** — 同长 prompt 并排 Grok 与 Images 2.5——丝缎、时间戳、暖灯 bokeh 谁更像真机。跨厂选型附完整可抄配方。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2100582150131024072) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100582150131024072&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -524,9 +540,9 @@ Captured with a wide-latitude digital cinema look evoking a vintage high-end 35m
 
   </details>
 
-- **ChatGPT Images2.5 vs API gpt-image2：同参考色味差** — 同参考同提示：左边本家 Images 2.5、右边仍供 API 的 gpt-image2，色味差肉眼可见。接客户别混「网页版」和「旧 API 代际」——选型先看并排。 [@MAyamaYA_69_](https://x.com/MAyamaYA_69_) · [原帖](https://x.com/MAyamaYA_69_/status/2100574297488322902) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100574297488322902)
+- **ChatGPT Images2.5 vs API gpt-image2：同参考色味差** — 同参考同提示：左边本家 Images 2.5、右边仍供 API 的 gpt-image2，色味差肉眼可见。接客户别混「网页版」和「旧 API 代际」——选型先看并排。 [@MAyamaYA_69_](https://x.com/MAyamaYA_69_) · [原帖](https://x.com/MAyamaYA_69_/status/2100574297488322902) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100574297488322902)
 
-- **Images 2.5 vs Nano Banana2：同题东京路牌文字** — 同 prompt 东京夜路口纸牌「I'M STILL LEARNING」——谁把字拼对、写清。路牌/手写标是选型硬指标，附完整对照 prompt。 [@flarehorizon275](https://x.com/flarehorizon275) · [原帖](https://x.com/flarehorizon275/status/2100571656531959836) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100571656531959836)
+- **Images 2.5 vs Nano Banana2：同题东京路牌文字** — 同 prompt 东京夜路口纸牌「I'M STILL LEARNING」——谁把字拼对、写清。路牌/手写标是选型硬指标，附完整对照 prompt。 [@flarehorizon275](https://x.com/flarehorizon275) · [原帖](https://x.com/flarehorizon275/status/2100571656531959836) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100571656531959836&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -538,7 +554,7 @@ Compare: ChatGPT Images 2.5 vs Nano Banana 2 — same prompt; judge who nails th
 
   </details>
 
-- **Flare 黑板菜单零重试：四行价格文字全对** — 给 Flare 一块四行黑板菜单+精确标价，禁止重抽——单词和美元金额一次全对。文字曾是 AI 图的破绽；做菜单/价目表广告前，先过这关。 [@modelstoreai](https://x.com/modelstoreai) · [原帖](https://x.com/modelstoreai/status/2100565452774650265) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100565452774650265)
+- **Flare 黑板菜单零重试：四行价格文字全对** — 给 Flare 一块四行黑板菜单+精确标价，禁止重抽——单词和美元金额一次全对。文字曾是 AI 图的破绽；做菜单/价目表广告前，先过这关。 [@modelstoreai](https://x.com/modelstoreai) · [原帖](https://x.com/modelstoreai/status/2100565452774650265) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100565452774650265&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -552,11 +568,11 @@ Why it matters: text accuracy used to be the tell that gave away an AI image —
 
   </details>
 
-- **Sunburst 多轮精确编辑压测：换衫连环到第几轮崩** — 原图→改 T 恤→再拿输出当下轮输入，连压五轮：别的模型第三轮已噩梦，Sunburst 第五轮还能看。Flare 赶量 / Sunburst 精改——编辑保真硬证据。 [@alecwilcock](https://x.com/alecwilcock) · [原帖](https://x.com/alecwilcock/status/2100555617941307601) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100555617941307601)
+- **Sunburst 多轮精确编辑压测：换衫连环到第几轮崩** — 原图→改 T 恤→再拿输出当下轮输入，连压五轮：别的模型第三轮已噩梦，Sunburst 第五轮还能看。Flare 赶量 / Sunburst 精改——编辑保真硬证据。 [@alecwilcock](https://x.com/alecwilcock) · [原帖](https://x.com/alecwilcock/status/2100555617941307601) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100555617941307601)
 
-- **Flare vs Recraft V4.1 Pro Round 2：四场景对照** — 动漫格斗、奶奶骑越野、爷爷贴纸大笑、紫光墨镜模特——同 brief 并排看谁吃得下。跨厂选型别只听官号，看评论区 prompt。 [@recraftai](https://x.com/recraftai) · [原帖](https://x.com/recraftai/status/2100500895091798168) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100500895091798168)
+- **Flare vs Recraft V4.1 Pro Round 2：四场景对照** — 动漫格斗、奶奶骑越野、爷爷贴纸大笑、紫光墨镜模特——同 brief 并排看谁吃得下。跨厂选型别只听官号，看评论区 prompt。 [@recraftai](https://x.com/recraftai) · [原帖](https://x.com/recraftai/status/2100500895091798168) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100500895091798168)
 
-- **品牌恐龙四模同题：Image2 / Flare / Sunburst / ChatGPT** — Fortune 500 品牌捏成机械恐龙 2×2，同一段伪着色器 prompt 压四模。选型别空喊「更强」——直接看谁材质映射和 logo 叠层过关。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100496729627836540) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100496729627836540)
+- **品牌恐龙四模同题：Image2 / Flare / Sunburst / ChatGPT** — Fortune 500 品牌捏成机械恐龙 2×2，同一段伪着色器 prompt 压四模。选型别空喊「更强」——直接看谁材质映射和 logo 叠层过关。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100496729627836540) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100496729627836540&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -588,7 +604,7 @@ draw_2D_overlay(top_left, infer_logo(brand));
 
   </details>
 
-- **Nano Banana 2 Lite vs Image 2.5：移轴微缩硬对照** — 同题 1:1 / 2×2：一边读不懂提示，一边交出 Scheimpflug 移轴微缩拼贴。附完整 INTENT/LAWS/FORBIDDEN 配方，选型话术与光学约束一次齐。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100356053095641424) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100356053095641424)
+- **Nano Banana 2 Lite vs Image 2.5：移轴微缩硬对照** — 同题 1:1 / 2×2：一边读不懂提示，一边交出 Scheimpflug 移轴微缩拼贴。附完整 INTENT/LAWS/FORBIDDEN 配方，选型话术与光学约束一次齐。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100356053095641424) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100356053095641424&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -626,9 +642,9 @@ FORBIDDEN   a blur gradient that is a function of IMAGE HEIGHT rather than of di
 
   </details>
 
-- **Row-Bot 上 Flare vs Sunburst：放大镜硬对比** — 同一复杂静物题连跑两档：速度档 Flare vs 精度档 Sunburst，连放大镜/高光/材质差都写清楚。选型话术与 n=1 对照素材一次齐。 [@sydsachar](https://x.com/sydsachar) · [原帖](https://x.com/sydsachar/status/2100216986538029207) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100216986538029207)
+- **Row-Bot 上 Flare vs Sunburst：放大镜硬对比** — 同一复杂静物题连跑两档：速度档 Flare vs 精度档 Sunburst，连放大镜/高光/材质差都写清楚。选型话术与 n=1 对照素材一次齐。 [@sydsachar](https://x.com/sydsachar) · [原帖](https://x.com/sydsachar/status/2100216986538029207) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100216986538029207)
 
-- **Sunburst vs Image2：科技品牌捏成昆虫 2×2** — 结构化 2×2 指令把品牌符号重构成昆虫形态学。选型素材 + 可改模板，比空喊「2.5 更强」管用。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100211349414441426) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100211349414441426)
+- **Sunburst vs Image2：科技品牌捏成昆虫 2×2** — 结构化 2×2 指令把品牌符号重构成昆虫形态学。选型素材 + 可改模板，比空喊「2.5 更强」管用。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100211349414441426) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100211349414441426&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -638,27 +654,27 @@ FORBIDDEN   a blur gradient that is a function of IMAGE HEIGHT rather than of di
 
   </details>
 
-- **GPT Image 2.5 使用手册：模型·参数·提示词** — 苏乐长文把型号、参数与提示词一次摊开。接客户或写自家 playbook 当速查表，比刷碎片帖靠谱。 [@ai_suxiaole](https://x.com/ai_suxiaole) · [原帖](https://x.com/ai_suxiaole/status/2100131000055390470) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100131000055390470) · [prompt](https://x.com/i/article/2100107397507477504)
+- **GPT Image 2.5 使用手册：模型·参数·提示词** — 苏乐长文把型号、参数与提示词一次摊开。接客户或写自家 playbook 当速查表，比刷碎片帖靠谱。 [@ai_suxiaole](https://x.com/ai_suxiaole) · [原帖](https://x.com/ai_suxiaole/status/2100131000055390470) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100131000055390470) · [prompt](https://x.com/i/article/2100107397507477504)
 
-- **Image2 vs Sunburst：光与发丝并排打脸** — KAWARIMI 同场景：1 张 Image 2、2 张 Sunburst。光更满、头发会「晃」，也更夸张——角色一致性选型别只看干净。 [@eightbeat8b](https://x.com/eightbeat8b) · [原帖](https://x.com/eightbeat8b/status/2100110852984823931) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100110852984823931)
+- **Image2 vs Sunburst：光与发丝并排打脸** — KAWARIMI 同场景：1 张 Image 2、2 张 Sunburst。光更满、头发会「晃」，也更夸张——角色一致性选型别只看干净。 [@eightbeat8b](https://x.com/eightbeat8b) · [原帖](https://x.com/eightbeat8b/status/2100110852984823931) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100110852984823931)
 
-- **Flare / Sunburst API 实务清单：快产 vs 精修** — Flare 日常量产、Sunburst 局部改 / 多参考 / mask；xhigh·max、会话续改一次理清。一人团队接自动化管线先抄这张分工表。 [@AIlife2024ka](https://x.com/AIlife2024ka) · [原帖](https://x.com/AIlife2024ka/status/2100083815339425917) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100083815339425917)
+- **Flare / Sunburst API 实务清单：快产 vs 精修** — Flare 日常量产、Sunburst 局部改 / 多参考 / mask；xhigh·max、会话续改一次理清。一人团队接自动化管线先抄这张分工表。 [@AIlife2024ka](https://x.com/AIlife2024ka) · [原帖](https://x.com/AIlife2024ka/status/2100083815339425917) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100083815339425917)
 
-- **Image 2 vs 2.5 Flare：同尺寸成本速度 A/B** — 同 prompt 同尺寸：Image 2 约 32 秒 / $0.035，2.5 Flare 约 10 秒 / $0.009。谈迭代节奏和账单时，这组数字比口号硬。 [@111tad1](https://x.com/111tad1) · [原帖](https://x.com/111tad1/status/2100070991254921457) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100070991254921457)
+- **Image 2 vs 2.5 Flare：同尺寸成本速度 A/B** — 同 prompt 同尺寸：Image 2 约 32 秒 / $0.035，2.5 Flare 约 10 秒 / $0.009。谈迭代节奏和账单时，这组数字比口号硬。 [@111tad1](https://x.com/111tad1) · [原帖](https://x.com/111tad1/status/2100070991254921457) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100070991254921457)
 
-- **Flare vs Sunburst：16 宫格只改一格不串改** — 同一份情侣生活照 + 同一条二次编辑 prompt，ZenMux PK 看谁改到位又不顺手重做另外 15 格。局部改选型别再听口嗨——并排露馅最管用。 [@msjiaozhu](https://x.com/msjiaozhu) · [原帖](https://x.com/msjiaozhu/status/2100044254987043250) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100044254987043250)
+- **Flare vs Sunburst：16 宫格只改一格不串改** — 同一份情侣生活照 + 同一条二次编辑 prompt，ZenMux PK 看谁改到位又不顺手重做另外 15 格。局部改选型别再听口嗨——并排露馅最管用。 [@msjiaozhu](https://x.com/msjiaozhu) · [原帖](https://x.com/msjiaozhu/status/2100044254987043250) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100044254987043250)
 
-- **同 prompt 三题材：Image 2 vs 2.5 并排烤炉** — 插画 / 胶片写真 / 时装 editorial 同一提示压两代，附可抄 prompt。选型别靠感觉——并排看谁更听话。 [@magnific](https://x.com/magnific) · [原帖](https://x.com/magnific/status/2099984889554825693) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099984889554825693)
+- **同 prompt 三题材：Image 2 vs 2.5 并排烤炉** — 插画 / 胶片写真 / 时装 editorial 同一提示压两代，附可抄 prompt。选型别靠感觉——并排看谁更听话。 [@magnific](https://x.com/magnific) · [原帖](https://x.com/magnific/status/2099984889554825693) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099984889554825693)
 
-- **Flare 4K Max vs Neo Banana Pro：同题硬刚** — 左 Google Neo Banana Pro 4K、右 GPT Image 2.5 Flare 4K Max。跨厂旗舰选型甩图就行。 [@leploutos](https://x.com/leploutos) · [原帖](https://x.com/leploutos/status/2099865822231711948) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099865822231711948)
+- **Flare 4K Max vs Neo Banana Pro：同题硬刚** — 左 Google Neo Banana Pro 4K、右 GPT Image 2.5 Flare 4K Max。跨厂旗舰选型甩图就行。 [@leploutos](https://x.com/leploutos) · [原帖](https://x.com/leploutos/status/2099865822231711948) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099865822231711948)
 
-- **物体删除烤炉：Sunburst vs Nano Banana 2** — 同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。 [@danywach](https://x.com/danywach) · [原帖](https://x.com/danywach/status/2099845477885714780) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099845477885714780) · [prompt](https://nanostudiopro.com/blog/nano-banana-2-vs-gpt-image-2-5-object-removal)
+- **物体删除烤炉：Sunburst vs Nano Banana 2** — 同图删近邻物体——坐标 vs 语义谁说了算；附分数、成本与失败样张长文。选型别只看美图，抠图/清杂物场景先过这关。 [@danywach](https://x.com/danywach) · [原帖](https://x.com/danywach/status/2099845477885714780) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099845477885714780) · [prompt](https://nanostudiopro.com/blog/nano-banana-2-vs-gpt-image-2-5-object-removal)
 
-- **Flare 赶量测稿 / Sunburst 出片：同模两档** — 一句话说清选型：Flare 管产品试错与粗视觉，Sunburst 管光影材质与可交货成片。别玄学，按交付阶段切。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766335710654676) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099766335710654676)
+- **Flare 赶量测稿 / Sunburst 出片：同模两档** — 一句话说清选型：Flare 管产品试错与粗视觉，Sunburst 管光影材质与可交货成片。别玄学，按交付阶段切。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766335710654676) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099766335710654676)
 
-- **Codex MCP Sunburst vs 内置 image_gen 同题** — 结城浩对照：mcp-create-image 走 GPT Image 2.5 Sunburst，另一路用 Codex 内置 image_gen。同是 OpenAI，管线不同画风也不同——工具链选型别混。 [@hyuki](https://x.com/hyuki) · [原帖](https://x.com/hyuki/status/2099750214492131662) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099750214492131662)
+- **Codex MCP Sunburst vs 内置 image_gen 同题** — 结城浩对照：mcp-create-image 走 GPT Image 2.5 Sunburst，另一路用 Codex 内置 image_gen。同是 OpenAI，管线不同画风也不同——工具链选型别混。 [@hyuki](https://x.com/hyuki) · [原帖](https://x.com/hyuki/status/2099750214492131662) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099750214492131662)
 
-- **黑手党影院人像：2.5 vs 2 同脸硬刚** — 左 2.5、右 2，上传脸锁身份出奢车雪茄黑帮海报。选型看脸与烟雾细节差，完整 prompt 可抄。 [@john_my07](https://x.com/john_my07) · [原帖](https://x.com/john_my07/status/2099745210196738366) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099745210196738366)
+- **黑手党影院人像：2.5 vs 2 同脸硬刚** — 左 2.5、右 2，上传脸锁身份出奢车雪茄黑帮海报。选型看脸与烟雾细节差，完整 prompt 可抄。 [@john_my07](https://x.com/john_my07) · [原帖](https://x.com/john_my07/status/2099745210196738366) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099745210196738366&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -668,7 +684,7 @@ Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a mode
 
   </details>
 
-- **Flare Max vs Sunburst Max：同题丝路人像硬对比** — Miora 里左右并排：左边 Flare Max、右边 Sunburst Max，留言区放完整 prompt。选型别口嗨，截这组进评审会。 [@shitunote](https://x.com/shitunote) · [原帖](https://x.com/shitunote/status/2099714542511292721) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099714542511292721)
+- **Flare Max vs Sunburst Max：同题丝路人像硬对比** — Miora 里左右并排：左边 Flare Max、右边 Sunburst Max，留言区放完整 prompt。选型别口嗨，截这组进评审会。 [@shitunote](https://x.com/shitunote) · [原帖](https://x.com/shitunote/status/2099714542511292721) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099714542511292721&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -678,31 +694,31 @@ Create a breathtaking, ultra-realistic live-action movie still of a pristine, fl
 
   </details>
 
-- **同 prompt 四宫格：Image 2.5 vs 2.0** — 同一提示词并排打脸细节与一致性。选型别靠感觉，把这组截进评审会就完事。 [@HIX_AI_](https://x.com/HIX_AI_) · [原帖](https://x.com/HIX_AI_/status/2099490851919458365) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099490851919458365)
+- **同 prompt 四宫格：Image 2.5 vs 2.0** — 同一提示词并排打脸细节与一致性。选型别靠感觉，把这组截进评审会就完事。 [@HIX_AI_](https://x.com/HIX_AI_) · [原帖](https://x.com/HIX_AI_/status/2099490851919458365) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099490851919458365)
 
-- **夜闪人像三连：2 / Sunburst / Flare 同脸硬刚** — 直闪夜街同一张脸参考，左到右 Image 2、Sunburst、Flare；Flare 整体最强，2 反而更像「相机拍出来」。选型别只看干净——设置与费用在回复里。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2099483146966446369) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099483146966446369)
+- **夜闪人像三连：2 / Sunburst / Flare 同脸硬刚** — 直闪夜街同一张脸参考，左到右 Image 2、Sunburst、Flare；Flare 整体最强，2 反而更像「相机拍出来」。选型别只看干净——设置与费用在回复里。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2099483146966446369) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099483146966446369)
 
-- **角色设计表压测：2 / Sunburst / Flare 同题** — 一 prompt 三跑，专测排版、小字、多视角、剪影标注。做 IP 表或产品角色圣经直接抄对照法。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2099482513693622358) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099482513693622358)
+- **角色设计表压测：2 / Sunburst / Flare 同题** — 一 prompt 三跑，专测排版、小字、多视角、剪影标注。做 IP 表或产品角色圣经直接抄对照法。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2099482513693622358) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099482513693622358)
 
-- **同题秒表：2.0 九十秒 → Flare 二十秒** — 日常缩略图 prompt 实测：2.0≈90s、Flare≈20s、Sunburst≈34s，比官方「最快 50%」还狠。选型先看秒表再谈画质。 [@rutinelabo](https://x.com/rutinelabo) · [原帖](https://x.com/rutinelabo/status/2099445588249182479) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099445588249182479)
+- **同题秒表：2.0 九十秒 → Flare 二十秒** — 日常缩略图 prompt 实测：2.0≈90s、Flare≈20s、Sunburst≈34s，比官方「最快 50%」还狠。选型先看秒表再谈画质。 [@rutinelabo](https://x.com/rutinelabo) · [原帖](https://x.com/rutinelabo/status/2099445588249182479) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099445588249182479)
 
-- **真正值钱的是返工：局部改+多轮一致性** — 画质只是表层；一次只改该改的、多轮后脸/构图/品牌还能对齐，才进得了真生产。提示词玄学正在贬值。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2099427815829729441) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099427815829729441)
+- **真正值钱的是返工：局部改+多轮一致性** — 画质只是表层；一次只改该改的、多轮后脸/构图/品牌还能对齐，才进得了真生产。提示词玄学正在贬值。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2099427815829729441) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099427815829729441)
 
-- **同 prompt 四格：2.5 更真、更少 AI slop** — 前两张 2.5、后两张 2.0 并排。真实感升级不是嘴炮——少塑料感、多摄影感，选型时拿来打脸最直接。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099417551411494936) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099417551411494936)
+- **同 prompt 四格：2.5 更真、更少 AI slop** — 前两张 2.5、后两张 2.0 并排。真实感升级不是嘴炮——少塑料感、多摄影感，选型时拿来打脸最直接。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099417551411494936) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099417551411494936)
 
-- **「别把喜欢的地方改坏」：Sunburst 精修 vs Flare 赶量** — 创作者要的往往不是更美，是改背景别毁脸、改字别毁排版。API 里 Sunburst 盯编辑精度、Flare 盯日常量产——选型别混。 [@yu_min_days](https://x.com/yu_min_days) · [原帖](https://x.com/yu_min_days/status/2099392705780756829) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099392705780756829)
+- **「别把喜欢的地方改坏」：Sunburst 精修 vs Flare 赶量** — 创作者要的往往不是更美，是改背景别毁脸、改字别毁排版。API 里 Sunburst 盯编辑精度、Flare 盯日常量产——选型别混。 [@yu_min_days](https://x.com/yu_min_days) · [原帖](https://x.com/yu_min_days/status/2099392705780756829) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099392705780756829)
 
-- **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099390242197565492) · [prompt](https://img.dsxzai.com/)
+- **Image 2.5 案例提示词站：复制就能同款** — GPT-6 太吵时，这里把网上 2.5 案例和提示词收成站，每条带来源。找灵感/抄作业的第二入口。 [@dashiAIxz](https://x.com/dashiAIxz) · [原帖](https://x.com/dashiAIxz/status/2099390242197565492) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099390242197565492) · [prompt](https://img.dsxzai.com/)
 
-- **2.5 vs 2.0：80 年代跑车真实感硬对比** — 同一题材拉齐看：车漆、人体皮肤、细节密度一眼分代。选型别听口号，把这组并排截图扔进评审会就完事。 [@icreat_ai](https://x.com/icreat_ai) · [原帖](https://x.com/icreat_ai/status/2099374093263106123) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099374093263106123)
+- **2.5 vs 2.0：80 年代跑车真实感硬对比** — 同一题材拉齐看：车漆、人体皮肤、细节密度一眼分代。选型别听口号，把这组并排截图扔进评审会就完事。 [@icreat_ai](https://x.com/icreat_ai) · [原帖](https://x.com/icreat_ai/status/2099374093263106123) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099374093263106123)
 
-- **官方 Prompt 指南中文提炼：用途→主体→限制** — 先说最终用途，再写主体、构图、风格、光线、材质、文字和限制；指定文字用引号写死位置字体。入门骨架抄这条就够。 [@king1818888](https://x.com/king1818888) · [原帖](https://x.com/king1818888/status/2099336586462695735) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099336586462695735)
+- **官方 Prompt 指南中文提炼：用途→主体→限制** — 先说最终用途，再写主体、构图、风格、光线、材质、文字和限制；指定文字用引号写死位置字体。入门骨架抄这条就够。 [@king1818888](https://x.com/king1818888) · [原帖](https://x.com/king1818888/status/2099336586462695735) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099336586462695735)
 
-- **Flare / Sunburst 价格带选型表：别只盯榜一** — 同价双版本按任务分流：Flare 求吞吐默认，Sunburst 求多轮精改。把价格带写进选型表，别被编辑榜分数带跑。 [@jojogh_007](https://x.com/jojogh_007) · [原帖](https://x.com/jojogh_007/status/2099330504034308530) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099330504034308530)
+- **Flare / Sunburst 价格带选型表：别只盯榜一** — 同价双版本按任务分流：Flare 求吞吐默认，Sunburst 求多轮精改。把价格带写进选型表，别被编辑榜分数带跑。 [@jojogh_007](https://x.com/jojogh_007) · [原帖](https://x.com/jojogh_007/status/2099330504034308530) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099330504034308530)
 
-- **Flare 默认 vs Sunburst：ChatGPT 比裸 API 更懂审美** — 同题四路：普通/精度优先/API Flare/API Sunburst。结论狠：ChatGPT 上下文导演感拉满，裸 API 反而更淡——选型别只比型号名。 [@omochgpt](https://x.com/omochgpt) · [原帖](https://x.com/omochgpt/status/2099302189781176717) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099302189781176717)
+- **Flare 默认 vs Sunburst：ChatGPT 比裸 API 更懂审美** — 同题四路：普通/精度优先/API Flare/API Sunburst。结论狠：ChatGPT 上下文导演感拉满，裸 API 反而更淡——选型别只比型号名。 [@omochgpt](https://x.com/omochgpt) · [原帖](https://x.com/omochgpt/status/2099302189781176717) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099302189781176717)
 
-- **同 prompt 2→2.5：格斗角色高端 editorial 手感差一截** — Lovart 上同题重跑，2.5 的博物馆级人设海报更干净。附高定角色导演 prompt，换角色名就能出系列。 [@opener_ai](https://x.com/opener_ai) · [原帖](https://x.com/opener_ai/status/2099284978194612471) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099284978194612471)
+- **同 prompt 2→2.5：格斗角色高端 editorial 手感差一截** — Lovart 上同题重跑，2.5 的博物馆级人设海报更干净。附高定角色导演 prompt，换角色名就能出系列。 [@opener_ai](https://x.com/opener_ai) · [原帖](https://x.com/opener_ai/status/2099284978194612471) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099284978194612471&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -854,11 +870,11 @@ Write a single, fully integrated image generation prompt in natural descriptive 
 
   </details>
 
-- **同题修车：Flare vs Sunburst 谁更「真」** — 同一 brief（修自行车师傅）、同设置零修图双轨对照。快速建立选模直觉，别靠玄学。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2098397131363025030) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098397131363025030)
+- **同题修车：Flare vs Sunburst 谁更「真」** — 同一 brief（修自行车师傅）、同设置零修图双轨对照。快速建立选模直觉，别靠玄学。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2098397131363025030) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098397131363025030)
 
-- **UGC 自然皮肤翻车：2.5 在这场景偏 mid** — 三天实测「刚掏出手机自拍」：塑皮、AI 对称脸、窗光仍像棚拍。反信号也值钱——做假 UGC 前先对症，别默认 2.5。 [@ItsNazar17](https://x.com/ItsNazar17) · [原帖](https://x.com/ItsNazar17/status/2098396894082843074) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098396894082843074)
+- **UGC 自然皮肤翻车：2.5 在这场景偏 mid** — 三天实测「刚掏出手机自拍」：塑皮、AI 对称脸、窗光仍像棚拍。反信号也值钱——做假 UGC 前先对症，别默认 2.5。 [@ItsNazar17](https://x.com/ItsNazar17) · [原帖](https://x.com/ItsNazar17/status/2098396894082843074) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098396894082843074)
 
-- **水面完美倒影：2.5 / 2 / Banana / Reve 同题烤炉** — 同一套反射几何约束（平面 Π、手性翻转、水线自重合）压四模。别听口号，直接看谁物理过关；附可复制压测 prompt。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2098389596664963278) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098389596664963278)
+- **水面完美倒影：2.5 / 2 / Banana / Reve 同题烤炉** — 同一套反射几何约束（平面 Π、手性翻转、水线自重合）压四模。别听口号，直接看谁物理过关；附可复制压测 prompt。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2098389596664963278) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098389596664963278&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -891,21 +907,21 @@ a floating reflection whose base does not meet the object on Π.
 
   </details>
 
-- **反复改图：2 vs 2.5 谁更扛一致性** — 同人同姿势连改衣服/发/背景，盯金属材质与细节谁更稳。UGC 换装、产品改色先看这个对照。 [@eachlabs](https://x.com/eachlabs) · [原帖](https://x.com/eachlabs/status/2098388258715533574) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098388258715533574)
+- **反复改图：2 vs 2.5 谁更扛一致性** — 同人同姿势连改衣服/发/背景，盯金属材质与细节谁更稳。UGC 换装、产品改色先看这个对照。 [@eachlabs](https://x.com/eachlabs) · [原帖](https://x.com/eachlabs/status/2098388258715533574) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098388258715533574)
 
-- **一句话提分辨率：1152×2048 贴图重渲** — 旧图贴进 Images 2.5，写目标像素就够。4:3 / 9:16 / 16:9 比例另说——高清化不必玄学。 [@oreno_musume](https://x.com/oreno_musume) · [原帖](https://x.com/oreno_musume/status/2098335755496042610) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098335755496042610)
+- **一句话提分辨率：1152×2048 贴图重渲** — 旧图贴进 Images 2.5，写目标像素就够。4:3 / 9:16 / 16:9 比例另说——高清化不必玄学。 [@oreno_musume](https://x.com/oreno_musume) · [原帖](https://x.com/oreno_musume/status/2098335755496042610) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098335755496042610)
 
-- **50 条开源 prompt 图谱：短句 + 工程长稿** — 371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。 [@Callirra](https://x.com/Callirra) · [原帖](https://x.com/Callirra/status/2098331457232265323) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098331457232265323) · [repo](https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas)
+- **50 条开源 prompt 图谱：短句 + 工程长稿** — 371–553 词工程稿与 5 词短 prompt 同仓，附成片与 Flare/Sunburst 实测。CC BY 4.0，选型+抄作业一次齐。 [@Callirra](https://x.com/Callirra) · [原帖](https://x.com/Callirra/status/2098331457232265323) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098331457232265323) · [repo](https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas)
 
-- **2.0 vs 2.5：六组高难度同 prompt 硬刚** — ImagineArt 六组压测（时尚大片、极端镜头角、多色多人物）。选型别靠嘴，并排看谁还站得住。 [@FinanceYF5](https://x.com/FinanceYF5) · [原帖](https://x.com/FinanceYF5/status/2098318028006146332) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098318028006146332)
+- **2.0 vs 2.5：六组高难度同 prompt 硬刚** — ImagineArt 六组压测（时尚大片、极端镜头角、多色多人物）。选型别靠嘴，并排看谁还站得住。 [@FinanceYF5](https://x.com/FinanceYF5) · [原帖](https://x.com/FinanceYF5/status/2098318028006146332) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098318028006146332)
 
-- **124 例档案库：prompt + 参数 + Flare/Sunburst 对照** — 嫌晒图不给配方？这里 124 例 / 185 输出 / 24 组 Flare vs Sunburst，连参数和出处一起收。营销选型先翻库，别再刷时间线碰运气。 [@iamrayyang](https://x.com/iamrayyang) · [原帖](https://x.com/iamrayyang/status/2098315204509729032) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098315204509729032) · [repo](https://github.com/yangbishang/gpt-image-2.5-prompt)
+- **124 例档案库：prompt + 参数 + Flare/Sunburst 对照** — 嫌晒图不给配方？这里 124 例 / 185 输出 / 24 组 Flare vs Sunburst，连参数和出处一起收。营销选型先翻库，别再刷时间线碰运气。 [@iamrayyang](https://x.com/iamrayyang) · [原帖](https://x.com/iamrayyang/status/2098315204509729032) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098315204509729032) · [repo](https://github.com/yangbishang/gpt-image-2.5-prompt)
 
-- **Flare 量产下稿 → Sunburst 精修** — 速度用 Flare 堆构图，好看的再丢 Sunburst。省钱省时间的分工，别全压贵档。 [@aichan1224news](https://x.com/aichan1224news) · [原帖](https://x.com/aichan1224news/status/2098287192628240410) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098287192628240410)
+- **Flare 量产下稿 → Sunburst 精修** — 速度用 Flare 堆构图，好看的再丢 Sunburst。省钱省时间的分工，别全压贵档。 [@aichan1224news](https://x.com/aichan1224news) · [原帖](https://x.com/aichan1224news/status/2098287192628240410) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098287192628240410)
 
-- **同图三连：Image 2 / Sunburst / Grok** — gpt-image-2 vs 2.5-Sunburst vs Grok Imagine 2.0 并排。跨厂选型甩图就行，别再嘴炮「感觉更好」。 [@zhang_baoqing](https://x.com/zhang_baoqing) · [原帖](https://x.com/zhang_baoqing/status/2098270719994179587) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098270719994179587)
+- **同图三连：Image 2 / Sunburst / Grok** — gpt-image-2 vs 2.5-Sunburst vs Grok Imagine 2.0 并排。跨厂选型甩图就行，别再嘴炮「感觉更好」。 [@zhang_baoqing](https://x.com/zhang_baoqing) · [原帖](https://x.com/zhang_baoqing/status/2098270719994179587) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098270719994179587)
 
-- **同 prompt 三连：Flare / Sunburst / NB2** — 窗光侧颜耳机人像同一套提示压三模。选型别靠感觉，并排看肤色、阴影条带和细节谁更稳；附完整 prompt。 [@dreamydigiarts](https://x.com/dreamydigiarts) · [原帖](https://x.com/dreamydigiarts/status/2098267794613883368) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098267794613883368)
+- **同 prompt 三连：Flare / Sunburst / NB2** — 窗光侧颜耳机人像同一套提示压三模。选型别靠感觉，并排看肤色、阴影条带和细节谁更稳；附完整 prompt。 [@dreamydigiarts](https://x.com/dreamydigiarts) · [原帖](https://x.com/dreamydigiarts/status/2098267794613883368) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098267794613883368&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -943,79 +959,79 @@ dramatic sunlight color grading.
 
   </details>
 
-- **同 prompt：2 / Sunburst / Flare 三连** — 东方极简封面同提示压三模。Flare 赶量、Sunburst 抠细节，一眼分档——选型尺子再加一把。 [@zhang_baoqing](https://x.com/zhang_baoqing) · [原帖](https://x.com/zhang_baoqing/status/2098248858283454911) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098248858283454911)
+- **同 prompt：2 / Sunburst / Flare 三连** — 东方极简封面同提示压三模。Flare 赶量、Sunburst 抠细节，一眼分档——选型尺子再加一把。 [@zhang_baoqing](https://x.com/zhang_baoqing) · [原帖](https://x.com/zhang_baoqing/status/2098248858283454911) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098248858283454911)
 
-- **官方 Image Prompting 中文拆解** — Flare/Sunburst 定位 + 官方 8 条写 prompt 原则 + 编辑 must-stay，中文一页抄走。出广告图前当 checklist。 [@XiaoKooeye](https://x.com/XiaoKooeye) · [原帖](https://x.com/XiaoKooeye/status/2098238512676159764) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098238512676159764)
+- **官方 Image Prompting 中文拆解** — Flare/Sunburst 定位 + 官方 8 条写 prompt 原则 + 编辑 must-stay，中文一页抄走。出广告图前当 checklist。 [@XiaoKooeye](https://x.com/XiaoKooeye) · [原帖](https://x.com/XiaoKooeye/status/2098238512676159764) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098238512676159764)
 
-- **同 prompt 抽到 Flare：可能不如 Image 2** — 别盲信版本号：同一套提示抽到 gpt-image-2.5-flare，观感可能输给 Image 2。选型先看型号，再谈升级。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098207695371379164) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098207695371379164)
+- **同 prompt 抽到 Flare：可能不如 Image 2** — 别盲信版本号：同一套提示抽到 gpt-image-2.5-flare，观感可能输给 Image 2。选型先看型号，再谈升级。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098207695371379164) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098207695371379164)
 
-- **同一把水壶，八次链式编辑：2 vs 2.5 Sunburst** — Agent 同流程改壶嘴/把手/盖子，盯身份锁谁更稳。卖「改完还是那个东西」的营销向硬对比。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2098199974303445050) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098199974303445050)
+- **同一把水壶，八次链式编辑：2 vs 2.5 Sunburst** — Agent 同流程改壶嘴/把手/盖子，盯身份锁谁更稳。卖「改完还是那个东西」的营销向硬对比。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2098199974303445050) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098199974303445050)
 
-- **同 prompt 同 43 token：Flare 快、Sunburst 稳** — 淹城夜景左右开：Flare 抢速度，Sunburst 抠细节。选型直觉一帖讲完。 [@misaraeai](https://x.com/misaraeai) · [原帖](https://x.com/misaraeai/status/2098058799001027017) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098058799001027017)
+- **同 prompt 同 43 token：Flare 快、Sunburst 稳** — 淹城夜景左右开：Flare 抢速度，Sunburst 抠细节。选型直觉一帖讲完。 [@misaraeai](https://x.com/misaraeai) · [原帖](https://x.com/misaraeai/status/2098058799001027017) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098058799001027017)
 
-- **同 prompt：NanoBanana2 vs 2.5 Sunburst/Flare** — 同一套提示压三模，画质/遵从度一眼分档。选型别靠感觉，先看并排。 [@ElitzaVasileva](https://x.com/ElitzaVasileva) · [原帖](https://x.com/ElitzaVasileva/status/2098048981519540723) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098048981519540723)
+- **同 prompt：NanoBanana2 vs 2.5 Sunburst/Flare** — 同一套提示压三模，画质/遵从度一眼分档。选型别靠感觉，先看并排。 [@ElitzaVasileva](https://x.com/ElitzaVasileva) · [原帖](https://x.com/ElitzaVasileva/status/2098048981519540723) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098048981519540723)
 
-- **TikTok 哭脸广告片：Image 2 vs 2.5** — 同套路短广告对照，升级值不值直接甩视频。投放物料选型用。 [@adriamatz](https://x.com/adriamatz) · [原帖](https://x.com/adriamatz/status/2098048651545260384) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098048651545260384)
+- **TikTok 哭脸广告片：Image 2 vs 2.5** — 同套路短广告对照，升级值不值直接甩视频。投放物料选型用。 [@adriamatz](https://x.com/adriamatz) · [原帖](https://x.com/adriamatz/status/2098048651545260384) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098048651545260384)
 
-- **Canvas 速度账：2 → Sunburst → Flare** — 同场景实测 46.5s → 38.7s → 21.4s，作者称几乎不掉质。选型别玄学，先看秒表。 [@AndrewPulc](https://x.com/AndrewPulc) · [原帖](https://x.com/AndrewPulc/status/2098018760749981786) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098018760749981786)
+- **Canvas 速度账：2 → Sunburst → Flare** — 同场景实测 46.5s → 38.7s → 21.4s，作者称几乎不掉质。选型别玄学，先看秒表。 [@AndrewPulc](https://x.com/AndrewPulc) · [原帖](https://x.com/AndrewPulc/status/2098018760749981786) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098018760749981786)
 
-- **别按画质选 Flare/Sunburst** — 日文实务：案头排列用 Flare，人物/Logo 不能崩用 Sunburst；公布单价和 2 一样，消耗别拿旧计算器估。 [@MGT_maccha](https://x.com/MGT_maccha) · [原帖](https://x.com/MGT_maccha/status/2098018651399975200) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098018651399975200)
+- **别按画质选 Flare/Sunburst** — 日文实务：案头排列用 Flare，人物/Logo 不能崩用 Sunburst；公布单价和 2 一样，消耗别拿旧计算器估。 [@MGT_maccha](https://x.com/MGT_maccha) · [原帖](https://x.com/MGT_maccha/status/2098018651399975200) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098018651399975200)
 
-- **23 任务同 prompt：2.5 vs Image 2 对打** — 2.5 赢在食物质感 + 编辑一致性；2 更稳产品构图；还有两边一起翻车的布局题——升级别神话。 [@DeepMediaLabs](https://x.com/DeepMediaLabs) · [原帖](https://x.com/DeepMediaLabs/status/2098016564960460826) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098016564960460826)
+- **23 任务同 prompt：2.5 vs Image 2 对打** — 2.5 赢在食物质感 + 编辑一致性；2 更稳产品构图；还有两边一起翻车的布局题——升级别神话。 [@DeepMediaLabs](https://x.com/DeepMediaLabs) · [原帖](https://x.com/DeepMediaLabs/status/2098016564960460826) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098016564960460826)
 
-- **线控压力测：Raster distortion 才是正经 benchmark** — 细线要在复杂形体上保持干净连续。2.5 仍有小瑕疵，但线控明显更好——海报/品牌/文化视觉能用，附 prompt。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098012211482382380) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098012211482382380)
+- **线控压力测：Raster distortion 才是正经 benchmark** — 细线要在复杂形体上保持干净连续。2.5 仍有小瑕疵，但线控明显更好——海报/品牌/文化视觉能用，附 prompt。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098012211482382380) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098012211482382380)
 
-- **日文实务：Flare/Sunburst 同价 API 差分** — 同价位下 Flare vs Sunburst 差分写清楚。报价/选型别再靠「感觉贵一点就更好」。 [@rsensui](https://x.com/rsensui) · [原帖](https://x.com/rsensui/status/2097989282116042813) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097989282116042813)
+- **日文实务：Flare/Sunburst 同价 API 差分** — 同价位下 Flare vs Sunburst 差分写清楚。报价/选型别再靠「感觉贵一点就更好」。 [@rsensui](https://x.com/rsensui) · [原帖](https://x.com/rsensui/status/2097989282116042813) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097989282116042813)
 
-- **投放静图四件套：Flare / Sunburst / 锁参考 / 局部改** — 付费社媒静态广告拆成四块工作流。量产用 Flare，终稿 Sunburst，参考锁 + focused edit 控漂移。 [@learnbyIsmail](https://x.com/learnbyIsmail) · [原帖](https://x.com/learnbyIsmail/status/2097977460403130371) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097977460403130371)
+- **投放静图四件套：Flare / Sunburst / 锁参考 / 局部改** — 付费社媒静态广告拆成四块工作流。量产用 Flare，终稿 Sunburst，参考锁 + focused edit 控漂移。 [@learnbyIsmail](https://x.com/learnbyIsmail) · [原帖](https://x.com/learnbyIsmail/status/2097977460403130371) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097977460403130371)
 
-- **OpenAI 官方 8 条 Prompt 清单** — 用途→分段→材质光线→限制，收成可抄公式；顺带提醒赶量 Flare、抠画质 Sunburst。出广告图前先过一遍少翻车。 [@WEEXAILabs](https://x.com/WEEXAILabs) · [原帖](https://x.com/WEEXAILabs/status/2097970522961350954) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097970522961350954)
+- **OpenAI 官方 8 条 Prompt 清单** — 用途→分段→材质光线→限制，收成可抄公式；顺带提醒赶量 Flare、抠画质 Sunburst。出广告图前先过一遍少翻车。 [@WEEXAILabs](https://x.com/WEEXAILabs) · [原帖](https://x.com/WEEXAILabs/status/2097970522961350954) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097970522961350954)
 
-- **2.5 vs 2.0 视频硬对比** — 动态对照比静态截图更有说服力。写升级值不值、做社媒 demo 直接甩。 [@kr0der](https://x.com/kr0der) · [原帖](https://x.com/kr0der/status/2097963498273988784) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097963498273988784)
+- **2.5 vs 2.0 视频硬对比** — 动态对照比静态截图更有说服力。写升级值不值、做社媒 demo 直接甩。 [@kr0der](https://x.com/kr0der) · [原帖](https://x.com/kr0der/status/2097963498273988784) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097963498273988784)
 
-- **ZenMux 上 Flare / Sunburst 怎么选** — 聚合入口里两型号怎么分流。赶量 vs 终稿，别混着点。 [@SuperByteSpace](https://x.com/SuperByteSpace) · [原帖](https://x.com/SuperByteSpace/status/2097962843757006979) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097962843757006979)
+- **ZenMux 上 Flare / Sunburst 怎么选** — 聚合入口里两型号怎么分流。赶量 vs 终稿，别混着点。 [@SuperByteSpace](https://x.com/SuperByteSpace) · [原帖](https://x.com/SuperByteSpace/status/2097962843757006979) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097962843757006979)
 
-- **Sunburst 四轮保真：越改越稳？** — 多轮编辑下身份/构图是否还在。要做长会话改图，先看这组保真实测。 [@GuliMoreno](https://x.com/GuliMoreno) · [原帖](https://x.com/GuliMoreno/status/2097961051476164612) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097961051476164612)
+- **Sunburst 四轮保真：越改越稳？** — 多轮编辑下身份/构图是否还在。要做长会话改图，先看这组保真实测。 [@GuliMoreno](https://x.com/GuliMoreno) · [原帖](https://x.com/GuliMoreno/status/2097961051476164612) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097961051476164612)
 
-- **Flare / Sunburst 体感速度其实差不多** — 高质慢 vs 快但糙：实测速度差没想象大；API 走 Sunburst low 往往更香。一人团队选型直接抄作业。 [@makaneko_AI](https://x.com/makaneko_AI) · [原帖](https://x.com/makaneko_AI/status/2097958688321634471) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097958688321634471)
+- **Flare / Sunburst 体感速度其实差不多** — 高质慢 vs 快但糙：实测速度差没想象大；API 走 Sunburst low 往往更香。一人团队选型直接抄作业。 [@makaneko_AI](https://x.com/makaneko_AI) · [原帖](https://x.com/makaneko_AI/status/2097958688321634471) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097958688321634471)
 
-- **同 prompt 三模型拆招：Banana / Image 2 / 2.5** — 不盯谁赢，盯构图、文字、细节、遵从度哪块会崩。选型比「一句话冠军」更有用。 [@hotmer_alan](https://x.com/hotmer_alan) · [原帖](https://x.com/hotmer_alan/status/2097958537284751416) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097958537284751416)
+- **同 prompt 三模型拆招：Banana / Image 2 / 2.5** — 不盯谁赢，盯构图、文字、细节、遵从度哪块会崩。选型比「一句话冠军」更有用。 [@hotmer_alan](https://x.com/hotmer_alan) · [原帖](https://x.com/hotmer_alan/status/2097958537284751416) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097958537284751416)
 
-- **CreativeBench 拉满 60 任务** — Flare/Sunburst 丢进 11 个真实创意流程（产品图到多步改图）。不是又一篇「感觉很强」，是可点开的工作流打分板。 [@KristiKumrija](https://x.com/KristiKumrija) · [原帖](https://x.com/KristiKumrija/status/2097958307633795351) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097958307633795351)
+- **CreativeBench 拉满 60 任务** — Flare/Sunburst 丢进 11 个真实创意流程（产品图到多步改图）。不是又一篇「感觉很强」，是可点开的工作流打分板。 [@KristiKumrija](https://x.com/KristiKumrija) · [原帖](https://x.com/KristiKumrija/status/2097958307633795351) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097958307633795351)
 
-- **指令锁死比拼：2.5 赢 Banana Pro** — 同套 stop-motion prompt（土壤占比、花心坐标、叶片数量全写死）对打。做精确分镜的人该存：听指令比好看更值钱。 [@ekcheungAI](https://x.com/ekcheungAI) · [原帖](https://x.com/ekcheungAI/status/2097943789704720820) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097943789704720820)
+- **指令锁死比拼：2.5 赢 Banana Pro** — 同套 stop-motion prompt（土壤占比、花心坐标、叶片数量全写死）对打。做精确分镜的人该存：听指令比好看更值钱。 [@ekcheungAI](https://x.com/ekcheungAI) · [原帖](https://x.com/ekcheungAI/status/2097943789704720820) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097943789704720820)
 
-- **木版画：2 / Flare / Sunburst 三连** — 同题材三模吃纹理的差异。做版画/印刷风素材选型时当尺子。 [@morphedai](https://x.com/morphedai) · [原帖](https://x.com/morphedai/status/2097943157585424694) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097943157585424694)
+- **木版画：2 / Flare / Sunburst 三连** — 同题材三模吃纹理的差异。做版画/印刷风素材选型时当尺子。 [@morphedai](https://x.com/morphedai) · [原帖](https://x.com/morphedai/status/2097943157585424694) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097943157585424694)
 
-- **多轮编辑崩坏对照：哪一轮开始飘** — 连续改图何时身份崩、构图飞。长会话改稿前先设止损轮数。 [@luoxiaoshan_ai](https://x.com/luoxiaoshan_ai) · [原帖](https://x.com/luoxiaoshan_ai/status/2097930409518768543) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097930409518768543)
+- **多轮编辑崩坏对照：哪一轮开始飘** — 连续改图何时身份崩、构图飞。长会话改稿前先设止损轮数。 [@luoxiaoshan_ai](https://x.com/luoxiaoshan_ai) · [原帖](https://x.com/luoxiaoshan_ai/status/2097930409518768543) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097930409518768543)
 
-- **同 prompt 纸雕海报 + 六格广告打脸对照** — 条形码/小字/人群压到不同模型上，文字清晰度与排版连贯性一眼见真章。素材选型别靠感觉。 [@bozhou_ai](https://x.com/bozhou_ai) · [原帖](https://x.com/bozhou_ai/status/2097929167266631771) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097929167266631771)
+- **同 prompt 纸雕海报 + 六格广告打脸对照** — 条形码/小字/人群压到不同模型上，文字清晰度与排版连贯性一眼见真章。素材选型别靠感觉。 [@bozhou_ai](https://x.com/bozhou_ai) · [原帖](https://x.com/bozhou_ai/status/2097929167266631771) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097929167266631771)
 
-- **Image 2 vs Flare vs Sunburst 水彩三连** — 同场景对照，Flare/Sunburst 差在哪不用猜。选型时拿来当尺子。 [@morphedai](https://x.com/morphedai) · [原帖](https://x.com/morphedai/status/2097928056178667694) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097928056178667694)
+- **Image 2 vs Flare vs Sunburst 水彩三连** — 同场景对照，Flare/Sunburst 差在哪不用猜。选型时拿来当尺子。 [@morphedai](https://x.com/morphedai) · [原帖](https://x.com/morphedai/status/2097928056178667694) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097928056178667694)
 
-- **Sunburst 大图坑：越大越糊** — 图越大，头发/文字/细节越糊。出大尺寸海报前先看一眼，别默默踩坑。 [@truclam_ai](https://x.com/truclam_ai) · [原帖](https://x.com/truclam_ai/status/2097906383987605932) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097906383987605932)
+- **Sunburst 大图坑：越大越糊** — 图越大，头发/文字/细节越糊。出大尺寸海报前先看一眼，别默默踩坑。 [@truclam_ai](https://x.com/truclam_ai) · [原帖](https://x.com/truclam_ai/status/2097906383987605932) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097906383987605932)
 
-- **Flare 翻车预期 + Image 2 贵 3.5 倍** — 完整实测：Flare 表现超出预期，同测 Image 2 费用竟是 2.5 的 3.5 倍。做工具/套餐定价的人该看。 [@Tino_Xu_](https://x.com/Tino_Xu_) · [原帖](https://x.com/Tino_Xu_/status/2097903246069395707) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097903246069395707)
+- **Flare 翻车预期 + Image 2 贵 3.5 倍** — 完整实测：Flare 表现超出预期，同测 Image 2 费用竟是 2.5 的 3.5 倍。做工具/套餐定价的人该看。 [@Tino_Xu_](https://x.com/Tino_Xu_) · [原帖](https://x.com/Tino_Xu_/status/2097903246069395707) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097903246069395707)
 
-- **2.5 vs 2.0 专辑封面硬对比** — 同 prompt 比专辑封面，回复里有 prompt。想讲「升级值不值」时有图有真相。 [@ArtificialStudi](https://x.com/ArtificialStudi) · [原帖](https://x.com/ArtificialStudi/status/2097899683989385317) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097899683989385317)
+- **2.5 vs 2.0 专辑封面硬对比** — 同 prompt 比专辑封面，回复里有 prompt。想讲「升级值不值」时有图有真相。 [@ArtificialStudi](https://x.com/ArtificialStudi) · [原帖](https://x.com/ArtificialStudi/status/2097899683989385317) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097899683989385317)
 
-- **Flare vs Krea / Seedream / Ideogram 同光影** — 同一「电影安静瞬间」四连拍，选型辩论时甩图就行。 [@morphedai](https://x.com/morphedai) · [原帖](https://x.com/morphedai/status/2097897854505271703) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097897854505271703)
+- **Flare vs Krea / Seedream / Ideogram 同光影** — 同一「电影安静瞬间」四连拍，选型辩论时甩图就行。 [@morphedai](https://x.com/morphedai) · [原帖](https://x.com/morphedai/status/2097897854505271703) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097897854505271703)
 
-- **2.5 vs Banana Pro vs Midjourney，还做成动画** — 同 style prompt 三美横评并直接动起来。比静态截图更适合做选型 demo / 社媒素材。 [@Deevid_AI](https://x.com/Deevid_AI) · [原帖](https://x.com/Deevid_AI/status/2097892821386813662) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097892821386813662)
+- **2.5 vs Banana Pro vs Midjourney，还做成动画** — 同 style prompt 三美横评并直接动起来。比静态截图更适合做选型 demo / 社媒素材。 [@Deevid_AI](https://x.com/Deevid_AI) · [原帖](https://x.com/Deevid_AI/status/2097892821386813662) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097892821386813662)
 
-- **同 seed 连跑：版本落差比半个号大** — 同 prompt、同 seed 对照，落差比「半个版本号」大；Image 2.5 已上 Sunra。写评测别只比 UI 截图。 [@sunra_ai](https://x.com/sunra_ai) · [原帖](https://x.com/sunra_ai/status/2097884945276686720) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097884945276686720)
+- **同 seed 连跑：版本落差比半个号大** — 同 prompt、同 seed 对照，落差比「半个版本号」大；Image 2.5 已上 Sunra。写评测别只比 UI 截图。 [@sunra_ai](https://x.com/sunra_ai) · [原帖](https://x.com/sunra_ai/status/2097884945276686720) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097884945276686720)
 
-- **ComfyUI 里 Sunburst 五档成本梯子** — 同 prompt 跑 Low→Max：积分约 3.4 / 7.8 / 30 / 53 / 120。想省钱别盲冲 Max，报价/批图前先看这组数。 [@DataJuggler007](https://x.com/DataJuggler007) · [原帖](https://x.com/DataJuggler007/status/2097882272623988823) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097882272623988823)
+- **ComfyUI 里 Sunburst 五档成本梯子** — 同 prompt 跑 Low→Max：积分约 3.4 / 7.8 / 30 / 53 / 120。想省钱别盲冲 Max，报价/批图前先看这组数。 [@DataJuggler007](https://x.com/DataJuggler007) · [原帖](https://x.com/DataJuggler007/status/2097882272623988823) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097882272623988823)
 
-- **Zenmux 同 prompt：Flare vs Sunburst 硬刚** — 一句话并跑两模型，日常配图纠结选谁看完能省半小时玄学。 [@AI_jacksaku](https://x.com/AI_jacksaku) · [原帖](https://x.com/AI_jacksaku/status/2097878193013199231) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097878193013199231)
+- **Zenmux 同 prompt：Flare vs Sunburst 硬刚** — 一句话并跑两模型，日常配图纠结选谁看完能省半小时玄学。 [@AI_jacksaku](https://x.com/AI_jacksaku) · [原帖](https://x.com/AI_jacksaku/status/2097878193013199231) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097878193013199231)
 
-- **Image 2 左 / 2.5 Sunburst 右零后处理** — 同 prompt 对照，别再嘴炮「感觉更好」，直接甩图。 [@KeyoAPI](https://x.com/KeyoAPI) · [原帖](https://x.com/KeyoAPI/status/2097873150621135282) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097873150621135282)
+- **Image 2 左 / 2.5 Sunburst 右零后处理** — 同 prompt 对照，别再嘴炮「感觉更好」，直接甩图。 [@KeyoAPI](https://x.com/KeyoAPI) · [原帖](https://x.com/KeyoAPI/status/2097873150621135282) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097873150621135282)
 
-- **官方 Prompt 八股文，中文一页抄走** — 生成目的、可见细节、姿态视线、画面文字位置……别再堆氛围词。小红书/落地页文案直接当 checklist。 [@csoooooooo](https://x.com/csoooooooo) · [原帖](https://x.com/csoooooooo/status/2097864779859976637) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097864779859976637)
+- **官方 Prompt 八股文，中文一页抄走** — 生成目的、可见细节、姿态视线、画面文字位置……别再堆氛围词。小红书/落地页文案直接当 checklist。 [@csoooooooo](https://x.com/csoooooooo) · [原帖](https://x.com/csoooooooo/status/2097864779859976637) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097864779859976637)
 
-- **Flare 打七大模型：商业大片梯队 + 成本** — 官方样本 prompt 横评，第一梯队写死 gpt-image-2.5-flare（更快更接近 Image 2）。选型/报价话术现成。 [@wquguru](https://x.com/wquguru) · [原帖](https://x.com/wquguru/status/2097853425669329128) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097853425669329128)
+- **Flare 打七大模型：商业大片梯队 + 成本** — 官方样本 prompt 横评，第一梯队写死 gpt-image-2.5-flare（更快更接近 Image 2）。选型/报价话术现成。 [@wquguru](https://x.com/wquguru) · [原帖](https://x.com/wquguru/status/2097853425669329128) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097853425669329128)
 
-- **关灯只留蜡烛** — 同图同设置：一句「关灯，只留蜡烛」横评 Image 2 vs 2.5 Sunburst。烛光谁更真，选型一眼定。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2097806703186055263) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097806703186055263)
+- **关灯只留蜡烛** — 同图同设置：一句「关灯，只留蜡烛」横评 Image 2 vs 2.5 Sunburst。烛光谁更真，选型一眼定。 [@SandbaseAI](https://x.com/SandbaseAI) · [原帖](https://x.com/SandbaseAI/status/2097806703186055263) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097806703186055263&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1025,7 +1041,7 @@ Turn off the lights. Keep only the candles.
 
   </details>
 
-- **加一颗草莓看出 Flare vs Sunburst 精度差** — 同咖啡馆再只加一颗草莓；Sunburst 仍比 Image-2 更快更便宜，精度编辑才是卖点。做广告迭代别盲选「快模式」。 [@nocodemba](https://x.com/nocodemba) · [原帖](https://x.com/nocodemba/status/2097785065547984984) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097785065547984984)
+- **加一颗草莓看出 Flare vs Sunburst 精度差** — 同咖啡馆再只加一颗草莓；Sunburst 仍比 Image-2 更快更便宜，精度编辑才是卖点。做广告迭代别盲选「快模式」。 [@nocodemba](https://x.com/nocodemba) · [原帖](https://x.com/nocodemba/status/2097785065547984984) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097785065547984984&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1038,39 +1054,39 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
   </details>
 
-- **Image 2 vs 2.5 对比笔记（API 坑）** — 2 没有 variant（2.5 默认 Flare）；参考图从 image 变 image_references——写教程/测评时这些细节拉开专业度。 [@Lucas_IA_](https://x.com/Lucas_IA_) · [原帖](https://x.com/Lucas_IA_/status/2097705361830531366) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097705361830531366)
+- **Image 2 vs 2.5 对比笔记（API 坑）** — 2 没有 variant（2.5 默认 Flare）；参考图从 image 变 image_references——写教程/测评时这些细节拉开专业度。 [@Lucas_IA_](https://x.com/Lucas_IA_) · [原帖](https://x.com/Lucas_IA_/status/2097705361830531366) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097705361830531366)
 
-- **Flare vs Sunburst：冻结任务再打分** — 别靠玄学选型。冻结 3 个真实编辑任务、标死 must-stay 区域，按指令成功率/漂移/主体一致/延迟/图 token 成本选赢家。 [@evankang_ai](https://x.com/evankang_ai) · [原帖](https://x.com/evankang_ai/status/2097704377142407323) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097704377142407323)
+- **Flare vs Sunburst：冻结任务再打分** — 别靠玄学选型。冻结 3 个真实编辑任务、标死 must-stay 区域，按指令成功率/漂移/主体一致/延迟/图 token 成本选赢家。 [@evankang_ai](https://x.com/evankang_ai) · [原帖](https://x.com/evankang_ai/status/2097704377142407323) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097704377142407323)
 
-- **付费社媒静态广告：Flare/Sunburst 四块分工** — 拆成投放可用四块：Flare 默认量产、Sunburst 精修、reference lock、focused edit。产品图/offer 变体可抄。 [@nipuntaneja](https://x.com/nipuntaneja) · [原帖](https://x.com/nipuntaneja/status/2097694013469982745) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097694013469982745)
+- **付费社媒静态广告：Flare/Sunburst 四块分工** — 拆成投放可用四块：Flare 默认量产、Sunburst 精修、reference lock、focused edit。产品图/offer 变体可抄。 [@nipuntaneja](https://x.com/nipuntaneja) · [原帖](https://x.com/nipuntaneja/status/2097694013469982745) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097694013469982745)
 
-- **4K +「多写细节」噪点踩坑** — 4K 加细节指令时 Sunburst/Flare（尤其 Flare）会出现 2.0 低分那种糊噪；落到 2K 才干净。 [@TestAI_WORKS](https://x.com/TestAI_WORKS) · [原帖](https://x.com/TestAI_WORKS/status/2097669038973284576) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097669038973284576)
+- **4K +「多写细节」噪点踩坑** — 4K 加细节指令时 Sunburst/Flare（尤其 Flare）会出现 2.0 低分那种糊噪；落到 2K 才干净。 [@TestAI_WORKS](https://x.com/TestAI_WORKS) · [原帖](https://x.com/TestAI_WORKS/status/2097669038973284576) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097669038973284576)
 
-- **同图四阶梯子：Banana → 2 → Sunburst → Flare** — 原图 Nano Banana Pro 一路爬到 2.5，对外讲「换模型收益」很直观。 [@CHAO2U_AI](https://x.com/CHAO2U_AI) · [原帖](https://x.com/CHAO2U_AI/status/2097668790809165918) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097668790809165918)
+- **同图四阶梯子：Banana → 2 → Sunburst → Flare** — 原图 Nano Banana Pro 一路爬到 2.5，对外讲「换模型收益」很直观。 [@CHAO2U_AI](https://x.com/CHAO2U_AI) · [原帖](https://x.com/CHAO2U_AI/status/2097668790809165918) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097668790809165918)
 
-- **Sunburst High / Med / Low 同 prompt** — API 三档画质对照：2.5 的 Medium/Low 仍扎实，选档=控成本。 [@WolfRiccardo](https://x.com/WolfRiccardo) · [原帖](https://x.com/WolfRiccardo/status/2097668754863779900) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097668754863779900)
+- **Sunburst High / Med / Low 同 prompt** — API 三档画质对照：2.5 的 Medium/Low 仍扎实，选档=控成本。 [@WolfRiccardo](https://x.com/WolfRiccardo) · [原帖](https://x.com/WolfRiccardo/status/2097668754863779900) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097668754863779900)
 
-- **儿童涂鸦 img2img 三模对比** — Flare / Sunburst / 2.0 对「乱笔画」的忠实度与美化度。 [@justhalfbit](https://x.com/justhalfbit) · [原帖](https://x.com/justhalfbit/status/2097646029042811046) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097646029042811046)
+- **儿童涂鸦 img2img 三模对比** — Flare / Sunburst / 2.0 对「乱笔画」的忠实度与美化度。 [@justhalfbit](https://x.com/justhalfbit) · [原帖](https://x.com/justhalfbit/status/2097646029042811046) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097646029042811046)
 
-- **Topview 五轮编辑：Flare vs Sunburst** — 多轮改图场景下谁更扛改、谁更飘。 [@akiyoshisan](https://x.com/akiyoshisan) · [原帖](https://x.com/akiyoshisan/status/2097641019806531864) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097641019806531864)
+- **Topview 五轮编辑：Flare vs Sunburst** — 多轮改图场景下谁更扛改、谁更飘。 [@akiyoshisan](https://x.com/akiyoshisan) · [原帖](https://x.com/akiyoshisan/status/2097641019806531864) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097641019806531864)
 
-- **曲网格难题：Higgsfield 硬对比** — 曲面网格这类「几何地狱」题，看 2.5 吃不吃得住。 [@maarcoofdezz](https://x.com/maarcoofdezz) · [原帖](https://x.com/maarcoofdezz/status/2097622915730604249) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097622915730604249)
+- **曲网格难题：Higgsfield 硬对比** — 曲面网格这类「几何地狱」题，看 2.5 吃不吃得住。 [@maarcoofdezz](https://x.com/maarcoofdezz) · [原帖](https://x.com/maarcoofdezz/status/2097622915730604249) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097622915730604249)
 
-- **2 分钟 → 30 秒 + 多轮** — 工作流压缩：更快出稿、多轮仍稳。 [@Voxyz_ai](https://x.com/Voxyz_ai) · [原帖](https://x.com/Voxyz_ai/status/2097621370389581931) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097621370389581931)
+- **2 分钟 → 30 秒 + 多轮** — 工作流压缩：更快出稿、多轮仍稳。 [@Voxyz_ai](https://x.com/Voxyz_ai) · [原帖](https://x.com/Voxyz_ai/status/2097621370389581931) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097621370389581931)
 
-- **延迟硬测：17s / 35s / 74s** — Flare 17.42s · Sunburst 35.13s · Image2 1m14s，排队与体感都写清了。 [@matthieu_ai](https://x.com/matthieu_ai) · [原帖](https://x.com/matthieu_ai/status/2097620938183295288) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097620938183295288)
+- **延迟硬测：17s / 35s / 74s** — Flare 17.42s · Sunburst 35.13s · Image2 1m14s，排队与体感都写清了。 [@matthieu_ai](https://x.com/matthieu_ai) · [原帖](https://x.com/matthieu_ai/status/2097620938183295288) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097620938183295288)
 
-- **UGC 广告网格：2.0 High vs Sunburst Max** — 九宫格 UGC 风素材，Max 档位是否值得。 [@saranshvfx](https://x.com/saranshvfx) · [原帖](https://x.com/saranshvfx/status/2097604682646528030) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097604682646528030)
+- **UGC 广告网格：2.0 High vs Sunburst Max** — 九宫格 UGC 风素材，Max 档位是否值得。 [@saranshvfx](https://x.com/saranshvfx) · [原帖](https://x.com/saranshvfx/status/2097604682646528030) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097604682646528030)
 
-- **Pringles 广告：2.0 vs 2.5** — 品牌广告向对比，包装文字与货架感。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2097588805155078576) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097588805155078576)
+- **Pringles 广告：2.0 vs 2.5** — 品牌广告向对比，包装文字与货架感。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2097588805155078576) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097588805155078576)
 
-- **速度与成本实测** — 2.0：约 120s / 20¢；Flare：约 20s / 5¢；Sunburst：约 31s / 5¢。赶量先看这组数。 [@illyism](https://x.com/illyism) · [原帖](https://x.com/illyism/status/2097584023627239575) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097584023627239575)
+- **速度与成本实测** — 2.0：约 120s / 20¢；Flare：约 20s / 5¢；Sunburst：约 31s / 5¢。赶量先看这组数。 [@illyism](https://x.com/illyism) · [原帖](https://x.com/illyism/status/2097584023627239575) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097584023627239575)
 
-- **Image2 → Flare → Sunburst 阶梯** — 同一题材从旧模爬到 2.5，质量跳档一眼可见。 [@atakoylanai](https://x.com/atakoylanai) · [原帖](https://x.com/atakoylanai/status/2097568820000850058) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097568820000850058)
+- **Image2 → Flare → Sunburst 阶梯** — 同一题材从旧模爬到 2.5，质量跳档一眼可见。 [@atakoylanai](https://x.com/atakoylanai) · [原帖](https://x.com/atakoylanai/status/2097568820000850058) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097568820000850058)
 
-- **Flare vs Sunburst 对比站** — 并排预览站点，适合快速建立「快 vs 精」直觉。 [@137yugi](https://x.com/137yugi) · [原帖](https://x.com/137yugi/status/2097560368684159241) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097560368684159241)
+- **Flare vs Sunburst 对比站** — 并排预览站点，适合快速建立「快 vs 精」直觉。 [@137yugi](https://x.com/137yugi) · [原帖](https://x.com/137yugi/status/2097560368684159241) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097560368684159241)
 
-- **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097551019295248486)
+- **手部 vs Grok：Flare / Sunburst 谁更稳** — 社区横向对比手部结构与真实感，选型前先看这一帖。 [@luladogdog](https://x.com/luladogdog) · [原帖](https://x.com/luladogdog/status/2097551019295248486) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097551019295248486)
 
 - **官方 Image Prompting 指南要点** — Flare/Sunburst 选型、提示结构、改图 must-stay、透明底与验收清单。 [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting)
 
@@ -1079,9 +1095,11 @@ Add one ripe red strawberry on the table directly beside the blue cup. Keep ever
 
 ## Sketch
 
+> 💡 本分类带提示词的条目可点「▶ 一键试用」直接在线生成；或打开 [GPT Image 2.5 在线生成器 →](https://gptimage2.asia/zh/generate?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=section-sketch)
+
 Sketch 工作流演示：控形、打光、画框布局与容错。
 
-- **Sketch→成图四步：@sketch 手绘→局部迭代→Markup** — Images 页 @sketch 开画，上箭头描述，再只改一处——高收藏比的控形工作流。草图再丑也能出片，关键是局部指令要指名道姓。 [@alicialyttle](https://x.com/alicialyttle) · [原帖](https://x.com/alicialyttle/status/2105308230079394193) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105308230079394193)
+- **Sketch→成图四步：@sketch 手绘→局部迭代→Markup** — Images 页 @sketch 开画，上箭头描述，再只改一处——高收藏比的控形工作流。草图再丑也能出片，关键是局部指令要指名道姓。 [@alicialyttle](https://x.com/alicialyttle) · [原帖](https://x.com/alicialyttle/status/2105308230079394193) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105308230079394193&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1100,7 +1118,7 @@ Images 2.5 Sketch → 成图工作流：
 
   </details>
 
-- **便利贴 Rough Sketch→Image 2.5→Seedance** — 便利贴草图钉站位，Image 2.5 补角色细节出静帧，再直送 Seedance 2.5。Sketch 控形→成片→短视频一条链，别一口吃视频模型。 [@creo14](https://x.com/creo14) · [原帖](https://x.com/creo14/status/2104812309973807536) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104812309973807536)
+- **便利贴 Rough Sketch→Image 2.5→Seedance** — 便利贴草图钉站位，Image 2.5 补角色细节出静帧，再直送 Seedance 2.5。Sketch 控形→成片→短视频一条链，别一口吃视频模型。 [@creo14](https://x.com/creo14) · [原帖](https://x.com/creo14/status/2104812309973807536) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104812309973807536&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1116,7 +1134,7 @@ Images 2.5 Sketch → 成图工作流：
 
   </details>
 
-- **咖啡吧三态：草图+渲染+爆炸图→Seedance** — 同题三连：sketch / 写实渲染 / 爆炸拆解，再交给 Seedance 串动画。产品/空间概念演示别只会甩一张效果图——三态同题才像真 wireflow。 [@AndyAI_](https://x.com/AndyAI_) · [原帖](https://x.com/AndyAI_/status/2104809890086891806) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104809890086891806)
+- **咖啡吧三态：草图+渲染+爆炸图→Seedance** — 同题三连：sketch / 写实渲染 / 爆炸拆解，再交给 Seedance 串动画。产品/空间概念演示别只会甩一张效果图——三态同题才像真 wireflow。 [@AndyAI_](https://x.com/AndyAI_) · [原帖](https://x.com/AndyAI_/status/2104809890086891806) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104809890086891806&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1132,37 +1150,37 @@ Images 2.5 Sketch → 成图工作流：
 
   </details>
 
-- **てんねん画像変換パック：線画/鉛筆/马克笔/点绘（2.5加餐）** — Image 2.5 版在線画・鉛筆之外又塞进ガッシュ、アルコールマーカー、モノクロ漫画風、ドット絵——马克笔与点绘尤其香。画风转换别靠玄学滤镜，先抄这套转换包再叠自己的线。 [@munou_ac](https://x.com/munou_ac) · [原帖](https://x.com/munou_ac/status/2104392771369087290) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104392771369087290) · [画風変換プロンプト长文](https://x.com/munou_ac/status/2104096605867831358) · [专用 article](https://x.com/i/article/2104076132333334528)
+- **てんねん画像変換パック：線画/鉛筆/马克笔/点绘（2.5加餐）** — Image 2.5 版在線画・鉛筆之外又塞进ガッシュ、アルコールマーカー、モノクロ漫画風、ドット絵——马克笔与点绘尤其香。画风转换别靠玄学滤镜，先抄这套转换包再叠自己的线。 [@munou_ac](https://x.com/munou_ac) · [原帖](https://x.com/munou_ac/status/2104392771369087290) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2104392771369087290) · [画風変換プロンプト长文](https://x.com/munou_ac/status/2104096605867831358) · [专用 article](https://x.com/i/article/2104076132333334528)
 
-- **Images 2.5 Sketch 中秋兔 × Canva 动画：捣麻糬社媒动效链** — 十五夜主题：先用 ChatGPT Images 2.5 新功能 Sketch 画出兔子，再丢进 Canva 上动画——月上捣麻糬成片。节气/社媒短动效别一口吃视频模型，Sketch 控形 + 设计工具动效往往更快出片。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2103468404414054755) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103468404414054755)
+- **Images 2.5 Sketch 中秋兔 × Canva 动画：捣麻糬社媒动效链** — 十五夜主题：先用 ChatGPT Images 2.5 新功能 Sketch 画出兔子，再丢进 Canva 上动画——月上捣麻糬成片。节气/社媒短动效别一口吃视频模型，Sketch 控形 + 设计工具动效往往更快出片。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2103468404414054755) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2103468404414054755)
 
-- **连环漫画完整 Chat 分享：过程比单条 prompt 更值钱** — 作者直接甩 Images 2.5 整段对话，看模型局限怎么用上下文和 steering 顶回去——角色参考页先钉死能少改半帖。漫画连载别再伸手要「魔法一句」；先偷师整条修图轨迹。 [@bajolacurva](https://x.com/bajolacurva) · [原帖](https://x.com/bajolacurva/status/2103138227351679091) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103138227351679091) · [ChatGPT 分享](https://chatgpt.com/share/6ab53ae0-cd78-83e9-b827-221d8adc7dec)
+- **连环漫画完整 Chat 分享：过程比单条 prompt 更值钱** — 作者直接甩 Images 2.5 整段对话，看模型局限怎么用上下文和 steering 顶回去——角色参考页先钉死能少改半帖。漫画连载别再伸手要「魔法一句」；先偷师整条修图轨迹。 [@bajolacurva](https://x.com/bajolacurva) · [原帖](https://x.com/bajolacurva/status/2103138227351679091) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2103138227351679091) · [ChatGPT 分享](https://chatgpt.com/share/6ab53ae0-cd78-83e9-b827-221d8adc7dec)
 
-- **照片→写实素描：四步流程可复用** — 收藏照变专业素描：开 Gemini/Grok/Image 2.5 → 丢参考图 → 贴 prompt → 出片。Sketch/线稿向种草素材流水线，原帖附图。 [@Alina_with_Ai](https://x.com/Alina_with_Ai) · [原帖](https://x.com/Alina_with_Ai/status/2102358953489481762) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102358953489481762)
+- **照片→写实素描：四步流程可复用** — 收藏照变专业素描：开 Gemini/Grok/Image 2.5 → 丢参考图 → 贴 prompt → 出片。Sketch/线稿向种草素材流水线，原帖附图。 [@Alina_with_Ai](https://x.com/Alina_with_Ai) · [原帖](https://x.com/Alina_with_Ai/status/2102358953489481762) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102358953489481762)
 
-- **Sketch 锁版 + Comments 只改一处 + Templates 出初稿** — 改到第三次构图也毁了？用 Sketch 锁版面、Comments 定点改、Templates 先有草稿，再配「保留一切、每轮只改一件事」。10 分钟出宣传图的编辑优先心法。 [@udhk_official](https://x.com/udhk_official) · [原帖](https://x.com/udhk_official/status/2101929747664003197) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101929747664003197) · [prompt](https://www.ud.hk/zh-Hant/blogs/insight/article/chatgpt-images-25-sketch-guide-2026-09-10)
+- **Sketch 锁版 + Comments 只改一处 + Templates 出初稿** — 改到第三次构图也毁了？用 Sketch 锁版面、Comments 定点改、Templates 先有草稿，再配「保留一切、每轮只改一件事」。10 分钟出宣传图的编辑优先心法。 [@udhk_official](https://x.com/udhk_official) · [原帖](https://x.com/udhk_official/status/2101929747664003197) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101929747664003197) · [prompt](https://www.ud.hk/zh-Hant/blogs/insight/article/chatgpt-images-25-sketch-guide-2026-09-10)
 
-- **时尚线稿→超写实：错配鞋四连（loafer/croc/…）** — 同一 editorial 线稿主题，只换错配鞋型：乐福、洞洞鞋、细高跟、球鞋。Sketch 控形 + Image 2.5 写实，穿搭号「一稿多变」示范。 [@zayyadatullah](https://x.com/zayyadatullah) · [原帖](https://x.com/zayyadatullah/status/2100871323719209165) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100871323719209165)
+- **时尚线稿→超写实：错配鞋四连（loafer/croc/…）** — 同一 editorial 线稿主题，只换错配鞋型：乐福、洞洞鞋、细高跟、球鞋。Sketch 控形 + Image 2.5 写实，穿搭号「一稿多变」示范。 [@zayyadatullah](https://x.com/zayyadatullah) · [原帖](https://x.com/zayyadatullah/status/2100871323719209165) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100871323719209165)
 
-- **Sketch 认真线稿→写实成片：控形对照** — 线稿画扎实再喂 GPT Images 2.5 Sketch，写实成片直接贴脸对照。控构图别靠嘴炮，先把素描焊死。 [@AIPixLab](https://x.com/AIPixLab) · [原帖](https://x.com/AIPixLab/status/2100796248068702688) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100796248068702688)
+- **Sketch 认真线稿→写实成片：控形对照** — 线稿画扎实再喂 GPT Images 2.5 Sketch，写实成片直接贴脸对照。控构图别靠嘴炮，先把素描焊死。 [@AIPixLab](https://x.com/AIPixLab) · [原帖](https://x.com/AIPixLab/status/2100796248068702688) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100796248068702688)
 
-- **漫画流程砍一刀：跳过下稿、从ネーム大改直出** — 分镜里先设计视线进出，再直接往完成形推——Image 2.5 把「下稿」这步吃掉了。Hakushi 全自动漫画 SKILL：ネーム→㊙质感→仕上げ。 [@FantasistaAI](https://x.com/FantasistaAI) · [原帖](https://x.com/FantasistaAI/status/2100500467688366331) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100500467688366331)
+- **漫画流程砍一刀：跳过下稿、从ネーム大改直出** — 分镜里先设计视线进出，再直接往完成形推——Image 2.5 把「下稿」这步吃掉了。Hakushi 全自动漫画 SKILL：ネーム→㊙质感→仕上げ。 [@FantasistaAI](https://x.com/FantasistaAI) · [原帖](https://x.com/FantasistaAI/status/2100500467688366331) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100500467688366331)
 
-- **圆珠笔草图硬刚成片：Image2 vs Flare/Sunburst** — 只丢一张潦草构图（手写 5 ARCHES / KEEP HIM SMALL），同题一跑：2 High + 2.5 Max 4K。符号写进 prompt 的 Sketch→成片对照，n=1 但选型有感觉。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2100205158911361300) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100205158911361300)
+- **圆珠笔草图硬刚成片：Image2 vs Flare/Sunburst** — 只丢一张潦草构图（手写 5 ARCHES / KEEP HIM SMALL），同题一跑：2 High + 2.5 Max 4K。符号写进 prompt 的 Sketch→成片对照，n=1 但选型有感觉。 [@FlyAIgh](https://x.com/FlyAIgh) · [原帖](https://x.com/FlyAIgh/status/2100205158911361300) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100205158911361300)
 
-- **草图一笔→右侧成图：Sketch 控形对照** — 左侧手绘线稿，右侧 GPT-Image 2.5 直接出片。创意人最爱的控形门槛——敢画就能玩花，Sketch 工作流入门对照。 [@krienknight](https://x.com/krienknight) · [原帖](https://x.com/krienknight/status/2100164110914932747) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100164110914932747)
+- **草图一笔→右侧成图：Sketch 控形对照** — 左侧手绘线稿，右侧 GPT-Image 2.5 直接出片。创意人最爱的控形门槛——敢画就能玩花，Sketch 工作流入门对照。 [@krienknight](https://x.com/krienknight) · [原帖](https://x.com/krienknight/status/2100164110914932747) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100164110914932747)
 
-- **手指框+箭头：Sketch 秒出 X 信息图** — 不会画画也行——框和箭头随手一画，Images 2.5 Sketch 压成专业向 X 信息图；「留什么/改什么」写进 prompt，排版控形这派必看。 [@orino009](https://x.com/orino009) · [原帖](https://x.com/orino009/status/2099800404045271203) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099800404045271203)
+- **手指框+箭头：Sketch 秒出 X 信息图** — 不会画画也行——框和箭头随手一画，Images 2.5 Sketch 压成专业向 X 信息图；「留什么/改什么」写进 prompt，排版控形这派必看。 [@orino009](https://x.com/orino009) · [原帖](https://x.com/orino009/status/2099800404045271203) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099800404045271203)
 
-- **别卷画质：锁区编辑+Sketch 心法卡** — 2.5 真正杀器是「背景只改、人脸不动、Logo 别碰」。Sketch / Comment / Template / 多轮编辑串成「作→改→收」，SNS 图别再赌一发成片。 [@AImusicPlan](https://x.com/AImusicPlan) · [原帖](https://x.com/AImusicPlan/status/2099800403231539214) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099800403231539214)
+- **别卷画质：锁区编辑+Sketch 心法卡** — 2.5 真正杀器是「背景只改、人脸不动、Logo 别碰」。Sketch / Comment / Template / 多轮编辑串成「作→改→收」，SNS 图别再赌一发成片。 [@AImusicPlan](https://x.com/AImusicPlan) · [原帖](https://x.com/AImusicPlan/status/2099800403231539214) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099800403231539214)
 
-- **随手涂鸦→一段剧情：Sketch 成片长文** — 西堂实测从 doodle 到剧情成片的完整路径。不会画画也能控形讲故事，Sketch 控构图那派必读。 [@congcongtang](https://x.com/congcongtang) · [原帖](https://x.com/congcongtang/status/2099747691093729719) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099747691093729719)
+- **随手涂鸦→一段剧情：Sketch 成片长文** — 西堂实测从 doodle 到剧情成片的完整路径。不会画画也能控形讲故事，Sketch 控构图那派必读。 [@congcongtang](https://x.com/congcongtang) · [原帖](https://x.com/congcongtang/status/2099747691093729719) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099747691093729719)
 
-- **Sketch 构图口诀：大数字 / 人物 / 短说明** — 别用长文抠站位——先画「左大数字、右人物、下短说明」。厅内 POP / 社媒图：说什么之外，先把怎么摆画出来。 [@amusement_works](https://x.com/amusement_works) · [原帖](https://x.com/amusement_works/status/2099676470872518926) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099676470872518926)
+- **Sketch 构图口诀：大数字 / 人物 / 短说明** — 别用长文抠站位——先画「左大数字、右人物、下短说明」。厅内 POP / 社媒图：说什么之外，先把怎么摆画出来。 [@amusement_works](https://x.com/amusement_works) · [原帖](https://x.com/amusement_works/status/2099676470872518926) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099676470872518926)
 
-- **Fashion Sketch→童话高定：2.5 出图 + MiniMax 成片** — 冰川蓝丝绸+水晶绣+层叠欧根纱，Sketch 变城堡晨雾大片再接视频。时装内容从线稿到成片一条链。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2099413148684234773) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099413148684234773)
+- **Fashion Sketch→童话高定：2.5 出图 + MiniMax 成片** — 冰川蓝丝绸+水晶绣+层叠欧根纱，Sketch 变城堡晨雾大片再接视频。时装内容从线稿到成片一条链。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2099413148684234773) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099413148684234773)
 
-- **Sketch→扎哈风美术馆：一句话草图变建筑** — 手绘草图在空中长成扎哈·哈迪德未来主义场馆。建筑/空间概念快速可视化，Sketch 控形最直观的一刀。 [@XiaoKooeye](https://x.com/XiaoKooeye) · [原帖](https://x.com/XiaoKooeye/status/2099408374249169169) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099408374249169169)
+- **Sketch→扎哈风美术馆：一句话草图变建筑** — 手绘草图在空中长成扎哈·哈迪德未来主义场馆。建筑/空间概念快速可视化，Sketch 控形最直观的一刀。 [@XiaoKooeye](https://x.com/XiaoKooeye) · [原帖](https://x.com/XiaoKooeye/status/2099408374249169169) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099408374249169169&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1172,23 +1190,23 @@ Images 2.5 Sketch → 成图工作流：
 
   </details>
 
-- **手绘 Sketch→实拍：降低提示词门槛的三步法** — 说不清就先画：Sketch 降低小白门槛，也给会画的人当快速变体草稿机。韩语 Daily Prompt 830 号拆解可对照。 [@dailyprompt_](https://x.com/dailyprompt_) · [原帖](https://x.com/dailyprompt_/status/2099393116164030795) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099393116164030795)
+- **手绘 Sketch→实拍：降低提示词门槛的三步法** — 说不清就先画：Sketch 降低小白门槛，也给会画的人当快速变体草稿机。韩语 Daily Prompt 830 号拆解可对照。 [@dailyprompt_](https://x.com/dailyprompt_) · [原帖](https://x.com/dailyprompt_/status/2099393116164030795) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099393116164030795)
 
-- **Sketch 养演讲插图：草图+brief 终于对得上** — Maggie Appleton：2.5 能跟草图和 brief 对齐，整场 talk 幻灯片开造；并踩 MJ/Gemini「永远只对 60%」。 [@Mappletons](https://x.com/Mappletons) · [原帖](https://x.com/Mappletons/status/2098430366692388922) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098430366692388922)
+- **Sketch 养演讲插图：草图+brief 终于对得上** — Maggie Appleton：2.5 能跟草图和 brief 对齐，整场 talk 幻灯片开造；并踩 MJ/Gemini「永远只对 60%」。 [@Mappletons](https://x.com/Mappletons) · [原帖](https://x.com/Mappletons/status/2098430366692388922) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098430366692388922)
 
-- **Doodle / Markup：空白涂鸦或标注局部当参考图** — Atlas 上 Image 2.5：画布涂鸦进参考，或在已有图上标注局部改。Sketch 工作流的产品化版本。 [@atlas_cloud_ai](https://x.com/atlas_cloud_ai) · [原帖](https://x.com/atlas_cloud_ai/status/2098419940361642006) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098419940361642006)
+- **Doodle / Markup：空白涂鸦或标注局部当参考图** — Atlas 上 Image 2.5：画布涂鸦进参考，或在已有图上标注局部改。Sketch 工作流的产品化版本。 [@atlas_cloud_ai](https://x.com/atlas_cloud_ai) · [原帖](https://x.com/atlas_cloud_ai/status/2098419940361642006) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098419940361642006)
 
-- **Sketch 上手实测：视频直接秀控形** — ChatGPT Images 2.5 Sketch 试玩成片视频，比纯截图更直观。给客户/团队 demo「控形能干啥」用这条。 [@Elizaveta_ai](https://x.com/Elizaveta_ai) · [原帖](https://x.com/Elizaveta_ai/status/2098401123623199128) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098401123623199128)
+- **Sketch 上手实测：视频直接秀控形** — ChatGPT Images 2.5 Sketch 试玩成片视频，比纯截图更直观。给客户/团队 demo「控形能干啥」用这条。 [@Elizaveta_ai](https://x.com/Elizaveta_ai) · [原帖](https://x.com/Elizaveta_ai/status/2098401123623199128) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098401123623199128)
 
-- **Sketch 真能当蓝图：涂鸦→厚涂奇幻生物** — 极简涂鸦一摆，厚涂奇幻生物成片路径一目了然。一人团队做角色概念，这套最省话。 [@RockyXu3000](https://x.com/RockyXu3000) · [原帖](https://x.com/RockyXu3000/status/2098391683855708543) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098391683855708543)
+- **Sketch 真能当蓝图：涂鸦→厚涂奇幻生物** — 极简涂鸦一摆，厚涂奇幻生物成片路径一目了然。一人团队做角色概念，这套最省话。 [@RockyXu3000](https://x.com/RockyXu3000) · [原帖](https://x.com/RockyXu3000/status/2098391683855708543) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098391683855708543)
 
-- **实写分镜→漫画风 13 页：只换画风保构图** — GPT-Image 2.5 把 13 页实写改成漫画，角色设计对齐、分镜构图不漂。连载改画风别重画，这才是控形红利。 [@sharil12121](https://x.com/sharil12121) · [原帖](https://x.com/sharil12121/status/2098381006059552881) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098381006059552881)
+- **实写分镜→漫画风 13 页：只换画风保构图** — GPT-Image 2.5 把 13 页实写改成漫画，角色设计对齐、分镜构图不漂。连载改画风别重画，这才是控形红利。 [@sharil12121](https://x.com/sharil12121) · [原帖](https://x.com/sharil12121/status/2098381006059552881) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098381006059552881)
 
-- **手机 Sketch：打 @ 就能手绘下稿** — Images 2.5 Sketch 在手机上 @ 上手绘草图直接生成。通勤也能控形，别再说移动端只能文字玄学。 [@ai_sns_kaz](https://x.com/ai_sns_kaz) · [原帖](https://x.com/ai_sns_kaz/status/2098345839236468861) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098345839236468861)
+- **手机 Sketch：打 @ 就能手绘下稿** — Images 2.5 Sketch 在手机上 @ 上手绘草图直接生成。通勤也能控形，别再说移动端只能文字玄学。 [@ai_sns_kaz](https://x.com/ai_sns_kaz) · [原帖](https://x.com/ai_sns_kaz/status/2098345839236468861) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098345839236468861)
 
-- **几条糙线稿 → 四个完整方向** — 极简线稿丢进 Image 2.5，一次拉出四个完整成片方向。构图说不清？先画再渲，Sketch 控形教科书级。 [@MinLiBuilds](https://x.com/MinLiBuilds) · [原帖](https://x.com/MinLiBuilds/status/2098277993575854396) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098277993575854396)
+- **几条糙线稿 → 四个完整方向** — 极简线稿丢进 Image 2.5，一次拉出四个完整成片方向。构图说不清？先画再渲，Sketch 控形教科书级。 [@MinLiBuilds](https://x.com/MinLiBuilds) · [原帖](https://x.com/MinLiBuilds/status/2098277993575854396) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098277993575854396)
 
-- **中文 Sketch 构图：方框箭头锁结构** — 写三百字说不清站位？@Sketch 用 A/B/C 区 + 箭头 + 留白虚线。草图管位置，文字管内容——中文可抄公式。 [@derek_wall90176](https://x.com/derek_wall90176) · [原帖](https://x.com/derek_wall90176/status/2098233953949983197) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098233953949983197)
+- **中文 Sketch 构图：方框箭头锁结构** — 写三百字说不清站位？@Sketch 用 A/B/C 区 + 箭头 + 留白虚线。草图管位置，文字管内容——中文可抄公式。 [@derek_wall90176](https://x.com/derek_wall90176) · [原帖](https://x.com/derek_wall90176/status/2098233953949983197) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098233953949983197&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1224,55 +1242,57 @@ C区域代表【背景建筑或环境】
 
   </details>
 
-- **tldraw 24h 升级 ChatGPT Sketch：demo + live kit** — 官方画板队连夜跟上 2.5 Sketch：30 分钟演示 + 可玩 live kit。控形出片别只看截图，直接上手拖线框。 [@tldraw](https://x.com/tldraw) · [原帖](https://x.com/tldraw/status/2098132314987303251) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098132314987303251)
+- **tldraw 24h 升级 ChatGPT Sketch：demo + live kit** — 官方画板队连夜跟上 2.5 Sketch：30 分钟演示 + 可玩 live kit。控形出片别只看截图，直接上手拖线框。 [@tldraw](https://x.com/tldraw) · [原帖](https://x.com/tldraw/status/2098132314987303251) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098132314987303251)
 
-- **Sketch→编辑风造型：线稿+布料色卡+鞋款** — 铅笔稿 + 三块布料色卡 + 鞋子参考出 editorial look；工作流和 prompt 在首评。时尚/电商造型图可抄。 [@itsphotogptai](https://x.com/itsphotogptai) · [原帖](https://x.com/itsphotogptai/status/2098064713024409655) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098064713024409655)
+- **Sketch→编辑风造型：线稿+布料色卡+鞋款** — 铅笔稿 + 三块布料色卡 + 鞋子参考出 editorial look；工作流和 prompt 在首评。时尚/电商造型图可抄。 [@itsphotogptai](https://x.com/itsphotogptai) · [原帖](https://x.com/itsphotogptai/status/2098064713024409655) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098064713024409655)
 
-- **简笔画→温馨家庭成片（闲鱼信息差）** — 随手线稿渲成光影到位的家庭画；作者还甩了闲鱼「儿童教育 Sketch 交付」变现脑洞。一人团队可抄。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2098036539704086619) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098036539704086619)
+- **简笔画→温馨家庭成片（闲鱼信息差）** — 随手线稿渲成光影到位的家庭画；作者还甩了闲鱼「儿童教育 Sketch 交付」变现脑洞。一人团队可抄。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2098036539704086619) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098036539704086619)
 
-- **Sketch 涂鸦→AI 角色 + note** — 一笔乱画做出角色，还能边聊边改；附上手感想，适合给客户演示「零门槛从草图开干」。 [@teddypooh_bear](https://x.com/teddypooh_bear) · [原帖](https://x.com/teddypooh_bear/status/2098035177968824347) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098035177968824347)
+- **Sketch 涂鸦→AI 角色 + note** — 一笔乱画做出角色，还能边聊边改；附上手感想，适合给客户演示「零门槛从草图开干」。 [@teddypooh_bear](https://x.com/teddypooh_bear) · [原帖](https://x.com/teddypooh_bear/status/2098035177968824347) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098035177968824347)
 
-- **Sketch/Doodle 完整 walkthrough：草图只锁构图** — 从涂鸦到成片的完整步骤：草图只负责构图骨架，风格后置。不会画画也能控形出片。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2097987154890944892) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097987154890944892)
+- **Sketch/Doodle 完整 walkthrough：草图只锁构图** — 从涂鸦到成片的完整步骤：草图只负责构图骨架，风格后置。不会画画也能控形出片。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2097987154890944892) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097987154890944892)
 
-- **涂鸦一笔变插画** — 乱笔画进 2.5，直接拉成可发插画。Sketch 控形的「最低门槛」演示。 [@chrno001](https://x.com/chrno001) · [原帖](https://x.com/chrno001/status/2097972662828155319) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097972662828155319)
+- **涂鸦一笔变插画** — 乱笔画进 2.5，直接拉成可发插画。Sketch 控形的「最低门槛」演示。 [@chrno001](https://x.com/chrno001) · [原帖](https://x.com/chrno001/status/2097972662828155319) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097972662828155319)
 
-- **Sketch 关键词 + 线情绪怎么写** — 线稿不只锁形，还要写清线情绪。控形 prompt 的细节档位可抄。 [@wenwen11703261](https://x.com/wenwen11703261) · [原帖](https://x.com/wenwen11703261/status/2097963306116084142) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097963306116084142)
+- **Sketch 关键词 + 线情绪怎么写** — 线稿不只锁形，还要写清线情绪。控形 prompt 的细节档位可抄。 [@wenwen11703261](https://x.com/wenwen11703261) · [原帖](https://x.com/wenwen11703261/status/2097963306116084142) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097963306116084142)
 
-- **Sketch → 油画成片** — 线稿控形后切油画质感。艺术封面/展览视觉，先形后质。 [@Mayorkng98](https://x.com/Mayorkng98) · [原帖](https://x.com/Mayorkng98/status/2097930655375970768) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097930655375970768)
+- **Sketch → 油画成片** — 线稿控形后切油画质感。艺术封面/展览视觉，先形后质。 [@Mayorkng98](https://x.com/Mayorkng98) · [原帖](https://x.com/Mayorkng98/status/2097930655375970768) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097930655375970768)
 
-- **Sketch 实测 walkthrough 视频** — 视频过一遍 Images 2.5：Sketch、参考图一致性、指令跟随都强；编辑间不完全一致。快速建立「2.5 能干啥」心智。 [@bartslodyczka](https://x.com/bartslodyczka) · [原帖](https://x.com/bartslodyczka/status/2097906238088765909) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097906238088765909)
+- **Sketch 实测 walkthrough 视频** — 视频过一遍 Images 2.5：Sketch、参考图一致性、指令跟随都强；编辑间不完全一致。快速建立「2.5 能干啥」心智。 [@bartslodyczka](https://x.com/bartslodyczka) · [原帖](https://x.com/bartslodyczka/status/2097906238088765909) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097906238088765909)
 
-- **涂鸦骑士 → Chibi → GIF** — Sketch 出资产再 vibe-code 动起来，游戏/表情包可复用；通用 prompt 在帖里。 [@mtkapi](https://x.com/mtkapi) · [原帖](https://x.com/mtkapi/status/2097877501745795432) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097877501745795432)
+- **涂鸦骑士 → Chibi → GIF** — Sketch 出资产再 vibe-code 动起来，游戏/表情包可复用；通用 prompt 在帖里。 [@mtkapi](https://x.com/mtkapi) · [原帖](https://x.com/mtkapi/status/2097877501745795432) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097877501745795432)
 
-- **画质不是杀招，Sketch 才是** — @Sketch 棒人草图 + 一句指令 → 成品；「再往左一点」那种往返可以扔了。内容号讲工作流就讲这个。 [@tatsumoto2222](https://x.com/tatsumoto2222) · [原帖](https://x.com/tatsumoto2222/status/2097858154793222529) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097858154793222529)
+- **画质不是杀招，Sketch 才是** — @Sketch 棒人草图 + 一句指令 → 成品；「再往左一点」那种往返可以扔了。内容号讲工作流就讲这个。 [@tatsumoto2222](https://x.com/tatsumoto2222) · [原帖](https://x.com/tatsumoto2222/status/2097858154793222529) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097858154793222529)
 
-- **Sketch：不会画画也能迭代出片** — 草图 → Images 2.5 → 继续改。视频演示「不会画也能出货」，Sketch 种草最佳素材之一。 [@derrickcchoi](https://x.com/derrickcchoi) · [原帖](https://x.com/derrickcchoi/status/2097703973671334359) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097703973671334359)
+- **Sketch：不会画画也能迭代出片** — 草图 → Images 2.5 → 继续改。视频演示「不会画也能出货」，Sketch 种草最佳素材之一。 [@derrickcchoi](https://x.com/derrickcchoi) · [原帖](https://x.com/derrickcchoi/status/2097703973671334359) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097703973671334359)
 
-- **零画功 Sketch：棒人+角色图→完整场景** — 不会画画也能用棒人构图 + 角色参考生成场景；给客户讲「手绘即提示词」最直观。 [@sunouku](https://x.com/sunouku) · [原帖](https://x.com/sunouku/status/2097696764103201143) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097696764103201143)
+- **零画功 Sketch：棒人+角色图→完整场景** — 不会画画也能用棒人构图 + 角色参考生成场景；给客户讲「手绘即提示词」最直观。 [@sunouku](https://x.com/sunouku) · [原帖](https://x.com/sunouku/status/2097696764103201143) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097696764103201143)
 
-- **鼠标手绘 Sketch 也能懂** — Sketch 容错示范。 [@MathisYanis](https://x.com/MathisYanis) · [原帖](https://x.com/MathisYanis/status/2097650763174391836) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097650763174391836)
+- **鼠标手绘 Sketch 也能懂** — Sketch 容错示范。 [@MathisYanis](https://x.com/MathisYanis) · [原帖](https://x.com/MathisYanis/status/2097650763174391836) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097650763174391836)
 
-- **Sketch 画框做封面布局** — 少跟模型解释构图：@Sketch 标标题/人物/产品位置。 [@tokenai888](https://x.com/tokenai888) · [原帖](https://x.com/tokenai888/status/2097648993388093656) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097648993388093656)
+- **Sketch 画框做封面布局** — 少跟模型解释构图：@Sketch 标标题/人物/产品位置。 [@tokenai888](https://x.com/tokenai888) · [原帖](https://x.com/tokenai888/status/2097648993388093656) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097648993388093656)
 
-- **Sketch 演示视频** — 完整录屏：怎么画、怎么点、怎么迭代。 [@minchoi](https://x.com/minchoi) · [原帖](https://x.com/minchoi/status/2097641752169427250) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097641752169427250)
+- **Sketch 演示视频** — 完整录屏：怎么画、怎么点、怎么迭代。 [@minchoi](https://x.com/minchoi) · [原帖](https://x.com/minchoi/status/2097641752169427250) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097641752169427250)
 
-- **Sketch 动漫海报** — 海报级文字与角色，草图先行再 Sunburst 精修。 [@lycoris_zephyr](https://x.com/lycoris_zephyr) · [原帖](https://x.com/lycoris_zephyr/status/2097612107818664107) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097612107818664107)
+- **Sketch 动漫海报** — 海报级文字与角色，草图先行再 Sunburst 精修。 [@lycoris_zephyr](https://x.com/lycoris_zephyr) · [原帖](https://x.com/lycoris_zephyr/status/2097612107818664107) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097612107818664107)
 
-- **火柴人哥斯拉** — 极简线稿也能控住巨型生物构图，Sketch 控形示范。 [@GeekCatX](https://x.com/GeekCatX) · [原帖](https://x.com/GeekCatX/status/2097608369947435116) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097608369947435116)
+- **火柴人哥斯拉** — 极简线稿也能控住巨型生物构图，Sketch 控形示范。 [@GeekCatX](https://x.com/GeekCatX) · [原帖](https://x.com/GeekCatX/status/2097608369947435116) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097608369947435116)
 
-- **Sketch 前后对比** — 从线稿到成片的 before/after，适合给客户演示流程。 [@ontm0422ai](https://x.com/ontm0422ai) · [原帖](https://x.com/ontm0422ai/status/2097585415264125325) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097585415264125325)
+- **Sketch 前后对比** — 从线稿到成片的 before/after，适合给客户演示流程。 [@ontm0422ai](https://x.com/ontm0422ai) · [原帖](https://x.com/ontm0422ai/status/2097585415264125325) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097585415264125325)
 
-- **Sketch 打光指南** — 草图阶段就把光位画对，出图少返工。 [@micchan8_](https://x.com/micchan8_) · [原帖](https://x.com/micchan8_/status/2097566459308417382) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097566459308417382)
+- **Sketch 打光指南** — 草图阶段就把光位画对，出图少返工。 [@micchan8_](https://x.com/micchan8_) · [原帖](https://x.com/micchan8_/status/2097566459308417382) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097566459308417382)
 
-- **手绘点选编辑** — Sketch + 点选改局部，一人团队最快闭环之一。 [@yupi996](https://x.com/yupi996) · [原帖](https://x.com/yupi996/status/2097546394827632727) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097546394827632727)
+- **手绘点选编辑** — Sketch + 点选改局部，一人团队最快闭环之一。 [@yupi996](https://x.com/yupi996) · [原帖](https://x.com/yupi996/status/2097546394827632727) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097546394827632727)
 
 
 ## 海报排版
 
+> 💡 本分类带提示词的条目可点「▶ 一键试用」直接在线生成；或打开 [GPT Image 2.5 在线生成器 →](https://gptimage2.asia/zh/generate?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=section-poster)
+
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
 - **东方海报同一主题四风格：彩墨巨字/黑底解构/水墨拼贴/现代展陈** — 主题焊死只换构图版式与视觉系统，气质立刻四套——青绿山水×超尺度书法、东方器物×几何巨字、古画碎片×自由书法、网格系统×图像切片。展览/品牌系列 KV 别只会换题材，先抄「一题四貌」槽位。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105968262404010131) · [prompt](https://x.com/MrLarus/status/2105968950412554251)
-- **强主体+野字破框动势：乘风/震势/破风/断墨** — 纸鸢破框、大鼓冲击、折扇放射、长刃斜切——动势线写死，画面一下就「动」起来。工艺/展览海报要张力，先抄这套破框四槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105311560063140159) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105311560063140159) · [prompt](https://x.com/MrLarus/status/2105311813336183064)
+- **强主体+野字破框动势：乘风/震势/破风/断墨** — 纸鸢破框、大鼓冲击、折扇放射、长刃斜切——动势线写死，画面一下就「动」起来。工艺/展览海报要张力，先抄这套破框四槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105311560063140159) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105311560063140159&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [prompt](https://x.com/MrLarus/status/2105311813336183064)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1302,7 +1322,7 @@ C区域代表【背景建筑或环境】
 
   </details>
 
-- **强主体+野字文化海报：灯影/折光/面相/烟迹四槽** — 器物压进巨型书法——纸灯光影、玻璃折射、木雕野字、香器烟气，材质互动一眼就能看懂。文化展览 KV 别再「图上贴字」，先让主体真正改字。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105307765732220930) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105307765732220930) · [prompt](https://x.com/MrLarus/status/2105308236429578685)
+- **强主体+野字文化海报：灯影/折光/面相/烟迹四槽** — 器物压进巨型书法——纸灯光影、玻璃折射、木雕野字、香器烟气，材质互动一眼就能看懂。文化展览 KV 别再「图上贴字」，先让主体真正改字。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105307765732220930) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105307765732220930&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [prompt](https://x.com/MrLarus/status/2105308236429578685)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1345,7 +1365,7 @@ C区域代表【背景建筑或环境】
 
   </details>
 
-- **日式文字穿插海报：織間/紙上都市/間奏/残響** — 织带、书页、人物、黑胶直接杀进字形——遮挡穿插一做，平面立刻有空间。展览/出版/音乐 KV 别再「图上贴字」，先让 Typography 当承重墙。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105261212791386354) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105261212791386354) · [prompt](https://x.com/MrLarus/status/2105261460125315522)
+- **日式文字穿插海报：織間/紙上都市/間奏/残響** — 织带、书页、人物、黑胶直接杀进字形——遮挡穿插一做，平面立刻有空间。展览/出版/音乐 KV 别再「图上贴字」，先让 Typography 当承重墙。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105261212791386354) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105261212791386354&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [prompt](https://x.com/MrLarus/status/2105261460125315522)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1374,7 +1394,7 @@ C区域代表【背景建筑或环境】
 
   </details>
 
-- **东方文博海报：漆器/青铜/砚台/古琴 × 巨字留白×档案** — 器物当版式语言——漆器巨字、青铜圆弧、砚石块面、古琴斜轴，再叠古画/拓片/琴谱微型档案。博物馆展览 KV / 文创封面别再贴祥云金边，先抄这套克制留白槽位。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105228005320839496) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105228005320839496) · [prompt](https://x.com/MrLarus/status/2105228256089612671) · [续帖·青瓷/衣冠/宣纸/砚墨](https://x.com/MrLarus/status/2105234648347668527) · [续帖提示词](https://x.com/MrLarus/status/2105234749136482350)
+- **东方文博海报：漆器/青铜/砚台/古琴 × 巨字留白×档案** — 器物当版式语言——漆器巨字、青铜圆弧、砚石块面、古琴斜轴，再叠古画/拓片/琴谱微型档案。博物馆展览 KV / 文创封面别再贴祥云金边，先抄这套克制留白槽位。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105228005320839496) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105228005320839496&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [prompt](https://x.com/MrLarus/status/2105228256089612671) · [续帖·青瓷/衣冠/宣纸/砚墨](https://x.com/MrLarus/status/2105234648347668527) · [续帖提示词](https://x.com/MrLarus/status/2105234749136482350)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1415,7 +1435,7 @@ C区域代表【背景建筑或环境】
 
   </details>
 
-- **CAPYVOYAGE 巴西旅行海报：分区构图 hero/headline/CTA** — 右前景锁英雄水豚、左半留给大标题、地标压进远景下沿，CTA 底部安静区——分区不抢戏才是旅行海报的真本事。目的地 campaign / 品牌大使竖版直接抄。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2105221406929953154) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105221406929953154)
+- **CAPYVOYAGE 巴西旅行海报：分区构图 hero/headline/CTA** — 右前景锁英雄水豚、左半留给大标题、地标压进远景下沿，CTA 底部安静区——分区不抢戏才是旅行海报的真本事。目的地 campaign / 品牌大使竖版直接抄。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2105221406929953154) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105221406929953154&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1435,7 +1455,7 @@ The final image should feel like a Cannes-level global destination campaign: bol
 
   </details>
 
-- **东方禅意秋日封面「接住秋天」：主题到光线全槽位** — 古风女子接银杏叶——主题/风格/主体/情绪/场景/构图/色彩/光线一次写死，9:16 大留白封面位。秋日种草封面别只会堆落叶，先抄这套东方禅意结构化配方。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2105172484677091829) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105172484677091829)
+- **东方禅意秋日封面「接住秋天」：主题到光线全槽位** — 古风女子接银杏叶——主题/风格/主体/情绪/场景/构图/色彩/光线一次写死，9:16 大留白封面位。秋日种草封面别只会堆落叶，先抄这套东方禅意结构化配方。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2105172484677091829) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105172484677091829&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1454,7 +1474,7 @@ The final image should feel like a Cannes-level global destination campaign: bol
 
   </details>
 
-- **Noble-beige 秋日 editorial：国家/地点/主题可替换槽** — 4:5 暖象牙负空间 × gouache quiet-luxury，槽位填 [COUNTRY/LOCATION/SUBJECT] 就能出一整页艺术书级秋日 editorial。秋日营销别只会砸橙红滤镜，先锁米色贵气。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2105170431577870682) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105170431577870682)
+- **Noble-beige 秋日 editorial：国家/地点/主题可替换槽** — 4:5 暖象牙负空间 × gouache quiet-luxury，槽位填 [COUNTRY/LOCATION/SUBJECT] 就能出一整页艺术书级秋日 editorial。秋日营销别只会砸橙红滤镜，先锁米色贵气。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2105170431577870682) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105170431577870682&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1499,7 +1519,7 @@ FORMAT: 4:5 vertical, generous warm-ivory negative space, refined minimalist com
 
   </details>
 
-- **复古数码编辑海报：单主物体+单强调色+字体当主角** — CCD / MiniDisc / 磁带机 / 掌机——暖白底只放一个真实复古数码物件，再让超大标题和机身产生遮挡穿插。海报别堆霓虹赛博，先焊「一物一色一标题」再加技术微排版。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104913993869779322) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104913993869779322) · [回复·完整填空 prompt](https://x.com/MrLarus/status/2104914024039395627)
+- **复古数码编辑海报：单主物体+单强调色+字体当主角** — CCD / MiniDisc / 磁带机 / 掌机——暖白底只放一个真实复古数码物件，再让超大标题和机身产生遮挡穿插。海报别堆霓虹赛博，先焊「一物一色一标题」再加技术微排版。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104913993869779322) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104913993869779322&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [回复·完整填空 prompt](https://x.com/MrLarus/status/2104914024039395627)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1528,7 +1548,7 @@ Avoid real brand logos, random filler text, heavy grunge, distressed typography,
 
   </details>
 
-- **纪念碑字母海报：WIND·TIDE·GROW·LIGHT 字意改物理** — 把单词铸成数十米建筑级 3D 字体，再让字义真正改写场景——风吹织物、潮水破字、树穿字母、光穿开口投长影。排版实验别只会「字里贴风景」，先让 Typography 参与物理。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104902227559108613) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104902227559108613) · [回复·完整参数化 prompt](https://x.com/MrLarus/status/2104902276322394296)
+- **纪念碑字母海报：WIND·TIDE·GROW·LIGHT 字意改物理** — 把单词铸成数十米建筑级 3D 字体，再让字义真正改写场景——风吹织物、潮水破字、树穿字母、光穿开口投长影。排版实验别只会「字里贴风景」，先让 Typography 参与物理。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104902227559108613) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104902227559108613&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [回复·完整参数化 prompt](https://x.com/MrLarus/status/2104902276322394296)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1575,7 +1595,7 @@ The final image should feel like a finished contemporary art-direction poster, w
 
   </details>
 
-- **商业 KV 巨物构图：产品变空间/景观填空模板** — 手机屏幕走进去、钻戒变建筑、香水立云海、表盘成广场——先保证产品可信，再放大到建筑级并让结构自然转化成空间。新品发布/奢侈品 KV/户外大屏，别只会棚拍放大。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104892466206052521) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104892466206052521) · [回复·完整填空 prompt](https://x.com/MrLarus/status/2104893070563332543)
+- **商业 KV 巨物构图：产品变空间/景观填空模板** — 手机屏幕走进去、钻戒变建筑、香水立云海、表盘成广场——先保证产品可信，再放大到建筑级并让结构自然转化成空间。新品发布/奢侈品 KV/户外大屏，别只会棚拍放大。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104892466206052521) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104892466206052521&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [回复·完整填空 prompt](https://x.com/MrLarus/status/2104893070563332543)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1611,7 +1631,7 @@ The final image should feel like a finished contemporary art-direction poster, w
 
   </details>
 
-- **极简汽车 editorial 海报：3:4 红底巨字侧影** — 竖版 3:4、血红棚景、车身挡住超大白字品牌名——干净侧影 + 赛车涂装细节一次焊死。汽车 Campaign 别堆公路风景，先让负空间和 Typography 分层。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2104879575096537148) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104879575096537148)
+- **极简汽车 editorial 海报：3:4 红底巨字侧影** — 竖版 3:4、血红棚景、车身挡住超大白字品牌名——干净侧影 + 赛车涂装细节一次焊死。汽车 Campaign 别堆公路风景，先让负空间和 Typography 分层。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2104879575096537148) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104879575096537148&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1650,7 +1670,7 @@ Ultra-realistic, crisp, professional automotive photography, high detail, 8K qua
 
   </details>
 
-- **六人集合缩略图：百分比分区构图配方** — 先出单人参考，再按百分比焊死四区（例：左上侧脸 60%高×55%宽）。多人缩略图/海报别靠玄学站位——用区域百分比把重叠与主次写死。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2104770441156137177) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104770441156137177) · [前帖·六人分镜参考](https://x.com/Kurohachi05/status/2104498629763637411)
+- **六人集合缩略图：百分比分区构图配方** — 先出单人参考，再按百分比焊死四区（例：左上侧脸 60%高×55%宽）。多人缩略图/海报别靠玄学站位——用区域百分比把重叠与主次写死。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2104770441156137177) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104770441156137177&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [前帖·六人分镜参考](https://x.com/Kurohachi05/status/2104498629763637411)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1663,7 +1683,7 @@ A masterpiece. Top quality. A group portrait of six people. Set in the world of 
 
   </details>
 
-- **夹缝构图商业四槽：Scent/Form/Motion/Hydration** — 自然夹缝不够用？商业版把产品塞进光隙：丝绸香水、建筑时装、材质跑鞋、水凝膜精华。两侧巨材夹负空间，缩略图先看见通道，再看见货——品牌 KV / Campaign 别再主体居中堆满。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104571563614069038) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104571563614069038) · [评论区完整提示词](https://x.com/MrLarus/status/2104572006121505074) · [自然主题夹缝四槽](https://x.com/MrLarus/status/2104555888657027393)
+- **夹缝构图商业四槽：Scent/Form/Motion/Hydration** — 自然夹缝不够用？商业版把产品塞进光隙：丝绸香水、建筑时装、材质跑鞋、水凝膜精华。两侧巨材夹负空间，缩略图先看见通道，再看见货——品牌 KV / Campaign 别再主体居中堆满。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104571563614069038) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104571563614069038&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [评论区完整提示词](https://x.com/MrLarus/status/2104572006121505074) · [自然主题夹缝四槽](https://x.com/MrLarus/status/2104555888657027393)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1720,7 +1740,7 @@ A masterpiece. Top quality. A group portrait of six people. Set in the world of 
 
   </details>
 
-- **夹缝构图海报四槽：石隙/冰隙/林隙/土隙** — 两侧巨材挤压、中间只留一道光隙——石隙/冰隙/林隙/土隙四槽把视线焊死中心。自然主题海报、文化展览、书封别只会堆满中央主体，先抄这套 Interval Composition 填空模板。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104555888657027393) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104555888657027393) · [评论区完整提示词](https://x.com/MrLarus/status/2104556440019190115)
+- **夹缝构图海报四槽：石隙/冰隙/林隙/土隙** — 两侧巨材挤压、中间只留一道光隙——石隙/冰隙/林隙/土隙四槽把视线焊死中心。自然主题海报、文化展览、书封别只会堆满中央主体，先抄这套 Interval Composition 填空模板。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2104555888657027393) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104555888657027393&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [评论区完整提示词](https://x.com/MrLarus/status/2104556440019190115)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1762,7 +1782,7 @@ A masterpiece. Top quality. A group portrait of six people. Set in the world of 
 
   </details>
 
-- **照片×极简插画记忆卡：竖版3:4完整配方** — Harboris 把上半写实照片焊死，下半抽色板做成稚拙 editorial 插画——构图/主体/负向全写死，换一张生活照就能出记忆卡。旅行/婚礼/品牌纪念册别只会九宫格，先抄这套对半分卡。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2104455859447501166) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104455859447501166)
+- **照片×极简插画记忆卡：竖版3:4完整配方** — Harboris 把上半写实照片焊死，下半抽色板做成稚拙 editorial 插画——构图/主体/负向全写死，换一张生活照就能出记忆卡。旅行/婚礼/品牌纪念册别只会九宫格，先抄这套对半分卡。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2104455859447501166) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104455859447501166&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1789,7 +1809,7 @@ Vertical 3:4 split card · photo top / naive illustration bottom · aged paper t
 
   </details>
 
-- **电影经典台词日签：片名×台词×视觉记忆×Editorial** — 深蓝一条槽位公式：【电影名】×经典台词×电影视觉记忆×Editorial摄影×极简艺术日签——双语排版一换片名就能连更朋友圈。日签工厂别手绘每张，先焊这串再批量。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104426540310409481) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104426540310409481)
+- **电影经典台词日签：片名×台词×视觉记忆×Editorial** — 深蓝一条槽位公式：【电影名】×经典台词×电影视觉记忆×Editorial摄影×极简艺术日签——双语排版一换片名就能连更朋友圈。日签工厂别手绘每张，先焊这串再批量。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104426540310409481) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104426540310409481&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1802,7 +1822,7 @@ Vertical 3:4 split card · photo top / naive illustration bottom · aged paper t
 
   </details>
 
-- **国庆朋友圈承包：GPT-Image 2.5 十二种假期出片玩法** — 卡兹克把去游客、调光、美颜、拍立得公仔、景点明信片、贴纸、行李箱碎片、旅行拼贴、演唱会氛围、美食炸弹、文字涂鸦到 ins 注释一次摊齐——假期废片别只会加滤镜，直接抄这十二段提示词。 [@Khazix0918](https://x.com/Khazix0918) · [原帖](https://x.com/Khazix0918/status/2104401048324743646) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104401048324743646) · [长文原文](https://x.com/i/article/2104399548479369216)
+- **国庆朋友圈承包：GPT-Image 2.5 十二种假期出片玩法** — 卡兹克把去游客、调光、美颜、拍立得公仔、景点明信片、贴纸、行李箱碎片、旅行拼贴、演唱会氛围、美食炸弹、文字涂鸦到 ins 注释一次摊齐——假期废片别只会加滤镜，直接抄这十二段提示词。 [@Khazix0918](https://x.com/Khazix0918) · [原帖](https://x.com/Khazix0918/status/2104401048324743646) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104401048324743646&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [长文原文](https://x.com/i/article/2104399548479369216)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1848,7 +1868,7 @@ Vertical 3:4 split card · photo top / naive illustration bottom · aged paper t
 
   </details>
 
-- **参考字图→全套原创字体：大写小写再到文字组** — 几笔参考字丢进 Image 2.5，先出全大写、再补小写、翻车字母定点修，最后直接文字组——日文 note 把流程摊开了。品牌定制字/Logo 字重别只会掏钱买字库，先抄这套「参考→全字表→排字」。 [@jinkomuno](https://x.com/jinkomuno) · [原帖](https://x.com/jinkomuno/status/2104071903111790795) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104071903111790795) · [note 教程](https://note.com/jinko_muno/n/n4ff941397eaf)
+- **参考字图→全套原创字体：大写小写再到文字组** — 几笔参考字丢进 Image 2.5，先出全大写、再补小写、翻车字母定点修，最后直接文字组——日文 note 把流程摊开了。品牌定制字/Logo 字重别只会掏钱买字库，先抄这套「参考→全字表→排字」。 [@jinkomuno](https://x.com/jinkomuno) · [原帖](https://x.com/jinkomuno/status/2104071903111790795) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104071903111790795&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [note 教程](https://note.com/jinko_muno/n/n4ff941397eaf)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1865,7 +1885,7 @@ Tips：26 字同屏会有个别崩字，先修再排；汉字/假名也能硬顶
 
   </details>
 
-- **FLORA SIGNAL：chrome 人形×CRT 花冠文化海报长提示词** — Orbit／Transit／Port 三合一旗舰文化海报——黑铬人形 + CRT 花冠 + 粉像素标题，60/30/10 色板与材质语义写死。高端文化/艺术节海报别堆赛博杂物，先让花从屏幕头长出来。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2103388889675149767) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103388889675149767)
+- **FLORA SIGNAL：chrome 人形×CRT 花冠文化海报长提示词** — Orbit／Transit／Port 三合一旗舰文化海报——黑铬人形 + CRT 花冠 + 粉像素标题，60/30/10 色板与材质语义写死。高端文化/艺术节海报别堆赛博杂物，先让花从屏幕头长出来。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2103388889675149767) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103388889675149767&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1899,7 +1919,7 @@ Craft tip: keep the chrome figure precise and stripped back; confine soft flower
 
   </details>
 
-- **日常 gadget→地标建筑：Massing 分析×自动选建筑类型公式** — 4 图 4:5，先 ANALYZE Mass/Surface/Mechanism，再按规则自动选博物馆/摩天楼/住宅群/植物园/枢纽，最后金时外景渲染。物件概念海报别从零找形——先让结构语言长成可建的地标。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2103316308414869908) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103316308414869908)
+- **日常 gadget→地标建筑：Massing 分析×自动选建筑类型公式** — 4 图 4:5，先 ANALYZE Mass/Surface/Mechanism，再按规则自动选博物馆/摩天楼/住宅群/植物园/枢纽，最后金时外景渲染。物件概念海报别从零找形——先让结构语言长成可建的地标。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2103316308414869908) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103316308414869908&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1924,7 +1944,7 @@ Golden-hour exterior render, people for scale, plausible materials, cinematic wi
 
   </details>
 
-- **经典跑车侧剖信息图：letterpress 语义切面公式** — 2×2 / 16:9，把车身拆成机械词/材质词/气动词贴在真实结构位；`$ car_scene` 变量可换四台冷门经典跑车。汽车科普海报别只会摆一张侧拍——先让术语长在骨架上。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2103281580085035495) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103281580085035495)
+- **经典跑车侧剖信息图：letterpress 语义切面公式** — 2×2 / 16:9，把车身拆成机械词/材质词/气动词贴在真实结构位；`$ car_scene` 变量可换四台冷门经典跑车。汽车科普海报别只会摆一张侧拍——先让术语长在骨架上。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2103281580085035495) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103281580085035495&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1934,7 +1954,7 @@ Golden-hour exterior render, people for scale, plausible materials, cinematic wi
 
   </details>
 
-- **上传照→高端编辑海报：3:4 上下 50/50** — 上半保真原图，下半抽成不超过四色的纸质手绘小插画，留大量暖米白负空间。种草/艺术书封面批产模板，附完整英文 prompt。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2102972265541304823) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102972265541304823)
+- **上传照→高端编辑海报：3:4 上下 50/50** — 上半保真原图，下半抽成不超过四色的纸质手绘小插画，留大量暖米白负空间。种草/艺术书封面批产模板，附完整英文 prompt。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2102972265541304823) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102972265541304823&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1944,7 +1964,7 @@ Create a high-end editorial poster using the uploaded photo as the exact referen
 
   </details>
 
-- **中秋海报「月满欢喜」：禅意极简可返图** — 古风女子坐浅色台阶，手边月饼礼盒；桂花+珊瑚橙圆月锁情绪母题。节日封面别只会堆月饼——主题/风格/主体/情绪/意象槽位填完再出图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102970523466797329) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102970523466797329)
+- **中秋海报「月满欢喜」：禅意极简可返图** — 古风女子坐浅色台阶，手边月饼礼盒；桂花+珊瑚橙圆月锁情绪母题。节日封面别只会堆月饼——主题/风格/主体/情绪/意象槽位填完再出图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102970523466797329) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102970523466797329&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1958,11 +1978,11 @@ Create a high-end editorial poster using the uploaded photo as the exact referen
 
   </details>
 
-- **东方人文海报四主题：树纪/雨序/器语/纸间** — 同一套版式骨架，四个「时间与痕迹」主题——年轮、雨水刻度、陶土手温、纸上触痕。展览视觉/文化品牌/杂志封面别只会堆水墨滤镜，先让骨架替你讲时间。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102782889318330399) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102782889318330399)
+- **东方人文海报四主题：树纪/雨序/器语/纸间** — 同一套版式骨架，四个「时间与痕迹」主题——年轮、雨水刻度、陶土手温、纸上触痕。展览视觉/文化品牌/杂志封面别只会堆水墨滤镜，先让骨架替你讲时间。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102782889318330399) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102782889318330399)
 
-- **时尚大片字画同框四招：折射/破框/粗体叠图/走进巨型字体** — 光学折射、破框穿出、粗体叠图、走进巨型字体——人像与排版抢同一画面。时尚海报/杂志封面别只会把字贴边上，先让字和人抢空间。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102756484475990402) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102756484475990402)
+- **时尚大片字画同框四招：折射/破框/粗体叠图/走进巨型字体** — 光学折射、破框穿出、粗体叠图、走进巨型字体——人像与排版抢同一画面。时尚海报/杂志封面别只会把字贴边上，先让字和人抢空间。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102756484475990402) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102756484475990402)
 
-- **城市夜跑运动海报：荧光杂志风+中文锁字** — 深紫底配荧光黄与冷白，跑者与城市灯压在下半部；标题锁死「今晚，跑向风里」。运动海报别只会堆 exif——先锁色域与字，再谈剪影颗粒。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102742993946226914) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102742993946226914)
+- **城市夜跑运动海报：荧光杂志风+中文锁字** — 深紫底配荧光黄与冷白，跑者与城市灯压在下半部；标题锁死「今晚，跑向风里」。运动海报别只会堆 exif——先锁色域与字，再谈剪影颗粒。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102742993946226914) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102742993946226914&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1972,11 +1992,11 @@ Create a high-end editorial poster using the uploaded photo as the exact referen
 
   </details>
 
-- **东方诗意巨物海报四联：超尺度主视觉+微人** — 西湖雨巨伞、白露初凝露滴、上元灯笼、云上春茶——一个超尺度主视觉+大色域+微型人物，节气/文旅/品牌 KV 立刻有完整作品感。巨物别只会放大道具，先让尺度差替你讲故事。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102738823931118067) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102738823931118067)
+- **东方诗意巨物海报四联：超尺度主视觉+微人** — 西湖雨巨伞、白露初凝露滴、上元灯笼、云上春茶——一个超尺度主视觉+大色域+微型人物，节气/文旅/品牌 KV 立刻有完整作品感。巨物别只会放大道具，先让尺度差替你讲故事。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102738823931118067) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102738823931118067)
 
-- **字内灌图故障字体四联：BEAT / RUSH / WAVE / VOID** — Images 2.5 把连续画面灌进字母，边沿各玩一套：回声描边、速度切片、波形位移、碎边。音乐/活动/街头文化海报别只会叠噪点——先让字本身变成画面容器。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102712596151296379) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102712596151296379)
+- **字内灌图故障字体四联：BEAT / RUSH / WAVE / VOID** — Images 2.5 把连续画面灌进字母，边沿各玩一套：回声描边、速度切片、波形位移、碎边。音乐/活动/街头文化海报别只会叠噪点——先让字本身变成画面容器。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102712596151296379) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102712596151296379)
 
-- **中秋海报「月下清梦」：禅意极简女性向** — 古风女子+小玉兔坐白高台，巨大金月轮压孔雀黑夜空。9:16 竖版、珍珠白/香槟金/孔雀蓝控色，标题区留白写死。节日封面别只会堆月饼——先锁情绪母题再谈排字。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102677759038496809) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102677759038496809)
+- **中秋海报「月下清梦」：禅意极简女性向** — 古风女子+小玉兔坐白高台，巨大金月轮压孔雀黑夜空。9:16 竖版、珍珠白/香槟金/孔雀蓝控色，标题区留白写死。节日封面别只会堆月饼——先锁情绪母题再谈排字。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102677759038496809) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102677759038496809&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -1995,7 +2015,7 @@ Create a high-end editorial poster using the uploaded photo as the exact referen
 
   </details>
 
-- **机械键盘 3:4 百科海报：包豪斯模块配方** — 竖版信息海报：配列/轴体/行程/压力/键帽/连接/结构九模块一次排完，中文标题控字稳。硬核产品百科别堆图标——网格+克制三色就够。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102417129022898550) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102417129022898550)
+- **机械键盘 3:4 百科海报：包豪斯模块配方** — 竖版信息海报：配列/轴体/行程/压力/键帽/连接/结构九模块一次排完，中文标题控字稳。硬核产品百科别堆图标——网格+克制三色就够。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102417129022898550) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102417129022898550&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2009,7 +2029,7 @@ Create a high-end editorial poster using the uploaded photo as the exact referen
 
   </details>
 
-- **观星之夜：中文活动海报控字配方** — 午夜蓝+望远镜剪影，大标题「今晚抬头看星星」指定中文不乱码。活动海报控字——只渲染你写的那两句，别让模型自由发挥星座 logo。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102412386204557689) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102412386204557689)
+- **观星之夜：中文活动海报控字配方** — 午夜蓝+望远镜剪影，大标题「今晚抬头看星星」指定中文不乱码。活动海报控字——只渲染你写的那两句，别让模型自由发挥星座 logo。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102412386204557689) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102412386204557689&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2019,7 +2039,7 @@ Create a high-end editorial poster using the uploaded photo as the exact referen
 
   </details>
 
-- **病毒话题→FIT 打分模块拼信息图** — Astra/ChatGPT 先挖热点，再按 FIT 打分拼模块，Image 2.5 直出 4 张 4:5。选题可视化别从空白画布起——先打分再出图。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2102383160185208960) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102383160185208960)
+- **病毒话题→FIT 打分模块拼信息图** — Astra/ChatGPT 先挖热点，再按 FIT 打分拼模块，Image 2.5 直出 4 张 4:5。选题可视化别从空白画布起——先打分再出图。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2102383160185208960) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102383160185208960&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2033,7 +2053,7 @@ Then order the chosen modules by narrative logic: HOOK → EXPLAINER → METHOD 
 
   </details>
 
-- **Quechua 户外广告：4:5 数字拼贴完整 campaign** — Behance 级户外 key visual，竖版 4:5 社媒主视觉。PLAY OUTSIDE 叙事写死，反 AI 糊/反库存图；户外品牌 campaign 直接抄长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2102341408208400884) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102341408208400884)
+- **Quechua 户外广告：4:5 数字拼贴完整 campaign** — Behance 级户外 key visual，竖版 4:5 社媒主视觉。PLAY OUTSIDE 叙事写死，反 AI 糊/反库存图；户外品牌 campaign 直接抄长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2102341408208400884) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102341408208400884&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2614,7 +2634,7 @@ ZERO AI SLOP
 
   </details>
 
-- **雪豹百科信息卡：瑞士国际主义网格模板** — 2:3 竖版图鉴卡：顶 30% 去背主体 + 中 60% 九模块网格 + 底 10% 来源栏。换物种改模块就能出博物馆级信息图——内容号/科普账号直接填槽。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102220678976204987) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102220678976204987)
+- **雪豹百科信息卡：瑞士国际主义网格模板** — 2:3 竖版图鉴卡：顶 30% 去背主体 + 中 60% 九模块网格 + 底 10% 来源栏。换物种改模块就能出博物馆级信息图——内容号/科普账号直接填槽。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102220678976204987) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102220678976204987&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2628,7 +2648,7 @@ ZERO AI SLOP
 
   </details>
 
-- **红楼群芳夜宴 × 最后的晚餐：13人横向群像槽** — 只借达芬奇「中1+左右各6+长桌」结构，人物全换成《红楼梦》清代工笔语境——左黛玉侧、右宝钗侧，不增减不乱序。国风群像海报/长卷 KV 直接填槽。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2102218694873248214) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102218694873248214)
+- **红楼群芳夜宴 × 最后的晚餐：13人横向群像槽** — 只借达芬奇「中1+左右各6+长桌」结构，人物全换成《红楼梦》清代工笔语境——左黛玉侧、右宝钗侧，不增减不乱序。国风群像海报/长卷 KV 直接填槽。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2102218694873248214) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102218694873248214&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2641,9 +2661,9 @@ ZERO AI SLOP
 
   </details>
 
-- **东方文化海报四主题：笔毫/青瓷螺旋/金箔/印面留白** — 远看大形、近看材质：毫端成意、一坯旋成、一箔成光、方寸成章。传统工艺/品牌视觉/文化海报的留白结构母版，气质比堆纹样更值钱。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102020479758246280) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102020479758246280)
+- **东方文化海报四主题：笔毫/青瓷螺旋/金箔/印面留白** — 远看大形、近看材质：毫端成意、一坯旋成、一箔成光、方寸成章。传统工艺/品牌视觉/文化海报的留白结构母版，气质比堆纹样更值钱。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2102020479758246280) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102020479758246280)
 
-- **Nike Blueprint：黑白产品解构广告可复用 prompt** — 羽绒夹克对半拆色 + 技术蓝图叠印 + Design Lab 标注。运动服饰 KV 要「像工程图一样高级」时直接改品牌槽。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2102012943433167168) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102012943433167168)
+- **Nike Blueprint：黑白产品解构广告可复用 prompt** — 羽绒夹克对半拆色 + 技术蓝图叠印 + Design Lab 标注。运动服饰 KV 要「像工程图一样高级」时直接改品牌槽。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2102012943433167168) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102012943433167168&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2714,7 +2734,7 @@ Style: Nike premium design editorial campaign, technical blueprint aesthetic wit
 
   </details>
 
-- **半写实半纸艺：上真图下艺术化编辑海报** — 上半锁身份姿态的电影感写真，下半撕纸/浮雕纸艺叙事——人物与城市/职业槽可换。旅行/人设社论海报一条母版。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2102005089431122308) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102005089431122308)
+- **半写实半纸艺：上真图下艺术化编辑海报** — 上半锁身份姿态的电影感写真，下半撕纸/浮雕纸艺叙事——人物与城市/职业槽可换。旅行/人设社论海报一条母版。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2102005089431122308) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102005089431122308&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2731,7 +2751,7 @@ Make the transition seamless, artistic, emotional, and highly recognizable.
 
   </details>
 
-- **Apple Watch「TIME MOVES WITH YOU」：表盘弧线锁动势** — 瑞士极简 4:5 产品海报：巨字 TIME 垫底，表盘 circuar motion trail 把运动员动作焊进「时间在动」。3C/运动穿戴 KV 可直接改品牌。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2101978790704656819) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101978790704656819)
+- **Apple Watch「TIME MOVES WITH YOU」：表盘弧线锁动势** — 瑞士极简 4:5 产品海报：巨字 TIME 垫底，表盘 circuar motion trail 把运动员动作焊进「时间在动」。3C/运动穿戴 KV 可直接改品牌。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2101978790704656819) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101978790704656819&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2780,7 +2800,7 @@ BOTTOM FEATURE STRIP:
 
   </details>
 
-- **单人像一键四联海报：SIGNAL/MOTION/ECHO/MINT** — 同一肖像同一视觉系统，一口气出四种版式：竖排叠字、切片错位、镜像回声、巨型字母嵌脸。时装社论/封面连更直接抄，9:16 分开发不要拼成一张。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101971646999363637) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101971646999363637)
+- **单人像一键四联海报：SIGNAL/MOTION/ECHO/MINT** — 同一肖像同一视觉系统，一口气出四种版式：竖排叠字、切片错位、镜像回声、巨型字母嵌脸。时装社论/封面连更直接抄，9:16 分开发不要拼成一张。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101971646999363637) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101971646999363637&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2823,7 +2843,7 @@ Generate all four as separate standalone 9:16 posters, not combined into a singl
 
   </details>
 
-- **手工纸撕口旅行编辑海报：可填国家槽** — 整张桑皮纸纤维底 + 中轴有机撕口露出地标；[COUNTRY/LOCATION] 自动脑补文化符号。3:4 旅行社论/目的地海报填槽即出。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2101958048827027839) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101958048827027839)
+- **手工纸撕口旅行编辑海报：可填国家槽** — 整张桑皮纸纤维底 + 中轴有机撕口露出地标；[COUNTRY/LOCATION] 自动脑补文化符号。3:4 旅行社论/目的地海报填槽即出。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2101958048827027839) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101958048827027839&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2872,7 +2892,7 @@ FORMAT: 3:4 vertical, single unified composition.
 
   </details>
 
-- **巨型字体当遮罩：目的地海报字母即风景** — 双词巨标题做水景蒙版，背影人物手臂冲出字顶——字不是标签，是入口。旅行 KV / 目的地主视觉的字体即场景打法。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101957480620453907) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101957480620453907)
+- **巨型字体当遮罩：目的地海报字母即风景** — 双词巨标题做水景蒙版，背影人物手臂冲出字顶——字不是标签，是入口。旅行 KV / 目的地主视觉的字体即场景打法。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101957480620453907) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101957480620453907&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2905,9 +2925,9 @@ Quality control and structured exclusions: photoreal only inside the image area,
 
   </details>
 
-- **旧写真翻新：上下 1:1 双画面海报** — 上半保留原片只做高级感调色，下半用 Image 2.5 重优化——把旧相册变成可发社媒的竖版双联。人像复古翻新可抄结构。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2101951659278848179) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101951659278848179)
+- **旧写真翻新：上下 1:1 双画面海报** — 上半保留原片只做高级感调色，下半用 Image 2.5 重优化——把旧相册变成可发社媒的竖版双联。人像复古翻新可抄结构。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2101951659278848179) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101951659278848179)
 
-- **冷门菜可填槽：食材溯源网汇聚到终盘** — $DISH 槽位塞四国冷门菜；中心终盘写真，四周按比例粗细的溯源辐条（产地→市场→餐桌）。美食科普长图/信息图母版，换菜即新片。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2101941248022249841) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101941248022249841)
+- **冷门菜可填槽：食材溯源网汇聚到终盘** — $DISH 槽位塞四国冷门菜；中心终盘写真，四周按比例粗细的溯源辐条（产地→市场→餐桌）。美食科普长图/信息图母版，换菜即新片。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2101941248022249841) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101941248022249841&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2919,7 +2939,7 @@ A new food prompt I am testing with GPT Image 2.5. I am going to work on it a bi
 
   </details>
 
-- **生活照→手绘社论海报：可填人物/城市槽** — 真照片压成限色复古丝网插画：[PERSON] 锁姿态衣着，环境收成几笔地标，旁注城市坐标。旅行/生活方式收藏级印刷感母版。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2101917074323112015) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101917074323112015)
+- **生活照→手绘社论海报：可填人物/城市槽** — 真照片压成限色复古丝网插画：[PERSON] 锁姿态衣着，环境收成几笔地标，旁注城市坐标。旅行/生活方式收藏级印刷感母版。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2101917074323112015) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101917074323112015&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2940,7 +2960,7 @@ Generous negative space, elegant editorial composition, vintage screen-print aes
 
   </details>
 
-- **石榴百科全书式信息卡：3:4 标本导览牌** — 标本摄影顶栏 + 九组营养/产区/食用/储存信息，石榴红×叶绿×琥珀配色。食品/植物科普卡可换主体复用的中文结构化母版。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2101854051805851807) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101854051805851807)
+- **石榴百科全书式信息卡：3:4 标本导览牌** — 标本摄影顶栏 + 九组营养/产区/食用/储存信息，石榴红×叶绿×琥珀配色。食品/植物科普卡可换主体复用的中文结构化母版。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2101854051805851807) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101854051805851807&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -2956,7 +2976,7 @@ Generous negative space, elegant editorial composition, vintage screen-print aes
 
   </details>
 
-- **自然文化海报四联：书法×色块×风景窗×立体物** — 风迹 / 汲泉 / 苔庭 / 松间：巨幅书法锚点 + 低饱和撕纸色块 + 摄影窗口 + 前景立体实物分层。展览/文化品牌/东方生活方式海报可填槽母版，完整中文模板在回复。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101607866478031056) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101607866478031056)
+- **自然文化海报四联：书法×色块×风景窗×立体物** — 风迹 / 汲泉 / 苔庭 / 松间：巨幅书法锚点 + 低饱和撕纸色块 + 摄影窗口 + 前景立体实物分层。展览/文化品牌/东方生活方式海报可填槽母版，完整中文模板在回复。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101607866478031056) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101607866478031056&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3001,7 +3021,7 @@ Generous negative space, elegant editorial composition, vintage screen-print aes
 
   </details>
 
-- **比萨斜塔测绘四联：可换城市 master prompt** — 上半真景、下半 USGS 式等高线测绘重建，四板密度轴可调。换 {STRUCTURE}/{CITY} 就能给自家城市出一套收藏级建筑海报——Sunburst 4K 模板。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2100914552682450985) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100914552682450985)
+- **比萨斜塔测绘四联：可换城市 master prompt** — 上半真景、下半 USGS 式等高线测绘重建，四板密度轴可调。换 {STRUCTURE}/{CITY} 就能给自家城市出一套收藏级建筑海报——Sunburst 4K 模板。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2100914552682450985) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100914552682450985&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3044,11 +3064,11 @@ STACK: GPT Image 2.5 · Sunburst · high · 4K · 3:4
 
   </details>
 
-- **东方制度海报续作：火政 / 凌室 / 市舶 / 合符** — 纸色与空间把制度逻辑嵌进画面：城防火政、跨季藏冰、海贸通关、合符验信。制度史/城市文明展览视觉的第二套配方。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100912078445830529) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100912078445830529)
+- **东方制度海报续作：火政 / 凌室 / 市舶 / 合符** — 纸色与空间把制度逻辑嵌进画面：城防火政、跨季藏冰、海贸通关、合符验信。制度史/城市文明展览视觉的第二套配方。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100912078445830529) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100912078445830529)
 
-- **东方文化海报四联：钱法 / 岁序 / 律吕 / 田亩** — 大色域先画结构关系，再把故事塞进微型人物——货币流通、四季螺旋、音律校准、田亩入册。博物馆/知识系统/东方编辑设计直接对标。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100904687159361574) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100904687159361574)
+- **东方文化海报四联：钱法 / 岁序 / 律吕 / 田亩** — 大色域先画结构关系，再把故事塞进微型人物——货币流通、四季螺旋、音律校准、田亩入册。博物馆/知识系统/东方编辑设计直接对标。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100904687159361574) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100904687159361574)
 
-- **经典超跑复古工程海报：四车规格全表** — F40 / Countach / 959 / F1 同框：米黄老化纸、三视图尺寸线、发动机剖视与规格栏——像 80–90 年代厂方工程单不是现代信息图。汽车/收藏海报完整英文 prompt。 [@iamrealsnow](https://x.com/iamrealsnow) · [原帖](https://x.com/iamrealsnow/status/2100892897638019274) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100892897638019274)
+- **经典超跑复古工程海报：四车规格全表** — F40 / Countach / 959 / F1 同框：米黄老化纸、三视图尺寸线、发动机剖视与规格栏——像 80–90 年代厂方工程单不是现代信息图。汽车/收藏海报完整英文 prompt。 [@iamrealsnow](https://x.com/iamrealsnow) · [原帖](https://x.com/iamrealsnow/status/2100892897638019274) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100892897638019274&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3066,9 +3086,9 @@ Highly detailed, realistic automotive rendering blended with hand-drawn technica
 
   </details>
 
-- **多人海报破模板：超大头像 / 不规则裁切 / 视觉权重** — 别再等分九宫格——用 oversized 肖像、不规则裁切、粗体字和不均匀视觉重量把多人海报做出编辑感。活动 / campaign / 杂志多人 KV 可填槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100891321581875438) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100891321581875438) · [prompt](https://x.com/MrLarus/status/2100891369350877246)
+- **多人海报破模板：超大头像 / 不规则裁切 / 视觉权重** — 别再等分九宫格——用 oversized 肖像、不规则裁切、粗体字和不均匀视觉重量把多人海报做出编辑感。活动 / campaign / 杂志多人 KV 可填槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100891321581875438) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100891321581875438) · [prompt](https://x.com/MrLarus/status/2100891369350877246)
 
-- **旅行实拍→明信片：上下分屏杂志插页** — 上半精修原片，下半抽最难忘的元素做成极简线稿小人互动小品 + 手写日期地点。Cape Town 实拍变 indie 杂志插页，文旅种草可抄。 [@kaen_sv](https://x.com/kaen_sv) · [原帖](https://x.com/kaen_sv/status/2100886866555986145) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100886866555986145) · [prompt](https://x.com/kaen_sv/status/2100886870561595456)
+- **旅行实拍→明信片：上下分屏杂志插页** — 上半精修原片，下半抽最难忘的元素做成极简线稿小人互动小品 + 手写日期地点。Cape Town 实拍变 indie 杂志插页，文旅种草可抄。 [@kaen_sv](https://x.com/kaen_sv) · [原帖](https://x.com/kaen_sv/status/2100886866555986145) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100886866555986145&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [prompt](https://x.com/kaen_sv/status/2100886870561595456)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3087,7 +3107,7 @@ The overall feel should be light, restrained, and clever, like a small insert pa
 
   </details>
 
-- **Fortune 500 品牌世界微缩 2×2：物理力重塑城市** — 把品牌名做成巨型建筑字，再让波浪/漩涡/熔流等一种物理力雕塑整座迷你文明。高端概念 KV / 品牌世界观海报可填 $SUBJECT。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100867925758411176) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100867925758411176)
+- **Fortune 500 品牌世界微缩 2×2：物理力重塑城市** — 把品牌名做成巨型建筑字，再让波浪/漩涡/熔流等一种物理力雕塑整座迷你文明。高端概念 KV / 品牌世界观海报可填 $SUBJECT。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100867925758411176) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100867925758411176&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3097,7 +3117,7 @@ The overall feel should be light, restrained, and clever, like a small insert pa
 
   </details>
 
-- **「缺失感」2×2 信息图：负空间讲统计** — 别画「有什么」——用空椅子、挖空方块、消失的城市街区把 [TOPIC] 的损失做成博物馆级极简 3D。选题可视化 / 公益数据海报现成骨架。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100848044518592693) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100848044518592693)
+- **「缺失感」2×2 信息图：负空间讲统计** — 别画「有什么」——用空椅子、挖空方块、消失的城市街区把 [TOPIC] 的损失做成博物馆级极简 3D。选题可视化 / 公益数据海报现成骨架。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100848044518592693) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100848044518592693&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3107,7 +3127,7 @@ The overall feel should be light, restrained, and clever, like a small insert pa
 
   </details>
 
-- **印度漆器木玩旅行立体模型：[LOCATION] 模板** — 4:5 电影感旅行 diorama，整座城刻进印度漆器木玩手作世界；换地名就能批产文旅 KV。立体模型感比平面海报更抓眼球。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100806204520034392) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100806204520034392)
+- **印度漆器木玩旅行立体模型：[LOCATION] 模板** — 4:5 电影感旅行 diorama，整座城刻进印度漆器木玩手作世界；换地名就能批产文旅 KV。立体模型感比平面海报更抓眼球。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100806204520034392) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100806204520034392&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3121,9 +3141,9 @@ Create a premium 4:5 cinematic travel diorama of [LOCATION], designed as a handc
 
   </details>
 
-- **自拍→电影海报四步流** — 上传自拍 → Gemini / Grok / GPT Image 2.5 任选 → 粘贴 prompt → 出电影感海报。自媒体封面与短视频片头速成配方。 [@mehwishkiran07](https://x.com/mehwishkiran07) · [原帖](https://x.com/mehwishkiran07/status/2100787007811362831) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100787007811362831)
+- **自拍→电影海报四步流** — 上传自拍 → Gemini / Grok / GPT Image 2.5 任选 → 粘贴 prompt → 出电影感海报。自媒体封面与短视频片头速成配方。 [@mehwishkiran07](https://x.com/mehwishkiran07) · [原帖](https://x.com/mehwishkiran07/status/2100787007811362831) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100787007811362831)
 
-- **地标变巨型手工织物雕塑：可替换 STRUCTURE 公式** — 锁死地标轮廓与比例，外皮换成针织/编织织物，再撕开一角露出微型城市——`[STRUCTURE / LANDMARK]` 槽位直接换景点。建筑×手作反差海报模板，附完整 prompt。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100777758024675557) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100777758024675557)
+- **地标变巨型手工织物雕塑：可替换 STRUCTURE 公式** — 锁死地标轮廓与比例，外皮换成针织/编织织物，再撕开一角露出微型城市——`[STRUCTURE / LANDMARK]` 槽位直接换景点。建筑×手作反差海报模板，附完整 prompt。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100777758024675557) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100777758024675557&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3147,7 +3167,7 @@ A giant handcrafted knitted version of [LANDMARK], faithfully preserving its rec
 
   </details>
 
-- **假装 Excel 做的传单：Office 外行感海报公式** — 町内会/公司要传单又怕被看出 AI？写成「Word/Excel 外行认真做的野鸡海报」——WordArt、荧光色、歪对齐全到位。完整日文 prompt 在回复。 [@sacher10610](https://x.com/sacher10610) · [原帖](https://x.com/sacher10610/status/2100754344132149260) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100754344132149260) · [prompt](https://x.com/sacher10610/status/2100754947948359838)
+- **假装 Excel 做的传单：Office 外行感海报公式** — 町内会/公司要传单又怕被看出 AI？写成「Word/Excel 外行认真做的野鸡海报」——WordArt、荧光色、歪对齐全到位。完整日文 prompt 在回复。 [@sacher10610](https://x.com/sacher10610) · [原帖](https://x.com/sacher10610/status/2100754344132149260) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100754344132149260&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [prompt](https://x.com/sacher10610/status/2100754947948359838)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3260,7 +3280,7 @@ A4印刷前提/余白を設計しない/空白が気になると何か追加す�
 
   </details>
 
-- **四图标四身份高冲击投放：Nike ORANGE MOTION** — 四联 campaign 各成一套身份/图标语言；评论区给完整「ORANGE MOTION」长海报 prompt（液态鞋底冲击）。快消/运动投放 KV 可直接改品牌色。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2100585834357702696) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100585834357702696) · [prompt](https://x.com/Diplomeme/status/2100585884802494544)
+- **四图标四身份高冲击投放：Nike ORANGE MOTION** — 四联 campaign 各成一套身份/图标语言；评论区给完整「ORANGE MOTION」长海报 prompt（液态鞋底冲击）。快消/运动投放 KV 可直接改品牌色。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2100585834357702696) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100585834357702696&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [prompt](https://x.com/Diplomeme/status/2100585884802494544)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3309,7 +3329,7 @@ BOTTOM FEATURE STRIP:
 
   </details>
 
-- **2×5 恋爱拍立得 contact-sheet：跨格迁徙连续故事** — 双列五行使男孩从右格逐步走进左格，空格讲故事。身份锁 + 分镜叙事海报模板，附超长完整英文 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2100583390806442370) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100583390806442370)
+- **2×5 恋爱拍立得 contact-sheet：跨格迁徙连续故事** — 双列五行使男孩从右格逐步走进左格，空格讲故事。身份锁 + 分镜叙事海报模板，附超长完整英文 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2100583390806442370) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100583390806442370&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3441,9 +3461,9 @@ A photograph someone would instantly stop scrolling to understand — first they
 
   </details>
 
-- **橡皮章旅行手账海报：[LOCATION] 可替换模板** — 4:3 横版，目的地像盖进旅行者日记的印章页；换地名/主题就能出一组「拍过、盖过、留住」的纪念海报。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100578136010428777) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100578136010428777)
+- **橡皮章旅行手账海报：[LOCATION] 可替换模板** — 4:3 横版，目的地像盖进旅行者日记的印章页；换地名/主题就能出一组「拍过、盖过、留住」的纪念海报。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100578136010428777) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100578136010428777)
 
-- **3:4 上下对半编辑海报：上半身份锁+下半手绘** — 竖版严格对半：上半保留原照身份/姿态/衣着光线，下半抽成不超过四色的纸质手绘。种草海报批产模板，附完整英文 prompt。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2100563846054469799) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100563846054469799)
+- **3:4 上下对半编辑海报：上半身份锁+下半手绘** — 竖版严格对半：上半保留原照身份/姿态/衣着光线，下半抽成不超过四色的纸质手绘。种草海报批产模板，附完整英文 prompt。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2100563846054469799) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100563846054469799&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3453,7 +3473,7 @@ Create a separate high-end editorial poster for each uploaded photo, never combi
 
   </details>
 
-- **零食海报：别写 gooey，写面条拉丝结构** — 咬口露出半透明淀粉丝与弹性拉扯——别用「粘糊馅」写成芝士面包。NOODORI 虚构品牌 KV 完整长 prompt，食品电商海报可抄结构。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100554719274119461) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100554719274119461)
+- **零食海报：别写 gooey，写面条拉丝结构** — 咬口露出半透明淀粉丝与弹性拉扯——别用「粘糊馅」写成芝士面包。NOODORI 虚构品牌 KV 完整长 prompt，食品电商海报可抄结构。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100554719274119461) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100554719274119461&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3481,7 +3501,7 @@ Output and constraints: polished premium snack poster, product-first hierarchy, 
 
   </details>
 
-- **日式朋克街头时尚：极端低机位战斗靴海报** — 4:5 广角贴地，战斗靴占满前景；背景是撕纸/丝网/漫画涂鸦拼贴。复古日系地下杂志封面可直接改色板，附完整英文 prompt。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2100545305200795816) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100545305200795816)
+- **日式朋克街头时尚：极端低机位战斗靴海报** — 4:5 广角贴地，战斗靴占满前景；背景是撕纸/丝网/漫画涂鸦拼贴。复古日系地下杂志封面可直接改色板，附完整英文 prompt。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2100545305200795816) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100545305200795816&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3507,7 +3527,7 @@ Aspect ratio: 4:5
 
   </details>
 
-- **饮料口味 2×2 栅格广告：只改 flavor 变量** — 等分四格、同杯比例、固定标题区与角标、白缝对齐——结构锁死只换口味色与道具。系列产品海报/FMCG 战役板可直接抄，附完整英文 campaign prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100525164324913662) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100525164324913662)
+- **饮料口味 2×2 栅格广告：只改 flavor 变量** — 等分四格、同杯比例、固定标题区与角标、白缝对齐——结构锁死只换口味色与道具。系列产品海报/FMCG 战役板可直接抄，附完整英文 campaign prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100525164324913662) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100525164324913662&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3535,7 +3555,7 @@ Output and constraints: one complete four-panel ice cream campaign board, produc
 
   </details>
 
-- **永恒编辑风地点海报：[COUNTRY/LOCATION] 可替换模板** — 3:4 竖版、22–30% 留白、低饱和编辑色、手绘气泡标题 + 杂志旁注句。换地名/主题就能批产独立杂志风海报，附完整英文模板。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100508937514897577) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100508937514897577)
+- **永恒编辑风地点海报：[COUNTRY/LOCATION] 可替换模板** — 3:4 竖版、22–30% 留白、低饱和编辑色、手绘气泡标题 + 杂志旁注句。换地名/主题就能批产独立杂志风海报，附完整英文模板。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100508937514897577) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100508937514897577&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3588,7 +3608,7 @@ Generate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone.
 
   </details>
 
-- **焦外抽离双生：上下分屏 85mm F1.2 光学对照海报** — 上半保留原手机抓拍，下半同构图模拟 85mm F1.2 奶油焦外与真实 bokeh。讲景深/光学差异时拿来当对照 demo，附完整中文配方。 [@lovimg_com](https://x.com/lovimg_com) · [原帖](https://x.com/lovimg_com/status/2100498666763030990) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100498666763030990)
+- **焦外抽离双生：上下分屏 85mm F1.2 光学对照海报** — 上半保留原手机抓拍，下半同构图模拟 85mm F1.2 奶油焦外与真实 bokeh。讲景深/光学差异时拿来当对照 demo，附完整中文配方。 [@lovimg_com](https://x.com/lovimg_com) · [原帖](https://x.com/lovimg_com/status/2100498666763030990) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100498666763030990&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3686,7 +3706,7 @@ Generate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone.
 
   </details>
 
-- **披萨升空隐喻海报：物理动作扛起品牌故事** — 芝士拉丝当推进尾焰、斜切披萨当火箭——隐喻靠物理成立才不贴皮。创意机构 KV / 食品概念广告直接抄结构，附超长完整 prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100487987762962656) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100487987762962656)
+- **披萨升空隐喻海报：物理动作扛起品牌故事** — 芝士拉丝当推进尾焰、斜切披萨当火箭——隐喻靠物理成立才不贴皮。创意机构 KV / 食品概念广告直接抄结构，附超长完整 prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100487987762962656) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100487987762962656&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3710,7 +3730,7 @@ Output and constraints: polished premium brand poster, product-led composition, 
 
   </details>
 
-- **国家 DNA 双螺旋：[COUNTRY] 可替换纪念碑雕塑** — 把国家建筑/文化嵌进 DNA 双螺旋，国名做成实体金属字。文旅/国家形象 KV 换槽即用，附完整英文模板。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100487806481305998) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100487806481305998)
+- **国家 DNA 双螺旋：[COUNTRY] 可替换纪念碑雕塑** — 把国家建筑/文化嵌进 DNA 双螺旋，国名做成实体金属字。文旅/国家形象 KV 换槽即用，附完整英文模板。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100487806481305998) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100487806481305998&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3732,7 +3752,7 @@ Composition: centered monumental hero sculpture, vertical 4:5, dramatic perspect
 
   </details>
 
-- **东方禅意极简封面：中文结构化海报配方** — 古风女子+低榻珠帘，奶白基底点缀葡萄紫/青柠绿；9:16 留白标题区写死。女性向封面/小红书竖版可直接返图，附完整中文分节 prompt。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100462806281941187) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100462806281941187)
+- **东方禅意极简封面：中文结构化海报配方** — 古风女子+低榻珠帘，奶白基底点缀葡萄紫/青柠绿；9:16 留白标题区写死。女性向封面/小红书竖版可直接返图，附完整中文分节 prompt。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100462806281941187) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100462806281941187&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3751,7 +3771,7 @@ Composition: centered monumental hero sculpture, vertical 4:5, dramatic perspect
 
   </details>
 
-- **和纸胶带旅行拼贴：可替换地点模板** — 把 [COUNTRY / LOCATION / SUBJECT] 换成任意目的地，10–18 条 washi tape 拼出地标；文旅/文具品牌向 3:4 竖版，附完整可替换模板 prompt。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100452165416374277) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100452165416374277)
+- **和纸胶带旅行拼贴：可替换地点模板** — 把 [COUNTRY / LOCATION / SUBJECT] 换成任意目的地，10–18 条 washi tape 拼出地标；文旅/文具品牌向 3:4 竖版，附完整可替换模板 prompt。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100452165416374277) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100452165416374277&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3839,9 +3859,9 @@ Generate everything autonomously from [COUNTRY / LOCATION / SUBJECT] alone. Do n
 
   </details>
 
-- **经典 Logo 膨胀成 3D 雕塑海报** — Apple / Nike / Adidas / Pepsi：3D 充气雕塑 + 超大字 + 褶皱纸 + 半调 + 套准十字。品牌 KV 想「又潮又脏」直接抄这套图层语法。 [@ShamsAmin56](https://x.com/ShamsAmin56) · [原帖](https://x.com/ShamsAmin56/status/2100322168185974959) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100322168185974959)
+- **经典 Logo 膨胀成 3D 雕塑海报** — Apple / Nike / Adidas / Pepsi：3D 充气雕塑 + 超大字 + 褶皱纸 + 半调 + 套准十字。品牌 KV 想「又潮又脏」直接抄这套图层语法。 [@ShamsAmin56](https://x.com/ShamsAmin56) · [原帖](https://x.com/ShamsAmin56/status/2100322168185974959) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100322168185974959)
 
-- **一品两出：先锁战役规则再换版式** — 同一瓶沐浴油：电影感广告片 + 3×3卖点海报。瓶型/配色/苹果意象先写死，版式才能换而不散品牌。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2100225374974026080) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100225374974026080)
+- **一品两出：先锁战役规则再换版式** — 同一瓶沐浴油：电影感广告片 + 3×3卖点海报。瓶型/配色/苹果意象先写死，版式才能换而不散品牌。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2100225374974026080) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100225374974026080&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3866,7 +3886,7 @@ Principle: lock campaign rules first, then change format without the brand falli
 
   </details>
 
-- **地铁斜穿连通性：四区房产海报一气呵成** — 别用四个框解释配套——让高架地铁斜穿分区，视线落到楼盘。连通性卖点写成空间关系的可抄结构。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100223219383124188) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100223219383124188)
+- **地铁斜穿连通性：四区房产海报一气呵成** — 别用四个框解释配套——让高架地铁斜穿分区，视线落到楼盘。连通性卖点写成空间关系的可抄结构。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100223219383124188) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100223219383124188&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3902,7 +3922,7 @@ Negative prompt: copied source text, real developer names, generic brochure clut
 
   </details>
 
-- **楼盘先入镜：三竖屏生活区房地产海报** — 下半整栋实楼当主角，身后三道发光生活区竖屏。生活感不抢戏、楼盘不沦装饰的高端地产 KV 骨架。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100222341871726598) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100222341871726598)
+- **楼盘先入镜：三竖屏生活区房地产海报** — 下半整栋实楼当主角，身后三道发光生活区竖屏。生活感不抢戏、楼盘不沦装饰的高端地产 KV 骨架。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100222341871726598) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100222341871726598&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3924,7 +3944,7 @@ Output and constraints: polished luxury real estate commercial poster, architect
 
   </details>
 
-- **《白鹿王庭》黑暗奇幻商业大片海报** — 2:3 Key Visual：银发女王 + 白鹿灵体 + 主演条/片名/文案层一次写齐。国风奇幻商业海报可抄结构。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100204772578251107) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100204772578251107)
+- **《白鹿王庭》黑暗奇幻商业大片海报** — 2:3 Key Visual：银发女王 + 白鹿灵体 + 主演条/片名/文案层一次写齐。国风奇幻商业海报可抄结构。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100204772578251107) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100204772578251107&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3934,7 +3954,7 @@ Output and constraints: polished luxury real estate commercial poster, architect
 
   </details>
 
-- **中秋「人间团圆夜」竖版海报：完整提示词** — 3:4 深红夜空 + 暖金满月 + 归家剪影，主副标题层级写死。节日营销海报直接改字就能发。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100204144149819616) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100204144149819616)
+- **中秋「人间团圆夜」竖版海报：完整提示词** — 3:4 深红夜空 + 暖金满月 + 归家剪影，主副标题层级写死。节日营销海报直接改字就能发。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100204144149819616) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100204144149819616&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3944,7 +3964,7 @@ Output and constraints: polished luxury real estate commercial poster, architect
 
   </details>
 
-- **上半原图 + 下半手绘：作品集切分海报** — 3:4 严格 50/50：上半保风格身份，下半极简手绘重释 + 大余白。角色图一键变「画册封面」感。 [@tokotoko_aiil](https://x.com/tokotoko_aiil) · [原帖](https://x.com/tokotoko_aiil/status/2100185428188168203) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100185428188168203)
+- **上半原图 + 下半手绘：作品集切分海报** — 3:4 严格 50/50：上半保风格身份，下半极简手绘重释 + 大余白。角色图一键变「画册封面」感。 [@tokotoko_aiil](https://x.com/tokotoko_aiil) · [原帖](https://x.com/tokotoko_aiil/status/2100185428188168203) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100185428188168203&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -3997,7 +4017,7 @@ Final result: a contemporary art-book cover combining the original digital illus
 
   </details>
 
-- **[COUNTRY] 巨型巧克力食物艺术：本地化模板** — 国家名 + 地标 + 本地食物塞进掰开的巧克力棒。超写实美食海报占位符齐全，本地化营销一键换皮。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100164588721651910) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100164588721651910)
+- **[COUNTRY] 巨型巧克力食物艺术：本地化模板** — 国家名 + 地标 + 本地食物塞进掰开的巧克力棒。超写实美食海报占位符齐全，本地化营销一键换皮。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100164588721651910) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100164588721651910&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4037,7 +4057,7 @@ Composition: vertical 4:5, centered hero object, dramatic perspective, clean lux
 
   </details>
 
-- **制度叙事东方海报：科举夜巡水利榫卯** — 大色域纸纤维扛结构，微场景讲流程：科举放榜 / 更鼓夜巡 / 水利分流 / 榫卯咬合。博物馆 KV 可填槽模板，比堆古建筑高级一整档。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100159212047544806) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100159212047544806)
+- **制度叙事东方海报：科举夜巡水利榫卯** — 大色域纸纤维扛结构，微场景讲流程：科举放榜 / 更鼓夜巡 / 水利分流 / 榫卯咬合。博物馆 KV 可填槽模板，比堆古建筑高级一整档。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2100159212047544806) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100159212047544806&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4063,7 +4083,7 @@ Composition: vertical 4:5, centered hero object, dramatic perspective, clean lux
 
   </details>
 
-- **日系街头杂志风：东京旅行时尚竖版** — 复古杂志拼贴 + TOKYO 大字报头，红黑图形面板压夜景。旅行时尚 / 城市 campaign 竖版直接抄。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100099718605135962) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100099718605135962)
+- **日系街头杂志风：东京旅行时尚竖版** — 复古杂志拼贴 + TOKYO 大字报头，红黑图形面板压夜景。旅行时尚 / 城市 campaign 竖版直接抄。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100099718605135962) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100099718605135962&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4108,7 +4128,7 @@ Photorealistic, highly detailed, cinematic, 8K, realistic skin, realistic clothi
 
   </details>
 
-- **东方极简封面：结构化中文海报槽位** — 主题 / 风格分支 / 情绪母题 / 色彩控制写死，新中式竖版封面可返图。营销封面别靠玄学——槽位填完再出图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100097638326780122) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100097638326780122)
+- **东方极简封面：结构化中文海报槽位** — 主题 / 风格分支 / 情绪母题 / 色彩控制写死，新中式竖版封面可返图。营销封面别靠玄学——槽位填完再出图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100097638326780122) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100097638326780122&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4127,7 +4147,7 @@ Photorealistic, highly detailed, cinematic, 8K, realistic skin, realistic clothi
 
   </details>
 
-- **旅行海报模板：[LOCATION] 可替换复古探险** — 上中下三层构图 + 字内填景，换地名就能批量出 4:5 旅行 editorial。旅游 / 城市 KV 直接套槽。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100089588559802619) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100089588559802619)
+- **旅行海报模板：[LOCATION] 可替换复古探险** — 上中下三层构图 + 字内填景，换地名就能批量出 4:5 旅行 editorial。旅游 / 城市 KV 直接套槽。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2100089588559802619) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100089588559802619&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4159,7 +4179,7 @@ Surround the composition with subtle **editorial travel-poster typography**, inc
 
   </details>
 
-- **建筑照片→半调旅行海报：上下分区模板** — 上半保留实拍结构，下半撕纸碎片 + ASCII + 影印半调重建同一建筑。地产 / 文旅批量出片，分区格式写死可复用。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100067049288634730) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100067049288634730)
+- **建筑照片→半调旅行海报：上下分区模板** — 上半保留实拍结构，下半撕纸碎片 + ASCII + 影印半调重建同一建筑。地产 / 文旅批量出片，分区格式写死可复用。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100067049288634730) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100067049288634730&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4244,7 +4264,7 @@ Priority: Preserve the structure’s identity and architectural accuracy first. 
 
   </details>
 
-- **字体也能锁：缩略图字体参考表** — 不只锁脸——缩略图用的字体也能出 reference sheet。做系列封面/世界观时，少开一遍设计软件抠字。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2100026883643670876) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100026883643670876)
+- **字体也能锁：缩略图字体参考表** — 不只锁脸——缩略图用的字体也能出 reference sheet。做系列封面/世界观时，少开一遍设计软件抠字。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2100026883643670876) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100026883643670876&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4256,7 +4276,7 @@ Priority: Preserve the structure’s identity and architectural accuracy first. 
 
   </details>
 
-- **透视即设计：四种景深系统海报** — FRAME SHIFT / VANISH POINT / LEVEL SHIFT / STRATA——人与建筑叠进同一透视场。活动 KV / 时装 campaign 控空间直接抄槽位公式。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099880009053917543) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099880009053917543)
+- **透视即设计：四种景深系统海报** — FRAME SHIFT / VANISH POINT / LEVEL SHIFT / STRATA——人与建筑叠进同一透视场。活动 KV / 时装 campaign 控空间直接抄槽位公式。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099880009053917543) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099880009053917543&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4290,9 +4310,9 @@ Supporting typography should stay minimal and secondary. The final image should 
 
   </details>
 
-- **四大饮料品牌四世界：一条 campaign 多世界观** — PAUSE / SIP / REFRESH / HAVE FUN——四联各成一套视觉语言。一人团队做饮料/快消 SMM 时，「一提示多世界」比单张好看更值钱；评论区有完整 7UP 级长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099851373470945551) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099851373470945551) · [prompt](https://x.com/Diplomeme/status/2099851680380838194)
+- **四大饮料品牌四世界：一条 campaign 多世界观** — PAUSE / SIP / REFRESH / HAVE FUN——四联各成一套视觉语言。一人团队做饮料/快消 SMM 时，「一提示多世界」比单张好看更值钱；评论区有完整 7UP 级长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2099851373470945551) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099851373470945551) · [prompt](https://x.com/Diplomeme/status/2099851680380838194)
 
-- **字体当建筑：四联空间排版海报** — CAST TYPE / SKY APERTURE / OPEN CORNER / FLOAT LEVEL——字投阴影、绕混凝土、穿景深。编辑海报 / 建筑视觉空间字体教科书。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099849499170492882) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099849499170492882)
+- **字体当建筑：四联空间排版海报** — CAST TYPE / SKY APERTURE / OPEN CORNER / FLOAT LEVEL——字投阴影、绕混凝土、穿景深。编辑海报 / 建筑视觉空间字体教科书。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099849499170492882) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099849499170492882&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4324,7 +4344,7 @@ The final series should feel like professionally art-directed architecture and y
 
   </details>
 
-- **品牌字标校园：Fortune 500 等距微缩校园** — 把公司名变成可逛的字标建筑校园，负空间藏剪影。2×2·16:9 槽位可换品牌，病毒设计物配方完整可抄。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2099807186461634953) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099807186461634953)
+- **品牌字标校园：Fortune 500 等距微缩校园** — 把公司名变成可逛的字标建筑校园，负空间藏剪影。2×2·16:9 槽位可换品牌，病毒设计物配方完整可抄。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2099807186461634953) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099807186461634953&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4334,7 +4354,7 @@ The final series should feel like professionally art-directed architecture and y
 
   </details>
 
-- **东方文化海报：大色域+微场景纸本拼贴** — 纸鸢/听琴/晒书/溪上清集四联——远看色块构图，近看微型故事。非遗/文化活动 KV 可填槽模板，附完整中文提示词。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099804706801369428) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099804706801369428)
+- **东方文化海报：大色域+微场景纸本拼贴** — 纸鸢/听琴/晒书/溪上清集四联——远看色块构图，近看微型故事。非遗/文化活动 KV 可填槽模板，附完整中文提示词。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099804706801369428) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099804706801369428&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4368,7 +4388,7 @@ The final series should feel like professionally art-directed architecture and y
 
   </details>
 
-- **写真→水彩纸面封面：禁对半拼贴改编** — 上传照片只抽轮廓与叙事，整幅变成手工水彩封面；修正常见「上下对半」翻车。封面/独立出版向完整英文 prompt。 [@impaulxyz](https://x.com/impaulxyz) · [原帖](https://x.com/impaulxyz/status/2099770443808821443) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099770443808821443)
+- **写真→水彩纸面封面：禁对半拼贴改编** — 上传照片只抽轮廓与叙事，整幅变成手工水彩封面；修正常见「上下对半」翻车。封面/独立出版向完整英文 prompt。 [@impaulxyz](https://x.com/impaulxyz) · [原帖](https://x.com/impaulxyz/status/2099770443808821443) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099770443808821443&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4465,7 +4485,7 @@ No original photograph in the frame, no split layout, no top photo / bottom draw
 
   </details>
 
-- **3D 纸雕地标：[STRUCTURE] 博物馆模型模板** — 地标切成分层纸雕雕塑，配城市/国家/卖点三行字。文旅系列 KV 换槽即出，纸艺边缘与阴影写死了。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099741955458478351) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099741955458478351)
+- **3D 纸雕地标：[STRUCTURE] 博物馆模型模板** — 地标切成分层纸雕雕塑，配城市/国家/卖点三行字。文旅系列 KV 换槽即出，纸艺边缘与阴影写死了。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099741955458478351) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099741955458478351&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4490,7 +4510,7 @@ Aspect ratio: 4:5 vertical.
 
   </details>
 
-- **当代新中式文化海报：宣纸网格+印章几何** — 竖版 3:4，「读懂中国文化」主标题压画面六成；墨黑/朱砂/玉青，折扇窗棂印章入现代网格。国风知识海报 / 公众号封面直接抄。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2099677911477551536) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099677911477551536)
+- **当代新中式文化海报：宣纸网格+印章几何** — 竖版 3:4，「读懂中国文化」主标题压画面六成；墨黑/朱砂/玉青，折扇窗棂印章入现代网格。国风知识海报 / 公众号封面直接抄。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2099677911477551536) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099677911477551536&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4500,7 +4520,7 @@ Aspect ratio: 4:5 vertical.
 
   </details>
 
-- **短 prompt 文字设计：横长 5:2 信息图** — 附参考图 + 换主题即可；侧脸头像溢出 3D 零件，橙珊瑚点缀。图解 / 品牌首屏别堆长文——短约束反而稳。 [@MatoToushi](https://x.com/MatoToushi) · [原帖](https://x.com/MatoToushi/status/2099661962414284975) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099661962414284975)
+- **短 prompt 文字设计：横长 5:2 信息图** — 附参考图 + 换主题即可；侧脸头像溢出 3D 零件，橙珊瑚点缀。图解 / 品牌首屏别堆长文——短约束反而稳。 [@MatoToushi](https://x.com/MatoToushi) · [原帖](https://x.com/MatoToushi/status/2099661962414284975) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099661962414284975&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4510,9 +4530,9 @@ Aspect ratio: 4:5 vertical.
 
   </details>
 
-- **芒果漩涡雪糕海报：双食材表面物理写死** — 芒果金霜褶 vs 莓紫果浆黏度分区控漩涡，再套奢品海报信息架构。食品广告别只写「好吃」——用表面行为控材质。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2099500153598341578) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099500153598341578)
+- **芒果漩涡雪糕海报：双食材表面物理写死** — 芒果金霜褶 vs 莓紫果浆黏度分区控漩涡，再套奢品海报信息架构。食品广告别只写「好吃」——用表面行为控材质。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2099500153598341578) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099500153598341578)
 
-- **城市=悬浮微缩雕塑海报（可换 [CITY]）** — [CITY]/[COUNTRY]/地标槽位齐备，切开看地铁层的博物馆模型美学。城市/品牌系列图批量出图模板。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099465141641470114) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099465141641470114)
+- **城市=悬浮微缩雕塑海报（可换 [CITY]）** — [CITY]/[COUNTRY]/地标槽位齐备，切开看地铁层的博物馆模型美学。城市/品牌系列图批量出图模板。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099465141641470114) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099465141641470114&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4543,7 +4563,7 @@ Make the city look like a giant architectural “cutaway” — as if the top la
 
   </details>
 
-- **圆形构图时尚海报四联：穿进/踏出/戴环/靠弧** — PLEATED ORBIT / SCARLET EXIT / HALO FORM / ECLIPSE LOUNGE——圆不是背景，是造型与姿态的一部分。时尚广告、杂志封面、美妆 editorial 直接套。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099463499588018438) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099463499588018438)
+- **圆形构图时尚海报四联：穿进/踏出/戴环/靠弧** — PLEATED ORBIT / SCARLET EXIT / HALO FORM / ECLIPSE LOUNGE——圆不是背景，是造型与姿态的一部分。时尚广告、杂志封面、美妆 editorial 直接套。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099463499588018438) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099463499588018438&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4571,7 +4591,7 @@ All four images should feel like one fashion story while using completely differ
 
   </details>
 
-- **Fashion 海报 Flare：姿势驱动大字排版系列** — 9:16 时装海报，字号跟着姿势走、衣服与主标题互相遮挡。Flare 系列可换配色/动作批产，附完整 editorial 配方。 [@em_wagdy](https://x.com/em_wagdy) · [原帖](https://x.com/em_wagdy/status/2099400757560648122) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099400757560648122)
+- **Fashion 海报 Flare：姿势驱动大字排版系列** — 9:16 时装海报，字号跟着姿势走、衣服与主标题互相遮挡。Flare 系列可换配色/动作批产，附完整 editorial 配方。 [@em_wagdy](https://x.com/em_wagdy) · [原帖](https://x.com/em_wagdy/status/2099400757560648122) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099400757560648122&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4589,7 +4609,7 @@ Headline: "Dressed in dots." Supporting text: cotton fleece · oversized · wide
 
   </details>
 
-- **东方禅意天灯封面：分段中文极简海报** — 屋檐+橘子橙天灯+青黛暮空，9:16 大留白给标题。和银杏台阶那版是姊妹篇，封面党又多一套可返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099392886207045950) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099392886207045950)
+- **东方禅意天灯封面：分段中文极简海报** — 屋檐+橘子橙天灯+青黛暮空，9:16 大留白给标题。和银杏台阶那版是姊妹篇，封面党又多一套可返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099392886207045950) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099392886207045950&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4608,9 +4628,9 @@ Headline: "Dressed in dots." Supporting text: cotton fleece · oversized · wide
 
   </details>
 
-- **十字绣城市地标：[CITY / STRUCTURE] 可换槽** — 复古十字绣绣在象牙亚麻上，可见针脚与手工瑕疵。文旅周边 / 小红书手工风封面一键换城。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099378987713896800) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099378987713896800)
+- **十字绣城市地标：[CITY / STRUCTURE] 可换槽** — 复古十字绣绣在象牙亚麻上，可见针脚与手工瑕疵。文旅周边 / 小红书手工风封面一键换城。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2099378987713896800) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099378987713896800)
 
-- **旅行海报 [LOCATION] 系列模板：构图锁死只换城** — 4:5 插画旅行海报，植被→步道→水面→地标→字体条全锁死，只换 [LOCATION]。目的地 KV 批产神器。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2099352799893172430) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099352799893172430)
+- **旅行海报 [LOCATION] 系列模板：构图锁死只换城** — 4:5 插画旅行海报，植被→步道→水面→地标→字体条全锁死，只换 [LOCATION]。目的地 KV 批产神器。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2099352799893172430) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099352799893172430&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4673,9 +4693,9 @@ Keep this structure identical for every destination. Adapt the content, never th
 
   </details>
 
-- **最爱的 editorial 插画海报配方** — 每张上传照单独出一张高端 editorial 海报，禁拼贴；3:4 竖版。Firefly Boards + Image 2.5 最好用，附完整 prompt。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2099343607492702258) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099343607492702258)
+- **最爱的 editorial 插画海报配方** — 每张上传照单独出一张高端 editorial 海报，禁拼贴；3:4 竖版。Firefly Boards + Image 2.5 最好用，附完整 prompt。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2099343607492702258) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099343607492702258)
 
-- **照片→奢华旅行双页故事：锁脸拼贴模板** — 上传自拍锁身份，左右两页撕纸旅行 collage（美国/挪威槽位可换）。宽幅 X 友好构图，人像+目的地 KV 一锅出。 [@Alina_with_Ai](https://x.com/Alina_with_Ai) · [原帖](https://x.com/Alina_with_Ai/status/2099320489797947424) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099320489797947424)
+- **照片→奢华旅行双页故事：锁脸拼贴模板** — 上传自拍锁身份，左右两页撕纸旅行 collage（美国/挪威槽位可换）。宽幅 X 友好构图，人像+目的地 KV 一锅出。 [@Alina_with_Ai](https://x.com/Alina_with_Ai) · [原帖](https://x.com/Alina_with_Ai/status/2099320489797947424) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099320489797947424&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4720,7 +4740,7 @@ Aspect ratio: approximately 16:9 landscape.
 
   </details>
 
-- **Sunburst 半调旅行拼贴：上半真照下半印刷崩解** — 一图两世界：上半锁原片身份，下半撕纸+ASCII+复印网点。旅行 editorial / 档案感海报直接抄，附完整防翻车约束。 [@ShamiWeb3](https://x.com/ShamiWeb3) · [原帖](https://x.com/ShamiWeb3/status/2099316312426381491) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099316312426381491)
+- **Sunburst 半调旅行拼贴：上半真照下半印刷崩解** — 一图两世界：上半锁原片身份，下半撕纸+ASCII+复印网点。旅行 editorial / 档案感海报直接抄，附完整防翻车约束。 [@ShamiWeb3](https://x.com/ShamiWeb3) · [原帖](https://x.com/ShamiWeb3/status/2099316312426381491) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099316312426381491&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4753,7 +4773,7 @@ Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hid
 
   </details>
 
-- **自定义大字背景：TEXT HERE 一键换 editorial 海报** — 参考图锁构图排版，自拍锁脸，TEXT HERE 控巨型衬字。小红书 / 人设海报模板，改三个字就能量产。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2099302118104444953) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099302118104444953)
+- **自定义大字背景：TEXT HERE 一键换 editorial 海报** — 参考图锁构图排版，自拍锁脸，TEXT HERE 控巨型衬字。小红书 / 人设海报模板，改三个字就能量产。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2099302118104444953) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099302118104444953&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -4996,11 +5016,11 @@ Create a highly realistic premium editorial portrait that feels like the SAME vi
 
   </details>
 
-- **圆形时尚海报四构图：FULL TURN / WATERLINE / INWARD / ORBIT VEIL** — Images 2.5 把圆框玩活的四套路。editorial / campaign / 杂志封面直接偷构图。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099220110355697893) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099220110355697893)
+- **圆形时尚海报四构图：FULL TURN / WATERLINE / INWARD / ORBIT VEIL** — Images 2.5 把圆框玩活的四套路。editorial / campaign / 杂志封面直接偷构图。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099220110355697893) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099220110355697893)
 
-- **鱼眼 editorial：15mm 草皮配方 + 开源提示词库** — 超广角 15mm 草皮 editorial 可抄；并指向 awesome-gpt-image-2-5-prompts（社区原句+出处）。模板要存 prompt 别只存图。 [@Milliekio](https://x.com/Milliekio) · [原帖](https://x.com/Milliekio/status/2098428660944695644) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098428660944695644)
+- **鱼眼 editorial：15mm 草皮配方 + 开源提示词库** — 超广角 15mm 草皮 editorial 可抄；并指向 awesome-gpt-image-2-5-prompts（社区原句+出处）。模板要存 prompt 别只存图。 [@Milliekio](https://x.com/Milliekio) · [原帖](https://x.com/Milliekio/status/2098428660944695644) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098428660944695644)
 
-- **Zara / H&M / Mango / Tommy 四套时尚 campaign 系统** — 同一 Images 2.5 底座，四品牌各一套视觉系统（色板、字体、构图语言分开）。SMM 海报工厂模板；评论区有完整 H&M「NEW UNIFORM」长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098411659002012050) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098411659002012050)
+- **Zara / H&M / Mango / Tommy 四套时尚 campaign 系统** — 同一 Images 2.5 底座，四品牌各一套视觉系统（色板、字体、构图语言分开）。SMM 海报工厂模板；评论区有完整 H&M「NEW UNIFORM」长 prompt。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098411659002012050) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098411659002012050&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5023,7 +5043,7 @@ Composition hierarchy: H&M → NEW UNIFORM → MODEL → COLLECTION INFO → CTA
 
   </details>
 
-- **剪纸海报四联：一层剪开一个小世界** — CUT TO MOVE / BELOW THE SURFACE / AFTERLIGHT / SPACES BETWEEN——大剪影里叠 6–9 层纸，深处藏叙事。展览/文化海报配方可换槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098408977008676918) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098408977008676918)
+- **剪纸海报四联：一层剪开一个小世界** — CUT TO MOVE / BELOW THE SURFACE / AFTERLIGHT / SPACES BETWEEN——大剪影里叠 6–9 层纸，深处藏叙事。展览/文化海报配方可换槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098408977008676918) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098408977008676918&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5055,9 +5075,9 @@ From a distance, the poster should read as one strong shape. Up close, the viewe
 
   </details>
 
-- **日系馆藏风海报：大字+材质+档案一起构图** — 百鬼夜行 / 潮汐之书 / 金继器物 / 花鸟余白——古画海浪器物花鸟进同一视觉系统。系列 KV / 文博宣传可复用题材骨架。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098403133806293161) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098403133806293161)
+- **日系馆藏风海报：大字+材质+档案一起构图** — 百鬼夜行 / 潮汐之书 / 金继器物 / 花鸟余白——古画海浪器物花鸟进同一视觉系统。系列 KV / 文博宣传可复用题材骨架。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098403133806293161) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098403133806293161)
 
-- **功能极简帝国壁纸：换文明名批量出系列** — 孔雀王朝 / 笈多 / 朱罗 / 马拉塔同骨架：`Functional Minimalism style wallpaper of the [EMPIRE]…`。历史题材壁纸/屏保工厂直接套。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2098397177437659591) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098397177437659591)
+- **功能极简帝国壁纸：换文明名批量出系列** — 孔雀王朝 / 笈多 / 朱罗 / 马拉塔同骨架：`Functional Minimalism style wallpaper of the [EMPIRE]…`。历史题材壁纸/屏保工厂直接套。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2098397177437659591) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098397177437659591&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5067,9 +5087,9 @@ Functional Minimalism style wallpaper of the [EMPIRE/KINGDOM/CIVILIZATION], feat
 
   </details>
 
-- **杂志封面局部编辑：Images 2.5 精度实测** — 封面 / 杂志风图上抠局部改，精度肉眼可见。电商精修与排版迭代，先看它敢不敢动不该动的地方。 [@AIPixLab](https://x.com/AIPixLab) · [原帖](https://x.com/AIPixLab/status/2098379263020077366) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098379263020077366)
+- **杂志封面局部编辑：Images 2.5 精度实测** — 封面 / 杂志风图上抠局部改，精度肉眼可见。电商精修与排版迭代，先看它敢不敢动不该动的地方。 [@AIPixLab](https://x.com/AIPixLab) · [原帖](https://x.com/AIPixLab/status/2098379263020077366) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098379263020077366)
 
-- **液态狮子海报：先锁眉骨口鼻，再放鬃毛飞溅** — 别先看到飞溅再猜动物——用连续咖啡奶油面塑出吼脸，再非对称甩鬃。产品液态/质感广告的可控写法，长 prompt 齐活。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2098344166489293224) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098344166489293224)
+- **液态狮子海报：先锁眉骨口鼻，再放鬃毛飞溅** — 别先看到飞溅再猜动物——用连续咖啡奶油面塑出吼脸，再非对称甩鬃。产品液态/质感广告的可控写法，长 prompt 齐活。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2098344166489293224) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098344166489293224&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5097,9 +5117,9 @@ Negative prompt: visible headline, logo, packaging text, extra layout elements, 
 
   </details>
 
-- **雨后三帖：水滴 / 城市 / 湿花极简海报** — 一滴水、雨后城、湿润花——三组诗意极简海报，中文提示词向高级感封面。适合品牌氛围图连发。 [@Caika_app](https://x.com/Caika_app) · [原帖](https://x.com/Caika_app/status/2098321572360822907) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098321572360822907)
+- **雨后三帖：水滴 / 城市 / 湿花极简海报** — 一滴水、雨后城、湿润花——三组诗意极简海报，中文提示词向高级感封面。适合品牌氛围图连发。 [@Caika_app](https://x.com/Caika_app) · [原帖](https://x.com/Caika_app/status/2098321572360822907) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098321572360822907)
 
-- **拼图城市旅行微缩：填槽模板一键换城** — [CITY] / [LANDMARK] / [FAMOUS FOR] 三槽位，3D 拼图积木风旅行场景。做系列城市海报或周边图，比单张风景图更能量产。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2098301205365850272) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098301205365850272)
+- **拼图城市旅行微缩：填槽模板一键换城** — [CITY] / [LANDMARK] / [FAMOUS FOR] 三槽位，3D 拼图积木风旅行场景。做系列城市海报或周边图，比单张风景图更能量产。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2098301205365850272) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098301205365850272&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5109,7 +5129,7 @@ Create a charming 3D puzzle-piece travel scene of [CITY, COUNTRY], designed as a
 
   </details>
 
-- **同一身份锁：多姿势电影海报战役图** — 一个身份复用成中央主肖像 + 四小姿势拼贴，火焰红橙背景。角色一致性海报战役，prompt 齐活可抄。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2098282894368084350) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098282894368084350)
+- **同一身份锁：多姿势电影海报战役图** — 一个身份复用成中央主肖像 + 四小姿势拼贴，火焰红橙背景。角色一致性海报战役，prompt 齐活可抄。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2098282894368084350) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098282894368084350&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5155,7 +5175,7 @@ Make it visually striking, energetic, and poster-worthy, with the central figure
 
   </details>
 
-- **旅行手账 [LOCATION]：黏土微缩 + 折纸旅人** — 螺旋本俯拍 + 手作黏土微缩世界，换地名就能量产 IG 竖图。内容营销可复用模板，附完整 prompt。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2098269046022238289) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098269046022238289)
+- **旅行手账 [LOCATION]：黏土微缩 + 折纸旅人** — 螺旋本俯拍 + 手作黏土微缩世界，换地名就能量产 IG 竖图。内容营销可复用模板，附完整 prompt。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2098269046022238289) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098269046022238289&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5182,7 +5202,7 @@ STRICT FORMAT: Vertical 4:5 aspect ratio only - do not generate square, landscap
 
   </details>
 
-- **旅行日记海报：上半摄影下半丝网印** — 4:5 圣托里尼家庭瞬间：上半写实金光，下半 risograph/丝网印记忆页。旅游/生活方式海报可抄长 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2098253373237875074) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098253373237875074)
+- **旅行日记海报：上半摄影下半丝网印** — 4:5 圣托里尼家庭瞬间：上半写实金光，下半 risograph/丝网印记忆页。旅游/生活方式海报可抄长 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2098253373237875074) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098253373237875074&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5221,7 +5241,7 @@ No Chinese text. No copied layouts. No generic AI collage aesthetic. No excessiv
 
   </details>
 
-- **东方极简封面：分段中文 prompt** — 主题/风格/构图/色彩/光线分段写死，9:16 白底禅意封面。小红书/公众号封面直接返图试。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2098246112159420546) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098246112159420546)
+- **东方极简封面：分段中文 prompt** — 主题/风格/构图/色彩/光线分段写死，9:16 白底禅意封面。小红书/公众号封面直接返图试。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2098246112159420546) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098246112159420546&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5240,7 +5260,7 @@ No Chinese text. No copied layouts. No generic AI collage aesthetic. No excessiv
 
   </details>
 
-- **对话诊断 → 轻小说封面长 prompt** — 从聊天记录抽人物像，落成异世界恋爱轻小说封面（动画ベタ塗り）。人设种草/粉丝向封面玩法，日文长 prompt 可抄。 [@nyattta](https://x.com/nyattta) · [原帖](https://x.com/nyattta/status/2098243466576994450) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098243466576994450)
+- **对话诊断 → 轻小说封面长 prompt** — 从聊天记录抽人物像，落成异世界恋爱轻小说封面（动画ベタ塗り）。人设种草/粉丝向封面玩法，日文长 prompt 可抄。 [@nyattta](https://x.com/nyattta) · [原帖](https://x.com/nyattta/status/2098243466576994450) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098243466576994450&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5320,9 +5340,9 @@ No Chinese text. No copied layouts. No generic AI collage aesthetic. No excessiv
 
   </details>
 
-- **圆形框景人物海报：光 / 镜面 / 折光** — 构图压力测：圆形裁切 + 光学材质。做人物海报/品牌视觉时直接偷光位。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098049584152863016) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098049584152863016)
+- **圆形框景人物海报：光 / 镜面 / 折光** — 构图压力测：圆形裁切 + 光学材质。做人物海报/品牌视觉时直接偷光位。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2098049584152863016) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098049584152863016)
 
-- **Apple 级手机海报，可复制 prompt** — 产品海报直出，prompt 可抄。做数码/3C 种草封面时省半小时磨词。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2097978468642480487) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097978468642480487)
+- **Apple 级手机海报，可复制 prompt** — 产品海报直出，prompt 可抄。做数码/3C 种草封面时省半小时磨词。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2097978468642480487) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097978468642480487&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5600,7 +5620,7 @@ Behance-level visual design
 
   </details>
 
-- **奢华婚礼请柬 mockup + 完整 prompt** — 请柬/喜帖排版系统可拆，换名字日期就能出样。婚礼赛道与高端印刷预览很香。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2097977120441925720) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097977120441925720)
+- **奢华婚礼请柬 mockup + 完整 prompt** — 请柬/喜帖排版系统可拆，换名字日期就能出样。婚礼赛道与高端印刷预览很香。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2097977120441925720) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097977120441925720&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5652,9 +5672,9 @@ Overall aesthetic: timeless European wedding, Lake Como romance, quiet luxury, s
 
   </details>
 
-- **麦当劳双层芝士堡 × 4 种电影级广告风** — 完整 Prompt 可拆。食品/消费品要「高端感物料」时，直接换品类槽位。 [@Caika_app](https://x.com/Caika_app) · [原帖](https://x.com/Caika_app/status/2097954546152857796) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097954546152857796)
+- **麦当劳双层芝士堡 × 4 种电影级广告风** — 完整 Prompt 可拆。食品/消费品要「高端感物料」时，直接换品类槽位。 [@Caika_app](https://x.com/Caika_app) · [原帖](https://x.com/Caika_app/status/2097954546152857796) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097954546152857796)
 
-- **旅行海报 [CITY, COUNTRY] 丝网印刷模板** — 本地建筑元素的 mid-century 丝网印刷风海报配方，带成片。做目的地/活动 KV 直接换槽。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2097920025617399875) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097920025617399875)
+- **旅行海报 [CITY, COUNTRY] 丝网印刷模板** — 本地建筑元素的 mid-century 丝网印刷风海报配方，带成片。做目的地/活动 KV 直接换槽。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2097920025617399875) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097920025617399875&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5683,7 +5703,7 @@ Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photoreali
 
   </details>
 
-- **香水奢品 10 格分镜 storyboard** — 电影感产品分镜 + 干净网格，直接可改成你自己的品类广告故事板。 [@Strength04_X](https://x.com/Strength04_X) · [原帖](https://x.com/Strength04_X/status/2097919290980921451) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097919290980921451)
+- **香水奢品 10 格分镜 storyboard** — 电影感产品分镜 + 干净网格，直接可改成你自己的品类广告故事板。 [@Strength04_X](https://x.com/Strength04_X) · [原帖](https://x.com/Strength04_X/status/2097919290980921451) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097919290980921451&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5737,7 +5757,7 @@ Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liq
 
   </details>
 
-- **IG 旅游广告 [LOCATION] 可替换模板** — 4:5 竖屏 + 手机导航锚点构图，换地名就能出一波 scroll-stopping 海报。出海投放直接改。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097890291860865291) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097890291860865291)
+- **IG 旅游广告 [LOCATION] 可替换模板** — 4:5 竖屏 + 手机导航锚点构图，换地名就能出一波 scroll-stopping 海报。出海投放直接改。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097890291860865291) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097890291860865291&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5786,9 +5806,9 @@ The final image should feel like a world-class handcrafted travel campaign-insta
 
   </details>
 
-- **品牌 KV 母版：iPhone Duo / 18 Pro 系列海报** — 同一套品牌 KV 模板给虚构新品各出一张：折叠叙事 vs 专业影像。一眼看懂怎么用 Image 2.5 做新品系列 KV。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2097884028955394216) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097884028955394216)
+- **品牌 KV 母版：iPhone Duo / 18 Pro 系列海报** — 同一套品牌 KV 模板给虚构新品各出一张：折叠叙事 vs 专业影像。一眼看懂怎么用 Image 2.5 做新品系列 KV。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2097884028955394216) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097884028955394216)
 
-- **轨道奢侈品三连** — Prada×Axiom×Zendaya / SpaceVIP×Keanu / Richard Mille×Hamilton 三套轨道奢侈海报。Sunburst 高端 SMM 排版系统可拆。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2097778936646091084) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097778936646091084)
+- **轨道奢侈品三连** — Prada×Axiom×Zendaya / SpaceVIP×Keanu / Richard Mille×Hamilton 三套轨道奢侈海报。Sunburst 高端 SMM 排版系统可拆。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2097778936646091084) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097778936646091084&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5812,9 +5832,9 @@ CAMERA: ARRI Alexa 65, 70mm Hasselblad Prime, f/4.0, hyper-crisp reflections in 
 
   </details>
 
-- **竖三栏海报构图** — Images 2.5 竖三栏：图像/文物/声音/空间各占一栏，主体与线条串栏；活动海报、品牌视觉可抄结构。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2097666767174672871) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097666767174672871)
+- **竖三栏海报构图** — Images 2.5 竖三栏：图像/文物/声音/空间各占一栏，主体与线条串栏；活动海报、品牌视觉可抄结构。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2097666767174672871) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097666767174672871)
 
-- **Flare 赛车黄 Porsche 4:5 海报** — MageSpace Flare 竖版社媒海报，结构分明可抄。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2097641872068063436) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097641872068063436)
+- **Flare 赛车黄 Porsche 4:5 海报** — MageSpace Flare 竖版社媒海报，结构分明可抄。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2097641872068063436) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097641872068063436&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5872,11 +5892,11 @@ Timeless performance.
 
   </details>
 
-- **字体海报 + 杂志排版压力测** — 文字密集场景下 2.5 的可读性边界。 [@modelstoreai](https://x.com/modelstoreai) · [原帖](https://x.com/modelstoreai/status/2097641178191827333) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097641178191827333)
+- **字体海报 + 杂志排版压力测** — 文字密集场景下 2.5 的可读性边界。 [@modelstoreai](https://x.com/modelstoreai) · [原帖](https://x.com/modelstoreai/status/2097641178191827333) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097641178191827333)
 
-- **奢侈品 SMM 海报组** — 社交媒体高端感排版与质感提示。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2097607526753718428) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097607526753718428)
+- **奢侈品 SMM 海报组** — 社交媒体高端感排版与质感提示。 [@sebatheepan](https://x.com/sebatheepan) · [原帖](https://x.com/sebatheepan/status/2097607526753718428) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097607526753718428)
 
-- **Art Deco Base Prompt** — 金线+深蓝+奶油纸，可替换 SUBJECT。 [@MrDasOnX](https://x.com/MrDasOnX) · [原帖](https://x.com/MrDasOnX/status/2097550067213504848) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097550067213504848)
+- **Art Deco Base Prompt** — 金线+深蓝+奶油纸，可替换 SUBJECT。 [@MrDasOnX](https://x.com/MrDasOnX) · [原帖](https://x.com/MrDasOnX/status/2097550067213504848) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097550067213504848&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5891,10 +5911,12 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 ## 人像角色
 
+> 💡 本分类带提示词的条目可点「▶ 一键试用」直接在线生成；或打开 [GPT Image 2.5 在线生成器 →](https://gptimage2.asia/zh/generate?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=section-portrait)
+
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
-- **无参考姿势图×16宫格 Editorial：【XXX】主体槽** — 不喂姿势参考也能榨出 4×4 十六种身体结构差异；【XXX】换主体，背景藏跨格侧脸轮廓。角色设定表/姿势一致性验收，直接抄评论区通用模板。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2105558855522676883) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105558855522676883) · [通用 Prompt 模板](https://x.com/DeepBlueX0/status/2105563464903356751)
-- **拍立得立体贴纸 + Copic 乱涂：上传照片一秒平成风** — 上传真人照片→4:5 拍立得框 + Copic/荧光笔乱涂 + 树脂立体动物/气泡贴纸。UGC 回忆杀别只加滤镜，先把「手账本乱涂」焊进 prompt。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2105116111515865191) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105116111515865191) · [线程·ChatGPT share prompt](https://x.com/kabumira862571/status/2105116119241744424) · [ChatGPT share](https://chatgpt.com/s/p_6abc6c2200648191bf5b411416c80568)
+- **无参考姿势图×16宫格 Editorial：【XXX】主体槽** — 不喂姿势参考也能榨出 4×4 十六种身体结构差异；【XXX】换主体，背景藏跨格侧脸轮廓。角色设定表/姿势一致性验收，直接抄评论区通用模板。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2105558855522676883) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105558855522676883&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [通用 Prompt 模板](https://x.com/DeepBlueX0/status/2105563464903356751)
+- **拍立得立体贴纸 + Copic 乱涂：上传照片一秒平成风** — 上传真人照片→4:5 拍立得框 + Copic/荧光笔乱涂 + 树脂立体动物/气泡贴纸。UGC 回忆杀别只加滤镜，先把「手账本乱涂」焊进 prompt。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2105116111515865191) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105116111515865191&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [线程·ChatGPT share prompt](https://x.com/kabumira862571/status/2105116119241744424) · [ChatGPT share](https://chatgpt.com/s/p_6abc6c2200648191bf5b411416c80568)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -5999,7 +6021,7 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
   </details>
 
-- **棚拍宣材写真：上传本人→3:4 写真馆级（可延伸证明写真）** — 把本人照片喂给 Image 2.5，按写真馆棚拍配方出竖版 3:4 宣材——软光、妆发、姿态、商业级修图一次写死。风险自负，但同原理也能做证明写真；别再拿日常自拍硬充主页头图。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2105055019984662874) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105055019984662874) · [线程·完整 prompt 回复](https://x.com/1banana2546/status/2105055021029036329)
+- **棚拍宣材写真：上传本人→3:4 写真馆级（可延伸证明写真）** — 把本人照片喂给 Image 2.5，按写真馆棚拍配方出竖版 3:4 宣材——软光、妆发、姿态、商业级修图一次写死。风险自负，但同原理也能做证明写真；别再拿日常自拍硬充主页头图。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2105055019984662874) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105055019984662874&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [线程·完整 prompt 回复](https://x.com/1banana2546/status/2105055021029036329)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6062,7 +6084,7 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
   </details>
 
-- **3×3 身份锁定棚拍网格 + 金冠盾牌个人品牌 crest** — 同一人九格表情/姿势焊死身份，右下角再叠金冠盾牌 ABS 风格奢牌 crest——上传构图参考就能出个人品牌棚拍墙。锁脸别只出单张，先把九宫格一致性当验收尺子。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2104946492305756454) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104946492305756454)
+- **3×3 身份锁定棚拍网格 + 金冠盾牌个人品牌 crest** — 同一人九格表情/姿势焊死身份，右下角再叠金冠盾牌 ABS 风格奢牌 crest——上传构图参考就能出个人品牌棚拍墙。锁脸别只出单张，先把九宫格一致性当验收尺子。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2104946492305756454) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104946492305756454&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6108,7 +6130,7 @@ Important: same person in every frame, consistent hairstyle and wardrobe, comple
 
   </details>
 
-- **角色参照→双格「笔记本屏幕伸手牵你」完整 prompt** — 任意角色参考图焊进双格 3:4：上惊下笑，角色从笔记本屏幕伸出手牵住第一人称的手。破第四面墙别靠玄学姿势，先锁角色细节再统一桌面世界观。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2104882223187218503) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104882223187218503) · [线程·完整 prompt 回复](https://x.com/Mayz1169/status/2104882325133959363)
+- **角色参照→双格「笔记本屏幕伸手牵你」完整 prompt** — 任意角色参考图焊进双格 3:4：上惊下笑，角色从笔记本屏幕伸出手牵住第一人称的手。破第四面墙别靠玄学姿势，先锁角色细节再统一桌面世界观。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2104882223187218503) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104882223187218503&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [线程·完整 prompt 回复](https://x.com/Mayz1169/status/2104882325133959363)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6149,7 +6171,7 @@ No extra limbs, unintended duplicate characters, misplaced accessories, text, ca
 
   </details>
 
-- **脸锁棚拍时尚：黄墨镜×黑西装完整 prompt** — 严格 identity lock：脸骨/不对称/肤色一条都不能美颜。芥末黄无缝棚景 + 透明黄墨镜 + 85mm，UGC/时尚写真锁脸可直接抄。 [@TheVirtualMuse](https://x.com/TheVirtualMuse) · [原帖](https://x.com/TheVirtualMuse/status/2104780966288068988) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104780966288068988) · [同作者·完整 prompt 原帖](https://x.com/TheVirtualMuse/status/2104436331413995857)
+- **脸锁棚拍时尚：黄墨镜×黑西装完整 prompt** — 严格 identity lock：脸骨/不对称/肤色一条都不能美颜。芥末黄无缝棚景 + 透明黄墨镜 + 85mm，UGC/时尚写真锁脸可直接抄。 [@TheVirtualMuse](https://x.com/TheVirtualMuse) · [原帖](https://x.com/TheVirtualMuse/status/2104780966288068988) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104780966288068988&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [同作者·完整 prompt 原帖](https://x.com/TheVirtualMuse/status/2104436331413995857)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6174,7 +6196,7 @@ IMAGE QUALITY: ultra-photorealistic 8K editorial photography, true human skin po
 
   </details>
 
-- **角色设定四视图+大头 inset 参考表** — 一行四全身：FRONT / ¾ / SIDE / BACK，再单独放大头肩 inset、互不重叠。白棚 lookbook 转面一镜齐——锁脸锁比例锁服装，后面接视频或连镜更稳。完整女主/男主服装圣经见原帖。 [@Promptwhat](https://x.com/Promptwhat) · [原帖](https://x.com/Promptwhat/status/2104688571974316498) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104688571974316498) · [线程·whip-pan 视频附赠](https://x.com/Promptwhat/status/2104688558200271235)
+- **角色设定四视图+大头 inset 参考表** — 一行四全身：FRONT / ¾ / SIDE / BACK，再单独放大头肩 inset、互不重叠。白棚 lookbook 转面一镜齐——锁脸锁比例锁服装，后面接视频或连镜更稳。完整女主/男主服装圣经见原帖。 [@Promptwhat](https://x.com/Promptwhat) · [原帖](https://x.com/Promptwhat/status/2104688571974316498) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104688571974316498&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [线程·whip-pan 视频附赠](https://x.com/Promptwhat/status/2104688558200271235)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6197,7 +6219,7 @@ Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark
 
   </details>
 
-- **娇嗔×事件×宋式美学×iPhone抓拍通用槽** — 微蹙眉、轻抿唇、带一点恼意的撒娇——焊死神态槽，只换【事件】就能连更：捏脸无法反驳、够不到对方、鸡腿被抢、东西被举高。宋式美学×iPhone抓拍，短剧感人像别再只写「可爱生气」。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104555242872545356) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104555242872545356)
+- **娇嗔×事件×宋式美学×iPhone抓拍通用槽** — 微蹙眉、轻抿唇、带一点恼意的撒娇——焊死神态槽，只换【事件】就能连更：捏脸无法反驳、够不到对方、鸡腿被抢、东西被举高。宋式美学×iPhone抓拍，短剧感人像别再只写「可爱生气」。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104555242872545356) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104555242872545356&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6215,7 +6237,7 @@ Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark
 
   </details>
 
-- **跟练Khazix「拍立得3D破框」+「排版涂鸦」前后对比** — 0xKyne 拿私藏素材二创假期朋友圈两招：拍立得立体破框和排版涂鸦，脸与光影锁得住、塑料感洗得掉。教程再长也怕翻车——先看这组前后对比再决定要不要整套跟练。 [@0xkyne](https://x.com/0xkyne) · [原帖](https://x.com/0xkyne/status/2104487991397802220) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104487991397802220) · [Khazix 原教程](https://x.com/Khazix0918/status/2104401048324743646)
+- **跟练Khazix「拍立得3D破框」+「排版涂鸦」前后对比** — 0xKyne 拿私藏素材二创假期朋友圈两招：拍立得立体破框和排版涂鸦，脸与光影锁得住、塑料感洗得掉。教程再长也怕翻车——先看这组前后对比再决定要不要整套跟练。 [@0xkyne](https://x.com/0xkyne) · [原帖](https://x.com/0xkyne/status/2104487991397802220) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104487991397802220&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [Khazix 原教程](https://x.com/Khazix0918/status/2104401048324743646)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6231,7 +6253,7 @@ Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark
 
   </details>
 
-- **复古拼贴练琴手账：脸锁+角贴+五线谱生活页** — 同一张脸锁进四格练琴瞬间，角贴、便签、节拍器、标签机文字叠在旧乐谱纸上——9:16 俯拍扫描感。生活方式 UGC / 兴趣人设拼贴，先锁脸再堆手账层，别让模型自己换脸。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2104463222548099112) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104463222548099112)
+- **复古拼贴练琴手账：脸锁+角贴+五线谱生活页** — 同一张脸锁进四格练琴瞬间，角贴、便签、节拍器、标签机文字叠在旧乐谱纸上——9:16 俯拍扫描感。生活方式 UGC / 兴趣人设拼贴，先锁脸再堆手账层，别让模型自己换脸。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2104463222548099112) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104463222548099112&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6241,7 +6263,7 @@ Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark
 
   </details>
 
-- **仙侠服装工业设计图：爆炸拆解+面料样本+PBR** — 松果直接出 16:9 仙侠古装工业设计图——正面全身 + 右侧爆炸拆解箭头穿着顺序 + 下方刺绣/搭扣/面料样本。游戏时装/汉服电商别只会画效果图，先让 2.5 把结构板和 PBR 一起焊出来。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2104462248072843409) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104462248072843409)
+- **仙侠服装工业设计图：爆炸拆解+面料样本+PBR** — 松果直接出 16:9 仙侠古装工业设计图——正面全身 + 右侧爆炸拆解箭头穿着顺序 + 下方刺绣/搭扣/面料样本。游戏时装/汉服电商别只会画效果图，先让 2.5 把结构板和 PBR 一起焊出来。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2104462248072843409) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104462248072843409&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6251,7 +6273,7 @@ Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark
 
   </details>
 
-- **国庆出片：GPT Image 2.5 发型美容顾问提示词** — 逸尘把「美学顾问」焊进 Image 2.5——分析脸型给发型/眉形/妆面建议，再出前后对比带标注。国庆给自己或对象出片，别再走出理发店后悔，先让模型当顾问再动剪。 [@gengdaJ](https://x.com/gengdaJ) · [原帖](https://x.com/gengdaJ/status/2104414578239267314) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104414578239267314)
+- **国庆出片：GPT Image 2.5 发型美容顾问提示词** — 逸尘把「美学顾问」焊进 Image 2.5——分析脸型给发型/眉形/妆面建议，再出前后对比带标注。国庆给自己或对象出片，别再走出理发店后悔，先让模型当顾问再动剪。 [@gengdaJ](https://x.com/gengdaJ) · [原帖](https://x.com/gengdaJ/status/2104414578239267314) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104414578239267314&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6273,7 +6295,7 @@ Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark
 
   </details>
 
-- **Chat 记忆一键人设信息图：动漫肖像+属性技能板** — 一句「基于你对我所有的了解」甩给 Image 2.5——卡通动漫风角色肖像、关键属性、技能、性格与兴趣自动排成信息图。个人品牌/社媒人设别手绘九宫格，先让模型吃透聊天记忆再出板。 [@lukfan](https://x.com/lukfan) · [原帖](https://x.com/lukfan/status/2104385560563576925) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104385560563576925)
+- **Chat 记忆一键人设信息图：动漫肖像+属性技能板** — 一句「基于你对我所有的了解」甩给 Image 2.5——卡通动漫风角色肖像、关键属性、技能、性格与兴趣自动排成信息图。个人品牌/社媒人设别手绘九宫格，先让模型吃透聊天记忆再出板。 [@lukfan](https://x.com/lukfan) · [原帖](https://x.com/lukfan/status/2104385560563576925) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104385560563576925&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6283,7 +6305,7 @@ Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark
 
   </details>
 
-- **通用角色卡提示词：上传人像即可过 Seedance 人脸** — 槽位填角色/服装/髮型，挂参考图锁脸骨与肤质，一次出头细节+五视图转面+俯仰补充+材质特写。虚拟 IP / 数字人先焊角色卡再喂 Seedance，别拿单帧玄学锁脸。 [@GeekCatX](https://x.com/GeekCatX) · [原帖](https://x.com/GeekCatX/status/2104135719140937766) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104135719140937766) · [提示词回复](https://x.com/GeekCatX/status/2104135797280752081)
+- **通用角色卡提示词：上传人像即可过 Seedance 人脸** — 槽位填角色/服装/髮型，挂参考图锁脸骨与肤质，一次出头细节+五视图转面+俯仰补充+材质特写。虚拟 IP / 数字人先焊角色卡再喂 Seedance，别拿单帧玄学锁脸。 [@GeekCatX](https://x.com/GeekCatX) · [原帖](https://x.com/GeekCatX/status/2104135719140937766) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104135719140937766&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [提示词回复](https://x.com/GeekCatX/status/2104135797280752081)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6343,7 +6365,7 @@ Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark
 
   </details>
 
-- **日间高光CCD：风力装置广场都市生活照** — 蜜桃橘吊带针织 + 冷白超短裙，低角度仰拍压发尾；风力互动装置当几何背景。liyue CCD 槽位又补一张设计感都市场景，小红书生活方式直接返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2103383385662263799) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103383385662263799)
+- **日间高光CCD：风力装置广场都市生活照** — 蜜桃橘吊带针织 + 冷白超短裙，低角度仰拍压发尾；风力互动装置当几何背景。liyue CCD 槽位又补一张设计感都市场景，小红书生活方式直接返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2103383385662263799) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103383385662263799&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6366,7 +6388,7 @@ Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark
 
   </details>
 
-- **古风贵女「石榴花影」：结构化美妆人像提示词** — 主题风格/身份气质/妆感/五官/发饰/服装/场景/镜头/画幅写死——石榴珍珠水光妆 × 石榴红云肩 × 珍珠白交领。古风种草竖版别只会堆「仙气」，先把槽位填满再返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2103158696826331632) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103158696826331632)
+- **古风贵女「石榴花影」：结构化美妆人像提示词** — 主题风格/身份气质/妆感/五官/发饰/服装/场景/镜头/画幅写死——石榴珍珠水光妆 × 石榴红云肩 × 珍珠白交领。古风种草竖版别只会堆「仙气」，先把槽位填满再返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2103158696826331632) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103158696826331632&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6386,7 +6408,7 @@ Photorealistic, ultra-detailed, 4K. Original design. No text, logo, or watermark
 
   </details>
 
-- **真人照→精细油画：锁身份完整提示词** — 上传真人照一键变当代油画/水粉，脸/发型/姿势/衣服/背景全锁死——不是另起炉灶的「AI 重绘」。写真转艺术封面别只会加滤镜，先把身份约束写进 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2103015777360392379) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103015777360392379)
+- **真人照→精细油画：锁身份完整提示词** — 上传真人照一键变当代油画/水粉，脸/发型/姿势/衣服/背景全锁死——不是另起炉灶的「AI 重绘」。写真转艺术封面别只会加滤镜，先把身份约束写进 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2103015777360392379) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103015777360392379&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6422,7 +6444,7 @@ Composition: preserve the exact original composition, framing, camera perspectiv
 
   </details>
 
-- **日间高光CCD生活照：都市咖啡区完整提示词** — 清亮高光CCD风，露天咖啡烘焙区+蓝莓紫短上衣/奶白短裤。都市周末生活写真别只会开美颜——先锁摄影风格和场景道具再谈人。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102997708965634220) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102997708965634220)
+- **日间高光CCD生活照：都市咖啡区完整提示词** — 清亮高光CCD风，露天咖啡烘焙区+蓝莓紫短上衣/奶白短裤。都市周末生活写真别只会开美颜——先锁摄影风格和场景道具再谈人。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102997708965634220) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102997708965634220&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6435,9 +6457,9 @@ Composition: preserve the exact original composition, framing, camera perspectiv
 
   </details>
 
-- **Flare角色表多角度→Higgsfield/Astra MV流水线** — Jake Paul 团队同款思路：Flare 先出正侧背多角度角色表（别只丢一张烂光参考），再进 Genjutsu 贴片换人；先 480p 试采样再冲 1080p。角色一致性别指望单帧玄学。 [@mikelauofficial](https://x.com/mikelauofficial) · [原帖](https://x.com/mikelauofficial/status/2102867687332630998) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102867687332630998)
+- **Flare角色表多角度→Higgsfield/Astra MV流水线** — Jake Paul 团队同款思路：Flare 先出正侧背多角度角色表（别只丢一张烂光参考），再进 Genjutsu 贴片换人；先 480p 试采样再冲 1080p。角色一致性别指望单帧玄学。 [@mikelauofficial](https://x.com/mikelauofficial) · [原帖](https://x.com/mikelauofficial/status/2102867687332630998) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102867687332630998)
 
-- **9:16 列车窗边电影感：COMPOSITION 分层配方** — 过道斜拍+前景座椅虚化+窗玻璃倒影，COMPOSITION/SUBJECT/LIGHTING 分栏写死。竖屏种草肖像——先锁构图深度，再谈「氛围感」。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2102635863893307394) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102635863893307394)
+- **9:16 列车窗边电影感：COMPOSITION 分层配方** — 过道斜拍+前景座椅虚化+窗玻璃倒影，COMPOSITION/SUBJECT/LIGHTING 分栏写死。竖屏种草肖像——先锁构图深度，再谈「氛围感」。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2102635863893307394) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102635863893307394&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6479,7 +6501,7 @@ cartoon, anime, illustration, CGI, 3D render, plastic skin, excessive makeup, pe
 
   </details>
 
-- **眼鏡っ子第二弾：可换装衣装模块+PROTECTED WARDROBE RULE** — 帽/上衣/裙/腿套/鞋/眼镜拆成不可变成品身份，FINAL WORN STATE 只改穿法不改形。虚拟 IP 换装别靠「差不多就行」——先把每件衣服锁死再谈姿势。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2102630253135118590) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102630253135118590)
+- **眼鏡っ子第二弾：可换装衣装模块+PROTECTED WARDROBE RULE** — 帽/上衣/裙/腿套/鞋/眼镜拆成不可变成品身份，FINAL WORN STATE 只改穿法不改形。虚拟 IP 换装别靠「差不多就行」——先把每件衣服锁死再谈姿势。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2102630253135118590) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102630253135118590&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6510,7 +6532,7 @@ Necklace: A delicate silver-tone butterfly tassel necklace on a fine chain attac
 
   </details>
 
-- **脸锁时尚 lookbook：金光亚麻墙边全身** — 严格保脸，巧克力亚麻衬衫+褶裤墨镜靠墙，金色小时光束切开背景。穿搭种草一句话：身份锁死，布料纹理自己说话。 [@weiinberg](https://x.com/weiinberg) · [原帖](https://x.com/weiinberg/status/2102623939323400467) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102623939323400467)
+- **脸锁时尚 lookbook：金光亚麻墙边全身** — 严格保脸，巧克力亚麻衬衫+褶裤墨镜靠墙，金色小时光束切开背景。穿搭种草一句话：身份锁死，布料纹理自己说话。 [@weiinberg](https://x.com/weiinberg) · [原帖](https://x.com/weiinberg/status/2102623939323400467) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102623939323400467&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6520,7 +6542,7 @@ Maintain the exact facial features and identity of the person in the uploaded re
 
   </details>
 
-- **Sunburst 脸锁皮衣特写：叶影窗光 editorial** — 上传脸参 + 黑皮衣高领，窗光叶影扫过面部。男装情绪片别只会棚拍——低 key 窗影比滤镜更像杂志。 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [原帖](https://x.com/iamsofiaijaz/status/2102590414570348924) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102590414570348924)
+- **Sunburst 脸锁皮衣特写：叶影窗光 editorial** — 上传脸参 + 黑皮衣高领，窗光叶影扫过面部。男装情绪片别只会棚拍——低 key 窗影比滤镜更像杂志。 [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [原帖](https://x.com/iamsofiaijaz/status/2102590414570348924) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102590414570348924&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6530,7 +6552,7 @@ Ultra-realistic cinematic close-up portrait of a young man use image for face re
 
   </details>
 
-- **参考图→服装装备清单 sheet（可复制）** — 上传角色图，一句日文 prompt 直接出竖版 4:5 服装/装备拆解表。做角色资产库别手抄——先让 2.5 把衣柜摊平。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2102576374473220577) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102576374473220577)
+- **参考图→服装装备清单 sheet（可复制）** — 上传角色图，一句日文 prompt 直接出竖版 4:5 服装/装备拆解表。做角色资产库别手抄——先让 2.5 把衣柜摊平。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2102576374473220577) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102576374473220577&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6541,7 +6563,7 @@ Ultra-realistic cinematic close-up portrait of a young man use image for face re
 
   </details>
 
-- **人物×衣装×发型三表换装：参考 sheet 流水线** — 先各自出人物/衣装/发型 reference sheet，再三图合参换装——2.5 部分固定一次用满。系列角色别靠嘴写「马尾」，先把表摊平再改。附可抄步骤与防政策撞车写法。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2102560525087568283) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102560525087568283)
+- **人物×衣装×发型三表换装：参考 sheet 流水线** — 先各自出人物/衣装/发型 reference sheet，再三图合参换装——2.5 部分固定一次用满。系列角色别靠嘴写「马尾」，先把表摊平再改。附可抄步骤与防政策撞车写法。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2102560525087568283) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102560525087568283&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6557,7 +6579,7 @@ Ultra-realistic cinematic close-up portrait of a young man use image for face re
 
   </details>
 
-- **Sunburst 加州街潮广告：棕榈人行道全身片** — Sunburst 街拍广告配方：南洛杉矶棕榈+壁画+滑板背景，法兰绒宽腿靴全套写死。品牌种草别只会海滩——街巷质感更敢卖。 [@PrometheanAIX](https://x.com/PrometheanAIX) · [原帖](https://x.com/PrometheanAIX/status/2102550317405536266) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102550317405536266)
+- **Sunburst 加州街潮广告：棕榈人行道全身片** — Sunburst 街拍广告配方：南洛杉矶棕榈+壁画+滑板背景，法兰绒宽腿靴全套写死。品牌种草别只会海滩——街巷质感更敢卖。 [@PrometheanAIX](https://x.com/PrometheanAIX) · [原帖](https://x.com/PrometheanAIX/status/2102550317405536266) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102550317405536266&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6577,7 +6599,7 @@ Oversized blue, navy, and warm beige plaid flannel overshirt, worn open over a m
 
   </details>
 
-- **竖屏自拍角色 JSON：锁脸可复用 UGC 双** — 9:16 手机自拍 JSON：脸比例/雀斑/发色优先级写死，高领全覆盖，厨房暖光。AI 双胞胎种草素材——先焊身份再换场景。 [@demonugc](https://x.com/demonugc) · [原帖](https://x.com/demonugc/status/2102527540879376433) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102527540879376433)
+- **竖屏自拍角色 JSON：锁脸可复用 UGC 双** — 9:16 手机自拍 JSON：脸比例/雀斑/发色优先级写死，高领全覆盖，厨房暖光。AI 双胞胎种草素材——先焊身份再换场景。 [@demonugc](https://x.com/demonugc) · [原帖](https://x.com/demonugc/status/2102527540879376433) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102527540879376433&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6662,7 +6684,7 @@ Oversized blue, navy, and warm beige plaid flannel overshirt, worn open over a m
 
   </details>
 
-- **古风月照群青：美妆特写结构化提示词** — 主题/妆感/五官/发饰/服装/场景/镜头分栏写死，群青只当主色不染全脸。古风种草妆面——结构字段比「仙气」两个字管用。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102413682563244332) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102413682563244332)
+- **古风月照群青：美妆特写结构化提示词** — 主题/妆感/五官/发饰/服装/场景/镜头分栏写死，群青只当主色不染全脸。古风种草妆面——结构字段比「仙气」两个字管用。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102413682563244332) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102413682563244332&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6682,7 +6704,7 @@ Oversized blue, navy, and warm beige plaid flannel overshirt, worn open over a m
 
   </details>
 
-- **UGC 锁构图姿态衣装：身份微变 JSON** — 参考图死守构图/姿态/耳机/草坪，只微变五官身份——AI UGC 批量换人套装。JSON 写清 preserve vs modify，种草素材工厂直接抄。 [@noneugc](https://x.com/noneugc) · [原帖](https://x.com/noneugc/status/2102372927123407043) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102372927123407043)
+- **UGC 锁构图姿态衣装：身份微变 JSON** — 参考图死守构图/姿态/耳机/草坪，只微变五官身份——AI UGC 批量换人套装。JSON 写清 preserve vs modify，种草素材工厂直接抄。 [@noneugc](https://x.com/noneugc) · [原帖](https://x.com/noneugc/status/2102372927123407043) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102372927123407043&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6918,7 +6940,7 @@ Oversized blue, navy, and warm beige plaid flannel overshirt, worn open over a m
 
   </details>
 
-- **Sunburst 狗仔远距机位：码头香槟整活** — 先用 Sunburst 锁远距狗仔构图（人小、码头与水面多），再叠参考脸/Logo。成帧后可接视频，但本条可抄的是起帧 prompt。 [@techhalla](https://x.com/techhalla) · [原帖](https://x.com/techhalla/status/2102357636725321734) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102357636725321734)
+- **Sunburst 狗仔远距机位：码头香槟整活** — 先用 Sunburst 锁远距狗仔构图（人小、码头与水面多），再叠参考脸/Logo。成帧后可接视频，但本条可抄的是起帧 prompt。 [@techhalla](https://x.com/techhalla) · [原帖](https://x.com/techhalla/status/2102357636725321734) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102357636725321734&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -6936,7 +6958,7 @@ Composition left to right: man → grandma → yacht tight to the dock with clea
 
   </details>
 
-- **UGC 脸锁健身房自拍：JSON 重构换装换耳机** — 参考图锁姿势/机位/环境，只换耳机商品色与运动装，脸轻微虚构化。种草 UGC + 商品植入一条 JSON 抄走就能改。 [@jasonugc](https://x.com/jasonugc) · [原帖](https://x.com/jasonugc/status/2102329429875724480) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102329429875724480)
+- **UGC 脸锁健身房自拍：JSON 重构换装换耳机** — 参考图锁姿势/机位/环境，只换耳机商品色与运动装，脸轻微虚构化。种草 UGC + 商品植入一条 JSON 抄走就能改。 [@jasonugc](https://x.com/jasonugc) · [原帖](https://x.com/jasonugc/status/2102329429875724480) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102329429875724480&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7221,7 +7243,7 @@ Composition left to right: man → grandma → yacht tight to the dock with clea
 
   </details>
 
-- **Y2K 日杂时尚 9:16：完整美妆发型 prompt** — early-2000s 日杂 editorial + 双丸子头 + 玻璃唇——竖版种草封面直接套。美妆/穿搭博主别再堆「氛围感」三个字。 [@BubbleBrain](https://x.com/BubbleBrain) · [原帖](https://x.com/BubbleBrain/status/2102322774090133548) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102322774090133548)
+- **Y2K 日杂时尚 9:16：完整美妆发型 prompt** — early-2000s 日杂 editorial + 双丸子头 + 玻璃唇——竖版种草封面直接套。美妆/穿搭博主别再堆「氛围感」三个字。 [@BubbleBrain](https://x.com/BubbleBrain) · [原帖](https://x.com/BubbleBrain/status/2102322774090133548) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102322774090133548&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7243,7 +7265,7 @@ Realistic fabric folds, individual hair strands, glossy skin highlights, delicat
 
   </details>
 
-- **极简东方人物插画：纸伞清微结构化提示** — 主体/气质/主色/点缀/几何强度/9:16 全写死——清冷东方 KV 可复用骨架。别靠「仙气」两个字碰运气。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102313613881159693) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102313613881159693)
+- **极简东方人物插画：纸伞清微结构化提示** — 主体/气质/主色/点缀/几何强度/9:16 全写死——清冷东方 KV 可复用骨架。别靠「仙气」两个字碰运气。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102313613881159693) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102313613881159693&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7261,7 +7283,7 @@ Realistic fabric folds, individual hair strands, glossy skin highlights, delicat
 
   </details>
 
-- **参考图脸锁：水下梦境写真可抄** — 锁脸五官不动，只换水下白纱+鱼群+丁达尔光柱。写真/旅拍广告换场景不换人，参考图 prompting 教科书。 [@Techbyhani](https://x.com/Techbyhani) · [原帖](https://x.com/Techbyhani/status/2102313364026454076) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102313364026454076)
+- **参考图脸锁：水下梦境写真可抄** — 锁脸五官不动，只换水下白纱+鱼群+丁达尔光柱。写真/旅拍广告换场景不换人，参考图 prompting 教科书。 [@Techbyhani](https://x.com/Techbyhani) · [原帖](https://x.com/Techbyhani/status/2102313364026454076) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102313364026454076&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7279,7 +7301,7 @@ Style: photorealistic, cinematic fantasy, ethereal underwater photography, dream
 
   </details>
 
-- **2×2 身份锁四宫格：同一人同一车只换姿势** — 写死同一张脸/发型/黑卫衣/墨镜/耳环/Mercedes 内饰/迪拜天际线，四格只换姿势（眨眼托腮/看镜头/自拍/望窗外）。身份一致性压测模板——UGC 生活方式拼贴直接套。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2102283043696165107) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102283043696165107)
+- **2×2 身份锁四宫格：同一人同一车只换姿势** — 写死同一张脸/发型/黑卫衣/墨镜/耳环/Mercedes 内饰/迪拜天际线，四格只换姿势（眨眼托腮/看镜头/自拍/望窗外）。身份一致性压测模板——UGC 生活方式拼贴直接套。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2102283043696165107) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102283043696165107&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7298,7 +7320,7 @@ Photorealistic luxury lifestyle photography, elegant Korean fashion aesthetic, r
 
   </details>
 
-- **极端仰拍时尚 Hero：填 [subject] 轮播出片** — 地板机位仰拍 + 白棚 beauty-dish + Portra 颗粒——芭蕾/快递/糕点师/图书管理员换词即出。时装战役、角色海报统一视觉语言。 [@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [原帖](https://x.com/Alyssa4aicreate/status/2102231985301463502) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102231985301463502)
+- **极端仰拍时尚 Hero：填 [subject] 轮播出片** — 地板机位仰拍 + 白棚 beauty-dish + Portra 颗粒——芭蕾/快递/糕点师/图书管理员换词即出。时装战役、角色海报统一视觉语言。 [@Alyssa4aicreate](https://x.com/Alyssa4aicreate) · [原帖](https://x.com/Alyssa4aicreate/status/2102231985301463502) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102231985301463502&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7308,7 +7330,7 @@ A [subject] photographed from an extreme low-angle ground-level view, camera pos
 
   </details>
 
-- **酒红单色穿搭：tone-on-tone 完整 prompt** — 皮衣+黑丝+长围巾+高跟靴，酒红门同色对撞；百合花束与小包点缀。秋冬单色种草竖版直接抄，附完整英文 prompt。 [@mehvishs25](https://x.com/mehvishs25) · [原帖](https://x.com/mehvishs25/status/2102226465475658179) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102226465475658179)
+- **酒红单色穿搭：tone-on-tone 完整 prompt** — 皮衣+黑丝+长围巾+高跟靴，酒红门同色对撞；百合花束与小包点缀。秋冬单色种草竖版直接抄，附完整英文 prompt。 [@mehvishs25](https://x.com/mehvishs25) · [原帖](https://x.com/mehvishs25/status/2102226465475658179) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102226465475658179&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7322,7 +7344,7 @@ High-fashion editorial, full-body shot, dramatic shadow and light, tone-on-tone 
 
   </details>
 
-- **探头头像 Flare：圆头海豹钉死构图比例** — Q 版探头头像写死：头顶只留 ~5% 黑边、下巴切出画框、歪头 8°、无嘴无睫毛。换角色改配饰就能批量出头像资产——回复含海豹完整中文 prompt。 [@achuanmemo](https://x.com/achuanmemo) · [原帖](https://x.com/achuanmemo/status/2102224315340968148) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102224315340968148)
+- **探头头像 Flare：圆头海豹钉死构图比例** — Q 版探头头像写死：头顶只留 ~5% 黑边、下巴切出画框、歪头 8°、无嘴无睫毛。换角色改配饰就能批量出头像资产——回复含海豹完整中文 prompt。 [@achuanmemo](https://x.com/achuanmemo) · [原帖](https://x.com/achuanmemo/status/2102224315340968148) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102224315340968148&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7336,7 +7358,7 @@ High-fashion editorial, full-body shot, dramatic shadow and light, tone-on-tone 
 
   </details>
 
-- **古典美人 9:16：唐风 CG 半身特写可抄** — 冷白肌理 + 暖金主光/冷蓝辅光 + 鎏金凤冠珠帘——竖版国风人物 KV 直接套。写死 85mm / f1.4 / 胶片颗粒，别再靠「仙气」玄学。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102221542465880158) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102221542465880158)
+- **古典美人 9:16：唐风 CG 半身特写可抄** — 冷白肌理 + 暖金主光/冷蓝辅光 + 鎏金凤冠珠帘——竖版国风人物 KV 直接套。写死 85mm / f1.4 / 胶片颗粒，别再靠「仙气」玄学。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102221542465880158) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102221542465880158&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7346,7 +7368,7 @@ High-fashion editorial, full-body shot, dramatic shadow and light, tone-on-tone 
 
   </details>
 
-- **自拍变约鲁巴高定：脸锁时装战役完整 prompt** — 一张自拍当面部身份锁，整段 agbada + fila + 串珠 + 手杖写死成高端时装工作室战役。右下角可换个人 crest——文化高定种草别再只写「传统服装好看」。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2102201212049203309) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102201212049203309)
+- **自拍变约鲁巴高定：脸锁时装战役完整 prompt** — 一张自拍当面部身份锁，整段 agbada + fila + 串珠 + 手杖写死成高端时装工作室战役。右下角可换个人 crest——文化高定种草别再只写「传统服装好看」。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2102201212049203309) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102201212049203309&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7386,7 +7408,7 @@ Composition: full-body portrait, centered subject, straight-on camera angle, sym
 
   </details>
 
-- **参考图抽衣装：可换装模块 Wardrobe 母版** — 一张参考图 → 插件抽衣装提示词，按 Dress/袜裤/鞋/发饰/袖套分模块互换。PROTECTED WARDROBE RULE 锁死剪裁与纹样，只动你点名的那一件——狐巫女黑红金整套可当角色换装库母版。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2102186680728031515) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102186680728031515)
+- **参考图抽衣装：可换装模块 Wardrobe 母版** — 一张参考图 → 插件抽衣装提示词，按 Dress/袜裤/鞋/发饰/袖套分模块互换。PROTECTED WARDROBE RULE 锁死剪裁与纹样，只动你点名的那一件——狐巫女黑红金整套可当角色换装库母版。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2102186680728031515) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102186680728031515&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7410,7 +7432,7 @@ Replace any single module (e.g. Dress only) while freezing identity and other mo
 
   </details>
 
-- **里斯本蛋挞店 Sunburst：相机卷随手拍 UGC** — Sunburst 写死「相册偷拍不是棚拍」：葡语价目表、azulejo 瓷砖、烤箱油光额头、面粉手与冷荧光下巴光。本地生活种草竖版可换城市换柜台。 [@BorderleSint](https://x.com/BorderleSint) · [原帖](https://x.com/BorderleSint/status/2102132613095833773) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102132613095833773)
+- **里斯本蛋挞店 Sunburst：相机卷随手拍 UGC** — Sunburst 写死「相册偷拍不是棚拍」：葡语价目表、azulejo 瓷砖、烤箱油光额头、面粉手与冷荧光下巴光。本地生活种草竖版可换城市换柜台。 [@BorderleSint](https://x.com/BorderleSint) · [原帖](https://x.com/BorderleSint/status/2102132613095833773) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102132613095833773&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7420,7 +7442,7 @@ A real snapshot pulled from someone's camera roll, not a photoshoot. Vertical ph
 
   </details>
 
-- **TikTok 真帧锁颗粒：参考只管光色，prompt 管叙事** — 裸写 prompt 容易 AI 塑料感——先从 TikTok 抠真实街拍/UGC 帧当参考，只借用灯光/色调/颗粒/相机感，再用详细 prompt 重画新场景。参考负责「真」，文案负责「演什么」。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2102096417388937684) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102096417388937684)
+- **TikTok 真帧锁颗粒：参考只管光色，prompt 管叙事** — 裸写 prompt 容易 AI 塑料感——先从 TikTok 抠真实街拍/UGC 帧当参考，只借用灯光/色调/颗粒/相机感，再用详细 prompt 重画新场景。参考负责「真」，文案负责「演什么」。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2102096417388937684) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102096417388937684&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7430,7 +7452,7 @@ Use the reference only for lighting, color, grain and camera feel. New scene: a 
 
   </details>
 
-- **蜜杏照春颜：古风富养美妆人像可返图** — 琥珀蜜杏玻璃妆 + 蜜杏襦/奶油裙/湖蓝披帛，春日妆阁窗光。古风美妆封面完整中文提示，欢迎返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102018446624227531) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102018446624227531)
+- **蜜杏照春颜：古风富养美妆人像可返图** — 琥珀蜜杏玻璃妆 + 蜜杏襦/奶油裙/湖蓝披帛，春日妆阁窗光。古风美妆封面完整中文提示，欢迎返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2102018446624227531) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102018446624227531&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7454,7 +7476,7 @@ Use the reference only for lighting, color, grain and camera feel. New scene: a 
 
   </details>
 
-- **便利店 1:13 AM：GINZA×Y2K 直闪 CCD 人像** — 日式生活方式社论 × 消费级数码机直闪 × 偶得构图。夜便利店棚灯+冰箱青光，时尚写真要「像翻到旧相机里的一张」。 [@exabell_](https://x.com/exabell_) · [原帖](https://x.com/exabell_/status/2101988836830244985) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101988836830244985)
+- **便利店 1:13 AM：GINZA×Y2K 直闪 CCD 人像** — 日式生活方式社论 × 消费级数码机直闪 × 偶得构图。夜便利店棚灯+冰箱青光，时尚写真要「像翻到旧相机里的一张」。 [@exabell_](https://x.com/exabell_) · [原帖](https://x.com/exabell_/status/2101988836830244985) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101988836830244985&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7501,7 +7523,7 @@ studio lighting, beauty campaign, luxury advertising, perfect symmetry, HDR, sma
 
   </details>
 
-- **海滩 AI UGC JSON：9:16 超写实自拍母版** — 伞下紫天幕、晒痕皮肤、铂金寸头、运动墨镜——完整 JSON 锁构图/肤质/纹身/光影。MakeUGC 向种草自拍直接丢。 [@georgesttock](https://x.com/georgesttock) · [原帖](https://x.com/georgesttock/status/2101974959807406501) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101974959807406501)
+- **海滩 AI UGC JSON：9:16 超写实自拍母版** — 伞下紫天幕、晒痕皮肤、铂金寸头、运动墨镜——完整 JSON 锁构图/肤质/纹身/光影。MakeUGC 向种草自拍直接丢。 [@georgesttock](https://x.com/georgesttock) · [原帖](https://x.com/georgesttock/status/2101974959807406501) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101974959807406501&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7606,7 +7628,7 @@ studio lighting, beauty campaign, luxury advertising, perfect symmetry, HDR, sma
 
   </details>
 
-- **极简圆镜立绘：侧身回眸一键返图** — 圆镜当几何锚点，新中式修身裙锁颈肩腰臀线；深皇家紫×淡金。立绘/品牌人设图可直接返图的中文结构化母版。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2101973626853728520) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101973626853728520)
+- **极简圆镜立绘：侧身回眸一键返图** — 圆镜当几何锚点，新中式修身裙锁颈肩腰臀线；深皇家紫×淡金。立绘/品牌人设图可直接返图的中文结构化母版。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2101973626853728520) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101973626853728520&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7629,7 +7651,7 @@ GPT Image 2.5生成极简人物插画。
 
   </details>
 
-- **3D 旋转轴微倾头：Roll/Pitch/Yaw 控姿态** — 「ごく僅か」靠感觉说不清？先定义画面里的 Roll/Pitch/Yaw 正负方向，再给 -5%～-25% 带宽。微倾头、侧脸精度比玄学形容词稳。 [@magu_ai_h](https://x.com/magu_ai_h) · [原帖](https://x.com/magu_ai_h/status/2101968864762630377) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101968864762630377)
+- **3D 旋转轴微倾头：Roll/Pitch/Yaw 控姿态** — 「ごく僅か」靠感觉说不清？先定义画面里的 Roll/Pitch/Yaw 正负方向，再给 -5%～-25% 带宽。微倾头、侧脸精度比玄学形容词稳。 [@magu_ai_h](https://x.com/magu_ai_h) · [原帖](https://x.com/magu_ai_h/status/2101968864762630377) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101968864762630377&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7656,7 +7678,7 @@ GPT Image 2.5生成极简人物插画。
 
   </details>
 
-- **晴空公路人像：完整中文写实提示词** — 9:16 乡间路侧半身：水手领白背心×低腰牛仔短裤，灰绿瞳+水红唇。日光漫反射与景深写得很满——中文人像直接可跑的长提示。 [@alanblogsooooo](https://x.com/alanblogsooooo) · [原帖](https://x.com/alanblogsooooo/status/2101953434736087476) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101953434736087476)
+- **晴空公路人像：完整中文写实提示词** — 9:16 乡间路侧半身：水手领白背心×低腰牛仔短裤，灰绿瞳+水红唇。日光漫反射与景深写得很满——中文人像直接可跑的长提示。 [@alanblogsooooo](https://x.com/alanblogsooooo) · [原帖](https://x.com/alanblogsooooo/status/2101953434736087476) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101953434736087476&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -7666,7 +7688,7 @@ GPT Image 2.5生成极简人物插画。
 
   </details>
 
-- **AI UGC JSON 超写实自拍复刻母版** — photorealistic_reference_reconstruction：按优先级锁构图→脸→姿势→发色妆造→光环境，顺手抹掉所有界面控件。种草自拍复刻直接丢 JSON。 [@jasonugc](https://x.com/jasonugc) · [原帖](https://x.com/jasonugc/status/2101933444376781043) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101933444376781043)
+- **AI UGC JSON 超写实自拍复刻母版** — photorealistic_reference_reconstruction：按优先级锁构图→脸→姿势→发色妆造→光环境，顺手抹掉所有界面控件。种草自拍复刻直接丢 JSON。 [@jasonugc](https://x.com/jasonugc) · [原帖](https://x.com/jasonugc/status/2101933444376781043) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101933444376781043&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8057,7 +8079,7 @@ GPT Image 2.5生成极简人物插画。
 
   </details>
 
-- **高定角色设定表：style bible 可填槽母版** — 上传一张风格参考当 style bible，吐出 16:9 高定角色概念表：竖排姓名元数据、迷你三视图+剪影、中心全身、动态姿势、材质局部放大。换角色名/ROLE/MOOD就能套——IP 资产表母版直接抄。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2101905822888677714) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101905822888677714)
+- **高定角色设定表：style bible 可填槽母版** — 上传一张风格参考当 style bible，吐出 16:9 高定角色概念表：竖排姓名元数据、迷你三视图+剪影、中心全身、动态姿势、材质局部放大。换角色名/ROLE/MOOD就能套——IP 资产表母版直接抄。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2101905822888677714) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101905822888677714&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8088,7 +8110,7 @@ Layout Composition (Organize strictly into these sections):
 
   </details>
 
-- **三视图换人→Minimax：四国换装竖视频管线** — Image 2.5 先出三视图+四国场景参考图换人，再叠黑白深度交给 Minimax H3——开场白棚到巴黎/罗马/开罗/悉尼连转换装。虚拟 IP 换装短片：脸锁死、衣服跟场景一起换，别只换背景。 [@HoodyLiu](https://x.com/HoodyLiu) · [原帖](https://x.com/HoodyLiu/status/2101904919540429295) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101904919540429295)
+- **三视图换人→Minimax：四国换装竖视频管线** — Image 2.5 先出三视图+四国场景参考图换人，再叠黑白深度交给 Minimax H3——开场白棚到巴黎/罗马/开罗/悉尼连转换装。虚拟 IP 换装短片：脸锁死、衣服跟场景一起换，别只换背景。 [@HoodyLiu](https://x.com/HoodyLiu) · [原帖](https://x.com/HoodyLiu/status/2101904919540429295) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101904919540429295&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8117,7 +8139,7 @@ Keep Rei's facial identity, natural body proportions, hair and bangs throughout.
 
   </details>
 
-- **偷拍模糊感：夜间人行道运动模糊公式** — 手持抖动、重影、过曝高光、不完美构图——故意拍坏的 UGC 美学，附负面提示防身份复刻。种草「假偷拍」一条中文公式够用。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2101902908178776196) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101902908178776196)
+- **偷拍模糊感：夜间人行道运动模糊公式** — 手持抖动、重影、过曝高光、不完美构图——故意拍坏的 UGC 美学，附负面提示防身份复刻。种草「假偷拍」一条中文公式够用。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2101902908178776196) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101902908178776196&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8129,7 +8151,7 @@ Keep Rei's facial identity, natural body proportions, hair and bangs throughout.
 
   </details>
 
-- **几乎遮脸仍锁身份：帽+墨镜+有线耳机时尚特写** — 正对特写：罗纹冷帽 + 大反光墨镜 + 白色有线耳机 + 高领羽绒服，五官几乎看不见还要保住参考人。测身份锁下限的好题——换绣标/外套就能出系列。 [@weiinberg](https://x.com/weiinberg) · [原帖](https://x.com/weiinberg/status/2101884475106021421) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101884475106021421)
+- **几乎遮脸仍锁身份：帽+墨镜+有线耳机时尚特写** — 正对特写：罗纹冷帽 + 大反光墨镜 + 白色有线耳机 + 高领羽绒服，五官几乎看不见还要保住参考人。测身份锁下限的好题——换绣标/外套就能出系列。 [@weiinberg](https://x.com/weiinberg) · [原帖](https://x.com/weiinberg/status/2101884475106021421) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101884475106021421&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8141,7 +8163,7 @@ A straight-on close-up shot features the woman in reference, almost entirely obs
 
   </details>
 
-- **Sunburst Y2K 街拍：身份锁 + 全新中步姿势** — 3:4 竖版：Keep identical 死锁发型/报童帽/豹纹星短袖/阔腿牛仔裤，COMPLETELY NEW POSE 只改中步回眸。直闪 + 早期数码颗粒——身份锁系列连更姿势的母版，优先 Sunburst。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2101878359282036998) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101878359282036998)
+- **Sunburst Y2K 街拍：身份锁 + 全新中步姿势** — 3:4 竖版：Keep identical 死锁发型/报童帽/豹纹星短袖/阔腿牛仔裤，COMPLETELY NEW POSE 只改中步回眸。直闪 + 早期数码颗粒——身份锁系列连更姿势的母版，优先 Sunburst。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2101878359282036998) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101878359282036998&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8159,7 +8181,7 @@ Direct on-camera flash photography creating a distinct realistic shadow of her b
 
   </details>
 
-- **AI UGC 镜像自拍：JSON 参考重建配方** — 整段 JSON 锁构图优先级：竖裁→体态→脸→发→手机位→衣装→暖卧室光。专门用于「参考自拍 → 清干净 UI 水印的超写实镜像自拍」——种草/UGC 批产可填槽母版。 [@neverfilmed](https://x.com/neverfilmed) · [原帖](https://x.com/neverfilmed/status/2101873764002595167) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101873764002595167)
+- **AI UGC 镜像自拍：JSON 参考重建配方** — 整段 JSON 锁构图优先级：竖裁→体态→脸→发→手机位→衣装→暖卧室光。专门用于「参考自拍 → 清干净 UI 水印的超写实镜像自拍」——种草/UGC 批产可填槽母版。 [@neverfilmed](https://x.com/neverfilmed) · [原帖](https://x.com/neverfilmed/status/2101873764002595167) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101873764002595167&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8201,7 +8223,7 @@ Direct on-camera flash photography creating a distinct realistic shadow of her b
 
   </details>
 
-- **若隐若现短公式：逆光剪影×前景透映×主体槽** — 一行通配：极简逆光剪影 × 暧昧克制 × 前景透映 × 【主体】。看不完整反而让人补全——神话/古风/影视/职业都能往槽里塞，短词出系列。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2101856621471396270) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101856621471396270)
+- **若隐若现短公式：逆光剪影×前景透映×主体槽** — 一行通配：极简逆光剪影 × 暧昧克制 × 前景透映 × 【主体】。看不完整反而让人补全——神话/古风/影视/职业都能往槽里塞，短词出系列。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2101856621471396270) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101856621471396270&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8215,7 +8237,7 @@ Direct on-camera flash photography creating a distinct realistic shadow of her b
 
   </details>
 
-- **一张自拍→AAA角色设定表：可填槽母版** — 上传一张自拍，吐出三视图全身 + 两张大特写的 AAA 角色设定表，脸还是你的。母版把 [OBJECT]/材质/色比做成填空槽——人、怪、道具都能套，角色资产流水线直接抄。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2101762733679296944) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101762733679296944)
+- **一张自拍→AAA角色设定表：可填槽母版** — 上传一张自拍，吐出三视图全身 + 两张大特写的 AAA 角色设定表，脸还是你的。母版把 [OBJECT]/材质/色比做成填空槽——人、怪、道具都能套，角色资产流水线直接抄。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2101762733679296944) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101762733679296944&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8227,7 +8249,7 @@ COMPOSITION — one single wide 16:9 image. Left 60%: front view, 90-degree side
 
   </details>
 
-- **古风贵女美妆：翠影流金结构化中文提示词** — 主题/身份/妆感/五官/发饰/服装/场景/镜头/画幅一条龙——翡翠绿明制袄对胭脂水光唇，杂志感近景不戏装。美妆种草竖版直接填槽返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2101694894813372638) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101694894813372638)
+- **古风贵女美妆：翠影流金结构化中文提示词** — 主题/身份/妆感/五官/发饰/服装/场景/镜头/画幅一条龙——翡翠绿明制袄对胭脂水光唇，杂志感近景不戏装。美妆种草竖版直接填槽返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2101694894813372638) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101694894813372638&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8247,7 +8269,7 @@ COMPOSITION — one single wide 16:9 image. Left 60%: front view, 90-degree side
 
   </details>
 
-- **GTA VI 双人角色圣经表→Seedance 短片** — Image 2.5 先出 Lucia & Jason 对半分屏角色圣经表（水彩色块 + 中置 Logo + 枪械英雄构图），再整表喂 Seedance 2.5 出动作短片。开放世界角色资产→成片一条链。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2101678764358762621) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101678764358762621)
+- **GTA VI 双人角色圣经表→Seedance 短片** — Image 2.5 先出 Lucia & Jason 对半分屏角色圣经表（水彩色块 + 中置 Logo + 枪械英雄构图），再整表喂 Seedance 2.5 出动作短片。开放世界角色资产→成片一条链。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2101678764358762621) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101678764358762621&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8271,7 +8293,7 @@ OVERALL: Clean white background, watercolor splashes per side, bold dramatic GTA
 
   </details>
 
-- **身份锁潜行喜剧：Image2.5+Seedance on Higgsfield** — 一张上传照死锁主角脸与衣装，再喂 Seedance 2.5 跑 30s 办公室潜行物理喜剧（HUD + 韩语对白）。CHARACTER LOCK 优先于剧情——短片管线里「别换脸」怎么写死，看这一帖。 [@oggii_0](https://x.com/oggii_0) · [原帖](https://x.com/oggii_0/status/2101592948148502928) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101592948148502928)
+- **身份锁潜行喜剧：Image2.5+Seedance on Higgsfield** — 一张上传照死锁主角脸与衣装，再喂 Seedance 2.5 跑 30s 办公室潜行物理喜剧（HUD + 韩语对白）。CHARACTER LOCK 优先于剧情——短片管线里「别换脸」怎么写死，看这一帖。 [@oggii_0](https://x.com/oggii_0) · [原帖](https://x.com/oggii_0/status/2101592948148502928) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101592948148502928&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8293,7 +8315,7 @@ Keep supporting characters completely distinct (faces, ages, bodies, outfits). O
 
   </details>
 
-- **写真→水彩墨线涂鸦：构图死锁风格重绘** — 上传参考锁构图/姿势/叙事，整图改成童趣水彩墨线速写：颤抖线压、克制色块、速写本留白。种草图变插画封面的可抄 must-stay 配方。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100943841427914827) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100943841427914827)
+- **写真→水彩墨线涂鸦：构图死锁风格重绘** — 上传参考锁构图/姿势/叙事，整图改成童趣水彩墨线速写：颤抖线压、克制色块、速写本留白。种草图变插画封面的可抄 must-stay 配方。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100943841427914827) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100943841427914827&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8313,9 +8335,9 @@ Avoid photorealism, excessive detail, heavy shadows, 3D rendering, glossy digita
 
   </details>
 
-- **Image 2.5 角色表 → Seedance 办公室潜行片** — 迟到上班做成潜行游戏：先用 GPT Image 2.5 定角色表，再 Seedance 多机位运动仍锁脸。角色一致性跨灯位/运镜的成片链路可抄。 [@VeoStudioEg](https://x.com/VeoStudioEg) · [原帖](https://x.com/VeoStudioEg/status/2100930165165478351) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100930165165478351)
+- **Image 2.5 角色表 → Seedance 办公室潜行片** — 迟到上班做成潜行游戏：先用 GPT Image 2.5 定角色表，再 Seedance 多机位运动仍锁脸。角色一致性跨灯位/运镜的成片链路可抄。 [@VeoStudioEg](https://x.com/VeoStudioEg) · [原帖](https://x.com/VeoStudioEg/status/2100930165165478351) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100930165165478351)
 
-- **身份锁 iPhone 露台 UGC：浴袍晨光完整 prompt** — 参考图 1:1 锁脸发色，iPhone 好友抓拍感 9:16：藤椅、白浴袍、晨雾花园。种草/生活方式竖版直接抄，别再假精修棚拍。 [@mehvishs25](https://x.com/mehvishs25) · [原帖](https://x.com/mehvishs25/status/2100929941147664748) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100929941147664748)
+- **身份锁 iPhone 露台 UGC：浴袍晨光完整 prompt** — 参考图 1:1 锁脸发色，iPhone 好友抓拍感 9:16：藤椅、白浴袍、晨雾花园。种草/生活方式竖版直接抄，别再假精修棚拍。 [@mehvishs25](https://x.com/mehvishs25) · [原帖](https://x.com/mehvishs25/status/2100929941147664748) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100929941147664748&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8331,7 +8353,7 @@ On the wicker side table: a glass teapot, a book, and a phone face-down. To the 
 
   </details>
 
-- **盛唐古典美人：国风超写实中文竖版提示词** — 夜色花亭、唐风广袖、金凤冠与海棠落瓣，冷青夜雾+暖金眼神光。明确成年东亚美人近景，国风人像 KV 中文 prompt 一次抄完。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100928200243363943) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100928200243363943)
+- **盛唐古典美人：国风超写实中文竖版提示词** — 夜色花亭、唐风广袖、金凤冠与海棠落瓣，冷青夜雾+暖金眼神光。明确成年东亚美人近景，国风人像 KV 中文 prompt 一次抄完。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100928200243363943) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100928200243363943&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8341,7 +8363,7 @@ On the wicker side table: a glass teapot, a book, and a phone face-down. To the 
 
   </details>
 
-- **真人 × 动漫壁画：室内生活方式完整 prompt** — 写实女生叠进红墨 anime gunslinger 墙绘，接触阴影与透视写死。真人遇二次元生活方式竖版可直接抄长 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100894615985648037) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100894615985648037)
+- **真人 × 动漫壁画：室内生活方式完整 prompt** — 写实女生叠进红墨 anime gunslinger 墙绘，接触阴影与透视写死。真人遇二次元生活方式竖版可直接抄长 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100894615985648037) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100894615985648037&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8367,7 +8389,7 @@ Negative prompt: distorted face, extra fingers, extra limbs, bad anatomy, duplic
 
   </details>
 
-- **真人与铅笔素描同框：墙上 2D 互动肖像** — 粉发真人举手「发生啥了」+ 同姿态石墨线稿画在白墙上、局部叠进真人。反差编导人像可抄，完整英文 prompt 在帖内。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2100881011760619670) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100881011760619670)
+- **真人与铅笔素描同框：墙上 2D 互动肖像** — 粉发真人举手「发生啥了」+ 同姿态石墨线稿画在白墙上、局部叠进真人。反差编导人像可抄，完整英文 prompt 在帖内。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2100881011760619670) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100881011760619670&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8385,7 +8407,7 @@ Minimal white studio background, soft natural lighting, subtle floor shadow, rea
 
   </details>
 
-- **自拍身份锁 + 手里捏黏土自己：渔港双版本** — primary identity reference 保脸，本人抱着同脸手工黏土玩偶站在日本渔港。UGC 锁脸又不无聊——「真人 + 纪念品自己」一套公式。 [@MrDasCreates](https://x.com/MrDasCreates) · [原帖](https://x.com/MrDasCreates/status/2100858381636624418) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100858381636624418)
+- **自拍身份锁 + 手里捏黏土自己：渔港双版本** — primary identity reference 保脸，本人抱着同脸手工黏土玩偶站在日本渔港。UGC 锁脸又不无聊——「真人 + 纪念品自己」一套公式。 [@MrDasCreates](https://x.com/MrDasCreates) · [原帖](https://x.com/MrDasCreates/status/2100858381636624418) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100858381636624418&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8401,7 +8423,7 @@ Use soft overcast morning light, high detail, natural skin texture, believable h
 
   </details>
 
-- **Cosplay 衣装按类可换：PROTECTED 哥特整套模板** — 外套/胸衣/短裙/腿甲/靴/手套/护颈——每件写成不可变身份，再只改穿法与层叠。MoodLock 换装系列继续发糖，完整长 prompt 在帖内。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100857652494692508) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100857652494692508)
+- **Cosplay 衣装按类可换：PROTECTED 哥特整套模板** — 外套/胸衣/短裙/腿甲/靴/手套/护颈——每件写成不可变身份，再只改穿法与层叠。MoodLock 换装系列继续发糖，完整长 prompt 在帖内。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100857652494692508) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100857652494692508&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8435,7 +8457,7 @@ Detachable collars / neck guards: A close-fitting blackened-metal gorget necklac
 
   </details>
 
-- **身份锁定时尚棚拍：STYLE / WARDROBE / POSE / LIGHTING** — 参考图锁脸锁体型，再拆 STYLE / WARDROBE / POSE / LIGHTING / CAMERA 分段写死。高定棚拍可抄完整英文 prompt，别让模特变成路人。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2100827183468237189) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100827183468237189)
+- **身份锁定时尚棚拍：STYLE / WARDROBE / POSE / LIGHTING** — 参考图锁脸锁体型，再拆 STYLE / WARDROBE / POSE / LIGHTING / CAMERA 分段写死。高定棚拍可抄完整英文 prompt，别让模特变成路人。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2100827183468237189) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100827183468237189&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8475,21 +8497,21 @@ The final image should look like a real photograph from a premium international 
 
   </details>
 
-- **韩系时尚双变体：同一身份两套 editorial** — 同一东亚女性身份锁死，出两张匹配的韩系高定写真变体；完整 SUBJECT/风格英文 prompt 可抄。系列时尚片别换脸。 [@AIwithWania](https://x.com/AIwithWania) · [原帖](https://x.com/AIwithWania/status/2100823515230531608) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100823515230531608)
+- **韩系时尚双变体：同一身份两套 editorial** — 同一东亚女性身份锁死，出两张匹配的韩系高定写真变体；完整 SUBJECT/风格英文 prompt 可抄。系列时尚片别换脸。 [@AIwithWania](https://x.com/AIwithWania) · [原帖](https://x.com/AIwithWania/status/2100823515230531608) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100823515230531608)
 
-- **玻璃肤双机位：低角度特写 + 平视侧脸** — 同一玻璃肤妆面，低角度特写与平视侧脸两套机位对照。妆造锁定、机位换汤不换药——美妆种草分镜可抄。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100817314837057912) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100817314837057912)
+- **玻璃肤双机位：低角度特写 + 平视侧脸** — 同一玻璃肤妆面，低角度特写与平视侧脸两套机位对照。妆造锁定、机位换汤不换药——美妆种草分镜可抄。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100817314837057912) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100817314837057912)
 
-- **中文两套可抄：棚拍人像 / 户外自然光** — 别再用「好看一点」糊弄人像——棚拍硬光与户外自然光两套中文提示词直接开抄，适合种草人像与虚拟 IP 试妆。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2100792989979447646) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100792989979447646)
+- **中文两套可抄：棚拍人像 / 户外自然光** — 别再用「好看一点」糊弄人像——棚拍硬光与户外自然光两套中文提示词直接开抄，适合种草人像与虚拟 IP 试妆。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2100792989979447646) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100792989979447646)
 
-- **金发角色 7 场景身份锁：参考表出片** — 一张已发布参考表钉死金发角色身份，跨 7 场景重跑仍是同一个人、换一张新照片。站内附完整 prompt，角色一致性教科书。 [@alosemhq](https://x.com/alosemhq) · [原帖](https://x.com/alosemhq/status/2100785778431611137) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100785778431611137)
+- **金发角色 7 场景身份锁：参考表出片** — 一张已发布参考表钉死金发角色身份，跨 7 场景重跑仍是同一个人、换一张新照片。站内附完整 prompt，角色一致性教科书。 [@alosemhq](https://x.com/alosemhq) · [原帖](https://x.com/alosemhq/status/2100785778431611137) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100785778431611137)
 
-- **头像→吉祥物连体衣：身份锁换装 prompt** — 把 avi 锁成唯一身份权威，再套进受角色设计启发的 mascot suit；脸型/眼色/比例写死。粉丝二创 / OC 周边出图模板。 [@NachtNovaAI](https://x.com/NachtNovaAI) · [原帖](https://x.com/NachtNovaAI/status/2100781932413952315) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100781932413952315)
+- **头像→吉祥物连体衣：身份锁换装 prompt** — 把 avi 锁成唯一身份权威，再套进受角色设计启发的 mascot suit；脸型/眼色/比例写死。粉丝二创 / OC 周边出图模板。 [@NachtNovaAI](https://x.com/NachtNovaAI) · [原帖](https://x.com/NachtNovaAI/status/2100781932413952315) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100781932413952315)
 
-- **Grok bot 手绘形象：贴帖链接 + 接 Codex 用 Image 2.5** — 把示范帖丢给自家 Grok bot，让它手绘 bot 形象；记得先接 Codex 才能走 Image 2.5。宠物试手也行——虚拟助手形象一条龙。 [@KinGao476942](https://x.com/KinGao476942) · [原帖](https://x.com/KinGao476942/status/2100776158329733480) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100776158329733480)
+- **Grok bot 手绘形象：贴帖链接 + 接 Codex 用 Image 2.5** — 把示范帖丢给自家 Grok bot，让它手绘 bot 形象；记得先接 Codex 才能走 Image 2.5。宠物试手也行——虚拟助手形象一条龙。 [@KinGao476942](https://x.com/KinGao476942) · [原帖](https://x.com/KinGao476942/status/2100776158329733480) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100776158329733480)
 
-- **数字人素材链：Image 2.5 出图 + Seedance/MiniMax 出视频** — 图用 GPT Image 2.5，视频用 Seedance 2.5 或 MiniMax X3——礼物触发独舞/捏脸表情可指定。直播数字人从静帧到运镜的现成拼法。 [@yhslgg](https://x.com/yhslgg) · [原帖](https://x.com/yhslgg/status/2100753294025261329) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100753294025261329)
+- **数字人素材链：Image 2.5 出图 + Seedance/MiniMax 出视频** — 图用 GPT Image 2.5，视频用 Seedance 2.5 或 MiniMax X3——礼物触发独舞/捏脸表情可指定。直播数字人从静帧到运镜的现成拼法。 [@yhslgg](https://x.com/yhslgg) · [原帖](https://x.com/yhslgg/status/2100753294025261329) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100753294025261329)
 
-- **耳环手镯可替换槽：PROTECTED 服饰配件模板** — 服装身份用 PROTECTED WARDROBE RULE 锁死，耳环/手镯当可换槽——加一对银环精致度直接爆。穿搭配件模块化可抄。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100727256129941733) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100727256129941733)
+- **耳环手镯可替换槽：PROTECTED 服饰配件模板** — 服装身份用 PROTECTED WARDROBE RULE 锁死，耳环/手镯当可换槽——加一对银环精致度直接爆。穿搭配件模块化可抄。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100727256129941733) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100727256129941733&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8526,7 +8548,7 @@ Earrings: A pair of large, slender silver-tone hoop earrings with smooth round-s
 
   </details>
 
-- **女游戏 influencer 2×2：可复用 influencer_frame 模板** — 把 SUBJECT/SETTING/TIME/RIG/PLATFORM/INTENT 写成函数——改 INPUT 其余推导。假装手机摄影（景深伪影、美颜差分）一次写死，UGC 种草网格可抄。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100581539008626771) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100581539008626771)
+- **女游戏 influencer 2×2：可复用 influencer_frame 模板** — 把 SUBJECT/SETTING/TIME/RIG/PLATFORM/INTENT 写成函数——改 INPUT 其余推导。假装手机摄影（景深伪影、美颜差分）一次写死，UGC 种草网格可抄。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2100581539008626771) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100581539008626771&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8536,7 +8558,7 @@ Earrings: A pair of large, slender silver-tone hoop earrings with smooth round-s
 
   </details>
 
-- **自拍→GTA6 开放世界角色：人脸身份锁前后对照** — 上传真人自拍，锁脸/身体/脏衣/疲惫表情，抽成犯罪开放世界插画角色。身份锁换皮一句话公式，附西语短 prompt。 [@gptzone_net](https://x.com/gptzone_net) · [原帖](https://x.com/gptzone_net/status/2100544372714741960) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100544372714741960)
+- **自拍→GTA6 开放世界角色：人脸身份锁前后对照** — 上传真人自拍，锁脸/身体/脏衣/疲惫表情，抽成犯罪开放世界插画角色。身份锁换皮一句话公式，附西语短 prompt。 [@gptzone_net](https://x.com/gptzone_net) · [原帖](https://x.com/gptzone_net/status/2100544372714741960) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100544372714741960&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8546,7 +8568,7 @@ Convierte a este hombre en un personaje ilustrado de un videojuego criminal de m
 
   </details>
 
-- **TARGET主图+REFERENCE身份锁：拼贴全格换脸** — 主图锁发型/服装/撕纸拼贴布局，参考图只迁脸。多格 scrapbook 身份替换公式写死，个人品牌拼贴改脸可抄。 [@warraich_Ai2](https://x.com/warraich_Ai2) · [原帖](https://x.com/warraich_Ai2/status/2100532000042140040) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100532000042140040)
+- **TARGET主图+REFERENCE身份锁：拼贴全格换脸** — 主图锁发型/服装/撕纸拼贴布局，参考图只迁脸。多格 scrapbook 身份替换公式写死，个人品牌拼贴改脸可抄。 [@warraich_Ai2](https://x.com/warraich_Ai2) · [原帖](https://x.com/warraich_Ai2/status/2100532000042140040) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100532000042140040&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8588,7 +8610,7 @@ The final result must look like the original TARGET IMAGE, with only the woman's
 
   </details>
 
-- **日间高光CCD滨水通勤：结构化中文生活照** — 水上巴士站 / 玻璃候船亭 / 蓝绿河面，珊瑚橘上衣 + 清亮 CCD 槽位全写死。liyue 系列又补一张滨水通勤，小红书生活方式直接返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100528879521980501) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100528879521980501)
+- **日间高光CCD滨水通勤：结构化中文生活照** — 水上巴士站 / 玻璃候船亭 / 蓝绿河面，珊瑚橘上衣 + 清亮 CCD 槽位全写死。liyue 系列又补一张滨水通勤，小红书生活方式直接返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100528879521980501) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100528879521980501&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8611,7 +8633,7 @@ The final result must look like the original TARGET IMAGE, with only the woman's
 
   </details>
 
-- **云端女友短标签：梦核 CCD 中文堆风格** — 「云端女友 × 漂浮城市 × 花瓣失重 × CCD彩色柔焦 × 盛夏天空梦核」——短标签堆风格，小红书式文案拆解直接能用。 [@chenlinspark](https://x.com/chenlinspark) · [原帖](https://x.com/chenlinspark/status/2100526173700653477) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100526173700653477)
+- **云端女友短标签：梦核 CCD 中文堆风格** — 「云端女友 × 漂浮城市 × 花瓣失重 × CCD彩色柔焦 × 盛夏天空梦核」——短标签堆风格，小红书式文案拆解直接能用。 [@chenlinspark](https://x.com/chenlinspark) · [原帖](https://x.com/chenlinspark/status/2100526173700653477) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100526173700653477&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8621,7 +8643,7 @@ The final result must look like the original TARGET IMAGE, with only the woman's
 
   </details>
 
-- **参照图→iPhone 实写真片感：写实跃迁短指令** — 日文作者用极短指令把参考图拉到「像手机随手拍」的自然写实。讲身份锁/实拍跃迁时拿来当开场 demo，附原帖日文 prompt。 [@sakisuta_](https://x.com/sakisuta_) · [原帖](https://x.com/sakisuta_/status/2100523713619992970) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100523713619992970)
+- **参照图→iPhone 实写真片感：写实跃迁短指令** — 日文作者用极短指令把参考图拉到「像手机随手拍」的自然写实。讲身份锁/实拍跃迁时拿来当开场 demo，附原帖日文 prompt。 [@sakisuta_](https://x.com/sakisuta_) · [原帖](https://x.com/sakisuta_/status/2100523713619992970) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100523713619992970&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8632,7 +8654,7 @@ iPhoneで撮影したようなリアルで自然な画像を作成する。
 
   </details>
 
-- **韩系超市货架UGC：跟拍博主完整英文prompt** — 日系超市货架前、轻度遮挡的狗仔角 + Leica 胶片质感；韩系 Instagram 博主站姿与视线写死。UGC / 货架场景人像可直接改道具，附完整英文短 prompt。 [@BubbleBrain](https://x.com/BubbleBrain) · [原帖](https://x.com/BubbleBrain/status/2100522993277657438) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100522993277657438)
+- **韩系超市货架UGC：跟拍博主完整英文prompt** — 日系超市货架前、轻度遮挡的狗仔角 + Leica 胶片质感；韩系 Instagram 博主站姿与视线写死。UGC / 货架场景人像可直接改道具，附完整英文短 prompt。 [@BubbleBrain](https://x.com/BubbleBrain) · [原帖](https://x.com/BubbleBrain/status/2100522993277657438) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100522993277657438&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8642,7 +8664,7 @@ A Korean Instagram female influencer, fair-skinned beauty with a refined oval fa
 
   </details>
 
-- **婚礼棚拍+奢品金冠徽章：上传照锁姿势配方** — 大理石楼梯白礼服西装 + 右下角金冠盾牌字母徽章。婚礼/个人品牌 editorial 一次出样，附完整英文 prompt。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2100497484472836181) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100497484472836181)
+- **婚礼棚拍+奢品金冠徽章：上传照锁姿势配方** — 大理石楼梯白礼服西装 + 右下角金冠盾牌字母徽章。婚礼/个人品牌 editorial 一次出样，附完整英文 prompt。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2100497484472836181) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100497484472836181&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8664,7 +8686,7 @@ Keep the composition clean, luxurious, and editorial with realistic skin texture
 
   </details>
 
-- **山茶花高定全身像：坐标构图中英结构化配方** — 把发顶/眼/腰/裙摆百分比写死，巨型粉白山茶花当光晕；正面高定不翻背影。时装 editorial 控形范本，附完整长 prompt。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2100494084700094611) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100494084700094611)
+- **山茶花高定全身像：坐标构图中英结构化配方** — 把发顶/眼/腰/裙摆百分比写死，巨型粉白山茶花当光晕；正面高定不翻背影。时装 editorial 控形范本，附完整长 prompt。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2100494084700094611) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100494084700094611&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8688,7 +8710,7 @@ Use an 85mm-equivalent lens at waist-to-chest camera height with generous distan
 
   </details>
 
-- **浮窗云中肖像：身份锁超现实 editorial** — 参考图锁脸妆发衣着，人从悬浮复古窗探入积云；4:5 超现实时尚大片模板。换自拍就能出人设海报，附完整身份锁英文 prompt。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2100479875836706871) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100479875836706871)
+- **浮窗云中肖像：身份锁超现实 editorial** — 参考图锁脸妆发衣着，人从悬浮复古窗探入积云；4:5 超现实时尚大片模板。换自拍就能出人设海报，附完整身份锁英文 prompt。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2100479875836706871) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100479875836706871&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8782,7 +8804,7 @@ unless present in the reference image.
 
   </details>
 
-- **清冷古风美妆特写：幽兰花影中文结构化配方** — 兰庭+黑木屏风+一枝兰，墨茶棕眼妆与冷玫瑰豆沙唇；9:16 极简贵女特写。美妆/古风人设竖版可直接返图，附完整中文分节 prompt。 [@AndyLau42](https://x.com/AndyLau42) · [原帖](https://x.com/AndyLau42/status/2100478461395538422) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100478461395538422)
+- **清冷古风美妆特写：幽兰花影中文结构化配方** — 兰庭+黑木屏风+一枝兰，墨茶棕眼妆与冷玫瑰豆沙唇；9:16 极简贵女特写。美妆/古风人设竖版可直接返图，附完整中文分节 prompt。 [@AndyLau42](https://x.com/AndyLau42) · [原帖](https://x.com/AndyLau42/status/2100478461395538422) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100478461395538422&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8802,7 +8824,7 @@ unless present in the reference image.
 
   </details>
 
-- **复古胶片时尚：麦田奔跑侧影完整 prompt** — 芥末黄衬衫+绯红 A 字裙跑过绿野，手捧红玫瑰；80–90s 胶片颗粒与红黄撞色一次写死。时尚种草/竖版成片可直接返图，附完整英文 prompt。 [@mehvishs25](https://x.com/mehvishs25) · [原帖](https://x.com/mehvishs25/status/2100474309764640921) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100474309764640921)
+- **复古胶片时尚：麦田奔跑侧影完整 prompt** — 芥末黄衬衫+绯红 A 字裙跑过绿野，手捧红玫瑰；80–90s 胶片颗粒与红黄撞色一次写死。时尚种草/竖版成片可直接返图，附完整英文 prompt。 [@mehvishs25](https://x.com/mehvishs25) · [原帖](https://x.com/mehvishs25/status/2100474309764640921) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100474309764640921&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8813,7 +8835,7 @@ The scene evokes the nostalgic look of 1980s–1990s analog film photography, fe
 
   </details>
 
-- **9:16 街拍时尚：涂鸦墙+粉发猫伴完整 prompt** — 粉发格子衫女孩靠涂鸦墙，脚边围巾猫，黄金时段长影；街拍/种草竖版成片配方一次抄完，附完整英文 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100457864431022513) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100457864431022513)
+- **9:16 街拍时尚：涂鸦墙+粉发猫伴完整 prompt** — 粉发格子衫女孩靠涂鸦墙，脚边围巾猫，黄金时段长影；街拍/种草竖版成片配方一次抄完，附完整英文 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2100457864431022513) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100457864431022513&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -8833,13 +8855,13 @@ Full-body composition, woman and cat completely visible, vertical framing, camer
 
   </details>
 
-- **穿搭解析 Skill → 8 组 prompt：字肤未翻车** — 扔一张造型照，Skill 拆出 8 组镜头；2.5 成片文字和皮肤没翻车。种草号要「拆穿搭」流水线，这条比单条 prompt 更像工厂。 [@alanblogsooooo](https://x.com/alanblogsooooo) · [原帖](https://x.com/alanblogsooooo/status/2100390529712193695) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100390529712193695)
+- **穿搭解析 Skill → 8 组 prompt：字肤未翻车** — 扔一张造型照，Skill 拆出 8 组镜头；2.5 成片文字和皮肤没翻车。种草号要「拆穿搭」流水线，这条比单条 prompt 更像工厂。 [@alanblogsooooo](https://x.com/alanblogsooooo) · [原帖](https://x.com/alanblogsooooo/status/2100390529712193695) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100390529712193695)
 
-- **Flare 超写实相册：空乘 / 夜城角色连拍** — GPT-Image-2.5 Flare × Minicut：同一角色跨机舱、夜雨、便利店连拍成「真人相册」。虚拟 IP 要生活感九宫格，先看这条一致性。 [@minicut_ai](https://x.com/minicut_ai) · [原帖](https://x.com/minicut_ai/status/2100383868138229962) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100383868138229962)
+- **Flare 超写实相册：空乘 / 夜城角色连拍** — GPT-Image-2.5 Flare × Minicut：同一角色跨机舱、夜雨、便利店连拍成「真人相册」。虚拟 IP 要生活感九宫格，先看这条一致性。 [@minicut_ai](https://x.com/minicut_ai) · [原帖](https://x.com/minicut_ai/status/2100383868138229962) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100383868138229962)
 
-- **Flare 出人 + PS 生成笔刷贴装饰** — 先用 Flare 出人物底图，再用 Photoshop 生成笔刷沿轨迹贴闪粉装饰。一发生成打不中的局部点缀，混合流省掉 prompt 抽卡。 [@wataco_ai](https://x.com/wataco_ai) · [原帖](https://x.com/wataco_ai/status/2100367756906660269) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100367756906660269)
+- **Flare 出人 + PS 生成笔刷贴装饰** — 先用 Flare 出人物底图，再用 Photoshop 生成笔刷沿轨迹贴闪粉装饰。一发生成打不中的局部点缀，混合流省掉 prompt 抽卡。 [@wataco_ai](https://x.com/wataco_ai) · [原帖](https://x.com/wataco_ai/status/2100367756906660269) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100367756906660269)
 
-- **真人照只把人变成黑白贴纸：局部编辑配方** — 场景保持写实摄影，人物改成黑白手绘 die-cut 贴纸；must-stay 背景写死。UGC/活动传播很好用，附完整分节 prompt。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2100316768795283577) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100316768795283577)
+- **真人照只把人变成黑白贴纸：局部编辑配方** — 场景保持写实摄影，人物改成黑白手绘 die-cut 贴纸；must-stay 背景写死。UGC/活动传播很好用，附完整分节 prompt。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2100316768795283577) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100316768795283577&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9009,7 +9031,7 @@ Nothing else is redesigned.
 
   </details>
 
-- **唐风宫廊读信：9:16 半身近景配方** — 杏粉襦裙 × 青灰披帛 × 薄绢书信，85mm/f1.8 写死光色。国风人像种草/短剧封面直接返工。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100205250825380199) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100205250825380199)
+- **唐风宫廊读信：9:16 半身近景配方** — 杏粉襦裙 × 青灰披帛 × 薄绢书信，85mm/f1.8 写死光色。国风人像种草/短剧封面直接返工。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2100205250825380199) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100205250825380199&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9019,7 +9041,7 @@ Nothing else is redesigned.
 
   </details>
 
-- **失败写真通用模版：任意场景×2×2** — 【任意场景】×【任意穿搭/主体】×竖版 2×2 错误照片。比单题材 case 更像内容工厂骨架，UGC/种草拼贴直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100184573376381181) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100184573376381181)
+- **失败写真通用模版：任意场景×2×2** — 【任意场景】×【任意穿搭/主体】×竖版 2×2 错误照片。比单题材 case 更像内容工厂骨架，UGC/种草拼贴直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100184573376381181) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100184573376381181&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9029,7 +9051,7 @@ Nothing else is redesigned.
 
   </details>
 
-- **换装不崩：PROTECTED WARDROBE 锁规则** — Images 2.5 + 分类换装 prompt，把剪裁/五金/图案写成不可变身份。虚拟模特换季最怕脸漂，这条把规则钉死。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100182700544213429) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100182700544213429)
+- **换装不崩：PROTECTED WARDROBE 锁规则** — Images 2.5 + 分类换装 prompt，把剪裁/五金/图案写成不可变身份。虚拟模特换季最怕脸漂，这条把规则钉死。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100182700544213429) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100182700544213429&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9078,7 +9100,7 @@ VIEW-CONDITIONAL BODY-SIDE MAP: front view — wearer-left is image-right and we
 
   </details>
 
-- **南方菜园失败写真 3×3：田园竖版短配方** — 南方农村菜园 × 田园风穿搭 × 竖版 3×3 失败照片。中文生活感 UGC 素材库继续挖金的一条具体 case。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100172521664573551) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100172521664573551)
+- **南方菜园失败写真 3×3：田园竖版短配方** — 南方农村菜园 × 田园风穿搭 × 竖版 3×3 失败照片。中文生活感 UGC 素材库继续挖金的一条具体 case。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100172521664573551) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100172521664573551&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9088,7 +9110,7 @@ VIEW-CONDITIONAL BODY-SIDE MAP: front view — wearer-left is image-right and we
 
   </details>
 
-- **一图四 pose 水彩拼贴：人脸锁完整 prompt** — 上传照片锁脸，白衬衫四姿态水彩拼贴 + 蓝橙渐变泼墨底。个人品牌 / 编辑肖像直接抄，身份锁公式换水彩皮。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2100164037896225226) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100164037896225226)
+- **一图四 pose 水彩拼贴：人脸锁完整 prompt** — 上传照片锁脸，白衬衫四姿态水彩拼贴 + 蓝橙渐变泼墨底。个人品牌 / 编辑肖像直接抄，身份锁公式换水彩皮。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2100164037896225226) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100164037896225226&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9118,7 +9140,7 @@ Aspect ratio: 3:4 portrait.
 
   </details>
 
-- **雷电将军乱入经典电影：短公式可复用** — 经典名场面 × 第三者雷电将军融入剧情 × 荒诞合理 × 失败照片 × 9:16。二次元闯三次元的短 prompt，玩梗短视频素材一秒开练。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100156601600782528) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100156601600782528)
+- **雷电将军乱入经典电影：短公式可复用** — 经典名场面 × 第三者雷电将军融入剧情 × 荒诞合理 × 失败照片 × 9:16。二次元闯三次元的短 prompt，玩梗短视频素材一秒开练。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100156601600782528) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100156601600782528&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9128,7 +9150,7 @@ Aspect ratio: 3:4 portrait.
 
   </details>
 
-- **超写实手机自拍：餐厅镜面 3:4 配方** — 自然波浪发 + 针织开衫 + 奶牛壳手机，竖版室内镜面自拍写死瑕疵与手部。素人 UGC / 身份锁起点。 [@Aqsahere_](https://x.com/Aqsahere_) · [原帖](https://x.com/Aqsahere_/status/2100150776488460476) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100150776488460476)
+- **超写实手机自拍：餐厅镜面 3:4 配方** — 自然波浪发 + 针织开衫 + 奶牛壳手机，竖版室内镜面自拍写死瑕疵与手部。素人 UGC / 身份锁起点。 [@Aqsahere_](https://x.com/Aqsahere_) · [原帖](https://x.com/Aqsahere_/status/2100150776488460476) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100150776488460476&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9143,7 +9165,7 @@ Authentic personal smartphone selfie, slightly imperfect framing, natural lens d
 
   </details>
 
-- **严重过曝 iPhone JK 自拍：短公式可抄** — 高光溢出 × 局部剪裁 × 五官细节消失 × 原相机自拍 × JK。UGC / 美妆「假拍真感」一条公式够用。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100148633966719009) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100148633966719009)
+- **严重过曝 iPhone JK 自拍：短公式可抄** — 高光溢出 × 局部剪裁 × 五官细节消失 × 原相机自拍 × JK。UGC / 美妆「假拍真感」一条公式够用。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100148633966719009) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100148633966719009&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9153,7 +9175,7 @@ Authentic personal smartphone selfie, slightly imperfect framing, natural lens d
 
   </details>
 
-- **素人翻车写真 3×3：一句失败美学** — 一句日文 prompt 出九宫格翻车写真：`素人の失敗写真の数々、3x3、9:16`。不完美真实感素材库很省事。 [@MingTian685474](https://x.com/MingTian685474) · [原帖](https://x.com/MingTian685474/status/2100138165164245153) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100138165164245153)
+- **素人翻车写真 3×3：一句失败美学** — 一句日文 prompt 出九宫格翻车写真：`素人の失敗写真の数々、3x3、9:16`。不完美真实感素材库很省事。 [@MingTian685474](https://x.com/MingTian685474) · [原帖](https://x.com/MingTian685474/status/2100138165164245153) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100138165164245153&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9163,7 +9185,7 @@ Authentic personal smartphone selfie, slightly imperfect framing, natural lens d
 
   </details>
 
-- **高光 CCD：镜面雕塑广场都市生活照** — 青柚 Polo + 奶油短裙，日间清亮 CCD 写死光线滤镜；镜面雕塑只当几何背景。UGC / 生活方式素材库可改场景。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100123514745536819) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100123514745536819)
+- **高光 CCD：镜面雕塑广场都市生活照** — 青柚 Polo + 奶油短裙，日间清亮 CCD 写死光线滤镜；镜面雕塑只当几何背景。UGC / 生活方式素材库可改场景。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2100123514745536819) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100123514745536819&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9186,7 +9208,7 @@ Authentic personal smartphone selfie, slightly imperfect framing, natural lens d
 
   </details>
 
-- **首尔咖啡馆身份锁 UGC：Image 2.5→视频** — 上传参考锁脸发装，DV 手持咖啡馆下午茶短片；完整分镜式 prompt 可抄。一人队「生活感种草」模板。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100109930921419055) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100109930921419055)
+- **首尔咖啡馆身份锁 UGC：Image 2.5→视频** — 上传参考锁脸发装，DV 手持咖啡馆下午茶短片；完整分镜式 prompt 可抄。一人队「生活感种草」模板。 [@MahnoorAi12](https://x.com/MahnoorAi12) · [原帖](https://x.com/MahnoorAi12/status/2100109930921419055) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100109930921419055&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9199,7 +9221,7 @@ Natural café ambience only — quiet murmur of other customers, cups clinking, 
 
   </details>
 
-- **当代肖像身份锁：杂志感四联保脸** — 上传参考图，保脸保发 + 极简棚拍杂志光。个人品牌 / 头像迭代直接返图，完整 portrait prompt。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2100102907639247145) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100102907639247145)
+- **当代肖像身份锁：杂志感四联保脸** — 上传参考图，保脸保发 + 极简棚拍杂志光。个人品牌 / 头像迭代直接返图，完整 portrait prompt。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2100102907639247145) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100102907639247145&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9209,7 +9231,7 @@ Create a contemporary portrait of the person in the attached reference image, pr
 
   </details>
 
-- **上传人脸锁身份：九宫格贴纸叙事** — 同一张脸贯穿九格表情贴纸，面部结构全板一致。UGC / 人设表情包：先锁身份再批姿态。 [@aniyaintel](https://x.com/aniyaintel) · [原帖](https://x.com/aniyaintel/status/2100091272895791296) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100091272895791296)
+- **上传人脸锁身份：九宫格贴纸叙事** — 同一张脸贯穿九格表情贴纸，面部结构全板一致。UGC / 人设表情包：先锁身份再批姿态。 [@aniyaintel](https://x.com/aniyaintel) · [原帖](https://x.com/aniyaintel/status/2100091272895791296) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100091272895791296&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9257,7 +9279,7 @@ Use cute hand-drawn doodles such as: hearts, stars, sparkles, clouds, question m
 
   </details>
 
-- **乘务员 3×3 UGC：九格同人手机抓拍** — 超写实智能手机拼贴九宫格，同一乘务员脸 / 制服 / 发型锁死。生活感广告素材的现成模板，完整 prompt 可抄。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2100071548145070438) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100071548145070438)
+- **乘务员 3×3 UGC：九格同人手机抓拍** — 超写实智能手机拼贴九宫格，同一乘务员脸 / 制服 / 发型锁死。生活感广告素材的现成模板，完整 prompt 可抄。 [@saniaspeaks_](https://x.com/saniaspeaks_) · [原帖](https://x.com/saniaspeaks_/status/2100071548145070438) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100071548145070438&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9293,7 +9315,7 @@ No polished studio look, no artificial beauty filter, no plastic skin, no CGI ap
 
   </details>
 
-- **实拍抽可替换服装 prompt 库（猎人风 cos）** — 先从原图抽衣装 prompt，再按类目换装；Images 2.5 跑猎人风 cos。虚拟 IP / UGC 换装资产库可复用。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100020747146342911) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100020747146342911)
+- **实拍抽可替换服装 prompt 库（猎人风 cos）** — 先从原图抽衣装 prompt，再按类目换装；Images 2.5 跑猎人风 cos。虚拟 IP / UGC 换装资产库可复用。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2100020747146342911) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100020747146342911&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9342,7 +9364,7 @@ Final worn state:
 
   </details>
 
-- **个人品牌四联棚拍：一图四种表情身份锁** — 上传脸锁身份，竖版一图塞全身 + 坐姿 + 笑脸 + 严肃特写。个人品牌 / 高管 editorial 一锅出。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2099973325779054806) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099973325779054806)
+- **个人品牌四联棚拍：一图四种表情身份锁** — 上传脸锁身份，竖版一图塞全身 + 坐姿 + 笑脸 + 严肃特写。个人品牌 / 高管 editorial 一锅出。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2099973325779054806) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099973325779054806&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9370,7 +9392,7 @@ Use cinematic studio lighting with soft highlights on the face and suit, control
 
   </details>
 
-- **烈日人像四发色：同一阳光感配方** — 银白 / 铜红 / 深棕 / 蜜金——硬自然光当主角，肤质与发丝写死。写真 / 时装 mood shot 换槽就能批。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099904698073616580) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099904698073616580)
+- **烈日人像四发色：同一阳光感配方** — 银白 / 铜红 / 深棕 / 蜜金——硬自然光当主角，肤质与发丝写死。写真 / 时装 mood shot 换槽就能批。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2099904698073616580) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099904698073616580&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9402,7 +9424,7 @@ Avoid: beauty-filter skin, perfect salon hair, flat soft lighting, studio lighti
 
   </details>
 
-- **中文海边 UGC 自拍：黄金时段写实配方** — 高开叉泳衣 + 黄金时段暖侧光 + 海浪礁石——写实摄影质感写全。中文市场生活方式素材比空喊 photoreal 好用；顺带踩到官网 vs 第三方 API 审核差。 [@shitunote](https://x.com/shitunote) · [原帖](https://x.com/shitunote/status/2099846900031852562) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099846900031852562)
+- **中文海边 UGC 自拍：黄金时段写实配方** — 高开叉泳衣 + 黄金时段暖侧光 + 海浪礁石——写实摄影质感写全。中文市场生活方式素材比空喊 photoreal 好用；顺带踩到官网 vs 第三方 API 审核差。 [@shitunote](https://x.com/shitunote) · [原帖](https://x.com/shitunote/status/2099846900031852562) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099846900031852562&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9412,7 +9434,7 @@ Avoid: beauty-filter skin, perfect salon hair, flat soft lighting, studio lighti
 
   </details>
 
-- **汉风夜亭人像：宫灯暖金×月光冷蓝** — 明艳古风女子斜倚夜亭软榻——团扇、凤冠、披帛与樱花全写死。国风竖版人像/封面结构化中文 prompt 可整段复用。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2099845483594404165) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099845483594404165)
+- **汉风夜亭人像：宫灯暖金×月光冷蓝** — 明艳古风女子斜倚夜亭软榻——团扇、凤冠、披帛与樱花全写死。国风竖版人像/封面结构化中文 prompt 可整段复用。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2099845483594404165) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099845483594404165&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9422,9 +9444,9 @@ Avoid: beauty-filter skin, perfect salon hair, flat soft lighting, studio lighti
 
   </details>
 
-- **个人图解/角色设定表：Images 2.5 复刻实测** — 把「个人图解」那套人设表丢给 Images 2.5 复刻——信息架构+角色格一次成型。做自我介绍卡 / IP 设定表可对标。 [@2ndHitsuji](https://x.com/2ndHitsuji) · [原帖](https://x.com/2ndHitsuji/status/2099843668572049873) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099843668572049873)
+- **个人图解/角色设定表：Images 2.5 复刻实测** — 把「个人图解」那套人设表丢给 Images 2.5 复刻——信息架构+角色格一次成型。做自我介绍卡 / IP 设定表可对标。 [@2ndHitsuji](https://x.com/2ndHitsuji) · [原帖](https://x.com/2ndHitsuji/status/2099843668572049873) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099843668572049873)
 
-- **表情参考锁：人脸表情一键搬到猫/角色** — 一句「把图二猫咪变成图一那样的表情」——人脸表情稳贴到动物/角色。UGC 表情包与品牌吉祥物改表情直接抄。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099832996216135874)
+- **表情参考锁：人脸表情一键搬到猫/角色** — 一句「把图二猫咪变成图一那样的表情」——人脸表情稳贴到动物/角色。UGC 表情包与品牌吉祥物改表情直接抄。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099832996216135874&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9434,7 +9456,7 @@ Avoid: beauty-filter skin, perfect salon hair, flat soft lighting, studio lighti
 
   </details>
 
-- **盛夏记忆感生活照：湿发×CCD×高亮逆光** — 海边盛夏 × 湿发抓拍 × CCD 柔焦 × 近距离互动 × 高亮逆光——社媒生活方式素材一句话出片。 [@chenlinspark](https://x.com/chenlinspark) · [原帖](https://x.com/chenlinspark/status/2099826059982295326) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099826059982295326)
+- **盛夏记忆感生活照：湿发×CCD×高亮逆光** — 海边盛夏 × 湿发抓拍 × CCD 柔焦 × 近距离互动 × 高亮逆光——社媒生活方式素材一句话出片。 [@chenlinspark](https://x.com/chenlinspark) · [原帖](https://x.com/chenlinspark/status/2099826059982295326) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099826059982295326&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9444,9 +9466,9 @@ Avoid: beauty-filter skin, perfect salon hair, flat soft lighting, studio lighti
 
   </details>
 
-- **WoW 元帅铠甲角色表：Astra×Sunburst×Seedance** — 先用 Astra 拆 Forever 预告，再 Sunburst 出自己穿 Field Marshal 铠甲的角色表，Seedance 接成片。游戏 IP 自插角色管线可抄。 [@maxescu](https://x.com/maxescu) · [原帖](https://x.com/maxescu/status/2099809695972110560) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099809695972110560)
+- **WoW 元帅铠甲角色表：Astra×Sunburst×Seedance** — 先用 Astra 拆 Forever 预告，再 Sunburst 出自己穿 Field Marshal 铠甲的角色表，Seedance 接成片。游戏 IP 自插角色管线可抄。 [@maxescu](https://x.com/maxescu) · [原帖](https://x.com/maxescu/status/2099809695972110560) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099809695972110560)
 
-- **Flare 9:16 4K Max：东亚瓷肤近景人像** — 青蓝侧光+纯黑底+双手托脸珠宝细节。Flare Max 竖版美妆/种草 KV 直接复用整段。 [@woleswoosh](https://x.com/woleswoosh) · [原帖](https://x.com/woleswoosh/status/2099743767951737090) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099743767951737090)
+- **Flare 9:16 4K Max：东亚瓷肤近景人像** — 青蓝侧光+纯黑底+双手托脸珠宝细节。Flare Max 竖版美妆/种草 KV 直接复用整段。 [@woleswoosh](https://x.com/woleswoosh) · [原帖](https://x.com/woleswoosh/status/2099743767951737090) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099743767951737090&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9460,7 +9482,7 @@ She is wearing a light cream or off-white spaghetti-strap top with a soft, silky
 
   </details>
 
-- **奶凶女友槽位：粉芭蕾裙×机车靴×叉腰** — 一行中文槽位出「奶凶」反差人设。穿搭广告 / 角色 UGC 换裙子靴子场景就能连更。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099721592582656282) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099721592582656282)
+- **奶凶女友槽位：粉芭蕾裙×机车靴×叉腰** — 一行中文槽位出「奶凶」反差人设。穿搭广告 / 角色 UGC 换裙子靴子场景就能连更。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099721592582656282) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099721592582656282&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9470,7 +9492,7 @@ She is wearing a light cream or off-white spaghetti-strap top with a soft, silky
 
   </details>
 
-- **时尚角色设定表：16:9 锁风格参考成片** — 高定角色 concept sheet：元数据+三视图+主姿+动态姿+细节格。IP 圣经 / 时尚角色提案直接抄布局。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2099712708908319052) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099712708908319052)
+- **时尚角色设定表：16:9 锁风格参考成片** — 高定角色 concept sheet：元数据+三视图+主姿+动态姿+细节格。IP 圣经 / 时尚角色提案直接抄布局。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2099712708908319052) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099712708908319052&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9495,7 +9517,7 @@ Layout Composition:
 
   </details>
 
-- **3×3 失败写真×KPOP 日常：短 prompt 出网格** — 竖版 3×3、略带私密角度的「翻车日常」网格，一行中文就够。UGC/App 广告比精修模特更像用户内容。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2099687551724626013) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099687551724626013)
+- **3×3 失败写真×KPOP 日常：短 prompt 出网格** — 竖版 3×3、略带私密角度的「翻车日常」网格，一行中文就够。UGC/App 广告比精修模特更像用户内容。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2099687551724626013) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099687551724626013&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9505,7 +9527,7 @@ Layout Composition:
 
   </details>
 
-- **玛奇玛×广州游：iPhone 相册截图迭代版** — 改提示词后相册 UI 更稳：角色×城市游×iOS 相册假截图。角色 IP 做「随手拍相册」广告的短公式。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099684732950958440) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099684732950958440)
+- **玛奇玛×广州游：iPhone 相册截图迭代版** — 改提示词后相册 UI 更稳：角色×城市游×iOS 相册假截图。角色 IP 做「随手拍相册」广告的短公式。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099684732950958440) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099684732950958440&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9515,7 +9537,7 @@ Layout Composition:
 
   </details>
 
-- **巨型玻璃球球面折射人像（短配方）** — 卡哇伊女友 × 巨型玻璃球视角 × 球面折射 × 浅景深微距。物理对不对先别管——种草大片光学感一把梭。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099672233572745336) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099672233572745336)
+- **巨型玻璃球球面折射人像（短配方）** — 卡哇伊女友 × 巨型玻璃球视角 × 球面折射 × 浅景深微距。物理对不对先别管——种草大片光学感一把梭。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099672233572745336) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099672233572745336&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9525,7 +9547,7 @@ Layout Composition:
 
   </details>
 
-- **行星级汉服巨人：超尺度槽位通用模版** — 人物身份 × 超尺度 × 动作主体 × emoji 手势 × 特殊相机 × 背景。病毒感角色/产品广告直接套槽。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099508984541769771) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099508984541769771)
+- **行星级汉服巨人：超尺度槽位通用模版** — 人物身份 × 超尺度 × 动作主体 × emoji 手势 × 特殊相机 × 背景。病毒感角色/产品广告直接套槽。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099508984541769771) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099508984541769771&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9538,15 +9560,15 @@ Layout Composition:
 
   </details>
 
-- **写实 AI UGC：一 prompt 拉满素人感** — Image 2.5 素人广告素材钩子——改产品/场景就能测投放。轻团队快速出 UGC 变体用这条。 [@simonecanciello](https://x.com/simonecanciello) · [原帖](https://x.com/simonecanciello/status/2099503950714065269) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099503950714065269)
+- **写实 AI UGC：一 prompt 拉满素人感** — Image 2.5 素人广告素材钩子——改产品/场景就能测投放。轻团队快速出 UGC 变体用这条。 [@simonecanciello](https://x.com/simonecanciello) · [原帖](https://x.com/simonecanciello/status/2099503950714065269) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099503950714065269)
 
-- **高光 CCD 未来都市生活照：分段中文 prompt** — 光伏顶棚步道 + 杏橙针织 + 冷白短裙，日间清亮高光 CCD 写死光线滤镜。小红书 / UGC 都市人像直接返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099498799786074400) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099498799786074400)
+- **高光 CCD 未来都市生活照：分段中文 prompt** — 光伏顶棚步道 + 杏橙针织 + 冷白短裙，日间清亮高光 CCD 写死光线滤镜。小红书 / UGC 都市人像直接返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099498799786074400) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099498799786074400)
 
-- **素人照 → 超现实漫画街拍：身份锁长 prompt** — 参考图锁脸体，24–28mm 居中全身 + 环境嵌入 2D doodle，人不变卡通。人设海报 / 社媒 campaign 整段可复制。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2099498417084940418) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099498417084940418)
+- **素人照 → 超现实漫画街拍：身份锁长 prompt** — 参考图锁脸体，24–28mm 居中全身 + 环境嵌入 2D doodle，人不变卡通。人设海报 / 社媒 campaign 整段可复制。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2099498417084940418) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099498417084940418)
 
-- **任意参考图 → 一整天 iPhone 相机卷** — 一张图扩成「刷了一天相机胶卷」的多拍感，主体锁死；prompt 在 thread。UGC 假日常 / 种草连更模板。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2099479395283214473) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099479395283214473)
+- **任意参考图 → 一整天 iPhone 相机卷** — 一张图扩成「刷了一天相机胶卷」的多拍感，主体锁死；prompt 在 thread。UGC 假日常 / 种草连更模板。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2099479395283214473) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099479395283214473)
 
-- **Chef & Cat 双人角色圣经表（严格 ref 锁脸）** — Split-screen 设定表：上传 sheets 死守脸与造型，联名 IP / 角色资产封面可复用。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2099460145449185433) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099460145449185433)
+- **Chef & Cat 双人角色圣经表（严格 ref 锁脸）** — Split-screen 设定表：上传 sheets 死守脸与造型，联名 IP / 角色资产封面可复用。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2099460145449185433) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099460145449185433&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9568,7 +9590,7 @@ OVERALL: Clean white background, white watercolor left side, warm orange waterco
 
   </details>
 
-- **嫦娥×前置误触：假失败中秋写真** — 关键词串：iPhone 前置误触×曝光错误×虚焦拖影×中秋裁切。故意「拍坏」的节日人像，UGC 反精致风可直接套角色。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099451908381692387) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099451908381692387)
+- **嫦娥×前置误触：假失败中秋写真** — 关键词串：iPhone 前置误触×曝光错误×虚焦拖影×中秋裁切。故意「拍坏」的节日人像，UGC 反精致风可直接套角色。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099451908381692387) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099451908381692387&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9578,7 +9600,7 @@ OVERALL: Clean white background, white watercolor left side, warm orange waterco
 
   </details>
 
-- **素人翻车日常：Sunburst 3×3 / 9:16** — 『素人の日常の失敗写真』网格——真实糟糕但可爱的手机感。App/生活方式广告比精修模特更像用户。 [@darkgaldoggo](https://x.com/darkgaldoggo) · [原帖](https://x.com/darkgaldoggo/status/2099447111414845520) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099447111414845520)
+- **素人翻车日常：Sunburst 3×3 / 9:16** — 『素人の日常の失敗写真』网格——真实糟糕但可爱的手机感。App/生活方式广告比精修模特更像用户。 [@darkgaldoggo](https://x.com/darkgaldoggo) · [原帖](https://x.com/darkgaldoggo/status/2099447111414845520) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099447111414845520&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9588,7 +9610,7 @@ OVERALL: Clean white background, white watercolor left side, warm orange waterco
 
   </details>
 
-- **角色 ref 破格一句话：逼 2.5 输出「平时绝对不出」的图** — 锁自己角色参照后丢这句日文，角色会「叛逆」出非常规构图。人设表之后想要惊喜帧，就靠这一刀。 [@sentakusound](https://x.com/sentakusound) · [原帖](https://x.com/sentakusound/status/2099435461861327229) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099435461861327229)
+- **角色 ref 破格一句话：逼 2.5 输出「平时绝对不出」的图** — 锁自己角色参照后丢这句日文，角色会「叛逆」出非常规构图。人设表之后想要惊喜帧，就靠这一刀。 [@sentakusound](https://x.com/sentakusound) · [原帖](https://x.com/sentakusound/status/2099435461861327229) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099435461861327229&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9598,7 +9620,7 @@ OVERALL: Clean white background, white watercolor left side, warm orange waterco
 
   </details>
 
-- **北欧奢侈 editorial：冰灰大衣+visor 眼镜完整 prompt** — 输入照片一键北欧奢牌大片：冰蓝灰渐变、硬边轮廓光、105mm 压缩。男装投放 / 品牌 KV 直接抄。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2099425863200920002) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099425863200920002)
+- **北欧奢侈 editorial：冰灰大衣+visor 眼镜完整 prompt** — 输入照片一键北欧奢牌大片：冰蓝灰渐变、硬边轮廓光、105mm 压缩。男装投放 / 品牌 KV 直接抄。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2099425863200920002) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099425863200920002&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9608,7 +9630,7 @@ ULTRA-REALISTIC STUDIO EDITORIAL PORTRAIT FROM INPUT PHOTO. VIBE: Scandinavian l
 
   </details>
 
-- **写实生活照配方：伸手拉你起床的 9:16** — 周末赖床亲密互动分段中文 prompt：手伸向镜头制造「你就在对面」。UGC / 情感向人像模板可直接改场景。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099408990228914449) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099408990228914449)
+- **写实生活照配方：伸手拉你起床的 9:16** — 周末赖床亲密互动分段中文 prompt：手伸向镜头制造「你就在对面」。UGC / 情感向人像模板可直接改场景。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2099408990228914449) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099408990228914449&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9626,9 +9648,9 @@ ULTRA-REALISTIC STUDIO EDITORIAL PORTRAIT FROM INPUT PHOTO. VIBE: Scandinavian l
 
   </details>
 
-- **攻壳草薙素子：一年后再测 Images 2.5** — Zho 把素子拉回赛博写实。角色锁定 + 材质光感的回归测，国风/二次元 IP 人设出片可对标这档质感。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2099365177938575853) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099365177938575853)
+- **攻壳草薙素子：一年后再测 Images 2.5** — Zho 把素子拉回赛博写实。角色锁定 + 材质光感的回归测，国风/二次元 IP 人设出片可对标这档质感。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2099365177938575853) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099365177938575853)
 
-- **钴蓝棚拍街潮男装：奢华 campaign 完整 prompt** — 深蓝针织+烟色透明框眼镜+无缝钴蓝背景，手部与织物约束写死。男装电商主图 / 投放素材可直接用。 [@john_my07](https://x.com/john_my07) · [原帖](https://x.com/john_my07/status/2099357576484069651) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099357576484069651)
+- **钴蓝棚拍街潮男装：奢华 campaign 完整 prompt** — 深蓝针织+烟色透明框眼镜+无缝钴蓝背景，手部与织物约束写死。男装电商主图 / 投放素材可直接用。 [@john_my07](https://x.com/john_my07) · [原帖](https://x.com/john_my07/status/2099357576484069651) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099357576484069651&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9665,7 +9687,7 @@ The final image must look like a genuine professional photograph captured in a c
 
   </details>
 
-- **参考图一发四张定妆照：同人四造型一致性** — 一张参考图锁脸+泪痣，一次出 Cyber Grunge / Quiet Luxury / Sporty Siren / Butterfly Core 四套。人设测一致性直接抄。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2099331412444713025) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099331412444713025)
+- **参考图一发四张定妆照：同人四造型一致性** — 一张参考图锁脸+泪痣，一次出 Cyber Grunge / Quiet Luxury / Sporty Siren / Butterfly Core 四套。人设测一致性直接抄。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2099331412444713025) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099331412444713025&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9692,7 +9714,7 @@ The final image must look like a genuine professional photograph captured in a c
 
   </details>
 
-- **女儿国国王：千禧年非主流公式一键出片** — 「千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王」——中文 emoji 公式党再下一城，热点人设直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099303054797606998) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099303054797606998)
+- **女儿国国王：千禧年非主流公式一键出片** — 「千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王」——中文 emoji 公式党再下一城，热点人设直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099303054797606998) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099303054797606998&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9702,7 +9724,7 @@ The final image must look like a genuine professional photograph captured in a c
 
   </details>
 
-- **角色连续夜间手机快照：身份锁 + 直闪抓拍** — 同一角色东京雨后夜街系列：后三四分、直闪过曝、走路半步——专治「写真感太假」。UGC / 旅行人设连更可抄整段 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2098413109258207670) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098413109258207670)
+- **角色连续夜间手机快照：身份锁 + 直闪抓拍** — 同一角色东京雨后夜街系列：后三四分、直闪过曝、走路半步——专治「写真感太假」。UGC / 旅行人设连更可抄整段 prompt。 [@frametheory058](https://x.com/frametheory058) · [原帖](https://x.com/frametheory058/status/2098413109258207670) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098413109258207670&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9741,7 +9763,7 @@ The final result should feel like an unexpectedly beautiful photo hidden among 3
 
   </details>
 
-- **角色设定表身份锁：turnaround + 表情全套 prompt** — 参考图一锁到底：正侧背、表情格、材质色板、比例尺。IP / 游戏人设交付文档级提示词，整段可复制。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2098373493662392732) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098373493662392732)
+- **角色设定表身份锁：turnaround + 表情全套 prompt** — 参考图一锁到底：正侧背、表情格、材质色板、比例尺。IP / 游戏人设交付文档级提示词，整段可复制。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2098373493662392732) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098373493662392732&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9751,7 +9773,7 @@ Create a premium professional character design reference sheet / production mode
 
   </details>
 
-- **军训季 Editorial：iPhone 自拍公式一键出片** — 「休憩逸趣 × Editorial × 原相机自拍 × 女大学生 × emoji」——季节热点人设公式，小红书军训季直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098360855939469443) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098360855939469443)
+- **军训季 Editorial：iPhone 自拍公式一键出片** — 「休憩逸趣 × Editorial × 原相机自拍 × 女大学生 × emoji」——季节热点人设公式，小红书军训季直接套。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098360855939469443) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098360855939469443&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9761,7 +9783,7 @@ Create a premium professional character design reference sheet / production mode
 
   </details>
 
-- **毕业季影棚写真：2026 灯牌 + 金纸屑** — 三件套西装 × 礼帽 × 头顶光锥，竖版 9:16 现成可卖。留学 / 毕业季广告素材库补这一条就够。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2098357739814560247) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098357739814560247)
+- **毕业季影棚写真：2026 灯牌 + 金纸屑** — 三件套西装 × 礼帽 × 头顶光锥，竖版 9:16 现成可卖。留学 / 毕业季广告素材库补这一条就够。 [@abs_uiux](https://x.com/abs_uiux) · [原帖](https://x.com/abs_uiux/status/2098357739814560247) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098357739814560247&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9781,7 +9803,7 @@ Style: luxury graduation editorial photography, premium studio portrait, cinemat
 
   </details>
 
-- **UGC 起步图 30 秒修好：Pinterest 构图 → 反推 prompt** — 起步静帧糊，后面 Seedance 全完。Pinterest 偷构图机位，/detailed-image-2-text-prompt 反推再改人设。营销向 AI UGC 的地基课。 [@ViralOps_](https://x.com/ViralOps_) · [原帖](https://x.com/ViralOps_/status/2098329951967510937) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098329951967510937)
+- **UGC 起步图 30 秒修好：Pinterest 构图 → 反推 prompt** — 起步静帧糊，后面 Seedance 全完。Pinterest 偷构图机位，/detailed-image-2-text-prompt 反推再改人设。营销向 AI UGC 的地基课。 [@ViralOps_](https://x.com/ViralOps_) · [原帖](https://x.com/ViralOps_/status/2098329951967510937) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098329951967510937&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9797,7 +9819,7 @@ Workflow:
 
   </details>
 
-- **80s 复古肖像拼贴：文化区锁脸六到八姿** — 参考脸推断文化区，一次出 6–8 姿复古杂志拼贴，身份锁写死。人设海报战役图，长 prompt 齐活。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2098323157610582344) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098323157610582344)
+- **80s 复古肖像拼贴：文化区锁脸六到八姿** — 参考脸推断文化区，一次出 6–8 姿复古杂志拼贴，身份锁写死。人设海报战役图，长 prompt 齐活。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2098323157610582344) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098323157610582344&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9827,7 +9849,7 @@ Output one single vertical portrait-orientation image with all poses in it, no t
 
   </details>
 
-- **90s 日杂 CCD 试衣间：高光溢散配方** — 9:16 竖版、柔光 CCD、腮红/锁骨高光 bloom。低对比奶油灰 + 细颗粒，日杂试衣间感可抄长 prompt。 [@BubbleBrain](https://x.com/BubbleBrain) · [原帖](https://x.com/BubbleBrain/status/2098315158997307550) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098315158997307550)
+- **90s 日杂 CCD 试衣间：高光溢散配方** — 9:16 竖版、柔光 CCD、腮红/锁骨高光 bloom。低对比奶油灰 + 细颗粒，日杂试衣间感可抄长 prompt。 [@BubbleBrain](https://x.com/BubbleBrain) · [原帖](https://x.com/BubbleBrain/status/2098315158997307550) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098315158997307550&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9845,7 +9867,7 @@ Avoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light,
 
   </details>
 
-- **秦淮八艳群像：CCD 直闪 + 八人各具情态** — Sunburst 中文短 prompt：脂香绮艳、顾盼生春、八美合照。古风/国风营销测群像一致性，直接抄这串。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098314775344394279) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098314775344394279)
+- **秦淮八艳群像：CCD 直闪 + 八人各具情态** — Sunburst 中文短 prompt：脂香绮艳、顾盼生春、八美合照。古风/国风营销测群像一致性，直接抄这串。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098314775344394279) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098314775344394279&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9855,9 +9877,9 @@ Avoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light,
 
   </details>
 
-- **一个角色，25+ 世界观：宇宙级一致性复用** — 同一角色横扫吉卜力 / 热血番 / 乐高 / 赛博朋克 / 写实电影……身份不散、视觉语言全换。角色 → 分镜 → 海报 → 短视频，一套人设吃完整条内容链。 [@MonetizationDon](https://x.com/MonetizationDon) · [原帖](https://x.com/MonetizationDon/status/2098297370291134547) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098297370291134547)
+- **一个角色，25+ 世界观：宇宙级一致性复用** — 同一角色横扫吉卜力 / 热血番 / 乐高 / 赛博朋克 / 写实电影……身份不散、视觉语言全换。角色 → 分镜 → 海报 → 短视频，一套人设吃完整条内容链。 [@MonetizationDon](https://x.com/MonetizationDon) · [原帖](https://x.com/MonetizationDon/status/2098297370291134547) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098297370291134547)
 
-- **Sunburst 黑白编辑肖像：脸锁 + 杂志光** — 参考图进 Sunburst，高反差棚拍黑白、细颗粒、极简背景。身份锁写死，杂志感人像直接抄。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2098290962556727377) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098290962556727377)
+- **Sunburst 黑白编辑肖像：脸锁 + 杂志光** — 参考图进 Sunburst，高反差棚拍黑白、细颗粒、极简背景。身份锁写死，杂志感人像直接抄。 [@shushant_l](https://x.com/shushant_l) · [原帖](https://x.com/shushant_l/status/2098290962556727377) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098290962556727377&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9867,7 +9889,7 @@ Create a striking black-and-white editorial portrait of the person in the attach
 
   </details>
 
-- **中文 iPhone 随手拍：网球日常 prompt** — 「像男朋友用 iPhone 随手拍」——随机动作、距离、瞬间，UGC 写真感直接抄。中文短 prompt 也能出片。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098277846250922232) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098277846250922232)
+- **中文 iPhone 随手拍：网球日常 prompt** — 「像男朋友用 iPhone 随手拍」——随机动作、距离、瞬间，UGC 写真感直接抄。中文短 prompt 也能出片。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098277846250922232) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098277846250922232&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9877,9 +9899,9 @@ Create a striking black-and-white editorial portrait of the person in the attach
 
   </details>
 
-- **旧人设表用 Sunburst 一刷新：同物种两角色** — 将近一年前的 OC sheet 丢进 Sunburst 升级画质，同物种两角色仍锁设定。老资产翻新别重画，先过 2.5。 [@Jenny_MommaLion](https://x.com/Jenny_MommaLion) · [原帖](https://x.com/Jenny_MommaLion/status/2098276640451420223) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098276640451420223)
+- **旧人设表用 Sunburst 一刷新：同物种两角色** — 将近一年前的 OC sheet 丢进 Sunburst 升级画质，同物种两角色仍锁设定。老资产翻新别重画，先过 2.5。 [@Jenny_MommaLion](https://x.com/Jenny_MommaLion) · [原帖](https://x.com/Jenny_MommaLion/status/2098276640451420223) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098276640451420223)
 
-- **80s 宝莱坞时尚参考图：锁构图出片** — 上传参考当严格构图指南，复古钨丝灯 + 胶片颗粒。时尚/人设参考图可抄；must-keep 写得很死。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2098267933659300039) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098267933659300039)
+- **80s 宝莱坞时尚参考图：锁构图出片** — 上传参考当严格构图指南，复古钨丝灯 + 胶片颗粒。时尚/人设参考图可抄；must-keep 写得很死。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2098267933659300039) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098267933659300039&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9895,7 +9917,7 @@ Photorealistic, sophisticated, nostalgic, intimate and editorial. Preserve the r
 
   </details>
 
-- **纽约地铁 UGC：折叠屏手写金句生活照** — 乱发、复古圆镜、耳机电车 candid；屏上金句可换。一人团队做「真实感」广告图直接改场景复用。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2098252670385676491) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098252670385676491)
+- **纽约地铁 UGC：折叠屏手写金句生活照** — 乱发、复古圆镜、耳机电车 candid；屏上金句可换。一人团队做「真实感」广告图直接改场景复用。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2098252670385676491) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098252670385676491&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9940,7 +9962,7 @@ Composition: vertical 4:5, medium-full body framing, woman centered slightly tow
 
   </details>
 
-- **漫画气泡表情：心声盖住对方台词** — 方气泡盖住对方台词、咬住气泡的凶妹等叙事梗；画幅 4:5 写死。玩信息差比纯美图更有用。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2098251497385721990) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098251497385721990)
+- **漫画气泡表情：心声盖住对方台词** — 方气泡盖住对方台词、咬住气泡的凶妹等叙事梗；画幅 4:5 写死。玩信息差比纯美图更有用。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2098251497385721990) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098251497385721990&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9951,11 +9973,11 @@ Composition: vertical 4:5, medium-full body framing, woman centered slightly tow
 
   </details>
 
-- **表情集实测：还是熟悉的「GPT 脸」** — 表情包能用，但别神话——横向一比仍是同质化 GPT 脸。角色一致性能交差，个性脸还得锁参考硬刚。 [@munou_ac](https://x.com/munou_ac) · [原帖](https://x.com/munou_ac/status/2098224166977806575) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098224166977806575)
+- **表情集实测：还是熟悉的「GPT 脸」** — 表情包能用，但别神话——横向一比仍是同质化 GPT 脸。角色一致性能交差，个性脸还得锁参考硬刚。 [@munou_ac](https://x.com/munou_ac) · [原帖](https://x.com/munou_ac/status/2098224166977806575) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098224166977806575)
 
-- **传参考图说「出衣装资料图」几乎零 prompt** — 丢一张参考，一句「衣装资料图出して」——2.5 补全力离谱，设定图质感直接能进企划。少写 prompt 多甩参考。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2098222494175879235) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098222494175879235)
+- **传参考图说「出衣装资料图」几乎零 prompt** — 丢一张参考，一句「衣装资料图出して」——2.5 补全力离谱，设定图质感直接能进企划。少写 prompt 多甩参考。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2098222494175879235) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098222494175879235)
 
-- **角色四视图 + 衣柜锁定** — 先用 2.5 做前/¾/侧/后角色表，再做场景时把服装钉死，连镜不换衣服；后面接视频模型更稳。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2098061897702805800) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098061897702805800)
+- **角色四视图 + 衣柜锁定** — 先用 2.5 做前/¾/侧/后角色表，再做场景时把服装钉死，连镜不换衣服；后面接视频模型更稳。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2098061897702805800) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098061897702805800&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9969,11 +9991,11 @@ Shot on 35mm film, fine warm grain visible in both light and shadow, visible ski
 
   </details>
 
-- **偷参考美学做真感写真** — 从参考图抽美学配方，再压成真感写真。UGC/种草人像流水线可抄。 [@sixugc](https://x.com/sixugc) · [原帖](https://x.com/sixugc/status/2098047399264469048) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098047399264469048)
+- **偷参考美学做真感写真** — 从参考图抽美学配方，再压成真感写真。UGC/种草人像流水线可抄。 [@sixugc](https://x.com/sixugc) · [原帖](https://x.com/sixugc/status/2098047399264469048) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098047399264469048)
 
-- **一张静图当舞蹈参考，直接出片** — Image 2.5 做 dance reference 意外稳：上传一张就能跑成舞蹈视频，评论区有 prompt。短视频流水线可偷。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2098014577414033912) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098014577414033912)
+- **一张静图当舞蹈参考，直接出片** — Image 2.5 做 dance reference 意外稳：上传一张就能跑成舞蹈视频，评论区有 prompt。短视频流水线可偷。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2098014577414033912) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098014577414033912)
 
-- **课堂抓拍·反差穿搭老师** — 短 prompt 出 iPhone 纪实感人像，UGC/种草风很好用。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2097999860696072542) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097999860696072542)
+- **课堂抓拍·反差穿搭老师** — 短 prompt 出 iPhone 纪实感人像，UGC/种草风很好用。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2097999860696072542) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097999860696072542&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9983,7 +10005,7 @@ iPhone 课堂抓拍，女大学老师，时尚反差穿搭
 
   </details>
 
-- **80s 复古写真锁脸** — 年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097954772586557873) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097954772586557873)
+- **80s 复古写真锁脸** — 年代滤镜 + 身份锁定。做复古广告人像时，脸别跟着风格跑偏。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2097954772586557873) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097954772586557873&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -9999,9 +10021,9 @@ Keep the lighting cinematic yet believable, with soft shadows, realistic highlig
 
   </details>
 
-- **巴黎街拍写真 prompt** — 街拍姿势/光位/服装分段可替换。UGC 人像与旅拍种草可直接改地名。 [@AIwithSarah_](https://x.com/AIwithSarah_) · [原帖](https://x.com/AIwithSarah_/status/2097952240707530923) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097952240707530923)
+- **巴黎街拍写真 prompt** — 街拍姿势/光位/服装分段可替换。UGC 人像与旅拍种草可直接改地名。 [@AIwithSarah_](https://x.com/AIwithSarah_) · [原帖](https://x.com/AIwithSarah_/status/2097952240707530923) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097952240707530923)
 
-- **哥特 Lolita 完整中文 prompt** — 中文可复制人设配方，服装层次写细。角色卡/COS 种草少踩「衣服糊成一团」。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097951132031320484) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097951132031320484)
+- **哥特 Lolita 完整中文 prompt** — 中文可复制人设配方，服装层次写细。角色卡/COS 种草少踩「衣服糊成一团」。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097951132031320484) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097951132031320484&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10030,7 +10052,7 @@ Keep the lighting cinematic yet believable, with soft shadows, realistic highlig
 
   </details>
 
-- **Model sheet 身份锁：多角度同一人** — 角色表压住脸与体型，多视角不漂移。做 IP/表情包/游戏立绘流水线先抄这套。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2097949170594193427) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097949170594193427)
+- **Model sheet 身份锁：多角度同一人** — 角色表压住脸与体型，多视角不漂移。做 IP/表情包/游戏立绘流水线先抄这套。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2097949170594193427) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097949170594193427&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10251,7 +10273,7 @@ No character redesign, no identity drift, no inconsistent proportions, no changi
 
   </details>
 
-- **叠穿コーデ 全套可替换 prompt** — 日系叠穿长文配方，单品可拆换。电商穿搭图与小红书 OOTD 直接改货号。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2097937963523145829) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097937963523145829)
+- **叠穿コーデ 全套可替换 prompt** — 日系叠穿长文配方，单品可拆换。电商穿搭图与小红书 OOTD 直接改货号。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2097937963523145829) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097937963523145829&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10332,11 +10354,11 @@ Earrings: A pair of large silver-tone hoop earrings made from slender smooth rou
 
   </details>
 
-- **Flare/Sunburst × Seedance：UGC 广告流水线** — 静图出片再进短视频。一人团队做 UGC 投放素材的「图→片」衔接可抄。 [@tanabe_fragm](https://x.com/tanabe_fragm) · [原帖](https://x.com/tanabe_fragm/status/2097935536224866583) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097935536224866583)
+- **Flare/Sunburst × Seedance：UGC 广告流水线** — 静图出片再进短视频。一人团队做 UGC 投放素材的「图→片」衔接可抄。 [@tanabe_fragm](https://x.com/tanabe_fragm) · [原帖](https://x.com/tanabe_fragm/status/2097935536224866583) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097935536224866583)
 
-- **同 prompt 炼狱角色一致性演示** — 同一套 prompt 换 Rengoku，成品干净，prompt 贴在下面。角色锁 / 二次元营销素材可抄。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2097900600105308347) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097900600105308347)
+- **同 prompt 炼狱角色一致性演示** — 同一套 prompt 换 Rengoku，成品干净，prompt 贴在下面。角色锁 / 二次元营销素材可抄。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2097900600105308347) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097900600105308347)
 
-- **古代美人 8 步互动捏人 prompt** — 朝代→身材→气质→发式→服饰→妆容→场景→神态，少解释多状态保存。小红书/社群引流模板味很足。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2097897602356306361) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097897602356306361)
+- **古代美人 8 步互动捏人 prompt** — 朝代→身材→气质→发式→服饰→妆容→场景→神态，少解释多状态保存。小红书/社群引流模板味很足。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2097897602356306361) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097897602356306361&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10514,7 +10536,7 @@ Earrings: A pair of large silver-tone hoop earrings made from slender smooth rou
 
   </details>
 
-- **candid 写真分层 prompt（Higgsfield）** — 拆「真实夏日随拍」结构：关键不是堆细节，是分层对。适合 UGC / 社媒广告。 [@GrowWithDani](https://x.com/GrowWithDani) · [原帖](https://x.com/GrowWithDani/status/2097882770899091928) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097882770899091928)
+- **candid 写真分层 prompt（Higgsfield）** — 拆「真实夏日随拍」结构：关键不是堆细节，是分层对。适合 UGC / 社媒广告。 [@GrowWithDani](https://x.com/GrowWithDani) · [原帖](https://x.com/GrowWithDani/status/2097882770899091928) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097882770899091928&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10673,7 +10695,7 @@ Vertical half-body photorealistic candid lifestyle photograph, framed from head 
 
   </details>
 
-- **网球写真完整中文 prompt** — 动作姿态写实到能当 UGC 素材库，9:16 竖版可抄。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097878838063903217) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097878838063903217)
+- **网球写真完整中文 prompt** — 动作姿态写实到能当 UGC 素材库，9:16 竖版可抄。 [@AIVideoHub_](https://x.com/AIVideoHub_) · [原帖](https://x.com/AIVideoHub_/status/2097878838063903217) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097878838063903217&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10700,9 +10722,9 @@ Vertical half-body photorealistic candid lifestyle photograph, framed from head 
 
   </details>
 
-- **写真 UGC：先偷真照片颗粒/色调，再锁脸** — 无参考 = 假色假噪点假皮肤。广告素材/种草图抄这个就够锋利。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2097864879843746285) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097864879843746285)
+- **写真 UGC：先偷真照片颗粒/色调，再锁脸** — 无参考 = 假色假噪点假皮肤。广告素材/种草图抄这个就够锋利。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2097864879843746285) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097864879843746285)
 
-- **璃月衣帽间极低机位自拍** — 9:16 超写实手机仰拍：奢华衣帽间 + 金玉腰链细节。社媒竖版人像的「自信不艳俗」配方。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2097860248640053693) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097860248640053693)
+- **璃月衣帽间极低机位自拍** — 9:16 超写实手机仰拍：奢华衣帽间 + 金玉腰链细节。社媒竖版人像的「自信不艳俗」配方。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2097860248640053693) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097860248640053693&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10712,7 +10734,7 @@ Vertical half-body photorealistic candid lifestyle photograph, framed from head 
 
   </details>
 
-- **美人背唐风CG** — 9:16 唐风半身背影：镜面铜屏映侧脸、凤凰步摇与低饱和粉金光。人像海报/竖版封面直接抄光影逻辑。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2097859617359565266) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097859617359565266)
+- **美人背唐风CG** — 9:16 唐风半身背影：镜面铜屏映侧脸、凤凰步摇与低饱和粉金光。人像海报/竖版封面直接抄光影逻辑。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2097859617359565266) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097859617359565266&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10722,9 +10744,9 @@ Vertical half-body photorealistic candid lifestyle photograph, framed from head 
 
   </details>
 
-- **噪点×透明金属反光的多风格混剪** — Images 2.5 多风格混合质感：噪点被透明金属 + 反光包住；品牌视觉想玩材质差异可跟。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2097698044733276309) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097698044733276309)
+- **噪点×透明金属反光的多风格混剪** — Images 2.5 多风格混合质感：噪点被透明金属 + 反光包住；品牌视觉想玩材质差异可跟。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2097698044733276309) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097698044733276309)
 
-- **高腰破洞烟管牛仔裤衣装 prompt** — 日文社区可改衣装模板片段。 [@sumeshino_moto](https://x.com/sumeshino_moto) · [原帖](https://x.com/sumeshino_moto/status/2097656994937319531) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097656994937319531)
+- **高腰破洞烟管牛仔裤衣装 prompt** — 日文社区可改衣装模板片段。 [@sumeshino_moto](https://x.com/sumeshino_moto) · [原帖](https://x.com/sumeshino_moto/status/2097656994937319531) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097656994937319531&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10752,7 +10774,7 @@ lace-up sneakers, oversized sole,
 
   </details>
 
-- **可互换长文衣装 Prompt 包** — Images 2.5 长文衣装再现性提升；PROTECTED WARDROBE RULE 模块化服装。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2097653761569423653) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097653761569423653)
+- **可互换长文衣装 Prompt 包** — Images 2.5 长文衣装再现性提升；PROTECTED WARDROBE RULE 模块化服装。 [@MoodLock_JP](https://x.com/MoodLock_JP) · [原帖](https://x.com/MoodLock_JP/status/2097653761569423653) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097653761569423653&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10820,13 +10842,13 @@ Final worn state:
 
   </details>
 
-- **同一角色 8 looks × 8 environments** — 一致性压力测试：一角色多造型多场景。 [@trendyvers](https://x.com/trendyvers) · [原帖](https://x.com/trendyvers/status/2097648721874096507) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097648721874096507)
+- **同一角色 8 looks × 8 environments** — 一致性压力测试：一角色多造型多场景。 [@trendyvers](https://x.com/trendyvers) · [原帖](https://x.com/trendyvers/status/2097648721874096507) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097648721874096507)
 
-- **四风格身份锁定** — 同一人设跨风格仍认得出，品牌 IP 友好。 [@MonetizationDon](https://x.com/MonetizationDon) · [原帖](https://x.com/MonetizationDon/status/2097609235395711007) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097609235395711007)
+- **四风格身份锁定** — 同一人设跨风格仍认得出，品牌 IP 友好。 [@MonetizationDon](https://x.com/MonetizationDon) · [原帖](https://x.com/MonetizationDon/status/2097609235395711007) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097609235395711007)
 
-- **自定义 Emoji 风格迁移** — 把品牌表情包做成统一风格集。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2097592152113242550) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097592152113242550)
+- **自定义 Emoji 风格迁移** — 把品牌表情包做成统一风格集。 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO) · [原帖](https://x.com/ZHO_ZHO_ZHO/status/2097592152113242550) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097592152113242550)
 
-- **晶莹剔透美人像完整 prompt** — 比例约束很死的美妆竖版肖像。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2097548765389258913) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097548765389258913)
+- **晶莹剔透美人像完整 prompt** — 比例约束很死的美妆竖版肖像。 [@johnAGI168](https://x.com/johnAGI168) · [原帖](https://x.com/johnAGI168/status/2097548765389258913) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097548765389258913&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10869,9 +10891,11 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 ## 电商改图
 
+> 💡 本分类带提示词的条目可点「▶ 一键试用」直接在线生成；或打开 [GPT Image 2.5 在线生成器 →](https://gptimage2.asia/zh/generate?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=section-ecommerce)
+
 商品图、局部编辑、包装与货架感。
 
-- **写实食物/产品×手绘故事书：无缝混合 editorial** — Shorelyn 把法式吐司和巧克力包装「流」进手绘小人国——上半写实产品、下半插画世界，完整英文 prompt 可复用。餐饮/快消故事广告别只会摆静物，先让主体往下长出叙事。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2104421880363118667) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104421880363118667)
+- **写实食物/产品×手绘故事书：无缝混合 editorial** — Shorelyn 把法式吐司和巧克力包装「流」进手绘小人国——上半写实产品、下半插画世界，完整英文 prompt 可复用。餐饮/快消故事广告别只会摆静物，先让主体往下长出叙事。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2104421880363118667) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104421880363118667&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10895,9 +10919,9 @@ Composition: vertical 3:4, balanced negative space, strong focal point, seamless
 
   </details>
 
-- **电商实战：同一只帆布包，小红书一个字都不要** — 同一只帆布包连发多张零文案种草图——靠构图、材质光泽和场景差讲卖点。小红书别只会堆文案清单，先让图自己把「想带出门」做出来。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2102943070522319003) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102943070522319003)
+- **电商实战：同一只帆布包，小红书一个字都不要** — 同一只帆布包连发多张零文案种草图——靠构图、材质光泽和场景差讲卖点。小红书别只会堆文案清单，先让图自己把「想带出门」做出来。 [@gaoren7716](https://x.com/gaoren7716) · [原帖](https://x.com/gaoren7716/status/2102943070522319003) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102943070522319003)
 
-- **蜜桃粉真丝睡裙：9:16电商详情页完整中文提示词** — 首屏卧室场景+中段平铺微距+底部包装尺码，一整页生活方式详情页配方。敏感品类也能端庄出片——先锁覆盖与姿态，再谈真丝光泽。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102924564787544273) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102924564787544273)
+- **蜜桃粉真丝睡裙：9:16电商详情页完整中文提示词** — 首屏卧室场景+中段平铺微距+底部包装尺码，一整页生活方式详情页配方。敏感品类也能端庄出片——先锁覆盖与姿态，再谈真丝光泽。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102924564787544273) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102924564787544273&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10907,7 +10931,7 @@ Composition: vertical 3:4, balanced negative space, strong focal point, seamless
 
   </details>
 
-- **豪华抓娃娃机爪抓 [PRODUCT]：可填槽电商图** — 4:5 竖版：金爪从顶吊起一件真品，下方堆满同款。换掉 [PRODUCT] 就能出辣酱/护肤/周边——玩味钩子 + 奢侈广告感，电商主图直接用。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2102257393216463021) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102257393216463021)
+- **豪华抓娃娃机爪抓 [PRODUCT]：可填槽电商图** — 4:5 竖版：金爪从顶吊起一件真品，下方堆满同款。换掉 [PRODUCT] 就能出辣酱/护肤/周边——玩味钩子 + 奢侈广告感，电商主图直接用。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2102257393216463021) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102257393216463021&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10934,7 +10958,7 @@ Style: Hyper-realistic premium commercial product photography
 
   </details>
 
-- **可填槽午餐盒收藏品：换名字就能出周边** — 把自己的照片塞进复古午餐盒收藏品包装——把 [YOUR NAME OR @HANDLE] 换成真名再跑 Sunburst（Firefly 也可）。个人品牌周边、社群打卡周边，槽位写死比「帮我做个周边」靠谱一百倍。 [@D_the_Designer](https://x.com/D_the_Designer) · [原帖](https://x.com/D_the_Designer/status/2102151791836316129) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102151791836316129)
+- **可填槽午餐盒收藏品：换名字就能出周边** — 把自己的照片塞进复古午餐盒收藏品包装——把 [YOUR NAME OR @HANDLE] 换成真名再跑 Sunburst（Firefly 也可）。个人品牌周边、社群打卡周边，槽位写死比「帮我做个周边」靠谱一百倍。 [@D_the_Designer](https://x.com/D_the_Designer) · [原帖](https://x.com/D_the_Designer/status/2102151791836316129) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102151791836316129&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10957,7 +10981,7 @@ Tip: run on Sunburst for print-like type and package edges; swap only the name s
 
   </details>
 
-- **改图十式：先写 keep-list 再点名改什么** — 「make it better」会把你改成路人。十条可复制编辑句：只改背景/锁脸/换光/去路人/只换外套/选区修手/头像裁切/去油光/移产品保标/下一轮只改景深。Images 2.5 更听话，前提是 keep-list 写死。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2102033775752560738) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102033775752560738)
+- **改图十式：先写 keep-list 再点名改什么** — 「make it better」会把你改成路人。十条可复制编辑句：只改背景/锁脸/换光/去路人/只换外套/选区修手/头像裁切/去油光/移产品保标/下一轮只改景深。Images 2.5 更听话，前提是 keep-list 写死。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2102033775752560738) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102033775752560738&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -10999,7 +11023,7 @@ OpenAI's image guide: 1-3 clear sentences, and say what stays the same. the keep
 
   </details>
 
-- **写真级产品 UGC：厨房补剂瓶 JSON 母版** — 整段 JSON 锁「像真的 Instagram 故事」：厨房晨间自拍 + 瓶标朝镜头 + 真实肤质优先于美颜。补剂/美妆种草广告可换瓶换人——别再写「好看的产品图」。 [@Hamzaaadzn](https://x.com/Hamzaaadzn) · [原帖](https://x.com/Hamzaaadzn/status/2102012174239494461) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102012174239494461)
+- **写真级产品 UGC：厨房补剂瓶 JSON 母版** — 整段 JSON 锁「像真的 Instagram 故事」：厨房晨间自拍 + 瓶标朝镜头 + 真实肤质优先于美颜。补剂/美妆种草广告可换瓶换人——别再写「好看的产品图」。 [@Hamzaaadzn](https://x.com/Hamzaaadzn) · [原帖](https://x.com/Hamzaaadzn/status/2102012174239494461) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102012174239494461&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11095,7 +11119,7 @@ OpenAI's image guide: 1-3 clear sentences, and say what stays the same. the keep
 
   </details>
 
-- **产品先于人：海鲜电商俯拍托盘英雄构图** — 略俯视把超大圆形冰鲜托盘怼到镜头前，工人压到画面下半——新鲜感先打脸，人只负责证明「小心搬运」。食品/生鲜 KV 的产品优先层级教科书。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101964323094745493) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101964323094745493)
+- **产品先于人：海鲜电商俯拍托盘英雄构图** — 略俯视把超大圆形冰鲜托盘怼到镜头前，工人压到画面下半——新鲜感先打脸，人只负责证明「小心搬运」。食品/生鲜 KV 的产品优先层级教科书。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101964323094745493) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101964323094745493&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11130,7 +11154,7 @@ Quality control and structured exclusions: photoreal only, correct human anatomy
 
   </details>
 
-- **Target/Anchors：只改颜色也不毁全图** — 蓝杯变橙杯，6/6 一次过。秘诀不是多写「改什么」，而是把「绝对不许动」写成 Anchors。局部编辑先列死守清单，再点名 Target。 [@pfc27254872693](https://x.com/pfc27254872693) · [原帖](https://x.com/pfc27254872693/status/2101962448311857546) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101962448311857546)
+- **Target/Anchors：只改颜色也不毁全图** — 蓝杯变橙杯，6/6 一次过。秘诀不是多写「改什么」，而是把「绝对不许动」写成 Anchors。局部编辑先列死守清单，再点名 Target。 [@pfc27254872693](https://x.com/pfc27254872693) · [原帖](https://x.com/pfc27254872693/status/2101962448311857546) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101962448311857546&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11154,7 +11178,7 @@ Anchors（全部死守）：
 
   </details>
 
-- **玻璃切片观察窗：时尚美妆产品战役海报** — 上下两人对内凝视 + 中间信息带，只在局部网格叠真实光学玻璃（折射/位移/选择性锐化）。眼罩、手表、耳机、香氛都测过——高定时尚/美妆/产品 KV 可直接换品牌槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101644997460213894) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101644997460213894)
+- **玻璃切片观察窗：时尚美妆产品战役海报** — 上下两人对内凝视 + 中间信息带，只在局部网格叠真实光学玻璃（折射/位移/选择性锐化）。眼罩、手表、耳机、香氛都测过——高定时尚/美妆/产品 KV 可直接换品牌槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2101644997460213894) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101644997460213894&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11190,13 +11214,13 @@ Avoid generic luxury ads, centered portraits, subjects facing outward, excessive
 
   </details>
 
-- **局部编辑 8 例：构图/人物保留只改痛点** — 「整体挺好、就差这一处」别整张重跑；Images 2.5 留构图与人物，只修需要的部分。8 个实例 + prompt，改图心法入门。 [@asahi_ai_x](https://x.com/asahi_ai_x) · [原帖](https://x.com/asahi_ai_x/status/2100827157471580462) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100827157471580462)
+- **局部编辑 8 例：构图/人物保留只改痛点** — 「整体挺好、就差这一处」别整张重跑；Images 2.5 留构图与人物，只修需要的部分。8 个实例 + prompt，改图心法入门。 [@asahi_ai_x](https://x.com/asahi_ai_x) · [原帖](https://x.com/asahi_ai_x/status/2100827157471580462) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100827157471580462)
 
-- **电商皂包装小字不糊：Images 2.5 经 Codex 出商品图** — 正方形商品照，「HERB GARDEN」与「よもぎと緑茶の石けん」腰带小字清晰可读。包装文字保真的电商静物对照。 [@kohaku_2100](https://x.com/kohaku_2100) · [原帖](https://x.com/kohaku_2100/status/2100777491036246402) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100777491036246402)
+- **电商皂包装小字不糊：Images 2.5 经 Codex 出商品图** — 正方形商品照，「HERB GARDEN」与「よもぎと緑茶の石けん」腰带小字清晰可读。包装文字保真的电商静物对照。 [@kohaku_2100](https://x.com/kohaku_2100) · [原帖](https://x.com/kohaku_2100/status/2100777491036246402) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100777491036246402)
 
-- **母版图 + Preserve / Change / Delta：小步连改方法论** — 别再指望一段超长 prompt 一次成型；先锁母版、钉住保留元素，再用 Preserve / Change / Delta Edit 连续小改逼近终稿。Image 2.5 时代改图心法长文。 [@cheery9998](https://x.com/cheery9998) · [原帖](https://x.com/cheery9998/status/2100768331263311913) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100768331263311913)
+- **母版图 + Preserve / Change / Delta：小步连改方法论** — 别再指望一段超长 prompt 一次成型；先锁母版、钉住保留元素，再用 Preserve / Change / Delta Edit 连续小改逼近终稿。Image 2.5 时代改图心法长文。 [@cheery9998](https://x.com/cheery9998) · [原帖](https://x.com/cheery9998/status/2100768331263311913) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100768331263311913)
 
-- **同包装参考→多套活动产品照：不丢罐面** — 几张 OLIPOP 基础罐照，压出多套电商/广告方向，包装 logo/罐型/标签字死锁。没实拍棚也能批产战役图——包装 must-stay 工作流可抄。 [@zahra4sure](https://x.com/zahra4sure) · [原帖](https://x.com/zahra4sure/status/2100572388031156287) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100572388031156287)
+- **同包装参考→多套活动产品照：不丢罐面** — 几张 OLIPOP 基础罐照，压出多套电商/广告方向，包装 logo/罐型/标签字死锁。没实拍棚也能批产战役图——包装 must-stay 工作流可抄。 [@zahra4sure](https://x.com/zahra4sure) · [原帖](https://x.com/zahra4sure/status/2100572388031156287) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100572388031156287&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11212,7 +11236,7 @@ Principle: same product, many art directions; packaging identity is must-stay.
 
   </details>
 
-- **球鞋×旅行袋对位海报：产品别干同一种活** — 一只鞋落地锐利读品，另一只从皮箱斜抽出 sole——产品对位叙事，不是两只鞋摆一起。旅行鞋履电商 KV 可直接改，附完整 prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100485040425832579) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100485040425832579)
+- **球鞋×旅行袋对位海报：产品别干同一种活** — 一只鞋落地锐利读品，另一只从皮箱斜抽出 sole——产品对位叙事，不是两只鞋摆一起。旅行鞋履电商 KV 可直接改，附完整 prompt。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2100485040425832579) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100485040425832579&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11234,7 +11258,7 @@ Output and constraints: polished luxury footwear advertisement, product-first hi
 
   </details>
 
-- **路边实拍车 → Marketplace 级棚拍成片** — input vs output：手机街拍洗成在线卖车超写实。电商/二手最痛「有货没图」，短 prompt 可直接塞进售卖流。 [@Rodrigo_Bubble](https://x.com/Rodrigo_Bubble) · [原帖](https://x.com/Rodrigo_Bubble/status/2100183263843393634) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100183263843393634)
+- **路边实拍车 → Marketplace 级棚拍成片** — input vs output：手机街拍洗成在线卖车超写实。电商/二手最痛「有货没图」，短 prompt 可直接塞进售卖流。 [@Rodrigo_Bubble](https://x.com/Rodrigo_Bubble) · [原帖](https://x.com/Rodrigo_Bubble/status/2100183263843393634) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100183263843393634&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11244,7 +11268,7 @@ create images based on this, to publish on online marketplaces to sell the car. 
 
   </details>
 
-- **自拍→glossy 设计师玩具头像** — 上传参考图变 premium 3D vinyl designer toy 浮空头像，大墨镜 + 棚拍高光。UGC / 周边营销一键出片。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2100057090332995927) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100057090332995927)
+- **自拍→glossy 设计师玩具头像** — 上传参考图变 premium 3D vinyl designer toy 浮空头像，大墨镜 + 棚拍高光。UGC / 周边营销一键出片。 [@meAsifAi](https://x.com/meAsifAi) · [原帖](https://x.com/meAsifAi/status/2100057090332995927) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100057090332995927&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11254,13 +11278,13 @@ create images based on this, to publish on online marketplaces to sell the car. 
 
   </details>
 
-- **Sunburst 美妆级修图 + 产品原型同框** — Yana 用 Sunburst 直接「化妆」，还塞了 Post-Keyboard Polo 原型。产品营销照的偷懒天花板——脸与货同时成片。 [@yanabana](https://x.com/yanabana) · [原帖](https://x.com/yanabana/status/2100025172543918578) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100025172543918578)
+- **Sunburst 美妆级修图 + 产品原型同框** — Yana 用 Sunburst 直接「化妆」，还塞了 Post-Keyboard Polo 原型。产品营销照的偷懒天花板——脸与货同时成片。 [@yanabana](https://x.com/yanabana) · [原帖](https://x.com/yanabana/status/2100025172543918578) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100025172543918578)
 
-- **色卡联动换装广告：产品色号跟着转** — 模特转体换色时，背景货与色卡同步同色号；Image 2.5 出协调静帧再 Seedance 动画。电商换色种草管线可抄。 [@AIPandaX](https://x.com/AIPandaX) · [原帖](https://x.com/AIPandaX/status/2099948996878074268) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099948996878074268)
+- **色卡联动换装广告：产品色号跟着转** — 模特转体换色时，背景货与色卡同步同色号；Image 2.5 出协调静帧再 Seedance 动画。电商换色种草管线可抄。 [@AIPandaX](https://x.com/AIPandaX) · [原帖](https://x.com/AIPandaX/status/2099948996878074268) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099948996878074268)
 
-- **Sunburst 电商色号一键改：只动颜色其余锁死** — 六个色号不重拍——定向改色，构图/模特/布光全留。商品主图与货架变体流水线直接抄。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766317129867637) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099766317129867637)
+- **Sunburst 电商色号一键改：只动颜色其余锁死** — 六个色号不重拍——定向改色，构图/模特/布光全留。商品主图与货架变体流水线直接抄。 [@AIwithGhotai](https://x.com/AIwithGhotai) · [原帖](https://x.com/AIwithGhotai/status/2099766317129867637) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099766317129867637)
 
-- **金色香水仪式：锁脸 9:16 产品人像** — 上传图锁身份，喷香水动作+琥珀侧光电影感。香水/美妆 KV 可整段复用，负向词也写全了。 [@imGopalTiwari](https://x.com/imGopalTiwari) · [原帖](https://x.com/imGopalTiwari/status/2099715941605195847) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099715941605195847)
+- **金色香水仪式：锁脸 9:16 产品人像** — 上传图锁身份，喷香水动作+琥珀侧光电影感。香水/美妆 KV 可整段复用，负向词也写全了。 [@imGopalTiwari](https://x.com/imGopalTiwari) · [原帖](https://x.com/imGopalTiwari/status/2099715941605195847) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099715941605195847&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11271,7 +11295,7 @@ Negative prompt: changed identity, distorted face, deformed hands or fingers, ba
 
   </details>
 
-- **芒果罐物理笑话海报：牛拽不动的产品英雄** — 姿势张力讲完笑话：牛拼命拉绳、罐子纹丝不动。完整 Cannes 级 FMCG prompt，包装广告可整段复用。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2099500411455721969) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099500411455721969)
+- **芒果罐物理笑话海报：牛拽不动的产品英雄** — 姿势张力讲完笑话：牛拼命拉绳、罐子纹丝不动。完整 Cannes 级 FMCG prompt，包装广告可整段复用。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2099500411455721969) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099500411455721969&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11305,7 +11329,7 @@ Negative prompt: copied source text, real brand names, low-detail mascot, creepy
 
   </details>
 
-- **巨桶城市海报：尺度幻觉靠微型街区钉死** — 街角仰拍巨型炸鸡桶，底座长出迷你店面区。用建筑给产品量尺度的快餐 KV 教科书。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2099489998882177205) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099489998882177205)
+- **巨桶城市海报：尺度幻觉靠微型街区钉死** — 街角仰拍巨型炸鸡桶，底座长出迷你店面区。用建筑给产品量尺度的快餐 KV 教科书。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2099489998882177205) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099489998882177205&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11337,19 +11361,19 @@ Negative prompt: copied source text, real brand names, cartoon food, plastic-loo
 
   </details>
 
-- **网格单格自然语言抽取：口语坐标也能拆** — 「上从2左从2」「纵3×横2」这种日常说法，Image 2.5 也能抽出单格再拉到 2K。九宫格/精灵表后处理省事。 [@misakin883](https://x.com/misakin883) · [原帖](https://x.com/misakin883/status/2099351178077413642) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099351178077413642)
+- **网格单格自然语言抽取：口语坐标也能拆** — 「上从2左从2」「纵3×横2」这种日常说法，Image 2.5 也能抽出单格再拉到 2K。九宫格/精灵表后处理省事。 [@misakin883](https://x.com/misakin883) · [原帖](https://x.com/misakin883/status/2099351178077413642) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099351178077413642)
 
-- **一张图接着改、接着用：连续编辑实测文** — 西堂长文压测「同一张图能不能一路改下去」。品牌物料多轮精修前先看这篇踩坑。 [@congcongtang](https://x.com/congcongtang) · [原帖](https://x.com/congcongtang/status/2099330191365415193) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099330191365415193)
+- **一张图接着改、接着用：连续编辑实测文** — 西堂长文压测「同一张图能不能一路改下去」。品牌物料多轮精修前先看这篇踩坑。 [@congcongtang](https://x.com/congcongtang) · [原帖](https://x.com/congcongtang/status/2099330191365415193) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099330191365415193)
 
-- **Sunburst object-swap：换物 match-cut，其余几乎钉死** — 编辑时只换指定物件，其它几乎不动。广告改产品/道具的压测思路，直接抄。 [@invideoOfficial](https://x.com/invideoOfficial) · [原帖](https://x.com/invideoOfficial/status/2098430230079984063) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098430230079984063)
+- **Sunburst object-swap：换物 match-cut，其余几乎钉死** — 编辑时只换指定物件，其它几乎不动。广告改产品/道具的压测思路，直接抄。 [@invideoOfficial](https://x.com/invideoOfficial) · [原帖](https://x.com/invideoOfficial/status/2098430230079984063) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098430230079984063)
 
-- **精华液广告流水线：产品表 + 分镜 → 15 秒成片** — GPT Image 2.5 先出产品 sheet 与 cinematic storyboard，再交 Seedance 2.5；提示词全开。DTC 电商广告教科书。 [@HeyAbhishek](https://x.com/HeyAbhishek) · [原帖](https://x.com/HeyAbhishek/status/2098420637631127995) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098420637631127995)
+- **精华液广告流水线：产品表 + 分镜 → 15 秒成片** — GPT Image 2.5 先出产品 sheet 与 cinematic storyboard，再交 Seedance 2.5；提示词全开。DTC 电商广告教科书。 [@HeyAbhishek](https://x.com/HeyAbhishek) · [原帖](https://x.com/HeyAbhishek/status/2098420637631127995) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098420637631127995)
 
-- **UGC 偷参考美学：Astra 拆 JSON → 2.5 出片** — 别写「cinematic soft grain」作文。真照片丢 Astra 拆色彩/灯光 JSON，再塞进 Image 2.5 锁人设。假 UGC 变真货架感，流程可复用。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2098309152141607051) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098309152141607051)
+- **UGC 偷参考美学：Astra 拆 JSON → 2.5 出片** — 别写「cinematic soft grain」作文。真照片丢 Astra 拆色彩/灯光 JSON，再塞进 Image 2.5 锁人设。假 UGC 变真货架感，流程可复用。 [@0x_harness](https://x.com/0x_harness) · [原帖](https://x.com/0x_harness/status/2098309152141607051) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098309152141607051)
 
-- **产品罐 → 中文海报：保包装字再加氛围** — Sunburst 加茶叶气泡与中文标题，同时保住罐身品牌字/容量。改氛围与 must-stay 分开写——电商海报方向稿够用。 [@Soranlan](https://x.com/Soranlan) · [原帖](https://x.com/Soranlan/status/2098270386156970236) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098270386156970236)
+- **产品罐 → 中文海报：保包装字再加氛围** — Sunburst 加茶叶气泡与中文标题，同时保住罐身品牌字/容量。改氛围与 must-stay 分开写——电商海报方向稿够用。 [@Soranlan](https://x.com/Soranlan) · [原帖](https://x.com/Soranlan/status/2098270386156970236) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098270386156970236)
 
-- **改图系统 prompt：先写清改什么、保什么** — 把模糊改图意图翻成模型吃得懂的精确指令：change half + hold half。产品图/海报连续精修少跑偏，直接当编辑前置系统提示。 [@everestchris6](https://x.com/everestchris6) · [原帖](https://x.com/everestchris6/status/2098170415613137083) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098170415613137083)
+- **改图系统 prompt：先写清改什么、保什么** — 把模糊改图意图翻成模型吃得懂的精确指令：change half + hold half。产品图/海报连续精修少跑偏，直接当编辑前置系统提示。 [@everestchris6](https://x.com/everestchris6) · [原帖](https://x.com/everestchris6/status/2098170415613137083) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098170415613137083&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11438,21 +11462,21 @@ Wait for an image and a rough request. Reply with the JSON only.
 
   </details>
 
-- **传单只改价格：线稿 22 秒出片 + 8 作例** — 日系营销血泪：别为改个价重做整张图。2.5 局部改价 + 手绘 rough 22 秒变传单，附 8 作例与可粘贴 prompt。 [@Charlie_no_site](https://x.com/Charlie_no_site) · [原帖](https://x.com/Charlie_no_site/status/2098155424440893702) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098155424440893702)
+- **传单只改价格：线稿 22 秒出片 + 8 作例** — 日系营销血泪：别为改个价重做整张图。2.5 局部改价 + 手绘 rough 22 秒变传单，附 8 作例与可粘贴 prompt。 [@Charlie_no_site](https://x.com/Charlie_no_site) · [原帖](https://x.com/Charlie_no_site/status/2098155424440893702) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098155424440893702)
 
-- **「ここだけ直す」局部改图指示集** — 日文保存版精准改图话术合集，比再发一篇 Flare/Sunburst 科普有用。电商/海报改细节直接抄指令。 [@noel_ai_lab](https://x.com/noel_ai_lab) · [原帖](https://x.com/noel_ai_lab/status/2098031783849648284) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098031783849648284)
+- **「ここだけ直す」局部改图指示集** — 日文保存版精准改图话术合集，比再发一篇 Flare/Sunburst 科普有用。电商/海报改细节直接抄指令。 [@noel_ai_lab](https://x.com/noel_ai_lab) · [原帖](https://x.com/noel_ai_lab/status/2098031783849648284) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098031783849648284)
 
-- **Sunburst API 换光锁脸 / 产品** — 意文实务：换光照仍锁脸与产品主体。广告补光/棚拍替代很实用。 [@alepom](https://x.com/alepom) · [原帖](https://x.com/alepom/status/2097928991407546852) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097928991407546852)
+- **Sunburst API 换光锁脸 / 产品** — 意文实务：换光照仍锁脸与产品主体。广告补光/棚拍替代很实用。 [@alepom](https://x.com/alepom) · [原帖](https://x.com/alepom/status/2097928991407546852) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097928991407546852)
 
-- **密封盒 UGC → Omni 拆箱视频链路** — Image 2.5 做密封盒静帧 → Gemini Omni 推 10 秒拆箱，纸张/折痕/重量写进 prompt。电商假 UGC 配方。 [@ItsNazar17](https://x.com/ItsNazar17) · [原帖](https://x.com/ItsNazar17/status/2097914967295172794) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097914967295172794)
+- **密封盒 UGC → Omni 拆箱视频链路** — Image 2.5 做密封盒静帧 → Gemini Omni 推 10 秒拆箱，纸张/折痕/重量写进 prompt。电商假 UGC 配方。 [@ItsNazar17](https://x.com/ItsNazar17) · [原帖](https://x.com/ItsNazar17/status/2097914967295172794) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097914967295172794)
 
-- **「把灯挪到右边」——精密局部编辑** — Higgsfield 上测 GPT-Image 2.5，一句指令改光源位置，局部编辑不是 PPT。 [@prompts_ig](https://x.com/prompts_ig) · [原帖](https://x.com/prompts_ig/status/2097858572319072601) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097858572319072601)
+- **「把灯挪到右边」——精密局部编辑** — Higgsfield 上测 GPT-Image 2.5，一句指令改光源位置，局部编辑不是 PPT。 [@prompts_ig](https://x.com/prompts_ig) · [原帖](https://x.com/prompts_ig/status/2097858572319072601) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097858572319072601)
 
-- **「只改文字」Before→After 实测** — 长文验证「图挺好、字想换」痛点改善多少；电商主图、海报改文案的人值得看。 [@dansyu_callenge](https://x.com/dansyu_callenge) · [原帖](https://x.com/dansyu_callenge/status/2097818810493685854) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097818810493685854)
+- **「只改文字」Before→After 实测** — 长文验证「图挺好、字想换」痛点改善多少；电商主图、海报改文案的人值得看。 [@dansyu_callenge](https://x.com/dansyu_callenge) · [原帖](https://x.com/dansyu_callenge/status/2097818810493685854) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097818810493685854)
 
-- **披萨三选一：哪张没被 AI 改过？** — 编辑质量鉴宝局：看配料接缝/阴影/桌布纹理。互动玩法 + 编辑能力证明，适合小红书/视频号挑战模板。 [@midsusnight](https://x.com/midsusnight) · [原帖](https://x.com/midsusnight/status/2097702225707511823) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097702225707511823)
+- **披萨三选一：哪张没被 AI 改过？** — 编辑质量鉴宝局：看配料接缝/阴影/桌布纹理。互动玩法 + 编辑能力证明，适合小红书/视频号挑战模板。 [@midsusnight](https://x.com/midsusnight) · [原帖](https://x.com/midsusnight/status/2097702225707511823) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097702225707511823)
 
-- **定点改图：修图师 briefing 模板** — 专治「改一处整图重画」：只改指定处、保脸/Logo/文字；营销改细节最省事。 [@alex_prompter](https://x.com/alex_prompter) · [原帖](https://x.com/alex_prompter/status/2097660049921659014) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097660049921659014)
+- **定点改图：修图师 briefing 模板** — 专治「改一处整图重画」：只改指定处、保脸/Logo/文字；营销改细节最省事。 [@alex_prompter](https://x.com/alex_prompter) · [原帖](https://x.com/alex_prompter/status/2097660049921659014) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097660049921659014&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11477,16 +11501,18 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
   </details>
 
-- **马克杯局部改色/改价：编辑精度实测** — Web 版连续编辑 vs Image-2，附文章。 [@taku41477996](https://x.com/taku41477996) · [原帖](https://x.com/taku41477996/status/2097652949560480117) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097652949560480117)
+- **马克杯局部改色/改价：编辑精度实测** — Web 版连续编辑 vs Image-2，附文章。 [@taku41477996](https://x.com/taku41477996) · [原帖](https://x.com/taku41477996/status/2097652949560480117) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097652949560480117)
 
-- **亚马逊主图点选改** — 电商点编辑：改标签、改背景、不重抽主体。 [@Passenger0522](https://x.com/Passenger0522) · [原帖](https://x.com/Passenger0522/status/2097594649846444370) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097594649846444370)
+- **亚马逊主图点选改** — 电商点编辑：改标签、改背景、不重抽主体。 [@Passenger0522](https://x.com/Passenger0522) · [原帖](https://x.com/Passenger0522/status/2097594649846444370) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097594649846444370)
 
 
 ## 场景视觉
 
+> 💡 本分类带提示词的条目可点「▶ 一键试用」直接在线生成；或打开 [GPT Image 2.5 在线生成器 →](https://gptimage2.asia/zh/generate?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=section-scene)
+
 场景、长卷、视频工作流与氛围大图。
 
-- **国庆黄金周 Emoji 人海：地点槽位×立体表情脸** — 身体真人、脸焊立体 Emoji，超高密度人潮 × iPhone 抓拍 × 9:16——把【地点】换进槽位就能云体验黄金周。禁贴纸贴图；bug 多？多开几次盲盒就对了。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2105169318598365366) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105169318598365366)
+- **国庆黄金周 Emoji 人海：地点槽位×立体表情脸** — 身体真人、脸焊立体 Emoji，超高密度人潮 × iPhone 抓拍 × 9:16——把【地点】换进槽位就能云体验黄金周。禁贴纸贴图；bug 多？多开几次盲盒就对了。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2105169318598365366) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105169318598365366&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11499,7 +11525,7 @@ Rules: one change per turn, never regenerate the whole image when I asked for a 
 
   </details>
 
-- **Tiny Planet 地标通用配方：360°全景焊成小行星** — 360°全景 × 真实地球环绕 × 行星尺度放大——把【城市地标】塞进槽位就能出 Tiny Planet；人、动物、植物同理。地标种草别只会平视明信片，先抄这条「焊成小行星」。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2105120341731520891) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105120341731520891)
+- **Tiny Planet 地标通用配方：360°全景焊成小行星** — 360°全景 × 真实地球环绕 × 行星尺度放大——把【城市地标】塞进槽位就能出 Tiny Planet；人、动物、植物同理。地标种草别只会平视明信片，先抄这条「焊成小行星」。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2105120341731520891) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105120341731520891&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11511,7 +11537,7 @@ Tiny Planet 360°全景× 唯一真实地球实景环绕 × 行星尺度放大�
 
   </details>
 
-- **Image 2.5→Blender 超跑管线：一句话改图到可玩 3D drop** — Image 2.5 五变体概念车（$0.34/25s）→ 一句话改图定方向 → Opus 蓝图测轮廓写 Blender Python，两小时五车上浏览器拆除赛。可玩 demo + 免费 3D；概念到资产别只停在美图，先抄这条「出图→建模→随机掉落」。 [@drcollect](https://x.com/drcollect) · [原帖](https://x.com/drcollect/status/2104941866487525859) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104941866487525859) · [可玩 demo / 3D](https://drcollect.github.io/collect-cars)
+- **Image 2.5→Blender 超跑管线：一句话改图到可玩 3D drop** — Image 2.5 五变体概念车（$0.34/25s）→ 一句话改图定方向 → Opus 蓝图测轮廓写 Blender Python，两小时五车上浏览器拆除赛。可玩 demo + 免费 3D；概念到资产别只停在美图，先抄这条「出图→建模→随机掉落」。 [@drcollect](https://x.com/drcollect) · [原帖](https://x.com/drcollect/status/2104941866487525859) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104941866487525859&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [可玩 demo / 3D](https://drcollect.github.io/collect-cars)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11536,7 +11562,7 @@ https://drcollect.github.io/collect-cars
 
   </details>
 
-- **行车记录仪开场锁帧：可乐×曼妥思 DIRECTIVE** — 国庆整活第一步：用 Image 2.5 焊死「用过的行车记录仪 JPEG」开场——广角挡风/A 柱/仪表盘边，再把静帧丢 Seedance。短视频爆点别从视频模型硬抠首帧，先让 2.5 锁透视和品牌可读。 [@laobaishare](https://x.com/laobaishare) · [原帖](https://x.com/laobaishare/status/2104908088168100180) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104908088168100180)
+- **行车记录仪开场锁帧：可乐×曼妥思 DIRECTIVE** — 国庆整活第一步：用 Image 2.5 焊死「用过的行车记录仪 JPEG」开场——广角挡风/A 柱/仪表盘边，再把静帧丢 Seedance。短视频爆点别从视频模型硬抠首帧，先让 2.5 锁透视和品牌可读。 [@laobaishare](https://x.com/laobaishare) · [原帖](https://x.com/laobaishare/status/2104908088168100180) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104908088168100180&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11567,7 +11593,7 @@ DIRECTIVE:
 
   </details>
 
-- **照片/水墨上下对开：Split-Frame Ink Wash 完整配方** — 3:4 严格对半分：上半保留写真身份与材质，下半用极简水墨重构同景——只留轮廓气韵，大面积留白像展览页印章。东方审美对照海报，直接抄长 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2104799948072161492) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104799948072161492)
+- **照片/水墨上下对开：Split-Frame Ink Wash 完整配方** — 3:4 严格对半分：上半保留写真身份与材质，下半用极简水墨重构同景——只留轮廓气韵，大面积留白像展览页印章。东方审美对照海报，直接抄长 prompt。 [@harboriis](https://x.com/harboriis) · [原帖](https://x.com/harboriis/status/2104799948072161492) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104799948072161492&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11592,7 +11618,7 @@ Contemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale
 
   </details>
 
-- **丰子恺水墨漫画通用公式：主题×题诗落款×宣纸×深蓝印** — 把主题焊进丰子恺水墨漫画槽：题诗落款、宣纸肌理、左下深蓝篆印一套齐。换主题就能连更——平行世界里丰子恺先生画的，未必不是你的选题。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104746353473847659) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104746353473847659) · [同作者·宋徽宗审美超现实槽](https://x.com/DeepBlueX0/status/2100761021413802212)
+- **丰子恺水墨漫画通用公式：主题×题诗落款×宣纸×深蓝印** — 把主题焊进丰子恺水墨漫画槽：题诗落款、宣纸肌理、左下深蓝篆印一套齐。换主题就能连更——平行世界里丰子恺先生画的，未必不是你的选题。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104746353473847659) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104746353473847659&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [同作者·宋徽宗审美超现实槽](https://x.com/DeepBlueX0/status/2100761021413802212)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11606,7 +11632,7 @@ Contemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale
 
   </details>
 
-- **东方禅意极简壁纸「帘卷新晴」：结构化提示词** — 竹帘一卷，宝石蓝天空开窗，柠檬黄阳光几何投影——9:16 高明度低灰度，标题区留白写死。东方封面别只会堆「仙气」，先把主题/情绪/色彩/构图槽位焊牢再返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2104417507801199089) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104417507801199089)
+- **东方禅意极简壁纸「帘卷新晴」：结构化提示词** — 竹帘一卷，宝石蓝天空开窗，柠檬黄阳光几何投影——9:16 高明度低灰度，标题区留白写死。东方封面别只会堆「仙气」，先把主题/情绪/色彩/构图槽位焊牢再返图。 [@liyue_ai](https://x.com/liyue_ai) · [原帖](https://x.com/liyue_ai/status/2104417507801199089) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104417507801199089&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11625,9 +11651,9 @@ Contemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale
 
   </details>
 
-- **细胞3D教学片：Image 2.5→Opus 5.5 资产→中学视频** — 先让 GPT Image 2.5 出细胞 3D 模型静帧，再丢 Opus 5.5 生成 3D 资产与适合中学生的讲解视频。AI 教育别从成片剪辑起步——先用 2.5 把教具视觉钉死。 [@akokoi1](https://x.com/akokoi1) · [原帖](https://x.com/akokoi1/status/2104105016235860050) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104105016235860050)
+- **细胞3D教学片：Image 2.5→Opus 5.5 资产→中学视频** — 先让 GPT Image 2.5 出细胞 3D 模型静帧，再丢 Opus 5.5 生成 3D 资产与适合中学生的讲解视频。AI 教育别从成片剪辑起步——先用 2.5 把教具视觉钉死。 [@akokoi1](https://x.com/akokoi1) · [原帖](https://x.com/akokoi1/status/2104105016235860050) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2104105016235860050)
 
-- **农业 PR：Image 2.5 番茄分镜 → Gemini Omni 成片** — ChatGPT 策划 → GPT Image 2.5 出 3×3「一皿の向こう側」番茄供应链分镜 → Gemini Omni 1.1 Flash 成片/配乐/旁白。B2B 食品农业宣传别从剪辑台起步——先锁分镜再喂视频模型。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2103422112312541342) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103422112312541342) · [分镜 prompt 原帖](https://x.com/husky__create/status/2103422116876222566)
+- **农业 PR：Image 2.5 番茄分镜 → Gemini Omni 成片** — ChatGPT 策划 → GPT Image 2.5 出 3×3「一皿の向こう側」番茄供应链分镜 → Gemini Omni 1.1 Flash 成片/配乐/旁白。B2B 食品农业宣传别从剪辑台起步——先锁分镜再喂视频模型。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2103422112312541342) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103422112312541342&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [分镜 prompt 原帖](https://x.com/husky__create/status/2103422116876222566)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11820,7 +11846,7 @@ Malformed hands or fingers, extra limbs, duplicated or fused tomatoes, inconsist
 
   </details>
 
-- **巨型瓷片拼接画：【主题】×空间融合×随机摄影视角** — 通用槽位公式——主题定瓷片类型/釉面/肌理/拼接，画作焊进地面墙面建筑，机位带摄影偶然性。场景大图别只会贴一张贴图，先让瓷片真的「长」在空间里。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103418718936342664) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103418718936342664)
+- **巨型瓷片拼接画：【主题】×空间融合×随机摄影视角** — 通用槽位公式——主题定瓷片类型/釉面/肌理/拼接，画作焊进地面墙面建筑，机位带摄影偶然性。场景大图别只会贴一张贴图，先让瓷片真的「长」在空间里。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103418718936342664) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103418718936342664&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11835,13 +11861,13 @@ Malformed hands or fingers, extra limbs, duplicated or fused tomatoes, inconsist
 
   </details>
 
-- **参考图+说明→町/国/学校世界观説明シート** — 上传一图+说明，4:3 左上町概要、右半用語小插画、左下场景插画；日英可改，术语多字易糊要控字数。世界观设定表别手搓排版——公式化 prompt 直接烤成设定页。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2102955744475947318) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102955744475947318)
+- **参考图+说明→町/国/学校世界观説明シート** — 上传一图+说明，4:3 左上町概要、右半用語小插画、左下场景插画；日英可改，术语多字易糊要控字数。世界观设定表别手搓排版——公式化 prompt 直接烤成设定页。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2102955744475947318) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102955744475947318)
 
-- **Image 2.5 木雕熊参照→Tripo HD 3D** — 用 GPT Image 2.5 生成木雕参照，再喂 Tripo 出 HD 模型（UV 另说）。概念雕塑进 3D 别从零建模——参照图先焊死。 [@cg_ftLab](https://x.com/cg_ftLab) · [原帖](https://x.com/cg_ftLab/status/2102363276944568574) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102363276944568574)
+- **Image 2.5 木雕熊参照→Tripo HD 3D** — 用 GPT Image 2.5 生成木雕参照，再喂 Tripo 出 HD 模型（UV 另说）。概念雕塑进 3D 别从零建模——参照图先焊死。 [@cg_ftLab](https://x.com/cg_ftLab) · [原帖](https://x.com/cg_ftLab/status/2102363276944568574) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102363276944568574)
 
-- **Image 2.5 分镜帧→H3 Max 动作迁移** — gpt-image-2.5 + storyboard 先出帧，再喂 H3 Max 做 motion control（本例未超分）。角色动作迁移别空抽视频——静帧分镜先锁。 [@azerkoculu](https://x.com/azerkoculu) · [原帖](https://x.com/azerkoculu/status/2102358192063656240) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102358192063656240)
+- **Image 2.5 分镜帧→H3 Max 动作迁移** — gpt-image-2.5 + storyboard 先出帧，再喂 H3 Max 做 motion control（本例未超分）。角色动作迁移别空抽视频——静帧分镜先锁。 [@azerkoculu](https://x.com/azerkoculu) · [原帖](https://x.com/azerkoculu/status/2102358192063656240) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102358192063656240)
 
-- **建设业 PR：Image 2.5 分镜 → Gemini Omni 成片** — ChatGPT 策划 → Image 2.5 出 3×3 分镜 → Gemini Omni 一键成片/配乐/旁白。B2B 企业宣传片别从剪辑台起步——先锁分镜再喂视频模型。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2102337226311180568) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102337226311180568)
+- **建设业 PR：Image 2.5 分镜 → Gemini Omni 成片** — ChatGPT 策划 → Image 2.5 出 3×3 分镜 → Gemini Omni 一键成片/配乐/旁白。B2B 企业宣传片别从剪辑台起步——先锁分镜再喂视频模型。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2102337226311180568) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102337226311180568&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11902,7 +11928,7 @@ Magical construction, object morphing, teleporting materials, instant trees, col
 
   </details>
 
-- **动漫静帧填槽：ERA×TIER 控时代质感** — 2×2 科幻片静帧模板，ERA/TIER 调度赛璐璐→数码质感。图生视频前置关键帧配方，换电影名就能批量出。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2102302629661647182) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102302629661647182)
+- **动漫静帧填槽：ERA×TIER 控时代质感** — 2×2 科幻片静帧模板，ERA/TIER 调度赛璐璐→数码质感。图生视频前置关键帧配方，换电影名就能批量出。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2102302629661647182) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102302629661647182&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11978,7 +12004,7 @@ AUDIT
 
   </details>
 
-- **参考图气质→单间玩偶屋 + 桌上迷你人偶** — 把角色参考图喂给 Image 2.5：按人物气质搭一间玩偶屋房间，再在桌上摆同款迷你人偶。角色 IP / 周边视觉一键出「家」——回复里有完整英文底座 prompt。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2102270895196885495) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102270895196885495)
+- **参考图气质→单间玩偶屋 + 桌上迷你人偶** — 把角色参考图喂给 Image 2.5：按人物气质搭一间玩偶屋房间，再在桌上摆同款迷你人偶。角色 IP / 周边视觉一键出「家」——回复里有完整英文底座 prompt。 [@Kurohachi05](https://x.com/Kurohachi05) · [原帖](https://x.com/Kurohachi05/status/2102270895196885495) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102270895196885495&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -11988,7 +12014,7 @@ A masterpiece. Top quality. An illustration of a single room in a dollhouse. Bas
 
   </details>
 
-- **儿童绘本彩铅蜡笔：极简留白可抄风** — 当代独立绘本审美写死：彩铅+蜡笔手绘感、暖白底、大量留白、稚拙比例。禁止写实/3D/高光——品牌童书、亲子内容、温暖插画直接套。 [@MahiraEhan](https://x.com/MahiraEhan) · [原帖](https://x.com/MahiraEhan/status/2102263940549845033) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102263940549845033)
+- **儿童绘本彩铅蜡笔：极简留白可抄风** — 当代独立绘本审美写死：彩铅+蜡笔手绘感、暖白底、大量留白、稚拙比例。禁止写实/3D/高光——品牌童书、亲子内容、温暖插画直接套。 [@MahiraEhan](https://x.com/MahiraEhan) · [原帖](https://x.com/MahiraEhan/status/2102263940549845033) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102263940549845033&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12000,7 +12026,7 @@ The composition should be very clean, airy, and spacious, with plenty of white s
 
   </details>
 
-- **海水物理拼圣诞树：游艇豪华假日 KV** — 树不是装饰贴图——用浅滩、礁石、浪花泡沫按物理堆成树形，游艇当树冠。假日豪华航海广告：远看图标、近看海况。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101959963384193293) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101959963384193293)
+- **海水物理拼圣诞树：游艇豪华假日 KV** — 树不是装饰贴图——用浅滩、礁石、浪花泡沫按物理堆成树形，游艇当树冠。假日豪华航海广告：远看图标、近看海况。 [@ou_zhen599](https://x.com/ou_zhen599) · [原帖](https://x.com/ou_zhen599/status/2101959963384193293) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101959963384193293&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12035,9 +12061,9 @@ Structured exclusion constraints: no real yacht brand names, no copied Christmas
 
   </details>
 
-- **假旅行vlog：Image 2.5 出30镜分镜板全链路** — 没出门、没摄影机、没剪辑师：ChatGPT 企划 → GPT Image 2.5 出 30 镜分镜板 → Gemini Omni 动画 → Lyria 配乐 → Google Vids 成片。把管线封成 skill，「我要这种视频」就能量产。 [@sahilvermaai](https://x.com/sahilvermaai) · [原帖](https://x.com/sahilvermaai/status/2101750259382624549) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101750259382624549)
+- **假旅行vlog：Image 2.5 出30镜分镜板全链路** — 没出门、没摄影机、没剪辑师：ChatGPT 企划 → GPT Image 2.5 出 30 镜分镜板 → Gemini Omni 动画 → Lyria 配乐 → Google Vids 成片。把管线封成 skill，「我要这种视频」就能量产。 [@sahilvermaai](https://x.com/sahilvermaai) · [原帖](https://x.com/sahilvermaai/status/2101750259382624549) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2101750259382624549)
 
-- **水袖舞16宫格：莲池晓雾连续分镜** — 4×4 竖版连续分镜：同一舞者、同一湖青水袖，从舟首观莲到雾中静莲十六步全标轨迹。动作片/舞蹈预演/分镜种草的一致性模板。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2101651915407085704) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101651915407085704)
+- **水袖舞16宫格：莲池晓雾连续分镜** — 4×4 竖版连续分镜：同一舞者、同一湖青水袖，从舟首观莲到雾中静莲十六步全标轨迹。动作片/舞蹈预演/分镜种草的一致性模板。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2101651915407085704) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101651915407085704&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12047,7 +12073,7 @@ Structured exclusion constraints: no real yacht brand names, no copied Christmas
 
   </details>
 
-- **行车记录仪首帧锁定：公路 dashcam JPEG 感** — 先把首帧锁成「真 dashcam」再进视频链路——挡风玻璃、A 柱、仪表台切片，像抓帧 JPEG 不是电影 HDR。公路短片开场可复用（ALT 含 DIRECTIVE）。 [@YazanHD12](https://x.com/YazanHD12) · [原帖](https://x.com/YazanHD12/status/2100934751716589688) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100934751716589688)
+- **行车记录仪首帧锁定：公路 dashcam JPEG 感** — 先把首帧锁成「真 dashcam」再进视频链路——挡风玻璃、A 柱、仪表台切片，像抓帧 JPEG 不是电影 HDR。公路短片开场可复用（ALT 含 DIRECTIVE）。 [@YazanHD12](https://x.com/YazanHD12) · [原帖](https://x.com/YazanHD12/status/2100934751716589688) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100934751716589688&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12058,7 +12084,7 @@ Produce one still that reads as a real in-car dashcam frame grabbed from a movin
 
   </details>
 
-- **雪原红塔构图公式：负空间 / 尺度人 / 长曝光** — 超高窄塔 vs 冻原，偏左构图+右侧留白，小黑人影定尺度，红光光轨长曝光。科技广告纪念碑感中文最终提示语可直接出片。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2100928131880321096) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100928131880321096)
+- **雪原红塔构图公式：负空间 / 尺度人 / 长曝光** — 超高窄塔 vs 冻原，偏左构图+右侧留白，小黑人影定尺度，红光光轨长曝光。科技广告纪念碑感中文最终提示语可直接出片。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2100928131880321096) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100928131880321096&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12069,7 +12095,7 @@ Produce one still that reads as a real in-car dashcam frame grabbed from a movin
 
   </details>
 
-- **车内 POV 事故首帧：玉米车×沥青车→爆米花海** — Coke×Mentos 变体：玉米散装车 + 高温沥青罐，手机偷拍质感锁第一帧，再丢 Seedance 跑过程。中文长 prompt 写死「只要十几颗刚爆的」，别让整条路先变白。 [@DDJCXX](https://x.com/DDJCXX) · [原帖](https://x.com/DDJCXX/status/2100876933236220383) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100876933236220383)
+- **车内 POV 事故首帧：玉米车×沥青车→爆米花海** — Coke×Mentos 变体：玉米散装车 + 高温沥青罐，手机偷拍质感锁第一帧，再丢 Seedance 跑过程。中文长 prompt 写死「只要十几颗刚爆的」，别让整条路先变白。 [@DDJCXX](https://x.com/DDJCXX) · [原帖](https://x.com/DDJCXX/status/2100876933236220383) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100876933236220383&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12133,7 +12159,7 @@ Produce one still that reads as a real in-car dashcam frame grabbed from a movin
 
   </details>
 
-- **Pinterest 日常照→文字反推→超写实静帧** — 先丢一张松散日常照，用 `/detailed-image-2-text-prompt` 反写出细节再文生图；换参考就能反复出「像拍的、不像提的」静帧。参考图驱动的写实工作流可抄。 [@adithatipalli](https://x.com/adithatipalli) · [原帖](https://x.com/adithatipalli/status/2100777678580461782) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100777678580461782)
+- **Pinterest 日常照→文字反推→超写实静帧** — 先丢一张松散日常照，用 `/detailed-image-2-text-prompt` 反写出细节再文生图；换参考就能反复出「像拍的、不像提的」静帧。参考图驱动的写实工作流可抄。 [@adithatipalli](https://x.com/adithatipalli) · [原帖](https://x.com/adithatipalli/status/2100777678580461782) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100777678580461782&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12145,7 +12171,7 @@ Produce one still that reads as a real in-car dashcam frame grabbed from a movin
 
   </details>
 
-- **宋徽宗工笔 × 离谱主体：古画换主角通用公式** — 审美全锁宋代院体，只换霸王龙/DNA/飞船——越不该出现反差越香。附可抄通用公式，社媒反差图一条龙。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100761021413802212) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100761021413802212)
+- **宋徽宗工笔 × 离谱主体：古画换主角通用公式** — 审美全锁宋代院体，只换霸王龙/DNA/飞船——越不该出现反差越香。附可抄通用公式，社媒反差图一条龙。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100761021413802212) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100761021413802212&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12159,7 +12185,7 @@ Produce one still that reads as a real in-car dashcam frame grabbed from a movin
 
   </details>
 
-- **行车记录仪首帧锁死：Image 2.5→Seedance 公路短片** — 先用 Image 2.5 把 dashcam 光学真实感钉死（挡风玻璃脏点、A柱、宽角JPEG），再整帧喂 Seedance 2.5；回复含完整 DIRECTIVE + 秒表分镜。谁还在瞎抽视频首帧，先把参照图焊死。 [@techhalla](https://x.com/techhalla) · [原帖](https://x.com/techhalla/status/2100526482212712584) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100526482212712584)
+- **行车记录仪首帧锁死：Image 2.5→Seedance 公路短片** — 先用 Image 2.5 把 dashcam 光学真实感钉死（挡风玻璃脏点、A柱、宽角JPEG），再整帧喂 Seedance 2.5；回复含完整 DIRECTIVE + 秒表分镜。谁还在瞎抽视频首帧，先把参照图焊死。 [@techhalla](https://x.com/techhalla) · [原帖](https://x.com/techhalla/status/2100526482212712584) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100526482212712584&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12233,7 +12259,7 @@ Photoreal handheld phone from inside a car, 3:4 vertical. Arriving motion then s
 
   </details>
 
-- **1930s怪兽片制片管线：后投/定格木偶/手绘景片** — 不是「黑白滤镜」——理解后投、定格木偶表面、分层布景与胶片划痕整条制片管线。场景视觉史感配方，附可填槽完整 prompt。 [@xwyAdam](https://x.com/xwyAdam) · [原帖](https://x.com/xwyAdam/status/2100497825717174695) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100497825717174695)
+- **1930s怪兽片制片管线：后投/定格木偶/手绘景片** — 不是「黑白滤镜」——理解后投、定格木偶表面、分层布景与胶片划痕整条制片管线。场景视觉史感配方，附可填槽完整 prompt。 [@xwyAdam](https://x.com/xwyAdam) · [原帖](https://x.com/xwyAdam/status/2100497825717174695) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100497825717174695&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12270,7 +12296,7 @@ Preserve the handmade surface detail beneath the film texture. Fill the frame wi
 
   </details>
 
-- **六零年代巨人之地：Image2.5+Seedance 风格锁短片** — STYLE/CHARACTER/SETTING 三锁 + 30 秒分镜秒表，复刻 1968 电视审美的桌面巨人短片。Image 2.5 出静帧再喂 Seedance，广告片/概念片管线可整段抄。 [@oggii_0](https://x.com/oggii_0) · [原帖](https://x.com/oggii_0/status/2100474286599500015) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100474286599500015)
+- **六零年代巨人之地：Image2.5+Seedance 风格锁短片** — STYLE/CHARACTER/SETTING 三锁 + 30 秒分镜秒表，复刻 1968 电视审美的桌面巨人短片。Image 2.5 出静帧再喂 Seedance，广告片/概念片管线可整段抄。 [@oggii_0](https://x.com/oggii_0) · [原帖](https://x.com/oggii_0/status/2100474286599500015) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100474286599500015&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12303,9 +12329,9 @@ Cheerful 1960s adventure television music, playful brass and strings. At 26 seco
 
   </details>
 
-- **Seedance × Image 2.5：拳击短片对打广告** — Image 2.5 出视觉 + Seedance 2.5 成片，拳击对打叙事完整。一人团队做产品对打广告的现成动静链路。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2100177103991787826) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100177103991787826)
+- **Seedance × Image 2.5：拳击短片对打广告** — Image 2.5 出视觉 + Seedance 2.5 成片，拳击对打叙事完整。一人团队做产品对打广告的现成动静链路。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2100177103991787826) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100177103991787826)
 
-- **旅馆 PR：Image 2.5 九宫分镜→Gemini Omni** — GPT Image 2.5 出 9 格品牌分镜，再喂 Gemini Omni 成片+配乐。温泉旅馆「ほどける時間へ。」整条可抄，静帧定调再出视频的标准管线。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2100162861045817624) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100162861045817624)
+- **旅馆 PR：Image 2.5 九宫分镜→Gemini Omni** — GPT Image 2.5 出 9 格品牌分镜，再喂 Gemini Omni 成片+配乐。温泉旅馆「ほどける時間へ。」整条可抄，静帧定调再出视频的标准管线。 [@husky__create](https://x.com/husky__create) · [原帖](https://x.com/husky__create/status/2100162861045817624) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100162861045817624&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12402,7 +12428,7 @@ Cheerful 1960s adventure television music, playful brass and strings. At 26 seco
 
   </details>
 
-- **奇幻片 BTS：Sunburst×Seedance 幕后戏** — Higgsfield 上 GPT-6 + Seedance 1080p + Image-2.5 Sunburst；贴完整 BTS 分镜 prompt。多模型广告流水线参考。 [@maxescu](https://x.com/maxescu) · [原帖](https://x.com/maxescu/status/2100153168256499784) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100153168256499784)
+- **奇幻片 BTS：Sunburst×Seedance 幕后戏** — Higgsfield 上 GPT-6 + Seedance 1080p + Image-2.5 Sunburst；贴完整 BTS 分镜 prompt。多模型广告流水线参考。 [@maxescu](https://x.com/maxescu) · [原帖](https://x.com/maxescu/status/2100153168256499784) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100153168256499784&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12455,7 +12481,7 @@ Vivid photoreal costumes, fine 35mm grain. Varied candid handheld framing, fixed
 
   </details>
 
-- **任意角色→12 格变身分镜：完整 prompt** — 3×4 变身 storyboard：从原装到终态逐步揭示，禁套娃恶魔翅膀。短剧 / 广告分镜模板，线程附视频接法。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2100135954032087346) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100135954032087346)
+- **任意角色→12 格变身分镜：完整 prompt** — 3×4 变身 storyboard：从原装到终态逐步揭示，禁套娃恶魔翅膀。短剧 / 广告分镜模板，线程附视频接法。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2100135954032087346) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100135954032087346&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12505,9 +12531,9 @@ Do not reproduce the uploaded reference sheet’s layout or duplicate its multip
 
   </details>
 
-- **Image→色板→动效→剪辑：变体先于视频** — Image 2.5 先出视觉变体，Seedance 转旋转序列，CapCut 收成片。别再 Prompt→Video 一把梭——先锁画面再喂动效。 [@tylerrwayne](https://x.com/tylerrwayne) · [原帖](https://x.com/tylerrwayne/status/2100099092135440769) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100099092135440769)
+- **Image→色板→动效→剪辑：变体先于视频** — Image 2.5 先出视觉变体，Seedance 转旋转序列，CapCut 收成片。别再 Prompt→Video 一把梭——先锁画面再喂动效。 [@tylerrwayne](https://x.com/tylerrwayne) · [原帖](https://x.com/tylerrwayne/status/2100099092135440769) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100099092135440769)
 
-- **Acidic 门缝静物：青光长曝光黑空间** — 黑建筑虚空里一扇半开白门泼冷青光，asset type / 长曝光 / 禁止项写死。品牌 mood / 产品概念静物整段复用。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2100075950360945150) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100075950360945150)
+- **Acidic 门缝静物：青光长曝光黑空间** — 黑建筑虚空里一扇半开白门泼冷青光，asset type / 长曝光 / 禁止项写死。品牌 mood / 产品概念静物整段复用。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2100075950360945150) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100075950360945150&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12517,11 +12543,11 @@ stylized-concept. Asset type: vertical experimental interior photograph. Create 
 
   </details>
 
-- **Flare×Seedance：GTA 风开放世界洗车片** — GPT Image 2.5 Flare + Seedance 2.5 做黄金时段 Hellcat 洗车短片。想蹭游戏美学做广告的，这条够玩（教程帖内 DM 获取）。 [@yourPlugAI](https://x.com/yourPlugAI) · [原帖](https://x.com/yourPlugAI/status/2100074567398043685) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100074567398043685)
+- **Flare×Seedance：GTA 风开放世界洗车片** — GPT Image 2.5 Flare + Seedance 2.5 做黄金时段 Hellcat 洗车短片。想蹭游戏美学做广告的，这条够玩（教程帖内 DM 获取）。 [@yourPlugAI](https://x.com/yourPlugAI) · [原帖](https://x.com/yourPlugAI/status/2100074567398043685) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100074567398043685)
 
-- **午夜 diner：Image 2.5 定角 → Seedance 下厨** — Image 2.5 出角色，Seedance 2.5 跑厨房戏；prompt 与 turnaround 挂在账号。静帧定人设再喂视频的标准营销片流水线。 [@atlas_cloud_ai](https://x.com/atlas_cloud_ai) · [原帖](https://x.com/atlas_cloud_ai/status/2100066521846612402) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100066521846612402)
+- **午夜 diner：Image 2.5 定角 → Seedance 下厨** — Image 2.5 出角色，Seedance 2.5 跑厨房戏；prompt 与 turnaround 挂在账号。静帧定人设再喂视频的标准营销片流水线。 [@atlas_cloud_ai](https://x.com/atlas_cloud_ai) · [原帖](https://x.com/atlas_cloud_ai/status/2100066521846612402) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100066521846612402)
 
-- **DRAM 纳米城：电子显微镜视角结构化中文** — 两套可抄中文槽位：东方女性 × 纳米真人 × DRAM / 3D NAND 存储城市 × 电子显微镜抓拍。科技产品视觉还能俏皮。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100051568154538130) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100051568154538130)
+- **DRAM 纳米城：电子显微镜视角结构化中文** — 两套可抄中文槽位：东方女性 × 纳米真人 × DRAM / 3D NAND 存储城市 × 电子显微镜抓拍。科技产品视觉还能俏皮。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2100051568154538130) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100051568154538130&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12535,9 +12561,9 @@ stylized-concept. Asset type: vertical experimental interior photograph. Create 
 
   </details>
 
-- **粉红海 POV→30 秒无剪辑广告管线** — Flare 出首帧（全海面必须玫红）+ Seedance 2.5 锁 ref 连拍到酒吧落桌。DIRECTIVE + 30s timeline 在首评，场景广告流水线可抄。 [@wuzhu_](https://x.com/wuzhu_) · [原帖](https://x.com/wuzhu_/status/2100048689989288414) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100048689989288414)
+- **粉红海 POV→30 秒无剪辑广告管线** — Flare 出首帧（全海面必须玫红）+ Seedance 2.5 锁 ref 连拍到酒吧落桌。DIRECTIVE + 30s timeline 在首评，场景广告流水线可抄。 [@wuzhu_](https://x.com/wuzhu_) · [原帖](https://x.com/wuzhu_/status/2100048689989288414) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100048689989288414)
 
-- **Sunburst 尾帧→MiniMax Meta 向延时广告** — 钢琴教室虚构广告：Sunburst 出 end frame，MiniMax H3 出 9:16 / 10 秒延时彩铅成片，还把视线往 offer 按钮上导。广告素材流水线示范。 [@tanabe_fragm](https://x.com/tanabe_fragm) · [原帖](https://x.com/tanabe_fragm/status/2100020375006654762) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100020375006654762)
+- **Sunburst 尾帧→MiniMax Meta 向延时广告** — 钢琴教室虚构广告：Sunburst 出 end frame，MiniMax H3 出 9:16 / 10 秒延时彩铅成片，还把视线往 offer 按钮上导。广告素材流水线示范。 [@tanabe_fragm](https://x.com/tanabe_fragm) · [原帖](https://x.com/tanabe_fragm/status/2100020375006654762) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100020375006654762&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12561,7 +12587,7 @@ non_diegetic_music: N/A
 
   </details>
 
-- **静止画→航拍路径可视化→Seedance 成片** — 角色静帧一贴，Images 2.5 画出脚→脸的无人机拍摄黄线路径，再丢 Seedance。镜头语言先可视化再成片，短视频分镜党直接抄。 [@agi_aibusi](https://x.com/agi_aibusi) · [原帖](https://x.com/agi_aibusi/status/2100004003237204394) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100004003237204394)
+- **静止画→航拍路径可视化→Seedance 成片** — 角色静帧一贴，Images 2.5 画出脚→脸的无人机拍摄黄线路径，再丢 Seedance。镜头语言先可视化再成片，短视频分镜党直接抄。 [@agi_aibusi](https://x.com/agi_aibusi) · [原帖](https://x.com/agi_aibusi/status/2100004003237204394) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100004003237204394&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12574,9 +12600,9 @@ non_diegetic_music: N/A
 
   </details>
 
-- **Astra×Image 2.5：粗引导编辑再渲染** — Astra 造 / 改 / 动粗引导（笔触、SVG、角色绑骨），Image 2.5 跨帧一致性渲染。控形管线从草图升级到可动引导。 [@ArmanMaesumi](https://x.com/ArmanMaesumi) · [原帖](https://x.com/ArmanMaesumi/status/2099985353469992962) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099985353469992962)
+- **Astra×Image 2.5：粗引导编辑再渲染** — Astra 造 / 改 / 动粗引导（笔触、SVG、角色绑骨），Image 2.5 跨帧一致性渲染。控形管线从草图升级到可动引导。 [@ArmanMaesumi](https://x.com/ArmanMaesumi) · [原帖](https://x.com/ArmanMaesumi/status/2099985353469992962) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099985353469992962)
 
-- **保安大爷动作片：角色表→Seedance 成片** — Image 2.5 出 THE JANITOR 角色圣经，再 Seedance 2.5 夜校走廊清场。IP 短片：先锁脸造型再喂视频。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2099914485729231198) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099914485729231198)
+- **保安大爷动作片：角色表→Seedance 成片** — Image 2.5 出 THE JANITOR 角色圣经，再 Seedance 2.5 夜校走廊清场。IP 短片：先锁脸造型再喂视频。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2099914485729231198) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099914485729231198&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12594,7 +12620,7 @@ OVERALL: Clean white background, bright yellow watercolor splash behind the Jani
 
   </details>
 
-- **TWIX 焦糖分镜商业片：故事板锁镜三镜头** — 上传 storyboard 当主参考，约 16 秒、三镜、9:16 竖屏——产品/包装一致性写死。快消食品广告「分镜锁一致性」整段可抄。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2099850452426961352) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099850452426961352)
+- **TWIX 焦糖分镜商业片：故事板锁镜三镜头** — 上传 storyboard 当主参考，约 16 秒、三镜、9:16 竖屏——产品/包装一致性写死。快消食品广告「分镜锁一致性」整段可抄。 [@NoravaleAI](https://x.com/NoravaleAI) · [原帖](https://x.com/NoravaleAI/status/2099850452426961352) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099850452426961352&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12636,13 +12662,13 @@ Final feel: iconic, appetizing, glossy, controlled, premium gold-studio food com
 
   </details>
 
-- **人设图+ElevenLabs+Seedance：50 条 FB 广告流水线** — Image 2.5 出目标客群人设图 → ElevenLabs 配音 → Seedance 批量成片 → Facebook CBO 同广告组灌 50 条让 Andromeda 筛赢家。一人增长团队的素材工厂模板。 [@codyschneider](https://x.com/codyschneider) · [原帖](https://x.com/codyschneider/status/2099845746354733333) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099845746354733333)
+- **人设图+ElevenLabs+Seedance：50 条 FB 广告流水线** — Image 2.5 出目标客群人设图 → ElevenLabs 配音 → Seedance 批量成片 → Facebook CBO 同广告组灌 50 条让 Andromeda 筛赢家。一人增长团队的素材工厂模板。 [@codyschneider](https://x.com/codyschneider) · [原帖](https://x.com/codyschneider/status/2099845746354733333) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099845746354733333)
 
-- **低头看一眼手机：车站灾变动画** — Image 2.5 钉首帧，Seedance 2.5 接灾难片节奏。社媒「一晃神世界观崩了」短片模板。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099807993785397630) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099807993785397630)
+- **低头看一眼手机：车站灾变动画** — Image 2.5 钉首帧，Seedance 2.5 接灾难片节奏。社媒「一晃神世界观崩了」短片模板。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099807993785397630) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099807993785397630)
 
-- **皮克斯风午夜食堂：角色场景→Seedance** — 角色与场景全用 Image 2.5，再喂 Seedance；厨师备餐动作意外丝滑。短动画食堂氛围片流水线。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099804371450216506) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099804371450216506)
+- **皮克斯风午夜食堂：角色场景→Seedance** — 角色与场景全用 Image 2.5，再喂 Seedance；厨师备餐动作意外丝滑。短动画食堂氛围片流水线。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099804371450216506) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099804371450216506)
 
-- **草莓酱冲出信息流：UI 锁死局部溢出** — 把参考图当锁死底片，只让果酱越过黑条 UI 滴到吐司——构图/点赞数全不动。Feed 破框创意+完整物理 prompt。 [@miacyrnswy](https://x.com/miacyrnswy) · [原帖](https://x.com/miacyrnswy/status/2099801749163012364) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099801749163012364)
+- **草莓酱冲出信息流：UI 锁死局部溢出** — 把参考图当锁死底片，只让果酱越过黑条 UI 滴到吐司——构图/点赞数全不动。Feed 破框创意+完整物理 prompt。 [@miacyrnswy](https://x.com/miacyrnswy) · [原帖](https://x.com/miacyrnswy/status/2099801749163012364) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099801749163012364&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12680,15 +12706,15 @@ Preserve the original image composition. Animate only the small overflowing tip,
 
   </details>
 
-- **从零搭 campaign：不抄热门模板** — 刻意不用流行 prompt 模板，从零测 Image 2.5 品牌 campaign 输出。营销向「别跟风槽位」对照样本。 [@eyishazyer](https://x.com/eyishazyer) · [原帖](https://x.com/eyishazyer/status/2099796328918417818) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099796328918417818)
+- **从零搭 campaign：不抄热门模板** — 刻意不用流行 prompt 模板，从零测 Image 2.5 品牌 campaign 输出。营销向「别跟风槽位」对照样本。 [@eyishazyer](https://x.com/eyishazyer) · [原帖](https://x.com/eyishazyer/status/2099796328918417818) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099796328918417818)
 
-- **Image 2.5 静帧 → wan 2.1 说话头像** — 本地 5090 跑 wan 2.1 animate：先用 GPT Images 2.5 出参考静帧，再做 talking-head。开源权重静转动又一条实操链。 [@kaimonstre](https://x.com/kaimonstre) · [原帖](https://x.com/kaimonstre/status/2099684940090917262) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099684940090917262)
+- **Image 2.5 静帧 → wan 2.1 说话头像** — 本地 5090 跑 wan 2.1 animate：先用 GPT Images 2.5 出参考静帧，再做 talking-head。开源权重静转动又一条实操链。 [@kaimonstre](https://x.com/kaimonstre) · [原帖](https://x.com/kaimonstre/status/2099684940090917262) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099684940090917262)
 
-- **Image 2.5 分镜 → Seedance 广告生产线** — 先锁产品/人物/镜头/节奏分镜，再丢 Seedance 2.5，最后时间线精修。单模型是入场券，串成工作流才是下一轮差距。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2099665985569755159) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099665985569755159)
+- **Image 2.5 分镜 → Seedance 广告生产线** — 先锁产品/人物/镜头/节奏分镜，再丢 Seedance 2.5，最后时间线精修。单模型是入场券，串成工作流才是下一轮差距。 [@Adam38363368936](https://x.com/Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2099665985569755159) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099665985569755159)
 
-- **产品静帧→Seedance→CapCut：商业片一条龙** — 两张 GPT Image 2.5 产品视觉进 Seedance 2.5，再在 CapCut 剪成完整广告。Visuals → Video → Edit，一人团队可抄。 [@JaydenCoach](https://x.com/JaydenCoach) · [原帖](https://x.com/JaydenCoach/status/2099632182985625756) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099632182985625756)
+- **产品静帧→Seedance→CapCut：商业片一条龙** — 两张 GPT Image 2.5 产品视觉进 Seedance 2.5，再在 CapCut 剪成完整广告。Visuals → Video → Edit，一人团队可抄。 [@JaydenCoach](https://x.com/JaydenCoach) · [原帖](https://x.com/JaydenCoach/status/2099632182985625756) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099632182985625756)
 
-- **Flare 出「真 GoPro 机位」再喂 Seedance** — 胸挂俯视极限坡口静帧配方锁死光学抓拍感，再接秒级分镜动画。想控视频，先把起步静帧拍「真」。 [@techhalla](https://x.com/techhalla) · [原帖](https://x.com/techhalla/status/2099627433754300803) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099627433754300803)
+- **Flare 出「真 GoPro 机位」再喂 Seedance** — 胸挂俯视极限坡口静帧配方锁死光学抓拍感，再接秒级分镜动画。想控视频，先把起步静帧拍「真」。 [@techhalla](https://x.com/techhalla) · [原帖](https://x.com/techhalla/status/2099627433754300803) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099627433754300803&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12720,15 +12746,15 @@ Consumer action-cam realism, flat-ish GoPro color, grit and dust motes, cliff-ed
 
   </details>
 
-- **Flare 钢琴静帧 → Seedance 成片** — Images 2.5 Flare 锁气质，再进 Seedance 2.5 补动态（Topview）。静图锁定→动态补全的短链路样板。 [@hashimura55](https://x.com/hashimura55) · [原帖](https://x.com/hashimura55/status/2099476928218685914) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099476928218685914)
+- **Flare 钢琴静帧 → Seedance 成片** — Images 2.5 Flare 锁气质，再进 Seedance 2.5 补动态（Topview）。静图锁定→动态补全的短链路样板。 [@hashimura55](https://x.com/hashimura55) · [原帖](https://x.com/hashimura55/status/2099476928218685914) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099476928218685914)
 
-- **跑步品牌短片：Gemini Omni × Image 2.5** — 从起步到日出一镜感广告，楼下有 prompt。跨模型拼管线做运动品牌投放可参考。 [@Strength04_X](https://x.com/Strength04_X) · [原帖](https://x.com/Strength04_X/status/2099470223384740047) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099470223384740047)
+- **跑步品牌短片：Gemini Omni × Image 2.5** — 从起步到日出一镜感广告，楼下有 prompt。跨模型拼管线做运动品牌投放可参考。 [@Strength04_X](https://x.com/Strength04_X) · [原帖](https://x.com/Strength04_X/status/2099470223384740047) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099470223384740047)
 
-- **Fish Thief：角色圣经锁脸→Seedance 成片** — split-screen character bible 严格参考不改脸，再接 Seedance 2.5。品牌 IP 短片流水线样板。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2099460129833783779) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099460129833783779)
+- **Fish Thief：角色圣经锁脸→Seedance 成片** — split-screen character bible 严格参考不改脸，再接 Seedance 2.5。品牌 IP 短片流水线样板。 [@TechieBySA](https://x.com/TechieBySA) · [原帖](https://x.com/TechieBySA/status/2099460129833783779) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099460129833783779)
 
-- **先锁世界观再 Seedance：暗黑 ARPG 一镜成片** — 银发+青铜半面甲+青绿斗篷+火山废墟，用 Image 2.5 钉死视觉身份，再丢 Seedance 2.5 打成电影感战斗镜头。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099434423884390583) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099434423884390583)
+- **先锁世界观再 Seedance：暗黑 ARPG 一镜成片** — 银发+青铜半面甲+青绿斗篷+火山废墟，用 Image 2.5 钉死视觉身份，再丢 Seedance 2.5 打成电影感战斗镜头。 [@atlas_remake](https://x.com/atlas_remake) · [原帖](https://x.com/atlas_remake/status/2099434423884390583) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099434423884390583)
 
-- **Nokia 旧照手绘叠层：白线日记风改图** — 十几年前 N82 原图，2.5 加手绘描边+繁中旁白+爱心蒸汽。旅行/生活照「时髦随性」一层滤镜配方。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099429070723551484) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099429070723551484)
+- **Nokia 旧照手绘叠层：白线日记风改图** — 十几年前 N82 原图，2.5 加手绘描边+繁中旁白+爱心蒸汽。旅行/生活照「时髦随性」一层滤镜配方。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099429070723551484) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099429070723551484&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12738,7 +12764,7 @@ Consumer action-cam realism, flat-ish GoPro color, grit and dust motes, cliff-ed
 
   </details>
 
-- **日系日常 STYLE 锁：钢笔淡彩+小红点** — 当代日式 slice-of-life 完整 STYLE 块：笔触、配色、避雷清单都写死，场景槽位可换。杂志风插画母版。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2099417903858843997) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099417903858843997)
+- **日系日常 STYLE 锁：钢笔淡彩+小红点** — 当代日式 slice-of-life 完整 STYLE 块：笔触、配色、避雷清单都写死，场景槽位可换。杂志风插画母版。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2099417903858843997) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099417903858843997&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12786,9 +12812,9 @@ The final image should feel like a premium contemporary Japanese lifestyle illus
 
   </details>
 
-- **赛博编舞表 → MiniMax H3：静帧变整段舞** — Image 2.5 出 cyberpunk dance pose sheet，再接 MiniMax H3 拉成连续编舞。产品内容/投放短视频的静转动管线。 [@aaliya_va](https://x.com/aaliya_va) · [原帖](https://x.com/aaliya_va/status/2099405356300726410) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099405356300726410)
+- **赛博编舞表 → MiniMax H3：静帧变整段舞** — Image 2.5 出 cyberpunk dance pose sheet，再接 MiniMax H3 拉成连续编舞。产品内容/投放短视频的静转动管线。 [@aaliya_va](https://x.com/aaliya_va) · [原帖](https://x.com/aaliya_va/status/2099405356300726410) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099405356300726410)
 
-- **GTA 爷爷分镜：Image 2.5×Seedance 生日任务片** — 六格电影分镜锁同一位台北大爷：邮箱邀请→翻墙→屋顶→跨楼跳→破窗送礼。Image 2.5 钉角色再 Seedance 成片，动作喜剧分镜母版。 [@feesyiam](https://x.com/feesyiam) · [原帖](https://x.com/feesyiam/status/2099401891654615283) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099401891654615283)
+- **GTA 爷爷分镜：Image 2.5×Seedance 生日任务片** — 六格电影分镜锁同一位台北大爷：邮箱邀请→翻墙→屋顶→跨楼跳→破窗送礼。Image 2.5 钉角色再 Seedance 成片，动作喜剧分镜母版。 [@feesyiam](https://x.com/feesyiam) · [原帖](https://x.com/feesyiam/status/2099401891654615283) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099401891654615283&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12968,13 +12994,13 @@ Avoid cartoon styling, anime aesthetics, exaggerated body proportions, character
 
   </details>
 
-- **Astra 写分镜 + Sunburst 出图：同界面一条链** — 同一工具里先让 Astra 写分镜提示，再切 GPT 2.5 Sunburst 出静帧，不用跳平台。短片/广告前期分镜管线可抄。 [@zeng_wt](https://x.com/zeng_wt) · [原帖](https://x.com/zeng_wt/status/2099392855982723213) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099392855982723213)
+- **Astra 写分镜 + Sunburst 出图：同界面一条链** — 同一工具里先让 Astra 写分镜提示，再切 GPT 2.5 Sunburst 出静帧，不用跳平台。短片/广告前期分镜管线可抄。 [@zeng_wt](https://x.com/zeng_wt) · [原帖](https://x.com/zeng_wt/status/2099392855982723213) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099392855982723213)
 
-- **角色表+场景板钉死：Seedance 最多 50 参考** — 先钉角色表与 location plate，再写戏；Seedance 2.5 可吃到约 50 张参考。写实多角戏的防漂配方。 [@kayforkind](https://x.com/kayforkind) · [原帖](https://x.com/kayforkind/status/2099391447128518810) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099391447128518810)
+- **角色表+场景板钉死：Seedance 最多 50 参考** — 先钉角色表与 location plate，再写戏；Seedance 2.5 可吃到约 50 张参考。写实多角戏的防漂配方。 [@kayforkind](https://x.com/kayforkind) · [原帖](https://x.com/kayforkind/status/2099391447128518810) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099391447128518810)
 
-- **InVideo 拆帧 → Image 2.5 逐帧 rotoscope** — 片子丢进 InVideo 拆帧，代理按风格用 Image 2.5 重绘每帧，仍可逐帧改。定格/转绘从月级压到下午级。 [@ohneisserdemy](https://x.com/ohneisserdemy) · [原帖](https://x.com/ohneisserdemy/status/2099390701582598195) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099390701582598195)
+- **InVideo 拆帧 → Image 2.5 逐帧 rotoscope** — 片子丢进 InVideo 拆帧，代理按风格用 Image 2.5 重绘每帧，仍可逐帧改。定格/转绘从月级压到下午级。 [@ohneisserdemy](https://x.com/ohneisserdemy) · [原帖](https://x.com/ohneisserdemy/status/2099390701582598195) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099390701582598195)
 
-- **Sunburst 4K 纸雕奎师那：金线+卷纸浮雕** — 纸艺浮雕+金属金线+棚拍阴影，Sunburst 4K 细节直接拉满。节日/文创主视觉可整段复用。 [@yourPlugAI](https://x.com/yourPlugAI) · [原帖](https://x.com/yourPlugAI/status/2099386679551279392) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099386679551279392)
+- **Sunburst 4K 纸雕奎师那：金线+卷纸浮雕** — 纸艺浮雕+金属金线+棚拍阴影，Sunburst 4K 细节直接拉满。节日/文创主视觉可整段复用。 [@yourPlugAI](https://x.com/yourPlugAI) · [原帖](https://x.com/yourPlugAI/status/2099386679551279392) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099386679551279392&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -12988,35 +13014,35 @@ Richly layered paper swirls in vibrant orange, yellow, red, and blue cascade aro
 
   </details>
 
-- **品牌人格灌进城市：换输入就长成街景广告** — 套用 mmmiyama 杂志广告配方，把品牌人格塞进东京蓝调街景（人行天桥 + 巨 Logo）。营销向：同一骨架换品牌词，城市视觉秒站队。 [@kraqvoid](https://x.com/kraqvoid) · [原帖](https://x.com/kraqvoid/status/2099375310747926862) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099375310747926862)
+- **品牌人格灌进城市：换输入就长成街景广告** — 套用 mmmiyama 杂志广告配方，把品牌人格塞进东京蓝调街景（人行天桥 + 巨 Logo）。营销向：同一骨架换品牌词，城市视觉秒站队。 [@kraqvoid](https://x.com/kraqvoid) · [原帖](https://x.com/kraqvoid/status/2099375310747926862) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099375310747926862)
 
-- **Blueprint Racer：Codex+Godot+Blender+Sunburst 贴图** — 一人团队赛车：Godot 引擎、Blender 模、GPT Image 2.5 Sunburst 出图与贴图，Codex 写测代码。游戏资产里 Sunburst 怎么嵌进管线。 [@Parastashvilii](https://x.com/Parastashvilii) · [原帖](https://x.com/Parastashvilii/status/2099371368710037793) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099371368710037793)
+- **Blueprint Racer：Codex+Godot+Blender+Sunburst 贴图** — 一人团队赛车：Godot 引擎、Blender 模、GPT Image 2.5 Sunburst 出图与贴图，Codex 写测代码。游戏资产里 Sunburst 怎么嵌进管线。 [@Parastashvilii](https://x.com/Parastashvilii) · [原帖](https://x.com/Parastashvilii/status/2099371368710037793) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099371368710037793)
 
-- **同角色换装过场：Image 2.5 静帧 → Seedance 2.5** — 休闲→校服→学院正装，画外换装、人设不漂。先用 GPT Image 2.5 锁静帧，再 Seedance 串成一条概念片——UGC/穿搭广告的省心管线。 [@RXwhale](https://x.com/RXwhale) · [原帖](https://x.com/RXwhale/status/2099367352676864223) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099367352676864223)
+- **同角色换装过场：Image 2.5 静帧 → Seedance 2.5** — 休闲→校服→学院正装，画外换装、人设不漂。先用 GPT Image 2.5 锁静帧，再 Seedance 串成一条概念片——UGC/穿搭广告的省心管线。 [@RXwhale](https://x.com/RXwhale) · [原帖](https://x.com/RXwhale/status/2099367352676864223) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099367352676864223)
 
-- **16 姿态编舞表 → Seedance 连续舞：先锁关键帧** — GPT Image 2.5 出 16-pose choreography sheet，再丢 Seedance 2.5。关键姿态当地标，过渡更稳、少 AI 鬼畜。 [@gptproto](https://x.com/gptproto) · [原帖](https://x.com/gptproto/status/2099356107605180871) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099356107605180871)
+- **16 姿态编舞表 → Seedance 连续舞：先锁关键帧** — GPT Image 2.5 出 16-pose choreography sheet，再丢 Seedance 2.5。关键姿态当地标，过渡更稳、少 AI 鬼畜。 [@gptproto](https://x.com/gptproto) · [原帖](https://x.com/gptproto/status/2099356107605180871) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099356107605180871)
 
-- **整集角色表 × Image 2.5：Seedance 2.5 连载短剧** — THA TRENCHEZ Ep.04：每镜、每人设、每场景都按 Seedance 2.5 建，顺手测 Image 2.5。连载短剧资产管线可对标。 [@BGriffinCreator](https://x.com/BGriffinCreator) · [原帖](https://x.com/BGriffinCreator/status/2099352480119398736) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099352480119398736)
+- **整集角色表 × Image 2.5：Seedance 2.5 连载短剧** — THA TRENCHEZ Ep.04：每镜、每人设、每场景都按 Seedance 2.5 建，顺手测 Image 2.5。连载短剧资产管线可对标。 [@BGriffinCreator](https://x.com/BGriffinCreator) · [原帖](https://x.com/BGriffinCreator/status/2099352480119398736) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099352480119398736)
 
-- **TV 商业广告管线：Image 2.5 静帧 + Seedance 分镜 prompt** — 汉堡 TVC 向：先出 4:5 静帧构图，再接 18 秒 9:16 Seedance 广告 prompt。投放素材双端配方都摊开。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2099348903699362138) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099348903699362138)
+- **TV 商业广告管线：Image 2.5 静帧 + Seedance 分镜 prompt** — 汉堡 TVC 向：先出 4:5 静帧构图，再接 18 秒 9:16 Seedance 广告 prompt。投放素材双端配方都摊开。 [@itsPixieVerse](https://x.com/itsPixieVerse) · [原帖](https://x.com/itsPixieVerse/status/2099348903699362138) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099348903699362138)
 
-- **产品页 → 40 张静态广告：Astra 读品牌 + Image 2.5 赶量** — 一页产品详情进，Astra 写文案定角度，Image 2.5 当天吐 40 张成品静态。一人营销队核按钮。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2099293802813182089) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099293802813182089)
+- **产品页 → 40 张静态广告：Astra 读品牌 + Image 2.5 赶量** — 一页产品详情进，Astra 写文案定角度，Image 2.5 当天吐 40 张成品静态。一人营销队核按钮。 [@spect3ral](https://x.com/spect3ral) · [原帖](https://x.com/spect3ral/status/2099293802813182089) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099293802813182089)
 
-- **品牌 30 秒广告管线：双参考 × Image 2.5 × Seedance** — 两张自定义参考 + GPT Image 2.5 + Seedance 2.5；完整 workflow、选型与视频 prompt。UGC/品牌短片可复用。 [@itsphotogptai](https://x.com/itsphotogptai) · [原帖](https://x.com/itsphotogptai/status/2099232072980484262) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099232072980484262)
+- **品牌 30 秒广告管线：双参考 × Image 2.5 × Seedance** — 两张自定义参考 + GPT Image 2.5 + Seedance 2.5；完整 workflow、选型与视频 prompt。UGC/品牌短片可复用。 [@itsphotogptai](https://x.com/itsphotogptai) · [原帖](https://x.com/itsphotogptai/status/2099232072980484262) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099232072980484262)
 
-- **UGC 广告全流程：Image 2.5 + Seedance + 六视角角色表** — 照片→六视角角色表，外加 Image 2.5×Seedance 全套 prompt。一人团队假用户真广告流水线。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2098426534025634085) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098426534025634085)
+- **UGC 广告全流程：Image 2.5 + Seedance + 六视角角色表** — 照片→六视角角色表，外加 Image 2.5×Seedance 全套 prompt。一人团队假用户真广告流水线。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2098426534025634085) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098426534025634085)
 
-- **可换角广告模板：角色锁 + 海报锁，城市变身即插即用** — Seedance 2.5 广告配方：@[image1] 锁角色、@[image2] 锁海报，城市/变身可换槽。一人团队产品概念片骨架。 [@Iancu_ai](https://x.com/Iancu_ai) · [原帖](https://x.com/Iancu_ai/status/2098420840073236536) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098420840073236536)
+- **可换角广告模板：角色锁 + 海报锁，城市变身即插即用** — Seedance 2.5 广告配方：@[image1] 锁角色、@[image2] 锁海报，城市/变身可换槽。一人团队产品概念片骨架。 [@Iancu_ai](https://x.com/Iancu_ai) · [原帖](https://x.com/Iancu_ai/status/2098420840073236536) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098420840073236536)
 
-- **2.5 分镜 → Seedance 皮克斯片开源工作流** — 任意想法先出细拆 storyboard，再丢 Seedance 2.5 成皮克斯级镜头序列。叙事广告/短片管线直接抄，原帖附开源 workflow。 [@EHuanglu](https://x.com/EHuanglu) · [原帖](https://x.com/EHuanglu/status/2098411370815643837) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098411370815643837)
+- **2.5 分镜 → Seedance 皮克斯片开源工作流** — 任意想法先出细拆 storyboard，再丢 Seedance 2.5 成皮克斯级镜头序列。叙事广告/短片管线直接抄，原帖附开源 workflow。 [@EHuanglu](https://x.com/EHuanglu) · [原帖](https://x.com/EHuanglu/status/2098411370815643837) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098411370815643837)
 
-- **爱因斯坦 3D：Images 2.5 → Tripo → Astra 管线** — 静帧出人设 → Tripo 几分钟成模 → GPT-6 Astra High 绑骨动画。概念角色进可动 3D 的最短路径演示。 [@SimonasLTU1](https://x.com/SimonasLTU1) · [原帖](https://x.com/SimonasLTU1/status/2098405779912978525) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098405779912978525)
+- **爱因斯坦 3D：Images 2.5 → Tripo → Astra 管线** — 静帧出人设 → Tripo 几分钟成模 → GPT-6 Astra High 绑骨动画。概念角色进可动 3D 的最短路径演示。 [@SimonasLTU1](https://x.com/SimonasLTU1) · [原帖](https://x.com/SimonasLTU1/status/2098405779912978525) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098405779912978525)
 
-- **Flare 把天折起来：超写实天空折叠构图** — 几张「天空折叠」光影尺度很冲。要氛围海报、不想写长 prompt 时，先偷构图再补细节。 [@ZephyraLeigh](https://x.com/ZephyraLeigh) · [原帖](https://x.com/ZephyraLeigh/status/2098381709050097920) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098381709050097920)
+- **Flare 把天折起来：超写实天空折叠构图** — 几张「天空折叠」光影尺度很冲。要氛围海报、不想写长 prompt 时，先偷构图再补细节。 [@ZephyraLeigh](https://x.com/ZephyraLeigh) · [原帖](https://x.com/ZephyraLeigh/status/2098381709050097920) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098381709050097920)
 
-- **Flare 故事板 → PixVerse Canvas 三页漫画** — 同一角色设定表：写实分镜跑视频，再丢进 Flare 出漫画风，PS 加字。一条资产两套交付，内容团队该偷。 [@lukmanfebrianto](https://x.com/lukmanfebrianto) · [原帖](https://x.com/lukmanfebrianto/status/2098381056172847326) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098381056172847326)
+- **Flare 故事板 → PixVerse Canvas 三页漫画** — 同一角色设定表：写实分镜跑视频，再丢进 Flare 出漫画风，PS 加字。一条资产两套交付，内容团队该偷。 [@lukmanfebrianto](https://x.com/lukmanfebrianto) · [原帖](https://x.com/lukmanfebrianto/status/2098381056172847326) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098381056172847326)
 
-- **Images 2.5 九宫格 → Gemini 10 秒游戏 CM** — 停动猫头鹰咖啡店九格静帧，再丢 Gemini 出 10 秒 CM。游戏预告两步走，提示词在回复。 [@uniyume](https://x.com/uniyume) · [原帖](https://x.com/uniyume/status/2098379926642831769) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098379926642831769)
+- **Images 2.5 九宫格 → Gemini 10 秒游戏 CM** — 停动猫头鹰咖啡店九格静帧，再丢 Gemini 出 10 秒 CM。游戏预告两步走，提示词在回复。 [@uniyume](https://x.com/uniyume) · [原帖](https://x.com/uniyume/status/2098379926642831769) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098379926642831769&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13043,7 +13069,7 @@ Richly layered paper swirls in vibrant orange, yellow, red, and blue cascade aro
 
   </details>
 
-- **2.5 静帧 + Seedance：影院破屏巨鲸几乎真感** — Image 2.5 定主体，Seedance 接 handheld POV 破屏路径。广告级「假真感」时间线，配方在回复里。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2098361198173651328) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098361198173651328)
+- **2.5 静帧 + Seedance：影院破屏巨鲸几乎真感** — Image 2.5 定主体，Seedance 接 handheld POV 破屏路径。广告级「假真感」时间线，配方在回复里。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2098361198173651328) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098361198173651328&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13061,15 +13087,15 @@ AUDIO: Generate subtle theater room tone, a synchronized rush of air and nonverb
 
   </details>
 
-- **指定「3D 游戏图」：提质更好出味** — 同样提质，写清 3D 游戏画面风格，细节与材质更稳。短指令，大差别。 [@aruomoteomote](https://x.com/aruomoteomote) · [原帖](https://x.com/aruomoteomote/status/2098346705456656668) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098346705456656668)
+- **指定「3D 游戏图」：提质更好出味** — 同样提质，写清 3D 游戏画面风格，细节与材质更稳。短指令，大差别。 [@aruomoteomote](https://x.com/aruomoteomote) · [原帖](https://x.com/aruomoteomote/status/2098346705456656668) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098346705456656668)
 
-- **2D→Image 2.5→hi3d→Three.js：两小时可逛 3D** — 概念渲染进 Astra/Image 2.5 定光影材质，hi3d 出干净 mesh，再 Flora MCP + Julius 交浏览器。出图秀升级成可交付交互环境。 [@Motion_Viz](https://x.com/Motion_Viz) · [原帖](https://x.com/Motion_Viz/status/2098324667287359560) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098324667287359560)
+- **2D→Image 2.5→hi3d→Three.js：两小时可逛 3D** — 概念渲染进 Astra/Image 2.5 定光影材质，hi3d 出干净 mesh，再 Flora MCP + Julius 交浏览器。出图秀升级成可交付交互环境。 [@Motion_Viz](https://x.com/Motion_Viz) · [原帖](https://x.com/Motion_Viz/status/2098324667287359560) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098324667287359560)
 
-- **Blender 建模 → Sunburst 精修渲染** — Minimax/Blender 出三维结构，再丢 Sunburst 提质。控形归建模、皮相归 2.5——3D×图像的正经分工。 [@Banyu_Biroeee](https://x.com/Banyu_Biroeee) · [原帖](https://x.com/Banyu_Biroeee/status/2098308242279727175) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098308242279727175)
+- **Blender 建模 → Sunburst 精修渲染** — Minimax/Blender 出三维结构，再丢 Sunburst 提质。控形归建模、皮相归 2.5——3D×图像的正经分工。 [@Banyu_Biroeee](https://x.com/Banyu_Biroeee) · [原帖](https://x.com/Banyu_Biroeee/status/2098308242279727175) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098308242279727175)
 
-- **Flare 车×建筑隐喻海报：路长成了 Camry** — 「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098299916166873371) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098299916166873371) · [prompt](https://x.com/Diplomeme/status/2098299968260067639)
+- **Flare 车×建筑隐喻海报：路长成了 Camry** — 「THE ROAD BECOMES THE CAMRY」——沥青线跟着车身轮廓走。15 段工业级 Art Director prompt 在评论区，汽车广告概念向教科书。 [@Diplomeme](https://x.com/Diplomeme) · [原帖](https://x.com/Diplomeme/status/2098299916166873371) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098299916166873371) · [prompt](https://x.com/Diplomeme/status/2098299968260067639)
 
-- **Instant 邪门一句话：诡异不安照片** — 中文短 prompt + Instant：禁止提问、禁止解释文字，专出「暗网硬盘感」。玩恐怖/异质审美的人收藏这句就够。 [@dtzy_88](https://x.com/dtzy_88) · [原帖](https://x.com/dtzy_88/status/2098290580581486858) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098290580581486858)
+- **Instant 邪门一句话：诡异不安照片** — 中文短 prompt + Instant：禁止提问、禁止解释文字，专出「暗网硬盘感」。玩恐怖/异质审美的人收藏这句就够。 [@dtzy_88](https://x.com/dtzy_88) · [原帖](https://x.com/dtzy_88/status/2098290580581486858) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098290580581486858&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13079,11 +13105,11 @@ AUDIO: Generate subtle theater room tone, a synchronized rush of air and nonverb
 
   </details>
 
-- **2.5 插画 → Blender 可运镜 3D** — Image 2.5 插画经 Higgsfield 插件进 Blender，保风格纹理还能运镜改机位。平面资产升级空间场景的捷径。 [@adilinthewild](https://x.com/adilinthewild) · [原帖](https://x.com/adilinthewild/status/2098245333180723513) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098245333180723513)
+- **2.5 插画 → Blender 可运镜 3D** — Image 2.5 插画经 Higgsfield 插件进 Blender，保风格纹理还能运镜改机位。平面资产升级空间场景的捷径。 [@adilinthewild](https://x.com/adilinthewild) · [原帖](https://x.com/adilinthewild/status/2098245333180723513) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098245333180723513)
 
-- **品牌 DNA × Flare/Sunburst：1985 上线脑洞** — 先吃进 BrandKit，再问「如果 BrandGen 1985 年上线会怎样」——品牌一致营销图的正确打开方式，不是单图 prompt。 [@BrandGen_AI](https://x.com/BrandGen_AI) · [原帖](https://x.com/BrandGen_AI/status/2098034801265824087) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098034801265824087)
+- **品牌 DNA × Flare/Sunburst：1985 上线脑洞** — 先吃进 BrandKit，再问「如果 BrandGen 1985 年上线会怎样」——品牌一致营销图的正确打开方式，不是单图 prompt。 [@BrandGen_AI](https://x.com/BrandGen_AI) · [原帖](https://x.com/BrandGen_AI/status/2098034801265824087) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098034801265824087)
 
-- **国家地标拼成 3D 微缩地图（可换国家）** — 可替换 [COUNTRY] 的模板 prompt：国界用地标拼成微缩模型。旅游/文旅 KV 秒开脑洞。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2097996229582147939) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097996229582147939)
+- **国家地标拼成 3D 微缩地图（可换国家）** — 可替换 [COUNTRY] 的模板 prompt：国界用地标拼成微缩模型。旅游/文旅 KV 秒开脑洞。 [@Naiknelofar788](https://x.com/Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2097996229582147939) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097996229582147939&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13093,11 +13119,11 @@ Create a unique 3D miniature [COUNTRY] where the entire national border is forme
 
   </details>
 
-- **奢侈品布料动物 2×2** — 短 prompt：按时尚屋签名面料重绘动物网格（16:9）。创意广告脑暴与品牌联名视觉很香。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2097981153760116975) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097981153760116975)
+- **奢侈品布料动物 2×2** — 短 prompt：按时尚屋签名面料重绘动物网格（16:9）。创意广告脑暴与品牌联名视觉很香。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2097981153760116975) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097981153760116975)
 
-- **30 秒短片流水线：Flare→PixVerse→MiniMax** — Flare 出图 → PixVerse Canvas → MiniMax 视频 → ElevenMusic，一人团队概念片现成配方。 [@lukmanfebrianto](https://x.com/lukmanfebrianto) · [原帖](https://x.com/lukmanfebrianto/status/2097874955488972897) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097874955488972897)
+- **30 秒短片流水线：Flare→PixVerse→MiniMax** — Flare 出图 → PixVerse Canvas → MiniMax 视频 → ElevenMusic，一人团队概念片现成配方。 [@lukmanfebrianto](https://x.com/lukmanfebrianto) · [原帖](https://x.com/lukmanfebrianto/status/2097874955488972897) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097874955488972897)
 
-- **手办经典测图** — 每出新模型必测的 1/7 手办桌面场景：透明底座 + 屏上 ZBrush + BANDAI 包装盒。2.5 直出质感直接能当选品样张。 [@cnyzgkc](https://x.com/cnyzgkc) · [原帖](https://x.com/cnyzgkc/status/2097868249392390473) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097868249392390473)
+- **手办经典测图** — 每出新模型必测的 1/7 手办桌面场景：透明底座 + 屏上 ZBrush + BANDAI 包装盒。2.5 直出质感直接能当选品样张。 [@cnyzgkc](https://x.com/cnyzgkc) · [原帖](https://x.com/cnyzgkc/status/2097868249392390473) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097868249392390473&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13107,9 +13133,9 @@ Use the model to create a 1/7 scale commercialized figure of the character in th
 
   </details>
 
-- **Astra×Image2.5 拼贴流水线** — 逐片生成 → PS 拼 → AE 动起来；社媒拼贴 / 情绪板类内容批产。 [@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2097860770210152638) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097860770210152638)
+- **Astra×Image2.5 拼贴流水线** — 逐片生成 → PS 拼 → AE 动起来；社媒拼贴 / 情绪板类内容批产。 [@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2097860770210152638) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097860770210152638)
 
-- **超现实写实 one-liner** — 一句神 prompt：最写实地画最超现实的东西。Sunburst + Firefly Boards 直出，灵感测图必备。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2097860435366048106) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097860435366048106)
+- **超现实写实 one-liner** — 一句神 prompt：最写实地画最超现实的东西。Sunburst + Firefly Boards 直出，灵感测图必备。 [@icreatelife](https://x.com/icreatelife) · [原帖](https://x.com/icreatelife/status/2097860435366048106) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097860435366048106&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13119,7 +13145,7 @@ create the most realistic possible image of the most surreal thing you can imagi
 
   </details>
 
-- **橘子微缩小人** — 剥开的橘子变成透光穹顶洞穴，2cm 小人住进果肉。透射光 + Vision3 胶片逻辑，微缩场景天花板。 [@JohnnyWang8802](https://x.com/JohnnyWang8802) · [原帖](https://x.com/JohnnyWang8802/status/2097800514633429315) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097800514633429315)
+- **橘子微缩小人** — 剥开的橘子变成透光穹顶洞穴，2cm 小人住进果肉。透射光 + Vision3 胶片逻辑，微缩场景天花板。 [@JohnnyWang8802](https://x.com/JohnnyWang8802) · [原帖](https://x.com/JohnnyWang8802/status/2097800514633429315) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097800514633429315&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13134,7 +13160,7 @@ Overall exposure reduced by one stop. The darkness outside the cave remains trul
 
   </details>
 
-- **枫叶点水 Prompt1** — 半透明金叶点触暗水面，脉纹里开粉花。Flare 氛围大图，竖版奇幻场景一键出片。 [@churvikv](https://x.com/churvikv) · [原帖](https://x.com/churvikv/status/2097784050660376617) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097784050660376617)
+- **枫叶点水 Prompt1** — 半透明金叶点触暗水面，脉纹里开粉花。Flare 氛围大图，竖版奇幻场景一键出片。 [@churvikv](https://x.com/churvikv) · [原帖](https://x.com/churvikv/status/2097784050660376617) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097784050660376617&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13144,9 +13170,9 @@ An enchanting and surreal digital art piece featuring a translucent, golden mapl
 
   </details>
 
-- **Image 2.5 + Seedance 写实视频工作流** — 拆解+提示词全摊开：写实 AI 视频不是一键出片，种草长文/短视频可直接抄流程。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2097698694296686623) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097698694296686623)
+- **Image 2.5 + Seedance 写实视频工作流** — 拆解+提示词全摊开：写实 AI 视频不是一键出片，种草长文/短视频可直接抄流程。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2097698694296686623) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097698694296686623)
 
-- **创意设计公司中文官网 9:16 长截图** — 见造官网视觉：导航到页脚完整中文界面，几何拼贴+人像。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2097652659788619894) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097652659788619894)
+- **创意设计公司中文官网 9:16 长截图** — 见造官网视觉：导航到页脚完整中文界面，几何拼贴+人像。 [@listudio](https://x.com/listudio) · [原帖](https://x.com/listudio/status/2097652659788619894) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097652659788619894&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13181,7 +13207,7 @@ More Prompt  ➡️ http://genvizu.com.
 
   </details>
 
-- **Pinterest → /detailed-image-2-text-prompt** — 参考图反推提示词流程。 [@sven_ai](https://x.com/sven_ai) · [原帖](https://x.com/sven_ai/status/2097651464093282720) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097651464093282720)
+- **Pinterest → /detailed-image-2-text-prompt** — 参考图反推提示词流程。 [@sven_ai](https://x.com/sven_ai) · [原帖](https://x.com/sven_ai/status/2097651464093282720) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097651464093282720&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13191,7 +13217,7 @@ More Prompt  ➡️ http://genvizu.com.
 
   </details>
 
-- **等距国家微缩模型 diorama（可换国家）** — 2.5 vs 2 对照；回复里给出完整 isometric prompt。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2097651231569399814) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097651231569399814)
+- **等距国家微缩模型 diorama（可换国家）** — 2.5 vs 2 对照；回复里给出完整 isometric prompt。 [@abxxai](https://x.com/abxxai) · [原帖](https://x.com/abxxai/status/2097651231569399814) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097651231569399814&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13215,9 +13241,9 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
 
   </details>
 
-- **手机实拍 + 七轮改房仍一致** — 室内场景多轮编辑，家具与透视不崩。 [@exploraX_](https://x.com/exploraX_) · [原帖](https://x.com/exploraX_/status/2097637713784476152) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097637713784476152)
+- **手机实拍 + 七轮改房仍一致** — 室内场景多轮编辑，家具与透视不崩。 [@exploraX_](https://x.com/exploraX_) · [原帖](https://x.com/exploraX_/status/2097637713784476152) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097637713784476152)
 
-- **模块化美食病毒图** — 可拼装的食品视觉模板，适合短视频封面。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2097620275940737326) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097620275940737326)
+- **模块化美食病毒图** — 可拼装的食品视觉模板，适合短视频封面。 [@Gdgtify](https://x.com/Gdgtify) · [原帖](https://x.com/Gdgtify/status/2097620275940737326) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097620275940737326&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13229,7 +13255,7 @@ GPT Image 2.5. A modular prompt for food shots. It's not my favorite structure b
 
   </details>
 
-- **10 条 Control / Astra 向 Prompt** — 控制向提示合集，控构图、控风格。 [@vinsonleow](https://x.com/vinsonleow) · [原帖](https://x.com/vinsonleow/status/2097592608583471184) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097592608583471184)
+- **10 条 Control / Astra 向 Prompt** — 控制向提示合集，控构图、控风格。 [@vinsonleow](https://x.com/vinsonleow) · [原帖](https://x.com/vinsonleow/status/2097592608583471184) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097592608583471184&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13272,7 +13298,7 @@ It’s control.
 
   </details>
 
-- **3D RPG 打光模板** — 游戏感灯光与材质描述，可抄进资产管线。 [@underwoodxie96](https://x.com/underwoodxie96) · [原帖](https://x.com/underwoodxie96/status/2097587863139537262) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097587863139537262)
+- **3D RPG 打光模板** — 游戏感灯光与材质描述，可抄进资产管线。 [@underwoodxie96](https://x.com/underwoodxie96) · [原帖](https://x.com/underwoodxie96/status/2097587863139537262) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097587863139537262&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13282,9 +13308,9 @@ Please capture a realistic screenshot from a fictional next-generation 3D open-w
 
   </details>
 
-- **Pinterest → 细颗粒 Prompt 配方** — 从灵感图反推可控描述，营销素材生产线。 [@Acemation_](https://x.com/Acemation_) · [原帖](https://x.com/Acemation_/status/2097586179835400667) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097586179835400667)
+- **Pinterest → 细颗粒 Prompt 配方** — 从灵感图反推可控描述，营销素材生产线。 [@Acemation_](https://x.com/Acemation_) · [原帖](https://x.com/Acemation_/status/2097586179835400667) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097586179835400667)
 
-- **Leaf Dancer 纸艺叶裙 9:16** — 植物纸艺舞女竖版，完整一句 prompt。 [@unrealpixels](https://x.com/unrealpixels) · [原帖](https://x.com/unrealpixels/status/2097564822984626347) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097564822984626347)
+- **Leaf Dancer 纸艺叶裙 9:16** — 植物纸艺舞女竖版，完整一句 prompt。 [@unrealpixels](https://x.com/unrealpixels) · [原帖](https://x.com/unrealpixels/status/2097564822984626347) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097564822984626347&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13299,9 +13325,11 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 ## 像素动效
 
+> 💡 本分类带提示词的条目可点「▶ 一键试用」直接在线生成；或打开 [GPT Image 2.5 在线生成器 →](https://gptimage2.asia/zh/generate?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=section-pixel)
+
 像素、精灵表与动效向玩法。
 
-- **针毡柴犬咖啡师：4×4精灵表→GIF完整流水线** — Skye 先用 Image 2.5 出角色场景，再上传生成锁机位 4×4 拉花序列表，最后丢 Astra/Pillow 拼循环 GIF——帧序、时长、连续性全写死。虚拟 IP 动效别只会单帧卖萌，先抄这套「出图→精灵表→动效」。 [@skyevale_](https://x.com/skyevale_) · [原帖](https://x.com/skyevale_/status/2104471660216902104) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104471660216902104) · [精灵表教程参考](https://x.com/NFT_Chen/status/2097882646198235424)
+- **针毡柴犬咖啡师：4×4精灵表→GIF完整流水线** — Skye 先用 Image 2.5 出角色场景，再上传生成锁机位 4×4 拉花序列表，最后丢 Astra/Pillow 拼循环 GIF——帧序、时长、连续性全写死。虚拟 IP 动效别只会单帧卖萌，先抄这套「出图→精灵表→动效」。 [@skyevale_](https://x.com/skyevale_) · [原帖](https://x.com/skyevale_/status/2104471660216902104) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104471660216902104&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [精灵表教程参考](https://x.com/NFT_Chen/status/2097882646198235424)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13352,11 +13380,11 @@ Deliver the finished 4×4 grid image.
 
   </details>
 
-- **Opus 自训像素引擎：Flare low 约 $0.02/次 + art_director.md 原地改精灵** — 用 gpt-image-2.5-flare low 把像素精灵迭代压到约两美分一枪，再靠 art_director.md 自评后直接改真精灵——细修别整张重抽。Agent 管像素资产时，先把成本档和原地编辑焊进流水线。 [@jefdiesel](https://x.com/jefdiesel) · [原帖](https://x.com/jefdiesel/status/2103466733134610843) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103466733134610843)
+- **Opus 自训像素引擎：Flare low 约 $0.02/次 + art_director.md 原地改精灵** — 用 gpt-image-2.5-flare low 把像素精灵迭代压到约两美分一枪，再靠 art_director.md 自评后直接改真精灵——细修别整张重抽。Agent 管像素资产时，先把成本档和原地编辑焊进流水线。 [@jefdiesel](https://x.com/jefdiesel) · [原帖](https://x.com/jefdiesel/status/2103466733134610843) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2103466733134610843)
 
-- **一张图→平铺24帧精灵图→位移播放成动画** — 小工具管线：gpt-image-2.5 把单图烤成一张 24 帧平铺精灵表，再靠移动视口播成动画；作者强调 2.5 指令遵循更稳、结果越来越可控。表情包/短动效别先上视频模型——精灵表位移往往更便宜。 [@bavoch1217](https://x.com/bavoch1217) · [原帖](https://x.com/bavoch1217/status/2103414026667729242) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103414026667729242)
+- **一张图→平铺24帧精灵图→位移播放成动画** — 小工具管线：gpt-image-2.5 把单图烤成一张 24 帧平铺精灵表，再靠移动视口播成动画；作者强调 2.5 指令遵循更稳、结果越来越可控。表情包/短动效别先上视频模型——精灵表位移往往更便宜。 [@bavoch1217](https://x.com/bavoch1217) · [原帖](https://x.com/bavoch1217/status/2103414026667729242) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2103414026667729242)
 
-- **Perler Bead 可填槽：[COUNTRY] 4:5 编辑图** — 填国家/地标自动抽主体 → 拼豆质感 + 白描边 + 大留白。旅游/城市系列海报流水线，换词即出下一城。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2102318473997426892) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102318473997426892)
+- **Perler Bead 可填槽：[COUNTRY] 4:5 编辑图** — 填国家/地标自动抽主体 → 拼豆质感 + 白描边 + 大留白。旅游/城市系列海报流水线，换词即出下一城。 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2102318473997426892) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102318473997426892&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13391,7 +13419,7 @@ FORMAT: 4:5 vertical, 50/50 balanced composition, small centered Perler Bead art
 
   </details>
 
-- **角色图→5×5 像素精灵表→循环 reaction GIF** — 先出一致性精灵表再拼动效：25 帧哭戏循环、脚钉死基线、纯白无格线。表情包 / 社区互动素材流水线，prompt 在楼中。 [@MedioConxx](https://x.com/MedioConxx) · [原帖](https://x.com/MedioConxx/status/2102247966786375740) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102247966786375740)
+- **角色图→5×5 像素精灵表→循环 reaction GIF** — 先出一致性精灵表再拼动效：25 帧哭戏循环、脚钉死基线、纯白无格线。表情包 / 社区互动素材流水线，prompt 在楼中。 [@MedioConxx](https://x.com/MedioConxx) · [原帖](https://x.com/MedioConxx/status/2102247966786375740) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102247966786375740&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13415,9 +13443,9 @@ No character duplication within an individual frame, no missing legs, no changin
 
   </details>
 
-- **Astra×Sunburst 定格恶搞广告：全流程约 $3.97** — 嫌官方 TV 广告没把吉祥物做成定格？用 Image 2.5 Sunburst 出帧 + Astra 串成 stop-motion 恶搞广告，成本约 $3.97。短视频投放测创意，先算清楚帧成本再卷特效。 [@pritopian](https://x.com/pritopian) · [原帖](https://x.com/pritopian/status/2102175407277801806) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102175407277801806)
+- **Astra×Sunburst 定格恶搞广告：全流程约 $3.97** — 嫌官方 TV 广告没把吉祥物做成定格？用 Image 2.5 Sunburst 出帧 + Astra 串成 stop-motion 恶搞广告，成本约 $3.97。短视频投放测创意，先算清楚帧成本再卷特效。 [@pritopian](https://x.com/pritopian) · [原帖](https://x.com/pritopian/status/2102175407277801806) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102175407277801806)
 
-- **Claude Code→VOX 科普片六步：Image2.5 同源局部+MiniMax H3** — 每句旁白必须有可证明的图；图1总控+图2–5同源局部特写（带图1一起生成）；中文烧进图里；MiniMax H3 Ref2VA 四档保留词。15 秒约¥7.5——Agent 出科普短片的可抄流水线。 [@AlistairVadkqv](https://x.com/AlistairVadkqv) · [原帖](https://x.com/AlistairVadkqv/status/2101861488189431919) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101861488189431919)
+- **Claude Code→VOX 科普片六步：Image2.5 同源局部+MiniMax H3** — 每句旁白必须有可证明的图；图1总控+图2–5同源局部特写（带图1一起生成）；中文烧进图里；MiniMax H3 Ref2VA 四档保留词。15 秒约¥7.5——Agent 出科普短片的可抄流水线。 [@AlistairVadkqv](https://x.com/AlistairVadkqv) · [原帖](https://x.com/AlistairVadkqv/status/2101861488189431919) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101861488189431919&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13435,7 +13463,7 @@ No character duplication within an individual frame, no missing legs, no changin
 
   </details>
 
-- **八格分镜 contact sheet→竖屏爆米花车祸** — 先用 Image 2.5 出 4×2 八格连续 contact sheet（车内 POV、热风机→玉米→爆米花链式反应），再整图喂 Seedance 2.5 成 25s 竖屏伪实拍。分镜控连续 + 视频模型收口的病毒片母版。 [@Raul_IA_Prod](https://x.com/Raul_IA_Prod) · [原帖](https://x.com/Raul_IA_Prod/status/2101592798180814900) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2101592798180814900)
+- **八格分镜 contact sheet→竖屏爆米花车祸** — 先用 Image 2.5 出 4×2 八格连续 contact sheet（车内 POV、热风机→玉米→爆米花链式反应），再整图喂 Seedance 2.5 成 25s 竖屏伪实拍。分镜控连续 + 视频模型收口的病毒片母版。 [@Raul_IA_Prod](https://x.com/Raul_IA_Prod) · [原帖](https://x.com/Raul_IA_Prod/status/2101592798180814900) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2101592798180814900&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13481,11 +13509,11 @@ Image1 is an 8-panel storyboard. Read left to right, top to bottom. Use as refer
 
   </details>
 
-- **Image 2.5 做 GIF：中文一句就能玩** — 用 GPT-Image 2.5 出帧再拼 GIF，中文说明 + 示范动图。表情包 / 短动效种草门槛被砍到「会说话就行」。 [@_AIBOZ_](https://x.com/_AIBOZ_) · [原帖](https://x.com/_AIBOZ_/status/2100893023416811712) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100893023416811712)
+- **Image 2.5 做 GIF：中文一句就能玩** — 用 GPT-Image 2.5 出帧再拼 GIF，中文说明 + 示范动图。表情包 / 短动效种草门槛被砍到「会说话就行」。 [@_AIBOZ_](https://x.com/_AIBOZ_) · [原帖](https://x.com/_AIBOZ_/status/2100893023416811712) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100893023416811712)
 
-- **毡艺静帧→Seedance 短片：Image 2.5 出图链路** — 先用 GPT Image 2.5 锁一张毡艺世界观静帧，再丢进 Seedance 2.0 Mini 动起来。一帧图也能讲出小故事——静转动种草管线。 [@akiwithai](https://x.com/akiwithai) · [原帖](https://x.com/akiwithai/status/2100794645639012728) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100794645639012728)
+- **毡艺静帧→Seedance 短片：Image 2.5 出图链路** — 先用 GPT Image 2.5 锁一张毡艺世界观静帧，再丢进 Seedance 2.0 Mini 动起来。一帧图也能讲出小故事——静转动种草管线。 [@akiwithai](https://x.com/akiwithai) · [原帖](https://x.com/akiwithai/status/2100794645639012728) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100794645639012728)
 
-- **Image2.5任务精灵表：11格分镜→成片管线** — 先用 Image 2.5 出带 HUD/小地图/倒计时的 11 格任务分镜，再喂视频模型成片。开放世界任务短片流水线可抄，附分镜核心 prompt。 [@Raul_IA_Prod](https://x.com/Raul_IA_Prod) · [原帖](https://x.com/Raul_IA_Prod/status/2100521058331759057) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100521058331759057)
+- **Image2.5任务精灵表：11格分镜→成片管线** — 先用 Image 2.5 出带 HUD/小地图/倒计时的 11 格任务分镜，再喂视频模型成片。开放世界任务短片流水线可抄，附分镜核心 prompt。 [@Raul_IA_Prod](https://x.com/Raul_IA_Prod) · [原帖](https://x.com/Raul_IA_Prod/status/2100521058331759057) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100521058331759057&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13559,13 +13587,13 @@ Exactly 11 storyboard panels, numbered 01–11.
 
   </details>
 
-- **精灵表能打，动效会翻车：Image 2.5 诚实对照** — spritesheet 仍是他见过最稳的图像模型，但某些动作类型会惨烈失败；同帖并排自家动画模型 12 帧。做游戏素材/表情包先看这条能力边界。 [@GrilliotTodd](https://x.com/GrilliotTodd) · [原帖](https://x.com/GrilliotTodd/status/2100335015100043300) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100335015100043300)
+- **精灵表能打，动效会翻车：Image 2.5 诚实对照** — spritesheet 仍是他见过最稳的图像模型，但某些动作类型会惨烈失败；同帖并排自家动画模型 12 帧。做游戏素材/表情包先看这条能力边界。 [@GrilliotTodd](https://x.com/GrilliotTodd) · [原帖](https://x.com/GrilliotTodd/status/2100335015100043300) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100335015100043300)
 
-- **16 格舞姿分镜→Wan 3.0 连续动画** — 先用 Image 2.5 铺 16-panel 动作表，再 Wan 3.0 整段成片。分镜当运动规划，比瞎生成省后悔。 [@SeeGen_Official](https://x.com/SeeGen_Official) · [原帖](https://x.com/SeeGen_Official/status/2100102904011190648) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100102904011190648)
+- **16 格舞姿分镜→Wan 3.0 连续动画** — 先用 Image 2.5 铺 16-panel 动作表，再 Wan 3.0 整段成片。分镜当运动规划，比瞎生成省后悔。 [@SeeGen_Official](https://x.com/SeeGen_Official) · [原帖](https://x.com/SeeGen_Official/status/2100102904011190648) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100102904011190648)
 
-- **Sunburst 粘土 skill：24 帧场景不崩脸** — ChatGPT skill 硬刚「同一粘土场景跨 24 帧一致」，横竖画幅都能出短片。一人团队短内容管线可抄思路（作者考虑开源）。 [@bahaa_alghazawy](https://x.com/bahaa_alghazawy) · [原帖](https://x.com/bahaa_alghazawy/status/2100073038603780182) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100073038603780182)
+- **Sunburst 粘土 skill：24 帧场景不崩脸** — ChatGPT skill 硬刚「同一粘土场景跨 24 帧一致」，横竖画幅都能出短片。一人团队短内容管线可抄思路（作者考虑开源）。 [@bahaa_alghazawy](https://x.com/bahaa_alghazawy) · [原帖](https://x.com/bahaa_alghazawy/status/2100073038603780182) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100073038603780182)
 
-- **单图→4×4 舞蹈参考表→MiniMax 成片** — 上传角色一图，Image 2.5 出 16 格连续舞姿 sheet，再丢 MiniMax H3 接成流畅舞蹈视频。像素/二次元短动效流水线可直接抄图 prompt。 [@Scenario_gg](https://x.com/Scenario_gg) · [原帖](https://x.com/Scenario_gg/status/2099797670516695385) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099797670516695385)
+- **单图→4×4 舞蹈参考表→MiniMax 成片** — 上传角色一图，Image 2.5 出 16 格连续舞姿 sheet，再丢 MiniMax H3 接成流畅舞蹈视频。像素/二次元短动效流水线可直接抄图 prompt。 [@Scenario_gg](https://x.com/Scenario_gg) · [原帖](https://x.com/Scenario_gg/status/2099797670516695385) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099797670516695385&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13691,7 +13719,7 @@ The finished sheet should read immediately as sixteen carefully selected consecu
 
   </details>
 
-- **Sunburst 粘土龙：蛋孵化 one-shot 定格** — 一句话故事板：孵化→打喷嚏小火→烤糊蛋壳。玩梗短广告钩子，prompt 可直接抄改角色。 [@reach_vb](https://x.com/reach_vb) · [原帖](https://x.com/reach_vb/status/2099545621040422979) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099545621040422979)
+- **Sunburst 粘土龙：蛋孵化 one-shot 定格** — 一句话故事板：孵化→打喷嚏小火→烤糊蛋壳。玩梗短广告钩子，prompt 可直接抄改角色。 [@reach_vb](https://x.com/reach_vb) · [原帖](https://x.com/reach_vb/status/2099545621040422979) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099545621040422979&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13705,9 +13733,9 @@ rough story: It hatches, sneezes a tiny flame, accidentally toasts its shell
 
   </details>
 
-- **定格动画：描述镜头就能出序列** — Image 2.5 做 stop-motion 实测，附 prompt。短广告分镜/产品动效一人团队可偷师。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2099466924572983460) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099466924572983460)
+- **定格动画：描述镜头就能出序列** — Image 2.5 做 stop-motion 实测，附 prompt。短广告分镜/产品动效一人团队可偷师。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2099466924572983460) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099466924572983460)
 
-- **黏土狐狸烤鲷鱼烧：16 格停格序列** — 4×4 contact sheet 一把梭：锁机位、只动爪子/模具/表情。短视频/封面动效母版，完整 prompt 可抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2099459517373391327) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099459517373391327)
+- **黏土狐狸烤鲷鱼烧：16 格停格序列** — 4×4 contact sheet 一把梭：锁机位、只动爪子/模具/表情。短视频/封面动效母版，完整 prompt 可抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2099459517373391327) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099459517373391327&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13746,7 +13774,7 @@ Coherent readable food preparation, tiny frame-to-frame changes, handcrafted cla
 
   </details>
 
-- **角色自适应 4×4 舞蹈姿态表** — 上传人设自动选舞风，16 格连贯姿态；可再接视频 prompt 出片。短视频种草/表情包流水线。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2099457417528692871) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099457417528692871)
+- **角色自适应 4×4 舞蹈姿态表** — 上传人设自动选舞风，16 格连贯姿态；可再接视频 prompt 出片。短视频种草/表情包流水线。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2099457417528692871) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099457417528692871&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13786,7 +13814,7 @@ Final output: one polished square image containing a clearly organized 4×4 grid
 
   </details>
 
-- **角色→4×4 偶像舞姿表→GIF** — 像素猫示例：先锁人设再压 16 格连贯舞姿，Ima Studio 可直接拼 GIF。表情包/短动效流水线，舞姿表 prompt 可抄。 [@ImaStudio_ai](https://x.com/ImaStudio_ai) · [原帖](https://x.com/ImaStudio_ai/status/2099445897457446934) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099445897457446934)
+- **角色→4×4 偶像舞姿表→GIF** — 像素猫示例：先锁人设再压 16 格连贯舞姿，Ima Studio 可直接拼 GIF。表情包/短动效流水线，舞姿表 prompt 可抄。 [@ImaStudio_ai](https://x.com/ImaStudio_ai) · [原帖](https://x.com/ImaStudio_ai/status/2099445897457446934) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099445897457446934&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13798,9 +13826,9 @@ Each panel must contain only one complete full-body character with enough margin
 
   </details>
 
-- **飞吻 4×4 序列帧：没跑过不出厂** — Line 表情包向 16 格实测入库；「爱你哦」白底 1:1 通挂，飞吻循环连贯性偏弱也写进评测。反营销滤镜的真·合集。 [@zouyanjian](https://x.com/zouyanjian) · [原帖](https://x.com/zouyanjian/status/2099422284666884445) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099422284666884445) · [repo](https://github.com/SmartStudio/baize-prompts/blob/main/prompts/image-gen/GPTImage25-Line%E8%A1%A8%E6%83%85%E5%8C%85%E5%BA%8F%E5%88%97%E5%B8%A7.md)
+- **飞吻 4×4 序列帧：没跑过不出厂** — Line 表情包向 16 格实测入库；「爱你哦」白底 1:1 通挂，飞吻循环连贯性偏弱也写进评测。反营销滤镜的真·合集。 [@zouyanjian](https://x.com/zouyanjian) · [原帖](https://x.com/zouyanjian/status/2099422284666884445) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099422284666884445) · [repo](https://github.com/SmartStudio/baize-prompts/blob/main/prompts/image-gen/GPTImage25-Line%E8%A1%A8%E6%83%85%E5%8C%85%E5%BA%8F%E5%88%97%E5%B8%A7.md)
 
-- **粘土定格 GIF：胖青蛙 DJ 一次出循环** — 24 帧塑料泥质感，金链耳机全入画，再把精灵表转 GIF。短视频贴纸 / 表情包流水线，抄走就能量产。 [@MrDasOnX](https://x.com/MrDasOnX) · [原帖](https://x.com/MrDasOnX/status/2098360111597244532) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098360111597244532)
+- **粘土定格 GIF：胖青蛙 DJ 一次出循环** — 24 帧塑料泥质感，金链耳机全入画，再把精灵表转 GIF。短视频贴纸 / 表情包流水线，抄走就能量产。 [@MrDasOnX](https://x.com/MrDasOnX) · [原帖](https://x.com/MrDasOnX/status/2098360111597244532) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098360111597244532&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13812,11 +13840,11 @@ Create a 24-frame clay stop-motion loop of a chubby green frog DJing. Handmade p
 
   </details>
 
-- **舞蹈分镜预测法 → Seedance 细指令成片** — Image 2.5 出舞蹈分镜用「预测法」留自由度，Seedance 再写细指令。零到一舞蹈短视频，应用面比单支舞宽。 [@FantasistaAI](https://x.com/FantasistaAI) · [原帖](https://x.com/FantasistaAI/status/2098348945562878436) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098348945562878436)
+- **舞蹈分镜预测法 → Seedance 细指令成片** — Image 2.5 出舞蹈分镜用「预测法」留自由度，Seedance 再写细指令。零到一舞蹈短视频，应用面比单支舞宽。 [@FantasistaAI](https://x.com/FantasistaAI) · [原帖](https://x.com/FantasistaAI/status/2098348945562878436) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098348945562878436)
 
-- **LINE 动态贴纸全链路：2.5→Seedance→ClaudeCode** — 角色图→24 姿绿幕→Seedance 动起来→ClaudeCode 转申请素材。动态贴纸从零到上架的一条龙。 [@emi4900](https://x.com/emi4900) · [原帖](https://x.com/emi4900/status/2098346806900146176) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098346806900146176)
+- **LINE 动态贴纸全链路：2.5→Seedance→ClaudeCode** — 角色图→24 姿绿幕→Seedance 动起来→ClaudeCode 转申请素材。动态贴纸从零到上架的一条龙。 [@emi4900](https://x.com/emi4900) · [原帖](https://x.com/emi4900/status/2098346806900146176) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098346806900146176)
 
-- **一张角色图 → 16 格 chibi 贴纸 + GIF** — 锁发型服装→16 表情英文短 caption→白底 GIF。聊天贴纸量产管线，prompt 完整可抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2098329229490581950) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098329229490581950)
+- **一张角色图 → 16 格 chibi 贴纸 + GIF** — 锁发型服装→16 表情英文短 caption→白底 GIF。聊天贴纸量产管线，prompt 完整可抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2098329229490581950) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2098329229490581950&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13868,35 +13896,35 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
   </details>
 
-- **静帧 + 配音 → Seedance，换人设不重剪** — 2.5 出首帧、配音另做，丢进 Seedance 2.5 成片后再换角色——同一套剪辑不用重来。短视频人设 A/B 测的正经流水线。 [@meetshukla_](https://x.com/meetshukla_) · [原帖](https://x.com/meetshukla_/status/2098280866459861176) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098280866459861176)
+- **静帧 + 配音 → Seedance，换人设不重剪** — 2.5 出首帧、配音另做，丢进 Seedance 2.5 成片后再换角色——同一套剪辑不用重来。短视频人设 A/B 测的正经流水线。 [@meetshukla_](https://x.com/meetshukla_) · [原帖](https://x.com/meetshukla_/status/2098280866459861176) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098280866459861176)
 
-- **2.5 静帧 → Seedance 粤语麻将短片** — Image 2.5 出参考帧 + Seedance 2.5 配粤语旁白。噪点还在，但遵从度与审美上去了——方言短视频可抄这条管线。 [@creator_kachun](https://x.com/creator_kachun) · [原帖](https://x.com/creator_kachun/status/2098266658205004027) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098266658205004027)
+- **2.5 静帧 → Seedance 粤语麻将短片** — Image 2.5 出参考帧 + Seedance 2.5 配粤语旁白。噪点还在，但遵从度与审美上去了——方言短视频可抄这条管线。 [@creator_kachun](https://x.com/creator_kachun) · [原帖](https://x.com/creator_kachun/status/2098266658205004027) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098266658205004027)
 
-- **舞蹈参考图 → Seedance 动画** — 2.5 先出舞蹈参考姿，再丢 Seedance 2.5 动起来。短视频角色舞素材流水线，prompt 在回复栏。 [@renoiseaijp](https://x.com/renoiseaijp) · [原帖](https://x.com/renoiseaijp/status/2098255433249288323) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098255433249288323)
+- **舞蹈参考图 → Seedance 动画** — 2.5 先出舞蹈参考姿，再丢 Seedance 2.5 动起来。短视频角色舞素材流水线，prompt 在回复栏。 [@renoiseaijp](https://x.com/renoiseaijp) · [原帖](https://x.com/renoiseaijp/status/2098255433249288323) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098255433249288323)
 
-- **纯 Images 2.5 直接出 GIF（没用 Astra）** — 角色动起来的轻量玩法，社媒素材试水不绑视频管线。动效入口比想象更低。 [@MNesuka](https://x.com/MNesuka) · [原帖](https://x.com/MNesuka/status/2098165367944458488) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098165367944458488)
+- **纯 Images 2.5 直接出 GIF（没用 Astra）** — 角色动起来的轻量玩法，社媒素材试水不绑视频管线。动效入口比想象更低。 [@MNesuka](https://x.com/MNesuka) · [原帖](https://x.com/MNesuka/status/2098165367944458488) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098165367944458488)
 
-- **GIF 配方写死：1:1 · 16 帧 · 12fps** — API max+4K 出精灵表再动起来。短营销动图模板，别再猜帧数。 [@Voxyz_ai](https://x.com/Voxyz_ai) · [原帖](https://x.com/Voxyz_ai/status/2098063955096633467) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098063955096633467)
+- **GIF 配方写死：1:1 · 16 帧 · 12fps** — API max+4K 出精灵表再动起来。短营销动图模板，别再猜帧数。 [@Voxyz_ai](https://x.com/Voxyz_ai) · [原帖](https://x.com/Voxyz_ai/status/2098063955096633467) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098063955096633467)
 
-- **任意梗图 → 5×5 像素精灵表 prompt** — 把 meme / 角色图压成 5×5 sprite sheet，prompt 可抄。表情包/游戏素材量产另一条路。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2098049016596729942) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098049016596729942)
+- **任意梗图 → 5×5 像素精灵表 prompt** — 把 meme / 角色图压成 5×5 sprite sheet，prompt 可抄。表情包/游戏素材量产另一条路。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2098049016596729942) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098049016596729942)
 
-- **开源翻页动画：手绘起始帧 → 连贯序列** — OSS flipbook：起始帧进 GPT-image 2.5 出序列，原画忠度比别家稳。附可玩 demo + 流程拆解。 [@hot_town](https://x.com/hot_town) · [原帖](https://x.com/hot_town/status/2098038563094806955) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098038563094806955)
+- **开源翻页动画：手绘起始帧 → 连贯序列** — OSS flipbook：起始帧进 GPT-image 2.5 出序列，原画忠度比别家稳。附可玩 demo + 流程拆解。 [@hot_town](https://x.com/hot_town) · [原帖](https://x.com/hot_town/status/2098038563094806955) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098038563094806955)
 
-- **16-bit 犯罪短片：Flare + MiniMax 流水线** — Flare 出图 + MiniMax H3 Max 出片 + CapCut：像素风不当游戏贴图，硬做电影叙事。一人团队内容形态参考。 [@Danzeronero](https://x.com/Danzeronero) · [原帖](https://x.com/Danzeronero/status/2098014623803052533) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098014623803052533)
+- **16-bit 犯罪短片：Flare + MiniMax 流水线** — Flare 出图 + MiniMax H3 Max 出片 + CapCut：像素风不当游戏贴图，硬做电影叙事。一人团队内容形态参考。 [@Danzeronero](https://x.com/Danzeronero) · [原帖](https://x.com/Danzeronero/status/2098014623803052533) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098014623803052533)
 
-- **手绘草稿直接出 GIF（中文 prompt）** — Sketch 草稿 → GPT Image 2.5 → 动图，中文提示词齐活。营销 demo / 教程最省事的一条。 [@xiaohua_888](https://x.com/xiaohua_888) · [原帖](https://x.com/xiaohua_888/status/2098005078422835608) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098005078422835608)
+- **手绘草稿直接出 GIF（中文 prompt）** — Sketch 草稿 → GPT Image 2.5 → 动图，中文提示词齐活。营销 demo / 教程最省事的一条。 [@xiaohua_888](https://x.com/xiaohua_888) · [原帖](https://x.com/xiaohua_888/status/2098005078422835608) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098005078422835608)
 
-- **4×4 像素精灵表（prompt 在评论）** — GPT Image 2.5 出完整 sprite sheet，评论区有 prompt。游戏资产/表情包管线一眼能抄。 [@MUsman7808](https://x.com/MUsman7808) · [原帖](https://x.com/MUsman7808/status/2098002527170277885) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098002527170277885)
+- **4×4 像素精灵表（prompt 在评论）** — GPT Image 2.5 出完整 sprite sheet，评论区有 prompt。游戏资产/表情包管线一眼能抄。 [@MUsman7808](https://x.com/MUsman7808) · [原帖](https://x.com/MUsman7808/status/2098002527170277885) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098002527170277885)
 
-- **单图 → 16 姿势 → Seedance 舞蹈片** — Image 2.5 出 16 pose，再丢 Seedance 做成舞蹈序列，prompt 在帖里。角色 UGC / 短视频素材流水线可直接抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2097958941070430477) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097958941070430477)
+- **单图 → 16 姿势 → Seedance 舞蹈片** — Image 2.5 出 16 pose，再丢 Seedance 做成舞蹈序列，prompt 在帖里。角色 UGC / 短视频素材流水线可直接抄。 [@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2097958941070430477) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097958941070430477)
 
-- **96 帧鹈鹕骑车定格动画** — Images 2.5 逐帧生 96 张拼成 8 秒定格。不靠视频模型也能出片，短视频选题很香。 [@yunxi0623](https://x.com/yunxi0623) · [原帖](https://x.com/yunxi0623/status/2097926023069519960) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097926023069519960)
+- **96 帧鹈鹕骑车定格动画** — Images 2.5 逐帧生 96 张拼成 8 秒定格。不靠视频模型也能出片，短视频选题很香。 [@yunxi0623](https://x.com/yunxi0623) · [原帖](https://x.com/yunxi0623/status/2097926023069519960) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097926023069519960)
 
-- **角色 → 4×4 战斗精灵表 → GIF** — Seedream 出人设，Image 2.5 压透明 4×4 精灵表，再拆帧成 GIF。游戏素材/小红书动图流水线可抄。 [@AI_VideoLab](https://x.com/AI_VideoLab) · [原帖](https://x.com/AI_VideoLab/status/2097924471655162025) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097924471655162025)
+- **角色 → 4×4 战斗精灵表 → GIF** — Seedream 出人设，Image 2.5 压透明 4×4 精灵表，再拆帧成 GIF。游戏素材/小红书动图流水线可抄。 [@AI_VideoLab](https://x.com/AI_VideoLab) · [原帖](https://x.com/AI_VideoLab/status/2097924471655162025) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097924471655162025)
 
-- **4×4 combat sprite → 干净 GIF** — 在 AIReel 上用 Image 2.5 把精灵表直接变成可播 GIF，prompt 在帖里。游戏素材流水线可参考。 [@AIReelofficial](https://x.com/AIReelofficial) · [原帖](https://x.com/AIReelofficial/status/2097902132682715547) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097902132682715547)
+- **4×4 combat sprite → 干净 GIF** — 在 AIReel 上用 Image 2.5 把精灵表直接变成可播 GIF，prompt 在帖里。游戏素材流水线可参考。 [@AIReelofficial](https://x.com/AIReelofficial) · [原帖](https://x.com/AIReelofficial/status/2097902132682715547) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097902132682715547)
 
-- **4×4像素战斗图→GIF** — 上传角色图生成 16 帧 Sprite Sheet，拆格播放就成像素 GIF。攻击/跳跃/翻滚全包，小游戏预告与表情包一锅端。 [@derek_wall90176](https://x.com/derek_wall90176) · [原帖](https://x.com/derek_wall90176/status/2097863751471157498) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097863751471157498)
+- **4×4像素战斗图→GIF** — 上传角色图生成 16 帧 Sprite Sheet，拆格播放就成像素 GIF。攻击/跳跃/翻滚全包，小游戏预告与表情包一锅端。 [@derek_wall90176](https://x.com/derek_wall90176) · [原帖](https://x.com/derek_wall90176/status/2097863751471157498) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097863751471157498&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13924,26 +13952,28 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
   </details>
 
-- **任意角色→4×4战斗像素精灵表** — 角色参考压成 combat sprite sheet（测了炭治郎），prompt 在 thread；游戏素材 / meme 模板一键量产。 [@andytng28](https://x.com/andytng28) · [原帖](https://x.com/andytng28/status/2097701567042609236) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097701567042609236)
+- **任意角色→4×4战斗像素精灵表** — 角色参考压成 combat sprite sheet（测了炭治郎），prompt 在 thread；游戏素材 / meme 模板一键量产。 [@andytng28](https://x.com/andytng28) · [原帖](https://x.com/andytng28/status/2097701567042609236) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097701567042609236)
 
-- **定格动画：一帧 12 姿态** — 单图塞满关键姿势，停格流程可抄。 [@Lucas_IA_](https://x.com/Lucas_IA_) · [原帖](https://x.com/Lucas_IA_/status/2097640115409469657) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097640115409469657)
+- **定格动画：一帧 12 姿态** — 单图塞满关键姿势，停格流程可抄。 [@Lucas_IA_](https://x.com/Lucas_IA_) · [原帖](https://x.com/Lucas_IA_/status/2097640115409469657) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097640115409469657)
 
-- **黑猫 vs 老鼠 Sprite 循环** — 循环动作帧，角色动画 demo。 [@Agonyframe](https://x.com/Agonyframe) · [原帖](https://x.com/Agonyframe/status/2097639113415631121) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097639113415631121)
+- **黑猫 vs 老鼠 Sprite 循环** — 循环动作帧，角色动画 demo。 [@Agonyframe](https://x.com/Agonyframe) · [原帖](https://x.com/Agonyframe/status/2097639113415631121) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097639113415631121)
 
-- **像素对战 GIF** — 像素战斗动画向，适合小游戏预告。 [@Re7_AI](https://x.com/Re7_AI) · [原帖](https://x.com/Re7_AI/status/2097595058757500947) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097595058757500947)
+- **像素对战 GIF** — 像素战斗动画向，适合小游戏预告。 [@Re7_AI](https://x.com/Re7_AI) · [原帖](https://x.com/Re7_AI/status/2097595058757500947) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097595058757500947)
 
-- **4×4 Sprite Sheet** — 一图导出精灵表，游戏原型直接用。 [@HitPawCreators](https://x.com/HitPawCreators) · [原帖](https://x.com/HitPawCreators/status/2097584582367527358) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097584582367527358)
+- **4×4 Sprite Sheet** — 一图导出精灵表，游戏原型直接用。 [@HitPawCreators](https://x.com/HitPawCreators) · [原帖](https://x.com/HitPawCreators/status/2097584582367527358) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097584582367527358)
 
-- **定格 vs Nano Banana** — 停格质感横向对比，选型参考。 [@ekcheungAI](https://x.com/ekcheungAI) · [原帖](https://x.com/ekcheungAI/status/2097565834931548309) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097565834931548309)
+- **定格 vs Nano Banana** — 停格质感横向对比，选型参考。 [@ekcheungAI](https://x.com/ekcheungAI) · [原帖](https://x.com/ekcheungAI/status/2097565834931548309) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097565834931548309)
 
 
 ## UX产品
 
+> 💡 本分类带提示词的条目可点「▶ 一键试用」直接在线生成；或打开 [GPT Image 2.5 在线生成器 →](https://gptimage2.asia/zh/generate?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=section-ux)
+
 产品 UI / UX 视觉与落地页 mock。
 
-- **Lovart×2.5：五屏UI一键成 App Store 套图** — 五张 Finpay 截图丢进 Lovart，Flare Max 写标题+3D 物件，还能 Export PSD / Seedance 竖视频。App Store 套图别再手拼，先抄这套落地流水线。 [@bluumik](https://x.com/bluumik) · [原帖](https://x.com/bluumik/status/2105300899660784030) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2105300899660784030)
+- **Lovart×2.5：五屏UI一键成 App Store 套图** — 五张 Finpay 截图丢进 Lovart，Flare Max 写标题+3D 物件，还能 Export PSD / Seedance 竖视频。App Store 套图别再手拼，先抄这套落地流水线。 [@bluumik](https://x.com/bluumik) · [原帖](https://x.com/bluumik/status/2105300899660784030) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2105300899660784030)
 
-- **gpt-image-bridge：Claude/Cursor→Codex→Image 2.5** — Claude Code 不会原生出图？经 Codex CLI 走 ChatGPT 订阅打 Image 2.5，免单独 API 按张费。把 repo 丢给 Agent 自装——写代码和出营销图焊同一会话。 [@jacobbranch_](https://x.com/jacobbranch_) · [原帖](https://x.com/jacobbranch_/status/2104773586930319383) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104773586930319383) · [GitHub·oakplank/gpt-image-bridge](https://github.com/oakplank/gpt-image-bridge)
+- **gpt-image-bridge：Claude/Cursor→Codex→Image 2.5** — Claude Code 不会原生出图？经 Codex CLI 走 ChatGPT 订阅打 Image 2.5，免单独 API 按张费。把 repo 丢给 Agent 自装——写代码和出营销图焊同一会话。 [@jacobbranch_](https://x.com/jacobbranch_) · [原帖](https://x.com/jacobbranch_/status/2104773586930319383) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104773586930319383&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [GitHub·oakplank/gpt-image-bridge](https://github.com/oakplank/gpt-image-bridge)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13958,7 +13988,7 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
   </details>
 
-- **Canva→Images 2.5→Codex：约10分钟万圣节LP草稿** — Canva 找参考 → Images 2.5 出 LP 视觉 → Codex 落实现。万圣节落地页约十分钟就能搓出配色/照片/装饰齐活的草稿——别指望直接交货，先把「形」砸出来再精修。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2104542332997812546) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2104542332997812546)
+- **Canva→Images 2.5→Codex：约10分钟万圣节LP草稿** — Canva 找参考 → Images 2.5 出 LP 视觉 → Codex 落实现。万圣节落地页约十分钟就能搓出配色/照片/装饰齐活的草稿——别指望直接交货，先把「形」砸出来再精修。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2104542332997812546) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104542332997812546&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13974,7 +14004,7 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
   </details>
 
-- **物体→时装：核心特征提取×时装设计重构公式** — 月饼礼盒、胶带、化肥袋、烟盒——只换主体，中间「核心特征提取 × 时装设计重构」固定，材质纹理色彩形态转成可穿时装摄影。电商/IP 联名服装概念别从零瞎画，先让物件长出剪裁语言。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103335668391031035) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103335668391031035)
+- **物体→时装：核心特征提取×时装设计重构公式** — 月饼礼盒、胶带、化肥袋、烟盒——只换主体，中间「核心特征提取 × 时装设计重构」固定，材质纹理色彩形态转成可穿时装摄影。电商/IP 联名服装概念别从零瞎画，先让物件长出剪裁语言。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103335668391031035) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103335668391031035&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -13989,7 +14019,7 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
   </details>
 
-- **自然形态→跨域工程重构：生物仿生槽位公式** — 荷花变高跟鞋、细胞壁变交通枢纽、海螺变耳机——固定中间「跨域工程设计重构」，只换两端槽。产品概念图别从零找灵感，先抄自然当结构母题。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103113405532127629) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2103113405532127629)
+- **自然形态→跨域工程重构：生物仿生槽位公式** — 荷花变高跟鞋、细胞壁变交通枢纽、海螺变耳机——固定中间「跨域工程设计重构」，只换两端槽。产品概念图别从零找灵感，先抄自然当结构母题。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103113405532127629) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2103113405532127629&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14008,9 +14038,9 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
   </details>
 
-- **对话史→复古 RPG 状态屏一句话玩法** — 「過去の会話履歴からスキルを分析して、レトロRPG風ステータス画面にして」——把工作/生活聊过的技能烤成ドラクエ风能力值。职场吐槽素材别只会做表情包，先让聊天记录变角色卡。 [@akatsuki_cs](https://x.com/akatsuki_cs) · [原帖](https://x.com/akatsuki_cs/status/2102897045958963549) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102897045958963549)
+- **对话史→复古 RPG 状态屏一句话玩法** — 「過去の会話履歴からスキルを分析して、レトロRPG風ステータス画面にして」——把工作/生活聊过的技能烤成ドラクエ风能力值。职场吐槽素材别只会做表情包，先让聊天记录变角色卡。 [@akatsuki_cs](https://x.com/akatsuki_cs) · [原帖](https://x.com/akatsuki_cs/status/2102897045958963549) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102897045958963549)
 
-- **恋爱纪念日相册：iOS Liquid Glass 截图配方** — iPhone 原生照片 App 全屏胶卷，每行 4 格混照片/短视频/实况；半透明控件透暖色环境光。假 UI 种草别只会磨皮棚拍——先做出不对外公开的亲密相册感。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102743607258087610) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102743607258087610)
+- **恋爱纪念日相册：iOS Liquid Glass 截图配方** — iPhone 原生照片 App 全屏胶卷，每行 4 格混照片/短视频/实况；半透明控件透暖色环境光。假 UI 种草别只会磨皮棚拍——先做出不对外公开的亲密相册感。 [@Mrpinecone888](https://x.com/Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102743607258087610) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102743607258087610&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14020,9 +14050,9 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
   </details>
 
-- **Codex + Image 2.5：角色替换 LoRA 数据集流水线** — Codex 调 imagegen 直接出场景、角色参考、再把人塞进画面——Character Swap LoRA 数据集开刷。一人团队训 LoRA：别手搓九宫格，让 agent 先把图堆齐。 [@akatz_ai](https://x.com/akatz_ai) · [原帖](https://x.com/akatz_ai/status/2102639049366495425) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102639049366495425)
+- **Codex + Image 2.5：角色替换 LoRA 数据集流水线** — Codex 调 imagegen 直接出场景、角色参考、再把人塞进画面——Character Swap LoRA 数据集开刷。一人团队训 LoRA：别手搓九宫格，让 agent 先把图堆齐。 [@akatz_ai](https://x.com/akatz_ai) · [原帖](https://x.com/akatz_ai/status/2102639049366495425) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102639049366495425)
 
-- **任意图→JSON 提示词：只改要改的部分** — 上传任意图，让它「转成含尺寸与细节的 JSON 提示词」，再局部改字段重出。可编辑配方，改图一次一事的标准操作。 [@wad0427](https://x.com/wad0427) · [原帖](https://x.com/wad0427/status/2102382659880296846) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102382659880296846)
+- **任意图→JSON 提示词：只改要改的部分** — 上传任意图，让它「转成含尺寸与细节的 JSON 提示词」，再局部改字段重出。可编辑配方，改图一次一事的标准操作。 [@wad0427](https://x.com/wad0427) · [原帖](https://x.com/wad0427/status/2102382659880296846) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102382659880296846&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14032,9 +14062,9 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
   </details>
 
-- **指定 px 直出：免 Canva/PS 再裁** — Images 2.5 按指定像素出图，比例与 px 一并守住。社媒/投放素材少一道二次裁切——尺寸写进指令就够。 [@kawai_design](https://x.com/kawai_design) · [原帖](https://x.com/kawai_design/status/2102328384424735036) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102328384424735036)
+- **指定 px 直出：免 Canva/PS 再裁** — Images 2.5 按指定像素出图，比例与 px 一并守住。社媒/投放素材少一道二次裁切——尺寸写进指令就够。 [@kawai_design](https://x.com/kawai_design) · [原帖](https://x.com/kawai_design/status/2102328384424735036) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102328384424735036)
 
-- **直出可读 QR：须写「按规格生成」** — 不经程序也能出可扫 QR；关键一句「QRコードの規格に沿って」。海报/落地页二维码别只写「做个二维码」——不写规格常出废码。 [@hideki_climax](https://x.com/hideki_climax) · [原帖](https://x.com/hideki_climax/status/2102319962757148910) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102319962757148910)
+- **直出可读 QR：须写「按规格生成」** — 不经程序也能出可扫 QR；关键一句「QRコードの規格に沿って」。海报/落地页二维码别只写「做个二维码」——不写规格常出废码。 [@hideki_climax](https://x.com/hideki_climax) · [原帖](https://x.com/hideki_climax/status/2102319962757148910) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102319962757148910&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14045,9 +14075,9 @@ This is a sticker slideshow, not a continuous character-motion animation.
 
   </details>
 
-- **GPT 出横幅 → Canva 动画：五分钟静转动** — Images 2.5 出横幅 → GPT 写动画指令 → Canva 直接做成动效。别停在静图——社媒投放素材从静到动的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2102231420387086632) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102231420387086632)
+- **GPT 出横幅 → Canva 动画：五分钟静转动** — Images 2.5 出横幅 → GPT 写动画指令 → Canva 直接做成动效。别停在静图——社媒投放素材从静到动的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2102231420387086632) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2102231420387086632)
 
-- **先 Image 2.5 出站视觉 mock，再让 Codex 写站** — 别先甩代码：把受众/文案/品牌色/参考图丢给 Codex，明确「先出 imagegen 网页 mock 再写前端」。审完布局与 CTA 再落实现、对照截图修差分——Images 2→2.5 一路变稳的一人队建站法。 [@shannholmberg](https://x.com/shannholmberg) · [原帖](https://x.com/shannholmberg/status/2102163474709389562) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2102163474709389562)
+- **先 Image 2.5 出站视觉 mock，再让 Codex 写站** — 别先甩代码：把受众/文案/品牌色/参考图丢给 Codex，明确「先出 imagegen 网页 mock 再写前端」。审完布局与 CTA 再落实现、对照截图修差分——Images 2→2.5 一路变稳的一人队建站法。 [@shannholmberg](https://x.com/shannholmberg) · [原帖](https://x.com/shannholmberg/status/2102163474709389562) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2102163474709389562&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14065,11 +14095,11 @@ flag anything that needs a design decision before changing it
 
   </details>
 
-- **Image 2.5 出 logo → Astra SVG 到指南/Banner** — 先用 GPT Image 2.5 出 logo，再丢 Astra 转 SVG，精度够用后一套做指南、Banner、站点替换。品牌视觉从栅格到矢量的最短链路。 [@gaku_oregin](https://x.com/gaku_oregin) · [原帖](https://x.com/gaku_oregin/status/2100913069270687991) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100913069270687991)
+- **Image 2.5 出 logo → Astra SVG 到指南/Banner** — 先用 GPT Image 2.5 出 logo，再丢 Astra 转 SVG，精度够用后一套做指南、Banner、站点替换。品牌视觉从栅格到矢量的最短链路。 [@gaku_oregin](https://x.com/gaku_oregin) · [原帖](https://x.com/gaku_oregin/status/2100913069270687991) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100913069270687991)
 
-- **Images 2.5 出设计 → Codex 直接搓 LP** — 别先开 Figma：ChatGPT Images 2.5 出整页视觉，原图丢给 Codex 转 HTML，只改刺眼处。落地页从「好看」到「能上线」的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2100881842513850425) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100881842513850425) · [prompt](https://x.com/revolvtech/status/2100872475185963027)
+- **Images 2.5 出设计 → Codex 直接搓 LP** — 别先开 Figma：ChatGPT Images 2.5 出整页视觉，原图丢给 Codex 转 HTML，只改刺眼处。落地页从「好看」到「能上线」的最短桥。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2100881842513850425) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100881842513850425) · [prompt](https://x.com/revolvtech/status/2100872475185963027)
 
-- **角色当壁纸：16:9 macOS 桌面构图完整公式** — 上传角色图 → 自适应配色壁纸 + 日文菜单栏/Dock/三图标，主体靠右留白。Image 2.5 静帧再接 Wan 动效；桌面壁纸/虚拟桌面素材一条龙。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2100854831837782439) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100854831837782439) · [prompt](https://x.com/Mayz1169/status/2100856797246500988)
+- **角色当壁纸：16:9 macOS 桌面构图完整公式** — 上传角色图 → 自适应配色壁纸 + 日文菜单栏/Dock/三图标，主体靠右留白。Image 2.5 静帧再接 Wan 动效；桌面壁纸/虚拟桌面素材一条龙。 [@Mayz1169](https://x.com/Mayz1169) · [原帖](https://x.com/Mayz1169/status/2100854831837782439) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100854831837782439&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [prompt](https://x.com/Mayz1169/status/2100856797246500988)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14111,9 +14141,9 @@ No physical laptop, monitor frame, open application windows, extra characters, d
 
   </details>
 
-- **Canva×Images 2.5×Codex：约十分钟夏祭落地页** — Canva 找参考 → Images 2.5 出 LP 视觉 → Codex 落 HTML。深蓝×花火大人味夏祭站，一人队做活动页现成三步链。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2100552230298652694) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100552230298652694)
+- **Canva×Images 2.5×Codex：约十分钟夏祭落地页** — Canva 找参考 → Images 2.5 出 LP 视觉 → Codex 落 HTML。深蓝×花火大人味夏祭站，一人队做活动页现成三步链。 [@revolvtech](https://x.com/revolvtech) · [原帖](https://x.com/revolvtech/status/2100552230298652694) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100552230298652694)
 
-- **先锁UI完成图再写代码：Image2.5→Claude Artifact** — 先用 Image 2.5 钉死 UI 方向，再让 Claude Code Artifact 出 3 案、人只改差分。实现/token 体感约 1/3，产品落地页与后台 mock 工作流值得抄。 [@hata_AI_master](https://x.com/hata_AI_master) · [原帖](https://x.com/hata_AI_master/status/2100536994598465775) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100536994598465775)
+- **先锁UI完成图再写代码：Image2.5→Claude Artifact** — 先用 Image 2.5 钉死 UI 方向，再让 Claude Code Artifact 出 3 案、人只改差分。实现/token 体感约 1/3，产品落地页与后台 mock 工作流值得抄。 [@hata_AI_master](https://x.com/hata_AI_master) · [原帖](https://x.com/hata_AI_master/status/2100536994598465775) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2100536994598465775&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14128,17 +14158,17 @@ Why: less token churn than coding UI from words alone; fewer misaligned redesign
 
   </details>
 
-- **Arrow 2 + Images 2.5：可编辑 SVG logo 全家桶** — logo / wordmark / banner 一次出，而且真是可编辑 SVG——不是位图假矢量。品牌视觉从「能看」到「能改」的演示。 [@ulrikberntzen](https://x.com/ulrikberntzen) · [原帖](https://x.com/ulrikberntzen/status/2100531608465903644) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100531608465903644)
+- **Arrow 2 + Images 2.5：可编辑 SVG logo 全家桶** — logo / wordmark / banner 一次出，而且真是可编辑 SVG——不是位图假矢量。品牌视觉从「能看」到「能改」的演示。 [@ulrikberntzen](https://x.com/ulrikberntzen) · [原帖](https://x.com/ulrikberntzen/status/2100531608465903644) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100531608465903644)
 
-- **Image 2.5 分层资产 → Astra 视差沉浸站** — 先用 2.5 出场景分层，再 Astra 做滚动视差/遮挡/转场。一人队做「走进画面」落地页的现成链路。 [@happycapyai](https://x.com/happycapyai) · [原帖](https://x.com/happycapyai/status/2100194873529991441) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100194873529991441)
+- **Image 2.5 分层资产 → Astra 视差沉浸站** — 先用 2.5 出场景分层，再 Astra 做滚动视差/遮挡/转场。一人队做「走进画面」落地页的现成链路。 [@happycapyai](https://x.com/happycapyai) · [原帖](https://x.com/happycapyai/status/2100194873529991441) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100194873529991441)
 
-- **一人团队 Agentic YouTube：Image 2.5 管视觉** — DaVinci/Remotion/Blender 管剪辑与动效，GPT Image 2.5 出视觉，agent 串调研到发布。超级个体制片栈。 [@SimonHoiberg](https://x.com/SimonHoiberg) · [原帖](https://x.com/SimonHoiberg/status/2100193439329452091) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100193439329452091)
+- **一人团队 Agentic YouTube：Image 2.5 管视觉** — DaVinci/Remotion/Blender 管剪辑与动效，GPT Image 2.5 出视觉，agent 串调研到发布。超级个体制片栈。 [@SimonHoiberg](https://x.com/SimonHoiberg) · [原帖](https://x.com/SimonHoiberg/status/2100193439329452091) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100193439329452091)
 
-- **Images 2.5 当选色轮毂：Astra 产品变体站** — 无 3D：coding agent + LTX 转场，用 Image 2.5 定车色与轮毂。一人队做产品变体页可偷师。 [@Sourav1533032](https://x.com/Sourav1533032) · [原帖](https://x.com/Sourav1533032/status/2100117185930924248) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2100117185930924248)
+- **Images 2.5 当选色轮毂：Astra 产品变体站** — 无 3D：coding agent + LTX 转场，用 Image 2.5 定车色与轮毂。一人队做产品变体页可偷师。 [@Sourav1533032](https://x.com/Sourav1533032) · [原帖](https://x.com/Sourav1533032/status/2100117185930924248) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2100117185930924248)
 
-- **Codex×DaVinci MCP：实拍帧局部改不劣化** — 平静实拍丢 DaVinci Resolve + Codex（Image 2.5）：消杯子、换椅子，比重生视频少糊。剪辑后期局部修的正经备胎。 [@IntLab0000](https://x.com/IntLab0000) · [原帖](https://x.com/IntLab0000/status/2099867092568977674) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099867092568977674)
+- **Codex×DaVinci MCP：实拍帧局部改不劣化** — 平静实拍丢 DaVinci Resolve + Codex（Image 2.5）：消杯子、换椅子，比重生视频少糊。剪辑后期局部修的正经备胎。 [@IntLab0000](https://x.com/IntLab0000) · [原帖](https://x.com/IntLab0000/status/2099867092568977674) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099867092568977674)
 
-- **iPad / MacBook 相册截图：角色×城市×系统 UI** — 继 iPhone 相册后，DeepBlue 把同一配方扩到 iPad Pro / iPadOS 假截图。产品 mock / 角色 UGC 换设备外壳就能出系列。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099693409950998899) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099693409950998899)
+- **iPad / MacBook 相册截图：角色×城市×系统 UI** — 继 iPhone 相册后，DeepBlue 把同一配方扩到 iPad Pro / iPadOS 假截图。产品 mock / 角色 UGC 换设备外壳就能出系列。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099693409950998899) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099693409950998899&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14148,9 +14178,9 @@ Why: less token churn than coding UI from words alone; fewer misaligned redesign
 
   </details>
 
-- **Codex Pets 语音小画室：Live 调 Flare 改画** — Astra 里 gpt-live-1 听指令，甩给 gpt-image-2.5-flare 改画（月亮变柠檬）。互动 demo / 语音改图灵感包。 [@gabrielchua](https://x.com/gabrielchua) · [原帖](https://x.com/gabrielchua/status/2099493015761129874) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099493015761129874)
+- **Codex Pets 语音小画室：Live 调 Flare 改画** — Astra 里 gpt-live-1 听指令，甩给 gpt-image-2.5-flare 改画（月亮变柠檬）。互动 demo / 语音改图灵感包。 [@gabrielchua](https://x.com/gabrielchua) · [原帖](https://x.com/gabrielchua/status/2099493015761129874) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2099493015761129874)
 
-- **一句话出 iPhone 相机胶卷界面** — 挂参考图+短 prompt，直接生成像真机 Photos 里刷了一天的相机卷。UGC 广告 / 产品 mock 超好用。 [@Kel_vinleven](https://x.com/Kel_vinleven) · [原帖](https://x.com/Kel_vinleven/status/2099419041672699933) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2099419041672699933)
+- **一句话出 iPhone 相机胶卷界面** — 挂参考图+短 prompt，直接生成像真机 Photos 里刷了一天的相机卷。UGC 广告 / 产品 mock 超好用。 [@Kel_vinleven](https://x.com/Kel_vinleven) · [原帖](https://x.com/Kel_vinleven/status/2099419041672699933) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2099419041672699933&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14160,19 +14190,19 @@ Turn one full day's worth of camera roll for the person in the reference image i
 
   </details>
 
-- **Sunburst 做 App Store 截图：质感碾压糊 UI 假图** — 一图说明 2.5 Sunburst 出应用商店展示图。独立开发者截图升级捷径，别再随便糊假界面。 [@calicastle](https://x.com/calicastle) · [原帖](https://x.com/calicastle/status/2098419053899698339) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098419053899698339)
+- **Sunburst 做 App Store 截图：质感碾压糊 UI 假图** — 一图说明 2.5 Sunburst 出应用商店展示图。独立开发者截图升级捷径，别再随便糊假界面。 [@calicastle](https://x.com/calicastle) · [原帖](https://x.com/calicastle/status/2098419053899698339) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098419053899698339)
 
-- **标注圈选改图：annotations × Images 2.5** — 圈一下就改局部，产品图/广告迭代的 UI 范式。作者预告即将开源——一人团队做精修工具可先抄交互。 [@SaihholdZhao](https://x.com/SaihholdZhao) · [原帖](https://x.com/SaihholdZhao/status/2098347672923251128) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098347672923251128)
+- **标注圈选改图：annotations × Images 2.5** — 圈一下就改局部，产品图/广告迭代的 UI 范式。作者预告即将开源——一人团队做精修工具可先抄交互。 [@SaihholdZhao](https://x.com/SaihholdZhao) · [原帖](https://x.com/SaihholdZhao/status/2098347672923251128) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098347672923251128)
 
-- **选 Flare/Sunburst 到精准改图：中文操作手册** — 从选型到局部编辑一整套中文长文，一人团队当日可用的操作底稿，比刷样张管用。 [@Smartpigai](https://x.com/Smartpigai) · [原帖](https://x.com/Smartpigai/status/2098002213193011481) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2098002213193011481)
+- **选 Flare/Sunburst 到精准改图：中文操作手册** — 从选型到局部编辑一整套中文长文，一人团队当日可用的操作底稿，比刷样张管用。 [@Smartpigai](https://x.com/Smartpigai) · [原帖](https://x.com/Smartpigai/status/2098002213193011481) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2098002213193011481)
 
-- **小互：2.5 提示词与图像编辑完全指南** — 局部编辑、多图合成、角色一致性、工程交付一条龙；海报/漫画/UI 都覆盖。比刷十个「惊艳样张」管用。 [@xiaohu](https://x.com/xiaohu) · [原帖](https://x.com/xiaohu/status/2097943386145866108) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097943386145866108)
+- **小互：2.5 提示词与图像编辑完全指南** — 局部编辑、多图合成、角色一致性、工程交付一条龙；海报/漫画/UI 都覆盖。比刷十个「惊艳样张」管用。 [@xiaohu](https://x.com/xiaohu) · [原帖](https://x.com/xiaohu/status/2097943386145866108) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097943386145866108)
 
-- **《玩转 ChatGPT Image 2.5》中文长文** — 新功能和新玩法收成一篇，适合当内容底稿或转发二次创作。 [@Re7_AI](https://x.com/Re7_AI) · [原帖](https://x.com/Re7_AI/status/2097888443770782019) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097888443770782019)
+- **《玩转 ChatGPT Image 2.5》中文长文** — 新功能和新玩法收成一篇，适合当内容底稿或转发二次创作。 [@Re7_AI](https://x.com/Re7_AI) · [原帖](https://x.com/Re7_AI/status/2097888443770782019) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097888443770782019)
 
-- **设计系统 → Astra 上线流水线** — Images 2.5 出设计系统 + PC/手机 UI，再丢给 Codex（GPT-6 Astra）按色值与行为规格实现。一人公司做站的正经配方。 [@shota7180](https://x.com/shota7180) · [原帖](https://x.com/shota7180/status/2097882934699278547) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097882934699278547)
+- **设计系统 → Astra 上线流水线** — Images 2.5 出设计系统 + PC/手机 UI，再丢给 Codex（GPT-6 Astra）按色值与行为规格实现。一人公司做站的正经配方。 [@shota7180](https://x.com/shota7180) · [原帖](https://x.com/shota7180/status/2097882934699278547) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097882934699278547)
 
-- **蒙德里安杂物柜** — 把《红、蓝、黄的构成》拉成桌面收纳柜：色块=抽屉、分割线=柜体。耳机橡皮各归其格，产品展示图三栏可抄。 [@cellinlab](https://x.com/cellinlab) · [原帖](https://x.com/cellinlab/status/2097875217100296362) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097875217100296362)
+- **蒙德里安杂物柜** — 把《红、蓝、黄的构成》拉成桌面收纳柜：色块=抽屉、分割线=柜体。耳机橡皮各归其格，产品展示图三栏可抄。 [@cellinlab](https://x.com/cellinlab) · [原帖](https://x.com/cellinlab/status/2097875217100296362) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097875217100296362&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14182,7 +14212,7 @@ Turn one full day's worth of camera roll for the person in the reference image i
 
   </details>
 
-- **蒙娜丽莎眼镜架** — 古典胸像 × 现代黑框眼镜的桌面产品：鼻托镜腿落点要对死。文创周边/落地页 mock 反差感拉满。 [@cellinlab](https://x.com/cellinlab) · [原帖](https://x.com/cellinlab/status/2097871439072543175) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097871439072543175)
+- **蒙娜丽莎眼镜架** — 古典胸像 × 现代黑框眼镜的桌面产品：鼻托镜腿落点要对死。文创周边/落地页 mock 反差感拉满。 [@cellinlab](https://x.com/cellinlab) · [原帖](https://x.com/cellinlab/status/2097871439072543175) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2097871439072543175&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
 
@@ -14192,9 +14222,9 @@ Turn one full day's worth of camera roll for the person in the reference image i
 
   </details>
 
-- **把收尾提示词命名成自定义指令** — 抑制噪点/收尾套路存成名字，下次只加名字。 [@sktGT1016](https://x.com/sktGT1016) · [原帖](https://x.com/sktGT1016/status/2097656459584831885) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097656459584831885)
+- **把收尾提示词命名成自定义指令** — 抑制噪点/收尾套路存成名字，下次只加名字。 [@sktGT1016](https://x.com/sktGT1016) · [原帖](https://x.com/sktGT1016/status/2097656459584831885) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097656459584831885)
 
-- **Flare 等待游戏 UX** — 生成等待时的交互彩蛋，产品体验向笔记。 [@EchoraContinuum](https://x.com/EchoraContinuum) · [原帖](https://x.com/EchoraContinuum/status/2097625779509379502) · [在线试用](https://gptimage2.asia/gpt-image-2-5-prompts#case-2097625779509379502)
+- **Flare 等待游戏 UX** — 生成等待时的交互彩蛋，产品体验向笔记。 [@EchoraContinuum](https://x.com/EchoraContinuum) · [原帖](https://x.com/EchoraContinuum/status/2097625779509379502) · [在线试用](https://gptimage2.asia/zh/gpt-image-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case#case-2097625779509379502)
 
 ## 收录说明
 
@@ -14209,6 +14239,7 @@ Turn one full day's worth of camera roll for the person in the reference image i
 
 - 本站 Pages：https://xianyu110.github.io/awesome-gpt-image2.5/
 - 国内指南：https://xianyu110.github.io/gptimage2.5/
+- 在线生成 GPT Image 2.5（免 API Key）：[gptimage2.asia](https://gptimage2.asia/zh?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=related)
 - Awesome GPT-6 Astra：https://xianyu110.github.io/awesome-gpt-6-astra/
 - OpenAI Images 2.5：https://openai.com/index/introducing-chatgpt-images-2-5/
 
