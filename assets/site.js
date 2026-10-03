@@ -71,6 +71,10 @@
     <pre class="card-prompt-preview">${escapeHtml(truncatePrompt(item.prompt, 160))}</pre>
   </div>`
       : "";
+    const tryHref = window.TryOnline
+      ? window.TryOnline.tryUrl("/generate", "card", { case: item.id })
+      : `https://gptimage2.asia/generate?case=${encodeURIComponent(item.id)}&utm_source=github&utm_medium=pages&utm_campaign=awesome-gpt-image25&utm_content=card`;
+    const tryBtn = `<a class="cta-try" href="${escapeAttr(tryHref)}" target="_blank" rel="noopener"${hasPrompt ? ` data-try-copy="${escapeAttr(item.id)}"` : ""} title="${hasPrompt ? "在 gptimage2.asia 打开并自动带入提示词" : "在 gptimage2.asia 在线生成"}">在线试用 →</a>`;
     const promptBtn = hasPrompt
       ? `<button type="button" class="cta-prompt" data-copy-prompt="${escapeAttr(item.id)}" title="复制提示词">复制提示词</button>`
       : "";
@@ -93,6 +97,7 @@
       <div class="card-actions">
         <button type="button" class="icon-btn" data-copy="${escapeAttr(item.url)}" title="复制链接" aria-label="复制链接">⧉</button>
         ${promptBtn}
+        ${tryBtn}
         <a class="cta-link" href="${escapeAttr(item.url)}" target="_blank" rel="noopener noreferrer">查看原帖 ↗</a>
       </div>
     </div>
@@ -145,6 +150,16 @@
         } catch {
           showToast("复制失败，请手动复制");
         }
+      });
+    });
+    grid.querySelectorAll("[data-try-copy]").forEach((a) => {
+      a.addEventListener("click", () => {
+        const item = cases.find((c) => c.id === a.getAttribute("data-try-copy"));
+        if (!item || !item.prompt || !navigator.clipboard) return;
+        navigator.clipboard.writeText(String(item.prompt)).then(
+          () => showToast("已复制提示词，正在打开在线生成器"),
+          () => {}
+        );
       });
     });
     lazyLoadPreviews();

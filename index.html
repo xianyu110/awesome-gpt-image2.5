@@ -57,6 +57,14 @@
   <div class="bg-glow bg-glow--a" aria-hidden="true"></div>
   <div class="bg-glow bg-glow--b" aria-hidden="true"></div>
 
+  <div class="sticky-top">
+  <div class="promo-bar" id="promo-bar">
+    <div class="wrap promo-inner">
+      <span class="promo-text">🚀 GPT Image 2.5 在线生成 — 免 API Key，免费试用<small>Flare 默认 · Sunburst 高精度</small></span>
+      <a class="promo-link" data-try="topbar" data-try-path="/free-gpt-image-2-5" href="https://gptimage2.asia/free-gpt-image-2-5?utm_source=github&amp;utm_medium=pages&amp;utm_campaign=awesome-gpt-image25&amp;utm_content=topbar" target="_blank" rel="noopener">立即试用 →</a>
+      <button type="button" class="promo-close" id="promo-close" aria-label="关闭">×</button>
+    </div>
+  </div>
   <header class="nav">
     <div class="wrap nav-inner">
       <a class="brand" href="./">
@@ -74,6 +82,7 @@
       <a class="nav-cta" href="https://github.com/xianyu110/awesome-gpt-image2.5" target="_blank" rel="noopener noreferrer">Star 仓库</a>
     </div>
   </header>
+  </div>
 
   <main>
     <section class="hero">
@@ -85,11 +94,13 @@
             精选 ChatGPT Images 2.5（Flare · Sunburst）公开玩法：选型评测、Sketch、海报排版、人像角色、电商改图、场景视觉、像素动效与 UX 产品——每条附 X 原帖，偏一人团队与营销素材。
           </p>
           <div class="hero-actions">
-            <a class="btn btn-primary" href="#gallery">浏览案例 →</a>
+            <a class="btn btn-primary" data-try="hero" data-try-path="/" href="https://gptimage2.asia/?utm_source=github&amp;utm_medium=pages&amp;utm_campaign=awesome-gpt-image25&amp;utm_content=hero" target="_blank" rel="noopener">🚀 在线试用 GPT Image 2.5</a>
+            <a class="btn btn-ghost" href="#gallery">浏览案例 →</a>
             <a class="btn btn-ghost" href="./skills.html">工作流 Skill</a>
             <a class="btn btn-ghost" href="https://github.com/xianyu110/awesome-gpt-image2.5#readme" target="_blank" rel="noopener noreferrer">GitHub README</a>
             <a class="btn btn-magenta" href="https://xianyu110.github.io/gptimage2.5/" target="_blank" rel="noopener noreferrer">Images 2.5 国内指南</a>
           </div>
+          <p class="hero-try-note">无需 API Key · Flare 默认出图，Sunburst 高精度终稿 · 带提示词的卡片点「在线试用」自动填入</p>
           <div class="stats" aria-label="统计">
             <div class="stat"><span id="stat-cases">—</span> 案例</div>
             <div class="stat"><span>8</span> 分类</div>
@@ -132,6 +143,19 @@
 
       <div class="grid" id="grid" aria-live="polite"></div>
     </section>
+
+    <section class="wrap">
+      <div class="cta-band">
+        <div>
+          <h2>看完想自己跑一张？</h2>
+          <p>在线版 GPT Image 2.5：Flare 默认快速出图，Sunburst 高精度终稿；免 API Key，可免费试用。</p>
+        </div>
+        <div class="cta-band-actions">
+          <a class="btn btn-primary" data-try="footer" data-try-path="/free-gpt-image-2-5" href="https://gptimage2.asia/free-gpt-image-2-5?utm_source=github&amp;utm_medium=pages&amp;utm_campaign=awesome-gpt-image25&amp;utm_content=footer" target="_blank" rel="noopener">免费试用 →</a>
+          <a class="btn btn-ghost" data-try="footer-prompts" data-try-path="/gpt-image-2-5-prompts" href="https://gptimage2.asia/gpt-image-2-5-prompts?utm_source=github&amp;utm_medium=pages&amp;utm_campaign=awesome-gpt-image25&amp;utm_content=footer-prompts" target="_blank" rel="noopener">在线提示词库</a>
+        </div>
+      </div>
+    </section>
   </main>
 
   <footer class="footer">
@@ -146,11 +170,13 @@
         <a href="https://github.com/xianyu110/gptimage2.5">Images 2.5 国内指南</a>
         <a href="https://xianyu110.github.io/gptimage2.5/">指南 Pages</a>
         <a href="https://github.com/xianyu110/awesome-gpt-image2.5">GitHub 仓库</a>
+        <a data-try="footer-link" data-try-path="/" href="https://gptimage2.asia/?utm_source=github&amp;utm_medium=pages&amp;utm_campaign=awesome-gpt-image25&amp;utm_content=footer-link" target="_blank" rel="noopener">GPT Image 2.5 在线生成</a>
       </div>
     </div>
   </footer>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="./assets/try.js" defer></script>
   <script src="./assets/site.js" defer></script>
 </body>
 </html>

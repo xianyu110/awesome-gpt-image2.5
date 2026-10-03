@@ -97,6 +97,14 @@
 </head>
 <body>
   <div class="bg-grid" aria-hidden="true"></div>
+  <div class="sticky-top">
+  <div class="promo-bar" id="promo-bar">
+    <div class="wrap promo-inner">
+      <span class="promo-text">🚀 GPT Image 2.5 在线生成 — 免 API Key，免费试用<small>Flare 默认 · Sunburst 高精度</small></span>
+      <a class="promo-link" data-try="topbar-skills" data-try-path="/free-gpt-image-2-5" href="https://gptimage2.asia/free-gpt-image-2-5?utm_source=github&amp;utm_medium=pages&amp;utm_campaign=awesome-gpt-image25&amp;utm_content=topbar-skills" target="_blank" rel="noopener">立即试用 →</a>
+      <button type="button" class="promo-close" id="promo-close" aria-label="关闭">×</button>
+    </div>
+  </div>
   <header class="nav">
     <div class="wrap nav-inner">
       <a class="brand" href="./"><span class="brand-mark" aria-hidden="true">✦</span> GPT Image 2.5 Gallery</a>
@@ -109,6 +117,7 @@
       </nav>
     </div>
   </header>
+  </div>
   <main class="wrap" style="padding-top:28px;padding-bottom:80px;">
     <div class="eyebrow"><span aria-hidden="true">✦</span> 可复用工作流</div>
     <h1 style="margin-top:8px;">七套 Images 2.5 Skill</h1>
@@ -128,7 +137,8 @@
     <div class="auto-sync"><strong>自动入库：</strong>工作日 10:10 / 14:10 / 18:10 / 21:10 会把小时 digest 里的高信号玩法合并进仓库（有新才推）。小时聊天推送 ≠ 自动入库。</div>
     <div class="skills-grid" id="skills"></div>
   </main>
-  <footer class="footer"><div class="wrap footer-inner"><div class="footer-brand"><strong>MaynorAI</strong> · Awesome GPT Image 2.5</div><div><a href="./">← 返回画廊</a></div></div></footer>
+  <footer class="footer"><div class="wrap footer-inner"><div class="footer-brand"><strong>MaynorAI</strong> · Awesome GPT Image 2.5</div><div><a href="./">← 返回画廊</a> · <a data-try="footer-skills" data-try-path="/" href="https://gptimage2.asia/?utm_source=github&amp;utm_medium=pages&amp;utm_campaign=awesome-gpt-image25&amp;utm_content=footer-skills" target="_blank" rel="noopener">GPT Image 2.5 在线生成</a></div></div></footer>
+<script src="./assets/try.js" defer></script>
 <script>
   (async () => {
     const root = document.getElementById('skills');

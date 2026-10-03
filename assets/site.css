@@ -635,3 +635,45 @@ img { max-width: 100%; display: block; }
 }
 .cta-prompt:hover { filter: brightness(1.12); }
 .card-actions { flex-wrap: wrap; justify-content: flex-end; }
+
+/* —— Try online (gptimage2.asia) CTAs —— */
+.sticky-top { position: sticky; top: 0; z-index: 45; }
+.sticky-top .nav { position: static; }
+.promo-bar {
+  background: linear-gradient(90deg, rgba(52, 211, 153, 0.16), rgba(34, 211, 238, 0.14), rgba(232, 121, 249, 0.14));
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(14px);
+  font-size: 0.86rem;
+}
+.promo-bar[hidden] { display: none; }
+.promo-inner { display: flex; align-items: center; justify-content: center; gap: 0.75rem; padding: 0.45rem 0; position: relative; }
+.promo-text { color: var(--text); }
+.promo-text small { color: var(--muted); margin-left: 0.35rem; }
+.promo-link {
+  display: inline-flex; align-items: center; padding: 0.22rem 0.75rem;
+  border-radius: var(--radius-pill); background: var(--grad-cta);
+  color: #052e16 !important; font-weight: 700; text-decoration: none !important; white-space: nowrap;
+}
+.promo-link:hover { filter: brightness(1.06); }
+.promo-close {
+  position: absolute; right: 0; appearance: none; border: 0; background: transparent;
+  color: var(--muted); cursor: pointer; font-size: 1rem; padding: 0.2rem 0.4rem;
+}
+.promo-close:hover { color: var(--text); }
+@media (max-width: 720px) { .promo-text small { display: none; } .promo-inner { justify-content: flex-start; padding-right: 1.6rem; } }
+.hero-try-note { margin: 0.6rem 0 0; color: var(--muted); font-size: 0.82rem; }
+.cta-try {
+  display: inline-flex; align-items: center; gap: 0.25rem; padding: 0.35rem 0.7rem;
+  border-radius: var(--radius-pill); background: var(--grad-cta);
+  color: #052e16 !important; font-size: 0.78rem; font-weight: 700; text-decoration: none !important;
+}
+.cta-try:hover { filter: brightness(1.06); }
+.cta-band {
+  margin-top: 3rem; padding: 1.6rem 1.5rem; border-radius: var(--radius);
+  border: 1px solid rgba(74, 222, 128, 0.3);
+  background: linear-gradient(135deg, rgba(52, 211, 153, 0.1), rgba(34, 211, 238, 0.08));
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem;
+}
+.cta-band h2 { margin: 0 0 0.3rem; font-size: 1.25rem; }
+.cta-band p { margin: 0; color: var(--muted); font-size: 0.9rem; }
+.cta-band-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
