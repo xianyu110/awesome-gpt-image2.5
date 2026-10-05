@@ -8,7 +8,7 @@
 
 > ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst）社区好玩用法精选。每条附原帖；偏一人团队、营销素材、可抄工作流。
 
-维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-10-02 · **收录 737 条**
+维护：MaynorAI / [@xianyu110](https://github.com/xianyu110) · 整理日期：2026-10-05 · **收录 742 条**
 
 配套：[Images 2.5 国内指南](https://github.com/xianyu110/gptimage2.5)（[Pages](https://xianyu110.github.io/gptimage2.5/)）· 姊妹清单 [awesome-gpt-6-astra](https://github.com/xianyu110/awesome-gpt-6-astra)
 
@@ -1291,6 +1291,7 @@ C区域代表【背景建筑或环境】
 
 海报、字体压力、竖版构图与奢侈品 / SMM 排版系统。
 
+- **古代穿衣步骤：【朝代】×穿着层次×结构展开信息图** — 【朝代】一换，从贴身衣物到层层外衣的穿着顺序、裁片结构、材质说明，一张 9:16 竖版讲清。服饰复原 / 国风科普 / 小红书知识卡，一个模板批量出整套系列。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2106765651952140743)
 - **东方海报同一主题四风格：彩墨巨字/黑底解构/水墨拼贴/现代展陈** — 主题焊死只换构图版式与视觉系统，气质立刻四套——青绿山水×超尺度书法、东方器物×几何巨字、古画碎片×自由书法、网格系统×图像切片。展览/品牌系列 KV 别只会换题材，先抄「一题四貌」槽位。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105968262404010131) · [prompt](https://x.com/MrLarus/status/2105968950412554251)
 - **强主体+野字破框动势：乘风/震势/破风/断墨** — 纸鸢破框、大鼓冲击、折扇放射、长刃斜切——动势线写死，画面一下就「动」起来。工艺/展览海报要张力，先抄这套破框四槽。 [@MrLarus](https://x.com/MrLarus) · [原帖](https://x.com/MrLarus/status/2105311560063140159) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105311560063140159&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [prompt](https://x.com/MrLarus/status/2105311813336183064)
   <details>
@@ -5915,6 +5916,8 @@ Base prompt: Square 1:1 Art Deco poster illustration, elegant gold and deep navy
 
 人像一致性、穿搭、UGC 写真与角色锁脸。
 
+- **角色锁定先做「人物设计图」：参考表一键复刻** — 别每次死磕 prompt：先出一张正 / 侧 / 背全身 + 五官 + 头身比 + 发型发色 + 表情 + 服饰小物 + 肤质年龄的设定表；把作者的模板图当参考图 2，一句「用图 1 的角色做成图 2 这样的设定表」就行。虚拟 IP / AI 模特要反复出镜，锁脸先锁这张。 [@1banana2546](https://x.com/1banana2546) · [原帖](https://x.com/1banana2546/status/2106866959300092369)
+- **氛围修图公式：动作 + 拍法 + 位置 + 灯光 + 滤镜** — 氛围图发灰不一定是底图烂，多半是提示词没说清：回眸一笑 + 特写 + 肩颈以上 + 左上侧光 + 全画面柔雾，再垫一层「干净高清 / 禁止颗粒噪点压缩痕迹」正负底词。人像氛围改图直接套这五槽。 [@sereinworld](https://x.com/sereinworld) · [原帖](https://x.com/sereinworld/status/2106769814371057765)
 - **无参考姿势图×16宫格 Editorial：【XXX】主体槽** — 不喂姿势参考也能榨出 4×4 十六种身体结构差异；【XXX】换主体，背景藏跨格侧脸轮廓。角色设定表/姿势一致性验收，直接抄评论区通用模板。 [@DeepBlueX0](https://x.com/DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2105558855522676883) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105558855522676883&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [通用 Prompt 模板](https://x.com/DeepBlueX0/status/2105563464903356751)
 - **拍立得立体贴纸 + Copic 乱涂：上传照片一秒平成风** — 上传真人照片→4:5 拍立得框 + Copic/荧光笔乱涂 + 树脂立体动物/气泡贴纸。UGC 回忆杀别只加滤镜，先把「手账本乱涂」焊进 prompt。 [@kabumira862571](https://x.com/kabumira862571) · [原帖](https://x.com/kabumira862571/status/2105116111515865191) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2105116111515865191&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [线程·ChatGPT share prompt](https://x.com/kabumira862571/status/2105116119241744424) · [ChatGPT share](https://chatgpt.com/s/p_6abc6c2200648191bf5b411416c80568)
   <details>
@@ -10895,6 +10898,7 @@ High-fidelity photographic beauty portrait. Smooth luminous skin with extremely 
 
 商品图、局部编辑、包装与货架感。
 
+- **Geometry Leak：让产品几何「漏」进环境** — 只挑产品一条标志性曲线 / 凹槽 / 轮廓 / 节奏，让周围场景悄悄继承它——产品没放大，整张图却都在替它打广告。品牌 KV、新品海报想要「高级不喊」，先抄这个概念槽，完整 prompt 在原帖评论区。 [@aziz4ai](https://x.com/aziz4ai) · [原帖](https://x.com/aziz4ai/status/2106384235443687889)
 - **写实食物/产品×手绘故事书：无缝混合 editorial** — Shorelyn 把法式吐司和巧克力包装「流」进手绘小人国——上半写实产品、下半插画世界，完整英文 prompt 可复用。餐饮/快消故事广告别只会摆静物，先让主体往下长出叙事。 [@Shorelyn_](https://x.com/Shorelyn_) · [原帖](https://x.com/Shorelyn_/status/2104421880363118667) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104421880363118667&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case)
   <details>
   <summary>查看 / 复制提示词</summary>
@@ -13329,6 +13333,7 @@ Prompt: A vertical 9:16 botanical paper artwork on textured charcoal ground show
 
 像素、精灵表与动效向玩法。
 
+- **32px 真·像素画：GPT 出图 → 格子重建** — 喂一张样例点阵统一像素尺寸，让模型画淡网格、死守「一格一点」，最后过一遍歪格估计工具重建成真 32px 点阵。游戏素材 / 表情包要 pixel-perfect 而不是「像素风」，这条流程值得抄。 [@hanagasa_ai](https://x.com/hanagasa_ai) · [原帖](https://x.com/hanagasa_ai/status/2106776633223049459)
 - **针毡柴犬咖啡师：4×4精灵表→GIF完整流水线** — Skye 先用 Image 2.5 出角色场景，再上传生成锁机位 4×4 拉花序列表，最后丢 Astra/Pillow 拼循环 GIF——帧序、时长、连续性全写死。虚拟 IP 动效别只会单帧卖萌，先抄这套「出图→精灵表→动效」。 [@skyevale_](https://x.com/skyevale_) · [原帖](https://x.com/skyevale_/status/2104471660216902104) · [▶ 一键试用](https://gptimage2.asia/zh/generate?case=2104471660216902104&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image25&utm_content=case) · [精灵表教程参考](https://x.com/NFT_Chen/status/2097882646198235424)
   <details>
   <summary>查看 / 复制提示词</summary>
